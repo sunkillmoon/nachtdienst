@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NACHTDIENST — Amsterdam, Tonight</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:       #0A0A0A;
+    --surface:  #111111;
+    --line:     #2A2A2A;
+    --text:     #EDEDED;
+    --text-dim: #8A8A8A;
+    --accent:   #B4FF00;
+    --danger:   #FF3B30;
+    --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+    --font-mono: "Space Mono", "JetBrains Mono", ui-monospace, monospace;
+  }
+
+  *{ box-sizing:border-box; margin:0; padding:0; border-radius:0 !important; }
+
+  html,body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--font-mono);
+    -webkit-font-smoothing:antialiased;
+  }
+
+  body{ min-height:100vh; overflow-x:hidden; }
+
+  a{ color:var(--accent); text-decoration:underline; text-underline-offset:2px; }
+  a:hover{ text-decoration:none; }
+
+  button{
+    font-family:var(--font-mono);
+    background:var(--surface);
+    color:var(--text);
+    border:1px solid var(--line);
+    cursor:pointer;
+    min-height:44px;
+  }
+
+  :focus-visible{ outline:1px solid var(--accent); outline-offset:2px; }
+
+  .wrap{ max-width:960px; margin:0 auto; padding-bottom:2rem; }
+
+  /* ---------- header ---------- */
+  header{
+    display:flex; align-items:baseline; justify-content:space-between;
+    padding:14px 16px 10px;
+    border-bottom:1px solid var(--line);
+  }
+  .brand{
+    font-family:var(--font-display);
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:-0.02em;
+    font-size:20px;
+  }
+  .brand .brand-dot{ color:var(--accent); }
+  .meta{
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    text-align:right;
+  }
+  .meta .dot{
+    display:inline-block; width:6px; height:6px;
+    background:var(--accent); margin-right:6px;
+    vertical-align:middle;
+  }
+
+  /* ---------- ticker ---------- */
+  .ticker{
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+    background:var(--surface);
+  }
+  .ticker-track{
+    display:inline-flex;
+    padding:8px 0;
+    animation:scroll-left 32s linear infinite;
+    font-size:12px;
+    letter-spacing:0.02em;
+  }
+  .ticker-track span.item{ padding:0 14px; color:var(--text); }
+  .ticker-track span.item .v{ color:var(--accent); }
+  .ticker-track span.sep{ color:var(--text-dim); }
+
+  @keyframes scroll-left{
+    from{ transform:translateX(0); }
+    to{ transform:translateX(-50%); }
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .ticker-track{ animation:none; }
+    .ticker{ overflow-x:auto; }
+  }
+
+  /* ---------- filter ---------- */
+  .filter{
+    display:flex; gap:0;
+    border-bottom:1px solid var(--line);
+  }
+  .filter-btn{
+    flex:1;
+    border:none;
+    border-right:1px solid var(--line);
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    background:var(--bg);
+  }
+  .filter-btn:last-child{ border-right:none; }
+  .filter-btn.active{
+    color:var(--bg);
+    background:var(--accent);
+    font-weight:700;
+  }
+  .filter-btn:disabled{ cursor:not-allowed; opacity:0.5; }
+
+  /* ---------- list ---------- */
+  .list-head{
+    display:none;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    padding:8px 16px;
+    border-bottom:1px solid var(--line);
+  }
+
+  .row{
+    display:block;
+    width:100%;
+    text-align:left;
+    background:var(--surface);
+    border:none;
+    border-bottom:1px solid var(--line);
+    color:var(--text);
+    padding:10px 16px;
+    min-height:44px;
+  }
+  .row:hover{ background:#161616; }
+  .row:active{ background:#1a1a1a; }
+
+  .row-top{
+    display:flex; align-items:baseline; gap:10px;
+    margin-bottom:4px;
+  }
+  .row-time{
+    font-weight:700;
+    font-size:13px;
+    white-space:nowrap;
+  }
+  .row-title{ flex:1; min-width:0; }
+  .row-event{
+    font-family:var(--font-display);
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:-0.01em;
+    font-size:14px;
+    display:block;
+  }
+  .row-venue{
+    font-size:11px;
+    color:var(--accent);
+  }
+  .row-lineup{
+    font-size:12px;
+    color:var(--text-dim);
+    margin-bottom:6px;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  }
+  .row-tags{ display:flex; gap:6px; flex-wrap:wrap; }
+  .tag{
+    font-size:10px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    border:1px solid var(--line);
+    padding:2px 6px;
+  }
+  .tag.danger{ color:var(--danger); border-color:var(--danger); }
+
+  @media (min-width:700px){
+    .list-head{
+      display:grid;
+      grid-template-columns:72px 1fr 1.3fr auto;
+      gap:12px;
+    }
+    .row{
+      display:grid;
+      grid-template-columns:72px 1fr 1.3fr auto;
+      gap:12px;
+      align-items:center;
+      padding:8px 16px;
+    }
+    .row-top{ margin:0; display:contents; }
+    .row-time{ grid-column:1; }
+    .row-title{ grid-column:2; }
+    .row-lineup{ grid-column:3; margin:0; }
+    .row-tags{ grid-column:4; justify-content:flex-end; }
+  }
+
+  /* ---------- detail panel ---------- */
+  .scrim{
+    position:fixed; inset:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0; pointer-events:none;
+    transition:opacity 0.2s ease;
+    z-index:10;
+  }
+  .scrim.open{ opacity:1; pointer-events:auto; }
+
+  .panel{
+    position:fixed; left:0; right:0; bottom:0;
+    max-width:960px; margin:0 auto;
+    max-height:88vh;
+    overflow-y:auto;
+    background:var(--bg);
+    border-top:1px solid var(--line);
+    transform:translateY(100%);
+    transition:transform 0.25s ease;
+    z-index:11;
+  }
+  .panel.open{ transform:translateY(0); }
+
+  @media (prefers-reduced-motion: reduce){
+    .scrim, .panel{ transition:none; }
+  }
+
+  .panel-handle{
+    width:36px; height:4px;
+    background:var(--line);
+    margin:10px auto;
+  }
+
+  .panel-body{ padding:0 16px 24px; }
+
+  .poster{
+    width:100%; height:160px;
+    margin-bottom:14px;
+    background:
+      repeating-linear-gradient(45deg, #000 0 2px, #1c1c1c 2px 4px),
+      repeating-linear-gradient(-45deg, transparent 0 6px, #000 6px 8px);
+    border:1px solid var(--line);
+    position:relative;
+  }
+  .poster::after{
+    content:attr(data-label);
+    position:absolute; left:8px; bottom:8px;
+    font-family:var(--font-display);
+    font-weight:700;
+    text-transform:uppercase;
+    font-size:18px;
+    color:var(--accent);
+    background:var(--bg);
+    padding:2px 6px;
+  }
+
+  .panel h2{
+    font-family:var(--font-display);
+    text-transform:uppercase;
+    letter-spacing:-0.02em;
+    font-size:22px;
+    margin-bottom:2px;
+  }
+  .panel .venue-line{
+    color:var(--accent);
+    font-size:13px;
+    margin-bottom:14px;
+  }
+
+  .facts{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    border:1px solid var(--line);
+    margin-bottom:14px;
+  }
+  .facts div{
+    padding:8px 10px;
+    border-right:1px solid var(--line);
+  }
+  .facts div:last-child{ border-right:none; }
+  .facts .k{
+    display:block;
+    font-size:10px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    margin-bottom:2px;
+  }
+  .facts .v{ font-size:14px; font-weight:700; }
+
+  .section-label{
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    margin:16px 0 6px;
+  }
+
+  .lineup-list{ list-style:none; border-top:1px solid var(--line); }
+  .lineup-list li{
+    display:flex; justify-content:space-between;
+    padding:8px 0;
+    border-bottom:1px solid var(--line);
+    font-size:13px;
+  }
+
+  .links-row{ display:flex; gap:8px; flex-wrap:wrap; }
+  .link-btn{
+    font-size:11px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    padding:8px 12px;
+    border:1px solid var(--line);
+    color:var(--text);
+    text-decoration:none;
+    display:inline-flex; align-items:center;
+    min-height:44px;
+  }
+  .link-btn:hover{ border-color:var(--accent); color:var(--accent); }
+
+  .rsvp-row{ display:flex; gap:8px; margin-top:16px; }
+  .rsvp-btn{
+    flex:1;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+  }
+  .rsvp-btn.active{
+    background:var(--accent);
+    color:var(--bg);
+    border-color:var(--accent);
+    font-weight:700;
+  }
+
+  .close-btn{
+    position:absolute; top:10px; right:16px;
+    font-size:11px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    background:transparent;
+    border:1px solid var(--line);
+    padding:6px 10px;
+    min-height:auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="brand">NACHT<span class="brand-dot">/</span>DIENST</div>
+    <div class="meta">AMSTERDAM<br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span></div>
+  </header>
+
+  <div class="ticker" aria-label="Tonight's headline events">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+
+  <nav class="filter">
+    <button class="filter-btn active" type="button">TONIGHT — 15 JUL</button>
+    <button class="filter-btn" type="button" disabled>TOMORROW — 16 JUL</button>
+  </nav>
+
+  <main>
+    <div class="list-head">
+      <span>TIME</span><span>EVENT / VENUE</span><span>LINEUP</span><span>TAGS</span>
+    </div>
+    <div class="list" id="eventList"></div>
+  </main>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<section class="panel" id="panel" aria-hidden="true">
+  <div class="panel-handle"></div>
+  <button class="close-btn" id="closeBtn" type="button">CLOSE ✕</button>
+  <div class="panel-body" id="panelBody"></div>
+</section>
+
+<script>
+const EVENTS = [
+  {
+    time: "23:00 — 06:00",
+    event: "NACHTVISIE",
+    venue: "De School",
+    lineup: ["Sanne Vos", "Tomás Herrera", "Jip Reinders"],
+    tags: ["TECHNO", "ALL NIGHT"],
+    price: "€18",
+    distance: "1.2 km",
+    poster: "NV"
+  },
+  {
+    time: "22:00 — 05:00",
+    event: "RAW CUTS",
+    venue: "Shelter",
+    lineup: ["Milo Draak", "Fenna IJssel"],
+    tags: ["TECHNO", "DOOR POLICY"],
+    price: "€15",
+    distance: "3.4 km",
+    poster: "RC"
+  },
+  {
+    time: "23:59 — 07:00",
+    event: "SUNRISE SESSIONS",
+    venue: "Garage Noord",
+    lineup: ["Otis Berg", "Nadia Marchetti", "DJ Kwence"],
+    tags: ["HOUSE", "OUTDOOR"],
+    price: "€20",
+    distance: "5.1 km",
+    poster: "SS"
+  },
+  {
+    time: "22:30 — 04:00",
+    event: "LOW END THEORY",
+    venue: "Radion",
+    lineup: ["Priya Chandra", "Bram Oosterveld"],
+    tags: ["BASS", "DUB"],
+    price: "€12",
+    distance: "2.8 km",
+    poster: "LE"
+  },
+  {
+    time: "21:00 — 03:00",
+    event: "WARM UP",
+    venue: "Bitterzoet",
+    lineup: ["Lina Voss"],
+    tags: ["DISCO", "FREE ENTRY"],
+    price: "FREE",
+    distance: "0.9 km",
+    poster: "WU"
+  },
+  {
+    time: "23:00 — 06:00",
+    event: "THE LOFT",
+    venue: "Doka",
+    lineup: ["Kaya Lindeman", "Theo Marks"],
+    tags: ["TECHNO", "SOLD OUT"],
+    price: "SOLD OUT",
+    distance: "4.0 km",
+    poster: "TL"
+  },
+  {
+    time: "00:00 — 06:00",
+    event: "RESET",
+    venue: "Marktkantine",
+    lineup: ["Vera Nieuwenhuis", "Julian Voss-Beck"],
+    tags: ["TECHNO", "€15"],
+    price: "€15",
+    distance: "3.9 km",
+    poster: "RS"
+  }
+];
+
+const listEl = document.getElementById("eventList");
+const tickerEl = document.getElementById("tickerTrack");
+const panelEl = document.getElementById("panel");
+const panelBody = document.getElementById("panelBody");
+const scrimEl = document.getElementById("scrim");
+
+function tagHtml(tag){
+  const danger = tag === "SOLD OUT" || tag === "CANCELLED";
+  return `<span class="tag${danger ? " danger" : ""}">${tag}</span>`;
+}
+
+function renderList(){
+  listEl.innerHTML = EVENTS.map((e, i) => `
+    <button class="row" type="button" data-index="${i}">
+      <div class="row-top">
+        <span class="row-time">${e.time.split(" — ")[0]}</span>
+        <div class="row-title">
+          <span class="row-event">${e.event}</span>
+          <span class="row-venue">${e.venue}</span>
+        </div>
+      </div>
+      <div class="row-lineup">${e.lineup.join(", ")}</div>
+      <div class="row-tags">${e.tags.map(tagHtml).join("")}</div>
+    </button>
+  `).join("");
+
+  listEl.querySelectorAll(".row").forEach(row => {
+    row.addEventListener("click", () => openPanel(Number(row.dataset.index)));
+  });
+}
+
+function renderTicker(){
+  const items = EVENTS.map(e => `<span class="item">${e.event} <span class="v">${e.venue}</span></span><span class="sep">•</span>`).join("");
+  // duplicated once for a seamless 50%-translate loop
+  tickerEl.innerHTML = items + items;
+}
+
+function openPanel(i){
+  const e = EVENTS[i];
+  panelBody.innerHTML = `
+    <div class="poster" data-label="${e.poster}"></div>
+    <h2>${e.event}</h2>
+    <div class="venue-line">${e.venue} · ${e.distance} away</div>
+
+    <div class="facts">
+      <div><span class="k">Time</span><span class="v">${e.time}</span></div>
+      <div><span class="k">Price</span><span class="v">${e.price}</span></div>
+      <div><span class="k">Distance</span><span class="v">${e.distance}</span></div>
+    </div>
+
+    <div class="section-label">Lineup</div>
+    <ul class="lineup-list">
+      ${e.lineup.map(name => `<li>${name}<a href="#">SOUNDCLOUD</a></li>`).join("")}
+    </ul>
+
+    <div class="section-label">Links</div>
+    <div class="links-row">
+      <a class="link-btn" href="#">RA EVENT PAGE</a>
+      <a class="link-btn" href="#">TICKETS</a>
+      <a class="link-btn" href="#">VENUE SITE</a>
+    </div>
+
+    <div class="rsvp-row">
+      <button class="rsvp-btn" type="button" data-rsvp="went">WENT</button>
+      <button class="rsvp-btn" type="button" data-rsvp="want">WANT TO GO</button>
+    </div>
+  `;
+
+  panelBody.querySelectorAll("[data-rsvp]").forEach(btn => {
+    btn.addEventListener("click", () => btn.classList.toggle("active"));
+  });
+
+  panelEl.classList.add("open");
+  panelEl.setAttribute("aria-hidden", "false");
+  scrimEl.classList.add("open");
+}
+
+function closePanel(){
+  panelEl.classList.remove("open");
+  panelEl.setAttribute("aria-hidden", "true");
+  scrimEl.classList.remove("open");
+}
+
+document.getElementById("closeBtn").addEventListener("click", closePanel);
+scrimEl.addEventListener("click", closePanel);
+
+function tickClock(){
+  const now = new Date();
+  const pad = n => String(n).padStart(2, "0");
+  document.getElementById("clock").textContent =
+    `UPDATED ${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+}
+setInterval(tickClock, 1000);
+tickClock();
+
+renderList();
+renderTicker();
+</script>
+
+</body>
+</html>
