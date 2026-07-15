@@ -6,6 +6,7 @@
 <title>NACHTDIENST — Amsterdam, Tonight</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
 <style>
   :root{
     --bg:       #0A0A0A;
@@ -101,28 +102,71 @@
     .ticker{ overflow-x:auto; }
   }
 
-  /* ---------- filter ---------- */
-  .filter{
+  /* ---------- stepper ---------- */
+  .stepper{
     display:flex; gap:0;
     border-bottom:1px solid var(--line);
   }
-  .filter-btn{
-    flex:1;
+  .stepper-btn{
+    width:56px;
+    flex:none;
     border:none;
     border-right:1px solid var(--line);
-    font-size:11px;
-    letter-spacing:0.08em;
-    text-transform:uppercase;
+    font-size:14px;
     color:var(--text-dim);
     background:var(--bg);
   }
-  .filter-btn:last-child{ border-right:none; }
-  .filter-btn.active{
-    color:var(--bg);
-    background:var(--accent);
+  .stepper-btn:last-child{ border-right:none; }
+  .stepper-btn:disabled{ cursor:not-allowed; opacity:0.35; }
+  .stepper-label{
+    flex:1;
+    display:flex; align-items:center; justify-content:center;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
     font-weight:700;
+    border-right:1px solid var(--line);
+    border-left:1px solid var(--line);
   }
-  .filter-btn:disabled{ cursor:not-allowed; opacity:0.5; }
+
+  /* ---------- geolocation notice ---------- */
+  .geo-notice{
+    padding:6px 16px;
+    font-size:10px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--text-dim);
+    border-bottom:1px solid var(--line);
+    background:var(--surface);
+  }
+  .geo-notice.hidden{ display:none; }
+
+  /* ---------- map ---------- */
+  .map{
+    height:220px;
+    border-bottom:1px solid var(--line);
+    position:relative;
+  }
+  .marker{
+    width:10px; height:10px;
+    border:1px solid var(--accent);
+    background:transparent;
+    cursor:pointer;
+  }
+  .marker.active{ background:var(--accent); }
+
+  .maplibregl-ctrl-attrib{
+    background:var(--surface) !important;
+    color:var(--text-dim) !important;
+    font-family:var(--font-mono) !important;
+    font-size:10px !important;
+  }
+  .maplibregl-ctrl-attrib a{ color:var(--text-dim) !important; }
+  .maplibregl-ctrl-bottom-right{ right:0; bottom:0; }
+
+  @media (min-width:700px){
+    .map{ height:340px; }
+  }
 
   /* ---------- list ---------- */
   .list-head{
@@ -148,6 +192,7 @@
   }
   .row:hover{ background:#161616; }
   .row:active{ background:#1a1a1a; }
+  .row.active{ border-left:2px solid var(--accent); }
 
   .row-top{
     display:flex; align-items:baseline; gap:10px;
@@ -187,6 +232,13 @@
     padding:2px 6px;
   }
   .tag.danger{ color:var(--danger); border-color:var(--danger); }
+
+  .row-empty{
+    padding:16px;
+    font-size:12px;
+    letter-spacing:0.04em;
+    color:var(--text-dim);
+  }
 
   @media (min-width:700px){
     .list-head{
@@ -263,6 +315,12 @@
     background:var(--bg);
     padding:2px 6px;
   }
+  .poster img{
+    width:100%; height:100%;
+    object-fit:cover;
+    display:block;
+  }
+  .poster.has-image::after{ display:none; }
 
   .panel h2{
     font-family:var(--font-display);
@@ -313,6 +371,7 @@
     border-bottom:1px solid var(--line);
     font-size:13px;
   }
+  .lineup-list li.tba{ color:var(--text-dim); }
 
   .links-row{ display:flex; gap:8px; flex-wrap:wrap; }
   .link-btn{
@@ -366,10 +425,15 @@
     <div class="ticker-track" id="tickerTrack"></div>
   </div>
 
-  <nav class="filter">
-    <button class="filter-btn active" type="button">TONIGHT — 15 JUL</button>
-    <button class="filter-btn" type="button" disabled>TOMORROW — 16 JUL</button>
+  <nav class="stepper">
+    <button class="stepper-btn" id="prevDay" type="button" aria-label="Previous day">‹</button>
+    <span class="stepper-label" id="dateLabel">TODAY</span>
+    <button class="stepper-btn" id="nextDay" type="button" aria-label="Next day">›</button>
   </nav>
+
+  <div class="geo-notice" id="geoNotice">LOCATION UNAVAILABLE — SORTED FROM AMSTERDAM CENTER</div>
+
+  <div class="map" id="map"></div>
 
   <main>
     <div class="list-head">
@@ -386,178 +450,8 @@
   <div class="panel-body" id="panelBody"></div>
 </section>
 
-<script>
-const EVENTS = [
-  {
-    time: "23:00 — 06:00",
-    event: "NACHTVISIE",
-    venue: "De School",
-    lineup: ["Sanne Vos", "Tomás Herrera", "Jip Reinders"],
-    tags: ["TECHNO", "ALL NIGHT"],
-    price: "€18",
-    distance: "1.2 km",
-    poster: "NV"
-  },
-  {
-    time: "22:00 — 05:00",
-    event: "RAW CUTS",
-    venue: "Shelter",
-    lineup: ["Milo Draak", "Fenna IJssel"],
-    tags: ["TECHNO", "DOOR POLICY"],
-    price: "€15",
-    distance: "3.4 km",
-    poster: "RC"
-  },
-  {
-    time: "23:59 — 07:00",
-    event: "SUNRISE SESSIONS",
-    venue: "Garage Noord",
-    lineup: ["Otis Berg", "Nadia Marchetti", "DJ Kwence"],
-    tags: ["HOUSE", "OUTDOOR"],
-    price: "€20",
-    distance: "5.1 km",
-    poster: "SS"
-  },
-  {
-    time: "22:30 — 04:00",
-    event: "LOW END THEORY",
-    venue: "Radion",
-    lineup: ["Priya Chandra", "Bram Oosterveld"],
-    tags: ["BASS", "DUB"],
-    price: "€12",
-    distance: "2.8 km",
-    poster: "LE"
-  },
-  {
-    time: "21:00 — 03:00",
-    event: "WARM UP",
-    venue: "Bitterzoet",
-    lineup: ["Lina Voss"],
-    tags: ["DISCO", "FREE ENTRY"],
-    price: "FREE",
-    distance: "0.9 km",
-    poster: "WU"
-  },
-  {
-    time: "23:00 — 06:00",
-    event: "THE LOFT",
-    venue: "Doka",
-    lineup: ["Kaya Lindeman", "Theo Marks"],
-    tags: ["TECHNO", "SOLD OUT"],
-    price: "SOLD OUT",
-    distance: "4.0 km",
-    poster: "TL"
-  },
-  {
-    time: "00:00 — 06:00",
-    event: "RESET",
-    venue: "Marktkantine",
-    lineup: ["Vera Nieuwenhuis", "Julian Voss-Beck"],
-    tags: ["TECHNO", "€15"],
-    price: "€15",
-    distance: "3.9 km",
-    poster: "RS"
-  }
-];
-
-const listEl = document.getElementById("eventList");
-const tickerEl = document.getElementById("tickerTrack");
-const panelEl = document.getElementById("panel");
-const panelBody = document.getElementById("panelBody");
-const scrimEl = document.getElementById("scrim");
-
-function tagHtml(tag){
-  const danger = tag === "SOLD OUT" || tag === "CANCELLED";
-  return `<span class="tag${danger ? " danger" : ""}">${tag}</span>`;
-}
-
-function renderList(){
-  listEl.innerHTML = EVENTS.map((e, i) => `
-    <button class="row" type="button" data-index="${i}">
-      <div class="row-top">
-        <span class="row-time">${e.time.split(" — ")[0]}</span>
-        <div class="row-title">
-          <span class="row-event">${e.event}</span>
-          <span class="row-venue">${e.venue}</span>
-        </div>
-      </div>
-      <div class="row-lineup">${e.lineup.join(", ")}</div>
-      <div class="row-tags">${e.tags.map(tagHtml).join("")}</div>
-    </button>
-  `).join("");
-
-  listEl.querySelectorAll(".row").forEach(row => {
-    row.addEventListener("click", () => openPanel(Number(row.dataset.index)));
-  });
-}
-
-function renderTicker(){
-  const items = EVENTS.map(e => `<span class="item">${e.event} <span class="v">${e.venue}</span></span><span class="sep">•</span>`).join("");
-  // duplicated once for a seamless 50%-translate loop
-  tickerEl.innerHTML = items + items;
-}
-
-function openPanel(i){
-  const e = EVENTS[i];
-  panelBody.innerHTML = `
-    <div class="poster" data-label="${e.poster}"></div>
-    <h2>${e.event}</h2>
-    <div class="venue-line">${e.venue} · ${e.distance} away</div>
-
-    <div class="facts">
-      <div><span class="k">Time</span><span class="v">${e.time}</span></div>
-      <div><span class="k">Price</span><span class="v">${e.price}</span></div>
-      <div><span class="k">Distance</span><span class="v">${e.distance}</span></div>
-    </div>
-
-    <div class="section-label">Lineup</div>
-    <ul class="lineup-list">
-      ${e.lineup.map(name => `<li>${name}<a href="#">SOUNDCLOUD</a></li>`).join("")}
-    </ul>
-
-    <div class="section-label">Links</div>
-    <div class="links-row">
-      <a class="link-btn" href="#">RA EVENT PAGE</a>
-      <a class="link-btn" href="#">TICKETS</a>
-      <a class="link-btn" href="#">VENUE SITE</a>
-    </div>
-
-    <div class="rsvp-row">
-      <button class="rsvp-btn" type="button" data-rsvp="went">WENT</button>
-      <button class="rsvp-btn" type="button" data-rsvp="want">WANT TO GO</button>
-    </div>
-  `;
-
-  panelBody.querySelectorAll("[data-rsvp]").forEach(btn => {
-    btn.addEventListener("click", () => btn.classList.toggle("active"));
-  });
-
-  panelEl.classList.add("open");
-  panelEl.setAttribute("aria-hidden", "false");
-  scrimEl.classList.add("open");
-}
-
-function closePanel(){
-  panelEl.classList.remove("open");
-  panelEl.setAttribute("aria-hidden", "true");
-  scrimEl.classList.remove("open");
-}
-
-document.getElementById("closeBtn").addEventListener("click", closePanel);
-scrimEl.addEventListener("click", closePanel);
-
-function tickClock(){
-  const now = new Date();
-  const pad = n => String(n).padStart(2, "0");
-  document.getElementById("clock").textContent =
-    `UPDATED ${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
-}
-setInterval(tickClock, 1000);
-tickClock();
-
-renderList();
-renderTicker();
-</script>
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<script src="app.js"></script>
 
 </body>
 </html>
