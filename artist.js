@@ -47,16 +47,16 @@ function renderLinks(artist) {
     .map(([label, url]) => `<a class="link-btn" href="${esc(url)}" target="_blank" rel="noopener">${label}</a>`)
     .join("");
 
-  const following = window.NachtdienstAuth.isFollowing(artist.id);
+  const following = window.NachtkaartAuth.isFollowing(artist.id);
   html += `<button class="link-btn${following ? " active" : ""}" type="button" id="followBtn">${following ? "FOLLOWING" : "FOLLOW"}</button>`;
   linksEl.innerHTML = html;
 
   document.getElementById("followBtn").addEventListener("click", async () => {
-    if (!window.NachtdienstAuth.isLoggedIn()) {
-      window.NachtdienstAuth.openLogin();
+    if (!window.NachtkaartAuth.isLoggedIn()) {
+      window.NachtkaartAuth.openLogin();
       return;
     }
-    await window.NachtdienstAuth.toggleFollow(artist.id);
+    await window.NachtkaartAuth.toggleFollow(artist.id);
     renderLinks(artist);
   });
 }
@@ -96,11 +96,11 @@ async function init() {
   } catch (err) {
     nameEl.textContent = "UNKNOWN ARTIST";
     linksEl.innerHTML = "";
-    mainEl.innerHTML = `<div class="empty">NO DATA FOR THIS ARTIST YET. ONLY RA-LINKED ARTISTS SEEN IN NACHTDIENST GET A PAGE.</div>`;
+    mainEl.innerHTML = `<div class="empty">NO DATA FOR THIS ARTIST YET. ONLY RA-LINKED ARTISTS SEEN IN NACHTKAART GET A PAGE.</div>`;
     return;
   }
 
-  document.title = `NACHTDIENST — ${artist.name}`;
+  document.title = `NACHTKAART — ${artist.name}`;
   nameEl.textContent = artist.name;
   renderLinks(artist);
   mainEl.innerHTML =
@@ -109,7 +109,7 @@ async function init() {
 
   // Re-render FOLLOW/FOLLOWING once the real session/follow-state resolves
   // (async, so the first paint above assumes logged-out) and on later changes.
-  window.NachtdienstAuth.onAuthChange(() => renderLinks(artist));
+  window.NachtkaartAuth.onAuthChange(() => renderLinks(artist));
 }
 
 init();

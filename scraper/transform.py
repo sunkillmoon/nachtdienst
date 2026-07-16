@@ -1,4 +1,4 @@
-"""Pure transform: raw RA GraphQL event-listing rows -> nachtdienst events.json schema."""
+"""Pure transform: raw RA GraphQL event-listing rows -> nachtkaart events.json schema."""
 import re
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo

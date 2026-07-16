@@ -1,6 +1,6 @@
 {
-  "name": "Nachtdienst",
-  "short_name": "Nachtdienst",
+  "name": "Nachtkaart",
+  "short_name": "Nachtkaart",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

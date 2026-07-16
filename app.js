@@ -303,8 +303,8 @@ function openPanel(eventId) {
     : distanceStr;
 
   const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
-  const pickStatus = window.NachtdienstAuth.getPickStatus(event.id);
-  const isFavVenue = window.NachtdienstAuth.isFavoriteVenue(event.venue.name);
+  const pickStatus = window.NachtkaartAuth.getPickStatus(event.id);
+  const isFavVenue = window.NachtkaartAuth.isFavoriteVenue(event.venue.name);
 
   panelBody.innerHTML = `
     <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
@@ -335,9 +335,9 @@ function openPanel(eventId) {
   panelBody.querySelectorAll("[data-rsvp]").forEach((btn) => {
     btn.addEventListener("click", async () => {
       const status = btn.dataset.rsvp;
-      const current = window.NachtdienstAuth.getPickStatus(event.id);
+      const current = window.NachtkaartAuth.getPickStatus(event.id);
       const next = current === status ? null : status;
-      await window.NachtdienstAuth.setPick(event.id, next);
+      await window.NachtkaartAuth.setPick(event.id, next);
       panelBody.querySelectorAll("[data-rsvp]").forEach((b) => {
         b.classList.toggle("active", b.dataset.rsvp === next);
       });
@@ -345,12 +345,12 @@ function openPanel(eventId) {
   });
 
   document.getElementById("favVenueBtn").addEventListener("click", async () => {
-    if (!window.NachtdienstAuth.isLoggedIn()) {
-      window.NachtdienstAuth.openLogin();
+    if (!window.NachtkaartAuth.isLoggedIn()) {
+      window.NachtkaartAuth.openLogin();
       return;
     }
-    await window.NachtdienstAuth.toggleFavoriteVenue(event.venue.name);
-    const nowFav = window.NachtdienstAuth.isFavoriteVenue(event.venue.name);
+    await window.NachtkaartAuth.toggleFavoriteVenue(event.venue.name);
+    const nowFav = window.NachtkaartAuth.isFavoriteVenue(event.venue.name);
     const favBtn = document.getElementById("favVenueBtn");
     favBtn.textContent = nowFav ? "FAVORITED" : "FAVORITE VENUE";
     favBtn.classList.toggle("active", nowFav);
@@ -575,7 +575,7 @@ wirePanelDrag();
 
 // Re-render the open panel's pick/favorite state (and the list, since a pick
 // there could change ordering in a future step) whenever login state changes.
-window.NachtdienstAuth.onAuthChange(() => {
+window.NachtkaartAuth.onAuthChange(() => {
   if (panelEl.classList.contains("open") && state.selectedEventId) {
     openPanel(state.selectedEventId);
   }

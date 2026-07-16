@@ -28,7 +28,7 @@ MAX_PAGES = 40
 
 SLEEP_SECONDS = 1.5  # between paginated requests only, not before the first
 
-USER_AGENT = "Nachtdienst/0.1 (+contact: anatolyivankov@gmail.com; personal hobby project)"
+USER_AGENT = "Nachtkaart/0.1 (+contact: anatolyivankov@gmail.com; personal hobby project)"
 
 TIMEZONE = "Europe/Amsterdam"
 

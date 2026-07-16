@@ -1,6 +1,6 @@
 // Shared Supabase auth + accounts layer, loaded by both index.html and
 // artist.html before app.js/artist.js. Everything is wrapped in an IIFE so
-// nothing but window.NachtdienstAuth leaks into the global scope (app.js and
+// nothing but window.NachtkaartAuth leaks into the global scope (app.js and
 // artist.js each define their own top-level `esc`, `formatGigDate` etc. —
 // this avoids any collision with those).
 (function () {
@@ -12,7 +12,7 @@
 
   const sb = supabase.createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY);
 
-  const LOCAL_PICKS_KEY = "nachtdienst:picks";
+  const LOCAL_PICKS_KEY = "nachtkaart:picks";
 
   let session = null;
   let picksCache = new Map(); // event_id -> "went" | "want_to_go"
@@ -160,7 +160,7 @@
 
   // ---------- public API ----------
 
-  window.NachtdienstAuth = {
+  window.NachtkaartAuth = {
     onAuthChange(callback) {
       listeners.push(callback);
     },
