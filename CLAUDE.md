@@ -16,7 +16,7 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 
 ## Architecture (v1)
 
-- Live at: https://sunkillmoon.github.io/nachtdienst/
+- Live at: https://nachtkaart.nl/ (GitHub Pages, custom domain via the repo's `CNAME` file — DNS is managed outside this repo)
 - Python scraper → `data/events.json`, run nightly by GitHub Actions
 - Static frontend on GitHub Pages: plain HTML/CSS/JS, no framework, no build step for v0
 - Map: MapLibre GL JS with the CARTO Dark Matter basemap ("© OpenStreetMap" attribution is a license requirement — it always stays visible)

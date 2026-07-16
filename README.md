@@ -2,7 +2,7 @@
 
 A map-first radar for electronic music events — club nights, raves, festivals — starting with the Netherlands. Open it on your phone and see what's on tonight around you: who's playing, where, until when, how far away.
 
-**Live at: https://sunkillmoon.github.io/nachtdienst/**
+**Live at: https://nachtkaart.nl/**
 
 Full product brief, style guide, and roadmap live in [CLAUDE.md](CLAUDE.md) and [STYLE.md](STYLE.md).
 
