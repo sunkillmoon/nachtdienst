@@ -1,0 +1,36 @@
+name: Stamp asset versions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - app.js
+      - artist.js
+      - manifest.json
+      - index.html
+      - artist.html
+
+permissions:
+  contents: write
+
+jobs:
+  stamp:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stamp cache-busting versions
+        run: python3 update_asset_versions.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html artist.html
+          if git diff --cached --quiet; then
+            echo "No version changes."
+          else
+            git commit -m "Stamp asset cache-busting versions"
+            git push origin HEAD:main
+          fi

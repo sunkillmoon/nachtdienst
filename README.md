@@ -15,6 +15,7 @@ Full product brief, style guide, and roadmap live in [CLAUDE.md](CLAUDE.md) and 
 - `index.html` + `app.js` — map/list/detail frontend; `artist.html` + `artist.js` — client-rendered artist pages. Static, no framework, no build step
 - `.github/workflows/scrape.yml` — runs the scraper every morning (~06:00 Amsterdam time) and commits changed `data/` if anything changed
 - GitHub Pages serves the repo root on the `main` branch
+- Cache-busting: `update_asset_versions.py` stamps a content-hash `?v=` on `app.js`/`artist.js`/`manifest.json`'s tags (auto-run by `.github/workflows/version-assets.yml` on every push that touches them); data fetches append a per-load `?t=<timestamp>` so a returning visitor — especially an installed home-screen PWA — always gets the latest deploy and the latest scrape
 
 ## Running locally
 

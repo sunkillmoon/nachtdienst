@@ -2,6 +2,9 @@ const AMSTERDAM_CENTER = { lat: 52.3676, lng: 4.9041 };
 const AMSTERDAM_TZ = "Europe/Amsterdam";
 const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
 const WEEKDAYS = ["SUN","MON","TUE","WED","THU","FRI","SAT"];
+// Cache-bust data fetches so a returning visitor (especially an installed PWA)
+// always gets the latest scrape rather than a cached response.
+const CACHE_BUST = Date.now();
 
 const state = {
   allEvents: [],
@@ -501,7 +504,10 @@ async function init() {
   let allEvents = [];
   let venuesMeta = {};
   try {
-    const [eventsRes, venuesRes] = await Promise.all([fetch("data/events.json"), fetch("data/venues.json")]);
+    const [eventsRes, venuesRes] = await Promise.all([
+      fetch(`data/events.json?t=${CACHE_BUST}`),
+      fetch(`data/venues.json?t=${CACHE_BUST}`),
+    ]);
     allEvents = await eventsRes.json();
     venuesMeta = venuesRes.ok ? await venuesRes.json() : {};
   } catch (err) {

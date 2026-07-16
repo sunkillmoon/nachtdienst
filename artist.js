@@ -1,4 +1,7 @@
 const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+// Cache-bust data fetches so a returning visitor (especially an installed PWA)
+// always gets the latest scrape rather than a cached response.
+const CACHE_BUST = Date.now();
 
 const nameEl = document.getElementById("artistName");
 const linksEl = document.getElementById("linksRow");
@@ -77,7 +80,7 @@ async function init() {
 
   let artist;
   try {
-    const res = await fetch(`data/artists/${encodeURIComponent(id)}.json`);
+    const res = await fetch(`data/artists/${encodeURIComponent(id)}.json?t=${CACHE_BUST}`);
     if (!res.ok) throw new Error(String(res.status));
     artist = await res.json();
   } catch (err) {
