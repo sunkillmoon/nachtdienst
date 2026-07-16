@@ -1,5 +1,6 @@
 .venv/
 scraper/.cache/
 scraper/.cache_artists/
+scraper/.cache_geocode/
 __pycache__/
 *.pyc

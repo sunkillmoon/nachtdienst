@@ -1,0 +1,68 @@
+{
+  "Bar Theo": {
+    "lat": 52.3729576,
+    "lng": 4.878229,
+    "display_name": "Theo, 160, Rozengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 NJ, Nederland",
+    "query": "Bar Theo, Amsterdam, Netherlands"
+  },
+  "CLUB RAUM": {
+    "lat": 52.3911262,
+    "lng": 4.8309665,
+    "display_name": "Club RAUM, 3, Humberweg, Westpoort, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1043 AC, Nederland",
+    "query": "CLUB RAUM, Amsterdam, Netherlands"
+  },
+  "CONTACT": {
+    "lat": 52.3986693,
+    "lng": 4.8528354,
+    "display_name": "Contactweg, Westpoort, Amsterdam, Noord-Holland, Nederland, 1014 BJ, Nederland",
+    "query": "CONTACT, Amsterdam, Netherlands"
+  },
+  "Ijburg": {
+    "lat": 52.3549938,
+    "lng": 4.9971565,
+    "display_name": "IJburg, Oost, Amsterdam, Noord-Holland, Nederland",
+    "query": "Ijburg, Amsterdam, Netherlands"
+  },
+  "Kadinsky Cafe": {
+    "lat": 52.3741373,
+    "lng": 4.8936787,
+    "display_name": "Kadinsky, 9, Zoutsteeg, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 LX, Nederland",
+    "query": "Kadinsky Cafe, Amsterdam, Netherlands"
+  },
+  "Levenslang Amsterdam": {
+    "lat": 52.3372503,
+    "lng": 4.9253277,
+    "display_name": "Levenslang, 48, H.J.E. Wenckebachweg, Bajeskwartier, Oost, Amsterdam, Noord-Holland, Nederland, 1096 AN, Nederland",
+    "query": "Levenslang Amsterdam, Amsterdam, Netherlands"
+  },
+  "NAR": {
+    "lat": 52.1010722,
+    "lng": 5.0834009,
+    "display_name": "Nar, 6, Nijverheidsweg, Schepenbuurt, Cartesiusweg E.o., Nieuw Engeland, Schepenbuurt, West, Utrecht, Nederland, 3534 AM, Nederland",
+    "query": "NAR, Utrecht, Netherlands"
+  },
+  "SISSI'S Amsterdam": {
+    "lat": 52.3448289,
+    "lng": 4.8425825,
+    "display_name": "Sissi's Amsterdam, 3, Anthony Fokkerweg, Hoofddorppleinbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1059 CM, Nederland",
+    "query": "SISSI'S Amsterdam, Amsterdam, Netherlands"
+  },
+  "THE OTHER SIDE": {
+    "lat": 52.395648,
+    "lng": 4.8753577,
+    "display_name": "The Other Side, Danzigerbocht, Minervahaven, Westpoort, Amsterdam, Noord-Holland, Nederland, 1013 BB, Nederland",
+    "query": "THE OTHER SIDE, Amsterdam, Netherlands"
+  },
+  "TILLATEC": {
+    "lat": 52.3699549,
+    "lng": 4.843713,
+    "display_name": "TILLATEC, 1, Dr. Jan van Breemenstraat, Bos en Lommer, West, Amsterdam, Noord-Holland, Nederland, 1056 AB, Nederland",
+    "query": "TILLATEC, Amsterdam, Netherlands"
+  },
+  "Yellow House": {
+    "lat": 52.3963849,
+    "lng": 4.8743906,
+    "display_name": "Yellow House, 45R, Danzigerbocht, Minervahaven, Westpoort, Amsterdam, Noord-Holland, Nederland, 1013 AM, Nederland",
+    "query": "Yellow House, Amsterdam, Netherlands"
+  }
+}

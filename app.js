@@ -223,7 +223,8 @@ function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
   const nowBadge = isEventLive(event) ? `<span class="tag now">ON NOW</span>` : "";
-  return genreTags + soldOutBadge + nowBadge;
+  const tbaBadge = event.venue.location_tba ? `<span class="tag">LOCATION TBA</span>` : "";
+  return genreTags + soldOutBadge + nowBadge + tbaBadge;
 }
 
 function mapsDirectionsUrl(lat, lng) {
@@ -297,10 +298,12 @@ function openPanel(eventId) {
   const coords = getCoords();
   const hasCoords = event.venue.lat != null && event.venue.lng != null;
   const distanceKm = hasCoords ? haversineKm(coords.lat, coords.lng, event.venue.lat, event.venue.lng) : null;
-  const distanceStr = distanceKm != null ? `${distanceKm.toFixed(1)} km` : "—";
-  const distanceHtml = hasCoords
-    ? `<a href="${mapsDirectionsUrl(event.venue.lat, event.venue.lng)}" target="_blank" rel="noopener">${distanceStr}</a>`
-    : distanceStr;
+  const distanceStr = event.venue.location_tba ? "LOCATION TBA" : distanceKm != null ? `${distanceKm.toFixed(1)} km` : "—";
+  const distanceHtml =
+    hasCoords && !event.venue.location_tba
+      ? `<a href="${mapsDirectionsUrl(event.venue.lat, event.venue.lng)}" target="_blank" rel="noopener">${distanceStr}</a>`
+      : distanceStr;
+  const venueLineSuffix = event.venue.location_tba ? "LOCATION TBA" : `${distanceHtml} away`;
 
   const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
   const pickStatus = window.NachtkaartAuth.getPickStatus(event.id);
@@ -309,7 +312,7 @@ function openPanel(eventId) {
   panelBody.innerHTML = `
     <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
     <h2>${event.title}</h2>
-    <div class="venue-line">${event.venue.name} · ${distanceHtml} away</div>
+    <div class="venue-line">${event.venue.name} · ${venueLineSuffix}</div>
 
     <div class="facts">
       <div><span class="k">Time</span><span class="v">${formatTimeRange(event)}</span></div>

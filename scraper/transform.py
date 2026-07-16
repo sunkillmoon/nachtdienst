@@ -1,4 +1,5 @@
 """Pure transform: raw RA GraphQL event-listing rows -> nachtkaart events.json schema."""
+import json
 import re
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
@@ -8,6 +9,40 @@ from . import config
 TZ = ZoneInfo(config.TIMEZONE)
 
 _ARTIST_TAG_RE = re.compile(r'<artist id="\d+">(.*?)</artist>')
+
+# RA's own "unknown location" sentinels, not real coordinates.
+_UNKNOWN_NL_LOCATION = (52, 5)  # "somewhere in the Netherlands"
+_NULL_ISLAND = (0, 0)  # global null-island fallback -- genuinely location-TBA
+
+VENUES_PATH = config.REPO_ROOT / "data" / "venues.json"
+
+
+def _load_venue_overrides() -> dict:
+    if not VENUES_PATH.exists():
+        return {}
+    return json.loads(VENUES_PATH.read_text(encoding="utf-8"))
+
+
+def _resolve_location(
+    venue_name: str, lat: float | None, lng: float | None, overrides: dict
+) -> tuple[float | None, float | None, bool]:
+    """Returns (lat, lng, location_tba). A hand-set lat/lng in data/venues.json
+    always wins (over RA's data and over the sentinel-nulling below); RA's known
+    placeholder coordinates are otherwise treated as no location at all."""
+    location_tba = False
+    if lat is not None and lng is not None:
+        if (lat, lng) == _UNKNOWN_NL_LOCATION:
+            lat, lng = None, None
+        elif (lat, lng) == _NULL_ISLAND:
+            lat, lng = None, None
+            location_tba = True
+
+    override = overrides.get(venue_name) or {}
+    if override.get("lat") is not None and override.get("lng") is not None:
+        lat, lng = override["lat"], override["lng"]
+        location_tba = False
+
+    return lat, lng, location_tba
 
 
 def _parse_local(dt_str: str) -> datetime:
@@ -51,6 +86,7 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
     """rows: the raw `eventListings.data` list from ra_client.fetch_events."""
     scraped_at = scraped_at or datetime.now(timezone.utc)
     scraped_at_iso = scraped_at.isoformat(timespec="seconds")
+    venue_overrides = _load_venue_overrides()
 
     events = []
     for row in rows:
@@ -68,6 +104,9 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
         area = venue.get("area") or {}
         start = _parse_local(event["startTime"])
         end = _parse_local(event["endTime"]) if event.get("endTime") else None
+        lat, lng, location_tba = _resolve_location(
+            venue["name"], location.get("latitude"), location.get("longitude"), venue_overrides
+        )
 
         events.append({
             "id": f"ra:{event['id']}",
@@ -76,8 +115,9 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             "venue": {
                 "name": venue["name"],
                 "area": area.get("name"),
-                "lat": location.get("latitude"),
-                "lng": location.get("longitude"),
+                "lat": lat,
+                "lng": lng,
+                "location_tba": location_tba,
             },
             "date": row["listingDate"][:10],
             "start": start.isoformat(timespec="minutes"),
