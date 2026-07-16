@@ -6,6 +6,7 @@ on:
     paths:
       - app.js
       - artist.js
+      - auth.js
       - manifest.json
       - index.html
       - artist.html

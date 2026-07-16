@@ -46,9 +46,19 @@ function renderLinks(artist) {
   let html = links
     .map(([label, url]) => `<a class="link-btn" href="${esc(url)}" target="_blank" rel="noopener">${label}</a>`)
     .join("");
-  // FOLLOW lands in roadmap stage 6 (Supabase accounts) — placeholder for now.
-  html += `<button class="link-btn" type="button" disabled title="Coming with accounts">FOLLOW — SOON</button>`;
+
+  const following = window.NachtdienstAuth.isFollowing(artist.id);
+  html += `<button class="link-btn${following ? " active" : ""}" type="button" id="followBtn">${following ? "FOLLOWING" : "FOLLOW"}</button>`;
   linksEl.innerHTML = html;
+
+  document.getElementById("followBtn").addEventListener("click", async () => {
+    if (!window.NachtdienstAuth.isLoggedIn()) {
+      window.NachtdienstAuth.openLogin();
+      return;
+    }
+    await window.NachtdienstAuth.toggleFollow(artist.id);
+    renderLinks(artist);
+  });
 }
 
 function gigHtml(gig) {
@@ -96,6 +106,10 @@ async function init() {
   mainEl.innerHTML =
     renderSection("UPCOMING", artist.upcoming || []) +
     renderSection("PAST", artist.past || []);
+
+  // Re-render FOLLOW/FOLLOWING once the real session/follow-state resolves
+  // (async, so the first paint above assumes logged-out) and on later changes.
+  window.NachtdienstAuth.onAuthChange(() => renderLinks(artist));
 }
 
 init();

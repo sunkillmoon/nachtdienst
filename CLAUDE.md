@@ -23,7 +23,8 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 - Coverage: the scraper fetches RA area 176 ("All / Netherlands"), a national aggregate. `scraper/config.py` `SCRAPE_AREA_IDS` is a configurable list; `AREAS` documents verified NL area ids (Amsterdam 29, Rotterdam 174, Utrecht 175, Eindhoven 177, The Hague 178, Nijmegen 672).
 - Data sources: Resident Advisor's unofficial GraphQL API first; djguide.nl later. Instagram: never.
   - RA's `Event` type also exposes a free-text `content` field (a promoter-written description, separate from the lineup). Confirmed to exist during the lineup-completeness check (2026-07-16) but not scraped or used anywhere yet — noted here so it isn't silently forgotten or silently added beyond what's been asked for.
-- Later phases only: Supabase (accounts, favorites, follows, email notifications), personal iCal feed
+- Accounts: Supabase project (URL + publishable key live in `auth.js`, loaded on both pages before `app.js`/`artist.js`). Email magic-link auth; tables/RLS policies in `supabase/migrations/` (applied by hand via the Supabase dashboard's SQL Editor — no CLI, no DB password on this machine). Accounts are optional — everything works logged out.
+- Later phase only: notification emails, personal iCal feed
 
 ## Data model
 
@@ -52,7 +53,7 @@ RA exposes each artist's full past history to anonymous callers via `artist(id).
 3. Frontend v0: ticker + map + list + detail panel, reading `events.json` — done
 4. GitHub Actions nightly run + GitHub Pages deploy — done
 5. Artist pages + genre tags — done (also: national NL coverage + permanent archive + artist-history backfill)
-6. Supabase accounts: favorites, follows, went/want-to-go, notification emails — CURRENT
+6. Supabase accounts: favorites, follows, went/want-to-go — done (6a). Notification emails — CURRENT
 7. iCal feed for "want to go"
 
 ## Working rules for Claude Code
@@ -61,4 +62,5 @@ RA exposes each artist's full past history to anonymous callers via `artist(id).
 - One task at a time. Stop when it's verifiable and tell me how to verify it.
 - Keep dependencies minimal; justify any new one in a sentence.
 - Scrape politely: identify with a User-Agent, sleep between requests, cache responses during development. Never commit secrets.
+- The Supabase publishable (anon) key ships in public JS by design — that's fine. Secret keys (service role, DB password, personal access tokens) must never appear anywhere in this repo: not in code, config, comments, commit messages, or migrations. RLS is what actually protects data, not keeping the publishable key hidden. Any future need for elevated access must run server-side (e.g. a Supabase Edge Function) and stay uncommitted.
 - Ask before: deleting files, changing the architecture, or adding any external service.

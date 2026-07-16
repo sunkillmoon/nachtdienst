@@ -79,6 +79,21 @@
     background:var(--accent); margin-right:6px;
     vertical-align:middle;
   }
+  .auth-control{
+    margin-top:4px;
+    display:flex; align-items:center; justify-content:flex-end; gap:8px;
+  }
+  .auth-btn{
+    font-family:var(--font-mono);
+    font-size:10px; letter-spacing:0.06em; text-transform:uppercase;
+    background:none; border:1px solid var(--line); color:var(--text-dim);
+    padding:2px 8px; min-height:auto; cursor:pointer;
+  }
+  .auth-btn:hover{ border-color:var(--accent); color:var(--accent); }
+  .auth-email{
+    font-size:10px; color:var(--text-dim); max-width:120px;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  }
 
   /* ---------- ticker ---------- */
   .ticker{
@@ -455,6 +470,12 @@
     min-height:44px;
   }
   .link-btn:hover{ border-color:var(--accent); color:var(--accent); }
+  .link-btn.active{
+    background:var(--accent);
+    color:var(--bg);
+    border-color:var(--accent);
+    font-weight:700;
+  }
 
   .rsvp-row{ display:flex; gap:8px; margin-top:16px; }
   .rsvp-btn{
@@ -470,6 +491,21 @@
     font-weight:700;
   }
 
+  /* ---------- auth panel ---------- */
+  .auth-copy{ font-size:12px; color:var(--text-dim); margin-bottom:14px; }
+  #authForm{ display:flex; gap:8px; }
+  .auth-email-input{
+    flex:1;
+    font-family:var(--font-mono);
+    background:var(--surface);
+    color:var(--text);
+    border:1px solid var(--line);
+    padding:0 10px;
+    min-height:44px;
+    font-size:13px;
+  }
+  .auth-status{ margin-top:10px; font-size:11px; letter-spacing:0.04em; color:var(--text-dim); }
+
 </style>
 </head>
 <body>
@@ -477,7 +513,10 @@
 <div class="wrap">
   <header>
     <div class="brand">NACHT<span class="brand-dot">/</span>DIENST</div>
-    <div class="meta">AMSTERDAM<br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span></div>
+    <div class="meta">
+      AMSTERDAM<br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span>
+      <div class="auth-control" id="authControl"></div>
+    </div>
   </header>
 
   <div class="ticker" aria-label="Tonight's headline events">
@@ -515,8 +554,24 @@
   <img id="lightboxImg" src="" alt="">
 </div>
 
+<div class="scrim" id="authScrim"></div>
+<section class="panel" id="authPanel" aria-hidden="true">
+  <div class="panel-handle" id="authPanelHandle"></div>
+  <div class="panel-body">
+    <h2>LOG IN</h2>
+    <p class="auth-copy">ENTER YOUR EMAIL. WE'LL SEND YOU A SIGN-IN LINK — NO PASSWORD.</p>
+    <form id="authForm">
+      <input class="auth-email-input" id="authEmailInput" type="email" placeholder="YOU@EXAMPLE.COM" required autocomplete="email">
+      <button class="link-btn" type="submit">SEND LINK</button>
+    </form>
+    <p class="auth-status" id="authStatusMsg"></p>
+  </div>
+</section>
+
 <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
-<script src="app.js?v=25e17c8bda"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
+<script src="auth.js?v=e5f77ee3fb"></script>
+<script src="app.js?v=0f2cfcf78a"></script>
 
 </body>
 </html>

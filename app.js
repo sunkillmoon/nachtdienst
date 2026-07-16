@@ -303,6 +303,8 @@ function openPanel(eventId) {
     : distanceStr;
 
   const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
+  const pickStatus = window.NachtdienstAuth.getPickStatus(event.id);
+  const isFavVenue = window.NachtdienstAuth.isFavoriteVenue(event.venue.name);
 
   panelBody.innerHTML = `
     <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
@@ -321,16 +323,37 @@ function openPanel(eventId) {
     <div class="section-label">Links</div>
     <div class="links-row">
       <a class="link-btn" href="${event.ra_url}" target="_blank" rel="noopener">RA EVENT PAGE</a>
+      <button class="link-btn${isFavVenue ? " active" : ""}" type="button" id="favVenueBtn">${isFavVenue ? "FAVORITED" : "FAVORITE VENUE"}</button>
     </div>
 
     <div class="rsvp-row">
-      <button class="rsvp-btn" type="button" data-rsvp="went">WENT</button>
-      <button class="rsvp-btn" type="button" data-rsvp="want">WANT TO GO</button>
+      <button class="rsvp-btn${pickStatus === "went" ? " active" : ""}" type="button" data-rsvp="went">WENT</button>
+      <button class="rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>
     </div>
   `;
 
   panelBody.querySelectorAll("[data-rsvp]").forEach((btn) => {
-    btn.addEventListener("click", () => btn.classList.toggle("active"));
+    btn.addEventListener("click", async () => {
+      const status = btn.dataset.rsvp;
+      const current = window.NachtdienstAuth.getPickStatus(event.id);
+      const next = current === status ? null : status;
+      await window.NachtdienstAuth.setPick(event.id, next);
+      panelBody.querySelectorAll("[data-rsvp]").forEach((b) => {
+        b.classList.toggle("active", b.dataset.rsvp === next);
+      });
+    });
+  });
+
+  document.getElementById("favVenueBtn").addEventListener("click", async () => {
+    if (!window.NachtdienstAuth.isLoggedIn()) {
+      window.NachtdienstAuth.openLogin();
+      return;
+    }
+    await window.NachtdienstAuth.toggleFavoriteVenue(event.venue.name);
+    const nowFav = window.NachtdienstAuth.isFavoriteVenue(event.venue.name);
+    const favBtn = document.getElementById("favVenueBtn");
+    favBtn.textContent = nowFav ? "FAVORITED" : "FAVORITE VENUE";
+    favBtn.classList.toggle("active", nowFav);
   });
 
   if (event.flyer_url) {
@@ -549,5 +572,13 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && panelEl.classList.contains("open")) closePanel();
 });
 wirePanelDrag();
+
+// Re-render the open panel's pick/favorite state (and the list, since a pick
+// there could change ordering in a future step) whenever login state changes.
+window.NachtdienstAuth.onAuthChange(() => {
+  if (panelEl.classList.contains("open") && state.selectedEventId) {
+    openPanel(state.selectedEventId);
+  }
+});
 
 init();
