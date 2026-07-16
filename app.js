@@ -262,18 +262,50 @@ function renderStepper() {
   datePickerEl.value = state.selectedDate;
 }
 
+const TICKER_PIXELS_PER_SECOND = 60;
+let tickerAnimation = null;
+
+function reducedMotion() {
+  return matchMedia("(prefers-reduced-motion: reduce)").matches;
+}
+
+// Web Animations API instead of a CSS @keyframes/%-transform loop -- percentage
+// transforms on an intrinsically-sized flex box are a known source of iOS
+// Safari animation bugs (the ticker just wouldn't move at all). Measuring the
+// actual pixel width also gives a constant px/sec speed regardless of how much
+// text is in a given night's ticker, rather than a fixed duration that made
+// longer content race by and short content crawl.
+async function startTickerAnimation() {
+  if (tickerAnimation) {
+    tickerAnimation.cancel();
+    tickerAnimation = null;
+  }
+  if (reducedMotion()) return;
+
+  await document.fonts.ready; // measure post-webfont-swap, not fallback-font metrics
+
+  const singleWidth = tickerEl.scrollWidth / 2; // content is always duplicated below
+  if (!singleWidth || singleWidth <= tickerWrapEl.clientWidth) return; // fits, nothing to scroll
+
+  const duration = (singleWidth / TICKER_PIXELS_PER_SECOND) * 1000;
+  tickerAnimation = tickerEl.animate(
+    [{ transform: "translateX(0)" }, { transform: `translateX(-${singleWidth}px)` }],
+    { duration, iterations: Infinity, easing: "linear" }
+  );
+}
+
 function renderTicker() {
   const events = eventsForDate(state.selectedDate);
   tickerWrapEl.setAttribute("aria-label", `${formatDateLabel(state.selectedDate)}'s headline events`);
-  if (events.length === 0) {
-    tickerEl.innerHTML = `<span class="item">NOTHING SCRAPED FOR THIS NIGHT YET.</span>`;
-    return;
-  }
-  const items = events
-    .map((e) => `<span class="item">${e.title} <span class="v">${e.venue.name}</span></span><span class="sep">•</span>`)
-    .join("");
-  // duplicated once for a seamless 50%-translate loop
-  tickerEl.innerHTML = items + items;
+  const html =
+    events.length === 0
+      ? `<span class="item">NOTHING SCRAPED FOR THIS NIGHT YET.</span>`
+      : events
+          .map((e) => `<span class="item">${e.title} <span class="v">${e.venue.name}</span></span><span class="sep">•</span>`)
+          .join("");
+  // duplicated once for a seamless loop (see startTickerAnimation)
+  tickerEl.innerHTML = html + html;
+  startTickerAnimation();
 }
 
 function renderList() {
@@ -583,10 +615,15 @@ async function init() {
 
 prevDayBtn.addEventListener("click", () => stepDate(-1));
 nextDayBtn.addEventListener("click", () => stepDate(1));
-dateLabelEl.addEventListener("click", () => {
-  if (datePickerEl.showPicker) datePickerEl.showPicker();
-  else datePickerEl.focus();
-});
+
+// showPicker() must run synchronously inside a real user-gesture handler, and
+// isn't available everywhere -- where it's missing, fall back to a genuinely
+// visible/tappable native input rather than a JS-triggered call that can't work.
+if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.prototype) {
+  dateLabelEl.addEventListener("click", () => datePickerEl.showPicker());
+} else {
+  datePickerEl.classList.add("visible-fallback");
+}
 datePickerEl.addEventListener("change", onDatePickerChange);
 
 scrimEl.addEventListener("click", closePanel);
@@ -595,6 +632,8 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && panelEl.classList.contains("open")) closePanel();
 });
 wirePanelDrag();
+
+matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", () => startTickerAnimation());
 
 // Re-render the open panel's pick/favorite state (and the list, since a pick
 // there could change ordering in a future step) whenever login state changes.

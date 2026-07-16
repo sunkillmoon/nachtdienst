@@ -43,9 +43,9 @@ Rounded cards, purple/blue gradients, Inter or Roboto, hero sections with taglin
 
 ## Motion
 
-- The ticker scrolls. The detail panel slides up. That is the complete list.
+- The ticker scrolls. The detail panel slides up. The ON NOW tag pulses (slow opacity breathe, no movement). That is the complete list — closed.
 - No fade-in-on-scroll, no parallax, no hover lift.
-- Respect `prefers-reduced-motion`: stop the ticker, cut the slide.
+- Respect `prefers-reduced-motion`: stop the ticker, cut the slide, stop the pulse.
 
 ## Quality floor
 
