@@ -1,0 +1,26 @@
+{
+  "id": "24930",
+  "name": "De Sluwe Vos",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2466408",
+      "title": "De Sluwe Vos • Danielle",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466408"
+    },
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-08",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "58337",
+  "name": "DJ S (UK)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480208",
+      "title": "Seedlink⁺ W/ Patch+, Pen Pal & DJs",
+      "date": "2026-07-16",
+      "start": "2026-07-16T22:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480208"
+    },
+    {
+      "id": "ra:2483518",
+      "title": "DnB XL meets Known Associates",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "Ijland",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483518"
+    }
+  ],
+  "past": []
+}

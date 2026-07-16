@@ -1,0 +1,26 @@
+{
+  "id": "132926",
+  "name": "Alec Dienaar",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488704",
+      "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488704"
+    },
+    {
+      "id": "ra:2481339",
+      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "Skatecafe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481339"
+    }
+  ],
+  "past": []
+}

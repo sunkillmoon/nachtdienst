@@ -1,0 +1,26 @@
+{
+  "id": "58977",
+  "name": "EYCEE",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    },
+    {
+      "id": "ra:2449821",
+      "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449821"
+    }
+  ],
+  "past": []
+}

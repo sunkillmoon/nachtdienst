@@ -1,0 +1,26 @@
+{
+  "id": "111019",
+  "name": "Portente",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453374",
+      "title": "Doka Summer Studio x Klub Analog",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:59+02:00",
+      "venue": "Doka",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453374"
+    },
+    {
+      "id": "ra:2480519",
+      "title": "Portente Invites",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Yellow House",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480519"
+    }
+  ],
+  "past": []
+}

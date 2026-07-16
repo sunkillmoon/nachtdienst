@@ -1,0 +1,26 @@
+{
+  "id": "51386",
+  "name": "STERAC",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2458255",
+      "title": "Dekmantel Festival 2026 - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-08",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "66028",
+  "name": "Alex Sharp",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2475467",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-19",
+      "start": "2026-07-19T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475467"
+    },
+    {
+      "id": "ra:2475643",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-26",
+      "start": "2026-07-26T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475643"
+    }
+  ],
+  "past": []
+}

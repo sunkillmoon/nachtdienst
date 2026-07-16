@@ -1,0 +1,35 @@
+{
+  "id": "182573",
+  "name": "Dean Turnley",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-23",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
+      "id": "ra:2485555",
+      "title": "Subcultuur Nachtvierdaagse",
+      "date": "2026-07-23",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "De Lindenberg",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485555"
+    },
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    }
+  ],
+  "past": []
+}

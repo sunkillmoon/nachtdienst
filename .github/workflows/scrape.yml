@@ -41,15 +41,17 @@ jobs:
         if: env.SKIP != 'true'
         run: python -m scraper.scrape
 
-      - name: Commit data/events.json if it changed
+      - name: Commit refreshed data if it changed
         if: env.SKIP != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data/events.json; then
+          # Stage everything under data/ (events.json + archive/ + artists/). Untracked
+          # files count too, so stage first then check the index for changes.
+          git add data/
+          if git diff --cached --quiet; then
             echo "No changes."
           else
-            git add data/events.json
-            git commit -m "Scrape: update events.json ($(TZ=Europe/Amsterdam date '+%Y-%m-%d %H:%M %Z'))"
+            git commit -m "Scrape: refresh data ($(TZ=Europe/Amsterdam date '+%Y-%m-%d %H:%M %Z'))"
             git push origin HEAD:main
           fi

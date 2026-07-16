@@ -1,0 +1,26 @@
+{
+  "id": "103515",
+  "name": "Aldonna",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480209",
+      "title": "Aldonna b2b Kyra Khaldi",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480209"
+    },
+    {
+      "id": "ra:2490752",
+      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490752"
+    }
+  ],
+  "past": []
+}

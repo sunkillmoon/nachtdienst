@@ -1,0 +1,26 @@
+{
+  "id": "90332",
+  "name": "Fenna Fiction",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488741",
+      "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:59+02:00",
+      "venue": "BASIS",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488741"
+    },
+    {
+      "id": "ra:2476218",
+      "title": "100% KATOEN",
+      "date": "2026-07-30",
+      "start": "2026-07-30T20:00+02:00",
+      "venue": "Café Katoen",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476218"
+    }
+  ],
+  "past": []
+}

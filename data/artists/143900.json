@@ -1,0 +1,26 @@
+{
+  "id": "143900",
+  "name": "Lara Renner",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2485428",
+      "title": "HYPERPRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Parallel",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485428"
+    }
+  ],
+  "past": []
+}

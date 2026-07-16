@@ -1,0 +1,26 @@
+{
+  "id": "136324",
+  "name": "Floris Fahrenheit",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-23",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488747"
+    }
+  ],
+  "past": []
+}

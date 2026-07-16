@@ -1,0 +1,53 @@
+{
+  "id": "92873",
+  "name": "Tjade",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2485555",
+      "title": "Subcultuur Nachtvierdaagse",
+      "date": "2026-07-23",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "De Lindenberg",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485555"
+    },
+    {
+      "id": "ra:2425635",
+      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    },
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-09",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": []
+}

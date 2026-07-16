@@ -1,0 +1,35 @@
+{
+  "id": "96633",
+  "name": "THC",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    },
+    {
+      "id": "ra:2490471",
+      "title": "PURE at hito",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "Hito Scheveningen",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2490471"
+    },
+    {
+      "id": "ra:2375945",
+      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Paradiso",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375945"
+    }
+  ],
+  "past": []
+}

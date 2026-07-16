@@ -1,0 +1,35 @@
+{
+  "id": "110734",
+  "name": "DIORA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2478072",
+      "title": "TILLAVISION: Aquatec",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478072"
+    },
+    {
+      "id": "ra:2440419",
+      "title": "RAUM invites Mala Junta",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440419"
+    },
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    }
+  ],
+  "past": []
+}

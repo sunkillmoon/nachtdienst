@@ -1,0 +1,26 @@
+{
+  "id": "22644",
+  "name": "Sunju Hargun",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2483324",
+      "title": "Sunju Hargun, VOAL (Shoal & Vand), Leen + bar40 hosting LinksVeld",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Garage Noord",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483324"
+    },
+    {
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423424"
+    }
+  ],
+  "past": []
+}

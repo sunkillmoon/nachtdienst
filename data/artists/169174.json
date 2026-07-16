@@ -1,0 +1,26 @@
+{
+  "id": "169174",
+  "name": "Fiene",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2437706",
+      "title": "Club Lofi pres",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437706"
+    },
+    {
+      "id": "ra:2454597",
+      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:59+02:00",
+      "venue": "BASIS",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2454597"
+    }
+  ],
+  "past": []
+}

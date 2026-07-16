@@ -1,0 +1,26 @@
+{
+  "id": "165567",
+  "name": "The Silentist",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2484096",
+      "title": "Ouragan takeover",
+      "date": "2026-07-18",
+      "start": "2026-07-18T20:00+02:00",
+      "venue": "Bar Theo",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484096"
+    },
+    {
+      "id": "ra:2484097",
+      "title": "Ouragan takeover",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484097"
+    }
+  ],
+  "past": []
+}

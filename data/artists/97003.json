@@ -1,0 +1,26 @@
+{
+  "id": "97003",
+  "name": "Djaygo T",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2444418",
+      "title": "RAVELAND: Hard Groove & Hard Techno w/ Mischa Duncan, DJaygo & Qhaki ",
+      "date": "2026-07-29",
+      "start": "2026-07-29T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444418"
+    },
+    {
+      "id": "ra:2445865",
+      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG] & Djaygo [NL]",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445865"
+    }
+  ],
+  "past": []
+}

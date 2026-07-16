@@ -1,0 +1,26 @@
+{
+  "id": "185245",
+  "name": "The Groovejet",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2475953",
+      "title": "Vodka Woensdag XXL: Night of the Diva's",
+      "date": "2026-07-29",
+      "start": "2026-07-29T21:00+02:00",
+      "venue": "Club NYX",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475953"
+    },
+    {
+      "id": "ra:2487894",
+      "title": "Gay Disko",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Oliva",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487894"
+    }
+  ],
+  "past": []
+}

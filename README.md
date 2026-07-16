@@ -8,21 +8,32 @@ Full product brief, style guide, and roadmap live in [CLAUDE.md](CLAUDE.md) and 
 
 ## Architecture
 
-- `scraper/` — Python, pulls Amsterdam events from Resident Advisor's unofficial GraphQL API into `data/events.json`
+- `scraper/` — Python, pulls nationwide NL events (RA area 176) from Resident Advisor's unofficial GraphQL API into `data/events.json`
+- `data/events.json` — rolling 30-day live window; `data/archive/<year>.json` — permanent archive of every event ever seen (keyed by id, never deleted)
+- `data/artists/<id>.json` — per-artist files (upcoming + past gigs + socials), generated each scrape from events + archive; read by `artist.html`
 - `data/venues.json` — hand-maintained venue name → marker abbreviation/logo map; the scraper never writes to this file
-- `index.html` + `app.js` — static frontend (no framework, no build step) that reads `data/events.json` directly
-- `.github/workflows/scrape.yml` — runs the scraper every morning (~06:00 Amsterdam time) and commits `data/events.json` if it changed
+- `index.html` + `app.js` — map/list/detail frontend; `artist.html` + `artist.js` — client-rendered artist pages. Static, no framework, no build step
+- `.github/workflows/scrape.yml` — runs the scraper every morning (~06:00 Amsterdam time) and commits changed `data/` if anything changed
 - GitHub Pages serves the repo root on the `main` branch
 
 ## Running locally
 
 ```
-.venv\Scripts\python.exe -m scraper.scrape       # fetch fresh events -> data/events.json
+.venv\Scripts\python.exe -m scraper.scrape            # fetch events -> events.json + archive + artist files
 .venv\Scripts\python.exe -m scraper.generate_venues   # sync data/venues.json with any new venues
-python -m http.server 8000                        # serve the frontend
+python -m http.server 8000                            # serve the frontend
 ```
 
-Then open `http://localhost:8000/index.html`. The frontend needs an actual HTTP server — `fetch()` can't read `data/events.json` over `file://`.
+Then open `http://localhost:8000/index.html`. The frontend needs an actual HTTP server — `fetch()` can't read JSON over `file://`.
+
+### Seeding artist history (one-off, manual)
+
+RA exposes each artist's full past history to anonymous callers. `backfill_artists.py` seeds the archive with it and records real social links. It is long-running (hundreds of artists, polite delays), resumable, and NOT run in CI — history otherwise just accumulates forward from the archive's start.
+
+```
+.venv\Scripts\python.exe -m scraper.backfill_artists --limit 5   # test on a small slice first
+.venv\Scripts\python.exe -m scraper.backfill_artists             # the full run
+```
 
 ## Nightly refresh
 

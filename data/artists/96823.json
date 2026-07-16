@@ -1,0 +1,26 @@
+{
+  "id": "96823",
+  "name": "Berkan V8",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480220",
+      "title": "Berkan V8",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480220"
+    },
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    }
+  ],
+  "past": []
+}

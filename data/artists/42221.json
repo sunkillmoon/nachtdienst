@@ -1,0 +1,35 @@
+{
+  "id": "42221",
+  "name": "ISAbella",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    },
+    {
+      "id": "ra:2468330",
+      "title": "ISAbella • Dee Diggs",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Radio Radio",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468330"
+    },
+    {
+      "id": "ra:2462151",
+      "title": "TILLATEC invites: KNIT + VESELKA",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462151"
+    }
+  ],
+  "past": []
+}

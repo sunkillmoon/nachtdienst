@@ -1,0 +1,35 @@
+{
+  "id": "169785",
+  "name": "Gizem",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453384",
+      "title": "Doka Summer Studio x Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453384"
+    },
+    {
+      "id": "ra:2459039",
+      "title": "Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459039"
+    },
+    {
+      "id": "ra:2460516",
+      "title": "Discos Movimiento x Pintai",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460516"
+    }
+  ],
+  "past": []
+}

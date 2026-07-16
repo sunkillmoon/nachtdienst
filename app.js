@@ -34,6 +34,42 @@ const lightboxImgEl = document.getElementById("lightboxImg");
 
 // ---------- pure helpers ----------
 
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+// Escape a lineup line, then turn any RA-linked artist names appearing in it into
+// links to their artist page. Escaping happens first so RA's third-party text can
+// never inject markup; matches are chosen longest-first and non-overlapping.
+function linkifyLineup(line, artists) {
+  const escaped = esc(line);
+  if (!artists || !artists.length) return escaped;
+
+  const matches = [];
+  for (const a of artists) {
+    const needle = esc(a.name);
+    if (!needle) continue;
+    let from = 0, idx;
+    while ((idx = escaped.indexOf(needle, from)) !== -1) {
+      matches.push({ start: idx, end: idx + needle.length, id: a.id, text: needle });
+      from = idx + needle.length;
+    }
+  }
+  // Earliest first; among ties prefer the longer match (e.g. "Second Gate" over "Gate").
+  matches.sort((a, b) => a.start - b.start || (b.end - b.start) - (a.end - a.start));
+
+  let out = "", cursor = 0;
+  for (const m of matches) {
+    if (m.start < cursor) continue; // overlaps an already-linked span
+    out += escaped.slice(cursor, m.start);
+    out += `<a href="artist.html?id=${encodeURIComponent(m.id)}">${m.text}</a>`;
+    cursor = m.end;
+  }
+  out += escaped.slice(cursor);
+  return out;
+}
+
 function haversineKm(lat1, lng1, lat2, lng2) {
   const R = 6371;
   const toRad = (d) => (d * Math.PI) / 180;
@@ -165,11 +201,13 @@ function lineupPanelHtml(event) {
   if (event.lineup_text) {
     return event.lineup_text
       .split("\n")
-      .map((line) => `<li>${line}</li>`)
+      .map((line) => `<li>${linkifyLineup(line, event.artists)}</li>`)
       .join("");
   }
   if (event.artists.length) {
-    return event.artists.map((a) => `<li>${a.name}</li>`).join("");
+    return event.artists
+      .map((a) => `<li><a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a></li>`)
+      .join("");
   }
   return `<li class="tba">TBA</li>`;
 }

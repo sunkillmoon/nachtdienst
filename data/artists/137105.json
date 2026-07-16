@@ -1,0 +1,26 @@
+{
+  "id": "137105",
+  "name": "SOLIT",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2456711",
+      "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",
+      "date": "2026-07-18",
+      "start": "2026-07-18T16:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456711"
+    },
+    {
+      "id": "ra:2480519",
+      "title": "Portente Invites",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Yellow House",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480519"
+    }
+  ],
+  "past": []
+}

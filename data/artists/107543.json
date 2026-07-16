@@ -1,0 +1,26 @@
+{
+  "id": "107543",
+  "name": "Polli Panda",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488747"
+    },
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    }
+  ],
+  "past": []
+}

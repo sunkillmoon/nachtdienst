@@ -1,0 +1,44 @@
+{
+  "id": "166856",
+  "name": "Itz3bby",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480212",
+      "title": "Mathiéux Presents: Itz3bby, Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T22:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480212"
+    },
+    {
+      "id": "ra:2468394",
+      "title": "Mathiéux presents: Itz3bby & Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:59+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468394"
+    },
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    },
+    {
+      "id": "ra:2466518",
+      "title": "Wavy Summer Festival",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466518"
+    }
+  ],
+  "past": []
+}

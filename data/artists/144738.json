@@ -1,0 +1,35 @@
+{
+  "id": "144738",
+  "name": "Julia van Praag",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-23",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
+      "id": "ra:2485555",
+      "title": "Subcultuur Nachtvierdaagse",
+      "date": "2026-07-23",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "De Lindenberg",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485555"
+    },
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ],
+  "past": []
+}

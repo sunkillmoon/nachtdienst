@@ -1,0 +1,35 @@
+{
+  "id": "73940",
+  "name": "CARISTA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2357461",
+      "title": "Orbit Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Fort Vechten",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2357461"
+    },
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-09",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ],
+  "past": []
+}

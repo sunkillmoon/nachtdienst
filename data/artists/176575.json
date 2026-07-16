@@ -1,0 +1,35 @@
+{
+  "id": "176575",
+  "name": "KINETIKS",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    },
+    {
+      "id": "ra:2417587",
+      "title": "Blijdorp Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Roel Langerakpark",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2417587"
+    },
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    }
+  ],
+  "past": []
+}

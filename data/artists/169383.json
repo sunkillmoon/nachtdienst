@@ -1,0 +1,26 @@
+{
+  "id": "169383",
+  "name": "Idilay",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2478274",
+      "title": "Weekend002",
+      "date": "2026-07-19",
+      "start": "2026-07-17T16:00+02:00",
+      "venue": "Shunter",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2478274"
+    },
+    {
+      "id": "ra:2449009",
+      "title": "Hannecart, Byron Yeates, Amaliah, Idilay & More",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449009"
+    }
+  ],
+  "past": []
+}

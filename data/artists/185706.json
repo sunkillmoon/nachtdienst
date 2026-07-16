@@ -1,0 +1,26 @@
+{
+  "id": "185706",
+  "name": "JUUL",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2465293",
+      "title": "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "BASIS",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2465293"
+    },
+    {
+      "id": "ra:2488826",
+      "title": "CLUB GOTO X JANGALA",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:59+02:00",
+      "venue": "BAR Goto",
+      "area": "All",
+      "url": "https://ra.co/events/2488826"
+    }
+  ],
+  "past": []
+}

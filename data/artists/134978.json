@@ -1,0 +1,26 @@
+{
+  "id": "134978",
+  "name": "NewTone",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2449003",
+      "title": "New Tone - All Night",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449003"
+    },
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    }
+  ],
+  "past": []
+}

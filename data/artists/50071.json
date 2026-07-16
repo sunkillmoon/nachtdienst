@@ -1,0 +1,44 @@
+{
+  "id": "50071",
+  "name": "Tsepo",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2460557",
+      "title": "CLUBNACHT / Tsepo (All Night)",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "NAR",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2460557"
+    },
+    {
+      "id": "ra:2466395",
+      "title": "Tsepo All Night",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Radio Radio",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466395"
+    },
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    },
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    }
+  ],
+  "past": []
+}

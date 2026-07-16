@@ -1,0 +1,35 @@
+{
+  "id": "154448",
+  "name": "Freddi",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2357558",
+      "title": "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT",
+      "date": "2026-07-18",
+      "start": "2026-07-18T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357558"
+    },
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    },
+    {
+      "id": "ra:2475177",
+      "title": "Paige Tomlinson & Friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "area": "All",
+      "url": "https://ra.co/events/2475177"
+    }
+  ],
+  "past": []
+}

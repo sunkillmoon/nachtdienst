@@ -1,0 +1,62 @@
+{
+  "id": "99004",
+  "name": "Marco Ramos",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2477355",
+      "title": "Amsterdam Techno Sessions with 500MA aka Second Gate - MEX & Marco Ramos",
+      "date": "2026-07-16",
+      "start": "2026-07-16T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477355"
+    },
+    {
+      "id": "ra:2477362",
+      "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477362"
+    },
+    {
+      "id": "ra:2477372",
+      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477372"
+    },
+    {
+      "id": "ra:2477375",
+      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2477378",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477378"
+    },
+    {
+      "id": "ra:2477393",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477393"
+    }
+  ],
+  "past": []
+}

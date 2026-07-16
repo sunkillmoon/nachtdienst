@@ -1,0 +1,26 @@
+{
+  "id": "126833",
+  "name": "Riordan",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2426010",
+      "title": "Hush at the Beach with Riordan, Job de Jong & More",
+      "date": "2026-07-24",
+      "start": "2026-07-24T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426010"
+    },
+    {
+      "id": "ra:2466510",
+      "title": "Joy at the Beach",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Bronze Beach",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466510"
+    }
+  ],
+  "past": []
+}

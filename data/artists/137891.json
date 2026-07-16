@@ -1,0 +1,53 @@
+{
+  "id": "137891",
+  "name": "Emma Champagne Queen",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488713",
+      "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488713"
+    },
+    {
+      "id": "ra:2475953",
+      "title": "Vodka Woensdag XXL: Night of the Diva's",
+      "date": "2026-07-29",
+      "start": "2026-07-29T21:00+02:00",
+      "venue": "Club NYX",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475953"
+    },
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2484250",
+      "title": "Recovery Sessions: Vol 001",
+      "date": "2026-08-02",
+      "start": "2026-08-02T14:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484250"
+    },
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    }
+  ],
+  "past": []
+}

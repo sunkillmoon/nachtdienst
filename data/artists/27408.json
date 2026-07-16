@@ -1,0 +1,35 @@
+{
+  "id": "27408",
+  "name": "Dam Swindle",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488700",
+      "title": "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488700"
+    },
+    {
+      "id": "ra:2435241",
+      "title": "De Binnenstad",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2435241"
+    },
+    {
+      "id": "ra:2449012",
+      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449012"
+    }
+  ],
+  "past": []
+}

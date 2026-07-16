@@ -1,0 +1,26 @@
+{
+  "id": "113818",
+  "name": "angelboy",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    },
+    {
+      "id": "ra:2485428",
+      "title": "HYPERPRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Parallel",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485428"
+    }
+  ],
+  "past": []
+}

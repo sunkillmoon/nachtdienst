@@ -1,0 +1,35 @@
+{
+  "id": "178844",
+  "name": "iMarly",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2474501",
+      "title": "Eye-Ris x Gloeilamp - The Yard",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Toekomstmuziek",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474501"
+    },
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    },
+    {
+      "id": "ra:2417587",
+      "title": "Blijdorp Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Roel Langerakpark",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2417587"
+    }
+  ],
+  "past": []
+}

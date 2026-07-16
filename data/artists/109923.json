@@ -1,0 +1,26 @@
+{
+  "id": "109923",
+  "name": "Raxeller",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2454339",
+      "title": "VERKNIPT Beach Special - 19 July",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "area": "All",
+      "url": "https://ra.co/events/2454339"
+    },
+    {
+      "id": "ra:2400580",
+      "title": "BASIS Outdoor/ 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Beton-T",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2400580"
+    }
+  ],
+  "past": []
+}

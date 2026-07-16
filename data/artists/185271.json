@@ -1,0 +1,26 @@
+{
+  "id": "185271",
+  "name": "The Heartbreaks",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2487894",
+      "title": "Gay Disko",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Oliva",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487894"
+    },
+    {
+      "id": "ra:2483964",
+      "title": "Heated Rivalrave",
+      "date": "2026-08-06",
+      "start": "2026-08-06T21:00+02:00",
+      "venue": "Melkweg",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483964"
+    }
+  ],
+  "past": []
+}

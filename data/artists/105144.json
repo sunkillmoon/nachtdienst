@@ -1,0 +1,26 @@
+{
+  "id": "105144",
+  "name": "Locus Error",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488231",
+      "title": "BALANS X THE LOW END",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:59+02:00",
+      "venue": "Café De Plak",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2488231"
+    },
+    {
+      "id": "ra:2400580",
+      "title": "BASIS Outdoor/ 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Beton-T",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2400580"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "117525",
+  "name": "Prance",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480211",
+      "title": "Playhaus w/ Di² b2b rkeat, JØRDY & Prance",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480211"
+    },
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    }
+  ],
+  "past": []
+}

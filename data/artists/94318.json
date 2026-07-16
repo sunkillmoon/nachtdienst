@@ -1,0 +1,26 @@
+{
+  "id": "94318",
+  "name": "Alex Ranzino",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479376",
+      "title": "Alex Ranzino b2b Momanna",
+      "date": "2026-07-24",
+      "start": "2026-07-24T00:00+02:00",
+      "venue": "export",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479376"
+    },
+    {
+      "id": "ra:2487320",
+      "title": "SEASON FINALE",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "ANTIA",
+      "area": "All",
+      "url": "https://ra.co/events/2487320"
+    }
+  ],
+  "past": []
+}

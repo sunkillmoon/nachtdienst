@@ -1,0 +1,44 @@
+{
+  "id": "93746",
+  "name": "Hannecart",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2402609",
+      "title": "No Art Opening Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2402609"
+    },
+    {
+      "id": "ra:2483329",
+      "title": "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Garage Noord",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483329"
+    },
+    {
+      "id": "ra:2449009",
+      "title": "Hannecart, Byron Yeates, Amaliah, Idilay & More",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449009"
+    },
+    {
+      "id": "ra:2452373",
+      "title": "VBX BRET",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452373"
+    }
+  ],
+  "past": []
+}

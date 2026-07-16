@@ -1,0 +1,26 @@
+{
+  "id": "174340",
+  "name": "IN2POL",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    },
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    }
+  ],
+  "past": []
+}

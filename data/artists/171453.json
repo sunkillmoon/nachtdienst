@@ -1,0 +1,44 @@
+{
+  "id": "171453",
+  "name": "Cici Daze",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-26",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
+    {
+      "id": "ra:2466195",
+      "title": "TOFFLER presents DAF and friends",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Toffler",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466195"
+    },
+    {
+      "id": "ra:2476120",
+      "title": "Locky curates",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476120"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-09",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": []
+}

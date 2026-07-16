@@ -1,0 +1,26 @@
+{
+  "id": "180223",
+  "name": "Shinshan Salazar",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2489890",
+      "title": "Carnaval Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T16:00+02:00",
+      "venue": "Mono",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489890"
+    },
+    {
+      "id": "ra:2488633",
+      "title": "Baila Baixa",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "EKKO",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488633"
+    }
+  ],
+  "past": []
+}

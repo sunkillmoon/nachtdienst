@@ -1,0 +1,35 @@
+{
+  "id": "146056",
+  "name": "Alma Negrot",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488590",
+      "title": "HOMOMONUMENT X BRET AFTERHOURS (18+)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488590"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    },
+    {
+      "id": "ra:2487479",
+      "title": "3xNYX: POP-UP hosted by Prince JayJay",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Club NYX",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487479"
+    }
+  ],
+  "past": []
+}

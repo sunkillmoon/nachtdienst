@@ -1,0 +1,26 @@
+{
+  "id": "102003",
+  "name": "Al Wootton",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
+    {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-08-02",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    }
+  ],
+  "past": []
+}

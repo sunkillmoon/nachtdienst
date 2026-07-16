@@ -1,0 +1,35 @@
+{
+  "id": "102359",
+  "name": "Dr Dubplate",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2462871",
+      "title": "OG Records",
+      "date": "2026-07-17",
+      "start": "2026-07-17T22:00+02:00",
+      "venue": "Skatecafe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462871"
+    },
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    },
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    }
+  ],
+  "past": []
+}

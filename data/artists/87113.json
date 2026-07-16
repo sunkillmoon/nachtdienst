@@ -1,0 +1,26 @@
+{
+  "id": "87113",
+  "name": "Aiden Francis",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2478078",
+      "title": "TILLATEC Invites: High Hoops",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478078"
+    },
+    {
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2436135"
+    }
+  ],
+  "past": []
+}

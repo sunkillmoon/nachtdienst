@@ -1,0 +1,35 @@
+{
+  "id": "128390",
+  "name": "Jessie Dols",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-26",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
+    {
+      "id": "ra:2443210",
+      "title": "Hot Meal presents Mischluft's Hard Feelings",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443210"
+    },
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    }
+  ],
+  "past": []
+}

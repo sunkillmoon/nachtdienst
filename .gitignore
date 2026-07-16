@@ -1,4 +1,5 @@
 .venv/
 scraper/.cache/
+scraper/.cache_artists/
 __pycache__/
 *.pyc

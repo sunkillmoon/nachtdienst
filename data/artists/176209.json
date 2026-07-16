@@ -1,0 +1,26 @@
+{
+  "id": "176209",
+  "name": "SANTØS",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2454339",
+      "title": "VERKNIPT Beach Special - 19 July",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "area": "All",
+      "url": "https://ra.co/events/2454339"
+    },
+    {
+      "id": "ra:2437625",
+      "title": "TOFFLER presents SANTØS and friends",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Toffler",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437625"
+    }
+  ],
+  "past": []
+}

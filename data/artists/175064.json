@@ -1,0 +1,26 @@
+{
+  "id": "175064",
+  "name": "Jolani Jhones",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2466203",
+      "title": "TOFFLER presents Jill-Ann and friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Toffler",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466203"
+    },
+    {
+      "id": "ra:2454703",
+      "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454703"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "111450",
+  "name": "DJ AYA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2414866",
+      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414866"
+    },
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "77651",
+  "name": "Rene Wise",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2464183",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "RADION",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464183"
+    },
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
+    {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-08-02",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    },
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-08",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    }
+  ],
+  "past": []
+}

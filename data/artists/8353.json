@@ -1,0 +1,26 @@
+{
+  "id": "8353",
+  "name": "Virginia",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2485024",
+      "title": "RADION invites Justine Perry",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "RADION",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485024"
+    },
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-09",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ],
+  "past": []
+}

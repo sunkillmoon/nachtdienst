@@ -1,0 +1,26 @@
+{
+  "id": "131265",
+  "name": "Essy",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2443210",
+      "title": "Hot Meal presents Mischluft's Hard Feelings",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443210"
+    },
+    {
+      "id": "ra:2478070",
+      "title": "Dansplicht Open Air",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Brewpub Reijngoud",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2478070"
+    }
+  ],
+  "past": []
+}

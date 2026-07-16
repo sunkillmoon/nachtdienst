@@ -1,0 +1,44 @@
+{
+  "id": "118668",
+  "name": "Kyra Khaldi",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2480209",
+      "title": "Aldonna b2b Kyra Khaldi",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "nachbar",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480209"
+    },
+    {
+      "id": "ra:2439763",
+      "title": "Botanic Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "De Olmenhorst",
+      "area": "All",
+      "url": "https://ra.co/events/2439763"
+    },
+    {
+      "id": "ra:2476114",
+      "title": "PACH. curates",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476114"
+    },
+    {
+      "id": "ra:2490449",
+      "title": "OG Records with bullet tooth",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490449"
+    }
+  ],
+  "past": []
+}

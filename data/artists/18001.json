@@ -1,0 +1,26 @@
+{
+  "id": "18001",
+  "name": "Ferro",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2474154",
+      "title": "Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK)",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Het Sieraad",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474154"
+    },
+    {
+      "id": "ra:2456711",
+      "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",
+      "date": "2026-07-18",
+      "start": "2026-07-18T16:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456711"
+    }
+  ],
+  "past": []
+}

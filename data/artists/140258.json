@@ -1,0 +1,26 @@
+{
+  "id": "140258",
+  "name": "Young Duif",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453374",
+      "title": "Doka Summer Studio x Klub Analog",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:59+02:00",
+      "venue": "Doka",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453374"
+    },
+    {
+      "id": "ra:2483937",
+      "title": "Klub Analog",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:59+02:00",
+      "venue": "Doka",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483937"
+    }
+  ],
+  "past": []
+}

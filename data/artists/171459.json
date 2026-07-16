@@ -1,0 +1,35 @@
+{
+  "id": "171459",
+  "name": "ESTRELLA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2476214",
+      "title": "100% KATOEN",
+      "date": "2026-07-23",
+      "start": "2026-07-23T20:00+02:00",
+      "venue": "Café Katoen",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476214"
+    },
+    {
+      "id": "ra:2439763",
+      "title": "Botanic Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "De Olmenhorst",
+      "area": "All",
+      "url": "https://ra.co/events/2439763"
+    },
+    {
+      "id": "ra:2490752",
+      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490752"
+    }
+  ],
+  "past": []
+}

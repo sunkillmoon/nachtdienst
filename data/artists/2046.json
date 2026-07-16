@@ -1,0 +1,26 @@
+{
+  "id": "2046",
+  "name": "Bart Skils",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2460749",
+      "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",
+      "date": "2026-08-01",
+      "start": "2026-08-01T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460749"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-09",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": []
+}

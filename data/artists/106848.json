@@ -1,0 +1,26 @@
+{
+  "id": "106848",
+  "name": "bebe bad",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    },
+    {
+      "id": "ra:2440412",
+      "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440412"
+    }
+  ],
+  "past": []
+}

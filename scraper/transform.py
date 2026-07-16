@@ -65,6 +65,7 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             continue
 
         location = venue.get("location") or {}
+        area = venue.get("area") or {}
         start = _parse_local(event["startTime"])
         end = _parse_local(event["endTime"]) if event.get("endTime") else None
 
@@ -74,6 +75,7 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             "title": event.get("title") or "Untitled",
             "venue": {
                 "name": venue["name"],
+                "area": area.get("name"),
                 "lat": location.get("latitude"),
                 "lng": location.get("longitude"),
             },

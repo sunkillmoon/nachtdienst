@@ -1,0 +1,26 @@
+{
+  "id": "117194",
+  "name": "Rozie",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-09",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": []
+}

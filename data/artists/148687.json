@@ -1,0 +1,44 @@
+{
+  "id": "148687",
+  "name": "36framez",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    },
+    {
+      "id": "ra:2486670",
+      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "export",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486670"
+    },
+    {
+      "id": "ra:2440428",
+      "title": "BASHKKA present INVIGORATE A.M",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440428"
+    },
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    }
+  ],
+  "past": []
+}

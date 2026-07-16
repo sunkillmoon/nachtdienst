@@ -1,0 +1,26 @@
+{
+  "id": "127454",
+  "name": "Tida Kamara",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2462878",
+      "title": "ROOTED X BOUNCE THAT BOOTY",
+      "date": "2026-07-18",
+      "start": "2026-07-18T22:00+02:00",
+      "venue": "Skatecafe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462878"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    }
+  ],
+  "past": []
+}

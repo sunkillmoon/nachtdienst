@@ -1,0 +1,26 @@
+{
+  "id": "165677",
+  "name": "Gabriel Muñoz",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2435241",
+      "title": "De Binnenstad",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2435241"
+    },
+    {
+      "id": "ra:2454703",
+      "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454703"
+    }
+  ],
+  "past": []
+}

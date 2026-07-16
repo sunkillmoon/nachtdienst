@@ -1,0 +1,35 @@
+{
+  "id": "118747",
+  "name": "Julian Fijma",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-26",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
+    {
+      "id": "ra:2437651",
+      "title": "Colorado Charlie - 9-Year Anniversary with Julian Fijma (All Day Long) (SOLD OUT)",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2437651"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-09",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": []
+}

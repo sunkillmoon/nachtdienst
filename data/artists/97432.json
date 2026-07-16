@@ -1,0 +1,35 @@
+{
+  "id": "97432",
+  "name": "Mathijs Smit",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2488704",
+      "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488704"
+    },
+    {
+      "id": "ra:2419387",
+      "title": "Benwal (ALL DAY LONG) [sold out]",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Woodstock'69",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2419387"
+    },
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-09",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ],
+  "past": []
+}

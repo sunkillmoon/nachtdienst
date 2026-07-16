@@ -1,0 +1,53 @@
+{
+  "id": "179646",
+  "name": "LYLO (NL)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    },
+    {
+      "id": "ra:2477184",
+      "title": "PAMELA invites Dalson Superstore",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "TILLATEC",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477184"
+    },
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    },
+    {
+      "id": "ra:2475988",
+      "title": "DE DANSVLOER / LYLO",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "NAR",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    }
+  ],
+  "past": []
+}

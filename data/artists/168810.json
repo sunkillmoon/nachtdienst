@@ -1,0 +1,26 @@
+{
+  "id": "168810",
+  "name": "inKKiss",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2489671",
+      "title": "Tram 10 - Hard Techno",
+      "date": "2026-07-17",
+      "start": "2026-07-17T22:00+02:00",
+      "venue": "Panama",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489671"
+    },
+    {
+      "id": "ra:2481852",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss",
+      "date": "2026-08-11",
+      "start": "2026-08-11T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481852"
+    }
+  ],
+  "past": []
+}
