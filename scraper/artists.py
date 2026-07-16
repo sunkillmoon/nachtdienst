@@ -7,10 +7,10 @@ today (Europe/Amsterdam). Real social URLs are merged in from
 rewritten when their content changes, to keep nightly git diffs small.
 """
 import json
-from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from . import archive, config
+from .nightlogic import current_night
 
 TZ = ZoneInfo(config.TIMEZONE)
 ARTISTS_DIR = config.REPO_ROOT / "data" / "artists"
@@ -31,7 +31,10 @@ def _gig(event: dict) -> dict:
 
 
 def _today() -> str:
-    return datetime.now(TZ).date().isoformat()
+    # Same night rule as scraper/nightlogic.py / app.js -- "today" for
+    # upcoming/past bucketing is the current *night*, not the plain calendar
+    # date, so this matches events.json's own `date` field exactly.
+    return current_night(TZ)
 
 
 def _load_events() -> list[dict]:

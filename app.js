@@ -92,9 +92,21 @@ function clamp(v, lo, hi) {
   return v < lo ? lo : v > hi ? hi : v;
 }
 
-function todayAmsterdam() {
+// Which "night" a moment/event belongs to: a party starting 23:00 and one
+// starting 02:00 the "next" calendar day are the same night out, so grouping
+// by plain calendar date is wrong right when it matters most -- just after
+// midnight. An event/moment belongs to the night of (it - 8h).date(). Matches
+// scraper/nightlogic.py exactly (documented as core domain logic in CLAUDE.md).
+const NIGHT_CUTOFF_HOURS = 8;
+
+function nightOf(dateInput) {
+  const t = new Date(dateInput).getTime() - NIGHT_CUTOFF_HOURS * 60 * 60 * 1000;
   // en-CA formats as YYYY-MM-DD
-  return new Intl.DateTimeFormat("en-CA", { timeZone: AMSTERDAM_TZ }).format(new Date());
+  return new Intl.DateTimeFormat("en-CA", { timeZone: AMSTERDAM_TZ }).format(new Date(t));
+}
+
+function currentNightAmsterdam() {
+  return nightOf(new Date());
 }
 
 function addDaysToDateStr(dateStr, n) {
@@ -167,6 +179,13 @@ function isEventLive(event) {
   return start <= now && now <= end;
 }
 
+function isEventEnded(event) {
+  if (state.selectedDate !== state.todayDate) return false;
+  const now = Date.now();
+  const end = event.end ? new Date(event.end).getTime() : new Date(event.start).getTime();
+  return now > end;
+}
+
 function sortEvents(events, coords) {
   return events
     .map((event) => {
@@ -223,8 +242,9 @@ function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
   const nowBadge = isEventLive(event) ? `<span class="tag now">ON NOW</span>` : "";
+  const endedBadge = isEventEnded(event) ? `<span class="tag">ENDED</span>` : "";
   const tbaBadge = event.venue.location_tba ? `<span class="tag">LOCATION TBA</span>` : "";
-  return genreTags + soldOutBadge + nowBadge + tbaBadge;
+  return genreTags + soldOutBadge + nowBadge + endedBadge + tbaBadge;
 }
 
 function mapsDirectionsUrl(lat, lng) {
@@ -267,7 +287,7 @@ function renderList() {
   listEl.innerHTML = sorted
     .map(
       ({ event }) => `
-    <button class="row" type="button" data-id="${event.id}">
+    <button class="row${isEventEnded(event) ? " ended" : ""}" type="button" data-id="${event.id}">
       <div class="row-top">
         <span class="row-time">${formatTimeRange(event)}</span>
         <div class="row-title">
@@ -545,7 +565,7 @@ async function init() {
 
   state.allEvents = allEvents;
   state.venuesMeta = venuesMeta;
-  state.todayDate = todayAmsterdam();
+  state.todayDate = currentNightAmsterdam();
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
   state.minDate = dates[0] ?? state.todayDate;

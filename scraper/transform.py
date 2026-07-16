@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
 from . import config
+from .nightlogic import night_of
 
 TZ = ZoneInfo(config.TIMEZONE)
 
@@ -119,7 +120,9 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
                 "lng": lng,
                 "location_tba": location_tba,
             },
-            "date": row["listingDate"][:10],
+            # Which "night" this event belongs to -- see scraper/nightlogic.py
+            # (core domain rule, documented in CLAUDE.md).
+            "date": night_of(start),
             "start": start.isoformat(timespec="minutes"),
             "end": end.isoformat(timespec="minutes") if end else None,
             # RA-registered artists only (kept separate for a future artist-pages

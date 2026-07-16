@@ -38,6 +38,17 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 
 RA sometimes returns placeholder coordinates instead of a real location: exactly `(52, 5)` means "somewhere in the Netherlands, unknown," and `(0, 0)` ("null island") means the venue is genuinely TBA. `scraper/transform.py` detects both and nulls `venue.lat`/`lng`; the `(0,0)` case additionally sets `venue.location_tba: true` so the frontend can show "LOCATION TBA" instead of just quietly omitting a distance. `data/venues.json`'s optional `lat`/`lng` override (above) always wins over both RA's real data and this nulling. `scraper/geocode_venues.py` is a one-off, manual helper that proposes real coordinates for `(52,5)` venues via Nominatim (OpenStreetMap) — it only ever writes to `scraper/geocode_proposals.json` for review; a separate `--apply` run merges reviewed proposals into `venues.json`, never overwriting an existing hand-set override.
 
+## Night logic
+
+Electronic music runs past midnight, so grouping events by plain calendar date breaks exactly when it matters most: at 00:01, a party that started at 23:00 would flip to "yesterday" even though it's still on. Nachtkaart models **nights**, not dates — a core, deliberate rule, not an incidental detail:
+
+> An event belongs to the night of `(start_time − 8h).date()`. "Right now" belongs to the night of `(now − 8h).date()`. Until 08:00 local, "tonight" still means the evening that began yesterday.
+
+- **`scraper/nightlogic.py`** is the one canonical implementation (`night_of()` / `current_night()`). `scraper/transform.py` bakes each event's `date` field from its own `start` using this rule — not from RA's own `listingDate` bucketing, which doesn't reliably follow it. `scraper/artists.py` uses the same rule for its upcoming/past split, so artist pages agree with the main app.
+- **`app.js`** mirrors the identical rule client-side (`nightOf()` / `currentNightAmsterdam()`), since "what night is it right now" is a live, viewer-clock-dependent question that can't be precomputed at scrape time. It drives the ticker, the stepper's default night, ON NOW's gating, and the TODAY/TOMORROW labels.
+- Only new scrapes get the corrected `date` — already-archived historical events keep whatever `date` they were originally computed with; the archive was not retroactively recomputed.
+- Events already finished, when viewing the current night: dimmed row (`--text-dim`) + `ENDED` tag, unfilled marker — but stay in their normal chronological slot, never hidden or resorted.
+
 ## Artist history / backfill
 
 RA exposes each artist's full past history to anonymous callers via `artist(id).events(type: PREVIOUS)` (verified 2026-07-16), and their real socials on the same call. `scraper/backfill_artists.py` is a one-off, manual, long-running job that walks every known artist, seeds the archive with their past gigs, records socials, and rebuilds the artist files. It is resumable (per-artist responses cached) and is NOT part of the nightly CI scrape. Note: backfilling an artist pulls the full lineup of each of their past events, so the artist/archive sets cascade well beyond the seed list. **Until a backfill is run, artist history simply accumulates forward from the archive's start.**
