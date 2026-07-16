@@ -1,0 +1,366 @@
+{
+  "Amstelhaven": {
+    "abbr": "AMST",
+    "logo": null
+  },
+  "Amsterdam Central Station": {
+    "abbr": "ACS",
+    "logo": null
+  },
+  "Amsterdamse Bos": {
+    "abbr": "AB",
+    "logo": null
+  },
+  "BRET": {
+    "abbr": "BRET",
+    "logo": null
+  },
+  "Bar Theo": {
+    "abbr": "BT",
+    "logo": null
+  },
+  "Basement": {
+    "abbr": "BASE",
+    "logo": null
+  },
+  "Bitterzoet": {
+    "abbr": "BITT",
+    "logo": null
+  },
+  "Bordello Aperitivo": {
+    "abbr": "BA",
+    "logo": null
+  },
+  "Bronze Beach": {
+    "abbr": "BB",
+    "logo": null
+  },
+  "CLUB RAUM": {
+    "abbr": "CR",
+    "logo": null
+  },
+  "CONTACT": {
+    "abbr": "CONT",
+    "logo": null
+  },
+  "Café Katoen": {
+    "abbr": "CK",
+    "logo": null
+  },
+  "Catuabar": {
+    "abbr": "CATU",
+    "logo": null
+  },
+  "Chin Chin Club": {
+    "abbr": "CCC",
+    "logo": null
+  },
+  "Cinetol": {
+    "abbr": "CINE",
+    "logo": null
+  },
+  "Club Leidse": {
+    "abbr": "CL",
+    "logo": null
+  },
+  "Club NYX": {
+    "abbr": "CN",
+    "logo": null
+  },
+  "Club Up": {
+    "abbr": "CU",
+    "logo": null
+  },
+  "Crane Hotel Faralda": {
+    "abbr": "CHF",
+    "logo": null
+  },
+  "De Fik Garden": {
+    "abbr": "DFG",
+    "logo": null
+  },
+  "De Hallen": {
+    "abbr": "DH",
+    "logo": null
+  },
+  "De Roze Tanker": {
+    "abbr": "DRT",
+    "logo": null
+  },
+  "De Verbroederij": {
+    "abbr": "DV",
+    "logo": null
+  },
+  "Doka": {
+    "abbr": "DOKA",
+    "logo": null
+  },
+  "Duke Of Tokyo": {
+    "abbr": "DOT",
+    "logo": null
+  },
+  "Flevopark": {
+    "abbr": "FLEV",
+    "logo": null
+  },
+  "Garage Noord": {
+    "abbr": "GN",
+    "logo": null
+  },
+  "Hal25": {
+    "abbr": "HAL2",
+    "logo": null
+  },
+  "Het Dorp": {
+    "abbr": "HD",
+    "logo": null
+  },
+  "Het Sieraad": {
+    "abbr": "HS",
+    "logo": null
+  },
+  "House of Noa": {
+    "abbr": "HON",
+    "logo": null
+  },
+  "Houtbaar Haarlem": {
+    "abbr": "HH",
+    "logo": null
+  },
+  "Huis van Iemand Anders": {
+    "abbr": "HVIA",
+    "logo": null
+  },
+  "ISOamsterdam": {
+    "abbr": "ISOA",
+    "logo": null
+  },
+  "Ijburg": {
+    "abbr": "IJBU",
+    "logo": null
+  },
+  "Ijland": {
+    "abbr": "IJLA",
+    "logo": null
+  },
+  "John Doe": {
+    "abbr": "JD",
+    "logo": null
+  },
+  "Kadinsky Cafe": {
+    "abbr": "KC",
+    "logo": null
+  },
+  "Levenslang Amsterdam": {
+    "abbr": "LA",
+    "logo": null
+  },
+  "Lofi": {
+    "abbr": "LOFI",
+    "logo": null
+  },
+  "Madam": {
+    "abbr": "MADA",
+    "logo": null
+  },
+  "Manii Beach": {
+    "abbr": "MB",
+    "logo": null
+  },
+  "MeWe Amsterdam": {
+    "abbr": "MA",
+    "logo": null
+  },
+  "Melkweg": {
+    "abbr": "MELK",
+    "logo": null
+  },
+  "Noordspace": {
+    "abbr": "NOOR",
+    "logo": null
+  },
+  "Oedipus Brewery": {
+    "abbr": "OB",
+    "logo": null
+  },
+  "Oliva": {
+    "abbr": "OLIV",
+    "logo": null
+  },
+  "Oude Kerk": {
+    "abbr": "OK",
+    "logo": null
+  },
+  "Paal69": {
+    "abbr": "PAAL",
+    "logo": null
+  },
+  "Pacific Amsterdam": {
+    "abbr": "PA",
+    "logo": null
+  },
+  "Panama": {
+    "abbr": "PANA",
+    "logo": null
+  },
+  "Paradiso": {
+    "abbr": "PARA",
+    "logo": null
+  },
+  "Paradiso Noord / Tolhuistuin": {
+    "abbr": "PNT",
+    "logo": null
+  },
+  "Parallel": {
+    "abbr": "PARA",
+    "logo": null
+  },
+  "Phono Lake": {
+    "abbr": "PL",
+    "logo": null
+  },
+  "Pier 14": {
+    "abbr": "P1",
+    "logo": null
+  },
+  "Possibilities Open Studio": {
+    "abbr": "POS",
+    "logo": null
+  },
+  "RADION": {
+    "abbr": "RADI",
+    "logo": null
+  },
+  "Radio Radio": {
+    "abbr": "RR",
+    "logo": null
+  },
+  "Rembrandtpark": {
+    "abbr": "REMB",
+    "logo": null
+  },
+  "SISSI'S Amsterdam": {
+    "abbr": "SSA",
+    "logo": null
+  },
+  "Shelter Amsterdam": {
+    "abbr": "SA",
+    "logo": null
+  },
+  "Skatecafe": {
+    "abbr": "SKAT",
+    "logo": null
+  },
+  "Sloterpark": {
+    "abbr": "SLOT",
+    "logo": null
+  },
+  "Sluis Haveneiland": {
+    "abbr": "SH",
+    "logo": null
+  },
+  "Soulkitchen": {
+    "abbr": "SOUL",
+    "logo": null
+  },
+  "Sportpark Riekerhaven": {
+    "abbr": "SR",
+    "logo": null
+  },
+  "Studio3000": {
+    "abbr": "STUD",
+    "logo": null
+  },
+  "Supperclub": {
+    "abbr": "SUPP",
+    "logo": null
+  },
+  "Supperclub Cruise": {
+    "abbr": "SC",
+    "logo": null
+  },
+  "TBA": {
+    "abbr": "TBA",
+    "logo": null
+  },
+  "TBA - Centraal Station": {
+    "abbr": "TCS",
+    "logo": null
+  },
+  "TBA - Deventer Outdoor | Molbergsweg 3c ": {
+    "abbr": "TDOM",
+    "logo": null
+  },
+  "TBA - Opstappen bij Adam toren": {
+    "abbr": "TOBA",
+    "logo": null
+  },
+  "TBA - Ruigoord ": {
+    "abbr": "TR",
+    "logo": null
+  },
+  "TBA - Secret Location": {
+    "abbr": "TSL",
+    "logo": null
+  },
+  "TBA - Transit / The Beef Chief": {
+    "abbr": "TTTB",
+    "logo": null
+  },
+  "TBA - Treehouse NDSM": {
+    "abbr": "TTN",
+    "logo": null
+  },
+  "THE OTHER SIDE": {
+    "abbr": "TOS",
+    "logo": null
+  },
+  "TILLATEC": {
+    "abbr": "TILL",
+    "logo": null
+  },
+  "The Loft Amsterdam": {
+    "abbr": "TLA",
+    "logo": null
+  },
+  "The Stargate": {
+    "abbr": "TS",
+    "logo": null
+  },
+  "Thuishaven": {
+    "abbr": "THUI",
+    "logo": null
+  },
+  "Toekomstmuziek": {
+    "abbr": "TOEK",
+    "logo": null
+  },
+  "Vondelpark Openluchttheater": {
+    "abbr": "VO",
+    "logo": null
+  },
+  "Waterkant": {
+    "abbr": "WATE",
+    "logo": null
+  },
+  "WestWeelde": {
+    "abbr": "WEST",
+    "logo": null
+  },
+  "Westerpark Amsterdam": {
+    "abbr": "WA",
+    "logo": null
+  },
+  "Woodstock'69": {
+    "abbr": "W6",
+    "logo": null
+  },
+  "Yellow House": {
+    "abbr": "YH",
+    "logo": null
+  },
+  "nachbar": {
+    "abbr": "NACH",
+    "logo": null
+  }
+}

@@ -29,7 +29,8 @@ query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: I
         cost
         genres { name }
         images { filename type }
-        artists { name }
+        artists { id name }
+        lineup
         venue {
           id
           name

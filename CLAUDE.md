@@ -20,11 +20,12 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 - Static frontend on GitHub Pages: plain HTML/CSS/JS, no framework, no build step for v0
 - Map: MapLibre GL JS with the CARTO Dark Matter basemap ("© OpenStreetMap" attribution is a license requirement — it always stays visible)
 - Data sources: Resident Advisor's unofficial GraphQL API first; djguide.nl later. Instagram: never.
+  - RA's `Event` type also exposes a free-text `content` field (a promoter-written description, separate from the lineup). Confirmed to exist during the lineup-completeness check (2026-07-16) but not scraped or used anywhere yet — noted here so it isn't silently forgotten or silently added beyond what's been asked for.
 - Later phases only: Supabase (accounts, favorites, follows, email notifications), artist pages, personal iCal feed
 
 ## UI structure
 
-- Ticker: one-line scrolling marquee of tonight's headline events
+- Ticker: one-line scrolling marquee of the selected night's headline events
 - Filter: date only
 - Map: dark, square/crosshair markers; tap a marker → detail panel
 - List columns: Time | Event (Organizer) / Venue | Lineup | Tags

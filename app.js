@@ -1,9 +1,11 @@
 const AMSTERDAM_CENTER = { lat: 52.3676, lng: 4.9041 };
 const AMSTERDAM_TZ = "Europe/Amsterdam";
 const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+const WEEKDAYS = ["SUN","MON","TUE","WED","THU","FRI","SAT"];
 
 const state = {
   allEvents: [],
+  venuesMeta: {},
   todayDate: null,
   minDate: null,
   maxDate: null,
@@ -16,14 +18,19 @@ const state = {
 
 const listEl = document.getElementById("eventList");
 const tickerEl = document.getElementById("tickerTrack");
+const tickerWrapEl = document.querySelector(".ticker");
 const panelEl = document.getElementById("panel");
 const panelBody = document.getElementById("panelBody");
+const panelHandleEl = document.querySelector(".panel-handle");
 const scrimEl = document.getElementById("scrim");
 const clockEl = document.getElementById("clock");
 const dateLabelEl = document.getElementById("dateLabel");
+const datePickerEl = document.getElementById("datePicker");
 const prevDayBtn = document.getElementById("prevDay");
 const nextDayBtn = document.getElementById("nextDay");
 const geoNoticeEl = document.getElementById("geoNotice");
+const lightboxEl = document.getElementById("lightbox");
+const lightboxImgEl = document.getElementById("lightboxImg");
 
 // ---------- pure helpers ----------
 
@@ -74,8 +81,15 @@ function formatScrapedAt(events) {
 function formatDateLabel(dateStr) {
   if (dateStr === state.todayDate) return "TODAY";
   if (dateStr === addDaysToDateStr(state.todayDate, 1)) return "TOMORROW";
-  const [, m, d] = dateStr.split("-").map(Number);
-  return `${d} ${MONTHS[m - 1]}`;
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const weekday = WEEKDAYS[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+  return `${weekday} ${d} ${MONTHS[m - 1]}`;
+}
+
+function formatTimeRange(event) {
+  const startHM = event.start.slice(11, 16);
+  if (!event.end) return startHM;
+  return `${startHM}–${event.end.slice(11, 16)}`;
 }
 
 function posterInitials(title) {
@@ -85,15 +99,36 @@ function posterInitials(title) {
   return (words[0][0] + words[1][0]).toUpperCase();
 }
 
+function autoAbbr(name) {
+  const words = name.split(/[^A-Za-z0-9]+/).filter(Boolean);
+  let abbr;
+  if (words.length >= 2) {
+    abbr = words.slice(0, 4).map((w) => w[0]).join("").toUpperCase();
+  } else if (words.length === 1) {
+    abbr = words[0].slice(0, 4).toUpperCase();
+  } else {
+    abbr = "??";
+  }
+  return abbr.slice(0, 4);
+}
+
+function getVenueMeta(name) {
+  return state.venuesMeta[name] ?? { abbr: autoAbbr(name), logo: null };
+}
+
 function eventsForDate(date) {
   return state.allEvents.filter((e) => e.date === date);
 }
 
-function eventsTonight() {
-  return eventsForDate(state.todayDate);
+function isEventLive(event) {
+  if (state.selectedDate !== state.todayDate) return false;
+  const now = Date.now();
+  const start = new Date(event.start).getTime();
+  const end = event.end ? new Date(event.end).getTime() : start;
+  return start <= now && now <= end;
 }
 
-function sortByDistance(events, coords) {
+function sortEvents(events, coords) {
   return events
     .map((event) => {
       const hasCoords = event.venue.lat != null && event.venue.lng != null;
@@ -102,7 +137,10 @@ function sortByDistance(events, coords) {
         : Infinity;
       return { event, distanceKm };
     })
-    .sort((a, b) => a.distanceKm - b.distanceKm);
+    .sort((a, b) => {
+      if (a.event.start !== b.event.start) return a.event.start < b.event.start ? -1 : 1;
+      return a.distanceKm - b.distanceKm;
+    });
 }
 
 function venueGroupsForDate(date) {
@@ -117,6 +155,25 @@ function venueGroupsForDate(date) {
   return groups;
 }
 
+function lineupPreviewText(event) {
+  if (event.lineup_text) return event.lineup_text.replace(/\n/g, ", ");
+  if (event.artists.length) return event.artists.map((a) => a.name).join(", ");
+  return "TBA";
+}
+
+function lineupPanelHtml(event) {
+  if (event.lineup_text) {
+    return event.lineup_text
+      .split("\n")
+      .map((line) => `<li>${line}</li>`)
+      .join("");
+  }
+  if (event.artists.length) {
+    return event.artists.map((a) => `<li>${a.name}</li>`).join("");
+  }
+  return `<li class="tba">TBA</li>`;
+}
+
 function tagHtml(tag) {
   return `<span class="tag">${tag}</span>`;
 }
@@ -124,7 +181,12 @@ function tagHtml(tag) {
 function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
-  return genreTags + soldOutBadge;
+  const nowBadge = isEventLive(event) ? `<span class="tag now">ON NOW</span>` : "";
+  return genreTags + soldOutBadge + nowBadge;
+}
+
+function mapsDirectionsUrl(lat, lng) {
+  return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
 }
 
 // ---------- render ----------
@@ -133,12 +195,16 @@ function renderStepper() {
   dateLabelEl.textContent = formatDateLabel(state.selectedDate);
   prevDayBtn.disabled = state.selectedDate <= state.minDate;
   nextDayBtn.disabled = state.selectedDate >= state.maxDate;
+  datePickerEl.min = state.minDate;
+  datePickerEl.max = state.maxDate;
+  datePickerEl.value = state.selectedDate;
 }
 
 function renderTicker() {
-  const events = eventsTonight();
+  const events = eventsForDate(state.selectedDate);
+  tickerWrapEl.setAttribute("aria-label", `${formatDateLabel(state.selectedDate)}'s headline events`);
   if (events.length === 0) {
-    tickerEl.innerHTML = `<span class="item">NOTHING SCRAPED FOR TONIGHT YET.</span>`;
+    tickerEl.innerHTML = `<span class="item">NOTHING SCRAPED FOR THIS NIGHT YET.</span>`;
     return;
   }
   const items = events
@@ -155,19 +221,19 @@ function renderList() {
     return;
   }
 
-  const sorted = sortByDistance(events, getCoords());
+  const sorted = sortEvents(events, getCoords());
   listEl.innerHTML = sorted
     .map(
       ({ event }) => `
     <button class="row" type="button" data-id="${event.id}">
       <div class="row-top">
-        <span class="row-time">${event.start.slice(11, 16)}</span>
+        <span class="row-time">${formatTimeRange(event)}</span>
         <div class="row-title">
           <span class="row-event">${event.title}</span>
           <span class="row-venue">${event.venue.name}</span>
         </div>
       </div>
-      <div class="row-lineup">${event.lineup.join(", ") || "TBA"}</div>
+      <div class="row-lineup">${lineupPreviewText(event)}</div>
       <div class="row-tags">${tagsRowHtml(event)}</div>
     </button>
   `
@@ -191,30 +257,25 @@ function openPanel(eventId) {
   const hasCoords = event.venue.lat != null && event.venue.lng != null;
   const distanceKm = hasCoords ? haversineKm(coords.lat, coords.lng, event.venue.lat, event.venue.lng) : null;
   const distanceStr = distanceKm != null ? `${distanceKm.toFixed(1)} km` : "—";
-
-  const startHM = event.start.slice(11, 16);
-  const endHM = event.end ? event.end.slice(11, 16) : null;
-  const timeStr = endHM ? `${startHM} — ${endHM}` : startHM;
-
-  const lineupHtml = event.lineup.length
-    ? event.lineup.map((name) => `<li>${name}</li>`).join("")
-    : `<li class="tba">TBA</li>`;
+  const distanceHtml = hasCoords
+    ? `<a href="${mapsDirectionsUrl(event.venue.lat, event.venue.lng)}" target="_blank" rel="noopener">${distanceStr}</a>`
+    : distanceStr;
 
   const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
 
   panelBody.innerHTML = `
     <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
     <h2>${event.title}</h2>
-    <div class="venue-line">${event.venue.name} · ${distanceStr} away</div>
+    <div class="venue-line">${event.venue.name} · ${distanceHtml} away</div>
 
     <div class="facts">
-      <div><span class="k">Time</span><span class="v">${timeStr}</span></div>
+      <div><span class="k">Time</span><span class="v">${formatTimeRange(event)}</span></div>
       <div><span class="k">Price</span><span class="v">${event.price ?? "—"}</span></div>
-      <div><span class="k">Distance</span><span class="v">${distanceStr}</span></div>
+      <div><span class="k">Distance</span><span class="v">${distanceHtml}</span></div>
     </div>
 
     <div class="section-label">Lineup</div>
-    <ul class="lineup-list">${lineupHtml}</ul>
+    <ul class="lineup-list">${lineupPanelHtml(event)}</ul>
 
     <div class="section-label">Links</div>
     <div class="links-row">
@@ -231,6 +292,10 @@ function openPanel(eventId) {
     btn.addEventListener("click", () => btn.classList.toggle("active"));
   });
 
+  if (event.flyer_url) {
+    panelBody.querySelector(".poster").addEventListener("click", () => openLightbox(event.flyer_url));
+  }
+
   panelEl.classList.add("open");
   panelEl.setAttribute("aria-hidden", "false");
   scrimEl.classList.add("open");
@@ -245,6 +310,15 @@ function closePanel() {
   scrimEl.classList.remove("open");
   state.selectedEventId = null;
   syncActiveStates();
+}
+
+function openLightbox(url) {
+  lightboxImgEl.src = url;
+  lightboxEl.classList.add("open");
+}
+
+function closeLightbox() {
+  lightboxEl.classList.remove("open");
 }
 
 function syncActiveStates() {
@@ -286,8 +360,17 @@ function updateMarkersForDate(date) {
   for (const venue of groups.values()) {
     if (venue.lat == null || venue.lng == null) continue;
 
+    const meta = getVenueMeta(venue.name);
     const el = document.createElement("div");
     el.className = "marker";
+    el.title = venue.name;
+    if (venue.events.some(isEventLive)) el.classList.add("live");
+    if (meta.logo) {
+      el.innerHTML = `<img src="${meta.logo}" alt="${venue.name}">`;
+    } else {
+      el.textContent = meta.abbr;
+    }
+
     el.addEventListener("click", () => {
       const earliest = [...venue.events].sort((a, b) => (a.start < b.start ? -1 : 1))[0];
       openPanel(earliest.id);
@@ -327,28 +410,71 @@ function requestGeolocation() {
 
 // ---------- orchestration ----------
 
-function stepDate(delta) {
-  const newDate = clamp(addDaysToDateStr(state.selectedDate, delta), state.minDate, state.maxDate);
-  if (newDate === state.selectedDate) return;
-  state.selectedDate = newDate;
+function renderForSelectedDate() {
   renderStepper();
+  renderTicker();
   renderList();
   updateMarkersForDate(state.selectedDate);
 }
 
+function stepDate(delta) {
+  const newDate = clamp(addDaysToDateStr(state.selectedDate, delta), state.minDate, state.maxDate);
+  if (newDate === state.selectedDate) return;
+  state.selectedDate = newDate;
+  renderForSelectedDate();
+}
+
+function onDatePickerChange() {
+  if (!datePickerEl.value) return;
+  const newDate = clamp(datePickerEl.value, state.minDate, state.maxDate);
+  if (newDate === state.selectedDate) {
+    renderStepper(); // snap the input back if the chosen value was out of range
+    return;
+  }
+  state.selectedDate = newDate;
+  renderForSelectedDate();
+}
+
+function wirePanelDrag() {
+  let startY = null;
+
+  panelHandleEl.addEventListener("touchstart", (e) => {
+    startY = e.touches[0].clientY;
+    panelEl.style.transition = "none";
+  });
+
+  panelHandleEl.addEventListener("touchmove", (e) => {
+    if (startY == null) return;
+    const delta = Math.max(0, e.touches[0].clientY - startY);
+    panelEl.style.transform = `translateY(${delta}px)`;
+  });
+
+  panelHandleEl.addEventListener("touchend", (e) => {
+    if (startY == null) return;
+    const delta = Math.max(0, e.changedTouches[0].clientY - startY);
+    panelEl.style.transition = "";
+    panelEl.style.transform = "";
+    startY = null;
+    if (delta > 60) closePanel();
+  });
+}
+
 async function init() {
   let allEvents = [];
+  let venuesMeta = {};
   try {
-    const res = await fetch("data/events.json");
-    allEvents = await res.json();
+    const [eventsRes, venuesRes] = await Promise.all([fetch("data/events.json"), fetch("data/venues.json")]);
+    allEvents = await eventsRes.json();
+    venuesMeta = venuesRes.ok ? await venuesRes.json() : {};
   } catch (err) {
-    console.error("Failed to load data/events.json", err);
+    console.error("Failed to load data", err);
     listEl.innerHTML = `<div class="row-empty">COULD NOT LOAD DATA/EVENTS.JSON — SERVE THIS DIRECTORY OVER HTTP (E.G. "PYTHON -M HTTP.SERVER") RATHER THAN OPENING THE FILE DIRECTLY.</div>`;
     tickerEl.innerHTML = `<span class="item">NO DATA LOADED.</span>`;
     return;
   }
 
   state.allEvents = allEvents;
+  state.venuesMeta = venuesMeta;
   state.todayDate = todayAmsterdam();
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
@@ -367,7 +493,17 @@ async function init() {
 
 prevDayBtn.addEventListener("click", () => stepDate(-1));
 nextDayBtn.addEventListener("click", () => stepDate(1));
-document.getElementById("closeBtn").addEventListener("click", closePanel);
+dateLabelEl.addEventListener("click", () => {
+  if (datePickerEl.showPicker) datePickerEl.showPicker();
+  else datePickerEl.focus();
+});
+datePickerEl.addEventListener("change", onDatePickerChange);
+
 scrimEl.addEventListener("click", closePanel);
+lightboxEl.addEventListener("click", closeLightbox);
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && panelEl.classList.contains("open")) closePanel();
+});
+wirePanelDrag();
 
 init();

@@ -118,15 +118,30 @@
   }
   .stepper-btn:last-child{ border-right:none; }
   .stepper-btn:disabled{ cursor:not-allowed; opacity:0.35; }
-  .stepper-label{
+  .stepper-label-wrap{
     flex:1;
+    position:relative;
+    border-right:1px solid var(--line);
+    border-left:1px solid var(--line);
+  }
+  .stepper-label{
+    width:100%; height:100%;
     display:flex; align-items:center; justify-content:center;
     font-size:11px;
     letter-spacing:0.08em;
     text-transform:uppercase;
     font-weight:700;
-    border-right:1px solid var(--line);
-    border-left:1px solid var(--line);
+    background:none;
+    border:none;
+    color:var(--text);
+    cursor:pointer;
+  }
+  .date-picker-input{
+    position:absolute; inset:0;
+    opacity:0;
+    width:100%; height:100%;
+    border:none;
+    pointer-events:none;
   }
 
   /* ---------- geolocation notice ---------- */
@@ -143,17 +158,38 @@
 
   /* ---------- map ---------- */
   .map{
-    height:220px;
+    height:45vh;
     border-bottom:1px solid var(--line);
     position:relative;
   }
   .marker{
-    width:10px; height:10px;
+    min-width:20px; height:20px;
+    padding:0 3px;
+    display:flex; align-items:center; justify-content:center;
     border:1px solid var(--accent);
-    background:transparent;
+    background:var(--bg);
+    color:var(--accent);
+    font-family:var(--font-mono);
+    font-size:9px;
+    font-weight:700;
+    letter-spacing:0.02em;
     cursor:pointer;
   }
-  .marker.active{ background:var(--accent); }
+  .marker img{
+    width:100%; height:100%;
+    object-fit:cover;
+    display:block;
+  }
+  .marker.active,
+  .marker.live{
+    background:var(--accent);
+    color:var(--bg);
+  }
+  .marker:hover,
+  .marker.active,
+  .marker.live{
+    z-index:1;
+  }
 
   .maplibregl-ctrl-attrib{
     background:var(--surface) !important;
@@ -232,6 +268,12 @@
     padding:2px 6px;
   }
   .tag.danger{ color:var(--danger); border-color:var(--danger); }
+  .tag.now{
+    color:var(--bg);
+    background:var(--accent);
+    border-color:var(--accent);
+    font-weight:700;
+  }
 
   .row-empty{
     padding:16px;
@@ -243,12 +285,12 @@
   @media (min-width:700px){
     .list-head{
       display:grid;
-      grid-template-columns:72px 1fr 1.3fr auto;
+      grid-template-columns:92px 1fr 1.3fr auto;
       gap:12px;
     }
     .row{
       display:grid;
-      grid-template-columns:72px 1fr 1.3fr auto;
+      grid-template-columns:92px 1fr 1.3fr auto;
       gap:12px;
       align-items:center;
       padding:8px 16px;
@@ -317,10 +359,31 @@
   }
   .poster img{
     width:100%; height:100%;
-    object-fit:cover;
+    object-fit:contain;
+    background:#000;
     display:block;
   }
   .poster.has-image::after{ display:none; }
+  .poster.has-image{ cursor:pointer; background:#000; }
+
+  /* ---------- lightbox ---------- */
+  .lightbox{
+    position:fixed; inset:0;
+    background:#000;
+    display:flex; align-items:center; justify-content:center;
+    opacity:0; pointer-events:none;
+    transition:opacity 0.2s ease;
+    z-index:20;
+    cursor:pointer;
+  }
+  .lightbox.open{ opacity:1; pointer-events:auto; }
+  .lightbox img{
+    max-width:100%; max-height:100%;
+    object-fit:contain;
+  }
+  @media (prefers-reduced-motion: reduce){
+    .lightbox{ transition:none; }
+  }
 
   .panel h2{
     font-family:var(--font-display);
@@ -401,16 +464,6 @@
     font-weight:700;
   }
 
-  .close-btn{
-    position:absolute; top:10px; right:16px;
-    font-size:11px;
-    letter-spacing:0.06em;
-    text-transform:uppercase;
-    background:transparent;
-    border:1px solid var(--line);
-    padding:6px 10px;
-    min-height:auto;
-  }
 </style>
 </head>
 <body>
@@ -427,7 +480,10 @@
 
   <nav class="stepper">
     <button class="stepper-btn" id="prevDay" type="button" aria-label="Previous day">‹</button>
-    <span class="stepper-label" id="dateLabel">TODAY</span>
+    <div class="stepper-label-wrap">
+      <button class="stepper-label" id="dateLabel" type="button">TODAY</button>
+      <input class="date-picker-input" type="date" id="datePicker" tabindex="-1" aria-hidden="true">
+    </div>
     <button class="stepper-btn" id="nextDay" type="button" aria-label="Next day">›</button>
   </nav>
 
@@ -446,9 +502,12 @@
 <div class="scrim" id="scrim"></div>
 <section class="panel" id="panel" aria-hidden="true">
   <div class="panel-handle"></div>
-  <button class="close-btn" id="closeBtn" type="button">CLOSE ✕</button>
   <div class="panel-body" id="panelBody"></div>
 </section>
+
+<div class="lightbox" id="lightbox">
+  <img id="lightboxImg" src="" alt="">
+</div>
 
 <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <script src="app.js"></script>
