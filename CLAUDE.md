@@ -16,6 +16,7 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 
 ## Architecture (v1)
 
+- Live at: https://sunkillmoon.github.io/nachtdienst/
 - Python scraper → `data/events.json`, run nightly by GitHub Actions
 - Static frontend on GitHub Pages: plain HTML/CSS/JS, no framework, no build step for v0
 - Map: MapLibre GL JS with the CARTO Dark Matter basemap ("© OpenStreetMap" attribution is a license requirement — it always stays visible)
@@ -34,10 +35,10 @@ Anatolii — solo, personal project, not commercial. Strong Python/data backgrou
 ## Roadmap
 
 1. Repo + brief — done
-2. Scraper: RA GraphQL → `data/events.json` — CURRENT
-3. Frontend v0: ticker + map + list + detail panel, reading `events.json`
-4. GitHub Actions nightly run + GitHub Pages deploy
-5. Artist pages + genre tags
+2. Scraper: RA GraphQL → `data/events.json` — done
+3. Frontend v0: ticker + map + list + detail panel, reading `events.json` — done
+4. GitHub Actions nightly run + GitHub Pages deploy — done
+5. Artist pages + genre tags — CURRENT
 6. Supabase accounts: favorites, follows, went/want-to-go, notification emails
 7. iCal feed for "want to go"
 
