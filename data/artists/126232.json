@@ -11,6 +11,15 @@
       "venue": "Oranjepark",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2381114"
+    },
+    {
+      "id": "ra:2443517",
+      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T13:00+02:00",
+      "venue": "Thuishaven",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443517"
     }
   ],
   "past": []

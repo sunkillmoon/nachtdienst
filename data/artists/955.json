@@ -6,11 +6,20 @@
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
-      "date": "2026-08-09",
+      "date": "2026-08-08",
       "start": "2026-08-08T12:00+02:00",
       "venue": "Sloterpark",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2472104",
+      "title": "House of Rekids",
+      "date": "2026-08-16",
+      "start": "2026-08-16T14:00+02:00",
+      "venue": "Paal69",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472104"
     }
   ],
   "past": []

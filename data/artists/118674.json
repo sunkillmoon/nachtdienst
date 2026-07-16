@@ -4,6 +4,15 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    },
+    {
       "id": "ra:2464040",
       "title": "De Reünie",
       "date": "2026-07-19",
@@ -13,15 +22,6 @@
       "url": "https://ra.co/events/2464040"
     },
     {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-24",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
-    },
-    {
       "id": "ra:2440421",
       "title": "12HRS Adonis x SPIELRAUM",
       "date": "2026-08-01",
@@ -29,6 +29,15 @@
       "venue": "CLUB RAUM",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440421"
+    },
+    {
+      "id": "ra:2483642",
+      "title": "DE REÜNIE & AOS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T15:00+02:00",
+      "venue": "BRET",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483642"
     }
   ],
   "past": []

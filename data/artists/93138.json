@@ -4,6 +4,15 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",
       "date": "2026-07-18",
@@ -11,15 +20,6 @@
       "venue": "Lofi",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2406778"
-    },
-    {
-      "id": "ra:2485525",
-      "title": "Park Kronenburg",
-      "date": "2026-07-23",
-      "start": "2026-07-18T14:00+02:00",
-      "venue": "Kronenburgerpark",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2485525"
     }
   ],
   "past": []

@@ -6,7 +6,7 @@
     {
       "id": "ra:2485555",
       "title": "Subcultuur Nachtvierdaagse",
-      "date": "2026-07-23",
+      "date": "2026-07-18",
       "start": "2026-07-18T23:59+02:00",
       "venue": "De Lindenberg",
       "area": "Nijmegen",
@@ -22,6 +22,15 @@
       "url": "https://ra.co/events/2357461"
     },
     {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    },
+    {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",
       "date": "2026-08-01",
@@ -29,15 +38,6 @@
       "venue": "Amsterdamse Bos",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458162"
-    },
-    {
-      "id": "ra:2351984",
-      "title": "Dekmantel Festival 2026",
-      "date": "2026-08-02",
-      "start": "2026-07-29T20:30+02:00",
-      "venue": "Amsterdamse Bos",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2351984"
     },
     {
       "id": "ra:2489651",

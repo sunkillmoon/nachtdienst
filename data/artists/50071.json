@@ -13,6 +13,15 @@
       "url": "https://ra.co/events/2460557"
     },
     {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    },
+    {
       "id": "ra:2466395",
       "title": "Tsepo All Night",
       "date": "2026-07-18",
@@ -20,15 +29,6 @@
       "venue": "Radio Radio",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466395"
-    },
-    {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-24",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
     },
     {
       "id": "ra:2385640",

@@ -4,6 +4,15 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    },
+    {
       "id": "ra:2488542",
       "title": "Mattias El Mansouri • 36framez b2b LYLO",
       "date": "2026-08-08",
@@ -11,15 +20,6 @@
       "venue": "Radio Radio",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488542"
-    },
-    {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-09",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
     }
   ],
   "past": []

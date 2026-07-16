@@ -6,7 +6,7 @@
     {
       "id": "ra:2478274",
       "title": "Weekend002",
-      "date": "2026-07-19",
+      "date": "2026-07-17",
       "start": "2026-07-17T16:00+02:00",
       "venue": "Shunter",
       "area": "Rotterdam",
@@ -20,6 +20,15 @@
       "venue": "Shelter Amsterdam",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449009"
+    },
+    {
+      "id": "ra:2491852",
+      "title": "Tale of Bus after hours",
+      "date": "2026-08-02",
+      "start": "2026-08-02T22:00+02:00",
+      "venue": "Het Salon",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491852"
     }
   ],
   "past": []

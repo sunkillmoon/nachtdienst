@@ -20,6 +20,15 @@
       "venue": "Toffler",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466199"
+    },
+    {
+      "id": "ra:2436229",
+      "title": "Rotterdam Rave Beach Sessions with Cloudy & friends",
+      "date": "2026-08-16",
+      "start": "2026-08-16T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436229"
     }
   ],
   "past": []

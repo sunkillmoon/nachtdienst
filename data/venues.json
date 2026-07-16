@@ -1,4 +1,8 @@
 {
+  "ANTIA": {
+    "abbr": "ANTI",
+    "logo": null
+  },
   "Amstelhaven": {
     "abbr": "AMST",
     "logo": null
@@ -9,6 +13,14 @@
   },
   "Amsterdamse Bos": {
     "abbr": "AB",
+    "logo": null
+  },
+  "BAR Goto": {
+    "abbr": "BG",
+    "logo": null
+  },
+  "BASIS": {
+    "abbr": "BASI",
     "logo": null
   },
   "BRET": {
@@ -23,12 +35,40 @@
     "abbr": "BASE",
     "logo": null
   },
+  "Beachclub Fuel": {
+    "abbr": "BF",
+    "logo": null
+  },
+  "Beachclub Indigo": {
+    "abbr": "BI",
+    "logo": null
+  },
+  "Beton-T": {
+    "abbr": "BT",
+    "logo": null
+  },
+  "Biergarten Eindhoven": {
+    "abbr": "BE",
+    "logo": null
+  },
   "Bitterzoet": {
     "abbr": "BITT",
     "logo": null
   },
+  "Boomerang Beach": {
+    "abbr": "BB",
+    "logo": null
+  },
+  "Boot10": {
+    "abbr": "BOOT",
+    "logo": null
+  },
   "Bordello Aperitivo": {
     "abbr": "BA",
+    "logo": null
+  },
+  "Brewpub Reijngoud": {
+    "abbr": "BR",
     "logo": null
   },
   "Bronze Beach": {
@@ -36,11 +76,15 @@
     "logo": null
   },
   "CLUB RAUM": {
-    "abbr": "CR",
+    "abbr": "RAUM",
     "logo": null
   },
   "CONTACT": {
     "abbr": "CONT",
+    "logo": null
+  },
+  "Café De Plak": {
+    "abbr": "CDP",
     "logo": null
   },
   "Café Katoen": {
@@ -71,6 +115,14 @@
     "abbr": "CU",
     "logo": null
   },
+  "Colorado Charlie": {
+    "abbr": "CC",
+    "logo": null
+  },
+  "Complex Maastricht": {
+    "abbr": "CM",
+    "logo": null
+  },
   "Crane Hotel Faralda": {
     "abbr": "CHF",
     "logo": null
@@ -81,6 +133,22 @@
   },
   "De Hallen": {
     "abbr": "DH",
+    "logo": null
+  },
+  "De Kerktuin": {
+    "abbr": "DK",
+    "logo": null
+  },
+  "De Lindenberg": {
+    "abbr": "DL",
+    "logo": null
+  },
+  "De Middengaarde": {
+    "abbr": "DM",
+    "logo": null
+  },
+  "De Olmenhorst": {
+    "abbr": "DO",
     "logo": null
   },
   "De Roze Tanker": {
@@ -99,12 +167,32 @@
     "abbr": "DOT",
     "logo": null
   },
+  "EKKO": {
+    "abbr": "EKKO",
+    "logo": null
+  },
   "Flevopark": {
     "abbr": "FLEV",
     "logo": null
   },
+  "Fort Vechten": {
+    "abbr": "FV",
+    "logo": null
+  },
   "Garage Noord": {
     "abbr": "GN",
+    "logo": null
+  },
+  "Geestmerambacht": {
+    "abbr": "GEES",
+    "logo": null
+  },
+  "Graanfabriek": {
+    "abbr": "GRAA",
+    "logo": null
+  },
+  "Hal 25": {
+    "abbr": "H2",
     "logo": null
   },
   "Hal25": {
@@ -115,7 +203,15 @@
     "abbr": "HD",
     "logo": null
   },
+  "Het Salon": {
+    "abbr": "HS",
+    "logo": null
+  },
   "Het Sieraad": {
+    "abbr": "HS",
+    "logo": null
+  },
+  "Hito Scheveningen": {
     "abbr": "HS",
     "logo": null
   },
@@ -125,6 +221,10 @@
   },
   "Houtbaar Haarlem": {
     "abbr": "HH",
+    "logo": null
+  },
+  "Hubert Nijmegen": {
+    "abbr": "HN",
     "logo": null
   },
   "Huis van Iemand Anders": {
@@ -147,8 +247,24 @@
     "abbr": "JD",
     "logo": null
   },
+  "KABUL à GoGo": {
+    "abbr": "KG",
+    "logo": null
+  },
   "Kadinsky Cafe": {
     "abbr": "KC",
+    "logo": null
+  },
+  "Klinkenbergerplas, Oegstgeest": {
+    "abbr": "KO",
+    "logo": null
+  },
+  "Kronenburgerpark": {
+    "abbr": "KRON",
+    "logo": null
+  },
+  "Kronkel": {
+    "abbr": "KRON",
     "logo": null
   },
   "Levenslang Amsterdam": {
@@ -157,6 +273,10 @@
   },
   "Lofi": {
     "abbr": "LOFI",
+    "logo": null
+  },
+  "Lounge Club LaXx": {
+    "abbr": "LCL",
     "logo": null
   },
   "Madam": {
@@ -175,6 +295,18 @@
     "abbr": "MELK",
     "logo": null
   },
+  "Mono": {
+    "abbr": "MONO",
+    "logo": null
+  },
+  "Muzentuin Tilburg": {
+    "abbr": "MT",
+    "logo": null
+  },
+  "NAR": {
+    "abbr": "NAR",
+    "logo": null
+  },
   "Noordspace": {
     "abbr": "NOOR",
     "logo": null
@@ -187,12 +319,24 @@
     "abbr": "OLIV",
     "logo": null
   },
+  "Oranjepark": {
+    "abbr": "ORAN",
+    "logo": null
+  },
   "Oude Kerk": {
     "abbr": "OK",
     "logo": null
   },
+  "Oude Veerseweg Middelburg": {
+    "abbr": "OVM",
+    "logo": null
+  },
+  "PIP Den Haag": {
+    "abbr": "PDH",
+    "logo": null
+  },
   "Paal69": {
-    "abbr": "PAAL",
+    "abbr": "P69",
     "logo": null
   },
   "Pacific Amsterdam": {
@@ -201,6 +345,10 @@
   },
   "Panama": {
     "abbr": "PANA",
+    "logo": null
+  },
+  "Paradigm": {
+    "abbr": "PARA",
     "logo": null
   },
   "Paradiso": {
@@ -223,6 +371,10 @@
     "abbr": "P1",
     "logo": null
   },
+  "Pirata": {
+    "abbr": "PIRA",
+    "logo": null
+  },
   "Possibilities Open Studio": {
     "abbr": "POS",
     "logo": null
@@ -239,12 +391,24 @@
     "abbr": "REMB",
     "logo": null
   },
+  "Roel Langerakpark": {
+    "abbr": "RL",
+    "logo": null
+  },
+  "Ruis": {
+    "abbr": "RUIS",
+    "logo": null
+  },
   "SISSI'S Amsterdam": {
     "abbr": "SSA",
     "logo": null
   },
   "Shelter Amsterdam": {
     "abbr": "SA",
+    "logo": null
+  },
+  "Shunter": {
+    "abbr": "SHUN",
     "logo": null
   },
   "Skatecafe": {
@@ -259,12 +423,24 @@
     "abbr": "SH",
     "logo": null
   },
+  "Soia - Strand Oog in Al": {
+    "abbr": "SSOI",
+    "logo": null
+  },
   "Soulkitchen": {
     "abbr": "SOUL",
     "logo": null
   },
+  "Spoorzone": {
+    "abbr": "SPOO",
+    "logo": null
+  },
   "Sportpark Riekerhaven": {
     "abbr": "SR",
+    "logo": null
+  },
+  "Stadshaven Brouwerij": {
+    "abbr": "SB",
     "logo": null
   },
   "Studio3000": {
@@ -283,12 +459,24 @@
     "abbr": "TBA",
     "logo": null
   },
+  "TBA - Cafe Van Hout, Leiden": {
+    "abbr": "TCVH",
+    "logo": null
+  },
   "TBA - Centraal Station": {
     "abbr": "TCS",
     "logo": null
   },
+  "TBA - De Baron Van Jutphaas (Partyboat)": {
+    "abbr": "TDBV",
+    "logo": null
+  },
   "TBA - Deventer Outdoor | Molbergsweg 3c ": {
     "abbr": "TDOM",
+    "logo": null
+  },
+  "TBA - Ohana Beach Club ": {
+    "abbr": "TOBC",
     "logo": null
   },
   "TBA - Opstappen bij Adam toren": {
@@ -319,8 +507,16 @@
     "abbr": "TILL",
     "logo": null
   },
+  "Taets Art and Event Park": {
+    "abbr": "TAAE",
+    "logo": null
+  },
   "The Loft Amsterdam": {
     "abbr": "TLA",
+    "logo": null
+  },
+  "The Pier of Scheveningen": {
+    "abbr": "TPOS",
     "logo": null
   },
   "The Stargate": {
@@ -331,8 +527,16 @@
     "abbr": "THUI",
     "logo": null
   },
+  "Time is the new space": {
+    "abbr": "TITN",
+    "logo": null
+  },
   "Toekomstmuziek": {
     "abbr": "TOEK",
+    "logo": null
+  },
+  "Toffler": {
+    "abbr": "TOFF",
     "logo": null
   },
   "Vondelpark Openluchttheater": {
@@ -348,15 +552,31 @@
     "logo": null
   },
   "Westerpark Amsterdam": {
-    "abbr": "WA",
+    "abbr": "WPAR",
+    "logo": null
+  },
+  "Whitehouse Scheveningen": {
+    "abbr": "WS",
     "logo": null
   },
   "Woodstock'69": {
-    "abbr": "W6",
+    "abbr": "W69",
+    "logo": null
+  },
+  "Worm": {
+    "abbr": "WORM",
     "logo": null
   },
   "Yellow House": {
     "abbr": "YH",
+    "logo": null
+  },
+  "export": {
+    "abbr": "EXPO",
+    "logo": null
+  },
+  "murmur": {
+    "abbr": "MURM",
     "logo": null
   },
   "nachbar": {
