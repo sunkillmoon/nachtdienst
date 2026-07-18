@@ -56,8 +56,9 @@ RA exposes each artist's full past history to anonymous callers via `artist(id).
 ## UI structure
 
 - Ticker: one-line scrolling marquee of the selected night's headline events
-- Filter: date only
-- Map: dark, square/crosshair markers; tap a marker → detail panel
+- Filters: date (stepper/picker) and city. City is a dropdown built from the distinct `venue.area` values in the data (the national aggregate "All" excluded); it filters the list, ticker, and map together — never regroups, the list stays chronological — and is remembered in `localStorage["nachtkaart:cityFilter"]`. Both filters route through `eventsForDate()` in `app.js`, the single choke point feeding all three surfaces. When the filter is ALL, each row also carries an inverted city tag; once a city is selected that tag is suppressed as redundant.
+- Map: dark, square/crosshair markers; tap a marker → detail panel. Overlapping venues at the current zoom collapse into a single count-square (hand-rolled pixel-distance clustering, re-run on every `moveend`); tap it to zoom in and split it. The visitor's own position shows as an accent crosshair, only when geolocation is granted.
+- Distance is shown either as km or as a rough travel-time estimate (KM / BIKE / WALK toggle in the detail panel, remembered in `localStorage["nachtkaart:distanceMode"]`, applied to list rows too). No routing API: straight-line distance × 1.3 detour factor at ~15 km/h cycling / ~5 km/h walking, `~`-prefixed as an estimate.
 - List columns: Time | Event (Organizer) / Venue | Lineup | Tags
 - Detail panel (slides up on mobile): a sticky CLOSE bar, then poster, date/time, price, distance, links out, lineup (a flowing comma-separated list, linked names in accent), went / want-to-go. The explicit CLOSE control was reinstated after an earlier removal: at full height on a phone the panel filled the viewport, leaving no tap-outside area reachable, so scrim-tap alone wasn't enough. Tap-outside / swipe-down / Esc still all close it too.
 

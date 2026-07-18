@@ -16,9 +16,21 @@ const state = {
   userCoords: null,
   selectedEventId: null,
   cityCentroids: [], // [{ city, lat, lng }] derived from the data, for the header label
+  cities: [],        // distinct real venue.area values, for the city filter
+  cityFilter: "ALL", // "ALL" or a specific venue.area; persisted
+  distanceMode: "km", // "km" | "bike" | "walk"; persisted
   map: null,
-  markers: new Map(), // venueName -> { marker, el, venue, events }
+  markers: new Map(), // venueName/clusterKey -> { marker, el, venue, events }
+  userMarker: null,   // maplibre Marker for the visitor's own position
 };
+
+// Persisted UI preferences (nachtkaart: prefix, matching auth.js).
+const LS_CITY = "nachtkaart:cityFilter";
+const LS_DISTANCE = "nachtkaart:distanceMode";
+
+function safeGetItem(key) {
+  try { return localStorage.getItem(key); } catch (_) { return null; }
+}
 
 const listEl = document.getElementById("eventList");
 const tickerEl = document.getElementById("tickerTrack");
@@ -31,6 +43,7 @@ const clockEl = document.getElementById("clock");
 const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
 const datePickerEl = document.getElementById("datePicker");
+const cityFilterEl = document.getElementById("cityFilter");
 const prevDayBtn = document.getElementById("prevDay");
 const nextDayBtn = document.getElementById("nextDay");
 const geoNoticeEl = document.getElementById("geoNotice");
@@ -203,8 +216,13 @@ function getVenueMeta(name) {
   return state.venuesMeta[name] ?? { abbr: autoAbbr(name), logo: null };
 }
 
+// The one place list, ticker, and map markers all read from -- so the city
+// filter applied here filters all three consistently. The list stays
+// chronological (see sortEvents); this filters, it never regroups.
 function eventsForDate(date) {
-  return state.allEvents.filter((e) => e.date === date);
+  return state.allEvents.filter(
+    (e) => e.date === date && (state.cityFilter === "ALL" || e.venue.area === state.cityFilter)
+  );
 }
 
 function isEventLive(event) {
@@ -220,6 +238,18 @@ function isEventEnded(event) {
   const now = Date.now();
   const end = event.end ? new Date(event.end).getTime() : new Date(event.start).getTime();
   return now > end;
+}
+
+// "STARTS IN ~2H" for tonight's not-yet-started events within the next 6 hours.
+// Null otherwise (other nights, already started, or further out than 6h).
+const STARTS_SOON_MS = 6 * 60 * 60 * 1000;
+
+function startsSoonText(event) {
+  if (state.selectedDate !== state.todayDate) return null;
+  const diff = new Date(event.start).getTime() - Date.now();
+  if (diff <= 0 || diff > STARTS_SOON_MS) return null;
+  const mins = Math.round(diff / 60000);
+  return mins >= 60 ? `STARTS IN ~${Math.round(mins / 60)}H` : `STARTS IN ~${mins} MIN`;
 }
 
 function sortEvents(events, coords) {
@@ -277,17 +307,45 @@ function tagHtml(tag) {
   return `<span class="tag">${tag}</span>`;
 }
 
+// The current-night timing state of an event is one of live / ended / starts-soon
+// (or none) -- mutually exclusive, checked in that order.
+function timingBadge(event) {
+  if (isEventLive(event)) return `<span class="tag now">ON NOW</span>`;
+  if (isEventEnded(event)) return `<span class="tag ended">ENDED</span>`;
+  const soon = startsSoonText(event);
+  return soon ? `<span class="tag">${soon}</span>` : "";
+}
+
 function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
-  const nowBadge = isEventLive(event) ? `<span class="tag now">ON NOW</span>` : "";
-  const endedBadge = isEventEnded(event) ? `<span class="tag ended">ENDED</span>` : "";
+  // City only when unfiltered -- once you've filtered to a city it's just noise.
+  const cityBadge =
+    state.cityFilter === "ALL" && event.venue.area && event.venue.area !== "All"
+      ? `<span class="tag city">${esc(event.venue.area.toUpperCase())}</span>`
+      : "";
   const tbaBadge = event.venue.location_tba ? `<span class="tag">LOCATION TBA</span>` : "";
-  return genreTags + soldOutBadge + nowBadge + endedBadge + tbaBadge;
+  return genreTags + cityBadge + soldOutBadge + timingBadge(event) + tbaBadge;
 }
 
 function mapsDirectionsUrl(lat, lng) {
   return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
+}
+
+// Distance shown as raw km, or a rough travel-time estimate. No routing API:
+// straight-line distance * 1.3 (a flat detour factor for real streets) at
+// ~15 km/h cycling / ~5 km/h walking. Always ~-prefixed to read as an estimate,
+// with the km kept alongside in time modes.
+const DISTANCE_MODES = ["km", "bike", "walk"];
+const TRAVEL_SPEED_KMH = { bike: 15, walk: 5 };
+const DETOUR_FACTOR = 1.3;
+
+function travelText(km, mode) {
+  if (km == null || !isFinite(km)) return "—";
+  const kmStr = `${km.toFixed(1)} KM`;
+  if (mode === "km") return kmStr;
+  const mins = Math.round((km * DETOUR_FACTOR) / TRAVEL_SPEED_KMH[mode] * 60);
+  return `~${mins} MIN ${mode.toUpperCase()} · ${kmStr}`;
 }
 
 // ---------- render ----------
@@ -357,13 +415,13 @@ function renderList() {
   const sorted = sortEvents(events, getCoords());
   listEl.innerHTML = sorted
     .map(
-      ({ event }) => `
+      ({ event, distanceKm }) => `
     <button class="row${isEventEnded(event) ? " ended" : ""}" type="button" data-id="${event.id}">
       <div class="row-top">
         <span class="row-time">${formatTimeRange(event)}</span>
         <div class="row-title">
           <span class="row-event">${event.title}</span>
-          <span class="row-venue">${event.venue.name}</span>
+          <span class="row-venue">${event.venue.name}<span class="row-dist">${travelText(distanceKm, state.distanceMode)}</span></span>
         </div>
       </div>
       <div class="row-lineup">${lineupPreviewText(event)}</div>
@@ -389,12 +447,15 @@ function openPanel(eventId) {
   const coords = getCoords();
   const hasCoords = event.venue.lat != null && event.venue.lng != null;
   const distanceKm = hasCoords ? haversineKm(coords.lat, coords.lng, event.venue.lat, event.venue.lng) : null;
-  const distanceStr = event.venue.location_tba ? "LOCATION TBA" : distanceKm != null ? `${distanceKm.toFixed(1)} km` : "—";
+  const distanceStr = event.venue.location_tba ? "LOCATION TBA" : travelText(distanceKm, state.distanceMode);
   const distanceHtml =
     hasCoords && !event.venue.location_tba
       ? `<a href="${mapsDirectionsUrl(event.venue.lat, event.venue.lng)}" target="_blank" rel="noopener">${distanceStr}</a>`
       : distanceStr;
-  const venueLineSuffix = event.venue.location_tba ? "LOCATION TBA" : `${distanceHtml} away`;
+  const venueLineSuffix = distanceStr;
+  const dmodeToggle = DISTANCE_MODES.map(
+    (m) => `<button class="dmode${state.distanceMode === m ? " active" : ""}" type="button" data-dmode="${m}">${m.toUpperCase()}</button>`
+  ).join("");
 
   const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
   const pickStatus = window.NachtkaartAuth.getPickStatus(event.id);
@@ -410,6 +471,7 @@ function openPanel(eventId) {
       <div><span class="k">Price</span><span class="v">${event.price ?? "—"}</span></div>
       <div><span class="k">Distance</span><span class="v">${distanceHtml}</span></div>
     </div>
+    <div class="dmode-toggle" role="group" aria-label="Distance units">${dmodeToggle}</div>
 
     <div class="section-label">Lineup</div>
     <div class="lineup-flow">${lineupPanelHtml(event)}</div>
@@ -425,6 +487,15 @@ function openPanel(eventId) {
       <button class="rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>
     </div>
   `;
+
+  panelBody.querySelectorAll("[data-dmode]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      if (btn.dataset.dmode === state.distanceMode) return;
+      setDistanceMode(btn.dataset.dmode);
+      renderList();
+      openPanel(event.id); // re-render this panel so its distance updates too
+    });
+  });
 
   panelBody.querySelectorAll("[data-rsvp]").forEach((btn) => {
     btn.addEventListener("click", async () => {
@@ -506,39 +577,104 @@ function initMap() {
   });
   state.map.touchZoomRotate.disableRotation();
   state.map.on("load", () => {
-    updateMarkersForDate(state.selectedDate);
+    renderMapMarkers();
+    showUserLocationMarker(); // in case geolocation resolved before the map loaded
   });
+  // Re-cluster whenever the view settles: zooming in splits piles into squares.
+  state.map.on("moveend", renderMapMarkers);
 }
 
-function updateMarkersForDate(date) {
+function addVenueMarker(venue) {
+  const meta = getVenueMeta(venue.name);
+  const el = document.createElement("div");
+  el.className = "marker";
+  el.title = venue.name;
+  if (venue.events.some(isEventLive)) el.classList.add("live");
+  if (meta.logo) {
+    el.innerHTML = `<img src="${meta.logo}" alt="${venue.name}">`;
+  } else {
+    el.textContent = meta.abbr;
+  }
+
+  el.addEventListener("click", () => {
+    const earliest = [...venue.events].sort((a, b) => (a.start < b.start ? -1 : 1))[0];
+    openPanel(earliest.id);
+  });
+
+  const marker = new maplibregl.Marker({ element: el }).setLngLat([venue.lng, venue.lat]).addTo(state.map);
+  state.markers.set(venue.name, { marker, el, venue, events: venue.events });
+}
+
+function addClusterMarker(cluster, key) {
+  const venues = cluster.map((c) => c.v);
+  const lng = venues.reduce((s, v) => s + v.lng, 0) / venues.length;
+  const lat = venues.reduce((s, v) => s + v.lat, 0) / venues.length;
+  const events = venues.flatMap((v) => v.events);
+
+  const el = document.createElement("div");
+  el.className = "marker cluster";
+  el.title = venues.map((v) => v.name).join(", ");
+  el.textContent = String(venues.length);
+  if (events.some(isEventLive)) el.classList.add("live");
+
+  el.addEventListener("click", () => {
+    state.map.easeTo({ center: [lng, lat], zoom: state.map.getZoom() + 2 });
+  });
+
+  const marker = new maplibregl.Marker({ element: el }).setLngLat([lng, lat]).addTo(state.map);
+  state.markers.set(key, { marker, el, events });
+}
+
+// Hand-rolled clustering (no library): project each venue to screen pixels at
+// the current zoom, greedily group any within CLUSTER_PX of a seed into one
+// count-square, and render lone venues as normal markers. Runs on every
+// moveend, so panning/zooming re-clusters; the user-location marker is separate
+// (state.userMarker) and untouched here.
+const CLUSTER_PX = 28;
+
+function renderMapMarkers() {
+  if (!state.map) return;
   for (const { marker } of state.markers.values()) marker.remove();
   state.markers.clear();
 
-  const groups = venueGroupsForDate(date);
-  for (const venue of groups.values()) {
-    if (venue.lat == null || venue.lng == null) continue;
+  const venues = [...venueGroupsForDate(state.selectedDate).values()].filter(
+    (v) => v.lat != null && v.lng != null
+  );
+  const pts = venues.map((v) => ({ v, p: state.map.project([v.lng, v.lat]) }));
+  const used = new Array(pts.length).fill(false);
 
-    const meta = getVenueMeta(venue.name);
-    const el = document.createElement("div");
-    el.className = "marker";
-    el.title = venue.name;
-    if (venue.events.some(isEventLive)) el.classList.add("live");
-    if (meta.logo) {
-      el.innerHTML = `<img src="${meta.logo}" alt="${venue.name}">`;
-    } else {
-      el.textContent = meta.abbr;
+  for (let i = 0; i < pts.length; i++) {
+    if (used[i]) continue;
+    used[i] = true;
+    const cluster = [pts[i]];
+    for (let j = i + 1; j < pts.length; j++) {
+      if (used[j]) continue;
+      if (Math.hypot(pts[i].p.x - pts[j].p.x, pts[i].p.y - pts[j].p.y) <= CLUSTER_PX) {
+        used[j] = true;
+        cluster.push(pts[j]);
+      }
     }
-
-    el.addEventListener("click", () => {
-      const earliest = [...venue.events].sort((a, b) => (a.start < b.start ? -1 : 1))[0];
-      openPanel(earliest.id);
-    });
-
-    const marker = new maplibregl.Marker({ element: el }).setLngLat([venue.lng, venue.lat]).addTo(state.map);
-    state.markers.set(venue.name, { marker, el, venue, events: venue.events });
+    if (cluster.length === 1) addVenueMarker(cluster[0].v);
+    else addClusterMarker(cluster, `cluster:${i}`);
   }
 
   syncActiveStates();
+}
+
+// The visitor's own position: an accent crosshair, distinct from venue squares,
+// shown only once geolocation is granted. Kept out of state.markers so the
+// clustering re-render never clears it.
+function showUserLocationMarker() {
+  if (!state.map || !state.userCoords) return;
+  const lngLat = [state.userCoords.lng, state.userCoords.lat];
+  if (state.userMarker) {
+    state.userMarker.setLngLat(lngLat);
+    return;
+  }
+  const el = document.createElement("div");
+  el.className = "marker-me";
+  el.title = "You are here";
+  state.userMarker = new maplibregl.Marker({ element: el }).setLngLat(lngLat).addTo(state.map);
 }
 
 function flyToVenue(venue) {
@@ -558,6 +694,7 @@ function requestGeolocation() {
       if (city) cityLabelEl.textContent = city.toUpperCase();
       renderList();
       if (state.map) {
+        showUserLocationMarker();
         state.map.easeTo({ center: [state.userCoords.lng, state.userCoords.lat], duration: 600 });
       }
     },
@@ -574,7 +711,7 @@ function renderForSelectedDate() {
   renderStepper();
   renderTicker();
   renderList();
-  updateMarkersForDate(state.selectedDate);
+  renderMapMarkers();
 }
 
 function stepDate(delta) {
@@ -582,6 +719,31 @@ function stepDate(delta) {
   if (newDate === state.selectedDate) return;
   state.selectedDate = newDate;
   renderForSelectedDate();
+}
+
+function setDistanceMode(mode) {
+  if (!DISTANCE_MODES.includes(mode)) return;
+  state.distanceMode = mode;
+  try { localStorage.setItem(LS_DISTANCE, mode); } catch (_) {}
+}
+
+function setCityFilter(city) {
+  state.cityFilter = city;
+  try { localStorage.setItem(LS_CITY, city); } catch (_) {}
+  renderTicker();
+  renderList();
+  renderMapMarkers();
+}
+
+// Populate the city <select> with ALL + every real city present in the data.
+function buildCityFilterOptions() {
+  const opts = ['<option value="ALL">ALL</option>'];
+  for (const city of state.cities) {
+    const sel = city === state.cityFilter ? " selected" : "";
+    opts.push(`<option value="${esc(city)}"${sel}>${esc(city.toUpperCase())}</option>`);
+  }
+  cityFilterEl.innerHTML = opts.join("");
+  cityFilterEl.value = state.cityFilter;
 }
 
 function onDatePickerChange() {
@@ -639,7 +801,15 @@ async function init() {
   state.allEvents = allEvents;
   state.venuesMeta = venuesMeta;
   state.cityCentroids = buildCityCentroids(allEvents);
+  state.cities = [...new Set(allEvents.map((e) => e.venue.area).filter((a) => a && a !== "All"))].sort();
   state.todayDate = currentNightAmsterdam();
+
+  // Restore persisted preferences; ignore a stored city that isn't in this data.
+  const savedCity = safeGetItem(LS_CITY);
+  state.cityFilter = savedCity && state.cities.includes(savedCity) ? savedCity : "ALL";
+  const savedMode = safeGetItem(LS_DISTANCE);
+  state.distanceMode = DISTANCE_MODES.includes(savedMode) ? savedMode : "km";
+  buildCityFilterOptions();
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
   state.minDate = dates[0] ?? state.todayDate;
@@ -667,6 +837,7 @@ if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.
   datePickerEl.classList.add("visible-fallback");
 }
 datePickerEl.addEventListener("change", onDatePickerChange);
+cityFilterEl.addEventListener("change", () => setCityFilter(cityFilterEl.value));
 
 scrimEl.addEventListener("click", closePanel);
 document.getElementById("panelClose").addEventListener("click", closePanel);
