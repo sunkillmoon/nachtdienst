@@ -59,7 +59,7 @@ RA exposes each artist's full past history to anonymous callers via `artist(id).
 - Filter: date only
 - Map: dark, square/crosshair markers; tap a marker → detail panel
 - List columns: Time | Event (Organizer) / Venue | Lineup | Tags
-- Detail panel (slides up on mobile): poster, date/time, price, distance, links out, lineup with per-artist links, went / want-to-go
+- Detail panel (slides up on mobile): a sticky CLOSE bar, then poster, date/time, price, distance, links out, lineup (a flowing comma-separated list, linked names in accent), went / want-to-go. The explicit CLOSE control was reinstated after an earlier removal: at full height on a phone the panel filled the viewport, leaving no tap-outside area reachable, so scrim-tap alone wasn't enough. Tap-outside / swipe-down / Esc still all close it too.
 
 ## Roadmap
 

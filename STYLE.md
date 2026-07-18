@@ -11,8 +11,11 @@ The visual language of the NL underground: flyer, timetable, terminal. This dire
 --text:     #EDEDED;  /* primary text                         */
 --text-dim: #8A8A8A;  /* secondary text, labels               */
 --accent:   #B4FF00;  /* acid green — THE ONLY accent color   */
---danger:   #FF3B30;  /* sold out / cancelled, nothing else   */
+--danger:   #FF3B30;  /* sold out / cancelled ONLY            */
+--ended:    #C25B54;  /* finished events — danger's quiet kin */
 ```
+
+`--danger` is reserved for **sold out / cancelled** and nothing else. `--ended` is its muted sibling: a finished event is over, not alarming, so it gets a dimmer brick red — never the full alarm red.
 
 ## Type
 

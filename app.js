@@ -15,6 +15,7 @@ const state = {
   selectedDate: null,
   userCoords: null,
   selectedEventId: null,
+  cityCentroids: [], // [{ city, lat, lng }] derived from the data, for the header label
   map: null,
   markers: new Map(), // venueName -> { marker, el, venue, events }
 };
@@ -27,6 +28,7 @@ const panelBody = document.getElementById("panelBody");
 const panelHandleEl = document.querySelector(".panel-handle");
 const scrimEl = document.getElementById("scrim");
 const clockEl = document.getElementById("clock");
+const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
 const datePickerEl = document.getElementById("datePicker");
 const prevDayBtn = document.getElementById("prevDay");
@@ -86,6 +88,40 @@ function haversineKm(lat1, lng1, lat2, lng2) {
 
 function getCoords() {
   return state.userCoords ?? AMSTERDAM_CENTER;
+}
+
+// Header city label is data-driven, not hardcoded: group venues by their RA
+// area (city), drop the non-city national aggregate "All", and take a per-axis
+// median of each city's venue coords -- median resists the odd mis-placed venue
+// pulling a centroid into the sea. New cities appearing in the data become
+// candidates automatically.
+function buildCityCentroids(events) {
+  const byCity = new Map();
+  for (const e of events) {
+    const area = e.venue.area;
+    if (!area || area === "All") continue;
+    if (e.venue.lat == null || e.venue.lng == null) continue;
+    if (!byCity.has(area)) byCity.set(area, []);
+    byCity.get(area).push([e.venue.lat, e.venue.lng]);
+  }
+  const median = (nums) => {
+    const s = [...nums].sort((a, b) => a - b);
+    return s[Math.floor(s.length / 2)];
+  };
+  const centroids = [];
+  for (const [city, pts] of byCity) {
+    centroids.push({ city, lat: median(pts.map((p) => p[0])), lng: median(pts.map((p) => p[1])) });
+  }
+  return centroids;
+}
+
+function nearestCity(coords, centroids) {
+  let best = null, bestKm = Infinity;
+  for (const c of centroids) {
+    const km = haversineKm(coords.lat, coords.lng, c.lat, c.lng);
+    if (km < bestKm) { bestKm = km; best = c; }
+  }
+  return best ? best.city : null;
 }
 
 function clamp(v, lo, hi) {
@@ -219,19 +255,22 @@ function lineupPreviewText(event) {
   return "TBA";
 }
 
+// One flowing comma-separated list rather than one row per name -- a 12-artist
+// lineup should be a few wrapped lines, not a 12-row tower. RA-linked names come
+// out as accent <a>; plain support acts stay in body text.
 function lineupPanelHtml(event) {
   if (event.lineup_text) {
     return event.lineup_text
       .split("\n")
-      .map((line) => `<li>${linkifyLineup(line, event.artists)}</li>`)
-      .join("");
+      .map((line) => linkifyLineup(line, event.artists))
+      .join(", ");
   }
   if (event.artists.length) {
     return event.artists
-      .map((a) => `<li><a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a></li>`)
-      .join("");
+      .map((a) => `<a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a>`)
+      .join(", ");
   }
-  return `<li class="tba">TBA</li>`;
+  return `<span class="tba">TBA</span>`;
 }
 
 function tagHtml(tag) {
@@ -242,7 +281,7 @@ function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
   const nowBadge = isEventLive(event) ? `<span class="tag now">ON NOW</span>` : "";
-  const endedBadge = isEventEnded(event) ? `<span class="tag">ENDED</span>` : "";
+  const endedBadge = isEventEnded(event) ? `<span class="tag ended">ENDED</span>` : "";
   const tbaBadge = event.venue.location_tba ? `<span class="tag">LOCATION TBA</span>` : "";
   return genreTags + soldOutBadge + nowBadge + endedBadge + tbaBadge;
 }
@@ -373,7 +412,7 @@ function openPanel(eventId) {
     </div>
 
     <div class="section-label">Lineup</div>
-    <ul class="lineup-list">${lineupPanelHtml(event)}</ul>
+    <div class="lineup-flow">${lineupPanelHtml(event)}</div>
 
     <div class="section-label">Links</div>
     <div class="links-row">
@@ -515,6 +554,8 @@ function requestGeolocation() {
     (pos) => {
       state.userCoords = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       geoNoticeEl.classList.add("hidden");
+      const city = nearestCity(state.userCoords, state.cityCentroids);
+      if (city) cityLabelEl.textContent = city.toUpperCase();
       renderList();
       if (state.map) {
         state.map.easeTo({ center: [state.userCoords.lng, state.userCoords.lat], duration: 600 });
@@ -597,6 +638,7 @@ async function init() {
 
   state.allEvents = allEvents;
   state.venuesMeta = venuesMeta;
+  state.cityCentroids = buildCityCentroids(allEvents);
   state.todayDate = currentNightAmsterdam();
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
@@ -627,6 +669,7 @@ if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.
 datePickerEl.addEventListener("change", onDatePickerChange);
 
 scrimEl.addEventListener("click", closePanel);
+document.getElementById("panelClose").addEventListener("click", closePanel);
 lightboxEl.addEventListener("click", closeLightbox);
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && panelEl.classList.contains("open")) closePanel();

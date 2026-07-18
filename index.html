@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>NACHTKAART — Amsterdam, Tonight</title>
+<title>NACHTKAART — wat er vannacht draait in NL</title>
+<meta name="description" content="Wat er vannacht draait in NL — een kaart van clubnachten, raves en festivals.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
@@ -23,6 +24,7 @@
     --text-dim: #8A8A8A;
     --accent:   #B4FF00;
     --danger:   #FF3B30;
+    --ended:    #C25B54;
     --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
     --font-mono: "Space Mono", "JetBrains Mono", ui-monospace, monospace;
   }
@@ -302,6 +304,7 @@
     padding:2px 6px;
   }
   .tag.danger{ color:var(--danger); border-color:var(--danger); }
+  .tag.ended{ color:var(--ended); border-color:var(--ended); }
   .tag.now{
     color:var(--bg);
     background:var(--accent);
@@ -376,6 +379,25 @@
     background:var(--line);
     margin:10px auto;
   }
+
+  /* Sticky so CLOSE stays reachable when the panel is full-height on mobile;
+     solid bg so scrolled content never shows through the pinned bar. */
+  .panel-close-bar{
+    position:sticky; top:0; z-index:2;
+    display:flex; justify-content:flex-end;
+    padding:8px 16px;
+    background:var(--bg);
+    border-bottom:1px solid var(--line);
+  }
+  .panel-close{
+    font-family:var(--font-mono);
+    font-size:11px; letter-spacing:0.08em; text-transform:uppercase;
+    background:var(--surface); color:var(--text-dim);
+    border:1px solid var(--line);
+    padding:6px 14px; min-height:auto;
+    cursor:pointer;
+  }
+  .panel-close:hover{ border-color:var(--accent); color:var(--accent); }
 
   .panel-body{ padding:0 16px 24px; }
 
@@ -469,14 +491,13 @@
     margin:16px 0 6px;
   }
 
-  .lineup-list{ list-style:none; border-top:1px solid var(--line); }
-  .lineup-list li{
-    display:flex; justify-content:space-between;
-    padding:8px 0;
-    border-bottom:1px solid var(--line);
+  .lineup-flow{
     font-size:13px;
+    line-height:1.7;
+    border-top:1px solid var(--line);
+    padding-top:8px;
   }
-  .lineup-list li.tba{ color:var(--text-dim); }
+  .lineup-flow .tba{ color:var(--text-dim); }
 
   .links-row{ display:flex; gap:8px; flex-wrap:wrap; }
   .link-btn{
@@ -535,7 +556,7 @@
   <header>
     <div class="brand">NACHT<span class="brand-dot">/</span>KAART</div>
     <div class="meta">
-      AMSTERDAM<br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span>
+      <span id="cityLabel">NL</span><br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span>
       <div class="auth-control" id="authControl"></div>
     </div>
   </header>
@@ -568,6 +589,9 @@
 <div class="scrim" id="scrim"></div>
 <section class="panel" id="panel" aria-hidden="true">
   <div class="panel-handle"></div>
+  <div class="panel-close-bar">
+    <button class="panel-close" id="panelClose" type="button" aria-label="Close">CLOSE</button>
+  </div>
   <div class="panel-body" id="panelBody"></div>
 </section>
 
@@ -592,7 +616,7 @@
 <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
 <script src="auth.js?v=f1236c8664"></script>
-<script src="app.js?v=043ed995a6"></script>
+<script src="app.js?v=4abdf270e4"></script>
 
 </body>
 </html>

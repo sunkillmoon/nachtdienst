@@ -29,7 +29,9 @@
   },
   "Bar Theo": {
     "abbr": "BT",
-    "logo": null
+    "logo": null,
+    "lat": 52.3729576,
+    "lng": 4.878229
   },
   "Basement": {
     "abbr": "BASE",
@@ -77,11 +79,15 @@
   },
   "CLUB RAUM": {
     "abbr": "RAUM",
-    "logo": null
+    "logo": null,
+    "lat": 52.3911262,
+    "lng": 4.8309665
   },
   "CONTACT": {
     "abbr": "CONT",
-    "logo": null
+    "logo": null,
+    "lat": 52.3986693,
+    "lng": 4.8528354
   },
   "Café De Plak": {
     "abbr": "CDP",
@@ -237,7 +243,9 @@
   },
   "Ijburg": {
     "abbr": "IJBU",
-    "logo": null
+    "logo": null,
+    "lat": 52.3549938,
+    "lng": 4.9971565
   },
   "Ijland": {
     "abbr": "IJLA",
@@ -253,7 +261,9 @@
   },
   "Kadinsky Cafe": {
     "abbr": "KC",
-    "logo": null
+    "logo": null,
+    "lat": 52.3741373,
+    "lng": 4.8936787
   },
   "Klinkenbergerplas, Oegstgeest": {
     "abbr": "KO",
@@ -269,7 +279,9 @@
   },
   "Levenslang Amsterdam": {
     "abbr": "LA",
-    "logo": null
+    "logo": null,
+    "lat": 52.3372503,
+    "lng": 4.9253277
   },
   "Lofi": {
     "abbr": "LOFI",
@@ -305,7 +317,9 @@
   },
   "NAR": {
     "abbr": "NAR",
-    "logo": null
+    "logo": null,
+    "lat": 52.1010722,
+    "lng": 5.0834009
   },
   "Noordspace": {
     "abbr": "NOOR",
@@ -401,7 +415,9 @@
   },
   "SISSI'S Amsterdam": {
     "abbr": "SSA",
-    "logo": null
+    "logo": null,
+    "lat": 52.3448289,
+    "lng": 4.8425825
   },
   "Shelter Amsterdam": {
     "abbr": "SA",
@@ -501,11 +517,15 @@
   },
   "THE OTHER SIDE": {
     "abbr": "TOS",
-    "logo": null
+    "logo": null,
+    "lat": 52.395648,
+    "lng": 4.8753577
   },
   "TILLATEC": {
     "abbr": "TILL",
-    "logo": null
+    "logo": null,
+    "lat": 52.3699549,
+    "lng": 4.843713
   },
   "Taets Art and Event Park": {
     "abbr": "TAAE",
@@ -569,7 +589,9 @@
   },
   "Yellow House": {
     "abbr": "YH",
-    "logo": null
+    "logo": null,
+    "lat": 52.3963849,
+    "lng": 4.8743906
   },
   "export": {
     "abbr": "EXPO",
