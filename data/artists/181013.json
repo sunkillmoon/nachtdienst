@@ -2,7 +2,8 @@
   "id": "181013",
   "name": "Lunett",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488741",
       "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
@@ -12,6 +13,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2488741"
     }
-  ],
-  "past": []
+  ]
 }

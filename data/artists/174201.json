@@ -2,7 +2,8 @@
   "id": "174201",
   "name": "Magugu",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478274",
       "title": "Weekend002",
@@ -12,6 +13,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2478274"
     }
-  ],
-  "past": []
+  ]
 }

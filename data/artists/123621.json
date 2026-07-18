@@ -4,15 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2462871",
-      "title": "OG Records",
-      "date": "2026-07-17",
-      "start": "2026-07-17T22:00+02:00",
-      "venue": "Skatecafe",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462871"
-    },
-    {
       "id": "ra:2490649",
       "title": "YEREYERE x PAARDENRAVE World Pride 2026",
       "date": "2026-07-31",
@@ -22,5 +13,15 @@
       "url": "https://ra.co/events/2490649"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2462871",
+      "title": "OG Records",
+      "date": "2026-07-17",
+      "start": "2026-07-17T22:00+02:00",
+      "venue": "Skatecafe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462871"
+    }
+  ]
 }

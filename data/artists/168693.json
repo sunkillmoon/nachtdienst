@@ -2,7 +2,8 @@
   "id": "168693",
   "name": "Groddis",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477479",
       "title": "TM 4 Year Anniversary",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477479"
     }
-  ],
-  "past": []
+  ]
 }

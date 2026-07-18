@@ -2,7 +2,8 @@
   "id": "184703",
   "name": "El Nicoya",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473741",
       "title": "The Underground is Coming",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473741"
     }
-  ],
-  "past": []
+  ]
 }

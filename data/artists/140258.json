@@ -2,7 +2,8 @@
   "id": "140258",
   "name": "Young Duif",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453374",
       "title": "Doka Summer Studio x Klub Analog",
@@ -21,6 +22,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483937"
     }
-  ],
-  "past": []
+  ]
 }

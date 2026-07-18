@@ -2,7 +2,8 @@
   "id": "118376",
   "name": "Ranger Trucco",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2467133",
       "title": "BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2467133"
     }
-  ],
-  "past": []
+  ]
 }

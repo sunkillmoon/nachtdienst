@@ -4,15 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2477355",
-      "title": "Amsterdam Techno Sessions with 500MA aka Second Gate - MEX & Marco Ramos",
-      "date": "2026-07-16",
-      "start": "2026-07-16T23:00+02:00",
-      "venue": "John Doe",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477355"
-    },
-    {
       "id": "ra:2477362",
       "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",
       "date": "2026-07-18",
@@ -58,5 +49,15 @@
       "url": "https://ra.co/events/2477393"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2477355",
+      "title": "Amsterdam Techno Sessions with 500MA aka Second Gate - MEX & Marco Ramos",
+      "date": "2026-07-16",
+      "start": "2026-07-16T23:00+02:00",
+      "venue": "John Doe",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477355"
+    }
+  ]
 }

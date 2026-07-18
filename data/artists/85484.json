@@ -2,7 +2,8 @@
   "id": "85484",
   "name": "Janick Megroot",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2438719",
       "title": "City Of Dance Festival",
@@ -12,6 +13,5 @@
       "area": "All",
       "url": "https://ra.co/events/2438719"
     }
-  ],
-  "past": []
+  ]
 }

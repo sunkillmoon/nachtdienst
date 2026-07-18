@@ -2,7 +2,8 @@
   "id": "120329",
   "name": "Mixed Methods",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491049",
       "title": "Off The Map Episode 7 - Going International - The Netherlands Debut",
@@ -12,6 +13,5 @@
       "area": "All",
       "url": "https://ra.co/events/2491049"
     }
-  ],
-  "past": []
+  ]
 }

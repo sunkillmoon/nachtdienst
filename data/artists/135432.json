@@ -2,7 +2,8 @@
   "id": "135432",
   "name": "Jaimy (2)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483937",
       "title": "Klub Analog",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483937"
     }
-  ],
-  "past": []
+  ]
 }

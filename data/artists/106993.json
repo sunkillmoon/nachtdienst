@@ -2,7 +2,8 @@
   "id": "106993",
   "name": "KIM SWIM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462871",
       "title": "OG Records",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462871"
     }
-  ],
-  "past": []
+  ]
 }

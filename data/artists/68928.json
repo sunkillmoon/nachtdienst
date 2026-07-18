@@ -2,7 +2,8 @@
   "id": "68928",
   "name": "Merve",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478078",
       "title": "TILLATEC Invites: High Hoops",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478078"
     }
-  ],
-  "past": []
+  ]
 }

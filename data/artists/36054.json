@@ -11,6 +11,15 @@
       "venue": "Fort Vechten",
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
+    },
+    {
+      "id": "ra:2492263",
+      "title": "SERVE Eurosummer",
+      "date": "2026-08-09",
+      "start": "2026-08-09T19:00+02:00",
+      "venue": "De Fik Garden",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492263"
     }
   ],
   "past": []

@@ -2,7 +2,8 @@
   "id": "780",
   "name": "Jaimy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453374",
       "title": "Doka Summer Studio x Klub Analog",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453374"
     }
-  ],
-  "past": []
+  ]
 }

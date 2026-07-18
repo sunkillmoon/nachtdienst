@@ -2,7 +2,8 @@
   "id": "130632",
   "name": "Leen",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483324",
       "title": "Sunju Hargun, VOAL (Shoal & Vand), Leen + bar40 hosting LinksVeld",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483324"
     }
-  ],
-  "past": []
+  ]
 }

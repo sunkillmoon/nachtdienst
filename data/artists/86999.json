@@ -2,7 +2,8 @@
   "id": "86999",
   "name": "Second Gate",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477355",
       "title": "Amsterdam Techno Sessions with 500MA aka Second Gate - MEX & Marco Ramos",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477355"
     }
-  ],
-  "past": []
+  ]
 }

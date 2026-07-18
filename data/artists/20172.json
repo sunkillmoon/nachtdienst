@@ -4,15 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2469921",
-      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘",
-      "date": "2026-07-17",
-      "start": "2026-07-17T23:00+02:00",
-      "venue": "Club Leidse",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2469921"
-    },
-    {
       "id": "ra:2469925",
       "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘",
       "date": "2026-07-18",
@@ -94,5 +85,15 @@
       "url": "https://ra.co/events/2469971"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2469921",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Club Leidse",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469921"
+    }
+  ]
 }

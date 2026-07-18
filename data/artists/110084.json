@@ -4,15 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488700",
-      "title": "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian",
-      "date": "2026-07-17",
-      "start": "2026-07-17T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488700"
-    },
-    {
       "id": "ra:2485525",
       "title": "Park Kronenburg",
       "date": "2026-07-18",
@@ -31,5 +22,15 @@
       "url": "https://ra.co/events/2385640"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2488700",
+      "title": "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488700"
+    }
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "184446",
   "name": "Diamond CS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2472120",
       "title": "Versão brasileira ÁLAMO",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2472120"
     }
-  ],
-  "past": []
+  ]
 }

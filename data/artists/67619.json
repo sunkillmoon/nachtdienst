@@ -2,7 +2,8 @@
   "id": "67619",
   "name": "Marcus L",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2447890",
       "title": "FAUST Seoul - RADION CLUB TOUR",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2447890"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "179008",
   "name": "Y4R4",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489671",
       "title": "Tram 10 - Hard Techno",
@@ -12,6 +13,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489671"
     }
-  ],
-  "past": []
+  ]
 }
