@@ -5,7 +5,7 @@ import os
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from . import archive, artists, config, promoter_pages, venue_pages
+from . import archive, artists, config, promoter_pages, search_index, venue_pages
 from .ra_client import fetch_events, RAClientError
 from .transform import transform
 
@@ -76,6 +76,7 @@ def main():
     artists.build()
     venue_pages.build()
     promoter_pages.build()
+    search_index.build()
 
 
 if __name__ == "__main__":

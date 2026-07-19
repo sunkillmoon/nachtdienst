@@ -1,0 +1,526 @@
+[
+  {
+    "id": "36614",
+    "name": "Amstelhaven"
+  },
+  {
+    "id": "137362",
+    "name": "Amsterdam Central Station"
+  },
+  {
+    "id": "10328",
+    "name": "Amsterdamse Bos"
+  },
+  {
+    "id": "285993",
+    "name": "ANTIA"
+  },
+  {
+    "id": "297258",
+    "name": "BAR Goto"
+  },
+  {
+    "id": "202501",
+    "name": "Bar Theo"
+  },
+  {
+    "id": "101766",
+    "name": "BASIS"
+  },
+  {
+    "id": "105125",
+    "name": "Beachclub Fuel"
+  },
+  {
+    "id": "288289",
+    "name": "Beton-T"
+  },
+  {
+    "id": "220618",
+    "name": "Biergarten Eindhoven"
+  },
+  {
+    "id": "90287",
+    "name": "Boomerang Beach"
+  },
+  {
+    "id": "48635",
+    "name": "Boot10"
+  },
+  {
+    "id": "228945",
+    "name": "Bordello Aperitivo"
+  },
+  {
+    "id": "108549",
+    "name": "BRET"
+  },
+  {
+    "id": "296102",
+    "name": "Brewpub Reijngoud"
+  },
+  {
+    "id": "197451",
+    "name": "Bronze Beach"
+  },
+  {
+    "id": "52605",
+    "name": "Café De Plak"
+  },
+  {
+    "id": "124046",
+    "name": "Café Katoen"
+  },
+  {
+    "id": "138568",
+    "name": "Chin Chin Club"
+  },
+  {
+    "id": "157325",
+    "name": "Cinetol"
+  },
+  {
+    "id": "275116",
+    "name": "Club Leidse"
+  },
+  {
+    "id": "69256",
+    "name": "Club NYX"
+  },
+  {
+    "id": "219522",
+    "name": "CLUB RAUM"
+  },
+  {
+    "id": "38637",
+    "name": "Club Up"
+  },
+  {
+    "id": "152236",
+    "name": "Colorado Charlie"
+  },
+  {
+    "id": "120841",
+    "name": "Complex Maastricht"
+  },
+  {
+    "id": "225039",
+    "name": "CONTACT"
+  },
+  {
+    "id": "141886",
+    "name": "Crane Hotel Faralda"
+  },
+  {
+    "id": "269324",
+    "name": "De Fik Garden"
+  },
+  {
+    "id": "123485",
+    "name": "De Hallen"
+  },
+  {
+    "id": "294378",
+    "name": "De Kerktuin"
+  },
+  {
+    "id": "80434",
+    "name": "De Lindenberg"
+  },
+  {
+    "id": "279684",
+    "name": "De Middengaarde"
+  },
+  {
+    "id": "297363",
+    "name": "De Olmenhorst"
+  },
+  {
+    "id": "264224",
+    "name": "De Roze Tanker"
+  },
+  {
+    "id": "199535",
+    "name": "De Verbroederij"
+  },
+  {
+    "id": "81540",
+    "name": "Doka"
+  },
+  {
+    "id": "158329",
+    "name": "Duke Of Tokyo"
+  },
+  {
+    "id": "4842",
+    "name": "EKKO"
+  },
+  {
+    "id": "278763",
+    "name": "export"
+  },
+  {
+    "id": "121137",
+    "name": "Flevopark"
+  },
+  {
+    "id": "89263",
+    "name": "Fort Vechten"
+  },
+  {
+    "id": "137474",
+    "name": "Garage Noord"
+  },
+  {
+    "id": "18674",
+    "name": "Geestmerambacht"
+  },
+  {
+    "id": "156433",
+    "name": "Graanfabriek"
+  },
+  {
+    "id": "98505",
+    "name": "Hal 25"
+  },
+  {
+    "id": "241842",
+    "name": "Hal25"
+  },
+  {
+    "id": "237692",
+    "name": "Het Salon"
+  },
+  {
+    "id": "44668",
+    "name": "Het Sieraad"
+  },
+  {
+    "id": "277782",
+    "name": "Hito Scheveningen"
+  },
+  {
+    "id": "262411",
+    "name": "Houtbaar Haarlem"
+  },
+  {
+    "id": "280876",
+    "name": "Hubert Nijmegen"
+  },
+  {
+    "id": "141942",
+    "name": "Huis van Iemand Anders"
+  },
+  {
+    "id": "215846",
+    "name": "Ijburg"
+  },
+  {
+    "id": "188055",
+    "name": "Ijland"
+  },
+  {
+    "id": "160195",
+    "name": "ISOamsterdam"
+  },
+  {
+    "id": "109140",
+    "name": "John Doe"
+  },
+  {
+    "id": "230222",
+    "name": "KABUL à GoGo"
+  },
+  {
+    "id": "221828",
+    "name": "Kadinsky Cafe"
+  },
+  {
+    "id": "113031",
+    "name": "Klinkenbergerplas, Oegstgeest"
+  },
+  {
+    "id": "297649",
+    "name": "Kraanbaan"
+  },
+  {
+    "id": "296776",
+    "name": "Kronenburgerpark"
+  },
+  {
+    "id": "42516",
+    "name": "Kronkel"
+  },
+  {
+    "id": "206210",
+    "name": "Levenslang Amsterdam"
+  },
+  {
+    "id": "168878",
+    "name": "Lofi"
+  },
+  {
+    "id": "122376",
+    "name": "Madam"
+  },
+  {
+    "id": "287886",
+    "name": "Manii Beach"
+  },
+  {
+    "id": "2693",
+    "name": "Melkweg"
+  },
+  {
+    "id": "283202",
+    "name": "MeWe Amsterdam"
+  },
+  {
+    "id": "129182",
+    "name": "Mono"
+  },
+  {
+    "id": "188430",
+    "name": "murmur"
+  },
+  {
+    "id": "114854",
+    "name": "Muzentuin Tilburg"
+  },
+  {
+    "id": "243352",
+    "name": "nachbar"
+  },
+  {
+    "id": "210189",
+    "name": "NAR"
+  },
+  {
+    "id": "179504",
+    "name": "Oliva"
+  },
+  {
+    "id": "93286",
+    "name": "Oranjepark"
+  },
+  {
+    "id": "274981",
+    "name": "Oude Kerk"
+  },
+  {
+    "id": "264897",
+    "name": "Paal69"
+  },
+  {
+    "id": "202595",
+    "name": "Pacific Amsterdam"
+  },
+  {
+    "id": "1729",
+    "name": "Panama"
+  },
+  {
+    "id": "50801",
+    "name": "Paradigm"
+  },
+  {
+    "id": "2695",
+    "name": "Paradiso"
+  },
+  {
+    "id": "123151",
+    "name": "Paradiso Noord / Tolhuistuin"
+  },
+  {
+    "id": "194493",
+    "name": "Parallel"
+  },
+  {
+    "id": "265448",
+    "name": "Pier 14"
+  },
+  {
+    "id": "30689",
+    "name": "PIP Den Haag"
+  },
+  {
+    "id": "10143",
+    "name": "Pirata"
+  },
+  {
+    "id": "297344",
+    "name": "Possibilities Open Studio"
+  },
+  {
+    "id": "156530",
+    "name": "Radio Radio"
+  },
+  {
+    "id": "91202",
+    "name": "RADION"
+  },
+  {
+    "id": "89399",
+    "name": "Rembrandtpark"
+  },
+  {
+    "id": "101595",
+    "name": "Roel Langerakpark"
+  },
+  {
+    "id": "124413",
+    "name": "Shelter Amsterdam"
+  },
+  {
+    "id": "294145",
+    "name": "Shunter"
+  },
+  {
+    "id": "255755",
+    "name": "SISSI'S Amsterdam"
+  },
+  {
+    "id": "138553",
+    "name": "Skatecafe"
+  },
+  {
+    "id": "6389",
+    "name": "Sloterpark"
+  },
+  {
+    "id": "286756",
+    "name": "Soia - Strand Oog in Al"
+  },
+  {
+    "id": "248756",
+    "name": "Soulkitchen"
+  },
+  {
+    "id": "108349",
+    "name": "Spoorzone"
+  },
+  {
+    "id": "297688",
+    "name": "Stadseiland Stek"
+  },
+  {
+    "id": "237383",
+    "name": "Stadshaven Brouwerij"
+  },
+  {
+    "id": "296104",
+    "name": "Studio3000"
+  },
+  {
+    "id": "2684",
+    "name": "Supperclub"
+  },
+  {
+    "id": "34719",
+    "name": "Supperclub Cruise"
+  },
+  {
+    "id": "71387",
+    "name": "Taets Art and Event Park"
+  },
+  {
+    "id": "203299",
+    "name": "TBA"
+  },
+  {
+    "id": "259877",
+    "name": "TBA"
+  },
+  {
+    "id": "296103",
+    "name": "TBA - Centraal Station"
+  },
+  {
+    "id": "297623",
+    "name": "TBA - De Baron Van Jutphaas (Partyboat)"
+  },
+  {
+    "id": "284762",
+    "name": "TBA - Deventer Outdoor | Molbergsweg 3c "
+  },
+  {
+    "id": "294025",
+    "name": "TBA - Ohana Beach Club "
+  },
+  {
+    "id": "293681",
+    "name": "TBA - Opstappen bij Adam toren"
+  },
+  {
+    "id": "297731",
+    "name": "TBA - RSVP"
+  },
+  {
+    "id": "296970",
+    "name": "TBA - Transit / The Beef Chief"
+  },
+  {
+    "id": "294024",
+    "name": "TBA - Treehouse NDSM"
+  },
+  {
+    "id": "190657",
+    "name": "The Loft Amsterdam"
+  },
+  {
+    "id": "202249",
+    "name": "THE OTHER SIDE"
+  },
+  {
+    "id": "297063",
+    "name": "The Stargate"
+  },
+  {
+    "id": "109027",
+    "name": "Thuishaven"
+  },
+  {
+    "id": "232813",
+    "name": "TILLATEC"
+  },
+  {
+    "id": "206986",
+    "name": "Time is the new space"
+  },
+  {
+    "id": "199902",
+    "name": "Toekomstmuziek"
+  },
+  {
+    "id": "9037",
+    "name": "Toffler"
+  },
+  {
+    "id": "95538",
+    "name": "Waterkant"
+  },
+  {
+    "id": "60806",
+    "name": "Westerpark Amsterdam"
+  },
+  {
+    "id": "264128",
+    "name": "WestWeelde"
+  },
+  {
+    "id": "296311",
+    "name": "Whitehouse Scheveningen"
+  },
+  {
+    "id": "10632",
+    "name": "Woodstock'69"
+  },
+  {
+    "id": "55285",
+    "name": "Worm"
+  },
+  {
+    "id": "200290",
+    "name": "Yellow House"
+  }
+]

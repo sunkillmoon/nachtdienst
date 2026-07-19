@@ -1,9 +1,5 @@
 const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
 const CACHE_BUST = Date.now();
-// Archive is one file per year with no manifest; scan this range (404-tolerant),
-// and only when the live window can't resolve every pick. Widen the floor if the
-// archive ever backfills further back than this.
-const ARCHIVE_MIN_YEAR = 2016;
 const WENT_PAGE = 50;
 
 const mainEl = document.getElementById("main");
@@ -15,7 +11,7 @@ function esc(s) {
 }
 
 function formatDate(dateStr) {
-  const [y, m, d] = dateStr.split("-").map(Number);
+  const [y, m, d] = String(dateStr).split("-").map(Number);
   return `${d} ${MONTHS[m - 1]} ${y}`;
 }
 
@@ -29,53 +25,65 @@ async function fetchJson(url) {
   }
 }
 
-// ---------- event resolution (by id, across live window + archive) ----------
+// ---------- event resolution (live window + sharded search index) ----------
 
-let eventIndex = new Map();   // id -> {title, date, venue, venue_id, area, ra_url}
-let venueNameToId = new Map(); // venue name -> venue id (for favorite-venue links)
+let eventIndex = new Map();    // id -> {title, date, venue, venue_id, area, ra_url}
+let venueNameToId = new Map(); // venue name -> venue id
+let searchEntries = [];        // flat past-event records {…, terms} for search
+let searchFetched = false;
+let nameLists = null;          // {venues, artists, promoters} for autocomplete
 
-function indexEvents(events) {
+function addToIndex(id, rec) {
+  if (!eventIndex.has(id)) eventIndex.set(id, rec);
+  if (rec.venue && rec.venue_id != null && !venueNameToId.has(rec.venue)) venueNameToId.set(rec.venue, rec.venue_id);
+}
+
+function indexLive(events) {
   for (const e of events) {
     const v = e.venue || {};
-    if (!eventIndex.has(e.id)) {
-      eventIndex.set(e.id, {
-        title: e.title, date: e.date, venue: v.name,
-        venue_id: v.id, area: v.area, ra_url: e.ra_url,
-      });
-    }
-    if (v.name && v.id != null && !venueNameToId.has(v.name)) venueNameToId.set(v.name, v.id);
+    addToIndex(e.id, { title: e.title, date: e.date, venue: v.name, venue_id: v.id, area: v.area, ra_url: e.ra_url });
   }
 }
 
-async function loadEventIndex(neededIds) {
+function indexShards(entries) {
+  for (const e of entries) {
+    addToIndex(e.id, { title: e.title, date: e.date, venue: e.venue, venue_id: e.venue_id, area: e.area, ra_url: e.ra_url });
+  }
+}
+
+// Fetch the year-sharded search index once (memoized), then (re-)index it into
+// the current eventIndex. Kills the old archive year-range guess.
+async function ensureSearch() {
+  if (!searchFetched) {
+    const years = (await fetchJson(`data/search/years.json?t=${CACHE_BUST}`)) || [];
+    const shards = await Promise.all(years.map((y) => fetchJson(`data/search/${y}.json?t=${CACHE_BUST}`)));
+    searchEntries = shards.filter(Array.isArray).flat();
+    searchFetched = true;
+  }
+  indexShards(searchEntries);
+}
+
+async function ensureNameLists() {
+  if (nameLists) return nameLists;
+  const [v, a, p] = await Promise.all([
+    fetchJson(`data/search/venues.json?t=${CACHE_BUST}`),
+    fetchJson(`data/search/artists.json?t=${CACHE_BUST}`),
+    fetchJson(`data/search/promoters.json?t=${CACHE_BUST}`),
+  ]);
+  nameLists = { venues: v || [], artists: a || [], promoters: p || [] };
+  return nameLists;
+}
+
+async function loadEventIndex(pickIds) {
   eventIndex = new Map();
   venueNameToId = new Map();
   const live = await fetchJson(`data/events.json?t=${CACHE_BUST}`);
-  if (Array.isArray(live)) indexEvents(live);
-
-  // Only pay for the archive if the live window didn't resolve everything.
-  const missing = [...neededIds].some((id) => !eventIndex.has(id));
-  if (missing) {
-    const nowYear = new Date().getFullYear();
-    const years = [];
-    for (let y = nowYear; y >= ARCHIVE_MIN_YEAR; y--) years.push(y);
-    const files = await Promise.all(years.map((y) => fetchJson(`data/archive/${y}.json?t=${CACHE_BUST}`)));
-    for (const recs of files) {
-      if (recs && typeof recs === "object") indexEvents(Object.values(recs));
-    }
-  }
+  if (Array.isArray(live)) indexLive(live);
+  if ([...pickIds].some((id) => !eventIndex.has(id))) await ensureSearch();
 }
 
-// ---------- section renderers ----------
+// ---------- row renderers ----------
 
-function pickSortKey(pick) {
-  const ev = eventIndex.get(pick.event_id);
-  if (ev && ev.date) return ev.date;
-  return pick.created_at ? pick.created_at.slice(0, 10) : "0000-00-00";
-}
-
-// An event pick row. Unresolvable ids (data outlives the 30-day window and the
-// archive floor) fall back to the stored id + the pick's own date, never break.
 function eventRowHtml(pick) {
   const ev = eventIndex.get(pick.event_id);
   if (!ev) {
@@ -93,6 +101,32 @@ function eventRowHtml(pick) {
   const sub = `<span class="gig-sub">${venue}${ev.area ? " · " + esc(ev.area) : ""}</span>`;
   return `<div class="gig"><span class="gig-date">${formatDate(ev.date)}</span><span>${title}${sub}</span></div>`;
 }
+
+// Diary entry. Linked names where an RA id is present, plain text otherwise.
+function customRowHtml(ce) {
+  const venue = ce.venue_id
+    ? `<a href="venue.html?id=${encodeURIComponent(ce.venue_id)}">${esc(ce.venue_name)}</a>`
+    : esc(ce.venue_name || "PAST NIGHT");
+  const lineup = (ce.lineup || [])
+    .map((a) => (a.id ? `<a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a>` : esc(a.name)))
+    .join(", ");
+  const org = ce.organizer_name
+    ? (ce.organizer_id
+        ? `<a href="promoter.html?id=${encodeURIComponent(ce.organizer_id)}">${esc(ce.organizer_name)}</a>`
+        : esc(ce.organizer_name))
+    : "";
+  const subBits = [lineup, org].filter(Boolean).join(" · ");
+  const note = ce.note ? `<span class="gig-note">${esc(ce.note)}</span>` : "";
+  return `<div class="gig custom"><span class="gig-date">${formatDate(ce.date)}</span><span>` +
+    `<span class="gig-title">${venue}</span>` +
+    (subBits ? `<span class="gig-sub">${subBits}</span>` : "") +
+    note +
+    `<span class="gig-tags"><span class="tag-diary">DIARY</span>` +
+    `<button class="prow-action" type="button" data-remove-custom="${esc(ce.id)}">REMOVE</button></span>` +
+    `</span></div>`;
+}
+
+// ---------- sections ----------
 
 async function renderFollowing() {
   const ids = window.NachtkaartAuth.getFollows();
@@ -133,24 +167,41 @@ function renderVenues() {
 function renderWantToGo(picks) {
   const list = picks
     .filter((p) => p.status === "want_to_go")
-    .sort((a, b) => (pickSortKey(a) < pickSortKey(b) ? -1 : 1)); // soonest first
+    .sort((a, b) => (pickSortKey(a) < pickSortKey(b) ? -1 : 1));
   const label = `<div class="section-label">WANT TO GO (${list.length})</div>`;
   if (!list.length) return label + `<div class="empty">NOTHING ON THE LIST. THE NIGHT IS YOUNG.</div>`;
   return label + list.map(eventRowHtml).join("");
 }
 
-// WENT is the going-out history and grows for years, so render in pages.
+function pickSortKey(pick) {
+  const ev = eventIndex.get(pick.event_id);
+  if (ev && ev.date) return ev.date;
+  return pick.created_at ? pick.created_at.slice(0, 10) : "0000-00-00";
+}
+
+// WENT = one chronology of resolved 'went' picks + diary entries, newest first.
 let wentAll = [];
 let wentShown = 0;
 
+function buildWentItems(picks) {
+  const items = [];
+  for (const p of picks.filter((p) => p.status === "went")) items.push({ date: pickSortKey(p), html: eventRowHtml(p) });
+  for (const ce of window.NachtkaartAuth.getCustomEvents()) items.push({ date: ce.date, html: customRowHtml(ce) });
+  items.sort((a, b) => (a.date > b.date ? -1 : 1));
+  return items;
+}
+
 function renderWent(picks) {
-  wentAll = picks
-    .filter((p) => p.status === "went")
-    .sort((a, b) => (pickSortKey(a) > pickSortKey(b) ? -1 : 1)); // newest first
+  wentAll = buildWentItems(picks);
   wentShown = 0;
+  const addBlock =
+    `<div class="add-past"><button class="link-btn" type="button" id="addPastBtn">+ ADD PAST EVENT</button></div>` +
+    addPanelHtml();
   const label = `<div class="section-label">WENT (${wentAll.length})</div>`;
-  if (!wentAll.length) return label + `<div class="empty">NO NIGHTS LOGGED YET.</div>`;
-  return label + `<div id="wentList"></div><div id="wentMore"></div>`;
+  if (!wentAll.length) {
+    return label + addBlock + `<div class="empty">NO NIGHTS LOGGED YET.</div>`;
+  }
+  return label + addBlock + `<div id="wentList"></div><div id="wentMore"></div>`;
 }
 
 function appendWent() {
@@ -158,7 +209,7 @@ function appendWent() {
   const moreEl = document.getElementById("wentMore");
   if (!listEl || !moreEl) return;
   const next = wentAll.slice(wentShown, wentShown + WENT_PAGE);
-  listEl.insertAdjacentHTML("beforeend", next.map(eventRowHtml).join(""));
+  listEl.insertAdjacentHTML("beforeend", next.map((it) => it.html).join(""));
   wentShown += next.length;
   const remaining = wentAll.length - wentShown;
   moreEl.innerHTML = remaining > 0
@@ -166,13 +217,164 @@ function appendWent() {
     : "";
 }
 
+// ---------- add-past-event block ----------
+
+function addPanelHtml() {
+  return `<div class="add-panel hidden" id="addPanel">
+    <div class="add-tabs">
+      <button class="add-tab active" type="button" data-addmode="search">SEARCH</button>
+      <button class="add-tab" type="button" data-addmode="manual">ADD MANUALLY</button>
+    </div>
+    <div class="add-mode" id="addSearch">
+      <input class="add-input" id="searchQ" placeholder="EVENT, VENUE, ARTIST OR PROMOTER…" autocomplete="off">
+      <div class="add-dates"><input class="add-input" id="searchFrom" type="date"><input class="add-input" id="searchTo" type="date"></div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+    <div class="add-mode hidden" id="addManual">
+      <input class="add-input" id="mDate" type="date">
+      <div class="ac-field"><input class="add-input" id="mVenue" placeholder="VENUE" autocomplete="off"><div class="ac-drop" id="mVenueDrop"></div></div>
+      <div class="ac-field"><input class="add-input" id="mLineup" placeholder="ADD ARTIST (ENTER)" autocomplete="off"><div class="ac-drop" id="mLineupDrop"></div></div>
+      <div class="chips" id="mChips"></div>
+      <div class="ac-field"><input class="add-input" id="mOrg" placeholder="ORGANIZER" autocomplete="off"><div class="ac-drop" id="mOrgDrop"></div></div>
+      <input class="add-input" id="mNote" placeholder="NOTE (OPTIONAL)" autocomplete="off">
+      <button class="link-btn" type="button" id="mSave">SAVE NIGHT</button>
+      <p class="add-status" id="mStatus"></p>
+    </div>
+  </div>`;
+}
+
+// A minimal autocomplete: filter a [{id,name}] list by substring, show up to 8,
+// click fills the input and reports {name,id}. Leaving free text keeps id null.
+function attachAutocomplete(input, drop, getList, onPick) {
+  function close() { drop.innerHTML = ""; drop.classList.remove("open"); }
+  input.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    if (!q) return close();
+    const matches = getList().filter((x) => (x.name || "").toLowerCase().includes(q)).slice(0, 8);
+    drop.innerHTML = matches.map((m) => `<button class="ac-item" type="button" data-id="${esc(m.id)}">${esc(m.name)}</button>`).join("");
+    drop.classList.toggle("open", matches.length > 0);
+    drop.querySelectorAll(".ac-item").forEach((btn) => {
+      btn.addEventListener("mousedown", (e) => {
+        e.preventDefault();
+        onPick(btn.textContent, btn.dataset.id);
+        close();
+      });
+    });
+  });
+  input.addEventListener("blur", () => setTimeout(close, 120));
+}
+
+function wireAddPanel(refresh) {
+  const btn = document.getElementById("addPastBtn");
+  if (!btn) return;
+  const panel = document.getElementById("addPanel");
+  btn.addEventListener("click", async () => {
+    panel.classList.toggle("hidden");
+    if (!panel.classList.contains("hidden")) {
+      await ensureSearch();
+      await ensureNameLists();
+    }
+  });
+
+  // mode tabs
+  panel.querySelectorAll("[data-addmode]").forEach((tab) => {
+    tab.addEventListener("click", () => {
+      panel.querySelectorAll(".add-tab").forEach((t) => t.classList.toggle("active", t === tab));
+      document.getElementById("addSearch").classList.toggle("hidden", tab.dataset.addmode !== "search");
+      document.getElementById("addManual").classList.toggle("hidden", tab.dataset.addmode !== "manual");
+    });
+  });
+
+  // search mode
+  const q = document.getElementById("searchQ");
+  const from = document.getElementById("searchFrom");
+  const to = document.getElementById("searchTo");
+  const runSearch = () => {
+    const query = q.value.trim().toLowerCase();
+    const toks = query ? query.split(/\s+/) : [];
+    let results = searchEntries;
+    if (toks.length) results = results.filter((e) => toks.every((t) => e.terms.includes(t)));
+    if (from.value) results = results.filter((e) => e.date >= from.value);
+    if (to.value) results = results.filter((e) => e.date <= to.value);
+    if (!query && !from.value && !to.value) results = [];
+    results = results.slice().sort((a, b) => (a.date > b.date ? -1 : 1)).slice(0, 30);
+    const box = document.getElementById("searchResults");
+    box.innerHTML = results.length
+      ? results.map((r) =>
+          `<button class="search-result" type="button" data-add-pick="${esc(r.id)}">` +
+          `<span class="sr-date">${formatDate(r.date)}</span>` +
+          `<span><span class="sr-title">${esc(r.title || "")}</span>` +
+          `<span class="sr-venue">${esc(r.venue || "")}${r.area ? " · " + esc(r.area) : ""}</span></span></button>`
+        ).join("")
+      : ((query || from.value || to.value) ? `<div class="empty">NO MATCHES.</div>` : "");
+  };
+  q.addEventListener("input", runSearch);
+  from.addEventListener("change", runSearch);
+  to.addEventListener("change", runSearch);
+
+  // manual mode
+  let venuePick = { id: null };
+  let orgPick = { id: null };
+  let lineup = [];
+  const chipsEl = document.getElementById("mChips");
+  const renderChips = () => {
+    chipsEl.innerHTML = lineup
+      .map((a, i) => `<span class="chip">${esc(a.name)}<button class="chip-x" type="button" data-chip="${i}">×</button></span>`)
+      .join("");
+    chipsEl.querySelectorAll("[data-chip]").forEach((x) =>
+      x.addEventListener("click", () => { lineup.splice(Number(x.dataset.chip), 1); renderChips(); })
+    );
+  };
+  const mVenue = document.getElementById("mVenue");
+  const mOrg = document.getElementById("mOrg");
+  const mLineup = document.getElementById("mLineup");
+  attachAutocomplete(mVenue, document.getElementById("mVenueDrop"), () => nameLists.venues, (name, id) => { mVenue.value = name; venuePick.id = id; });
+  mVenue.addEventListener("input", () => { venuePick.id = null; }); // typing free text clears the linked id
+  attachAutocomplete(mOrg, document.getElementById("mOrgDrop"), () => nameLists.promoters, (name, id) => { mOrg.value = name; orgPick.id = id; });
+  mOrg.addEventListener("input", () => { orgPick.id = null; });
+  attachAutocomplete(mLineup, document.getElementById("mLineupDrop"), () => nameLists.artists, (name, id) => {
+    lineup.push({ name, id: id || null }); mLineup.value = ""; renderChips();
+  });
+  mLineup.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && mLineup.value.trim()) {
+      e.preventDefault();
+      lineup.push({ name: mLineup.value.trim(), id: null });
+      mLineup.value = "";
+      renderChips();
+    }
+  });
+
+  document.getElementById("mSave").addEventListener("click", async () => {
+    const status = document.getElementById("mStatus");
+    const date = document.getElementById("mDate").value;
+    if (!date) { status.textContent = "DATE IS REQUIRED."; return; }
+    status.textContent = "SAVING…";
+    try {
+      await window.NachtkaartAuth.addCustomEvent({
+        date,
+        venue_name: mVenue.value.trim() || null,
+        venue_id: venuePick.id,
+        lineup,
+        organizer_name: mOrg.value.trim() || null,
+        organizer_id: orgPick.id,
+        note: document.getElementById("mNote").value.trim() || null,
+      });
+      await refresh();
+    } catch (err) {
+      status.textContent = "ERROR: " + (err && err.message ? err.message : "COULD NOT SAVE");
+    }
+  });
+}
+
+// ---------- account ----------
+
 function accountHtml() {
   return `<div class="section-label">ACCOUNT</div><div class="account">` +
     `<div class="account-actions">` +
     `<button class="link-btn" type="button" id="logoutBtn2">LOG OUT</button>` +
     `<button class="link-btn" type="button" id="deleteBtn">DELETE ACCOUNT</button></div>` +
     `<div class="delete-confirm hidden" id="deleteConfirm">` +
-    `<p class="delete-warn">THIS PERMANENTLY ERASES YOUR FOLLOWS, VENUES AND PICKS, AND YOUR ACCOUNT. THERE IS NO UNDO. TYPE DELETE TO CONFIRM.</p>` +
+    `<p class="delete-warn">THIS PERMANENTLY ERASES YOUR FOLLOWS, VENUES, PICKS AND DIARY, AND YOUR ACCOUNT. THERE IS NO UNDO. TYPE DELETE TO CONFIRM.</p>` +
     `<div class="delete-row">` +
     `<input class="delete-input" id="deleteInput" placeholder="TYPE DELETE" autocomplete="off" autocapitalize="characters" spellcheck="false">` +
     `<button class="link-btn" type="button" id="deleteConfirmBtn" disabled>CONFIRM</button></div>` +
@@ -181,12 +383,10 @@ function accountHtml() {
 
 function wireAccount() {
   document.getElementById("logoutBtn2").addEventListener("click", () => window.NachtkaartAuth.logout());
-
   document.getElementById("deleteBtn").addEventListener("click", () => {
     document.getElementById("deleteConfirm").classList.remove("hidden");
     document.getElementById("deleteInput").focus();
   });
-
   const input = document.getElementById("deleteInput");
   const confirmBtn = document.getElementById("deleteConfirmBtn");
   input.addEventListener("input", () => {
@@ -228,12 +428,10 @@ async function render() {
     renderWent(picks) +
     accountHtml();
   appendWent();
+  wireAddPanel(render);
   wireAccount();
 }
 
-// Inline mutations + paging are handled here so a follow/favorite toggle doesn't
-// trigger a full re-render (its notify() lands in onChange, which no-ops when the
-// login state is unchanged).
 mainEl.addEventListener("click", async (e) => {
   const unfollow = e.target.closest("[data-unfollow]");
   if (unfollow) {
@@ -249,11 +447,21 @@ mainEl.addEventListener("click", async (e) => {
     if (row) row.remove();
     return;
   }
+  const addPick = e.target.closest("[data-add-pick]");
+  if (addPick) {
+    await window.NachtkaartAuth.setPick(addPick.dataset.addPick, "went");
+    await render();
+    return;
+  }
+  const removeCustom = e.target.closest("[data-remove-custom]");
+  if (removeCustom) {
+    await window.NachtkaartAuth.deleteCustomEvent(removeCustom.dataset.removeCustom);
+    await render();
+    return;
+  }
   if (e.target.closest("[data-loadmore]")) appendWent();
 });
 
-// Re-render only when the login state actually flips (login/logout), not on every
-// data mutation that also fires onAuthChange.
 let lastLoggedIn = null;
 window.NachtkaartAuth.onAuthChange(() => {
   const now = window.NachtkaartAuth.isLoggedIn();

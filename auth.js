@@ -19,6 +19,7 @@
   let picksMeta = new Map(); // event_id -> created_at (ISO); logged-in only
   let followsCache = new Set(); // artist_id
   let favoriteVenuesCache = new Set(); // venue_name
+  let customEventsCache = []; // user-authored diary rows
   const listeners = [];
 
   function esc(s) {
@@ -48,18 +49,21 @@
       picksMeta = new Map();
       followsCache = new Set();
       favoriteVenuesCache = new Set();
+      customEventsCache = [];
       return;
     }
     const uid = session.user.id;
-    const [picksRes, followsRes, favRes] = await Promise.all([
+    const [picksRes, followsRes, favRes, customRes] = await Promise.all([
       sb.from("picks").select("event_id,status,created_at").eq("user_id", uid),
       sb.from("follows").select("artist_id").eq("user_id", uid),
       sb.from("favorite_venues").select("venue_name").eq("user_id", uid),
+      sb.from("custom_events").select("*").eq("user_id", uid),
     ]);
     picksCache = new Map((picksRes.data || []).map((r) => [r.event_id, r.status]));
     picksMeta = new Map((picksRes.data || []).map((r) => [r.event_id, r.created_at]));
     followsCache = new Set((followsRes.data || []).map((r) => r.artist_id));
     favoriteVenuesCache = new Set((favRes.data || []).map((r) => r.venue_name));
+    customEventsCache = customRes.data || [];
   }
 
   // Local picks made before this device ever logged in get folded into the
@@ -217,6 +221,28 @@
         created_at: picksMeta.get(event_id) ?? null,
       }));
     },
+    // Private user-authored diary events (past parties not in RA's data).
+    getCustomEvents() {
+      return [...customEventsCache];
+    },
+    async addCustomEvent(payload) {
+      if (!session) return null;
+      const { data, error } = await sb
+        .from("custom_events")
+        .insert({ ...payload, user_id: session.user.id })
+        .select()
+        .single();
+      if (error) throw error;
+      customEventsCache = [...customEventsCache, data];
+      notify();
+      return data;
+    },
+    async deleteCustomEvent(id) {
+      if (!session) return;
+      await sb.from("custom_events").delete().eq("user_id", session.user.id).eq("id", id);
+      customEventsCache = customEventsCache.filter((e) => e.id !== id);
+      notify();
+    },
     // Self-service erase: a security-definer SQL function removes every row plus
     // the auth user (a client can't delete auth.users itself), then we sign out.
     async deleteAccount() {
@@ -274,6 +300,7 @@
       picksMeta = new Map();
       followsCache = new Set();
       favoriteVenuesCache = new Set();
+      customEventsCache = [];
     }
     renderAuthUI();
     notify();

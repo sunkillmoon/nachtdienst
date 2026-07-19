@@ -135,6 +135,71 @@
   }
   .load-more:hover{ border-color:var(--accent); color:var(--accent); }
 
+  /* ---------- diary rows ---------- */
+  .gig-note{ display:block; font-size:12px; color:var(--text-dim); margin-top:3px; }
+  .gig-tags{ display:flex; align-items:center; gap:8px; margin-top:6px; }
+  .tag-diary{
+    font-size:9px; letter-spacing:0.08em; text-transform:uppercase;
+    color:var(--bg); background:var(--text-dim); padding:2px 6px;
+  }
+
+  /* ---------- add past event ---------- */
+  .add-past{ padding:8px 16px 4px; }
+  .add-panel{ padding:6px 16px 12px; border-bottom:1px solid var(--line); background:var(--surface); }
+  .add-panel.hidden{ display:none; }
+  .add-tabs{ display:flex; gap:8px; margin-bottom:10px; }
+  .add-tab{
+    font-family:var(--font-mono); font-size:11px; letter-spacing:0.06em; text-transform:uppercase;
+    background:none; border:1px solid var(--line); color:var(--text-dim);
+    padding:6px 10px; min-height:auto; cursor:pointer;
+  }
+  .add-tab.active{ background:var(--accent); color:var(--bg); border-color:var(--accent); font-weight:700; }
+  .add-mode.hidden{ display:none; }
+  .add-input{
+    display:block; width:100%; font-family:var(--font-mono);
+    background:var(--bg); color:var(--text); border:1px solid var(--line);
+    padding:0 10px; min-height:40px; font-size:13px; margin-bottom:8px;
+    letter-spacing:0.04em;
+  }
+  .add-dates{ display:flex; gap:8px; }
+  .add-dates .add-input{ flex:1; }
+  .add-status{ font-size:11px; color:var(--text-dim); letter-spacing:0.04em; }
+
+  .search-result{
+    display:grid; grid-template-columns:96px 1fr; gap:12px; width:100%; text-align:left;
+    background:var(--bg); border:none; border-top:1px solid var(--line); color:var(--text);
+    padding:8px 0; min-height:auto; cursor:pointer;
+  }
+  .search-result:hover{ background:#161616; }
+  .sr-date{ font-size:12px; font-weight:700; white-space:nowrap; }
+  .sr-title{ font-family:var(--font-display); font-weight:700; text-transform:uppercase; font-size:13px; display:block; }
+  .sr-venue{ font-size:11px; color:var(--accent); }
+
+  .ac-field{ position:relative; }
+  .ac-drop{
+    display:none; position:absolute; left:0; right:0; top:40px; z-index:5;
+    background:var(--bg); border:1px solid var(--line); max-height:200px; overflow-y:auto;
+  }
+  .ac-drop.open{ display:block; }
+  .ac-item{
+    display:block; width:100%; text-align:left; font-family:var(--font-mono); font-size:12px;
+    background:var(--bg); color:var(--text); border:none; border-bottom:1px solid var(--line);
+    padding:8px 10px; min-height:auto; cursor:pointer;
+  }
+  .ac-item:hover{ background:#161616; color:var(--accent); }
+
+  .chips{ display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+  .chip{
+    display:inline-flex; align-items:center; gap:6px;
+    font-size:11px; letter-spacing:0.04em; text-transform:uppercase;
+    border:1px solid var(--line); padding:4px 6px 4px 8px; color:var(--text);
+  }
+  .chip-x{
+    font-family:var(--font-mono); background:none; border:none; color:var(--text-dim);
+    cursor:pointer; min-height:auto; padding:0 2px; font-size:15px; line-height:1;
+  }
+  .chip-x:hover{ color:var(--accent); }
+
   /* ---------- account / hygiene ---------- */
   .account{ padding:0 16px; margin-top:8px; }
   .account-actions{ display:flex; gap:8px; flex-wrap:wrap; }
@@ -227,7 +292,7 @@
 </section>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
-<script src="auth.js?v=c5a48740f3"></script>
-<script src="profile.js?v=fddf828226"></script>
+<script src="auth.js?v=e296453e51"></script>
+<script src="profile.js?v=897bf8b56f"></script>
 </body>
 </html>
