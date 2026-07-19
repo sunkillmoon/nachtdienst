@@ -15,6 +15,9 @@ _ARTIST_TAG_RE = re.compile(r'<artist id="\d+">(.*?)</artist>')
 _UNKNOWN_NL_LOCATION = (52, 5)  # "somewhere in the Netherlands"
 _NULL_ISLAND = (0, 0)  # global null-island fallback -- genuinely location-TBA
 
+# Events whose night falls before this are RA placeholder junk (e.g. 1980-01-01).
+MIN_EVENT_DATE = "2005-01-01"
+
 VENUES_PATH = config.REPO_ROOT / "data" / "venues.json"
 
 
@@ -101,9 +104,17 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             )
             continue
 
+        # RA returns placeholder rows for defunct/rescheduled events, dated
+        # 1980-01-01 (and sometimes with no start time). Drop anything with no
+        # start, or whose night falls before 2005 -- junk that must never enter
+        # the archive (mostly surfaces via events(type: PREVIOUS) backfills).
+        if not event.get("startTime"):
+            continue
         location = venue.get("location") or {}
         area = venue.get("area") or {}
         start = _parse_local(event["startTime"])
+        if night_of(start) < MIN_EVENT_DATE:
+            continue
         end = _parse_local(event["endTime"]) if event.get("endTime") else None
         lat, lng, location_tba = _resolve_location(
             venue["name"], location.get("latitude"), location.get("longitude"), venue_overrides

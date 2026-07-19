@@ -36,6 +36,26 @@ RA exposes each artist's full past history to anonymous callers. `backfill_artis
 .venv\Scripts\python.exe -m scraper.backfill_artists             # the full run
 ```
 
+### Seeding venue + promoter history (one-off, manual)
+
+`backfill_places.py` walks every known NL venue and promoter via
+`events(type: PREVIOUS)` and seeds the archive with their recent history
+(default 2 years). NL-local by nature, resumable, NOT run in CI.
+
+```
+.venv\Scripts\python.exe -m scraper.archive_stats                # counts/size BEFORE
+.venv\Scripts\python.exe -m scraper.backfill_places --limit 5    # test a small slice first
+.venv\Scripts\python.exe -m scraper.backfill_places              # the full run (~1h, overnight)
+.venv\Scripts\python.exe -m scraper.archive_stats                # counts/size AFTER — see the delta
+```
+
+Resume after Ctrl-C or a crash: just re-run the same command. Completed
+venues/promoters are recorded in `scraper/.backfill_places_progress.json` and
+skipped; already-fetched responses are cached on disk. `--months N` changes the
+lookback; `--skip-venues` / `--skip-promoters` narrow the walk. Afterwards, run
+the nightly scrape (or `python -m scraper.search_index`) so the profile search
+index covers the fatter archive.
+
 ## Nightly refresh
 
 The Actions workflow runs on a schedule (two cron entries covering both CET/CEST, since GitHub Actions cron is always UTC) and can also be triggered manually from the Actions tab (`workflow_dispatch`) to force an immediate refresh.

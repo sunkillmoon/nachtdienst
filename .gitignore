@@ -2,5 +2,7 @@
 scraper/.cache/
 scraper/.cache_artists/
 scraper/.cache_geocode/
+scraper/.cache_places/
+scraper/.backfill_places_progress.json
 __pycache__/
 *.pyc
