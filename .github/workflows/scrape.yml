@@ -17,6 +17,18 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      # Free Supabase projects pause after ~1 week without API traffic, which
+      # would silently kill magic-link login. With notification emails deferred,
+      # nothing else guarantees daily hits — so ping the REST API every run with
+      # a harmless anonymous select (RLS returns []; still counts as activity).
+      # The publishable/anon key is public by design (it ships in auth.js). Runs
+      # unconditionally (no ~06:00 guard) and never fails the job.
+      - name: Keep Supabase awake
+        run: |
+          curl -sS -o /dev/null -w "keepalive: HTTP %{http_code}\n" \
+            "https://smqoxsouhvbwfmjlessg.supabase.co/rest/v1/follows?select=user_id&limit=1" \
+            -H "apikey: sb_publishable_EViVR2WaNdXJgUCVKvInpQ_45hkGFHj" || echo "keepalive ping failed"
+
       - name: Only proceed if it's really ~06:00 in Amsterdam right now
         run: |
           hour=$(TZ=Europe/Amsterdam date +%H)

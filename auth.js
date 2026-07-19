@@ -125,6 +125,15 @@
     const statusEl = document.getElementById("authStatusMsg");
     if (!scrim || !panel || !form) return; // page doesn't include the auth panel
 
+    // One-line expectation-setter under the field (injected once, so every page's
+    // identical panel gets it). Reuses .auth-status for the small/dim look.
+    if (statusEl && !document.querySelector(".auth-hint")) {
+      statusEl.insertAdjacentHTML(
+        "beforebegin",
+        `<p class="auth-status auth-hint">FIRST LINK CAN TAKE A MINUTE — AND MAY LAND IN SPAM.</p>`
+      );
+    }
+
     scrim.addEventListener("click", closeLogin);
     document.addEventListener("keydown", (e) => {
       if (e.key === "Escape" && panel.classList.contains("open")) closeLogin();
