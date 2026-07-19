@@ -74,7 +74,7 @@ RA exposes each artist's full past history to anonymous callers via `artist(id).
 3. Frontend v0: ticker + map + list + detail panel, reading `events.json` — done
 4. GitHub Actions nightly run + GitHub Pages deploy — done
 5. Artist pages + genre tags — done (also: national NL coverage + permanent archive + artist-history backfill)
-6. Supabase accounts: favorites, follows, went/want-to-go — done (6a). Notification emails — CURRENT
+6. Supabase accounts: favorites, follows, went/want-to-go — done (6a). Profile page (see all four collections + account hygiene: log out, delete account) — done (6b). Notification emails — **deferred** (spam concern; may return later as an opt-in biweekly digest, not per-event — see [TODO.md](TODO.md)).
 7. iCal feed for "want to go"
 
 ## Working rules for Claude Code

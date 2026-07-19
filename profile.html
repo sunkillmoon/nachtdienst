@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>NACHTKAART — Promoter</title>
+<title>NACHTKAART — Profile</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="manifest" href="manifest.json?v=5543d71ab7">
@@ -70,7 +70,7 @@
     overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
   }
 
-  /* ---------- entity head ---------- */
+  /* ---------- head ---------- */
   .entity-head{ padding:20px 16px 14px; border-bottom:1px solid var(--line); }
   .entity-eyebrow{
     font-size:11px; letter-spacing:0.08em; text-transform:uppercase;
@@ -81,39 +81,35 @@
     font-weight:700; text-transform:uppercase; letter-spacing:-0.02em;
     font-size:30px; line-height:1.0;
   }
+  .profile-email{ font-size:12px; color:var(--accent); margin-top:8px; word-break:break-all; }
 
-  .links-row{ display:flex; gap:8px; flex-wrap:wrap; margin-top:14px; }
-  .link-btn{
-    font-family:var(--font-mono);
-    background:var(--surface);
-    font-size:11px; letter-spacing:0.06em; text-transform:uppercase;
-    padding:8px 12px; border:1px solid var(--line); color:var(--text);
-    text-decoration:none; display:inline-flex; align-items:center; min-height:44px;
-    cursor:pointer;
-  }
-  .link-btn:hover{ border-color:var(--accent); color:var(--accent); }
-  .link-btn[disabled]{ color:var(--text-dim); cursor:default; }
-  .link-btn.active{
-    background:var(--accent); color:var(--bg);
-    border-color:var(--accent); font-weight:700;
-  }
-
-  /* ---------- often books ---------- */
-  .chips{ display:flex; flex-wrap:wrap; gap:6px; padding:0 16px 4px; }
-  .chip{
-    font-family:var(--font-mono);
-    font-size:11px; letter-spacing:0.04em; text-transform:uppercase;
-    padding:4px 8px; border:1px solid var(--line); color:var(--text);
-    text-decoration:none;
-  }
-  .chip:hover{ border-color:var(--accent); color:var(--accent); }
-  .chip .n{ color:var(--text-dim); margin-left:4px; }
-
-  /* ---------- gig sections ---------- */
+  /* ---------- sections + rows ---------- */
   .section-label{
     font-size:11px; letter-spacing:0.08em; text-transform:uppercase;
-    color:var(--text-dim); padding:16px 16px 6px;
+    color:var(--text-dim); padding:18px 16px 6px;
   }
+  .empty{ padding:6px 16px 4px; font-size:12px; color:var(--text-dim); }
+
+  /* follow/venue rows: name + inline action */
+  .prow{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:10px 16px; border-bottom:1px solid var(--line); background:var(--surface);
+  }
+  .prow-main{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .prow-name{
+    font-family:var(--font-display); font-weight:700; text-transform:uppercase;
+    letter-spacing:-0.01em; font-size:14px;
+  }
+  .prow-action{
+    flex:none;
+    font-family:var(--font-mono);
+    font-size:10px; letter-spacing:0.06em; text-transform:uppercase;
+    background:none; border:1px solid var(--line); color:var(--text-dim);
+    padding:5px 9px; min-height:auto; cursor:pointer;
+  }
+  .prow-action:hover{ border-color:var(--accent); color:var(--accent); }
+
+  /* event rows: date + title + venue */
   .gig{
     display:grid; grid-template-columns:96px 1fr; gap:12px;
     padding:10px 16px; border-bottom:1px solid var(--line);
@@ -128,7 +124,43 @@
   .gig-title:hover{ color:var(--accent); }
   .gig-sub{ font-size:11px; color:var(--text-dim); }
   .gig-sub a{ color:var(--accent); }
-  .empty{ padding:10px 16px 4px; font-size:12px; color:var(--text-dim); }
+  .gig.unresolved .gig-title{ color:var(--text-dim); }
+
+  .load-more{
+    display:block; width:calc(100% - 32px); margin:10px 16px 0;
+    font-family:var(--font-mono);
+    font-size:11px; letter-spacing:0.08em; text-transform:uppercase;
+    background:var(--surface); color:var(--text); border:1px solid var(--line);
+    padding:10px; min-height:44px; cursor:pointer;
+  }
+  .load-more:hover{ border-color:var(--accent); color:var(--accent); }
+
+  /* ---------- account / hygiene ---------- */
+  .account{ padding:0 16px; margin-top:8px; }
+  .account-actions{ display:flex; gap:8px; flex-wrap:wrap; }
+  .link-btn{
+    font-family:var(--font-mono);
+    background:var(--surface);
+    font-size:11px; letter-spacing:0.06em; text-transform:uppercase;
+    padding:8px 12px; border:1px solid var(--line); color:var(--text);
+    text-decoration:none; display:inline-flex; align-items:center; min-height:44px;
+    cursor:pointer;
+  }
+  .link-btn:hover{ border-color:var(--accent); color:var(--accent); }
+  .link-btn[disabled]{ color:var(--text-dim); cursor:default; opacity:0.6; }
+  .link-btn[disabled]:hover{ border-color:var(--line); color:var(--text-dim); }
+
+  .delete-confirm{ margin-top:12px; }
+  .delete-confirm.hidden{ display:none; }
+  .delete-warn{ font-size:12px; color:var(--text-dim); margin-bottom:10px; line-height:1.5; }
+  .delete-row{ display:flex; gap:8px; }
+  .delete-input{
+    flex:1; font-family:var(--font-mono);
+    background:var(--surface); color:var(--text); border:1px solid var(--line);
+    padding:0 10px; min-height:44px; font-size:13px; letter-spacing:0.08em;
+    text-transform:uppercase;
+  }
+  .delete-status{ margin-top:10px; font-size:11px; letter-spacing:0.04em; color:var(--text-dim); }
 
   /* ---------- login panel ---------- */
   .scrim{
@@ -172,9 +204,9 @@
   </header>
 
   <div class="entity-head">
-    <div class="entity-eyebrow">PROMOTER</div>
-    <h1 id="promoterName">…</h1>
-    <div class="links-row" id="linksRow"></div>
+    <div class="entity-eyebrow">PROFILE</div>
+    <h1>YOUR NIGHTS</h1>
+    <div class="profile-email" id="profileEmail"></div>
   </div>
 
   <main id="main"></main>
@@ -196,6 +228,6 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
 <script src="auth.js?v=c5a48740f3"></script>
-<script src="promoter.js?v=a5df17c773"></script>
+<script src="profile.js?v=fddf828226"></script>
 </body>
 </html>

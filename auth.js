@@ -16,6 +16,7 @@
 
   let session = null;
   let picksCache = new Map(); // event_id -> "went" | "want_to_go"
+  let picksMeta = new Map(); // event_id -> created_at (ISO); logged-in only
   let followsCache = new Set(); // artist_id
   let favoriteVenuesCache = new Set(); // venue_name
   const listeners = [];
@@ -44,17 +45,19 @@
   async function loadUserData() {
     if (!session) {
       picksCache = new Map();
+      picksMeta = new Map();
       followsCache = new Set();
       favoriteVenuesCache = new Set();
       return;
     }
     const uid = session.user.id;
     const [picksRes, followsRes, favRes] = await Promise.all([
-      sb.from("picks").select("event_id,status").eq("user_id", uid),
+      sb.from("picks").select("event_id,status,created_at").eq("user_id", uid),
       sb.from("follows").select("artist_id").eq("user_id", uid),
       sb.from("favorite_venues").select("venue_name").eq("user_id", uid),
     ]);
     picksCache = new Map((picksRes.data || []).map((r) => [r.event_id, r.status]));
+    picksMeta = new Map((picksRes.data || []).map((r) => [r.event_id, r.created_at]));
     followsCache = new Set((followsRes.data || []).map((r) => r.artist_id));
     favoriteVenuesCache = new Set((favRes.data || []).map((r) => r.venue_name));
   }
@@ -81,7 +84,7 @@
     if (session) {
       const email = session.user.email || "";
       el.innerHTML = `
-        <span class="auth-email" title="${esc(email)}">${esc(email)}</span>
+        <a class="auth-email" href="profile.html" title="${esc(email)}">${esc(email)}</a>
         <button class="auth-btn" type="button" id="logoutBtn">LOG OUT</button>
       `;
       document.getElementById("logoutBtn").addEventListener("click", () => sb.auth.signOut());
@@ -167,6 +170,12 @@
     isLoggedIn() {
       return !!session;
     },
+    getEmail() {
+      return session?.user?.email ?? null;
+    },
+    async logout() {
+      await sb.auth.signOut();
+    },
     openLogin,
     getPickStatus(eventId) {
       return session ? picksCache.get(eventId) ?? null : getLocalPicks()[eventId] ?? null;
@@ -193,6 +202,27 @@
         setLocalPicks(local);
       }
       notify();
+    },
+    // Whole-collection getters for the profile page.
+    getFollows() {
+      return [...followsCache];
+    },
+    getFavoriteVenues() {
+      return [...favoriteVenuesCache];
+    },
+    getPicks() {
+      return [...picksCache.entries()].map(([event_id, status]) => ({
+        event_id,
+        status,
+        created_at: picksMeta.get(event_id) ?? null,
+      }));
+    },
+    // Self-service erase: a security-definer SQL function removes every row plus
+    // the auth user (a client can't delete auth.users itself), then we sign out.
+    async deleteAccount() {
+      const { error } = await sb.rpc("delete_own_account");
+      if (error) throw error;
+      await sb.auth.signOut();
     },
     isFollowing(artistId) {
       return followsCache.has(artistId);
@@ -241,6 +271,7 @@
     }
     if (event === "SIGNED_OUT") {
       picksCache = new Map();
+      picksMeta = new Map();
       followsCache = new Set();
       favoriteVenuesCache = new Set();
     }
