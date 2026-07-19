@@ -38,6 +38,7 @@ query GET_ARTIST($id: ID!, $limit: Int!, $excludeIds: [ID!]) {
       genres { name }
       images { filename type }
       artists { id name }
+      promoters { id name }
       lineup
       venue {
         id

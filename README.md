@@ -10,9 +10,9 @@ Full product brief, style guide, and roadmap live in [CLAUDE.md](CLAUDE.md) and 
 
 - `scraper/` — Python, pulls nationwide NL events (RA area 176) from Resident Advisor's unofficial GraphQL API into `data/events.json`
 - `data/events.json` — rolling 30-day live window; `data/archive/<year>.json` — permanent archive of every event ever seen (keyed by id, never deleted)
-- `data/artists/<id>.json` — per-artist files (upcoming + past gigs + socials), generated each scrape from events + archive; read by `artist.html`
-- `data/venues.json` — hand-maintained venue name → marker abbreviation/logo map; the scraper never writes to this file
-- `index.html` + `app.js` — map/list/detail frontend; `artist.html` + `artist.js` — client-rendered artist pages. Static, no framework, no build step
+- `data/artists/<id>.json`, `data/venues/<id>.json`, `data/promoters/<id>.json` — per-entity page files (upcoming + past + extras), generated each scrape from events + archive; read by `artist.html` / `venue.html` / `promoter.html`. Promoters and `venue.id` come from RA's GraphQL (`Event.promoters`, verified served anonymously)
+- `data/venues.json` — hand-maintained venue name → marker abbreviation/logo map (distinct from the generated `data/venues/` page files); the scraper never writes to this file
+- `index.html` + `app.js` — map/list/detail frontend; `artist.html`/`venue.html`/`promoter.html` + their JS — client-rendered entity pages. Static, no framework, no build step
 - `.github/workflows/scrape.yml` — runs the scraper every morning (~06:00 Amsterdam time) and commits changed `data/` if anything changed
 - GitHub Pages serves the repo root on the `main` branch
 - Cache-busting: `update_asset_versions.py` stamps a content-hash `?v=` on `app.js`/`artist.js`/`manifest.json`'s tags (auto-run by `.github/workflows/version-assets.yml` on every push that touches them); data fetches append a per-load `?t=<timestamp>` so a returning visitor — especially an installed home-screen PWA — always gets the latest deploy and the latest scrape

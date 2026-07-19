@@ -6,10 +6,14 @@ on:
     paths:
       - app.js
       - artist.js
+      - venue.js
+      - promoter.js
       - auth.js
       - manifest.json
       - index.html
       - artist.html
+      - venue.html
+      - promoter.html
 
 permissions:
   contents: write
@@ -28,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html artist.html
+          git add index.html artist.html venue.html promoter.html
           if git diff --cached --quiet; then
             echo "No version changes."
           else

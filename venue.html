@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>NACHTKAART — Artist</title>
+<title>NACHTKAART — Venue</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
 <link rel="manifest" href="manifest.json?v=5543d71ab7">
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="theme-color" content="#0A0A0A">
@@ -70,9 +71,9 @@
     overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
   }
 
-  /* ---------- artist head ---------- */
-  .artist-head{ padding:20px 16px 14px; border-bottom:1px solid var(--line); }
-  .artist-eyebrow{
+  /* ---------- entity head ---------- */
+  .entity-head{ padding:20px 16px 14px; border-bottom:1px solid var(--line); }
+  .entity-eyebrow{
     font-size:11px; letter-spacing:0.08em; text-transform:uppercase;
     color:var(--text-dim); margin-bottom:6px;
   }
@@ -81,6 +82,7 @@
     font-weight:700; text-transform:uppercase; letter-spacing:-0.02em;
     font-size:30px; line-height:1.0;
   }
+  .entity-sub{ font-size:12px; color:var(--accent); margin-top:8px; letter-spacing:0.04em; text-transform:uppercase; }
 
   .links-row{ display:flex; gap:8px; flex-wrap:wrap; margin-top:14px; }
   .link-btn{
@@ -92,13 +94,26 @@
     cursor:pointer;
   }
   .link-btn:hover{ border-color:var(--accent); color:var(--accent); }
-  .link-btn[disabled]{ color:var(--text-dim); cursor:not-allowed; opacity:0.6; }
   .link-btn.active{
-    background:var(--accent);
-    color:var(--bg);
-    border-color:var(--accent);
-    font-weight:700;
+    background:var(--accent); color:var(--bg);
+    border-color:var(--accent); font-weight:700;
   }
+
+  /* ---------- mini map ---------- */
+  .venue-map{ height:220px; border-bottom:1px solid var(--line); position:relative; }
+  .venue-map.hidden{ display:none; }
+  .marker{
+    min-width:20px; height:20px; padding:0 3px;
+    display:flex; align-items:center; justify-content:center;
+    border:1px solid var(--accent); background:var(--accent);
+    color:var(--bg); font-family:var(--font-mono);
+    font-size:9px; font-weight:700; letter-spacing:0.02em;
+  }
+  .maplibregl-ctrl-attrib{
+    background:var(--surface) !important; color:var(--text-dim) !important;
+    font-family:var(--font-mono) !important; font-size:10px !important;
+  }
+  .maplibregl-ctrl-attrib a{ color:var(--text-dim) !important; }
 
   /* ---------- gig sections ---------- */
   .section-label{
@@ -109,74 +124,44 @@
     display:grid; grid-template-columns:96px 1fr; gap:12px;
     padding:10px 16px; border-bottom:1px solid var(--line);
     background:var(--surface); align-items:baseline;
-    color:var(--text);
   }
-  .gig:hover{ background:#161616; }
-  .gig-date{ font-size:12px; font-weight:700; white-space:nowrap; }
+  .gig-date{ font-size:12px; font-weight:700; white-space:nowrap; color:var(--text); }
   .gig-title{
     font-family:var(--font-display); font-weight:700; text-transform:uppercase;
     letter-spacing:-0.01em; font-size:14px; display:block;
     color:var(--text); text-decoration:none;
   }
   .gig-title:hover{ color:var(--accent); }
-  .gig-venue{ font-size:11px; color:var(--accent); }
-  .gig-venue a{ color:var(--accent); }
+  .gig-sub{ font-size:11px; color:var(--text-dim); }
+  .gig-sub a{ color:var(--accent); }
   .empty{ padding:10px 16px 4px; font-size:12px; color:var(--text-dim); }
 
   /* ---------- login panel ---------- */
   .scrim{
-    position:fixed; inset:0;
-    background:rgba(0,0,0,0.6);
-    opacity:0; pointer-events:none;
-    transition:opacity 0.2s ease;
-    z-index:10;
+    position:fixed; inset:0; background:rgba(0,0,0,0.6);
+    opacity:0; pointer-events:none; transition:opacity 0.2s ease; z-index:10;
   }
   .scrim.open{ opacity:1; pointer-events:auto; }
-
   .panel{
     position:fixed; left:0; right:0; bottom:0;
-    max-width:960px; margin:0 auto;
-    max-height:88vh;
-    overflow-y:auto;
-    background:var(--bg);
-    border-top:1px solid var(--line);
-    transform:translateY(100%);
-    transition:transform 0.25s ease;
-    z-index:11;
+    max-width:960px; margin:0 auto; max-height:88vh; overflow-y:auto;
+    background:var(--bg); border-top:1px solid var(--line);
+    transform:translateY(100%); transition:transform 0.25s ease; z-index:11;
   }
   .panel.open{ transform:translateY(0); }
-
-  @media (prefers-reduced-motion: reduce){
-    .scrim, .panel{ transition:none; }
-  }
-
-  .panel-handle{
-    width:36px; height:4px;
-    background:var(--line);
-    margin:10px auto;
-  }
-
+  @media (prefers-reduced-motion: reduce){ .scrim, .panel{ transition:none; } }
+  .panel-handle{ width:36px; height:4px; background:var(--line); margin:10px auto; }
   .panel-body{ padding:0 16px 24px; }
-
   .panel h2{
-    font-family:var(--font-display);
-    text-transform:uppercase;
-    letter-spacing:-0.02em;
-    font-size:22px;
-    margin-bottom:2px;
+    font-family:var(--font-display); text-transform:uppercase;
+    letter-spacing:-0.02em; font-size:22px; margin-bottom:2px;
   }
-
   .auth-copy{ font-size:12px; color:var(--text-dim); margin:8px 0 14px; }
   #authForm{ display:flex; gap:8px; }
   .auth-email-input{
-    flex:1;
-    font-family:var(--font-mono);
-    background:var(--surface);
-    color:var(--text);
-    border:1px solid var(--line);
-    padding:0 10px;
-    min-height:44px;
-    font-size:13px;
+    flex:1; font-family:var(--font-mono);
+    background:var(--surface); color:var(--text); border:1px solid var(--line);
+    padding:0 10px; min-height:44px; font-size:13px;
   }
   .auth-status{ margin-top:10px; font-size:11px; letter-spacing:0.04em; color:var(--text-dim); }
 </style>
@@ -192,11 +177,14 @@
     </div>
   </header>
 
-  <div class="artist-head">
-    <div class="artist-eyebrow">ARTIST</div>
-    <h1 id="artistName">…</h1>
+  <div class="entity-head">
+    <div class="entity-eyebrow">VENUE</div>
+    <h1 id="venueName">…</h1>
+    <div class="entity-sub" id="venueCity"></div>
     <div class="links-row" id="linksRow"></div>
   </div>
+
+  <div class="venue-map hidden" id="venueMap"></div>
 
   <main id="main"></main>
 </div>
@@ -215,8 +203,9 @@
   </div>
 </section>
 
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
 <script src="auth.js?v=f1236c8664"></script>
-<script src="artist.js?v=83f3ceffae"></script>
+<script src="venue.js?v=4b7df3df01"></script>
 </body>
 </html>

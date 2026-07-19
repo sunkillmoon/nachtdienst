@@ -30,6 +30,7 @@ query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: I
         genres { name }
         images { filename type }
         artists { id name }
+        promoters { id name }
         lineup
         venue {
           id

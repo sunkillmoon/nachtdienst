@@ -332,6 +332,21 @@ function mapsDirectionsUrl(lat, lng) {
   return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
 }
 
+// Venue/promoter names link to their own pages when RA gives us an id. (Text is
+// kept unescaped to match the rest of this renderer, which trusts RA's strings.)
+function venueLinkHtml(venue) {
+  return venue.id != null
+    ? `<a href="venue.html?id=${encodeURIComponent(venue.id)}">${venue.name}</a>`
+    : venue.name;
+}
+
+function promotersLinkHtml(promoters) {
+  if (!promoters || !promoters.length) return "";
+  return promoters
+    .map((p) => `<a href="promoter.html?id=${encodeURIComponent(p.id)}">${p.name}</a>`)
+    .join(", ");
+}
+
 // Distance shown as raw km, or a rough travel-time estimate. No routing API:
 // straight-line distance * 1.3 (a flat detour factor for real streets) at
 // ~15 km/h cycling / ~5 km/h walking. Always ~-prefixed to read as an estimate,
@@ -415,24 +430,39 @@ function renderList() {
   const sorted = sortEvents(events, getCoords());
   listEl.innerHTML = sorted
     .map(
-      ({ event, distanceKm }) => `
-    <button class="row${isEventEnded(event) ? " ended" : ""}" type="button" data-id="${event.id}">
+      ({ event, distanceKm }) => {
+        const promoters = promotersLinkHtml(event.promoters);
+        return `
+    <div class="row${isEventEnded(event) ? " ended" : ""}" role="button" tabindex="0" data-id="${event.id}">
       <div class="row-top">
         <span class="row-time">${formatTimeRange(event)}</span>
         <div class="row-title">
           <span class="row-event">${event.title}</span>
-          <span class="row-venue">${event.venue.name}<span class="row-dist">${travelText(distanceKm, state.distanceMode)}</span></span>
+          <span class="row-venue">${venueLinkHtml(event.venue)}<span class="row-dist">${travelText(distanceKm, state.distanceMode)}</span></span>
+          ${promoters ? `<span class="row-promoter">BY ${promoters}</span>` : ""}
         </div>
       </div>
       <div class="row-lineup">${lineupPreviewText(event)}</div>
       <div class="row-tags">${tagsRowHtml(event)}</div>
-    </button>
-  `
+    </div>
+  `;
+      }
     )
     .join("");
 
+  // The row opens the detail panel, but inner venue/promoter links must win —
+  // it's a div (not a button) so those anchors are valid nested interactives.
   listEl.querySelectorAll(".row").forEach((row) => {
-    row.addEventListener("click", () => openPanel(row.dataset.id));
+    row.addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      openPanel(row.dataset.id);
+    });
+    row.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        openPanel(row.dataset.id);
+      }
+    });
   });
 
   syncActiveStates();
@@ -461,10 +491,13 @@ function openPanel(eventId) {
   const pickStatus = window.NachtkaartAuth.getPickStatus(event.id);
   const isFavVenue = window.NachtkaartAuth.isFavoriteVenue(event.venue.name);
 
+  const promotersHtml = promotersLinkHtml(event.promoters);
+
   panelBody.innerHTML = `
     <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
     <h2>${event.title}</h2>
-    <div class="venue-line">${event.venue.name} · ${venueLineSuffix}</div>
+    <div class="venue-line">${venueLinkHtml(event.venue)} · ${venueLineSuffix}</div>
+    ${promotersHtml ? `<div class="promoter-line">BY ${promotersHtml}</div>` : ""}
 
     <div class="facts">
       <div><span class="k">Time</span><span class="v">${formatTimeRange(event)}</span></div>

@@ -5,7 +5,7 @@ import os
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from . import archive, artists, config
+from . import archive, artists, config, promoter_pages, venue_pages
 from .ra_client import fetch_events, RAClientError
 from .transform import transform
 
@@ -74,6 +74,8 @@ def main():
     added = archive.merge(events, now=now)
     print(f"Archive: added {sum(added.values())} new events across years {sorted(added)}")
     artists.build()
+    venue_pages.build()
+    promoter_pages.build()
 
 
 if __name__ == "__main__":

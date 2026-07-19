@@ -11,8 +11,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-ASSETS = ["app.js", "artist.js", "auth.js", "manifest.json"]
-HTML_FILES = ["index.html", "artist.html"]
+ASSETS = ["app.js", "artist.js", "venue.js", "promoter.js", "auth.js", "manifest.json"]
+HTML_FILES = ["index.html", "artist.html", "venue.html", "promoter.html"]
 
 
 def content_hash(path: Path) -> str:

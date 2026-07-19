@@ -25,6 +25,7 @@ def _gig(event: dict) -> dict:
         "date": event["date"],
         "start": event.get("start"),
         "venue": event["venue"]["name"],
+        "venue_id": event["venue"].get("id"),
         "area": event["venue"].get("area"),
         "url": event.get("ra_url"),
     }

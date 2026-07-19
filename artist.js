@@ -61,16 +61,23 @@ function renderLinks(artist) {
   });
 }
 
+// Row (not a wrapping <a>) so the title can link to RA and the venue to its own
+// page as separate, valid links.
 function gigHtml(gig) {
-  const href = gig.url || "#";
+  const title = gig.url
+    ? `<a class="gig-title" href="${esc(gig.url)}" target="_blank" rel="noopener">${esc(gig.title)}</a>`
+    : `<span class="gig-title">${esc(gig.title)}</span>`;
+  const venue = gig.venue_id
+    ? `<a href="venue.html?id=${encodeURIComponent(gig.venue_id)}">${esc(gig.venue)}</a>`
+    : esc(gig.venue);
   return `
-    <a class="gig" href="${esc(href)}" target="_blank" rel="noopener">
+    <div class="gig">
       <span class="gig-date">${formatGigDate(gig.date)}</span>
       <span>
-        <span class="gig-title">${esc(gig.title)}</span>
-        <span class="gig-venue">${esc(gig.venue)}${gig.area ? " · " + esc(gig.area) : ""}</span>
+        ${title}
+        <span class="gig-venue">${venue}${gig.area ? " · " + esc(gig.area) : ""}</span>
       </span>
-    </a>`;
+    </div>`;
 }
 
 function renderSection(label, gigs) {

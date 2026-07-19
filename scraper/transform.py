@@ -114,6 +114,7 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             "source": "ra",
             "title": event.get("title") or "Untitled",
             "venue": {
+                "id": venue.get("id"),
                 "name": venue["name"],
                 "area": area.get("name"),
                 "lat": lat,
@@ -128,6 +129,8 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             # RA-registered artists only (kept separate for a future artist-pages
             # step); `lineup_text` below is the fuller promoter-written billing.
             "artists": [{"id": a["id"], "name": a["name"]} for a in event.get("artists") or []],
+            # RA promoters/organizers (first-class like artists — own pages).
+            "promoters": [{"id": p["id"], "name": p["name"]} for p in event.get("promoters") or []],
             "lineup_text": _clean_lineup_text(event.get("lineup")),
             "tags": [g["name"].upper() for g in event.get("genres") or []],
             "price": _parse_price(event.get("cost")),

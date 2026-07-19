@@ -301,6 +301,7 @@
     color:var(--text);
     padding:10px 16px;
     min-height:44px;
+    cursor:pointer;
   }
   .row:hover{ background:#161616; }
   .row:active{ background:#1a1a1a; }
@@ -336,6 +337,12 @@
     white-space:nowrap;
   }
   .row.ended .row-dist{ color:var(--text-dim); }
+  .row-promoter{
+    display:block;
+    font-size:11px;
+    color:var(--text-dim);
+    margin-top:2px;
+  }
   .row-lineup{
     font-size:12px;
     color:var(--text-dim);
@@ -514,6 +521,11 @@
   .panel .venue-line{
     color:var(--accent);
     font-size:13px;
+    margin-bottom:6px;
+  }
+  .panel .promoter-line{
+    font-size:12px;
+    color:var(--text-dim);
     margin-bottom:14px;
   }
 
@@ -698,7 +710,7 @@
 <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
 <script src="auth.js?v=f1236c8664"></script>
-<script src="app.js?v=decf8e57f9"></script>
+<script src="app.js?v=0144088013"></script>
 
 </body>
 </html>
