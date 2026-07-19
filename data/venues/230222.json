@@ -1,0 +1,31 @@
+{
+  "id": "230222",
+  "name": "KABUL à GoGo",
+  "area": "Utrecht",
+  "lat": 52.1,
+  "lng": 5.08,
+  "upcoming": [
+    {
+      "id": "ra:2489006",
+      "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2489006"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2485962",
+      "title": "Teatro Danscafé: Het Complot and Friends",
+      "date": "2026-07-18",
+      "start": "2026-07-18T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": null,
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2485962"
+    }
+  ]
+}

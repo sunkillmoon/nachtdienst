@@ -1,0 +1,69 @@
+{
+  "id": "113390",
+  "name": "Ratherlost",
+  "upcoming": [
+    {
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423424"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "136260",
+      "name": "Beatrice M.",
+      "count": 1
+    },
+    {
+      "id": "64434",
+      "name": "D.Dan",
+      "count": 1
+    },
+    {
+      "id": "99288",
+      "name": "Decoder",
+      "count": 1
+    },
+    {
+      "id": "77720",
+      "name": "DJ Yazi",
+      "count": 1
+    },
+    {
+      "id": "113191",
+      "name": "Faustin (NL)",
+      "count": 1
+    },
+    {
+      "id": "7770",
+      "name": "Garçon",
+      "count": 1
+    },
+    {
+      "id": "55492",
+      "name": "Agonis",
+      "count": 1
+    },
+    {
+      "id": "135170",
+      "name": "Innersha",
+      "count": 1
+    },
+    {
+      "id": "81305",
+      "name": "JakoJako",
+      "count": 1
+    },
+    {
+      "id": "3854",
+      "name": "Kangding Ray",
+      "count": 1
+    }
+  ]
+}

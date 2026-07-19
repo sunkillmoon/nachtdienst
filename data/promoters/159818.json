@@ -1,0 +1,44 @@
+{
+  "id": "159818",
+  "name": "YEREYERE",
+  "upcoming": [
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "111450",
+      "name": "DJ AYA",
+      "count": 1
+    },
+    {
+      "id": "178844",
+      "name": "iMarly",
+      "count": 1
+    },
+    {
+      "id": "179646",
+      "name": "LYLO (NL)",
+      "count": 1
+    },
+    {
+      "id": "123621",
+      "name": "Raven Karijo",
+      "count": 1
+    },
+    {
+      "id": "110613",
+      "name": "NORA (BR)",
+      "count": 1
+    }
+  ]
+}

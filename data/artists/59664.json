@@ -4,32 +4,36 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2470565",
-      "title": "CLUB.RECORD X Shelter: Boat Series",
-      "date": "2026-07-18",
-      "start": "2026-07-18T14:00+02:00",
-      "venue": "Sluis Haveneiland",
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "venue_id": "241842",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2470565"
-    },
+      "url": "https://ra.co/events/2436135"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2449821",
       "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "Shelter Amsterdam",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449821"
     },
     {
-      "id": "ra:2436135",
-      "title": "Kinetic Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Hal25",
+      "id": "ra:2470565",
+      "title": "CLUB.RECORD X Shelter: Boat Series",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Sluis Haveneiland",
+      "venue_id": null,
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2436135"
+      "url": "https://ra.co/events/2470565"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "121083",
+  "name": "HOTBOX.EVENTS",
+  "upcoming": [
+    {
+      "id": "ra:2481713",
+      "title": "HOTBOX",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "MeWe Amsterdam",
+      "venue_id": "283202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481713"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "167583",
+      "name": "ESSNCE",
+      "count": 1
+    },
+    {
+      "id": "137529",
+      "name": "HOTBOX COLLECTIVE",
+      "count": 1
+    },
+    {
+      "id": "137899",
+      "name": "Gils Promor",
+      "count": 1
+    }
+  ]
+}

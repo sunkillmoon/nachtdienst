@@ -4,11 +4,24 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2475177",
+      "title": "Paige Tomlinson & Friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2475177"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",
       "date": "2026-07-18",
       "start": "2026-07-18T12:00+02:00",
       "venue": "TBA",
+      "venue_id": "259877",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2483805"
     },
@@ -18,18 +31,9 @@
       "date": "2026-07-18",
       "start": "2026-07-18T17:00+02:00",
       "venue": "Colorado Charlie",
+      "venue_id": null,
       "area": "The Hague",
       "url": "https://ra.co/events/2357558"
-    },
-    {
-      "id": "ra:2475177",
-      "title": "Paige Tomlinson & Friends",
-      "date": "2026-08-08",
-      "start": "2026-08-08T17:00+02:00",
-      "venue": "Beachclub Fuel",
-      "area": "All",
-      "url": "https://ra.co/events/2475177"
     }
-  ],
-  "past": []
+  ]
 }

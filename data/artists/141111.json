@@ -5,10 +5,11 @@
   "upcoming": [
     {
       "id": "ra:2483651",
-      "title": "TAFKAMP INVITES Ben Sims, Deetron PRESENTS SOULMATE & Pelanoir",
+      "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
       "date": "2026-07-19",
       "start": "2026-07-19T20:00+02:00",
       "venue": "BRET",
+      "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483651"
     },
@@ -18,6 +19,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T23:00+02:00",
       "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449012"
     }

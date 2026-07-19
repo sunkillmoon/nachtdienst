@@ -1,0 +1,34 @@
+{
+  "id": "176787",
+  "name": "Mia Banks",
+  "upcoming": [
+    {
+      "id": "ra:2492154",
+      "title": "Mia's HOUSE of DISCO - Vierdaagse feesten",
+      "date": "2026-07-19",
+      "start": "2026-07-19T14:00+02:00",
+      "venue": "Stadseiland Stek",
+      "venue_id": "297688",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2492154"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "170850",
+      "name": "Mia Banks",
+      "count": 1
+    },
+    {
+      "id": "55158",
+      "name": "Bruze D'Angelo",
+      "count": 1
+    },
+    {
+      "id": "140321",
+      "name": "LuxNL",
+      "count": 1
+    }
+  ]
+}

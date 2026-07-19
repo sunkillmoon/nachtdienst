@@ -1,0 +1,129 @@
+{
+  "id": "130731",
+  "name": "Skatecafe Karin & Yvonne",
+  "upcoming": [
+    {
+      "id": "ra:2481235",
+      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
+      "date": "2026-07-21",
+      "start": "2026-07-21T19:30+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481235"
+    },
+    {
+      "id": "ra:2462885",
+      "title": "PRIDE - LET'S STRUT",
+      "date": "2026-07-24",
+      "start": "2026-07-24T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462885"
+    },
+    {
+      "id": "ra:2462890",
+      "title": "PRIDE - PLUG & PLAY",
+      "date": "2026-07-25",
+      "start": "2026-07-25T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462890"
+    },
+    {
+      "id": "ra:2474056",
+      "title": "PRIDE - PRIDE IS A PROTEST",
+      "date": "2026-07-31",
+      "start": "2026-07-31T18:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474056"
+    },
+    {
+      "id": "ra:2473182",
+      "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473182"
+    },
+    {
+      "id": "ra:2481339",
+      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481339"
+    },
+    {
+      "id": "ra:2488651",
+      "title": "LAGOS IN NL XXL",
+      "date": "2026-08-15",
+      "start": "2026-08-15T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488651"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "145269",
+      "name": "EVER",
+      "count": 1
+    },
+    {
+      "id": "103163",
+      "name": "Ecstasya",
+      "count": 1
+    },
+    {
+      "id": "103438",
+      "name": "kimmah",
+      "count": 1
+    },
+    {
+      "id": "128614",
+      "name": "SISSY MISFIT",
+      "count": 1
+    },
+    {
+      "id": "157924",
+      "name": "Krai",
+      "count": 1
+    },
+    {
+      "id": "33314",
+      "name": "Maan",
+      "count": 1
+    },
+    {
+      "id": "85310",
+      "name": "MMIV",
+      "count": 1
+    },
+    {
+      "id": "111791",
+      "name": "NAAZ",
+      "count": 1
+    },
+    {
+      "id": "112928",
+      "name": "Slimfit",
+      "count": 1
+    },
+    {
+      "id": "182134",
+      "name": "UNAUNA KITT",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "206986",
+  "name": "Time is the new space",
+  "area": "Rotterdam",
+  "lat": 52,
+  "lng": 4,
+  "upcoming": [
+    {
+      "id": "ra:2489790",
+      "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489790"
+    },
+    {
+      "id": "ra:2490623",
+      "title": "PAUZE",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490623"
+    }
+  ],
+  "past": []
+}

@@ -9,6 +9,7 @@
       "date": "2026-07-24",
       "start": "2026-07-24T23:00+02:00",
       "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478072"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "Club NYX",
+      "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487475"
     }

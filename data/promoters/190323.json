@@ -1,0 +1,34 @@
+{
+  "id": "190323",
+  "name": "Mozzy",
+  "upcoming": [
+    {
+      "id": "ra:2487470",
+      "title": "Rave in the Park",
+      "date": "2026-07-19",
+      "start": "2026-07-19T10:00+02:00",
+      "venue": "Rembrandtpark",
+      "venue_id": "89399",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487470"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "159186",
+      "name": "MIESØ",
+      "count": 1
+    },
+    {
+      "id": "164440",
+      "name": "DJ Crystal Bitch",
+      "count": 1
+    },
+    {
+      "id": "184858",
+      "name": "Traffic Jam Mosquito",
+      "count": 1
+    }
+  ]
+}

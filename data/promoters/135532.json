@@ -1,0 +1,29 @@
+{
+  "id": "135532",
+  "name": "+++",
+  "upcoming": [
+    {
+      "id": "ra:2489529",
+      "title": "Sonic Character Workshop +++ SERENA, Mathilde Nobel and Abusing Machines",
+      "date": "2026-07-26",
+      "start": "2026-07-26T16:00+02:00",
+      "venue": "Possibilities Open Studio",
+      "venue_id": "297344",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489529"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "185740",
+      "name": "Mathilde Nobel",
+      "count": 1
+    },
+    {
+      "id": "185741",
+      "name": "Abusing Machines",
+      "count": 1
+    }
+  ]
+}

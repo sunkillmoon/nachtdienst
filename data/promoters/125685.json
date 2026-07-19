@@ -1,0 +1,69 @@
+{
+  "id": "125685",
+  "name": "Pintai Collective",
+  "upcoming": [
+    {
+      "id": "ra:2460516",
+      "title": "Discos Movimiento x Pintai",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460516"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "83367",
+      "name": "Vera Logdanidi",
+      "count": 1
+    },
+    {
+      "id": "61548",
+      "name": "nthng",
+      "count": 1
+    },
+    {
+      "id": "1731",
+      "name": "Move D",
+      "count": 1
+    },
+    {
+      "id": "60592",
+      "name": "Telfort",
+      "count": 1
+    },
+    {
+      "id": "97175",
+      "name": "MNTY",
+      "count": 1
+    },
+    {
+      "id": "110930",
+      "name": "Bluecommand",
+      "count": 1
+    },
+    {
+      "id": "52158",
+      "name": "Martinou",
+      "count": 1
+    },
+    {
+      "id": "111391",
+      "name": "Hafa",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 1
+    },
+    {
+      "id": "107326",
+      "name": "Hame (1)",
+      "count": 1
+    }
+  ]
+}

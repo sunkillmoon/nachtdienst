@@ -9,6 +9,7 @@
       "date": "2026-07-26",
       "start": "2026-07-26T13:00+02:00",
       "venue": "Thuishaven",
+      "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2414866"
     },
@@ -18,6 +19,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T16:00+02:00",
       "venue": "Waterkant",
+      "venue_id": "95538",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490649"
     }

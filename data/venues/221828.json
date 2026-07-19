@@ -1,0 +1,20 @@
+{
+  "id": "221828",
+  "name": "Kadinsky Cafe",
+  "area": "Amsterdam",
+  "lat": 52.3741373,
+  "lng": 4.8936787,
+  "upcoming": [
+    {
+      "id": "ra:2487393",
+      "title": "Kadinsky Sessions 074",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487393"
+    }
+  ],
+  "past": []
+}

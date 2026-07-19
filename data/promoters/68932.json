@@ -1,0 +1,69 @@
+{
+  "id": "68932",
+  "name": "PIP Den Haag",
+  "upcoming": [
+    {
+      "id": "ra:2481235",
+      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
+      "date": "2026-07-21",
+      "start": "2026-07-21T19:30+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481235"
+    },
+    {
+      "id": "ra:2383086",
+      "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2383086"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "105168",
+      "name": "De Schuurman",
+      "count": 1
+    },
+    {
+      "id": "95008",
+      "name": "DJ Tracksuit",
+      "count": 1
+    },
+    {
+      "id": "119693",
+      "name": "IZZY (UK)",
+      "count": 1
+    },
+    {
+      "id": "76484",
+      "name": "Jeans (NL)",
+      "count": 1
+    },
+    {
+      "id": "88318",
+      "name": "Jetti",
+      "count": 1
+    },
+    {
+      "id": "85986",
+      "name": "Kikelomo",
+      "count": 1
+    },
+    {
+      "id": "31385",
+      "name": "Post",
+      "count": 1
+    },
+    {
+      "id": "129056",
+      "name": "Willem Feltzer",
+      "count": 1
+    }
+  ]
+}

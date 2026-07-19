@@ -1,0 +1,39 @@
+{
+  "id": "57200",
+  "name": "Closer Milano",
+  "upcoming": [
+    {
+      "id": "ra:2447897",
+      "title": "Closer Milano - RADION CLUB TOUR",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447897"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "75946",
+      "name": "AgainstMe",
+      "count": 1
+    },
+    {
+      "id": "165117",
+      "name": "Connor Wall",
+      "count": 1
+    },
+    {
+      "id": "95388",
+      "name": "Elisa Batti",
+      "count": 1
+    },
+    {
+      "id": "60092",
+      "name": "Rorschack",
+      "count": 1
+    }
+  ]
+}

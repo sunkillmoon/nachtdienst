@@ -1,0 +1,20 @@
+{
+  "id": "296311",
+  "name": "Whitehouse Scheveningen",
+  "area": "The Hague",
+  "lat": 52.12,
+  "lng": 4.29,
+  "upcoming": [
+    {
+      "id": "ra:2487893",
+      "title": "TABOO AT THE BEACH",
+      "date": "2026-07-31",
+      "start": "2026-07-31T19:00+02:00",
+      "venue": "Whitehouse Scheveningen",
+      "venue_id": "296311",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2487893"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "279684",
+  "name": "De Middengaarde",
+  "area": "Utrecht",
+  "lat": 52.06,
+  "lng": 5.08,
+  "upcoming": [
+    {
+      "id": "ra:2307967",
+      "title": "Geheime Liefde; Tuinen van Geluk",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "De Middengaarde",
+      "venue_id": "279684",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2307967"
+    }
+  ],
+  "past": []
+}

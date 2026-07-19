@@ -1,0 +1,229 @@
+{
+  "id": "1697",
+  "name": "Dekmantel",
+  "upcoming": [
+    {
+      "id": "ra:2429258",
+      "title": "Dekmantel Festival Opening Concert - Into The City - Wednesday",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:00+02:00",
+      "venue": "Oude Kerk",
+      "venue_id": "274981",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429258"
+    },
+    {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    },
+    {
+      "id": "ra:2429269",
+      "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",
+      "date": "2026-07-30",
+      "start": "2026-07-30T17:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429269"
+    },
+    {
+      "id": "ra:2429304",
+      "title": "Dekmantel Festival - Into The City - Thursday",
+      "date": "2026-07-30",
+      "start": "2026-07-30T18:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429304"
+    },
+    {
+      "id": "ra:2444343",
+      "title": "Dekmantel Festival 2026 - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444343"
+    },
+    {
+      "id": "ra:2464183",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464183"
+    },
+    {
+      "id": "ra:2464093",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464093"
+    },
+    {
+      "id": "ra:2464185",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464185"
+    },
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
+    {
+      "id": "ra:2464194",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464194"
+    },
+    {
+      "id": "ra:2464189",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464189"
+    },
+    {
+      "id": "ra:2464196",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464196"
+    },
+    {
+      "id": "ra:2458255",
+      "title": "Dekmantel Festival 2026 - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2464912",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2464923",
+      "title": "DKMNTL at RAUM",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464923"
+    },
+    {
+      "id": "ra:2464904",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464904"
+    },
+    {
+      "id": "ra:2464920",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464920"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "70611",
+      "name": "CCL",
+      "count": 4
+    },
+    {
+      "id": "99036",
+      "name": "Azu Tiwaline",
+      "count": 3
+    },
+    {
+      "id": "104265",
+      "name": "AMORAL",
+      "count": 3
+    },
+    {
+      "id": "44873",
+      "name": "Aurora Halal",
+      "count": 3
+    },
+    {
+      "id": "16587",
+      "name": "Ben UFO",
+      "count": 3
+    },
+    {
+      "id": "26786",
+      "name": "Objekt",
+      "count": 3
+    },
+    {
+      "id": "54184",
+      "name": "Blasha & Allatt",
+      "count": 3
+    },
+    {
+      "id": "2043",
+      "name": "Oscar Mulero",
+      "count": 3
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
+      "count": 3
+    },
+    {
+      "id": "88211",
+      "name": "Polygonia",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "199902",
+  "name": "Toekomstmuziek",
+  "area": "Amsterdam",
+  "lat": 52.396704,
+  "lng": 4.875716,
+  "upcoming": [
+    {
+      "id": "ra:2474501",
+      "title": "Eye-Ris x Gloeilamp - The Yard",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474501"
+    },
+    {
+      "id": "ra:2455670",
+      "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
+      "date": "2026-08-17",
+      "start": "2026-08-17T19:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455670"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2477479",
+      "title": "TM 4 Year Anniversary",
+      "date": "2026-07-17",
+      "start": "2026-07-17T17:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477479"
+    }
+  ]
+}

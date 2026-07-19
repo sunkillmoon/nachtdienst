@@ -1,0 +1,20 @@
+{
+  "id": "202595",
+  "name": "Pacific Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.385937,
+  "lng": 4.87144,
+  "upcoming": [
+    {
+      "id": "ra:2481298",
+      "title": "House of Flava",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481298"
+    }
+  ],
+  "past": []
+}

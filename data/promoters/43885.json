@@ -1,0 +1,79 @@
+{
+  "id": "43885",
+  "name": "[Percep-tion]",
+  "upcoming": [
+    {
+      "id": "ra:2392340",
+      "title": "SOLD OUT Summer of Love Festival 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2464413",
+      "title": "Knallen op het strand - Early Hardcore, Oldstyle, Early Rave, Oldskool 91/95",
+      "date": "2026-08-09",
+      "start": "2026-08-09T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2464413"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "35398",
+      "name": "Alexander Koning",
+      "count": 2
+    },
+    {
+      "id": "17451",
+      "name": "Erick E",
+      "count": 1
+    },
+    {
+      "id": "66206",
+      "name": "ROOG",
+      "count": 1
+    },
+    {
+      "id": "64866",
+      "name": "Dimitri (1)",
+      "count": 1
+    },
+    {
+      "id": "141",
+      "name": "Lucien Foort",
+      "count": 1
+    },
+    {
+      "id": "64730",
+      "name": "Steve Cop",
+      "count": 1
+    },
+    {
+      "id": "7701",
+      "name": "ISIS",
+      "count": 1
+    },
+    {
+      "id": "127701",
+      "name": "Klubbheads",
+      "count": 1
+    },
+    {
+      "id": "11916",
+      "name": "Eric de Man",
+      "count": 1
+    },
+    {
+      "id": "147655",
+      "name": "Marcello (2)",
+      "count": 1
+    }
+  ]
+}

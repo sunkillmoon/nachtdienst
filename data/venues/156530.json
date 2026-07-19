@@ -1,0 +1,111 @@
+{
+  "id": "156530",
+  "name": "Radio Radio",
+  "area": "Amsterdam",
+  "lat": 52.385818,
+  "lng": 4.871839,
+  "upcoming": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    },
+    {
+      "id": "ra:2466408",
+      "title": "De Sluwe Vos • Danielle",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466408"
+    },
+    {
+      "id": "ra:2466421",
+      "title": "Doppelgang • Lola Edo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466421"
+    },
+    {
+      "id": "ra:2468330",
+      "title": "ISAbella • Dee Diggs",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468330"
+    },
+    {
+      "id": "ra:2488539",
+      "title": "Tom Trago • Carlos Valdes",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488539"
+    },
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    },
+    {
+      "id": "ra:2488552",
+      "title": "Doudou MD • mad miran",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488552"
+    },
+    {
+      "id": "ra:2488567",
+      "title": "Samuel Deep • Cinnaman",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488567"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2466395",
+      "title": "Tsepo All Night",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466395"
+    },
+    {
+      "id": "ra:2466262",
+      "title": "Malin Genie • Elias Mazian",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466262"
+    }
+  ]
+}

@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2477184",
-      "title": "PAMELA invites Dalson Superstore",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "TILLATEC",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477184"
-    },
-    {
       "id": "ra:2486672",
       "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",
       "date": "2026-08-14",
       "start": "2026-08-14T23:59+02:00",
       "venue": "export",
+      "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2486672"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2477184",
+      "title": "PAMELA invites Dalson Superstore",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477184"
+    }
+  ]
 }

@@ -9,6 +9,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T20:00+02:00",
       "venue": "CLUB RAUM",
+      "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440421"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433222"
     }

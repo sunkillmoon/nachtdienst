@@ -1,0 +1,20 @@
+{
+  "id": "156433",
+  "name": "Graanfabriek",
+  "area": "All",
+  "lat": 53.214261,
+  "lng": 6.597548,
+  "upcoming": [
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "180676",
+  "name": "OG Records",
+  "upcoming": [
+    {
+      "id": "ra:2490449",
+      "title": "OG Records with bullet tooth",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490449"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "128932",
+      "name": "bullet tooth",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "103738",
+      "name": "Melody RA+RE",
+      "count": 1
+    },
+    {
+      "id": "79757",
+      "name": "Truly Madly",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "83879",
+  "name": "No Art",
+  "upcoming": [
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "venue_id": "121137",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "60409",
+      "name": "ANOTR",
+      "count": 1
+    },
+    {
+      "id": "141464",
+      "name": "malix",
+      "count": 1
+    },
+    {
+      "id": "125937",
+      "name": "Mau P",
+      "count": 1
+    },
+    {
+      "id": "83736",
+      "name": "Rossi",
+      "count": 1
+    },
+    {
+      "id": "114297",
+      "name": "Rooléh",
+      "count": 1
+    },
+    {
+      "id": "1013",
+      "name": "Seth Troxler",
+      "count": 1
+    },
+    {
+      "id": "2259",
+      "name": "The Martinez Brothers",
+      "count": 1
+    },
+    {
+      "id": "71551",
+      "name": "Toman",
+      "count": 1
+    },
+    {
+      "id": "37817",
+      "name": "Alci",
+      "count": 1
+    },
+    {
+      "id": "149274",
+      "name": "FLETCH (GB)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "232813",
+  "name": "TILLATEC",
+  "area": "Amsterdam",
+  "lat": 52.3699549,
+  "lng": 4.843713,
+  "upcoming": [
+    {
+      "id": "ra:2478072",
+      "title": "TILLAVISION: Aquatec",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478072"
+    },
+    {
+      "id": "ra:2471661",
+      "title": "Orphic #21 Pride Takeover",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471661"
+    },
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    },
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2462151",
+      "title": "TILLATEC invites: KNIT + VESELKA",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462151"
+    },
+    {
+      "id": "ra:2479631",
+      "title": "WorldPride: Horse Meat Disco",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479631"
+    },
+    {
+      "id": "ra:2478169",
+      "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478169"
+    },
+    {
+      "id": "ra:2460516",
+      "title": "Discos Movimiento x Pintai",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460516"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2477184",
+      "title": "PAMELA invites Dalson Superstore",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477184"
+    },
+    {
+      "id": "ra:2478078",
+      "title": "TILLATEC Invites: High Hoops",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478078"
+    }
+  ]
+}

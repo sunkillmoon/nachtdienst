@@ -1,0 +1,121 @@
+{
+  "id": "122376",
+  "name": "Madam",
+  "area": "Amsterdam",
+  "lat": 52.384098,
+  "lng": 4.902859,
+  "upcoming": [
+    {
+      "id": "ra:2401519",
+      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401519"
+    },
+    {
+      "id": "ra:2401521",
+      "title": "Madam by Night invites: Papi Tut Mir Leid",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401521"
+    },
+    {
+      "id": "ra:2426260",
+      "title": "papi in Amsterdam",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426260"
+    },
+    {
+      "id": "ra:2401524",
+      "title": "Madam by Night: Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401524"
+    },
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    },
+    {
+      "id": "ra:2456900",
+      "title": "Madam by Night invites: RAINVILLE invites",
+      "date": "2026-08-08",
+      "start": "2026-08-08T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456900"
+    },
+    {
+      "id": "ra:2456902",
+      "title": "Madam by Night invites: A Divine Kaos",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456902"
+    },
+    {
+      "id": "ra:2456907",
+      "title": "Madam by Night invites: Casa Très",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456907"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2401516",
+      "title": "Madam by Night invites: Robin Nicolas x Libero",
+      "date": "2026-07-18",
+      "start": "2026-07-18T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401516"
+    },
+    {
+      "id": "ra:2401511",
+      "title": "Madam by Night invites: EDEN",
+      "date": "2026-07-17",
+      "start": "2026-07-17T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401511"
+    }
+  ]
+}

@@ -2,16 +2,17 @@
   "id": "176769",
   "name": "BØĘRY",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2397048",
       "title": "VERKNIPT Beach Special - 18 July",
       "date": "2026-07-18",
       "start": "2026-07-18T17:00+02:00",
       "venue": "Beachclub Fuel",
+      "venue_id": null,
       "area": "All",
       "url": "https://ra.co/events/2397048"
     }
-  ],
-  "past": []
+  ]
 }

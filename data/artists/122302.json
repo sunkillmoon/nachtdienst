@@ -2,16 +2,17 @@
   "id": "122302",
   "name": "OG Karin",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477184",
       "title": "PAMELA invites Dalson Superstore",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "TILLATEC",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477184"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,111 @@
+{
+  "id": "275116",
+  "name": "Club Leidse",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2469929",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗧𝗛𝗜𝗥𝗗 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469929"
+    },
+    {
+      "id": "ra:2469945",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗧𝗛𝗜𝗥𝗗 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469945"
+    },
+    {
+      "id": "ra:2469954",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗢𝗨𝗥𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469954"
+    },
+    {
+      "id": "ra:2469958",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗢𝗨𝗥𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469958"
+    },
+    {
+      "id": "ra:2469960",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗜𝗙𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469960"
+    },
+    {
+      "id": "ra:2469963",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗜𝗙𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469963"
+    },
+    {
+      "id": "ra:2469968",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗜𝗫𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469968"
+    },
+    {
+      "id": "ra:2469971",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗜𝗫𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469971"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2469925",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469925"
+    },
+    {
+      "id": "ra:2469921",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469921"
+    }
+  ]
+}

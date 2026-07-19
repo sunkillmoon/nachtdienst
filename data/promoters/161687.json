@@ -1,0 +1,69 @@
+{
+  "id": "161687",
+  "name": "The Planet Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "160251",
+      "name": "Mina Galán",
+      "count": 1
+    },
+    {
+      "id": "146965",
+      "name": "Clementaum",
+      "count": 1
+    },
+    {
+      "id": "103310",
+      "name": "ARCHANGEL (US)",
+      "count": 1
+    },
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "122333",
+      "name": "NMSS",
+      "count": 1
+    },
+    {
+      "id": "113818",
+      "name": "angelboy",
+      "count": 1
+    },
+    {
+      "id": "121450",
+      "name": "YoungWoman",
+      "count": 1
+    },
+    {
+      "id": "147324",
+      "name": "smother",
+      "count": 1
+    },
+    {
+      "id": "95124",
+      "name": "Miss Jay (RO)",
+      "count": 1
+    },
+    {
+      "id": "184623",
+      "name": "lis (5)",
+      "count": 1
+    }
+  ]
+}

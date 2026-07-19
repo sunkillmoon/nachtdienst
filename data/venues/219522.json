@@ -1,0 +1,91 @@
+{
+  "id": "219522",
+  "name": "CLUB RAUM",
+  "area": "Amsterdam",
+  "lat": 52.3911262,
+  "lng": 4.8309665,
+  "upcoming": [
+    {
+      "id": "ra:2440412",
+      "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440412"
+    },
+    {
+      "id": "ra:2440414",
+      "title": "RAUM invites NightClubbing",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440414"
+    },
+    {
+      "id": "ra:2440419",
+      "title": "RAUM invites Mala Junta",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440419"
+    },
+    {
+      "id": "ra:2440421",
+      "title": "12HRS Adonis x SPIELRAUM",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440421"
+    },
+    {
+      "id": "ra:2464923",
+      "title": "DKMNTL at RAUM",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464923"
+    },
+    {
+      "id": "ra:2440428",
+      "title": "BASHKKA present INVIGORATE A.M",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440428"
+    },
+    {
+      "id": "ra:2440426",
+      "title": "RAUM invites Gay Haze ...IsBurning",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440426"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2440408",
+      "title": "RAUM invites Bassiani",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440408"
+    }
+  ]
+}

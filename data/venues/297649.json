@@ -1,0 +1,20 @@
+{
+  "id": "297649",
+  "name": "Kraanbaan",
+  "area": "Amsterdam",
+  "lat": 52.4,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2492544",
+      "title": "Kurumbu presents Naya Beat",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Kraanbaan",
+      "venue_id": "297649",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492544"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "124704",
+  "name": "ColoradoCharlieNL",
+  "upcoming": [
+    {
+      "id": "ra:2460452",
+      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460452"
+    },
+    {
+      "id": "ra:2362374",
+      "title": "Colorado Charlie x COLOURIZON with Miss Melera (All Day Long)",
+      "date": "2026-07-25",
+      "start": "2026-07-25T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2362374"
+    },
+    {
+      "id": "ra:2437651",
+      "title": "Colorado Charlie - 9-Year Anniversary with Julian Fijma (All Day Long) (SOLD OUT)",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2437651"
+    },
+    {
+      "id": "ra:2460749",
+      "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",
+      "date": "2026-08-01",
+      "start": "2026-08-01T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460749"
+    },
+    {
+      "id": "ra:2448066",
+      "title": "Colorado Charlie with Marsolo (All Day Long) (SOLD OUT)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448066"
+    },
+    {
+      "id": "ra:2451891",
+      "title": "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)",
+      "date": "2026-08-09",
+      "start": "2026-08-09T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2451891"
+    },
+    {
+      "id": "ra:2469467",
+      "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
+      "date": "2026-08-16",
+      "start": "2026-08-16T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2469467"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "118815",
+      "name": "Jamback",
+      "count": 1
+    },
+    {
+      "id": "77529",
+      "name": "Laura De Greef",
+      "count": 1
+    },
+    {
+      "id": "32322",
+      "name": "Miss Melera",
+      "count": 1
+    },
+    {
+      "id": "118747",
+      "name": "Julian Fijma",
+      "count": 1
+    },
+    {
+      "id": "2046",
+      "name": "Bart Skils",
+      "count": 1
+    },
+    {
+      "id": "156533",
+      "name": "Luis Ripa",
+      "count": 1
+    },
+    {
+      "id": "120215",
+      "name": "Marsolo",
+      "count": 1
+    },
+    {
+      "id": "35624",
+      "name": "East End Dubs",
+      "count": 1
+    },
+    {
+      "id": "114563",
+      "name": "LAMMER",
+      "count": 1
+    },
+    {
+      "id": "75202",
+      "name": "Kendal",
+      "count": 1
+    }
+  ]
+}

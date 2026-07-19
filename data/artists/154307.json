@@ -9,6 +9,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T14:00+02:00",
       "venue": "Graanfabriek",
+      "venue_id": "156433",
       "area": "All",
       "url": "https://ra.co/events/2431383"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T17:00+02:00",
       "venue": "Beachclub Fuel",
+      "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2475177"
     }

@@ -1,0 +1,69 @@
+{
+  "id": "46029",
+  "name": "Paradigm050",
+  "upcoming": [
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "77418",
+      "name": "Alex Kassian",
+      "count": 1
+    },
+    {
+      "id": "117173",
+      "name": "Ambu Bambu",
+      "count": 1
+    },
+    {
+      "id": "142282",
+      "name": "aotp",
+      "count": 1
+    },
+    {
+      "id": "94393",
+      "name": "Jos Lok",
+      "count": 1
+    },
+    {
+      "id": "86820",
+      "name": "Audrey Danza",
+      "count": 1
+    },
+    {
+      "id": "92399",
+      "name": "Bambi (Menage a Trois)",
+      "count": 1
+    },
+    {
+      "id": "18878",
+      "name": "Nelly",
+      "count": 1
+    },
+    {
+      "id": "426",
+      "name": "Ben Sims",
+      "count": 1
+    },
+    {
+      "id": "84444",
+      "name": "Caim",
+      "count": 1
+    },
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    }
+  ]
+}

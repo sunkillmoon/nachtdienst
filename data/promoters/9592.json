@@ -1,0 +1,80 @@
+{
+  "id": "9592",
+  "name": "Drift om te dansen",
+  "upcoming": [
+    {
+      "id": "ra:2484801",
+      "title": "Drift Block Party",
+      "date": "2026-07-20",
+      "start": "2026-07-20T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2484801"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ],
+  "top_artists": [
+    {
+      "id": "37323",
+      "name": "Palms Trax",
+      "count": 2
+    },
+    {
+      "id": "103146",
+      "name": "Alexia Glensy",
+      "count": 1
+    },
+    {
+      "id": "81577",
+      "name": "Anz",
+      "count": 1
+    },
+    {
+      "id": "50071",
+      "name": "Tsepo",
+      "count": 1
+    },
+    {
+      "id": "102359",
+      "name": "Dr Dubplate",
+      "count": 1
+    },
+    {
+      "id": "34062",
+      "name": "Elias Mazian",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
+    {
+      "id": "71996",
+      "name": "Gene On Earth",
+      "count": 1
+    },
+    {
+      "id": "80496",
+      "name": "Mario Marini",
+      "count": 1
+    },
+    {
+      "id": "44567",
+      "name": "Moody Mehran",
+      "count": 1
+    }
+  ]
+}

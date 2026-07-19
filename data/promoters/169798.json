@@ -1,0 +1,34 @@
+{
+  "id": "169798",
+  "name": "het veld",
+  "upcoming": [
+    {
+      "id": "ra:2468394",
+      "title": "Mathiéux presents: Itz3bby & Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:59+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468394"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "167750",
+      "name": "Mathiéux",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
+    {
+      "id": "184531",
+      "name": "Seb Wes",
+      "count": 1
+    }
+  ]
+}

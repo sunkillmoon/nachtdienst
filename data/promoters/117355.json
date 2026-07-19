@@ -1,0 +1,39 @@
+{
+  "id": "117355",
+  "name": "BOPS",
+  "upcoming": [
+    {
+      "id": "ra:2355301",
+      "title": "BOPS x KIKI - WorldPride Amsterdam",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2355301"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107976",
+      "name": "Absoluut",
+      "count": 1
+    },
+    {
+      "id": "144942",
+      "name": "TMORGZ",
+      "count": 1
+    },
+    {
+      "id": "166058",
+      "name": "1000raks",
+      "count": 1
+    },
+    {
+      "id": "86146",
+      "name": "Jay Jay Revlon",
+      "count": 1
+    }
+  ]
+}

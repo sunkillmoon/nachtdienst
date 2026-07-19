@@ -1,0 +1,20 @@
+{
+  "id": "294378",
+  "name": "De Kerktuin",
+  "area": "Rotterdam",
+  "lat": 51.92,
+  "lng": 4.47,
+  "upcoming": [
+    {
+      "id": "ra:2461728",
+      "title": "BECKY MINI FEST",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "De Kerktuin",
+      "venue_id": "294378",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2461728"
+    }
+  ],
+  "past": []
+}

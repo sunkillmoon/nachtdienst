@@ -1,0 +1,69 @@
+{
+  "id": "129579",
+  "name": "CASA PRODUCTIONS (NL)",
+  "upcoming": [
+    {
+      "id": "ra:2460181",
+      "title": "Love Floats",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460181"
+    },
+    {
+      "id": "ra:2423448",
+      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423448"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107694",
+      "name": "Cris-H",
+      "count": 2
+    },
+    {
+      "id": "32322",
+      "name": "Miss Melera",
+      "count": 1
+    },
+    {
+      "id": "113044",
+      "name": "Farius",
+      "count": 1
+    },
+    {
+      "id": "123338",
+      "name": "Jesabel",
+      "count": 1
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 1
+    },
+    {
+      "id": "171531",
+      "name": "Tumzz",
+      "count": 1
+    },
+    {
+      "id": "80427",
+      "name": "Ezequiel Arias",
+      "count": 1
+    },
+    {
+      "id": "17377",
+      "name": "Nicolas Rada",
+      "count": 1
+    }
+  ]
+}

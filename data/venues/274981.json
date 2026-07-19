@@ -1,0 +1,20 @@
+{
+  "id": "274981",
+  "name": "Oude Kerk",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2429258",
+      "title": "Dekmantel Festival Opening Concert - Into The City - Wednesday",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:00+02:00",
+      "venue": "Oude Kerk",
+      "venue_id": "274981",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429258"
+    }
+  ],
+  "past": []
+}

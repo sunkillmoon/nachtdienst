@@ -1,0 +1,121 @@
+{
+  "id": "109027",
+  "name": "Thuishaven",
+  "area": "Amsterdam",
+  "lat": 52.395888,
+  "lng": 4.855274,
+  "upcoming": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    },
+    {
+      "id": "ra:2425635",
+      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    },
+    {
+      "id": "ra:2414866",
+      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414866"
+    },
+    {
+      "id": "ra:2392340",
+      "title": "SOLD OUT Summer of Love Festival 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2466518",
+      "title": "Wavy Summer Festival",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466518"
+    },
+    {
+      "id": "ra:2460812",
+      "title": "08 AUG - Thuishaven with Eelke Kleijn 10HRS",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460812"
+    },
+    {
+      "id": "ra:2454703",
+      "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454703"
+    },
+    {
+      "id": "ra:2366738",
+      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2366738"
+    },
+    {
+      "id": "ra:2443517",
+      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443517"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2373339",
+      "title": "18 JUL - Thuishaven with Michel de Hey 10HRS",
+      "date": "2026-07-18",
+      "start": "2026-07-18T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2373339"
+    }
+  ]
+}

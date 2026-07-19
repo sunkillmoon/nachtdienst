@@ -2,16 +2,17 @@
   "id": "183490",
   "name": "Sonan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2460482",
       "title": "BUFU presents: Sonan b2b Didier Armeni - All Night Long",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "Basement",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2460482"
     }
-  ],
-  "past": []
+  ]
 }

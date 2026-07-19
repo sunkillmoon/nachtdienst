@@ -2,16 +2,17 @@
   "id": "103655",
   "name": "DAWS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",
       "date": "2026-07-18",
       "start": "2026-07-18T15:00+02:00",
       "venue": "Lofi",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2406778"
     }
-  ],
-  "past": []
+  ]
 }

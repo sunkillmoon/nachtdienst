@@ -1,0 +1,69 @@
+{
+  "id": "86449",
+  "name": "VESELKA",
+  "upcoming": [
+    {
+      "id": "ra:2462151",
+      "title": "TILLATEC invites: KNIT + VESELKA",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462151"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "56633",
+      "name": "Bjarki",
+      "count": 1
+    },
+    {
+      "id": "105271",
+      "name": "Cybersex",
+      "count": 1
+    },
+    {
+      "id": "141989",
+      "name": "Djooke",
+      "count": 1
+    },
+    {
+      "id": "42221",
+      "name": "ISAbella",
+      "count": 1
+    },
+    {
+      "id": "185038",
+      "name": "Jaspol",
+      "count": 1
+    },
+    {
+      "id": "97712",
+      "name": "Kilopatrah Jones",
+      "count": 1
+    },
+    {
+      "id": "60139",
+      "name": "Marie Malarie",
+      "count": 1
+    },
+    {
+      "id": "44567",
+      "name": "Moody Mehran",
+      "count": 1
+    },
+    {
+      "id": "100852",
+      "name": "Pablo Bozzi",
+      "count": 1
+    },
+    {
+      "id": "77313",
+      "name": "Tweeman",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "190134",
+  "name": "Latebloomers",
+  "upcoming": [
+    {
+      "id": "ra:2486484",
+      "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486484"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "39963",
+      "name": "Giammarco Orsini",
+      "count": 1
+    },
+    {
+      "id": "102099",
+      "name": "DJ Tjizza",
+      "count": 1
+    }
+  ]
+}

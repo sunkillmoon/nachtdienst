@@ -1,0 +1,20 @@
+{
+  "id": "121137",
+  "name": "Flevopark",
+  "area": "Amsterdam",
+  "lat": 52.362011,
+  "lng": 4.949109,
+  "upcoming": [
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "venue_id": "121137",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    }
+  ],
+  "past": []
+}

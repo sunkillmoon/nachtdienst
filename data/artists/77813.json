@@ -9,6 +9,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T13:00+02:00",
       "venue": "Paradigm",
+      "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "Lofi",
+      "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423424"
     }

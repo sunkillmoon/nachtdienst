@@ -1,0 +1,69 @@
+{
+  "id": "5627",
+  "name": "Elevation Events",
+  "upcoming": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "621",
+      "name": "Ada",
+      "count": 1
+    },
+    {
+      "id": "114924",
+      "name": "Ays (NL)",
+      "count": 1
+    },
+    {
+      "id": "159225",
+      "name": "Benny2",
+      "count": 1
+    },
+    {
+      "id": "96823",
+      "name": "Berkan V8",
+      "count": 1
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
+    {
+      "id": "7134",
+      "name": "Kennedy",
+      "count": 1
+    },
+    {
+      "id": "84899",
+      "name": "Kléo",
+      "count": 1
+    },
+    {
+      "id": "58266",
+      "name": "Lucky Done Gone",
+      "count": 1
+    }
+  ]
+}

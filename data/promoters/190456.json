@@ -1,0 +1,29 @@
+{
+  "id": "190456",
+  "name": "BAR GOTO",
+  "upcoming": [
+    {
+      "id": "ra:2488826",
+      "title": "CLUB GOTO X JANGALA",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:59+02:00",
+      "venue": "BAR Goto",
+      "venue_id": "297258",
+      "area": "All",
+      "url": "https://ra.co/events/2488826"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "122579",
+      "name": "Skeptic",
+      "count": 1
+    },
+    {
+      "id": "185706",
+      "name": "JUUL",
+      "count": 1
+    }
+  ]
+}

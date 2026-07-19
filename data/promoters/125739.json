@@ -1,0 +1,39 @@
+{
+  "id": "125739",
+  "name": "Kadinsky Sessions",
+  "upcoming": [
+    {
+      "id": "ra:2487393",
+      "title": "Kadinsky Sessions 074",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487393"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "96488",
+      "name": "Around Us",
+      "count": 1
+    },
+    {
+      "id": "137503",
+      "name": "Ras Paulus",
+      "count": 1
+    },
+    {
+      "id": "5881",
+      "name": "Francesco Pico",
+      "count": 1
+    },
+    {
+      "id": "137487",
+      "name": "MC PPholl",
+      "count": 1
+    }
+  ]
+}

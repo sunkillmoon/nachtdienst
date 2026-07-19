@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2486104",
-      "title": "Traffic Jams Alley Party",
-      "date": "2026-07-18",
-      "start": "2026-07-18T19:00+02:00",
-      "venue": "Ruis",
-      "area": "All",
-      "url": "https://ra.co/events/2486104"
-    },
-    {
       "id": "ra:2487470",
       "title": "Rave in the Park",
       "date": "2026-07-19",
       "start": "2026-07-19T10:00+02:00",
       "venue": "Rembrandtpark",
+      "venue_id": "89399",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487470"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2486104",
+      "title": "Traffic Jams Alley Party",
+      "date": "2026-07-18",
+      "start": "2026-07-18T19:00+02:00",
+      "venue": "Ruis",
+      "venue_id": null,
+      "area": "All",
+      "url": "https://ra.co/events/2486104"
+    }
+  ]
 }

@@ -4,11 +4,24 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",
       "date": "2026-07-18",
       "start": "2026-07-18T12:00+02:00",
       "venue": "TBA",
+      "venue_id": "259877",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2483805"
     },
@@ -18,18 +31,9 @@
       "date": "2026-07-18",
       "start": "2026-07-18T23:59+02:00",
       "venue": "BAR Goto",
+      "venue_id": null,
       "area": "All",
       "url": "https://ra.co/events/2488822"
-    },
-    {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
     }
-  ],
-  "past": []
+  ]
 }

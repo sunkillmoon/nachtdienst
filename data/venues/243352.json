@@ -1,0 +1,161 @@
+{
+  "id": "243352",
+  "name": "nachbar",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2422929",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422929"
+    },
+    {
+      "id": "ra:2480212",
+      "title": "Mathiéux Presents: Itz3bby, Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480212"
+    },
+    {
+      "id": "ra:2468394",
+      "title": "Mathiéux presents: Itz3bby & Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:59+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468394"
+    },
+    {
+      "id": "ra:2480214",
+      "title": "Tai Lokun & Queen Saba",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480214"
+    },
+    {
+      "id": "ra:2480215",
+      "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480215"
+    },
+    {
+      "id": "ra:2422934",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
+      "date": "2026-07-29",
+      "start": "2026-07-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422934"
+    },
+    {
+      "id": "ra:2480216",
+      "title": "Sweetlips w/ Sirolf, Devo & Housekes, Dino & Brina",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480216"
+    },
+    {
+      "id": "ra:2475598",
+      "title": "Sweetlips",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475598"
+    },
+    {
+      "id": "ra:2480218",
+      "title": "Zombies in Miami",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480218"
+    },
+    {
+      "id": "ra:2480220",
+      "title": "Berkan V8",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480220"
+    },
+    {
+      "id": "ra:2422941",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / KRØVØ",
+      "date": "2026-08-05",
+      "start": "2026-08-05T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422941"
+    },
+    {
+      "id": "ra:2422944",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422944"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2480211",
+      "title": "Playhaus w/ Di² b2b rkeat, JØRDY & Prance",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480211"
+    },
+    {
+      "id": "ra:2480209",
+      "title": "Aldonna b2b Kyra Khaldi",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480209"
+    },
+    {
+      "id": "ra:2480208",
+      "title": "Seedlink⁺ W/ Patch+, Pen Pal & DJs",
+      "date": "2026-07-16",
+      "start": "2026-07-16T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480208"
+    }
+  ]
+}

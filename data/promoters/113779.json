@@ -1,0 +1,79 @@
+{
+  "id": "113779",
+  "name": "Het Sieraad - By Night",
+  "upcoming": [
+    {
+      "id": "ra:2420618",
+      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420618"
+    },
+    {
+      "id": "ra:2480551",
+      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480551"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "165461",
+      "name": "nik-ey",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "156533",
+      "name": "Luis Ripa",
+      "count": 1
+    },
+    {
+      "id": "117119",
+      "name": "Hidde van Wee",
+      "count": 1
+    },
+    {
+      "id": "25912",
+      "name": "Julien Simmons",
+      "count": 1
+    },
+    {
+      "id": "162895",
+      "name": "Mees Mattern",
+      "count": 1
+    },
+    {
+      "id": "173724",
+      "name": "Hris East",
+      "count": 1
+    },
+    {
+      "id": "130768",
+      "name": "Lidia Lo",
+      "count": 1
+    },
+    {
+      "id": "136609",
+      "name": "Merissa Mahilaa",
+      "count": 1
+    },
+    {
+      "id": "149434",
+      "name": "Sanne Dammers",
+      "count": 1
+    }
+  ]
+}

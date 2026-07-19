@@ -1,0 +1,20 @@
+{
+  "id": "129182",
+  "name": "Mono",
+  "area": "Rotterdam",
+  "lat": 51.928572,
+  "lng": 4.478262,
+  "upcoming": [
+    {
+      "id": "ra:2489890",
+      "title": "Carnaval Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T16:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489890"
+    }
+  ],
+  "past": []
+}

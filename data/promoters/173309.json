@@ -1,0 +1,24 @@
+{
+  "id": "173309",
+  "name": "Onda Collective",
+  "upcoming": [
+    {
+      "id": "ra:2455670",
+      "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
+      "date": "2026-08-17",
+      "start": "2026-08-17T19:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455670"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "170462",
+      "name": "Pedro da Mata",
+      "count": 1
+    }
+  ]
+}

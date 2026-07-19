@@ -9,6 +9,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T23:00+02:00",
       "venue": "Toffler",
+      "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2437625"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-07",
       "start": "2026-08-07T23:00+02:00",
       "venue": "Toffler",
+      "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466199"
     },
@@ -27,6 +29,7 @@
       "date": "2026-08-16",
       "start": "2026-08-16T18:00+02:00",
       "venue": "Boomerang Beach",
+      "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2436229"
     }

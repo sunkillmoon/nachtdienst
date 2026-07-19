@@ -1,0 +1,34 @@
+{
+  "id": "160823",
+  "name": "De Sessie",
+  "upcoming": [
+    {
+      "id": "ra:2436230",
+      "title": "De Sessie - Ryan Elliott - Summer Sessions",
+      "date": "2026-08-15",
+      "start": "2026-08-15T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436230"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "736",
+      "name": "Ryan Elliott",
+      "count": 1
+    },
+    {
+      "id": "159608",
+      "name": "Ka Nalu",
+      "count": 1
+    },
+    {
+      "id": "165461",
+      "name": "nik-ey",
+      "count": 1
+    }
+  ]
+}

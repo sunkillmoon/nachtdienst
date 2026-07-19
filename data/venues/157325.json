@@ -1,0 +1,41 @@
+{
+  "id": "157325",
+  "name": "Cinetol",
+  "area": "Amsterdam",
+  "lat": 52.352752,
+  "lng": 4.906672,
+  "upcoming": [
+    {
+      "id": "ra:2461665",
+      "title": "Textures",
+      "date": "2026-07-24",
+      "start": "2026-07-24T19:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2461665"
+    },
+    {
+      "id": "ra:2473127",
+      "title": "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra",
+      "date": "2026-07-31",
+      "start": "2026-07-31T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473127"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2458061",
+      "title": "Service",
+      "date": "2026-07-16",
+      "start": "2026-07-16T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458061"
+    }
+  ]
+}

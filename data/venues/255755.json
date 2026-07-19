@@ -1,0 +1,81 @@
+{
+  "id": "255755",
+  "name": "SISSI'S Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.3448289,
+  "lng": 4.8425825,
+  "upcoming": [
+    {
+      "id": "ra:2488713",
+      "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488713"
+    },
+    {
+      "id": "ra:2470224",
+      "title": "Het Syndicaat",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470224"
+    },
+    {
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488747"
+    },
+    {
+      "id": "ra:2447735",
+      "title": "POOF DOOF Amsterdam",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447735"
+    },
+    {
+      "id": "ra:2484250",
+      "title": "Recovery Sessions: Vol 001",
+      "date": "2026-08-02",
+      "start": "2026-08-02T14:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484250"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2488704",
+      "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488704"
+    },
+    {
+      "id": "ra:2488700",
+      "title": "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488700"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "146580",
+  "name": "Export",
+  "upcoming": [
+    {
+      "id": "ra:2479376",
+      "title": "Alex Ranzino b2b Momanna",
+      "date": "2026-07-23",
+      "start": "2026-07-24T00:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479376"
+    },
+    {
+      "id": "ra:2486665",
+      "title": "Bean party",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486665"
+    },
+    {
+      "id": "ra:2486670",
+      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486670"
+    },
+    {
+      "id": "ra:2489651",
+      "title": "Fafi Abdel Nour, Meena, Nanton",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489651"
+    },
+    {
+      "id": "ra:2486672",
+      "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486672"
+    },
+    {
+      "id": "ra:2491401",
+      "title": "I-RO, Ozzo, ROD",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2491401"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "94318",
+      "name": "Alex Ranzino",
+      "count": 1
+    },
+    {
+      "id": "147969",
+      "name": "Helmond Lang",
+      "count": 1
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 1
+    },
+    {
+      "id": "148266",
+      "name": "Sunnysoposted",
+      "count": 1
+    },
+    {
+      "id": "148687",
+      "name": "36framez",
+      "count": 1
+    },
+    {
+      "id": "75878",
+      "name": "Fafi Abdel Nour",
+      "count": 1
+    },
+    {
+      "id": "110653",
+      "name": "Kontronatura",
+      "count": 1
+    },
+    {
+      "id": "118880",
+      "name": "DJ Shahmaran",
+      "count": 1
+    },
+    {
+      "id": "114067",
+      "name": "I-RO",
+      "count": 1
+    },
+    {
+      "id": "22022",
+      "name": "ROD",
+      "count": 1
+    }
+  ]
+}

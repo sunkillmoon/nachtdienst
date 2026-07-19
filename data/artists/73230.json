@@ -9,6 +9,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T23:00+02:00",
       "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476114"
     }
@@ -20,6 +21,7 @@
       "date": "2026-07-17",
       "start": "2026-07-17T23:00+02:00",
       "venue": "Het Sieraad",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2474154"
     }

@@ -10,6 +10,7 @@
       "date": "2026-07-16",
       "start": "2026-07-16T20:00+02:00",
       "venue": "Café Katoen",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476212"
     }

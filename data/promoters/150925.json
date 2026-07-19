@@ -1,0 +1,24 @@
+{
+  "id": "150925",
+  "name": "Hard Mondays Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2477905",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477905"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "131240",
+      "name": "NO1ELSE",
+      "count": 1
+    }
+  ]
+}

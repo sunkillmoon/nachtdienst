@@ -1,0 +1,71 @@
+{
+  "id": "120841",
+  "name": "Complex Maastricht",
+  "area": "All",
+  "lat": 50.852306,
+  "lng": 5.697783,
+  "upcoming": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
+    {
+      "id": "ra:2414517",
+      "title": "Complex Festival 2026 Afterparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2414517"
+    },
+    {
+      "id": "ra:2445597",
+      "title": "Complex Summer with Asphere / Granular Heat / Améli",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445597"
+    },
+    {
+      "id": "ra:2445599",
+      "title": "Complex Summer with Melvin Spix",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445599"
+    },
+    {
+      "id": "ra:2445602",
+      "title": "Complex Summer with Similar Clouds / Manillo / Maive",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445602"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2445596",
+      "title": "Complex Summer with Donny Snipes",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": null,
+      "area": "All",
+      "url": "https://ra.co/events/2445596"
+    }
+  ]
+}

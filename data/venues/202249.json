@@ -1,0 +1,61 @@
+{
+  "id": "202249",
+  "name": "THE OTHER SIDE",
+  "area": "Amsterdam",
+  "lat": 52.395648,
+  "lng": 4.8753577,
+  "upcoming": [
+    {
+      "id": "ra:2481633",
+      "title": "Constantmo Summer edition",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481633"
+    },
+    {
+      "id": "ra:2481500",
+      "title": "F U L L C Y C L E presents: FUSE",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481500"
+    },
+    {
+      "id": "ra:2458040",
+      "title": "HustlaBall Amsterdam World Pride 2026",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458040"
+    },
+    {
+      "id": "ra:2355301",
+      "title": "BOPS x KIKI - WorldPride Amsterdam",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2355301"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2456711",
+      "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",
+      "date": "2026-07-18",
+      "start": "2026-07-18T16:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456711"
+    }
+  ]
+}

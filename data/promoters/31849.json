@@ -1,0 +1,94 @@
+{
+  "id": "31849",
+  "name": "Club NYX",
+  "upcoming": [
+    {
+      "id": "ra:2482246",
+      "title": "3xNYX: Milkshake AFTER",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482246"
+    },
+    {
+      "id": "ra:2487468",
+      "title": "3xNYX: PRIDE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487468"
+    },
+    {
+      "id": "ra:2487475",
+      "title": "3xNYX: WORLD PRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487475"
+    },
+    {
+      "id": "ra:2487479",
+      "title": "3xNYX: POP-UP hosted by Prince JayJay",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487479"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117192",
+      "name": "Alexis Knox",
+      "count": 1
+    },
+    {
+      "id": "173489",
+      "name": "HE.RA",
+      "count": 1
+    },
+    {
+      "id": "99193",
+      "name": "Juja",
+      "count": 1
+    },
+    {
+      "id": "129399",
+      "name": "MRNDB",
+      "count": 1
+    },
+    {
+      "id": "169929",
+      "name": "Joan Cute Sack",
+      "count": 1
+    },
+    {
+      "id": "127786",
+      "name": "Just Jane",
+      "count": 1
+    },
+    {
+      "id": "135651",
+      "name": "TEKNA",
+      "count": 1
+    },
+    {
+      "id": "103153",
+      "name": "Dangerous Rose",
+      "count": 1
+    },
+    {
+      "id": "146056",
+      "name": "Alma Negrot",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "262411",
+  "name": "Houtbaar Haarlem",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.67,
+  "upcoming": [
+    {
+      "id": "ra:2433142",
+      "title": "Boyos Wonderland & INI Movement present SUMMER JAM",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Houtbaar Haarlem",
+      "venue_id": "262411",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433142"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2469943",
+      "title": "Houtbaar ...IsBurning invites CVNT Collective (Haarlem Pride 2026)",
+      "date": "2026-07-17",
+      "start": "2026-07-17T15:00+02:00",
+      "venue": "Houtbaar Haarlem",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469943"
+    }
+  ]
+}

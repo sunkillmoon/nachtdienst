@@ -1,0 +1,59 @@
+{
+  "id": "85531",
+  "name": "High Tea Music",
+  "upcoming": [
+    {
+      "id": "ra:2381846",
+      "title": "HIGH TEA Festeaval 2026",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2381846"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "129499",
+      "name": "K Motionz",
+      "count": 1
+    },
+    {
+      "id": "2214",
+      "name": "Friction",
+      "count": 1
+    },
+    {
+      "id": "63227",
+      "name": "1991 (UK)",
+      "count": 1
+    },
+    {
+      "id": "134718",
+      "name": "AC13",
+      "count": 1
+    },
+    {
+      "id": "125112",
+      "name": "Alcemist",
+      "count": 1
+    },
+    {
+      "id": "127809",
+      "name": "Licia",
+      "count": 1
+    },
+    {
+      "id": "131339",
+      "name": "Monrroe",
+      "count": 1
+    },
+    {
+      "id": "129370",
+      "name": "Shockone",
+      "count": 1
+    }
+  ]
+}

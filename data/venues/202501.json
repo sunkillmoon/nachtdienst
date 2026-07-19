@@ -1,0 +1,31 @@
+{
+  "id": "202501",
+  "name": "Bar Theo",
+  "area": "Amsterdam",
+  "lat": 52.3729576,
+  "lng": 4.878229,
+  "upcoming": [
+    {
+      "id": "ra:2491746",
+      "title": "Normaal Sounds: Across The Pond",
+      "date": "2026-07-23",
+      "start": "2026-07-23T20:00+02:00",
+      "venue": "Bar Theo",
+      "venue_id": "202501",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491746"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2484096",
+      "title": "Ouragan takeover",
+      "date": "2026-07-18",
+      "start": "2026-07-18T20:00+02:00",
+      "venue": "Bar Theo",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484096"
+    }
+  ]
+}

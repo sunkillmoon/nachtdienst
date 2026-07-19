@@ -1,0 +1,44 @@
+{
+  "id": "119157",
+  "name": "RPU",
+  "upcoming": [
+    {
+      "id": "ra:2439799",
+      "title": "RPU presents Lustrum",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2439799"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "104990",
+      "name": "Tangela",
+      "count": 1
+    },
+    {
+      "id": "66819",
+      "name": "Pjenné",
+      "count": 1
+    },
+    {
+      "id": "137391",
+      "name": "Cindy (CH)",
+      "count": 1
+    },
+    {
+      "id": "141255",
+      "name": "Random Spirit",
+      "count": 1
+    },
+    {
+      "id": "140440",
+      "name": "geri (NL)",
+      "count": 1
+    }
+  ]
+}

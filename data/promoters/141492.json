@@ -1,0 +1,39 @@
+{
+  "id": "141492",
+  "name": "100% KATOEN",
+  "upcoming": [
+    {
+      "id": "ra:2476214",
+      "title": "100% KATOEN",
+      "date": "2026-07-23",
+      "start": "2026-07-23T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476214"
+    },
+    {
+      "id": "ra:2476218",
+      "title": "100% KATOEN",
+      "date": "2026-07-30",
+      "start": "2026-07-30T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476218"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "171459",
+      "name": "ESTRELLA",
+      "count": 1
+    },
+    {
+      "id": "90332",
+      "name": "Fenna Fiction",
+      "count": 1
+    }
+  ]
+}

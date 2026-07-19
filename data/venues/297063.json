@@ -1,0 +1,20 @@
+{
+  "id": "297063",
+  "name": "The Stargate",
+  "area": "Amsterdam",
+  "lat": 52.34,
+  "lng": 4.88,
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2487665",
+      "title": "Afterhours Tea House",
+      "date": "2026-07-18",
+      "start": "2026-07-18T19:00+02:00",
+      "venue": "The Stargate",
+      "venue_id": "297063",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487665"
+    }
+  ]
+}

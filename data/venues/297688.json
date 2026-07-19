@@ -1,0 +1,20 @@
+{
+  "id": "297688",
+  "name": "Stadseiland Stek",
+  "area": "Nijmegen",
+  "lat": 51.85,
+  "lng": 5.86,
+  "upcoming": [
+    {
+      "id": "ra:2492154",
+      "title": "Mia's HOUSE of DISCO - Vierdaagse feesten",
+      "date": "2026-07-19",
+      "start": "2026-07-19T14:00+02:00",
+      "venue": "Stadseiland Stek",
+      "venue_id": "297688",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2492154"
+    }
+  ],
+  "past": []
+}

@@ -9,6 +9,7 @@
       "date": "2026-07-23",
       "start": "2026-07-24T00:00+02:00",
       "venue": "export",
+      "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479376"
     },
@@ -18,6 +19,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T22:00+02:00",
       "venue": "ANTIA",
+      "venue_id": "285993",
       "area": "All",
       "url": "https://ra.co/events/2487320"
     }

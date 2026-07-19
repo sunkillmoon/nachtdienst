@@ -1,0 +1,69 @@
+{
+  "id": "106582",
+  "name": "Wavy",
+  "upcoming": [
+    {
+      "id": "ra:2466518",
+      "title": "Wavy Summer Festival",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466518"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "60223",
+      "name": "Ben Sterling",
+      "count": 1
+    },
+    {
+      "id": "96447",
+      "name": "SOSA (UK)",
+      "count": 1
+    },
+    {
+      "id": "172891",
+      "name": "Cam Stockman",
+      "count": 1
+    },
+    {
+      "id": "128586",
+      "name": "Joss Dean",
+      "count": 1
+    },
+    {
+      "id": "102981",
+      "name": "Tommy Phillips",
+      "count": 1
+    },
+    {
+      "id": "153028",
+      "name": "Benja (NL)",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
+    {
+      "id": "6505",
+      "name": "Joey Daniel",
+      "count": 1
+    },
+    {
+      "id": "87585",
+      "name": "Ale De Tuglie",
+      "count": 1
+    },
+    {
+      "id": "107172",
+      "name": "EMJIE",
+      "count": 1
+    }
+  ]
+}

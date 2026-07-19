@@ -1,0 +1,39 @@
+{
+  "id": "166536",
+  "name": "Derailed Rotterdam",
+  "upcoming": [
+    {
+      "id": "ra:2492500",
+      "title": "Derailed with Luigi Madonna, Jeroen Search, Dimi Angélis & More",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "TBA - RSVP",
+      "venue_id": "297731",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2492500"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "13609",
+      "name": "Luigi Madonna",
+      "count": 1
+    },
+    {
+      "id": "13144",
+      "name": "Jeroen Search",
+      "count": 1
+    },
+    {
+      "id": "5001",
+      "name": "Dimi Angelis",
+      "count": 1
+    },
+    {
+      "id": "125062",
+      "name": "Invalid Request",
+      "count": 1
+    }
+  ]
+}

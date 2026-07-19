@@ -1,0 +1,48 @@
+{
+  "id": "50894",
+  "name": "IsBurning",
+  "upcoming": [
+    {
+      "id": "ra:2453155",
+      "title": "LAUNDRETTE ...IsBurning",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453155"
+    },
+    {
+      "id": "ra:2439708",
+      "title": "Pride ...IsBurning",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2439708"
+    },
+    {
+      "id": "ra:2439706",
+      "title": "SPIELRAUM ...IsBurning",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2439706"
+    },
+    {
+      "id": "ra:2440426",
+      "title": "RAUM invites Gay Haze ...IsBurning",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440426"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

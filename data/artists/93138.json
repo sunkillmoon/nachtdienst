@@ -2,13 +2,15 @@
   "id": "93138",
   "name": "BELLA (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2485525",
       "title": "Park Kronenburg",
       "date": "2026-07-18",
       "start": "2026-07-18T14:00+02:00",
       "venue": "Kronenburgerpark",
+      "venue_id": "296776",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2485525"
     },
@@ -18,9 +20,9 @@
       "date": "2026-07-18",
       "start": "2026-07-18T15:00+02:00",
       "venue": "Lofi",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2406778"
     }
-  ],
-  "past": []
+  ]
 }

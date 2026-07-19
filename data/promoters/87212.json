@@ -1,0 +1,59 @@
+{
+  "id": "87212",
+  "name": "East Collective",
+  "upcoming": [
+    {
+      "id": "ra:2430662",
+      "title": "EAST Techno Summer",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2430662"
+    },
+    {
+      "id": "ra:2430672",
+      "title": "EAST Summer Edition at De Fik Garden",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2430672"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "46830",
+      "name": "Jayzo",
+      "count": 2
+    },
+    {
+      "id": "3687",
+      "name": "Toxic",
+      "count": 1
+    },
+    {
+      "id": "164375",
+      "name": "Delguero",
+      "count": 1
+    },
+    {
+      "id": "89350",
+      "name": "Netty Hugo",
+      "count": 1
+    },
+    {
+      "id": "67318",
+      "name": "Steven Shade",
+      "count": 1
+    },
+    {
+      "id": "155770",
+      "name": "RawB",
+      "count": 1
+    }
+  ]
+}

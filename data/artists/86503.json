@@ -2,16 +2,17 @@
   "id": "86503",
   "name": "Villaseñor",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477362",
       "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "John Doe",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477362"
     }
-  ],
-  "past": []
+  ]
 }

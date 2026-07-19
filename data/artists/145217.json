@@ -4,20 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-18",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
-    },
-    {
       "id": "ra:2435241",
       "title": "De Binnenstad",
       "date": "2026-07-25",
       "start": "2026-07-25T15:00+02:00",
       "venue": "Lofi",
+      "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2435241"
     },
@@ -27,9 +19,21 @@
       "date": "2026-08-08",
       "start": "2026-08-08T14:00+02:00",
       "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ]
 }

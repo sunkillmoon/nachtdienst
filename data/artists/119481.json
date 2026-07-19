@@ -4,20 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2461593",
-      "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",
-      "date": "2026-07-18",
-      "start": "2026-07-18T19:00+02:00",
-      "venue": "Yellow House",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2461593"
-    },
-    {
       "id": "ra:2475953",
       "title": "Vodka Woensdag XXL: Night of the Diva's",
       "date": "2026-07-29",
       "start": "2026-07-29T21:00+02:00",
       "venue": "Club NYX",
+      "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2475953"
     },
@@ -27,9 +19,21 @@
       "date": "2026-08-07",
       "start": "2026-08-07T21:00+02:00",
       "venue": "Madam",
+      "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2461593",
+      "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",
+      "date": "2026-07-18",
+      "start": "2026-07-18T19:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2461593"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "84541",
+  "name": "Watt events",
+  "upcoming": [
+    {
+      "id": "ra:2442144",
+      "title": "Capture with Cosmic Gate & Laura van Dam",
+      "date": "2026-07-26",
+      "start": "2026-07-26T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442144"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "10905",
+      "name": "Cosmic Gate",
+      "count": 1
+    },
+    {
+      "id": "98673",
+      "name": "Cyantist",
+      "count": 1
+    }
+  ]
+}

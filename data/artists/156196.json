@@ -2,16 +2,17 @@
   "id": "156196",
   "name": "Jørdy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480211",
       "title": "Playhaus w/ Di² b2b rkeat, JØRDY & Prance",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "nachbar",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480211"
     }
-  ],
-  "past": []
+  ]
 }

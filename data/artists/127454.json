@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2462878",
-      "title": "ROOTED X BOUNCE THAT BOOTY",
-      "date": "2026-07-18",
-      "start": "2026-07-18T22:00+02:00",
-      "venue": "Skatecafe",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462878"
-    },
-    {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",
       "date": "2026-08-07",
       "start": "2026-08-07T23:59+02:00",
       "venue": "Melkweg",
+      "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490643"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2462878",
+      "title": "ROOTED X BOUNCE THAT BOOTY",
+      "date": "2026-07-18",
+      "start": "2026-07-18T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462878"
+    }
+  ]
 }

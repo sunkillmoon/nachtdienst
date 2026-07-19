@@ -1,0 +1,39 @@
+{
+  "id": "170485",
+  "name": "Go-Cosmic",
+  "upcoming": [
+    {
+      "id": "ra:2489006",
+      "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2489006"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "177904",
+      "name": "AnnaM (NL)",
+      "count": 1
+    },
+    {
+      "id": "142204",
+      "name": "Nicola Piva",
+      "count": 1
+    },
+    {
+      "id": "154048",
+      "name": "Mission Architect",
+      "count": 1
+    },
+    {
+      "id": "168680",
+      "name": "Be.a.son",
+      "count": 1
+    }
+  ]
+}

@@ -2,16 +2,17 @@
   "id": "185620",
   "name": "Noumena",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484096",
       "title": "Ouragan takeover",
       "date": "2026-07-18",
       "start": "2026-07-18T20:00+02:00",
       "venue": "Bar Theo",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484096"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,16 +2,17 @@
   "id": "67372",
   "name": "Dano C",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2474214",
       "title": "Meet & Dance - International Party",
       "date": "2026-07-18",
       "start": "2026-07-18T22:00+02:00",
       "venue": "Lounge Club LaXx",
+      "venue_id": null,
       "area": "Rotterdam",
       "url": "https://ra.co/events/2474214"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "id": "264224",
+  "name": "De Roze Tanker",
+  "area": "Amsterdam",
+  "lat": 52.39,
+  "lng": 4.92,
+  "upcoming": [
+    {
+      "id": "ra:2488125",
+      "title": "Club Ecology // Simon Deschamps // quasistate // with Project X",
+      "date": "2026-07-19",
+      "start": "2026-07-19T21:00+02:00",
+      "venue": "De Roze Tanker",
+      "venue_id": "264224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488125"
+    },
+    {
+      "id": "ra:2478320",
+      "title": "BREAKGLASS - Launch Party",
+      "date": "2026-07-25",
+      "start": "2026-07-25T17:00+02:00",
+      "venue": "De Roze Tanker",
+      "venue_id": "264224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478320"
+    }
+  ],
+  "past": []
+}

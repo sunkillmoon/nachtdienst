@@ -1,0 +1,20 @@
+{
+  "id": "294145",
+  "name": "Shunter",
+  "area": "Rotterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2478274",
+      "title": "Weekend002",
+      "date": "2026-07-17",
+      "start": "2026-07-17T16:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2478274"
+    }
+  ]
+}

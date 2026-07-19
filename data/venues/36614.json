@@ -1,0 +1,20 @@
+{
+  "id": "36614",
+  "name": "Amstelhaven",
+  "area": "Amsterdam",
+  "lat": 52.359759,
+  "lng": 4.907344,
+  "upcoming": [
+    {
+      "id": "ra:2483741",
+      "title": "FLEX werken Pride Special - Amstelhaven",
+      "date": "2026-08-01",
+      "start": "2026-08-01T18:30+02:00",
+      "venue": "Amstelhaven",
+      "venue_id": "36614",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483741"
+    }
+  ],
+  "past": []
+}

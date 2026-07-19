@@ -1,0 +1,44 @@
+{
+  "id": "100757",
+  "name": "Dansplicht",
+  "upcoming": [
+    {
+      "id": "ra:2478070",
+      "title": "Dansplicht Open Air",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Brewpub Reijngoud",
+      "venue_id": "296102",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2478070"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "131265",
+      "name": "Essy",
+      "count": 1
+    },
+    {
+      "id": "146585",
+      "name": "ZOËZO",
+      "count": 1
+    },
+    {
+      "id": "107059",
+      "name": "Florezoon",
+      "count": 1
+    },
+    {
+      "id": "148928",
+      "name": "Ben Diggins",
+      "count": 1
+    },
+    {
+      "id": "100437",
+      "name": "Armand Chabert",
+      "count": 1
+    }
+  ]
+}

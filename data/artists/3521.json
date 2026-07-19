@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2459444",
-      "title": "Olivier Weiter All Night Long",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "Het Sieraad",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2459444"
-    },
-    {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
       "date": "2026-08-08",
       "start": "2026-08-08T12:00+02:00",
       "venue": "Sloterpark",
+      "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2459444",
+      "title": "Olivier Weiter All Night Long",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459444"
+    }
+  ]
 }

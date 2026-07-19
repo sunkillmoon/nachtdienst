@@ -1,0 +1,119 @@
+{
+  "id": "2813",
+  "name": "Melkweg",
+  "upcoming": [
+    {
+      "id": "ra:2490619",
+      "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
+      "date": "2026-07-25",
+      "start": "2026-07-25T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490619"
+    },
+    {
+      "id": "ra:2490637",
+      "title": "PAARDENRAVE - CLUB CHROME",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490637"
+    },
+    {
+      "id": "ra:2490639",
+      "title": "PON DI PRIDE - CLUB CHROME",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490639"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    },
+    {
+      "id": "ra:2490653",
+      "title": "Pyxls x HD Heaven - CLUB CHROME",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490653"
+    },
+    {
+      "id": "ra:2490645",
+      "title": "BIXARIA + Vrau - CLUB CHROME",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490645"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112642",
+      "name": "Milian Dolla",
+      "count": 1
+    },
+    {
+      "id": "127869",
+      "name": "Asphodèle",
+      "count": 1
+    },
+    {
+      "id": "146056",
+      "name": "Alma Negrot",
+      "count": 1
+    },
+    {
+      "id": "127454",
+      "name": "Tida Kamara",
+      "count": 1
+    },
+    {
+      "id": "107322",
+      "name": "DJ Westfa",
+      "count": 1
+    },
+    {
+      "id": "123484",
+      "name": "Shaw Cain",
+      "count": 1
+    },
+    {
+      "id": "88748",
+      "name": "Hannah Diamond",
+      "count": 1
+    },
+    {
+      "id": "74611",
+      "name": "LYZZA",
+      "count": 1
+    },
+    {
+      "id": "181564",
+      "name": "FILAIPE",
+      "count": 1
+    },
+    {
+      "id": "93547",
+      "name": "Sly Fox",
+      "count": 1
+    }
+  ]
+}

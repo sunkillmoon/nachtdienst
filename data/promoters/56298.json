@@ -1,0 +1,49 @@
+{
+  "id": "56298",
+  "name": "Intercell",
+  "upcoming": [
+    {
+      "id": "ra:2465506",
+      "title": "Intercell Industrial Night",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2465506"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "69599",
+      "name": "KRTM",
+      "count": 1
+    },
+    {
+      "id": "70648",
+      "name": "Ghost in the Machine",
+      "count": 1
+    },
+    {
+      "id": "101047",
+      "name": "Krista Bourgeois",
+      "count": 1
+    },
+    {
+      "id": "2048",
+      "name": "Perc",
+      "count": 1
+    },
+    {
+      "id": "46540",
+      "name": "Ansome",
+      "count": 1
+    },
+    {
+      "id": "181740",
+      "name": "LINDS (NL)",
+      "count": 1
+    }
+  ]
+}

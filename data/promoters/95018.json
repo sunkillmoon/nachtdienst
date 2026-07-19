@@ -1,0 +1,79 @@
+{
+  "id": "95018",
+  "name": "Happy Feelings",
+  "upcoming": [
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    },
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "154307",
+      "name": "Entasia",
+      "count": 1
+    },
+    {
+      "id": "101467",
+      "name": "Inafekt",
+      "count": 1
+    },
+    {
+      "id": "175798",
+      "name": "Merel Helderman",
+      "count": 1
+    },
+    {
+      "id": "159427",
+      "name": "OLIVIA LENSEN",
+      "count": 1
+    },
+    {
+      "id": "103554",
+      "name": "Miguel De Bois",
+      "count": 1
+    },
+    {
+      "id": "117194",
+      "name": "Rozie",
+      "count": 1
+    },
+    {
+      "id": "124552",
+      "name": "Upper90",
+      "count": 1
+    },
+    {
+      "id": "112808",
+      "name": "Surf 2 Glory",
+      "count": 1
+    }
+  ]
+}

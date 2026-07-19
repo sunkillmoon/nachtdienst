@@ -1,0 +1,69 @@
+{
+  "id": "57654",
+  "name": "Liquicity",
+  "upcoming": [
+    {
+      "id": "ra:2235347",
+      "title": "Liquicity Festival 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-24T11:00+02:00",
+      "venue": "Geestmerambacht",
+      "venue_id": "18674",
+      "area": "All",
+      "url": "https://ra.co/events/2235347"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "48550",
+      "name": "Netsky",
+      "count": 1
+    },
+    {
+      "id": "79271",
+      "name": "Wilkinson",
+      "count": 1
+    },
+    {
+      "id": "62679",
+      "name": "Hybrid Minds",
+      "count": 1
+    },
+    {
+      "id": "344",
+      "name": "Andy C",
+      "count": 1
+    },
+    {
+      "id": "22360",
+      "name": "Shy FX",
+      "count": 1
+    },
+    {
+      "id": "127152",
+      "name": "Fox Stevenson",
+      "count": 1
+    },
+    {
+      "id": "62359",
+      "name": "Koven",
+      "count": 1
+    },
+    {
+      "id": "123708",
+      "name": "A.M.C.",
+      "count": 1
+    },
+    {
+      "id": "175704",
+      "name": "Andromedik",
+      "count": 1
+    },
+    {
+      "id": "8971",
+      "name": "Calibre",
+      "count": 1
+    }
+  ]
+}

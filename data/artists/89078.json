@@ -9,6 +9,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T22:00+02:00",
       "venue": "BRET",
+      "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488590"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T21:00+02:00",
       "venue": "Madam",
+      "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456898"
     }

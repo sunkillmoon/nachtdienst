@@ -1,0 +1,111 @@
+{
+  "id": "101766",
+  "name": "BASIS",
+  "area": "Utrecht",
+  "lat": 52.09289,
+  "lng": 5.116801,
+  "upcoming": [
+    {
+      "id": "ra:2488763",
+      "title": "BASIS Talent Night/ LAUZ/ LOYK/ Nito/ S.H.A.R.P",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488763"
+    },
+    {
+      "id": "ra:2468316",
+      "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2468316"
+    },
+    {
+      "id": "ra:2488775",
+      "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488775"
+    },
+    {
+      "id": "ra:2475450",
+      "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475450"
+    },
+    {
+      "id": "ra:2478449",
+      "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478449"
+    },
+    {
+      "id": "ra:2454597",
+      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2454597"
+    },
+    {
+      "id": "ra:2478422",
+      "title": "BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478422"
+    },
+    {
+      "id": "ra:2479458",
+      "title": "BASIS/ Gioray [live]/ Identified Patient/ Schacke",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2479458"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2465293",
+      "title": "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": null,
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2465293"
+    },
+    {
+      "id": "ra:2488741",
+      "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": null,
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488741"
+    }
+  ]
+}

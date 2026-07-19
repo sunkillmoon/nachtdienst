@@ -1,0 +1,28 @@
+{
+  "id": "148206",
+  "name": "Fandom Nights",
+  "upcoming": [
+    {
+      "id": "ra:2491674",
+      "title": "bratty • world pride boat party • de baron van jutphaas • amsterdam",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:30+02:00",
+      "venue": "TBA - De Baron Van Jutphaas (Partyboat)",
+      "venue_id": "297623",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491674"
+    },
+    {
+      "id": "ra:2491678",
+      "title": "bratty • world pride boat party • de baron van jutphaas • amsterdam",
+      "date": "2026-08-09",
+      "start": "2026-08-09T15:30+02:00",
+      "venue": "TBA - De Baron Van Jutphaas (Partyboat)",
+      "venue_id": "297623",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491678"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

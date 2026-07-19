@@ -9,6 +9,7 @@
       "date": "2026-08-09",
       "start": "2026-08-09T17:00+02:00",
       "venue": "Beachclub Fuel",
+      "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2464413"
     }
@@ -20,6 +21,7 @@
       "date": "2026-07-17",
       "start": "2026-07-17T22:00+02:00",
       "venue": "Panama",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489671"
     }

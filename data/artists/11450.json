@@ -2,16 +2,17 @@
   "id": "11450",
   "name": "dBridge",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483326",
       "title": "dBridge, 333 + bar40 with KRUISPUNT & Pacific Ondergronds",
       "date": "2026-07-18",
       "start": "2026-07-18T23:30+02:00",
       "venue": "Garage Noord",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483326"
     }
-  ],
-  "past": []
+  ]
 }

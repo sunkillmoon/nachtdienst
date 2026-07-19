@@ -1,0 +1,20 @@
+{
+  "id": "220618",
+  "name": "Biergarten Eindhoven",
+  "area": "Eindhoven",
+  "lat": 51,
+  "lng": 5,
+  "upcoming": [
+    {
+      "id": "ra:2483853",
+      "title": "STOOK - Eindhoven's Biggest Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Biergarten Eindhoven",
+      "venue_id": "220618",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2483853"
+    }
+  ],
+  "past": []
+}

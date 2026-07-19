@@ -4,29 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2406778",
-      "title": "PALET Mini Festival",
-      "date": "2026-07-18",
-      "start": "2026-07-18T15:00+02:00",
-      "venue": "Lofi",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2406778"
-    },
-    {
-      "id": "ra:2477184",
-      "title": "PAMELA invites Dalson Superstore",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "TILLATEC",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477184"
-    },
-    {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
       "date": "2026-07-19",
       "start": "2026-07-19T13:00+02:00",
       "venue": "Thuishaven",
+      "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2407224"
     },
@@ -36,6 +19,7 @@
       "date": "2026-07-31",
       "start": "2026-07-31T16:00+02:00",
       "venue": "Waterkant",
+      "venue_id": "95538",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490649"
     },
@@ -45,6 +29,7 @@
       "date": "2026-08-06",
       "start": "2026-08-06T23:00+02:00",
       "venue": "NAR",
+      "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2475988"
     },
@@ -54,9 +39,31 @@
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "Radio Radio",
+      "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488542"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    },
+    {
+      "id": "ra:2477184",
+      "title": "PAMELA invites Dalson Superstore",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477184"
+    }
+  ]
 }

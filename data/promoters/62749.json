@@ -1,0 +1,119 @@
+{
+  "id": "62749",
+  "name": "RADION ",
+  "upcoming": [
+    {
+      "id": "ra:2447897",
+      "title": "Closer Milano - RADION CLUB TOUR",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447897"
+    },
+    {
+      "id": "ra:2464183",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464183"
+    },
+    {
+      "id": "ra:2464194",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464194"
+    },
+    {
+      "id": "ra:2464912",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2485024",
+      "title": "RADION invites Justine Perry",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485024"
+    },
+    {
+      "id": "ra:2433222",
+      "title": "RADION invites GEGEN",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433222"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "75946",
+      "name": "AgainstMe",
+      "count": 1
+    },
+    {
+      "id": "165117",
+      "name": "Connor Wall",
+      "count": 1
+    },
+    {
+      "id": "95388",
+      "name": "Elisa Batti",
+      "count": 1
+    },
+    {
+      "id": "60092",
+      "name": "Rorschack",
+      "count": 1
+    },
+    {
+      "id": "84884",
+      "name": "Afra",
+      "count": 1
+    },
+    {
+      "id": "54184",
+      "name": "Blasha & Allatt",
+      "count": 1
+    },
+    {
+      "id": "84014",
+      "name": "Mari Sakurai",
+      "count": 1
+    },
+    {
+      "id": "70288",
+      "name": "MARRØN",
+      "count": 1
+    },
+    {
+      "id": "51198",
+      "name": "Phase Fatale",
+      "count": 1
+    },
+    {
+      "id": "77651",
+      "name": "Rene Wise",
+      "count": 1
+    }
+  ]
+}

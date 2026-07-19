@@ -1,0 +1,28 @@
+{
+  "id": "186141",
+  "name": "Chin Chin Club",
+  "upcoming": [
+    {
+      "id": "ra:2479695",
+      "title": "Mémoire",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479695"
+    },
+    {
+      "id": "ra:2479728",
+      "title": "Mémoire",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479728"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

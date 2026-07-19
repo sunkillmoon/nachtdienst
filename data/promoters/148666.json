@@ -1,0 +1,34 @@
+{
+  "id": "148666",
+  "name": "JTMusic",
+  "upcoming": [
+    {
+      "id": "ra:2492701",
+      "title": "Stuck in a Loop - PRIDE EDITION - with ANGEL-V (MEX), Joris Turenhout",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492701"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "167683",
+      "name": "ANGEL-V",
+      "count": 1
+    },
+    {
+      "id": "109907",
+      "name": "Joris Turenhout",
+      "count": 1
+    },
+    {
+      "id": "180284",
+      "name": "BOOM BOOM MANCINI",
+      "count": 1
+    }
+  ]
+}

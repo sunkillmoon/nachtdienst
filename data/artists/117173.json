@@ -9,6 +9,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T13:00+02:00",
       "venue": "Paradigm",
+      "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-15",
       "start": "2026-08-15T21:00+02:00",
       "venue": "Time is the new space",
+      "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490623"
     }

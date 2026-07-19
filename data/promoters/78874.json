@@ -1,0 +1,79 @@
+{
+  "id": "78874",
+  "name": "Subcultuur (NL)",
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "venue_id": "296776",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
+      "id": "ra:2485555",
+      "title": "Subcultuur Nachtvierdaagse",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "De Lindenberg",
+      "venue_id": "80434",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485555"
+    }
+  ],
+  "top_artists": [
+    {
+      "id": "182573",
+      "name": "Dean Turnley",
+      "count": 2
+    },
+    {
+      "id": "144738",
+      "name": "Julia van Praag",
+      "count": 2
+    },
+    {
+      "id": "158352",
+      "name": "Josso",
+      "count": 2
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
+      "count": 1
+    },
+    {
+      "id": "103554",
+      "name": "Miguel De Bois",
+      "count": 1
+    },
+    {
+      "id": "104385",
+      "name": "Milion",
+      "count": 1
+    },
+    {
+      "id": "168607",
+      "name": "Deejay Abstract",
+      "count": 1
+    },
+    {
+      "id": "113604",
+      "name": "Carlos Willengton",
+      "count": 1
+    },
+    {
+      "id": "113984",
+      "name": "Lysah",
+      "count": 1
+    },
+    {
+      "id": "95363",
+      "name": "Sentinel Island Disco",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "116125",
+  "name": "hush.",
+  "upcoming": [
+    {
+      "id": "ra:2426010",
+      "title": "Hush at the Beach with Riordan, Job de Jong & More",
+      "date": "2026-07-24",
+      "start": "2026-07-24T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426010"
+    },
+    {
+      "id": "ra:2442055",
+      "title": "Hush Boatparty",
+      "date": "2026-08-14",
+      "start": "2026-08-14T16:30+02:00",
+      "venue": "Pier 14",
+      "venue_id": "265448",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442055"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "126833",
+      "name": "Riordan",
+      "count": 1
+    },
+    {
+      "id": "148310",
+      "name": "Job de Jong",
+      "count": 1
+    },
+    {
+      "id": "79065",
+      "name": "Maqossa",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "161686",
+  "name": "Tropikali",
+  "upcoming": [
+    {
+      "id": "ra:2375945",
+      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375945"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "105582",
+      "name": "S-candalo",
+      "count": 1
+    },
+    {
+      "id": "96633",
+      "name": "THC",
+      "count": 1
+    },
+    {
+      "id": "113054",
+      "name": "Disk Cartel",
+      "count": 1
+    },
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    },
+    {
+      "id": "54330",
+      "name": "Protopapa",
+      "count": 1
+    },
+    {
+      "id": "152868",
+      "name": "ASHTATTZ",
+      "count": 1
+    },
+    {
+      "id": "107976",
+      "name": "Absoluut",
+      "count": 1
+    }
+  ]
+}

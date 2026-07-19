@@ -1,0 +1,31 @@
+{
+  "id": "30689",
+  "name": "PIP Den Haag",
+  "area": "The Hague",
+  "lat": 52.07348,
+  "lng": 4.332589,
+  "upcoming": [
+    {
+      "id": "ra:2383086",
+      "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2383086"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2453609",
+      "title": "PIP PRESENTS PARISH: EUROSUMMER",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": null,
+      "area": "The Hague",
+      "url": "https://ra.co/events/2453609"
+    }
+  ]
+}

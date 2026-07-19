@@ -1,0 +1,29 @@
+{
+  "id": "190668",
+  "name": "Normaal Sounds",
+  "upcoming": [
+    {
+      "id": "ra:2491746",
+      "title": "Normaal Sounds: Across The Pond",
+      "date": "2026-07-23",
+      "start": "2026-07-23T20:00+02:00",
+      "venue": "Bar Theo",
+      "venue_id": "202501",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491746"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "118279",
+      "name": "Dennis Free",
+      "count": 1
+    },
+    {
+      "id": "166909",
+      "name": "felixdejong",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "108349",
+  "name": "Spoorzone",
+  "area": "All",
+  "lat": 51.561832,
+  "lng": 5.092768,
+  "upcoming": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    }
+  ],
+  "past": []
+}

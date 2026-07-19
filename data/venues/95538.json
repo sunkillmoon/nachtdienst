@@ -1,0 +1,20 @@
+{
+  "id": "95538",
+  "name": "Waterkant",
+  "area": "Amsterdam",
+  "lat": 52.370143,
+  "lng": 4.877057,
+  "upcoming": [
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    }
+  ],
+  "past": []
+}

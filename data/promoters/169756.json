@@ -1,0 +1,49 @@
+{
+  "id": "169756",
+  "name": "Mala Junta",
+  "upcoming": [
+    {
+      "id": "ra:2440419",
+      "title": "RAUM invites Mala Junta",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440419"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "155509",
+      "name": "BARROSKINI",
+      "count": 1
+    },
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "105286",
+      "name": "DJ TOOL",
+      "count": 1
+    },
+    {
+      "id": "62553",
+      "name": "D. Tiffany",
+      "count": 1
+    },
+    {
+      "id": "81576",
+      "name": "Yazzus",
+      "count": 1
+    },
+    {
+      "id": "42350",
+      "name": "Hyperaktivist",
+      "count": 1
+    }
+  ]
+}

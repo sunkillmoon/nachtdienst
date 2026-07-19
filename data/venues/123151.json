@@ -1,0 +1,20 @@
+{
+  "id": "123151",
+  "name": "Paradiso Noord / Tolhuistuin",
+  "area": "Amsterdam",
+  "lat": 52.383339,
+  "lng": 4.903119,
+  "upcoming": [
+    {
+      "id": "ra:2479505",
+      "title": "HTRK",
+      "date": "2026-08-06",
+      "start": "2026-08-06T20:30+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479505"
+    }
+  ],
+  "past": []
+}

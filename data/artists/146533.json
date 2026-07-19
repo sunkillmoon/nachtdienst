@@ -9,6 +9,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T13:00+02:00",
       "venue": "Thuishaven",
+      "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2392340"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T23:00+02:00",
       "venue": "Oliva",
+      "venue_id": "179504",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487894"
     }

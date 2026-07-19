@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2397048",
-      "title": "VERKNIPT Beach Special - 18 July",
-      "date": "2026-07-18",
-      "start": "2026-07-18T17:00+02:00",
-      "venue": "Beachclub Fuel",
-      "area": "All",
-      "url": "https://ra.co/events/2397048"
-    },
-    {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
       "date": "2026-07-25",
       "start": "2026-07-25T13:00+02:00",
       "venue": "Complex Maastricht",
+      "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2354081"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2397048",
+      "title": "VERKNIPT Beach Special - 18 July",
+      "date": "2026-07-18",
+      "start": "2026-07-18T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": null,
+      "area": "All",
+      "url": "https://ra.co/events/2397048"
+    }
+  ]
 }

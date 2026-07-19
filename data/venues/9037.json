@@ -1,0 +1,111 @@
+{
+  "id": "9037",
+  "name": "Toffler",
+  "area": "Rotterdam",
+  "lat": 51.923439,
+  "lng": 4.474325,
+  "upcoming": [
+    {
+      "id": "ra:2437618",
+      "title": "TOFFLER presents Najel Monteiro and friends",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437618"
+    },
+    {
+      "id": "ra:2437621",
+      "title": "TOFFLER presents Chico Rose",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437621"
+    },
+    {
+      "id": "ra:2437625",
+      "title": "TOFFLER presents SANTØS and friends",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437625"
+    },
+    {
+      "id": "ra:2466195",
+      "title": "TOFFLER presents DAF and friends",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466195"
+    },
+    {
+      "id": "ra:2466199",
+      "title": "TOFFLER presents DUIF and friends",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466199"
+    },
+    {
+      "id": "ra:2466203",
+      "title": "TOFFLER presents Jill-Ann and friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466203"
+    },
+    {
+      "id": "ra:2466204",
+      "title": "TOFFLER presents The Funkmoore Brothers and friends",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466204"
+    },
+    {
+      "id": "ra:2466205",
+      "title": "TOFFLER presents LOZO and friends",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466205"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2437567",
+      "title": "Toffler presents EDSON CESAR and friends",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": null,
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437567"
+    },
+    {
+      "id": "ra:2437578",
+      "title": "Toffler presents LØIS and friends",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": null,
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437578"
+    }
+  ]
+}

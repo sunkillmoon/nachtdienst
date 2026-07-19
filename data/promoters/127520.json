@@ -1,0 +1,44 @@
+{
+  "id": "127520",
+  "name": "De Reünie",
+  "upcoming": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "105271",
+      "name": "Cybersex",
+      "count": 1
+    },
+    {
+      "id": "105235",
+      "name": "N.R.M",
+      "count": 1
+    },
+    {
+      "id": "118674",
+      "name": "TWIENA",
+      "count": 1
+    },
+    {
+      "id": "168116",
+      "name": "MXV (1)",
+      "count": 1
+    },
+    {
+      "id": "164603",
+      "name": "rriddim",
+      "count": 1
+    }
+  ]
+}

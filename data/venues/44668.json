@@ -1,0 +1,51 @@
+{
+  "id": "44668",
+  "name": "Het Sieraad",
+  "area": "Amsterdam",
+  "lat": 52.364415,
+  "lng": 4.858947,
+  "upcoming": [
+    {
+      "id": "ra:2420618",
+      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420618"
+    },
+    {
+      "id": "ra:2480551",
+      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480551"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2459444",
+      "title": "Olivier Weiter All Night Long",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459444"
+    },
+    {
+      "id": "ra:2474154",
+      "title": "Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK)",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474154"
+    }
+  ]
+}

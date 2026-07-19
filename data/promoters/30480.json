@@ -1,0 +1,29 @@
+{
+  "id": "30480",
+  "name": "MODULAR | MUSIC",
+  "upcoming": [
+    {
+      "id": "ra:2479892",
+      "title": "Modular at the Beach: Bad Boombox 5H",
+      "date": "2026-07-26",
+      "start": "2026-07-26T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2479892"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "99930",
+      "name": "Bad Boombox",
+      "count": 1
+    },
+    {
+      "id": "157007",
+      "name": "lizaliza",
+      "count": 1
+    }
+  ]
+}

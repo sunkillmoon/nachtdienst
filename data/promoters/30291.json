@@ -1,0 +1,49 @@
+{
+  "id": "30291",
+  "name": "VBX",
+  "upcoming": [
+    {
+      "id": "ra:2452373",
+      "title": "VBX BRET",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452373"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "46616",
+      "name": "Poggio",
+      "count": 1
+    },
+    {
+      "id": "93746",
+      "name": "Hannecart",
+      "count": 1
+    },
+    {
+      "id": "40414",
+      "name": "Gabriel Belabbas",
+      "count": 1
+    },
+    {
+      "id": "48655",
+      "name": "Franziska Berns",
+      "count": 1
+    },
+    {
+      "id": "93941",
+      "name": "DIEDE",
+      "count": 1
+    },
+    {
+      "id": "50373",
+      "name": "Charlotte (FR)",
+      "count": 1
+    }
+  ]
+}

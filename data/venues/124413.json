@@ -1,0 +1,111 @@
+{
+  "id": "124413",
+  "name": "Shelter Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.383918,
+  "lng": 4.902485,
+  "upcoming": [
+    {
+      "id": "ra:2449003",
+      "title": "New Tone - All Night",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449003"
+    },
+    {
+      "id": "ra:2449009",
+      "title": "Hannecart, Byron Yeates, Amaliah, Idilay & More",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449009"
+    },
+    {
+      "id": "ra:2449012",
+      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449012"
+    },
+    {
+      "id": "ra:2476114",
+      "title": "PACH. curates",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476114"
+    },
+    {
+      "id": "ra:2476120",
+      "title": "Locky curates",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476120"
+    },
+    {
+      "id": "ra:2476133",
+      "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476133"
+    },
+    {
+      "id": "ra:2476138",
+      "title": "Luke Alessi (all night)",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476138"
+    },
+    {
+      "id": "ra:2476140",
+      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476140"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2449821",
+      "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449821"
+    },
+    {
+      "id": "ra:2448926",
+      "title": "Garrett David - All Night ",
+      "date": "2026-07-17",
+      "start": "2026-07-17T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2448926"
+    }
+  ]
+}

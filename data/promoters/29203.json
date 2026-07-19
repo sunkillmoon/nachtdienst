@@ -1,0 +1,44 @@
+{
+  "id": "29203",
+  "name": "Multigroove",
+  "upcoming": [
+    {
+      "id": "ra:2430402",
+      "title": "Digital Overdose Festival",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Hal 25",
+      "venue_id": "98505",
+      "area": "All",
+      "url": "https://ra.co/events/2430402"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "82835",
+      "name": "Analog Kitchen",
+      "count": 1
+    },
+    {
+      "id": "142702",
+      "name": "Nina Bender",
+      "count": 1
+    },
+    {
+      "id": "130698",
+      "name": "NoXa",
+      "count": 1
+    },
+    {
+      "id": "78987",
+      "name": "Pavo",
+      "count": 1
+    },
+    {
+      "id": "149191",
+      "name": "Ruffian",
+      "count": 1
+    }
+  ]
+}

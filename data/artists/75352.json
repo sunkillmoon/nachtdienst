@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488704",
-      "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488704"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
       "start": "2026-08-08T13:00+02:00",
       "venue": "Paradigm",
+      "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2488704",
+      "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488704"
+    }
+  ]
 }

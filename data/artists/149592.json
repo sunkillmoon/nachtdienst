@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-18",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
-    },
-    {
       "id": "ra:2488835",
       "title": "CLUB GOTO",
       "date": "2026-07-23",
       "start": "2026-07-23T23:59+02:00",
       "venue": "BAR Goto",
+      "venue_id": "297258",
       "area": "All",
       "url": "https://ra.co/events/2488835"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ]
 }

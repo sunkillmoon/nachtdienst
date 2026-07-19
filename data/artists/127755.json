@@ -2,16 +2,17 @@
   "id": "127755",
   "name": "Baron Von Trax",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2357558",
       "title": "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT",
       "date": "2026-07-18",
       "start": "2026-07-18T17:00+02:00",
       "venue": "Colorado Charlie",
+      "venue_id": null,
       "area": "The Hague",
       "url": "https://ra.co/events/2357558"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": "91163",
+  "name": "S.A.S.H",
+  "upcoming": [
+    {
+      "id": "ra:2476140",
+      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476140"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "42275",
+      "name": "Kerry",
+      "count": 1
+    },
+    {
+      "id": "110030",
+      "name": "Marlie",
+      "count": 1
+    },
+    {
+      "id": "53004",
+      "name": "Laidlaw",
+      "count": 1
+    },
+    {
+      "id": "23021",
+      "name": "Harry McCanna",
+      "count": 1
+    },
+    {
+      "id": "47591",
+      "name": "Sam Bangura",
+      "count": 1
+    },
+    {
+      "id": "63681",
+      "name": "Shakèd",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "56793",
+  "name": "Herrensauna",
+  "upcoming": [
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    },
+    {
+      "id": "63999",
+      "name": "CEM",
+      "count": 1
+    },
+    {
+      "id": "4977",
+      "name": "Cormac",
+      "count": 1
+    },
+    {
+      "id": "137891",
+      "name": "Emma Champagne Queen",
+      "count": 1
+    },
+    {
+      "id": "185357",
+      "name": "Gian Battista",
+      "count": 1
+    },
+    {
+      "id": "66408",
+      "name": "HAAi",
+      "count": 1
+    },
+    {
+      "id": "143900",
+      "name": "Lara Renner",
+      "count": 1
+    },
+    {
+      "id": "70435",
+      "name": "MCMLXXXV",
+      "count": 1
+    },
+    {
+      "id": "77413",
+      "name": "Narciss",
+      "count": 1
+    },
+    {
+      "id": "96082",
+      "name": "Slim Soledad",
+      "count": 1
+    }
+  ]
+}

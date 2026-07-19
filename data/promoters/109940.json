@@ -1,0 +1,44 @@
+{
+  "id": "109940",
+  "name": "Overbruggen",
+  "upcoming": [
+    {
+      "id": "ra:2420278",
+      "title": "Overbruggen Summer Series - Colorado Charlie",
+      "date": "2026-07-24",
+      "start": "2026-07-24T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2420278"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81309",
+      "name": "DART",
+      "count": 1
+    },
+    {
+      "id": "101467",
+      "name": "Inafekt",
+      "count": 1
+    },
+    {
+      "id": "143959",
+      "name": "Ned Bennett",
+      "count": 1
+    },
+    {
+      "id": "112204",
+      "name": "MPH (1)",
+      "count": 1
+    },
+    {
+      "id": "113857",
+      "name": "Sensu (2)",
+      "count": 1
+    }
+  ]
+}

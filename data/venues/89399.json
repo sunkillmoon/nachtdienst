@@ -1,0 +1,20 @@
+{
+  "id": "89399",
+  "name": "Rembrandtpark",
+  "area": "Amsterdam",
+  "lat": 52.368604,
+  "lng": 4.849118,
+  "upcoming": [
+    {
+      "id": "ra:2487470",
+      "title": "Rave in the Park",
+      "date": "2026-07-19",
+      "start": "2026-07-19T10:00+02:00",
+      "venue": "Rembrandtpark",
+      "venue_id": "89399",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487470"
+    }
+  ],
+  "past": []
+}

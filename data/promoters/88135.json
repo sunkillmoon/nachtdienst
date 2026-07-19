@@ -1,0 +1,74 @@
+{
+  "id": "88135",
+  "name": "Amsterdam Techno Sessions",
+  "upcoming": [
+    {
+      "id": "ra:2477372",
+      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477372"
+    },
+    {
+      "id": "ra:2477375",
+      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2477378",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477378"
+    },
+    {
+      "id": "ra:2477391",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477391"
+    },
+    {
+      "id": "ra:2477393",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477393"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "99004",
+      "name": "Marco Ramos",
+      "count": 4
+    },
+    {
+      "id": "89568",
+      "name": "No Intellectual Property",
+      "count": 1
+    },
+    {
+      "id": "21842",
+      "name": "Durcheinander",
+      "count": 1
+    }
+  ]
+}

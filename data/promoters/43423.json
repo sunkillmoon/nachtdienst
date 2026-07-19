@@ -1,0 +1,64 @@
+{
+  "id": "43423",
+  "name": "Rotterdamse Rave",
+  "upcoming": [
+    {
+      "id": "ra:2436222",
+      "title": "Rotterdam Rave Beach Sessions with davyboi",
+      "date": "2026-07-19",
+      "start": "2026-07-19T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436222"
+    },
+    {
+      "id": "ra:2436225",
+      "title": "Rotterdam Rave Beach Sessions with Nikolina",
+      "date": "2026-08-02",
+      "start": "2026-08-02T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436225"
+    },
+    {
+      "id": "ra:2436229",
+      "title": "Rotterdam Rave Beach Sessions with Cloudy & friends",
+      "date": "2026-08-16",
+      "start": "2026-08-16T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436229"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "133993",
+      "name": "davyboi",
+      "count": 1
+    },
+    {
+      "id": "96324",
+      "name": "Nikolina",
+      "count": 1
+    },
+    {
+      "id": "116003",
+      "name": "Cloudy",
+      "count": 1
+    },
+    {
+      "id": "179145",
+      "name": "MIT (6)",
+      "count": 1
+    },
+    {
+      "id": "134197",
+      "name": "Vagabund",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "174293",
+  "name": "BeHærd",
+  "upcoming": [
+    {
+      "id": "ra:2489462",
+      "title": "BeHaerd BO.02 - Purposely Connect",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489462"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "75172",
+      "name": "Cobahn",
+      "count": 1
+    },
+    {
+      "id": "1035",
+      "name": "Cio D'Or",
+      "count": 1
+    },
+    {
+      "id": "122687",
+      "name": "Obscur",
+      "count": 1
+    },
+    {
+      "id": "64516",
+      "name": "Mathys Lenne",
+      "count": 1
+    },
+    {
+      "id": "111224",
+      "name": "Karina Schneider",
+      "count": 1
+    },
+    {
+      "id": "2055",
+      "name": "Marc Schneider",
+      "count": 1
+    }
+  ]
+}

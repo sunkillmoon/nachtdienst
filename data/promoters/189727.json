@@ -1,0 +1,64 @@
+{
+  "id": "189727",
+  "name": "STUDIO STRIP AMSTERDAM",
+  "upcoming": [
+    {
+      "id": "ra:2478267",
+      "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
+      "date": "2026-08-08",
+      "start": "2026-08-08T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478267"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "96125",
+      "name": "C.FRIM",
+      "count": 1
+    },
+    {
+      "id": "43115",
+      "name": "Cinnaman",
+      "count": 1
+    },
+    {
+      "id": "147968",
+      "name": "Styn",
+      "count": 1
+    },
+    {
+      "id": "123818",
+      "name": "Kurashi Soundsystem",
+      "count": 1
+    },
+    {
+      "id": "91976",
+      "name": "Retromigration",
+      "count": 1
+    },
+    {
+      "id": "138129",
+      "name": "Franky Sticks",
+      "count": 1
+    },
+    {
+      "id": "124569",
+      "name": "Cheyanne Hudson",
+      "count": 1
+    },
+    {
+      "id": "129224",
+      "name": "Erykah",
+      "count": 1
+    },
+    {
+      "id": "152214",
+      "name": "Jana",
+      "count": 1
+    }
+  ]
+}

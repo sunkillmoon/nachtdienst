@@ -1,0 +1,44 @@
+{
+  "id": "149634",
+  "name": "Kult Funktion",
+  "upcoming": [
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "89078",
+      "name": "Juliana",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    },
+    {
+      "id": "117525",
+      "name": "Prance",
+      "count": 1
+    },
+    {
+      "id": "162939",
+      "name": "Seven Angels",
+      "count": 1
+    },
+    {
+      "id": "112928",
+      "name": "Slimfit",
+      "count": 1
+    }
+  ]
+}

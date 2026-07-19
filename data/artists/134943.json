@@ -2,16 +2,17 @@
   "id": "134943",
   "name": "Yeku",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",
       "date": "2026-07-18",
       "start": "2026-07-18T12:00+02:00",
       "venue": "TBA",
+      "venue_id": "259877",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2483805"
     }
-  ],
-  "past": []
+  ]
 }

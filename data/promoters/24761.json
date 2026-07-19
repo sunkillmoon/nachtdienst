@@ -1,0 +1,69 @@
+{
+  "id": "24761",
+  "name": "Loveland Events",
+  "upcoming": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "110515",
+      "name": "AAT (NL)",
+      "count": 1
+    },
+    {
+      "id": "63888",
+      "name": "Adam Ten",
+      "count": 1
+    },
+    {
+      "id": "102019",
+      "name": "Alarico",
+      "count": 1
+    },
+    {
+      "id": "103146",
+      "name": "Alexia Glensy",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "83210",
+      "name": "Argia",
+      "count": 1
+    },
+    {
+      "id": "113686",
+      "name": "ATRIP",
+      "count": 1
+    },
+    {
+      "id": "2046",
+      "name": "Bart Skils",
+      "count": 1
+    },
+    {
+      "id": "96369",
+      "name": "Bastienne",
+      "count": 1
+    },
+    {
+      "id": "966",
+      "name": "Ben Klock",
+      "count": 1
+    }
+  ]
+}

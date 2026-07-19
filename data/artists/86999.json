@@ -10,6 +10,7 @@
       "date": "2026-07-16",
       "start": "2026-07-16T23:00+02:00",
       "venue": "John Doe",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477355"
     }

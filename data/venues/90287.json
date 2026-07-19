@@ -1,0 +1,80 @@
+{
+  "id": "90287",
+  "name": "Boomerang Beach",
+  "area": "The Hague",
+  "lat": 52.117176,
+  "lng": 4.2893,
+  "upcoming": [
+    {
+      "id": "ra:2436222",
+      "title": "Rotterdam Rave Beach Sessions with davyboi",
+      "date": "2026-07-19",
+      "start": "2026-07-19T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436222"
+    },
+    {
+      "id": "ra:2426010",
+      "title": "Hush at the Beach with Riordan, Job de Jong & More",
+      "date": "2026-07-24",
+      "start": "2026-07-24T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426010"
+    },
+    {
+      "id": "ra:2479892",
+      "title": "Modular at the Beach: Bad Boombox 5H",
+      "date": "2026-07-26",
+      "start": "2026-07-26T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2479892"
+    },
+    {
+      "id": "ra:2436225",
+      "title": "Rotterdam Rave Beach Sessions with Nikolina",
+      "date": "2026-08-02",
+      "start": "2026-08-02T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436225"
+    },
+    {
+      "id": "ra:2486484",
+      "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486484"
+    },
+    {
+      "id": "ra:2436230",
+      "title": "De Sessie - Ryan Elliott - Summer Sessions",
+      "date": "2026-08-15",
+      "start": "2026-08-15T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436230"
+    },
+    {
+      "id": "ra:2436229",
+      "title": "Rotterdam Rave Beach Sessions with Cloudy & friends",
+      "date": "2026-08-16",
+      "start": "2026-08-16T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436229"
+    }
+  ],
+  "past": []
+}

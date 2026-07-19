@@ -1,0 +1,49 @@
+{
+  "id": "156322",
+  "name": "ADONIS LONDON",
+  "upcoming": [
+    {
+      "id": "ra:2440421",
+      "title": "12HRS Adonis x SPIELRAUM",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440421"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "106638",
+      "name": "Grace Sands",
+      "count": 1
+    },
+    {
+      "id": "1447",
+      "name": "Hannah Holland",
+      "count": 1
+    },
+    {
+      "id": "57370",
+      "name": "Josh Caffé",
+      "count": 1
+    },
+    {
+      "id": "83883",
+      "name": "Polly F",
+      "count": 1
+    },
+    {
+      "id": "118674",
+      "name": "TWIENA",
+      "count": 1
+    },
+    {
+      "id": "152642",
+      "name": "Yigit",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "120262",
+  "name": "Tale of Bus",
+  "upcoming": [
+    {
+      "id": "ra:2491852",
+      "title": "Tale of Bus after hours",
+      "date": "2026-08-02",
+      "start": "2026-08-02T22:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491852"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "111744",
+      "name": "Kuba'97",
+      "count": 1
+    },
+    {
+      "id": "169383",
+      "name": "Idilay",
+      "count": 1
+    },
+    {
+      "id": "34388",
+      "name": "Daan Donk",
+      "count": 1
+    }
+  ]
+}

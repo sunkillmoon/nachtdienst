@@ -1,0 +1,94 @@
+{
+  "id": "82282",
+  "name": "RAPIDO",
+  "upcoming": [
+    {
+      "id": "ra:2386613",
+      "title": "Our World Pride Opening",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2386613"
+    },
+    {
+      "id": "ra:2368413",
+      "title": "FunHouse - The World Pride Friday Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2368413"
+    },
+    {
+      "id": "ra:2395176",
+      "title": "FunHouse - The World Pride Saturday Edition",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395176"
+    },
+    {
+      "id": "ra:2385580",
+      "title": "RAPIDO x FunHouse - World Pride Sunday Daytime Rave",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2385580"
+    },
+    {
+      "id": "ra:2390854",
+      "title": "RAPIDO - The World Pride Edition",
+      "date": "2026-08-02",
+      "start": "2026-08-02T15:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390854"
+    },
+    {
+      "id": "ra:2396378",
+      "title": "Our World Pride Closing - The After",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:59+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2396378"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "74251",
+      "name": "Alejandro Alvarez",
+      "count": 1
+    },
+    {
+      "id": "124086",
+      "name": "Nathalie Henriette",
+      "count": 1
+    },
+    {
+      "id": "69780",
+      "name": "Abel Aguilera",
+      "count": 1
+    },
+    {
+      "id": "148182",
+      "name": "Moussa Barcelona",
+      "count": 1
+    },
+    {
+      "id": "346",
+      "name": "Tom Stephan",
+      "count": 1
+    }
+  ]
+}

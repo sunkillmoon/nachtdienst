@@ -2,24 +2,25 @@
   "id": "34735",
   "name": "Malin Genie",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2373339",
       "title": "18 JUL - Thuishaven with Michel de Hey 10HRS",
       "date": "2026-07-18",
       "start": "2026-07-18T13:00+02:00",
       "venue": "Thuishaven",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2373339"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466262",
       "title": "Malin Genie • Elias Mazian",
       "date": "2026-07-17",
       "start": "2026-07-17T23:00+02:00",
       "venue": "Radio Radio",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466262"
     }

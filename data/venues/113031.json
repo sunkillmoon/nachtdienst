@@ -1,0 +1,20 @@
+{
+  "id": "113031",
+  "name": "Klinkenbergerplas, Oegstgeest",
+  "area": "All",
+  "lat": 52.200389,
+  "lng": 4.485364,
+  "upcoming": [
+    {
+      "id": "ra:2438726",
+      "title": "Puur Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Klinkenbergerplas, Oegstgeest",
+      "venue_id": "113031",
+      "area": "All",
+      "url": "https://ra.co/events/2438726"
+    }
+  ],
+  "past": []
+}

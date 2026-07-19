@@ -1,0 +1,20 @@
+{
+  "id": "18674",
+  "name": "Geestmerambacht",
+  "area": "All",
+  "lat": 52.691729,
+  "lng": 4.76945,
+  "upcoming": [
+    {
+      "id": "ra:2235347",
+      "title": "Liquicity Festival 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-24T11:00+02:00",
+      "venue": "Geestmerambacht",
+      "venue_id": "18674",
+      "area": "All",
+      "url": "https://ra.co/events/2235347"
+    }
+  ],
+  "past": []
+}

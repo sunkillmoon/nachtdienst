@@ -1,0 +1,71 @@
+{
+  "id": "69256",
+  "name": "Club NYX",
+  "area": "Amsterdam",
+  "lat": 52.366245,
+  "lng": 4.891344,
+  "upcoming": [
+    {
+      "id": "ra:2482246",
+      "title": "3xNYX: Milkshake AFTER",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482246"
+    },
+    {
+      "id": "ra:2475953",
+      "title": "Vodka Woensdag XXL: Night of the Diva's",
+      "date": "2026-07-29",
+      "start": "2026-07-29T21:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475953"
+    },
+    {
+      "id": "ra:2487468",
+      "title": "3xNYX: PRIDE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487468"
+    },
+    {
+      "id": "ra:2487475",
+      "title": "3xNYX: WORLD PRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487475"
+    },
+    {
+      "id": "ra:2487479",
+      "title": "3xNYX: POP-UP hosted by Prince JayJay",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487479"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2487464",
+      "title": "3xNYX: POP-UP hosted by Loena Maas",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487464"
+    }
+  ]
+}

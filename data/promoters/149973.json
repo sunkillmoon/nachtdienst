@@ -1,0 +1,39 @@
+{
+  "id": "149973",
+  "name": "Discosabotage",
+  "upcoming": [
+    {
+      "id": "ra:2475528",
+      "title": "Discosabotage summer issue 25.07.26",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475528"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "153812",
+      "name": "Luval",
+      "count": 1
+    },
+    {
+      "id": "137171",
+      "name": "Two Opposites",
+      "count": 1
+    },
+    {
+      "id": "92340",
+      "name": "atomo",
+      "count": 1
+    },
+    {
+      "id": "146378",
+      "name": "Matteo Racheli",
+      "count": 1
+    }
+  ]
+}

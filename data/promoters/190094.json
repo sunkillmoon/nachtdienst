@@ -1,0 +1,44 @@
+{
+  "id": "190094",
+  "name": "Jarred Baker",
+  "upcoming": [
+    {
+      "id": "ra:2484250",
+      "title": "Recovery Sessions: Vol 001",
+      "date": "2026-08-02",
+      "start": "2026-08-02T14:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484250"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    },
+    {
+      "id": "117418",
+      "name": "LEXII.",
+      "count": 1
+    },
+    {
+      "id": "183606",
+      "name": "Jarred Baker",
+      "count": 1
+    },
+    {
+      "id": "180639",
+      "name": "Ty Sunderland",
+      "count": 1
+    },
+    {
+      "id": "137891",
+      "name": "Emma Champagne Queen",
+      "count": 1
+    }
+  ]
+}

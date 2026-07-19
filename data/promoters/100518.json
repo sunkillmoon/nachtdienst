@@ -1,0 +1,29 @@
+{
+  "id": "100518",
+  "name": "Happy Group",
+  "upcoming": [
+    {
+      "id": "ra:2483741",
+      "title": "FLEX werken Pride Special - Amstelhaven",
+      "date": "2026-08-01",
+      "start": "2026-08-01T18:30+02:00",
+      "venue": "Amstelhaven",
+      "venue_id": "36614",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483741"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "14040",
+      "name": "LoPoll",
+      "count": 1
+    },
+    {
+      "id": "14153",
+      "name": "Radiosus",
+      "count": 1
+    }
+  ]
+}

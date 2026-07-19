@@ -1,0 +1,69 @@
+{
+  "id": "80958",
+  "name": "GEGEN",
+  "upcoming": [
+    {
+      "id": "ra:2433222",
+      "title": "RADION invites GEGEN",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433222"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "156723",
+      "name": "BOYCA",
+      "count": 1
+    },
+    {
+      "id": "11396",
+      "name": "Boris",
+      "count": 1
+    },
+    {
+      "id": "121105",
+      "name": "Juan Del Chambo",
+      "count": 1
+    },
+    {
+      "id": "157231",
+      "name": "Mila Haj Kasem",
+      "count": 1
+    },
+    {
+      "id": "70467",
+      "name": "Mar/us",
+      "count": 1
+    },
+    {
+      "id": "92932",
+      "name": "NSPERGER",
+      "count": 1
+    },
+    {
+      "id": "106196",
+      "name": "SARA",
+      "count": 1
+    },
+    {
+      "id": "105526",
+      "name": "Nymed",
+      "count": 1
+    },
+    {
+      "id": "94442",
+      "name": "Spikey Lee",
+      "count": 1
+    },
+    {
+      "id": "152642",
+      "name": "Yigit",
+      "count": 1
+    }
+  ]
+}

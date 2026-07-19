@@ -1,0 +1,74 @@
+{
+  "id": "114393",
+  "name": "MBG Productions NL",
+  "upcoming": [
+    {
+      "id": "ra:2466510",
+      "title": "Joy at the Beach",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466510"
+    },
+    {
+      "id": "ra:2475177",
+      "title": "Paige Tomlinson & Friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2475177"
+    },
+    {
+      "id": "ra:2476839",
+      "title": "JOY with Luuk van Dijk, Patrick Topping & Jazzy",
+      "date": "2026-08-16",
+      "start": "2026-08-16T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476839"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "126833",
+      "name": "Riordan",
+      "count": 1
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "94324",
+      "name": "Robbie Doherty",
+      "count": 1
+    },
+    {
+      "id": "95014",
+      "name": "Paige Tomlinson",
+      "count": 1
+    },
+    {
+      "id": "154307",
+      "name": "Entasia",
+      "count": 1
+    },
+    {
+      "id": "170185",
+      "name": "S3PPA",
+      "count": 1
+    },
+    {
+      "id": "154448",
+      "name": "Freddi",
+      "count": 1
+    }
+  ]
+}

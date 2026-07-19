@@ -1,0 +1,20 @@
+{
+  "id": "296970",
+  "name": "TBA - Transit / The Beef Chief",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2486942",
+      "title": "Soft Focus with Moreno Giordani, Nosso and Omari",
+      "date": "2026-07-24",
+      "start": "2026-07-24T19:00+02:00",
+      "venue": "TBA - Transit / The Beef Chief",
+      "venue_id": "296970",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486942"
+    }
+  ],
+  "past": []
+}

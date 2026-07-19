@@ -1,0 +1,51 @@
+{
+  "id": "188430",
+  "name": "murmur",
+  "area": "Amsterdam",
+  "lat": 52.385615,
+  "lng": 4.927931,
+  "upcoming": [
+    {
+      "id": "ra:2491363",
+      "title": "grady steele b2b ex.sses",
+      "date": "2026-07-24",
+      "start": "2026-07-24T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491363"
+    },
+    {
+      "id": "ra:2491367",
+      "title": "Sat 25 kurashi & ash's plek: caribbean cookout",
+      "date": "2026-07-25",
+      "start": "2026-07-25T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491367"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2491361",
+      "title": "le trou collective w/ rriddim, sèsè, chronic funk, b current, tristan anoi & phillintheblanks",
+      "date": "2026-07-18",
+      "start": "2026-07-18T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491361"
+    },
+    {
+      "id": "ra:2491359",
+      "title": "BVNDO & Malindi",
+      "date": "2026-07-17",
+      "start": "2026-07-17T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491359"
+    }
+  ]
+}

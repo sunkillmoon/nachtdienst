@@ -1,0 +1,20 @@
+{
+  "id": "241842",
+  "name": "Hal25",
+  "area": "Amsterdam",
+  "lat": 52.64,
+  "lng": 4.75,
+  "upcoming": [
+    {
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "venue_id": "241842",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2436135"
+    }
+  ],
+  "past": []
+}

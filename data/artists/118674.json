@@ -4,20 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-18",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
-    },
-    {
       "id": "ra:2464040",
       "title": "De Reünie",
       "date": "2026-07-19",
       "start": "2026-07-19T15:00+02:00",
       "venue": "Radio Radio",
+      "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464040"
     },
@@ -27,6 +19,7 @@
       "date": "2026-08-01",
       "start": "2026-08-01T20:00+02:00",
       "venue": "CLUB RAUM",
+      "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440421"
     },
@@ -36,9 +29,21 @@
       "date": "2026-08-16",
       "start": "2026-08-16T15:00+02:00",
       "venue": "BRET",
+      "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ]
 }

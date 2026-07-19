@@ -1,0 +1,20 @@
+{
+  "id": "296102",
+  "name": "Brewpub Reijngoud",
+  "area": "Rotterdam",
+  "lat": 51.93,
+  "lng": 4.48,
+  "upcoming": [
+    {
+      "id": "ra:2478070",
+      "title": "Dansplicht Open Air",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Brewpub Reijngoud",
+      "venue_id": "296102",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2478070"
+    }
+  ],
+  "past": []
+}

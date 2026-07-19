@@ -1,0 +1,69 @@
+{
+  "id": "74959",
+  "name": "Nachtparlement",
+  "upcoming": [
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4619",
+      "name": "Sandrien",
+      "count": 1
+    },
+    {
+      "id": "140652",
+      "name": "Hervé",
+      "count": 1
+    },
+    {
+      "id": "18524",
+      "name": "Pariah",
+      "count": 1
+    },
+    {
+      "id": "85061",
+      "name": "Ogazón",
+      "count": 1
+    },
+    {
+      "id": "95701",
+      "name": "Julie",
+      "count": 1
+    },
+    {
+      "id": "82409",
+      "name": "Jasmín",
+      "count": 1
+    },
+    {
+      "id": "74853",
+      "name": "Jesse G",
+      "count": 1
+    },
+    {
+      "id": "51386",
+      "name": "STERAC",
+      "count": 1
+    },
+    {
+      "id": "77651",
+      "name": "Rene Wise",
+      "count": 1
+    },
+    {
+      "id": "75445",
+      "name": "upsammy",
+      "count": 1
+    }
+  ]
+}

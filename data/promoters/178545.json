@@ -1,0 +1,39 @@
+{
+  "id": "178545",
+  "name": "Ouragan",
+  "upcoming": [
+    {
+      "id": "ra:2484097",
+      "title": "Ouragan takeover",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484097"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "176403",
+      "name": "Frissonn",
+      "count": 1
+    },
+    {
+      "id": "138622",
+      "name": "Giovane Filippo",
+      "count": 1
+    },
+    {
+      "id": "170995",
+      "name": "tanggero",
+      "count": 1
+    },
+    {
+      "id": "165567",
+      "name": "The Silentist",
+      "count": 1
+    }
+  ]
+}

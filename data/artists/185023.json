@@ -2,16 +2,17 @@
   "id": "185023",
   "name": "BortX",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486104",
       "title": "Traffic Jams Alley Party",
       "date": "2026-07-18",
       "start": "2026-07-18T19:00+02:00",
       "venue": "Ruis",
+      "venue_id": null,
       "area": "All",
       "url": "https://ra.co/events/2486104"
     }
-  ],
-  "past": []
+  ]
 }

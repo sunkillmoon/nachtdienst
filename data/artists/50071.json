@@ -4,11 +4,24 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",
       "date": "2026-07-18",
       "start": "2026-07-18T12:00+02:00",
       "venue": "TBA",
+      "venue_id": "259877",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2483805"
     },
@@ -18,26 +31,17 @@
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "Radio Radio",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466395"
     },
-    {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2460557",
       "title": "CLUBNACHT / Tsepo (All Night)",
       "date": "2026-07-17",
       "start": "2026-07-17T23:00+02:00",
       "venue": "NAR",
+      "venue_id": null,
       "area": "Utrecht",
       "url": "https://ra.co/events/2460557"
     }

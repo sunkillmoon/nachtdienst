@@ -1,0 +1,61 @@
+{
+  "id": "264897",
+  "name": "Paal69",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2442144",
+      "title": "Capture with Cosmic Gate & Laura van Dam",
+      "date": "2026-07-26",
+      "start": "2026-07-26T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442144"
+    },
+    {
+      "id": "ra:2492172",
+      "title": "Ambrosia Ecstatic Rave at the beach",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492172"
+    },
+    {
+      "id": "ra:2423448",
+      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423448"
+    },
+    {
+      "id": "ra:2472104",
+      "title": "House of Rekids",
+      "date": "2026-08-16",
+      "start": "2026-08-16T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472104"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2454506",
+      "title": "SOMETHINGNU",
+      "date": "2026-07-18",
+      "start": "2026-07-18T16:00+02:00",
+      "venue": "Paal69",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454506"
+    }
+  ]
+}

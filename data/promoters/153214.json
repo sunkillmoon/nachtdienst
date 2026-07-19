@@ -1,0 +1,49 @@
+{
+  "id": "153214",
+  "name": "AZOTH",
+  "upcoming": [
+    {
+      "id": "ra:2461747",
+      "title": "AZOTH Roze Woensdag",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:59+02:00",
+      "venue": "Hubert Nijmegen",
+      "venue_id": "280876",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2461747"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "156577",
+      "name": "Mars O10C",
+      "count": 1
+    },
+    {
+      "id": "105158",
+      "name": "Vuur",
+      "count": 1
+    },
+    {
+      "id": "117674",
+      "name": "Oxymore (2)",
+      "count": 1
+    },
+    {
+      "id": "75251",
+      "name": "Mary Lake",
+      "count": 1
+    },
+    {
+      "id": "90391",
+      "name": "Fais Le Beau",
+      "count": 1
+    },
+    {
+      "id": "112078",
+      "name": "Bennet (DE)",
+      "count": 1
+    }
+  ]
+}

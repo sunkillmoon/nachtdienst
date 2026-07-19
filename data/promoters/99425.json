@@ -1,0 +1,24 @@
+{
+  "id": "99425",
+  "name": "PIV",
+  "upcoming": [
+    {
+      "id": "ra:2464028",
+      "title": "Prunk ALL DAY",
+      "date": "2026-08-07",
+      "start": "2026-08-07T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2464028"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "14022",
+      "name": "Prunk",
+      "count": 1
+    }
+  ]
+}

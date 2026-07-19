@@ -1,0 +1,24 @@
+{
+  "id": "189726",
+  "name": "BREAKGLASS",
+  "upcoming": [
+    {
+      "id": "ra:2478320",
+      "title": "BREAKGLASS - Launch Party",
+      "date": "2026-07-25",
+      "start": "2026-07-25T17:00+02:00",
+      "venue": "De Roze Tanker",
+      "venue_id": "264224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478320"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "182847",
+      "name": "Xarlee",
+      "count": 1
+    }
+  ]
+}

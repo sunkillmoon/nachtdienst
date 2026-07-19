@@ -1,0 +1,74 @@
+{
+  "id": "170115",
+  "name": "Sissi's Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2488713",
+      "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488713"
+    },
+    {
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488747"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "33606",
+      "name": "Cromby",
+      "count": 1
+    },
+    {
+      "id": "168569",
+      "name": "mckelv",
+      "count": 1
+    },
+    {
+      "id": "109772",
+      "name": "CHEM:EX",
+      "count": 1
+    },
+    {
+      "id": "118888",
+      "name": "Leroy Rey",
+      "count": 1
+    },
+    {
+      "id": "137891",
+      "name": "Emma Champagne Queen",
+      "count": 1
+    },
+    {
+      "id": "9083",
+      "name": "David Vunk",
+      "count": 1
+    },
+    {
+      "id": "136324",
+      "name": "Floris Fahrenheit",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    },
+    {
+      "id": "172543",
+      "name": "Abiba Sokoto",
+      "count": 1
+    }
+  ]
+}

@@ -9,6 +9,7 @@
       "date": "2026-07-20",
       "start": "2026-07-20T13:00+02:00",
       "venue": "Muzentuin Tilburg",
+      "venue_id": "114854",
       "area": "All",
       "url": "https://ra.co/events/2453191"
     },
@@ -18,6 +19,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T18:00+02:00",
       "venue": "Hito Scheveningen",
+      "venue_id": "277782",
       "area": "The Hague",
       "url": "https://ra.co/events/2490471"
     },
@@ -27,6 +29,7 @@
       "date": "2026-08-08",
       "start": "2026-08-08T23:30+02:00",
       "venue": "Paradiso",
+      "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2375945"
     }

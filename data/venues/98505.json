@@ -1,0 +1,20 @@
+{
+  "id": "98505",
+  "name": "Hal 25",
+  "area": "All",
+  "lat": 52.637723,
+  "lng": 4.750413,
+  "upcoming": [
+    {
+      "id": "ra:2430402",
+      "title": "Digital Overdose Festival",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Hal 25",
+      "venue_id": "98505",
+      "area": "All",
+      "url": "https://ra.co/events/2430402"
+    }
+  ],
+  "past": []
+}

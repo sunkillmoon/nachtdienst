@@ -1,0 +1,104 @@
+{
+  "id": "74343",
+  "name": "Paradiso Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2474121",
+      "title": "Disco Arabesquo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474121"
+    },
+    {
+      "id": "ra:2403387",
+      "title": "Thievery Corporation 30th Anniversary Tour | Sold Out",
+      "date": "2026-07-28",
+      "start": "2026-07-28T20:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403387"
+    },
+    {
+      "id": "ra:2474087",
+      "title": "Thievery Corporation - Extra Show",
+      "date": "2026-07-29",
+      "start": "2026-07-29T19:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474087"
+    },
+    {
+      "id": "ra:2454376",
+      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454376"
+    },
+    {
+      "id": "ra:2479505",
+      "title": "HTRK",
+      "date": "2026-08-06",
+      "start": "2026-08-06T20:30+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479505"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4100",
+      "name": "Thievery Corporation",
+      "count": 2
+    },
+    {
+      "id": "116015",
+      "name": "Disco Arabesquo",
+      "count": 1
+    },
+    {
+      "id": "112784",
+      "name": "Azucy",
+      "count": 1
+    },
+    {
+      "id": "142690",
+      "name": "Bradley Skeng",
+      "count": 1
+    },
+    {
+      "id": "68",
+      "name": "Derrick Carter",
+      "count": 1
+    },
+    {
+      "id": "1016",
+      "name": "DJ Bone",
+      "count": 1
+    },
+    {
+      "id": "130751",
+      "name": "Lola Edo",
+      "count": 1
+    },
+    {
+      "id": "66630",
+      "name": "SYREETA",
+      "count": 1
+    },
+    {
+      "id": "26301",
+      "name": "HTRK",
+      "count": 1
+    }
+  ]
+}

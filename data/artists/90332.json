@@ -9,6 +9,7 @@
       "date": "2026-07-30",
       "start": "2026-07-30T20:00+02:00",
       "venue": "Café Katoen",
+      "venue_id": "124046",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476218"
     }
@@ -20,6 +21,7 @@
       "date": "2026-07-17",
       "start": "2026-07-17T23:59+02:00",
       "venue": "BASIS",
+      "venue_id": null,
       "area": "Utrecht",
       "url": "https://ra.co/events/2488741"
     }

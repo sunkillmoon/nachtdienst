@@ -1,0 +1,20 @@
+{
+  "id": "294024",
+  "name": "TBA - Treehouse NDSM",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2483822",
+      "title": "Night At Our Place: Special Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "TBA - Treehouse NDSM",
+      "venue_id": "294024",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483822"
+    }
+  ],
+  "past": []
+}

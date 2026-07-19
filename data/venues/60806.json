@@ -1,0 +1,20 @@
+{
+  "id": "60806",
+  "name": "Westerpark Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.386606,
+  "lng": 4.875296,
+  "upcoming": [
+    {
+      "id": "ra:2397110",
+      "title": "Milkshake Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T11:00+02:00",
+      "venue": "Westerpark Amsterdam",
+      "venue_id": "60806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2397110"
+    }
+  ],
+  "past": []
+}

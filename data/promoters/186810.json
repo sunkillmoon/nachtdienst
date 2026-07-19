@@ -1,0 +1,59 @@
+{
+  "id": "186810",
+  "name": "Botanic Festival",
+  "upcoming": [
+    {
+      "id": "ra:2439763",
+      "title": "Botanic Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "De Olmenhorst",
+      "venue_id": "297363",
+      "area": "All",
+      "url": "https://ra.co/events/2439763"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    },
+    {
+      "id": "1935",
+      "name": "Inland Knights",
+      "count": 1
+    },
+    {
+      "id": "84899",
+      "name": "Kléo",
+      "count": 1
+    },
+    {
+      "id": "105158",
+      "name": "Vuur",
+      "count": 1
+    },
+    {
+      "id": "171459",
+      "name": "ESTRELLA",
+      "count": 1
+    },
+    {
+      "id": "177320",
+      "name": "Deodaat",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "70230",
+      "name": "Pancratio",
+      "count": 1
+    }
+  ]
+}

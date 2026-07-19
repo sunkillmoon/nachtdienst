@@ -1,0 +1,54 @@
+{
+  "id": "139562",
+  "name": "Kinetic Festival",
+  "upcoming": [
+    {
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "venue_id": "241842",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2436135"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "87113",
+      "name": "Aiden Francis",
+      "count": 1
+    },
+    {
+      "id": "135892",
+      "name": "Amelia Leigh",
+      "count": 1
+    },
+    {
+      "id": "54907",
+      "name": "Kamma",
+      "count": 1
+    },
+    {
+      "id": "87521",
+      "name": "Marie Montexier",
+      "count": 1
+    },
+    {
+      "id": "59664",
+      "name": "Masalo",
+      "count": 1
+    },
+    {
+      "id": "104709",
+      "name": "Spray",
+      "count": 1
+    },
+    {
+      "id": "182489",
+      "name": "Trias Kinetica",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "145258",
+  "name": "NAR",
+  "upcoming": [
+    {
+      "id": "ra:2469350",
+      "title": "DE DANSVLOER / Zuennheiser & Grisha Greg",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469350"
+    },
+    {
+      "id": "ra:2469355",
+      "title": "CLUBNACHT / Ajuma (All Night)",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469355"
+    },
+    {
+      "id": "ra:2469370",
+      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469370"
+    },
+    {
+      "id": "ra:2469373",
+      "title": "PLAYGROUND / Benny Rodrigues, Nuno dos Santos",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469373"
+    },
+    {
+      "id": "ra:2469378",
+      "title": "DE DANSVLOER / DJ Hushpuppy & Hunter",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469378"
+    },
+    {
+      "id": "ra:2469382",
+      "title": "CLUBNACHT / CHEWCHEW (All Night)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469382"
+    },
+    {
+      "id": "ra:2475988",
+      "title": "DE DANSVLOER / LYLO",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475988"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107688",
+      "name": "Ajuma",
+      "count": 1
+    },
+    {
+      "id": "110946",
+      "name": "Yopo (NL)",
+      "count": 1
+    },
+    {
+      "id": "3596",
+      "name": "Serge",
+      "count": 1
+    },
+    {
+      "id": "31223",
+      "name": "Frits Wentink",
+      "count": 1
+    },
+    {
+      "id": "752",
+      "name": "Cassy",
+      "count": 1
+    },
+    {
+      "id": "3512",
+      "name": "Nuno dos Santos",
+      "count": 1
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "108167",
+      "name": "CHEWCHEW",
+      "count": 1
+    },
+    {
+      "id": "179646",
+      "name": "LYLO (NL)",
+      "count": 1
+    }
+  ]
+}

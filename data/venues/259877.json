@@ -1,0 +1,31 @@
+{
+  "id": "259877",
+  "name": "TBA",
+  "area": "Nijmegen",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2484801",
+      "title": "Drift Block Party",
+      "date": "2026-07-20",
+      "start": "2026-07-20T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2484801"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ]
+}

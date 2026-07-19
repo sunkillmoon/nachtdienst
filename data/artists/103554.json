@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485525",
-      "title": "Park Kronenburg",
-      "date": "2026-07-18",
-      "start": "2026-07-18T14:00+02:00",
-      "venue": "Kronenburgerpark",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2485525"
-    },
-    {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
       "date": "2026-08-01",
       "start": "2026-08-01T14:00+02:00",
       "venue": "Graanfabriek",
+      "venue_id": "156433",
       "area": "All",
       "url": "https://ra.co/events/2431383"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "venue_id": "296776",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    }
+  ]
 }

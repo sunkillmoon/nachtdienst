@@ -1,0 +1,29 @@
+{
+  "id": "124981",
+  "name": "Vrau",
+  "upcoming": [
+    {
+      "id": "ra:2490645",
+      "title": "BIXARIA + Vrau - CLUB CHROME",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490645"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "181564",
+      "name": "FILAIPE",
+      "count": 1
+    },
+    {
+      "id": "93547",
+      "name": "Sly Fox",
+      "count": 1
+    }
+  ]
+}

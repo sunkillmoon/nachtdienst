@@ -9,6 +9,7 @@
       "date": "2026-08-11",
       "start": "2026-08-11T23:00+02:00",
       "venue": "John Doe",
+      "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481852"
     }
@@ -20,6 +21,7 @@
       "date": "2026-07-17",
       "start": "2026-07-17T22:00+02:00",
       "venue": "Panama",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489671"
     }

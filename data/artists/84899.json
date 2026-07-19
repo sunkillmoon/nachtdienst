@@ -4,29 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2470565",
-      "title": "CLUB.RECORD X Shelter: Boat Series",
-      "date": "2026-07-18",
-      "start": "2026-07-18T14:00+02:00",
-      "venue": "Sluis Haveneiland",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2470565"
-    },
-    {
-      "id": "ra:2449821",
-      "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2449821"
-    },
-    {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
       "date": "2026-07-25",
       "start": "2026-07-25T12:00+02:00",
       "venue": "De Olmenhorst",
+      "venue_id": "297363",
       "area": "All",
       "url": "https://ra.co/events/2439763"
     },
@@ -36,9 +19,31 @@
       "date": "2026-08-08",
       "start": "2026-08-08T14:00+02:00",
       "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2449821",
+      "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449821"
+    },
+    {
+      "id": "ra:2470565",
+      "title": "CLUB.RECORD X Shelter: Boat Series",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Sluis Haveneiland",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470565"
+    }
+  ]
 }

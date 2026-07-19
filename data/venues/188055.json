@@ -1,0 +1,30 @@
+{
+  "id": "188055",
+  "name": "Ijland",
+  "area": "Amsterdam",
+  "lat": 52.41154,
+  "lng": 4.87756,
+  "upcoming": [
+    {
+      "id": "ra:2483518",
+      "title": "DnB XL meets Known Associates",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483518"
+    },
+    {
+      "id": "ra:2478267",
+      "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
+      "date": "2026-08-08",
+      "start": "2026-08-08T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478267"
+    }
+  ],
+  "past": []
+}

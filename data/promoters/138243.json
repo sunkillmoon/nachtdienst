@@ -1,0 +1,149 @@
+{
+  "id": "138243",
+  "name": "Madam Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2401519",
+      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401519"
+    },
+    {
+      "id": "ra:2401521",
+      "title": "Madam by Night invites: Papi Tut Mir Leid",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401521"
+    },
+    {
+      "id": "ra:2426260",
+      "title": "papi in Amsterdam",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426260"
+    },
+    {
+      "id": "ra:2401524",
+      "title": "Madam by Night: Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401524"
+    },
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    },
+    {
+      "id": "ra:2456900",
+      "title": "Madam by Night invites: RAINVILLE invites",
+      "date": "2026-08-08",
+      "start": "2026-08-08T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456900"
+    },
+    {
+      "id": "ra:2456902",
+      "title": "Madam by Night invites: A Divine Kaos",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456902"
+    },
+    {
+      "id": "ra:2456907",
+      "title": "Madam by Night invites: Casa Très",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456907"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "181527",
+      "name": "groovian peruvian",
+      "count": 2
+    },
+    {
+      "id": "181528",
+      "name": "mafiii",
+      "count": 2
+    },
+    {
+      "id": "91778",
+      "name": "Katopodis",
+      "count": 2
+    },
+    {
+      "id": "172543",
+      "name": "Abiba Sokoto",
+      "count": 1
+    },
+    {
+      "id": "95008",
+      "name": "DJ Tracksuit",
+      "count": 1
+    },
+    {
+      "id": "118644",
+      "name": "Nicolas Caprile",
+      "count": 1
+    },
+    {
+      "id": "64831",
+      "name": "Martien V.",
+      "count": 1
+    },
+    {
+      "id": "140301",
+      "name": "Dirk Schot",
+      "count": 1
+    },
+    {
+      "id": "89078",
+      "name": "Juliana",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    }
+  ]
+}

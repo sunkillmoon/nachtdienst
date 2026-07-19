@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2440408",
-      "title": "RAUM invites Bassiani",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440408"
-    },
-    {
       "id": "ra:2480215",
       "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",
       "date": "2026-07-25",
       "start": "2026-07-25T23:00+02:00",
       "venue": "nachbar",
+      "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480215"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2440408",
+      "title": "RAUM invites Bassiani",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440408"
+    }
+  ]
 }

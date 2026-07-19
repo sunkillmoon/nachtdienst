@@ -1,0 +1,20 @@
+{
+  "id": "248756",
+  "name": "Soulkitchen",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2466790",
+      "title": "CHANNELS x Soulkitchen",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:30+02:00",
+      "venue": "Soulkitchen",
+      "venue_id": "248756",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466790"
+    }
+  ],
+  "past": []
+}

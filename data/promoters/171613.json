@@ -1,0 +1,39 @@
+{
+  "id": "171613",
+  "name": "hito scheveningen",
+  "upcoming": [
+    {
+      "id": "ra:2490471",
+      "title": "PURE at hito",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "Hito Scheveningen",
+      "venue_id": "277782",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2490471"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "131241",
+      "name": "Loukeman",
+      "count": 1
+    },
+    {
+      "id": "96633",
+      "name": "THC",
+      "count": 1
+    },
+    {
+      "id": "48628",
+      "name": "Torus",
+      "count": 1
+    },
+    {
+      "id": "32853",
+      "name": "Evian Christ",
+      "count": 1
+    }
+  ]
+}

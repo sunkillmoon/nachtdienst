@@ -1,0 +1,109 @@
+{
+  "id": "92729",
+  "name": "Doka Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2453384",
+      "title": "Doka Summer Studio x Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453384"
+    },
+    {
+      "id": "ra:2453390",
+      "title": "Doka Summer Studio x Jaguar House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453390"
+    },
+    {
+      "id": "ra:2486663",
+      "title": "Coco Coquelicot masterclass & club night (World Pride)",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486663"
+    },
+    {
+      "id": "ra:2470216",
+      "title": "Jezabel x Doka Studio (World Pride)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470216"
+    },
+    {
+      "id": "ra:2489606",
+      "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489606"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "115969",
+      "name": "no service",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 1
+    },
+    {
+      "id": "14330",
+      "name": "Mary Olivetti",
+      "count": 1
+    },
+    {
+      "id": "114185",
+      "name": "da Graca Brothers",
+      "count": 1
+    },
+    {
+      "id": "60735",
+      "name": "Franco Strato",
+      "count": 1
+    },
+    {
+      "id": "141268",
+      "name": "Coco Coquelicot",
+      "count": 1
+    },
+    {
+      "id": "112619",
+      "name": "Shady Lady",
+      "count": 1
+    },
+    {
+      "id": "85310",
+      "name": "MMIV",
+      "count": 1
+    },
+    {
+      "id": "2897",
+      "name": "Tama Sumo",
+      "count": 1
+    },
+    {
+      "id": "115828",
+      "name": "Rob Manga",
+      "count": 1
+    }
+  ]
+}

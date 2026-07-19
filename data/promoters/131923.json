@@ -1,0 +1,94 @@
+{
+  "id": "131923",
+  "name": "RavingCharlie",
+  "upcoming": [
+    {
+      "id": "ra:2422929",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422929"
+    },
+    {
+      "id": "ra:2330518",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ Kuzio [DE] / Zeyvers / Pokedecks",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330518"
+    },
+    {
+      "id": "ra:2422934",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
+      "date": "2026-07-29",
+      "start": "2026-07-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422934"
+    },
+    {
+      "id": "ra:2422941",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / KRØVØ",
+      "date": "2026-08-05",
+      "start": "2026-08-05T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422941"
+    },
+    {
+      "id": "ra:2330521",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330521"
+    },
+    {
+      "id": "ra:2422944",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422944"
+    },
+    {
+      "id": "ra:2330520",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330520"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "129156",
+      "name": "Kuzio",
+      "count": 1
+    },
+    {
+      "id": "164212",
+      "name": "Zeyvers",
+      "count": 1
+    },
+    {
+      "id": "171619",
+      "name": "KaneLevy",
+      "count": 1
+    }
+  ]
+}

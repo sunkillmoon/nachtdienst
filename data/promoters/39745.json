@@ -1,0 +1,54 @@
+{
+  "id": "39745",
+  "name": "VERKNIPT",
+  "upcoming": [
+    {
+      "id": "ra:2454339",
+      "title": "VERKNIPT Beach Special - 19 July",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2454339"
+    },
+    {
+      "id": "ra:2466427",
+      "title": "PULSE x Diffrent All Day Long",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466427"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "86340",
+      "name": "amara",
+      "count": 1
+    },
+    {
+      "id": "138462",
+      "name": "FØSS",
+      "count": 1
+    },
+    {
+      "id": "109923",
+      "name": "Raxeller",
+      "count": 1
+    },
+    {
+      "id": "176209",
+      "name": "SANTØS",
+      "count": 1
+    },
+    {
+      "id": "89701",
+      "name": "TiTi",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "117210",
+  "name": "Parallel",
+  "upcoming": [
+    {
+      "id": "ra:2479635",
+      "title": "Ziongate",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479635"
+    },
+    {
+      "id": "ra:2485428",
+      "title": "HYPERPRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485428"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "99598",
+      "name": "Que DJ",
+      "count": 1
+    },
+    {
+      "id": "144800",
+      "name": "Lemon & Herb",
+      "count": 1
+    },
+    {
+      "id": "125220",
+      "name": "Wes Lee",
+      "count": 1
+    },
+    {
+      "id": "59345",
+      "name": "Rebelle",
+      "count": 1
+    },
+    {
+      "id": "130194",
+      "name": "DJ SEXSTASY",
+      "count": 1
+    },
+    {
+      "id": "96551",
+      "name": "Yasmin Gardezi",
+      "count": 1
+    },
+    {
+      "id": "113818",
+      "name": "angelboy",
+      "count": 1
+    },
+    {
+      "id": "143900",
+      "name": "Lara Renner",
+      "count": 1
+    }
+  ]
+}

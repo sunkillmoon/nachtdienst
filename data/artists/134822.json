@@ -2,16 +2,17 @@
   "id": "134822",
   "name": "Joe Eri",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2485555",
       "title": "Subcultuur Nachtvierdaagse",
       "date": "2026-07-18",
       "start": "2026-07-18T23:59+02:00",
       "venue": "De Lindenberg",
+      "venue_id": "80434",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2485555"
     }
-  ],
-  "past": []
+  ]
 }

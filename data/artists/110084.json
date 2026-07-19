@@ -4,31 +4,34 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485525",
-      "title": "Park Kronenburg",
-      "date": "2026-07-18",
-      "start": "2026-07-18T14:00+02:00",
-      "venue": "Kronenburgerpark",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2485525"
-    },
-    {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",
       "date": "2026-08-08",
       "start": "2026-08-08T14:00+02:00",
       "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
   ],
   "past": [
     {
+      "id": "ra:2485525",
+      "title": "Park Kronenburg",
+      "date": "2026-07-18",
+      "start": "2026-07-18T14:00+02:00",
+      "venue": "Kronenburgerpark",
+      "venue_id": "296776",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485525"
+    },
+    {
       "id": "ra:2488700",
       "title": "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian",
       "date": "2026-07-17",
       "start": "2026-07-17T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488700"
     }

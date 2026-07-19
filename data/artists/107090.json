@@ -2,16 +2,17 @@
   "id": "107090",
   "name": "Sophie Phare",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440408",
       "title": "RAUM invites Bassiani",
       "date": "2026-07-18",
       "start": "2026-07-18T23:00+02:00",
       "venue": "CLUB RAUM",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440408"
     }
-  ],
-  "past": []
+  ]
 }

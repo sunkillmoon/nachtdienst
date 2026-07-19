@@ -1,0 +1,49 @@
+{
+  "id": "172111",
+  "name": "MONO Rotterdam",
+  "upcoming": [
+    {
+      "id": "ra:2489890",
+      "title": "Carnaval Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T16:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489890"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "163073",
+      "name": "awhlkuhn",
+      "count": 1
+    },
+    {
+      "id": "158031",
+      "name": "JADE SOUL",
+      "count": 1
+    },
+    {
+      "id": "95855",
+      "name": "Nèna",
+      "count": 1
+    },
+    {
+      "id": "180223",
+      "name": "Shinshan Salazar",
+      "count": 1
+    },
+    {
+      "id": "159481",
+      "name": "T.NO",
+      "count": 1
+    },
+    {
+      "id": "173203",
+      "name": "Yucky",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "91611",
+  "name": "SubjectDetroit",
+  "upcoming": [
+    {
+      "id": "ra:2454376",
+      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454376"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112784",
+      "name": "Azucy",
+      "count": 1
+    },
+    {
+      "id": "142690",
+      "name": "Bradley Skeng",
+      "count": 1
+    },
+    {
+      "id": "68",
+      "name": "Derrick Carter",
+      "count": 1
+    },
+    {
+      "id": "1016",
+      "name": "DJ Bone",
+      "count": 1
+    },
+    {
+      "id": "130751",
+      "name": "Lola Edo",
+      "count": 1
+    },
+    {
+      "id": "66630",
+      "name": "SYREETA",
+      "count": 1
+    }
+  ]
+}

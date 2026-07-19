@@ -1,0 +1,20 @@
+{
+  "id": "34719",
+  "name": "Supperclub Cruise",
+  "area": "Amsterdam",
+  "lat": 52.372658,
+  "lng": 4.894278,
+  "upcoming": [
+    {
+      "id": "ra:2460181",
+      "title": "Love Floats",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460181"
+    }
+  ],
+  "past": []
+}

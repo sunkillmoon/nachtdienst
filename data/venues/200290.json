@@ -1,0 +1,61 @@
+{
+  "id": "200290",
+  "name": "Yellow House",
+  "area": "Amsterdam",
+  "lat": 52.3963849,
+  "lng": 4.8743906,
+  "upcoming": [
+    {
+      "id": "ra:2480519",
+      "title": "Portente Invites",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480519"
+    },
+    {
+      "id": "ra:2480522",
+      "title": "SINE OFF",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480522"
+    },
+    {
+      "id": "ra:2481029",
+      "title": "Queer Aunties presents: Aunties in Amsterdam",
+      "date": "2026-08-02",
+      "start": "2026-08-02T15:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481029"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2461593",
+      "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",
+      "date": "2026-07-18",
+      "start": "2026-07-18T19:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2461593"
+    },
+    {
+      "id": "ra:2480514",
+      "title": "HOUSE HAVENS",
+      "date": "2026-07-17",
+      "start": "2026-07-17T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480514"
+    }
+  ]
+}

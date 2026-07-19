@@ -1,0 +1,20 @@
+{
+  "id": "137362",
+  "name": "Amsterdam Central Station",
+  "area": "Amsterdam",
+  "lat": 52.378698,
+  "lng": 4.89897,
+  "upcoming": [
+    {
+      "id": "ra:2488617",
+      "title": "Tomorrowland Boat Pre Party Weekend 2",
+      "date": "2026-07-22",
+      "start": "2026-07-22T17:30+02:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488617"
+    }
+  ],
+  "past": []
+}

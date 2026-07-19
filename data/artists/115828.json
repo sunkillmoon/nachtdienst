@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2406778",
-      "title": "PALET Mini Festival",
-      "date": "2026-07-18",
-      "start": "2026-07-18T15:00+02:00",
-      "venue": "Lofi",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2406778"
-    },
-    {
       "id": "ra:2489606",
       "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",
       "date": "2026-08-01",
       "start": "2026-08-01T23:59+02:00",
       "venue": "Doka",
+      "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489606"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    }
+  ]
 }

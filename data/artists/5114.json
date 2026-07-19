@@ -4,23 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2440408",
-      "title": "RAUM invites Bassiani",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440408"
-    },
-    {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",
       "date": "2026-08-01",
       "start": "2026-08-01T11:00+02:00",
       "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458162"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2440408",
+      "title": "RAUM invites Bassiani",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440408"
+    }
+  ]
 }

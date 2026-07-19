@@ -1,0 +1,54 @@
+{
+  "id": "35463",
+  "name": "UNDRGRND Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2475467",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-19",
+      "start": "2026-07-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475467"
+    },
+    {
+      "id": "ra:2475657",
+      "title": "TRUEFORM x UNDRGRND",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475657"
+    },
+    {
+      "id": "ra:2475643",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-26",
+      "start": "2026-07-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475643"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "66028",
+      "name": "Alex Sharp",
+      "count": 2
+    },
+    {
+      "id": "34115",
+      "name": "Dunkel",
+      "count": 1
+    },
+    {
+      "id": "182197",
+      "name": "Lilin",
+      "count": 1
+    }
+  ]
+}

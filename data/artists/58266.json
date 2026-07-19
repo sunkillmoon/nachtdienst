@@ -4,20 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2406778",
-      "title": "PALET Mini Festival",
-      "date": "2026-07-18",
-      "start": "2026-07-18T15:00+02:00",
-      "venue": "Lofi",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2406778"
-    },
-    {
       "id": "ra:2251187",
       "title": "Daycare Festival",
       "date": "2026-08-08",
       "start": "2026-08-08T13:00+02:00",
       "venue": "Spoorzone",
+      "venue_id": "108349",
       "area": "All",
       "url": "https://ra.co/events/2251187"
     },
@@ -27,9 +19,21 @@
       "date": "2026-08-08",
       "start": "2026-08-08T14:00+02:00",
       "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2406778",
+      "title": "PALET Mini Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406778"
+    }
+  ]
 }

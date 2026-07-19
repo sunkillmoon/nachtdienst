@@ -4,20 +4,12 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2483805",
-      "title": "Drift op de Boot 2026",
-      "date": "2026-07-18",
-      "start": "2026-07-18T12:00+02:00",
-      "venue": "TBA",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2483805"
-    },
-    {
       "id": "ra:2443210",
       "title": "Hot Meal presents Mischluft's Hard Feelings",
       "date": "2026-08-01",
       "start": "2026-08-01T14:00+02:00",
       "venue": "Lofi",
+      "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443210"
     },
@@ -27,6 +19,7 @@
       "date": "2026-08-02",
       "start": "2026-08-02T12:00+02:00",
       "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462151"
     },
@@ -36,9 +29,21 @@
       "date": "2026-08-08",
       "start": "2026-08-08T13:00+02:00",
       "venue": "Spoorzone",
+      "venue_id": "108349",
       "area": "All",
       "url": "https://ra.co/events/2251187"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2483805",
+      "title": "Drift op de Boot 2026",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2483805"
+    }
+  ]
 }

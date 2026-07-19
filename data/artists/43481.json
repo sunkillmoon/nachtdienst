@@ -2,16 +2,17 @@
   "id": "43481",
   "name": "Musumeci",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454506",
       "title": "SOMETHINGNU",
       "date": "2026-07-18",
       "start": "2026-07-18T16:00+02:00",
       "venue": "Paal69",
+      "venue_id": null,
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454506"
     }
-  ],
-  "past": []
+  ]
 }
