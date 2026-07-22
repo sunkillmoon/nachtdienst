@@ -18,7 +18,6 @@ const state = {
   cityCentroids: [], // [{ city, lat, lng }] derived from the data, for the header label
   cities: [],        // distinct real venue.area values, for the city filter
   cityFilter: "ALL", // "ALL" or a specific venue.area; persisted
-  distanceMode: "km", // "km" | "bike" | "walk"; persisted
   map: null,
   markers: new Map(), // venueName/clusterKey -> { marker, el, venue, events }
   userMarker: null,   // maplibre Marker for the visitor's own position
@@ -26,7 +25,6 @@ const state = {
 
 // Persisted UI preferences (nachtkaart: prefix, matching auth.js).
 const LS_CITY = "nachtkaart:cityFilter";
-const LS_DISTANCE = "nachtkaart:distanceMode";
 
 function safeGetItem(key) {
   try { return localStorage.getItem(key); } catch (_) { return null; }
@@ -35,10 +33,6 @@ function safeGetItem(key) {
 const listEl = document.getElementById("eventList");
 const tickerEl = document.getElementById("tickerTrack");
 const tickerWrapEl = document.querySelector(".ticker");
-const panelEl = document.getElementById("panel");
-const panelBody = document.getElementById("panelBody");
-const panelHandleEl = document.querySelector(".panel-handle");
-const scrimEl = document.getElementById("scrim");
 const clockEl = document.getElementById("clock");
 const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
@@ -47,8 +41,6 @@ const cityFilterEl = document.getElementById("cityFilter");
 const prevDayBtn = document.getElementById("prevDay");
 const nextDayBtn = document.getElementById("nextDay");
 const geoNoticeEl = document.getElementById("geoNotice");
-const lightboxEl = document.getElementById("lightbox");
-const lightboxImgEl = document.getElementById("lightboxImg");
 
 // ---------- pure helpers ----------
 
@@ -347,21 +339,8 @@ function promotersLinkHtml(promoters) {
     .join(", ");
 }
 
-// Distance shown as raw km, or a rough travel-time estimate. No routing API:
-// straight-line distance * 1.3 (a flat detour factor for real streets) at
-// ~15 km/h cycling / ~5 km/h walking. Always ~-prefixed to read as an estimate,
-// with the km kept alongside in time modes.
-const DISTANCE_MODES = ["km", "bike", "walk"];
-const TRAVEL_SPEED_KMH = { bike: 15, walk: 5 };
-const DETOUR_FACTOR = 1.3;
-
-function travelText(km, mode) {
-  if (km == null || !isFinite(km)) return "—";
-  const kmStr = `${km.toFixed(1)} KM`;
-  if (mode === "km") return kmStr;
-  const mins = Math.round((km * DETOUR_FACTOR) / TRAVEL_SPEED_KMH[mode] * 60);
-  return `~${mins} MIN ${mode.toUpperCase()} · ${kmStr}`;
-}
+// The distance value + travel-mode estimator live in panel.js (NkPanel), shared
+// with the detail panel; the list rows just read the current-mode value.
 
 // ---------- render ----------
 
@@ -438,7 +417,7 @@ function renderList() {
         <span class="row-time">${formatTimeRange(event)}</span>
         <div class="row-title">
           <span class="row-event">${event.title}</span>
-          <span class="row-venue">${venueLinkHtml(event.venue)}<span class="row-dist">${travelText(distanceKm, state.distanceMode)}</span></span>
+          <span class="row-venue">${venueLinkHtml(event.venue)}<span class="row-dist">${window.NkPanel.distancePrimary(distanceKm)}</span></span>
           ${promoters ? `<span class="row-promoter">BY ${promoters}</span>` : ""}
         </div>
       </div>
@@ -455,12 +434,12 @@ function renderList() {
   listEl.querySelectorAll(".row").forEach((row) => {
     row.addEventListener("click", (e) => {
       if (e.target.closest("a")) return;
-      openPanel(row.dataset.id);
+      openEvent(row.dataset.id);
     });
     row.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
-        openPanel(row.dataset.id);
+        openEvent(row.dataset.id);
       }
     });
   });
@@ -468,119 +447,15 @@ function renderList() {
   syncActiveStates();
 }
 
-function openPanel(eventId) {
+function openEvent(eventId) {
   const event = state.allEvents.find((e) => e.id === eventId);
   if (!event) return;
-
-  state.selectedEventId = eventId;
-
-  const coords = getCoords();
-  const hasCoords = event.venue.lat != null && event.venue.lng != null;
-  const distanceKm = hasCoords ? haversineKm(coords.lat, coords.lng, event.venue.lat, event.venue.lng) : null;
-  const distanceStr = event.venue.location_tba ? "LOCATION TBA" : travelText(distanceKm, state.distanceMode);
-  const distanceHtml =
-    hasCoords && !event.venue.location_tba
-      ? `<a href="${mapsDirectionsUrl(event.venue.lat, event.venue.lng)}" target="_blank" rel="noopener">${distanceStr}</a>`
-      : distanceStr;
-  const venueLineSuffix = distanceStr;
-  const dmodeToggle = DISTANCE_MODES.map(
-    (m) => `<button class="dmode${state.distanceMode === m ? " active" : ""}" type="button" data-dmode="${m}">${m.toUpperCase()}</button>`
-  ).join("");
-
-  const posterInner = event.flyer_url ? `<img src="${event.flyer_url}" alt="${event.title} flyer">` : "";
-  const pickStatus = window.NachtkaartAuth.getPickStatus(event.id);
-  const isFavVenue = window.NachtkaartAuth.isFavoriteVenue(event.venue.name);
-
-  const promotersHtml = promotersLinkHtml(event.promoters);
-
-  panelBody.innerHTML = `
-    <div class="poster${event.flyer_url ? " has-image" : ""}" data-label="${posterInitials(event.title)}">${posterInner}</div>
-    <h2>${event.title}</h2>
-    <div class="venue-line">${venueLinkHtml(event.venue)} · ${venueLineSuffix}</div>
-    ${promotersHtml ? `<div class="promoter-line">BY ${promotersHtml}</div>` : ""}
-
-    <div class="facts">
-      <div><span class="k">Time</span><span class="v">${formatTimeRange(event)}</span></div>
-      <div><span class="k">Price</span><span class="v">${event.price ?? "—"}</span></div>
-      <div><span class="k">Distance</span><span class="v">${distanceHtml}</span></div>
-    </div>
-    <div class="dmode-toggle" role="group" aria-label="Distance units">${dmodeToggle}</div>
-
-    <div class="section-label">Lineup</div>
-    <div class="lineup-flow">${lineupPanelHtml(event)}</div>
-
-    <div class="section-label">Links</div>
-    <div class="links-row">
-      <a class="link-btn" href="${event.ra_url}" target="_blank" rel="noopener">RA EVENT PAGE</a>
-      <button class="link-btn${isFavVenue ? " active" : ""}" type="button" id="favVenueBtn">${isFavVenue ? "FAVORITED" : "FAVORITE VENUE"}</button>
-    </div>
-
-    <div class="rsvp-row">
-      <button class="rsvp-btn${pickStatus === "went" ? " active" : ""}" type="button" data-rsvp="went">WENT</button>
-      <button class="rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>
-    </div>
-  `;
-
-  panelBody.querySelectorAll("[data-dmode]").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      if (btn.dataset.dmode === state.distanceMode) return;
-      setDistanceMode(btn.dataset.dmode);
-      renderList();
-      openPanel(event.id); // re-render this panel so its distance updates too
-    });
+  window.NkPanel.open(event, {
+    coords: getCoords(),
+    onFlyTo: (v) => flyToVenue(v),
+    onOpen: () => { state.selectedEventId = eventId; syncActiveStates(); },
+    onClose: () => { state.selectedEventId = null; syncActiveStates(); },
   });
-
-  panelBody.querySelectorAll("[data-rsvp]").forEach((btn) => {
-    btn.addEventListener("click", async () => {
-      const status = btn.dataset.rsvp;
-      const current = window.NachtkaartAuth.getPickStatus(event.id);
-      const next = current === status ? null : status;
-      await window.NachtkaartAuth.setPick(event.id, next);
-      panelBody.querySelectorAll("[data-rsvp]").forEach((b) => {
-        b.classList.toggle("active", b.dataset.rsvp === next);
-      });
-    });
-  });
-
-  document.getElementById("favVenueBtn").addEventListener("click", async () => {
-    if (!window.NachtkaartAuth.isLoggedIn()) {
-      window.NachtkaartAuth.openLogin();
-      return;
-    }
-    await window.NachtkaartAuth.toggleFavoriteVenue(event.venue.name);
-    const nowFav = window.NachtkaartAuth.isFavoriteVenue(event.venue.name);
-    const favBtn = document.getElementById("favVenueBtn");
-    favBtn.textContent = nowFav ? "FAVORITED" : "FAVORITE VENUE";
-    favBtn.classList.toggle("active", nowFav);
-  });
-
-  if (event.flyer_url) {
-    panelBody.querySelector(".poster").addEventListener("click", () => openLightbox(event.flyer_url));
-  }
-
-  panelEl.classList.add("open");
-  panelEl.setAttribute("aria-hidden", "false");
-  scrimEl.classList.add("open");
-
-  syncActiveStates();
-  flyToVenue({ lat: event.venue.lat, lng: event.venue.lng });
-}
-
-function closePanel() {
-  panelEl.classList.remove("open");
-  panelEl.setAttribute("aria-hidden", "true");
-  scrimEl.classList.remove("open");
-  state.selectedEventId = null;
-  syncActiveStates();
-}
-
-function openLightbox(url) {
-  lightboxImgEl.src = url;
-  lightboxEl.classList.add("open");
-}
-
-function closeLightbox() {
-  lightboxEl.classList.remove("open");
 }
 
 function syncActiveStates() {
@@ -631,7 +506,7 @@ function addVenueMarker(venue) {
 
   el.addEventListener("click", () => {
     const earliest = [...venue.events].sort((a, b) => (a.start < b.start ? -1 : 1))[0];
-    openPanel(earliest.id);
+    openEvent(earliest.id);
   });
 
   const marker = new maplibregl.Marker({ element: el }).setLngLat([venue.lng, venue.lat]).addTo(state.map);
@@ -754,12 +629,6 @@ function stepDate(delta) {
   renderForSelectedDate();
 }
 
-function setDistanceMode(mode) {
-  if (!DISTANCE_MODES.includes(mode)) return;
-  state.distanceMode = mode;
-  try { localStorage.setItem(LS_DISTANCE, mode); } catch (_) {}
-}
-
 function setCityFilter(city) {
   state.cityFilter = city;
   try { localStorage.setItem(LS_CITY, city); } catch (_) {}
@@ -790,30 +659,6 @@ function onDatePickerChange() {
   renderForSelectedDate();
 }
 
-function wirePanelDrag() {
-  let startY = null;
-
-  panelHandleEl.addEventListener("touchstart", (e) => {
-    startY = e.touches[0].clientY;
-    panelEl.style.transition = "none";
-  });
-
-  panelHandleEl.addEventListener("touchmove", (e) => {
-    if (startY == null) return;
-    const delta = Math.max(0, e.touches[0].clientY - startY);
-    panelEl.style.transform = `translateY(${delta}px)`;
-  });
-
-  panelHandleEl.addEventListener("touchend", (e) => {
-    if (startY == null) return;
-    const delta = Math.max(0, e.changedTouches[0].clientY - startY);
-    panelEl.style.transition = "";
-    panelEl.style.transform = "";
-    startY = null;
-    if (delta > 60) closePanel();
-  });
-}
-
 async function init() {
   let allEvents = [];
   let venuesMeta = {};
@@ -837,11 +682,9 @@ async function init() {
   state.cities = [...new Set(allEvents.map((e) => e.venue.area).filter((a) => a && a !== "All"))].sort();
   state.todayDate = currentNightAmsterdam();
 
-  // Restore persisted preferences; ignore a stored city that isn't in this data.
+  // Restore persisted city filter; ignore a stored city that isn't in this data.
   const savedCity = safeGetItem(LS_CITY);
   state.cityFilter = savedCity && state.cities.includes(savedCity) ? savedCity : "ALL";
-  const savedMode = safeGetItem(LS_DISTANCE);
-  state.distanceMode = DISTANCE_MODES.includes(savedMode) ? savedMode : "km";
   buildCityFilterOptions();
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
@@ -872,22 +715,11 @@ if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.
 datePickerEl.addEventListener("change", onDatePickerChange);
 cityFilterEl.addEventListener("change", () => setCityFilter(cityFilterEl.value));
 
-scrimEl.addEventListener("click", closePanel);
-document.getElementById("panelClose").addEventListener("click", closePanel);
-lightboxEl.addEventListener("click", closeLightbox);
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape" && panelEl.classList.contains("open")) closePanel();
-});
-wirePanelDrag();
-
 matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", () => startTickerAnimation());
 
-// Re-render the open panel's pick/favorite state (and the list, since a pick
-// there could change ordering in a future step) whenever login state changes.
-window.NachtkaartAuth.onAuthChange(() => {
-  if (panelEl.classList.contains("open") && state.selectedEventId) {
-    openPanel(state.selectedEventId);
-  }
-});
+// When the distance mode changes (tapping the panel's DISTANCE tile), re-render
+// the list rows so their distance value follows. The panel manages its own
+// re-render + auth-driven refresh (see panel.js).
+window.NkPanel.onDistanceChange(() => renderList());
 
 init();

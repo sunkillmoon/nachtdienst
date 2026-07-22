@@ -11,7 +11,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-ASSETS = ["app.js", "artist.js", "venue.js", "promoter.js", "profile.js", "auth.js", "manifest.json"]
+ASSETS = ["app.js", "artist.js", "venue.js", "promoter.js", "profile.js", "panel.js", "auth.js", "manifest.json"]
 HTML_FILES = ["index.html", "artist.html", "venue.html", "promoter.html", "profile.html"]
 
 

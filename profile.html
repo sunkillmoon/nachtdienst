@@ -134,6 +134,7 @@
 
   /* event rows: date + title + venue */
   .gig{
+    cursor:pointer;
     display:grid; grid-template-columns:96px 1fr; gap:12px;
     padding:10px 16px; border-bottom:1px solid var(--line);
     background:var(--surface); align-items:baseline;
@@ -148,6 +149,7 @@
   .gig-sub{ font-size:11px; color:var(--text-dim); }
   .gig-sub a{ color:var(--accent); }
   .gig.unresolved .gig-title{ color:var(--text-dim); }
+  .gig.custom, .gig.unresolved{ cursor:default; }
 
   .load-more{
     display:block; width:calc(100% - 32px); margin:10px 16px 0;
@@ -316,6 +318,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.110.6"></script>
 <script src="auth.js?v=3ec58af5df"></script>
+<script src="panel.js"></script>
 <script src="profile.js?v=897bf8b56f"></script>
 </body>
 </html>

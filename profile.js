@@ -84,6 +84,7 @@ async function loadEventIndex(pickIds) {
 
 // ---------- row renderers ----------
 
+let profileGigs = [];
 function eventRowHtml(pick) {
   const ev = eventIndex.get(pick.event_id);
   if (!ev) {
@@ -92,14 +93,17 @@ function eventRowHtml(pick) {
       `<span class="gig-title">${esc(pick.event_id)}</span>` +
       `<span class="gig-sub">EVENT NO LONGER IN RANGE</span></span></div>`;
   }
-  const title = ev.ra_url
-    ? `<a class="gig-title" href="${esc(ev.ra_url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
-    : `<span class="gig-title">${esc(ev.title)}</span>`;
+  const gi = profileGigs.push({
+    id: pick.event_id, title: ev.title, date: ev.date,
+    venue: ev.venue, venue_id: ev.venue_id, area: ev.area, url: ev.ra_url,
+  }) - 1;
   const venue = ev.venue_id != null
     ? `<a href="venue.html?id=${encodeURIComponent(ev.venue_id)}">${esc(ev.venue)}</a>`
     : esc(ev.venue || "");
   const sub = `<span class="gig-sub">${venue}${ev.area ? " · " + esc(ev.area) : ""}</span>`;
-  return `<div class="gig"><span class="gig-date">${formatDate(ev.date)}</span><span>${title}${sub}</span></div>`;
+  return `<div class="gig" role="button" tabindex="0" data-gi="${gi}">` +
+    `<span class="gig-date">${formatDate(ev.date)}</span>` +
+    `<span><span class="gig-title">${esc(ev.title)}</span>${sub}</span></div>`;
 }
 
 // Diary entry. Linked names where an RA id is present, plain text otherwise.
@@ -470,6 +474,7 @@ async function render() {
     renderFollowingArtists(),
     renderFollowingPromoters(),
   ]);
+  profileGigs = [];
   mainEl.innerHTML =
     followingArtists +
     followingPromoters +
@@ -524,7 +529,16 @@ mainEl.addEventListener("click", async (e) => {
     await render();
     return;
   }
-  if (e.target.closest("[data-loadmore]")) appendWent();
+  if (e.target.closest("[data-loadmore]")) { appendWent(); return; }
+  // A resolved WENT / WANT-TO-GO row opens the shared panel (unless a link inside).
+  const gigRow = e.target.closest("[data-gi]");
+  if (gigRow && !e.target.closest("a")) window.NkPanel.openGig(profileGigs[Number(gigRow.dataset.gi)]);
+});
+
+mainEl.addEventListener("keydown", (e) => {
+  if (e.key !== "Enter" && e.key !== " ") return;
+  const gigRow = e.target.closest("[data-gi]");
+  if (gigRow) { e.preventDefault(); window.NkPanel.openGig(profileGigs[Number(gigRow.dataset.gi)]); }
 });
 
 let lastLoggedIn = null;

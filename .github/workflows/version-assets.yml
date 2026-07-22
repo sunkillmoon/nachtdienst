@@ -9,6 +9,7 @@ on:
       - venue.js
       - promoter.js
       - profile.js
+      - panel.js
       - auth.js
       - manifest.json
       - index.html

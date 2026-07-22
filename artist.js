@@ -61,23 +61,35 @@ function renderLinks(artist) {
   });
 }
 
-// Row (not a wrapping <a>) so the title can link to RA and the venue to its own
-// page as separate, valid links.
+// A gig row opens the shared detail panel (RA link lives inside it now); the
+// venue still links out to its own page.
+let gigs = [];
 function gigHtml(gig) {
-  const title = gig.url
-    ? `<a class="gig-title" href="${esc(gig.url)}" target="_blank" rel="noopener">${esc(gig.title)}</a>`
-    : `<span class="gig-title">${esc(gig.title)}</span>`;
+  const gi = gigs.push(gig) - 1;
   const venue = gig.venue_id
     ? `<a href="venue.html?id=${encodeURIComponent(gig.venue_id)}">${esc(gig.venue)}</a>`
     : esc(gig.venue);
   return `
-    <div class="gig">
+    <div class="gig" role="button" tabindex="0" data-gi="${gi}">
       <span class="gig-date">${formatGigDate(gig.date)}</span>
       <span>
-        ${title}
+        <span class="gig-title">${esc(gig.title)}</span>
         <span class="gig-venue">${venue}${gig.area ? " · " + esc(gig.area) : ""}</span>
       </span>
     </div>`;
+}
+
+function wireGigRows(el) {
+  el.addEventListener("click", (e) => {
+    if (e.target.closest("a")) return; // let the venue link work
+    const row = e.target.closest("[data-gi]");
+    if (row) window.NkPanel.openGig(gigs[Number(row.dataset.gi)]);
+  });
+  el.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const row = e.target.closest("[data-gi]");
+    if (row) { e.preventDefault(); window.NkPanel.openGig(gigs[Number(row.dataset.gi)]); }
+  });
 }
 
 function renderSection(label, gigs) {
@@ -110,9 +122,11 @@ async function init() {
   document.title = `NACHTKAART — ${artist.name}`;
   nameEl.textContent = artist.name;
   renderLinks(artist);
+  gigs = [];
   mainEl.innerHTML =
     renderSection("UPCOMING", artist.upcoming || []) +
     renderSection("PAST", artist.past || []);
+  wireGigRows(mainEl);
 
   // Re-render FOLLOW/FOLLOWING once the real session/follow-state resolves
   // (async, so the first paint above assumes logged-out) and on later changes.

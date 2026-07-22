@@ -46,16 +46,28 @@ function topArtistsHtml(list) {
   return `<div class="section-label">OFTEN BOOKS</div><div class="chips">${chips}</div>`;
 }
 
-// A promoter's gig links out to the RA event (title) and to the venue page.
+// A promoter's gig row opens the shared detail panel; the venue links out.
+let gigs = [];
 function gigHtml(gig) {
-  const title = gig.url
-    ? `<a class="gig-title" href="${esc(gig.url)}" target="_blank" rel="noopener">${esc(gig.title)}</a>`
-    : `<span class="gig-title">${esc(gig.title)}</span>`;
+  const gi = gigs.push(gig) - 1;
   const venue = gig.venue_id
     ? `<a href="venue.html?id=${encodeURIComponent(gig.venue_id)}">${esc(gig.venue)}</a>`
     : esc(gig.venue);
   const sub = `<span class="gig-sub">${venue}${gig.area ? " · " + esc(gig.area) : ""}</span>`;
-  return `<div class="gig"><span class="gig-date">${formatGigDate(gig.date)}</span><span>${title}${sub}</span></div>`;
+  return `<div class="gig" role="button" tabindex="0" data-gi="${gi}"><span class="gig-date">${formatGigDate(gig.date)}</span><span><span class="gig-title">${esc(gig.title)}</span>${sub}</span></div>`;
+}
+
+function wireGigRows(el) {
+  el.addEventListener("click", (e) => {
+    if (e.target.closest("a")) return;
+    const row = e.target.closest("[data-gi]");
+    if (row) window.NkPanel.openGig(gigs[Number(row.dataset.gi)]);
+  });
+  el.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const row = e.target.closest("[data-gi]");
+    if (row) { e.preventDefault(); window.NkPanel.openGig(gigs[Number(row.dataset.gi)]); }
+  });
 }
 
 function renderSection(label, gigs) {
@@ -87,10 +99,12 @@ async function init() {
   document.title = `NACHTKAART — ${promoter.name}`;
   nameEl.textContent = promoter.name;
   renderFollow(promoter);
+  gigs = [];
   mainEl.innerHTML =
     topArtistsHtml(promoter.top_artists) +
     renderSection("UPCOMING", promoter.upcoming || []) +
     renderSection("PAST", promoter.past || []);
+  wireGigRows(mainEl);
 
   window.NachtkaartAuth.onAuthChange(() => renderFollow(promoter));
 }

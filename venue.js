@@ -60,13 +60,25 @@ function renderMap(venue) {
   new maplibregl.Marker({ element: el }).setLngLat([venue.lng, venue.lat]).addTo(map);
 }
 
-// On the venue page the venue is the subject, so a gig just shows date + title
-// (title links out to the RA event page).
+// On the venue page the venue is the subject, so a gig row shows date + title
+// and opens the shared detail panel (RA link lives inside it).
+let gigs = [];
 function gigHtml(gig) {
-  const title = gig.url
-    ? `<a class="gig-title" href="${esc(gig.url)}" target="_blank" rel="noopener">${esc(gig.title)}</a>`
-    : `<span class="gig-title">${esc(gig.title)}</span>`;
-  return `<div class="gig"><span class="gig-date">${formatGigDate(gig.date)}</span><span>${title}</span></div>`;
+  const gi = gigs.push(gig) - 1;
+  return `<div class="gig" role="button" tabindex="0" data-gi="${gi}"><span class="gig-date">${formatGigDate(gig.date)}</span><span><span class="gig-title">${esc(gig.title)}</span></span></div>`;
+}
+
+function wireGigRows(el) {
+  el.addEventListener("click", (e) => {
+    if (e.target.closest("a")) return;
+    const row = e.target.closest("[data-gi]");
+    if (row) window.NkPanel.openGig(gigs[Number(row.dataset.gi)]);
+  });
+  el.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const row = e.target.closest("[data-gi]");
+    if (row) { e.preventDefault(); window.NkPanel.openGig(gigs[Number(row.dataset.gi)]); }
+  });
 }
 
 function renderSection(label, gigs) {
@@ -100,9 +112,11 @@ async function init() {
   cityEl.textContent = venue.area && venue.area !== "All" ? venue.area : "";
   renderFavorite(venue);
   renderMap(venue);
+  gigs = [];
   mainEl.innerHTML =
     renderSection("UPCOMING", venue.upcoming || []) +
     renderSection("PAST", venue.past || []);
+  wireGigRows(mainEl);
 
   // Re-render FAVORITE once the real session/favorite-state resolves and on later changes.
   window.NachtkaartAuth.onAuthChange(() => renderFavorite(venue));
