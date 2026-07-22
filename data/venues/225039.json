@@ -14,6 +14,16 @@
       "venue_id": "225039",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2475528"
+    },
+    {
+      "id": "ra:2469432",
+      "title": "CLUB CONTACT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T22:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469432"
     }
   ],
   "past": []

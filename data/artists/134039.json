@@ -2,7 +2,28 @@
   "id": "134039",
   "name": "Eva Vrijdag",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2461883",
+      "title": "Back To Base at the Beach - Daria Kolosova",
+      "date": "2026-09-05",
+      "start": "2026-09-05T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2461883"
+    },
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485525",

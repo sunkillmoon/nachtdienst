@@ -14,6 +14,76 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2383086"
+    },
+    {
+      "id": "ra:2399040",
+      "title": "PIP Season Opening",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399040"
+    },
+    {
+      "id": "ra:2399043",
+      "title": "PIP presents Wildcard",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399043"
+    },
+    {
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
+    },
+    {
+      "id": "ra:2490543",
+      "title": "Afra invites",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2490543"
+    },
+    {
+      "id": "ra:2438473",
+      "title": "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2438473"
+    },
+    {
+      "id": "ra:2399032",
+      "title": "PIP meets Stingray 313 / mul/ANNA / KI/IP",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399032"
+    },
+    {
+      "id": "ra:2402455",
+      "title": "Lobster invites",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402455"
     }
   ],
   "past": [

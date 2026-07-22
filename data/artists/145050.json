@@ -1,0 +1,28 @@
+{
+  "id": "145050",
+  "name": "Jay Dee",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    }
+  ],
+  "past": []
+}

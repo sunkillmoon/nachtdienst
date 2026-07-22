@@ -1,0 +1,20 @@
+{
+  "id": "293197",
+  "name": "TBA - Rotterdam Various Locations",
+  "area": "Rotterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2449960",
+      "title": "Conflux Festival 2026",
+      "date": "2026-09-24",
+      "start": "2026-09-24T19:00+02:00",
+      "venue": "TBA - Rotterdam Various Locations",
+      "venue_id": "293197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2449960"
+    }
+  ],
+  "past": []
+}

@@ -6,36 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2475467",
-      "title": "No Sundays Without Techno",
-      "date": "2026-07-19",
-      "start": "2026-07-19T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475467"
-    },
-    {
-      "id": "ra:2477905",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-07-20",
-      "start": "2026-07-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477905"
-    },
-    {
-      "id": "ra:2481778",
-      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481778"
-    },
-    {
       "id": "ra:2444417",
       "title": "RAVELAND: Hard Techno & Hard Bounce w/ Darshan [AUS], Arabesque [AUS], Aztlan Zidonia [MEX]",
       "date": "2026-07-22",
@@ -86,6 +56,16 @@
       "url": "https://ra.co/events/2475643"
     },
     {
+      "id": "ra:2493300",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
+      "date": "2026-07-27",
+      "start": "2026-07-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493300"
+    },
+    {
       "id": "ra:2460722",
       "title": "[PHANTOM GROUP] KLUBNACHT",
       "date": "2026-07-28",
@@ -114,6 +94,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2494712",
+      "title": "Pride Special x UNDRGRND - Techno Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494712"
     },
     {
       "id": "ra:2492701",
@@ -214,9 +204,169 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2482085"
+    },
+    {
+      "id": "ra:2446379",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446379"
+    },
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
+    },
+    {
+      "id": "ra:2438871",
+      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [COL]",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2438871"
+    },
+    {
+      "id": "ra:2482088",
+      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+      "date": "2026-08-25",
+      "start": "2026-08-25T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482088"
+    },
+    {
+      "id": "ra:2446382",
+      "title": "RAVELAND x 20kHz: Hard Techno & Hard Bounce",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446382"
+    },
+    {
+      "id": "ra:2477399",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477399"
+    },
+    {
+      "id": "ra:2482164",
+      "title": "[PHANTOM GROUP] KLUBNACHT w TRANZ",
+      "date": "2026-09-01",
+      "start": "2026-09-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482164"
+    },
+    {
+      "id": "ra:2464345",
+      "title": "John Doe CLUB presents: Mosher",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464345"
+    },
+    {
+      "id": "ra:2482190",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss",
+      "date": "2026-09-08",
+      "start": "2026-09-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482190"
+    },
+    {
+      "id": "ra:2482192",
+      "title": "[PHANTOM GROUP] B2B EDITION",
+      "date": "2026-09-15",
+      "start": "2026-09-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482192"
+    },
+    {
+      "id": "ra:2482194",
+      "title": "[PHANTOM GROUP] KLUBNACHT w Jøel",
+      "date": "2026-09-22",
+      "start": "2026-09-22T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482194"
+    },
+    {
+      "id": "ra:2482196",
+      "title": "[PHANTOM GROUP] KLUBNACHT w Mørris",
+      "date": "2026-09-29",
+      "start": "2026-09-29T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482196"
+    },
+    {
+      "id": "ra:2482165",
+      "title": "[PHANTOM GROUP] KLUBNACHT w KLEØ",
+      "date": "2026-10-06",
+      "start": "2026-10-06T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482165"
     }
   ],
   "past": [
+    {
+      "id": "ra:2481778",
+      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481778"
+    },
+    {
+      "id": "ra:2477905",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477905"
+    },
+    {
+      "id": "ra:2475467",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-19",
+      "start": "2026-07-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475467"
+    },
     {
       "id": "ra:2477362",
       "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",

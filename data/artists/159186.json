@@ -2,7 +2,8 @@
   "id": "159186",
   "name": "MIESØ",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487470",
       "title": "Rave in the Park",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487470"
     }
-  ],
-  "past": []
+  ]
 }

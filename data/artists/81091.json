@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2466421"
     },
     {
+      "id": "ra:2473182",
+      "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473182"
+    },
+    {
       "id": "ra:2484250",
       "title": "Recovery Sessions: Vol 001",
       "date": "2026-08-02",
@@ -42,6 +52,36 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2375945"
+    },
+    {
+      "id": "ra:2493371",
+      "title": "Sissi's Friday with Doppelgang Invites: DJ Split, Jenny Cara",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493371"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2373343",
+      "title": "Het Festival vol. 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2373343"
     }
   ],
   "past": [

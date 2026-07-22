@@ -1,0 +1,30 @@
+{
+  "id": "12609",
+  "name": "Strijkviertel",
+  "area": "Utrecht",
+  "lat": 52.078838,
+  "lng": 5.058777,
+  "upcoming": [
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2309796",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2309796"
+    }
+  ],
+  "past": []
+}

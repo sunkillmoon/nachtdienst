@@ -3,16 +3,6 @@
   "name": "Thuishaven",
   "upcoming": [
     {
-      "id": "ra:2407224",
-      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2407224"
-    },
-    {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
       "date": "2026-07-25",
@@ -81,9 +71,70 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443517"
+    },
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
+    },
+    {
+      "id": "ra:2458433",
+      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
+      "date": "2026-09-06",
+      "start": "2026-09-06T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458433"
+    },
+    {
+      "id": "ra:2451241",
+      "title": "13 SEP - Thuishaven with MENESIX 10HRS",
+      "date": "2026-09-13",
+      "start": "2026-09-13T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451241"
+    },
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    },
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    }
+  ],
   "top_artists": [
     {
       "id": "92873",
@@ -96,43 +147,43 @@
       "count": 2
     },
     {
-      "id": "42186",
-      "name": "Philou Louzolo",
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 2
+    },
+    {
+      "id": "103655",
+      "name": "DAWS",
       "count": 1
     },
     {
-      "id": "152684",
-      "name": "Ammé",
+      "id": "176575",
+      "name": "KINETIKS",
       "count": 1
     },
     {
-      "id": "117966",
-      "name": "Joëlla Jackson",
+      "id": "102180",
+      "name": "Papa Nugs",
       "count": 1
     },
     {
-      "id": "79065",
-      "name": "Maqossa",
+      "id": "119784",
+      "name": "Paperkraft",
       "count": 1
     },
     {
-      "id": "156254",
-      "name": "TINS",
+      "id": "95084",
+      "name": "PNNY",
       "count": 1
     },
     {
-      "id": "179646",
-      "name": "LYLO (NL)",
+      "id": "112784",
+      "name": "Azucy",
       "count": 1
     },
     {
-      "id": "136770",
-      "name": "Lyrae",
-      "count": 1
-    },
-    {
-      "id": "125726",
-      "name": "WOLTERS",
+      "id": "185706",
+      "name": "JUUL",
       "count": 1
     }
   ]

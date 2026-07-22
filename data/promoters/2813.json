@@ -33,16 +33,6 @@
       "url": "https://ra.co/events/2490639"
     },
     {
-      "id": "ra:2490643",
-      "title": "Striptopia - Club Chrome",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490643"
-    },
-    {
       "id": "ra:2490653",
       "title": "Pyxls x HD Heaven - CLUB CHROME",
       "date": "2026-08-07",
@@ -53,6 +43,16 @@
       "url": "https://ra.co/events/2490653"
     },
     {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    },
+    {
       "id": "ra:2490645",
       "title": "BIXARIA + Vrau - CLUB CHROME",
       "date": "2026-08-08",
@@ -61,6 +61,66 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490645"
+    },
+    {
+      "id": "ra:2490626",
+      "title": "Six Sex PRESENTS",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490626"
+    },
+    {
+      "id": "ra:2490680",
+      "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490680"
+    },
+    {
+      "id": "ra:2490686",
+      "title": "TR/ST – Live",
+      "date": "2026-09-13",
+      "start": "2026-09-13T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490686"
+    },
+    {
+      "id": "ra:2490676",
+      "title": "SIDEQUEST",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490676"
+    },
+    {
+      "id": "ra:2402813",
+      "title": "Curated by Break",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2402813"
+    },
+    {
+      "id": "ra:2490699",
+      "title": "Hard Attack",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490699"
     }
   ],
   "past": [],
@@ -68,6 +128,16 @@
     {
       "id": "112642",
       "name": "Milian Dolla",
+      "count": 1
+    },
+    {
+      "id": "88748",
+      "name": "Hannah Diamond",
+      "count": 1
+    },
+    {
+      "id": "74611",
+      "name": "LYZZA",
       "count": 1
     },
     {
@@ -93,16 +163,6 @@
     {
       "id": "123484",
       "name": "Shaw Cain",
-      "count": 1
-    },
-    {
-      "id": "88748",
-      "name": "Hannah Diamond",
-      "count": 1
-    },
-    {
-      "id": "74611",
-      "name": "LYZZA",
       "count": 1
     },
     {

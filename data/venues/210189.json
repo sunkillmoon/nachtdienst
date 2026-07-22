@@ -66,6 +66,16 @@
       "url": "https://ra.co/events/2469382"
     },
     {
+      "id": "ra:2495209",
+      "title": "Fluff Disco",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2495209"
+    },
+    {
       "id": "ra:2475988",
       "title": "DE DANSVLOER / LYLO",
       "date": "2026-08-06",
@@ -74,6 +84,26 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2373343",
+      "title": "Het Festival vol. 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2373343"
+    },
+    {
+      "id": "ra:2378523",
+      "title": "De After",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2378523"
     }
   ],
   "past": [

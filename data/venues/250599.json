@@ -1,0 +1,70 @@
+{
+  "id": "250599",
+  "name": "San Francisco",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2494137",
+      "title": "Loradeniz",
+      "date": "2026-07-23",
+      "start": "2026-07-23T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494137"
+    },
+    {
+      "id": "ra:2494138",
+      "title": "Bevan",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494138"
+    },
+    {
+      "id": "ra:2494140",
+      "title": "Passion Deez",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494140"
+    },
+    {
+      "id": "ra:2494142",
+      "title": "Weather Report",
+      "date": "2026-07-26",
+      "start": "2026-07-26T20:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494142"
+    },
+    {
+      "id": "ra:2494143",
+      "title": "Dita",
+      "date": "2026-07-30",
+      "start": "2026-07-30T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494143"
+    },
+    {
+      "id": "ra:2494147",
+      "title": "Parris & Postman",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494147"
+    }
+  ],
+  "past": []
+}

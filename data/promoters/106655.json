@@ -1,0 +1,34 @@
+{
+  "id": "106655",
+  "name": "BackToBase.official",
+  "upcoming": [
+    {
+      "id": "ra:2461883",
+      "title": "Back To Base at the Beach - Daria Kolosova",
+      "date": "2026-09-05",
+      "start": "2026-09-05T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2461883"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "76574",
+      "name": "Daria Kolosova",
+      "count": 1
+    },
+    {
+      "id": "134039",
+      "name": "Eva Vrijdag",
+      "count": 1
+    },
+    {
+      "id": "169174",
+      "name": "Fiene",
+      "count": 1
+    }
+  ]
+}

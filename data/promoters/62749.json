@@ -61,10 +61,25 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433222"
+    },
+    {
+      "id": "ra:2494196",
+      "title": "GEGEN AMSTERDAM",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494196"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "70467",
+      "name": "Mar/us",
+      "count": 2
+    },
     {
       "id": "75946",
       "name": "AgainstMe",
@@ -108,11 +123,6 @@
     {
       "id": "51198",
       "name": "Phase Fatale",
-      "count": 1
-    },
-    {
-      "id": "77651",
-      "name": "Rene Wise",
       "count": 1
     }
   ]

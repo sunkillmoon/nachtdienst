@@ -32,6 +32,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2480350",
+      "title": "Draaimolen Opening Concert 2026",
+      "date": "2026-09-03",
+      "start": "2026-09-03T20:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2480350"
     }
   ],
   "past": []

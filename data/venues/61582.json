@@ -1,0 +1,31 @@
+{
+  "id": "61582",
+  "name": "Sportpark Riekerhaven",
+  "area": "Amsterdam",
+  "lat": 52.343751,
+  "lng": 4.838839,
+  "upcoming": [
+    {
+      "id": "ra:2274406",
+      "title": "PARELS VAN DE STAD 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "venue_id": "61582",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2274406"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2402609",
+      "title": "No Art Opening Festival",
+      "date": "2026-07-18",
+      "start": "2026-07-18T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2402609"
+    }
+  ]
+}

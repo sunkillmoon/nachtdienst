@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2430662",
-      "title": "EAST Techno Summer",
+      "title": "EAST Techno - Summer Edition",
       "date": "2026-07-25",
       "start": "2026-07-25T23:00+02:00",
       "venue": "Club Up",
@@ -32,6 +32,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492896"
+    },
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
     }
   ],
   "past": [

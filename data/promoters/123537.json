@@ -1,0 +1,18 @@
+{
+  "id": "123537",
+  "name": "Anjunabeats",
+  "upcoming": [
+    {
+      "id": "ra:2371018",
+      "title": "Anjunabeats at Zandvoort beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2371018"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

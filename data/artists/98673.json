@@ -12,6 +12,16 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2442144"
+    },
+    {
+      "id": "ra:2494445",
+      "title": "RESONANT - DE NACHT VAN STRIJP-S 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2494445"
     }
   ],
   "past": []

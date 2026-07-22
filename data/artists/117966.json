@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
       "date": "2026-07-19",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2407224"
     }
-  ],
-  "past": []
+  ]
 }

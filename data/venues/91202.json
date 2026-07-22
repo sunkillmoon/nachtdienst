@@ -74,6 +74,26 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433222"
+    },
+    {
+      "id": "ra:2479292",
+      "title": "Vault All Vinyl WKNDR | Night | RADION",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479292"
+    },
+    {
+      "id": "ra:2494196",
+      "title": "GEGEN AMSTERDAM",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494196"
     }
   ],
   "past": [

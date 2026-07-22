@@ -32,6 +32,26 @@
       "venue_id": "108349",
       "area": "All",
       "url": "https://ra.co/events/2251187"
+    },
+    {
+      "id": "ra:2436233",
+      "title": "Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436233"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
     }
   ],
   "past": []

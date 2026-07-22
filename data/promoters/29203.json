@@ -11,10 +11,25 @@
       "venue_id": "98505",
       "area": "All",
       "url": "https://ra.co/events/2430402"
+    },
+    {
+      "id": "ra:2480696",
+      "title": "Multigroove presents: NoXa Invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480696"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "78987",
+      "name": "Pavo",
+      "count": 2
+    },
     {
       "id": "82835",
       "name": "Analog Kitchen",
@@ -31,13 +46,18 @@
       "count": 1
     },
     {
-      "id": "78987",
-      "name": "Pavo",
+      "id": "149191",
+      "name": "Ruffian",
       "count": 1
     },
     {
-      "id": "149191",
-      "name": "Ruffian",
+      "id": "154466",
+      "name": "Buzz Fuzz",
+      "count": 1
+    },
+    {
+      "id": "80480",
+      "name": "Luna (1)",
       "count": 1
     }
   ]

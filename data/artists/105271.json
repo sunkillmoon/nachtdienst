@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2464040",
-      "title": "De Reünie",
-      "date": "2026-07-19",
-      "start": "2026-07-19T15:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464040"
-    },
-    {
       "id": "ra:2462151",
       "title": "TILLATEC invites: KNIT + VESELKA",
       "date": "2026-08-02",
@@ -32,7 +22,28 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
+    },
+    {
+      "id": "ra:2471468",
+      "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2471468"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    }
+  ]
 }

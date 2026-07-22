@@ -11,10 +11,25 @@
       "venue_id": "113031",
       "area": "All",
       "url": "https://ra.co/events/2438726"
+    },
+    {
+      "id": "ra:2415305",
+      "title": "Spätkauf Amersfoort",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Fluor",
+      "venue_id": "108756",
+      "area": "All",
+      "url": "https://ra.co/events/2415305"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "124248",
+      "name": "Rini Berlini",
+      "count": 2
+    },
     {
       "id": "8570",
       "name": "Klaudia Gawlas",
@@ -38,11 +53,6 @@
     {
       "id": "76660",
       "name": "LAAT",
-      "count": 1
-    },
-    {
-      "id": "124248",
-      "name": "Rini Berlini",
       "count": 1
     },
     {

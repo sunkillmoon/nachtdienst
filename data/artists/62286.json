@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453191",
-      "title": "Holy Pink 2026",
-      "date": "2026-07-20",
-      "start": "2026-07-20T13:00+02:00",
-      "venue": "Muzentuin Tilburg",
-      "venue_id": "114854",
-      "area": "All",
-      "url": "https://ra.co/events/2453191"
-    },
-    {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
       "date": "2026-07-29",
@@ -42,7 +32,28 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464194"
+    },
+    {
+      "id": "ra:2484345",
+      "title": "PULSE invites Herrensauna",
+      "date": "2026-10-10",
+      "start": "2026-10-10T22:00+02:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2484345"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "venue_id": "114854",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    }
+  ]
 }

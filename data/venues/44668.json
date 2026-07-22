@@ -24,6 +24,36 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480551"
+    },
+    {
+      "id": "ra:2476119",
+      "title": "Common_Ground: Corren Cavini All Night Long",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476119"
+    },
+    {
+      "id": "ra:2477038",
+      "title": "Ópalo - 4YR Anniversary",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477038"
+    },
+    {
+      "id": "ra:2471398",
+      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471398"
     }
   ],
   "past": [

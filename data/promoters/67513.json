@@ -11,8 +11,79 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479656"
+    },
+    {
+      "id": "ra:2458317",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458317"
+    },
+    {
+      "id": "ra:2458327",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
+      "date": "2026-08-29",
+      "start": "2026-08-30T05:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458327"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "89167",
+      "name": "A.M. Project",
+      "count": 1
+    },
+    {
+      "id": "17316",
+      "name": "Brawther",
+      "count": 1
+    },
+    {
+      "id": "1513",
+      "name": "Prosumer",
+      "count": 1
+    },
+    {
+      "id": "37122",
+      "name": "Larry De Kat",
+      "count": 1
+    },
+    {
+      "id": "60770",
+      "name": "Nathalie Seres",
+      "count": 1
+    },
+    {
+      "id": "25203",
+      "name": "Samuel Deep",
+      "count": 1
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "82251",
+      "name": "Sanja",
+      "count": 1
+    },
+    {
+      "id": "5957",
+      "name": "Sonja Moonear",
+      "count": 1
+    },
+    {
+      "id": "27262",
+      "name": "Tristan da Cunha",
+      "count": 1
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": "38746",
+  "name": "Give Soul",
+  "upcoming": [
+    {
+      "id": "ra:2436412",
+      "title": "Give Soul at the Beach - August",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436412"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "55005",
+      "name": "Karim Soliman",
+      "count": 1
+    },
+    {
+      "id": "148310",
+      "name": "Job de Jong",
+      "count": 1
+    },
+    {
+      "id": "163734",
+      "name": "Nigel Hey",
+      "count": 1
+    },
+    {
+      "id": "146113",
+      "name": "Stefan Meser",
+      "count": 1
+    },
+    {
+      "id": "6454",
+      "name": "DAF",
+      "count": 1
+    },
+    {
+      "id": "102981",
+      "name": "Tommy Phillips",
+      "count": 1
+    }
+  ]
+}

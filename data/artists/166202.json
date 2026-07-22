@@ -2,7 +2,18 @@
   "id": "166202",
   "name": "KAKI (GE)",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2490622",
+      "title": "AFTER DARK // ROTTERDAM",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490622"
+    }
+  ],
   "past": [
     {
       "id": "ra:2437578",

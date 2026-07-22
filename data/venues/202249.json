@@ -44,6 +44,36 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2355301"
+    },
+    {
+      "id": "ra:2493683",
+      "title": "Side to Side",
+      "date": "2026-09-12",
+      "start": "2026-09-12T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493683"
+    },
+    {
+      "id": "ra:2473511",
+      "title": "Space Society",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473511"
+    },
+    {
+      "id": "ra:2433282",
+      "title": "Closer presents Miss Melera Mitch de Klein Thysma",
+      "date": "2026-10-03",
+      "start": "2026-10-03T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433282"
     }
   ],
   "past": [

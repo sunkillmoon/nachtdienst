@@ -1,0 +1,28 @@
+{
+  "id": "37122",
+  "name": "Larry De Kat",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2476146",
+      "title": "Jesse Maas curates",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476146"
+    },
+    {
+      "id": "ra:2458317",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458317"
+    }
+  ],
+  "past": []
+}

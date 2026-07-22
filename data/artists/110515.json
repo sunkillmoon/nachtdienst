@@ -12,6 +12,46 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
+    },
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
     }
   ],
   "past": []

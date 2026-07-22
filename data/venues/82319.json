@@ -1,0 +1,20 @@
+{
+  "id": "82319",
+  "name": "Evoluon",
+  "area": "Eindhoven",
+  "lat": 51.443603,
+  "lng": 5.446692,
+  "upcoming": [
+    {
+      "id": "ra:2373015",
+      "title": "Lost Frequencies - Open Air (3 Hour Set)",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "Evoluon",
+      "venue_id": "82319",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2373015"
+    }
+  ],
+  "past": []
+}

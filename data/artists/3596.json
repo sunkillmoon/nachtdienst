@@ -12,6 +12,26 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2469370"
+    },
+    {
+      "id": "ra:2492189",
+      "title": "Interdimensional Transmissions x Clone Records",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2492189"
+    },
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
     }
   ],
   "past": []

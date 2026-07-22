@@ -1,0 +1,40 @@
+{
+  "id": "290812",
+  "name": "Popei",
+  "area": "All",
+  "lat": 51.45,
+  "lng": 5.46,
+  "upcoming": [
+    {
+      "id": "ra:2494445",
+      "title": "RESONANT - DE NACHT VAN STRIJP-S 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2494445"
+    },
+    {
+      "id": "ra:2484681",
+      "title": "WE ARE BACK - Indoor Festival",
+      "date": "2026-10-03",
+      "start": "2026-10-03T19:30+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2484681"
+    },
+    {
+      "id": "ra:2484688",
+      "title": "WE ARE BACK - Club Night - Remy Unger 3hr set",
+      "date": "2026-10-10",
+      "start": "2026-10-10T21:00+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2484688"
+    }
+  ],
+  "past": []
+}

@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": 52.070498,
   "lng": 4.3007,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2391088",
       "title": "ECLECTIK",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2391088"
     }
-  ],
-  "past": []
+  ]
 }

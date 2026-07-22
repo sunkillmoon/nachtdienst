@@ -34,7 +34,7 @@
     },
     {
       "id": "ra:2440421",
-      "title": "12HRS Adonis x SPIELRAUM",
+      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
       "date": "2026-08-01",
       "start": "2026-08-01T20:00+02:00",
       "venue": "CLUB RAUM",
@@ -71,10 +71,45 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440426"
+    },
+    {
+      "id": "ra:2486464",
+      "title": "RAUM invites PAX-ROMANA 12HRS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486464"
+    },
+    {
+      "id": "ra:2494226",
+      "title": "KI/KI's Dirty Thirty",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494226"
+    },
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "118674",
+      "name": "TWIENA",
+      "count": 2
+    },
     {
       "id": "84884",
       "name": "Afra",
@@ -118,11 +153,6 @@
     {
       "id": "78418",
       "name": "Manu Miran",
-      "count": 1
-    },
-    {
-      "id": "110767",
-      "name": "mayo (NL)",
       "count": 1
     }
   ]

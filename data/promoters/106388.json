@@ -1,0 +1,44 @@
+{
+  "id": "106388",
+  "name": "Dissident",
+  "upcoming": [
+    {
+      "id": "ra:2461530",
+      "title": "Dissident",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2461530"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "113818",
+      "name": "angelboy",
+      "count": 1
+    },
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "90854",
+      "name": "Carly Zeng",
+      "count": 1
+    },
+    {
+      "id": "83875",
+      "name": "Cryptofauna",
+      "count": 1
+    },
+    {
+      "id": "74953",
+      "name": "marum",
+      "count": 1
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 {
   "id": "176787",
   "name": "Mia Banks",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492154",
       "title": "Mia's HOUSE of DISCO - Vierdaagse feesten",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2492154"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "170850",

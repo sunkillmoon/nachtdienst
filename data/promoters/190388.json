@@ -1,0 +1,44 @@
+{
+  "id": "190388",
+  "name": "JN Events",
+  "upcoming": [
+    {
+      "id": "ra:2488123",
+      "title": "At The River Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "De Maaskantine",
+      "venue_id": "297148",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2488123"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "155654",
+      "name": "select motion",
+      "count": 1
+    },
+    {
+      "id": "23597",
+      "name": "Jeff Moore",
+      "count": 1
+    },
+    {
+      "id": "148928",
+      "name": "Ben Diggins",
+      "count": 1
+    },
+    {
+      "id": "89137",
+      "name": "Lo Fidelity dj's",
+      "count": 1
+    },
+    {
+      "id": "72480",
+      "name": "Dienaar",
+      "count": 1
+    }
+  ]
+}

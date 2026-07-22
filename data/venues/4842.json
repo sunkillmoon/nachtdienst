@@ -34,6 +34,36 @@
       "venue_id": "4842",
       "area": "Utrecht",
       "url": "https://ra.co/events/2488649"
+    },
+    {
+      "id": "ra:2488650",
+      "title": "Musical Rave",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:30+02:00",
+      "venue": "EKKO",
+      "venue_id": "4842",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488650"
+    },
+    {
+      "id": "ra:2488654",
+      "title": "Housewarming",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "EKKO",
+      "venue_id": "4842",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488654"
+    },
+    {
+      "id": "ra:2489646",
+      "title": "Club EKKO",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:30+02:00",
+      "venue": "EKKO",
+      "venue_id": "4842",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2489646"
     }
   ],
   "past": [

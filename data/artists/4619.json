@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453191",
-      "title": "Holy Pink 2026",
-      "date": "2026-07-20",
-      "start": "2026-07-20T13:00+02:00",
-      "venue": "Muzentuin Tilburg",
-      "venue_id": "114854",
-      "area": "All",
-      "url": "https://ra.co/events/2453191"
-    },
-    {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
       "date": "2026-07-29",
@@ -62,7 +52,38 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2491613",
+      "title": "Delsin: 30 Years Anniversary",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491613"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "venue_id": "114854",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    }
+  ]
 }

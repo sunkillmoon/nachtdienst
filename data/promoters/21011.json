@@ -3,16 +3,6 @@
   "name": "Woodstock69",
   "upcoming": [
     {
-      "id": "ra:2419387",
-      "title": "Benwal (ALL DAY LONG) [sold out]",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2419387"
-    },
-    {
       "id": "ra:2329951",
       "title": "Chris Stussy at the beach [sold out]",
       "date": "2026-08-02",
@@ -21,10 +11,81 @@
       "venue_id": "10632",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2329951"
+    },
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
+    },
+    {
+      "id": "ra:2471234",
+      "title": "Dixon b2b Jimi Jules + Gizem",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471234"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2419387",
+      "title": "Benwal (ALL DAY LONG) [sold out]",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2419387"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "62077",
+      "name": "Chris Stussy",
+      "count": 1
+    },
+    {
+      "id": "37323",
+      "name": "Palms Trax",
+      "count": 1
+    },
+    {
+      "id": "54907",
+      "name": "Kamma",
+      "count": 1
+    },
+    {
+      "id": "59664",
+      "name": "Masalo",
+      "count": 1
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
+      "count": 1
+    },
+    {
+      "id": "758",
+      "name": "Dixon",
+      "count": 1
+    },
+    {
+      "id": "38599",
+      "name": "Jimi Jules",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 1
+    },
     {
       "id": "109046",
       "name": "Benwal",
@@ -33,11 +94,6 @@
     {
       "id": "97432",
       "name": "Mathijs Smit",
-      "count": 1
-    },
-    {
-      "id": "62077",
-      "name": "Chris Stussy",
       "count": 1
     }
   ]

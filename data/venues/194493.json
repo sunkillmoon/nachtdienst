@@ -6,6 +6,16 @@
   "lng": 4.903617,
   "upcoming": [
     {
+      "id": "ra:2494173",
+      "title": "Baile Trama",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494173"
+    },
+    {
       "id": "ra:2479635",
       "title": "Ziongate",
       "date": "2026-07-25",
@@ -24,6 +34,26 @@
       "venue_id": "194493",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2485428"
+    },
+    {
+      "id": "ra:2494170",
+      "title": "DESCENDANTS",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494170"
+    },
+    {
+      "id": "ra:2413490",
+      "title": "BRONKA HATES AMSTERDAM",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2413490"
     }
   ],
   "past": []

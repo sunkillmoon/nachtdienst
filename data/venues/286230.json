@@ -1,0 +1,20 @@
+{
+  "id": "286230",
+  "name": "Kabelfabriek",
+  "area": "The Hague",
+  "lat": 52,
+  "lng": 4.37,
+  "upcoming": [
+    {
+      "id": "ra:2380229",
+      "title": "Cluster Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Kabelfabriek",
+      "venue_id": "286230",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2380229"
+    }
+  ],
+  "past": []
+}

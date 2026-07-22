@@ -1,0 +1,20 @@
+{
+  "id": "70008",
+  "name": "Willemeen",
+  "area": "All",
+  "lat": 51.984255,
+  "lng": 5.905299,
+  "upcoming": [
+    {
+      "id": "ra:2463764",
+      "title": "Ondergang II",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Willemeen",
+      "venue_id": "70008",
+      "area": "All",
+      "url": "https://ra.co/events/2463764"
+    }
+  ],
+  "past": []
+}

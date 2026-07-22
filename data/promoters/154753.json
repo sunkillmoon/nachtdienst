@@ -1,0 +1,24 @@
+{
+  "id": "154753",
+  "name": "Full Circle Talent",
+  "upcoming": [
+    {
+      "id": "ra:2467073",
+      "title": "Distant Beach with Mees Salomé & Friends",
+      "date": "2026-08-29",
+      "start": "2026-08-29T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2467073"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "82863",
+      "name": "Mees Salomé",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "157230",
+  "name": "Cher Semain",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479246",
+      "title": "TOFFLER presents Nacho Scoppa and friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479246"
+    },
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    }
+  ],
+  "past": []
+}

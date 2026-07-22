@@ -91,6 +91,46 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456907"
+    },
+    {
+      "id": "ra:2456910",
+      "title": "Madam by Night invites: Dive Deep Melodic Nights Vol. V",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456910"
+    },
+    {
+      "id": "ra:2456912",
+      "title": "Madam by Night invites: Milan Fernandes b2b Overhoff, Frequency George, LUME",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456912"
+    },
+    {
+      "id": "ra:2456939",
+      "title": "Madam by Night invites: Simon Kidzoo, Ramon Rivé, Ella Noar",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456939"
+    },
+    {
+      "id": "ra:2456940",
+      "title": "Madam by Night invites: Mea Culpa",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456940"
     }
   ],
   "past": [],

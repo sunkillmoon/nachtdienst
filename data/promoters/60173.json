@@ -1,0 +1,69 @@
+{
+  "id": "60173",
+  "name": "Basic Grooves",
+  "upcoming": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "67356",
+      "name": "999999999",
+      "count": 1
+    },
+    {
+      "id": "103515",
+      "name": "Aldonna",
+      "count": 1
+    },
+    {
+      "id": "148310",
+      "name": "Job de Jong",
+      "count": 1
+    },
+    {
+      "id": "96369",
+      "name": "Bastienne",
+      "count": 1
+    },
+    {
+      "id": "106848",
+      "name": "bebe bad",
+      "count": 1
+    },
+    {
+      "id": "64325",
+      "name": "Ben Techy",
+      "count": 1
+    },
+    {
+      "id": "128932",
+      "name": "bullet tooth",
+      "count": 1
+    },
+    {
+      "id": "50379",
+      "name": "Locklead",
+      "count": 1
+    },
+    {
+      "id": "76212",
+      "name": "Cynthia Spiering",
+      "count": 1
+    },
+    {
+      "id": "76574",
+      "name": "Daria Kolosova",
+      "count": 1
+    }
+  ]
+}

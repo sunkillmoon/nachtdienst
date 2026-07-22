@@ -2,7 +2,8 @@
   "id": "2690",
   "name": "Darko Esser",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488231",
       "title": "BALANS X THE LOW END",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2488231"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "id": "123751",
+  "name": "HOWL WORLDWIDE",
+  "upcoming": [
+    {
+      "id": "ra:2478169",
+      "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478169"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "146919",
+      "name": "ASHTREY",
+      "count": 1
+    },
+    {
+      "id": "40349",
+      "name": "Faustin",
+      "count": 1
+    },
+    {
+      "id": "89686",
+      "name": "MarcelDune",
+      "count": 1
+    },
+    {
+      "id": "113146",
+      "name": "Ms.G",
+      "count": 1
+    },
+    {
+      "id": "150873",
+      "name": "RayRay",
+      "count": 1
+    },
+    {
+      "id": "75389",
+      "name": "Samantha Togni",
+      "count": 1
+    },
+    {
+      "id": "73341",
+      "name": "Schacke",
+      "count": 1
+    }
+  ]
+}

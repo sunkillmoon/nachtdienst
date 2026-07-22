@@ -1,0 +1,30 @@
+{
+  "id": "274196",
+  "name": "Waterhouse Studios",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2494892",
+      "title": "Liquid Air",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494892"
+    },
+    {
+      "id": "ra:2490217",
+      "title": "For The Rhythm presents: Fort Riddim Vol. 1",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490217"
+    }
+  ],
+  "past": []
+}

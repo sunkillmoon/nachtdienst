@@ -1,0 +1,48 @@
+{
+  "id": "88056",
+  "name": "Boss Priester",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
+    },
+    {
+      "id": "ra:2476143",
+      "title": "Boss Priester b2b Kepler (all night)",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476143"
+    },
+    {
+      "id": "ra:2466215",
+      "title": "TOFFLER presents Boss Priester and friends",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466215"
+    },
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
+    }
+  ],
+  "past": []
+}

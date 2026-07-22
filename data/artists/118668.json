@@ -32,6 +32,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490449"
+    },
+    {
+      "id": "ra:2488594",
+      "title": "Flo Masse • Kyra Khaldi • Same Faces",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488594"
     }
   ],
   "past": [

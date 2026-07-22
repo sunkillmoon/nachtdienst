@@ -42,6 +42,56 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    },
+    {
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
+    },
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2484681",
+      "title": "WE ARE BACK - Indoor Festival",
+      "date": "2026-10-03",
+      "start": "2026-10-03T19:30+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2484681"
     }
   ],
   "past": []

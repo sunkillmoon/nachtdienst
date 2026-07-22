@@ -1,0 +1,40 @@
+{
+  "id": "7861",
+  "name": "013 Poppodium",
+  "area": "All",
+  "lat": 51.557648,
+  "lng": 5.093004,
+  "upcoming": [
+    {
+      "id": "ra:2480350",
+      "title": "Draaimolen Opening Concert 2026",
+      "date": "2026-09-03",
+      "start": "2026-09-03T20:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2480350"
+    },
+    {
+      "id": "ra:2370218",
+      "title": "HIGH TEA Tilburg x SUBQUAKE",
+      "date": "2026-09-05",
+      "start": "2026-09-05T14:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2370218"
+    },
+    {
+      "id": "ra:2342711",
+      "title": "Daft Funk Live",
+      "date": "2026-09-29",
+      "start": "2026-09-29T19:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2342711"
+    }
+  ],
+  "past": []
+}

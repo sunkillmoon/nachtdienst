@@ -1,0 +1,29 @@
+{
+  "id": "190392",
+  "name": "For The Rhythm",
+  "upcoming": [
+    {
+      "id": "ra:2490217",
+      "title": "For The Rhythm presents: Fort Riddim Vol. 1",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490217"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "176943",
+      "name": "Manscream",
+      "count": 1
+    },
+    {
+      "id": "130570",
+      "name": "Gibbo",
+      "count": 1
+    }
+  ]
+}

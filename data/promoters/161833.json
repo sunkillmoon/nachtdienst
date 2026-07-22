@@ -81,6 +81,106 @@
       "venue_id": "275116",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469971"
+    },
+    {
+      "id": "ra:2469972",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗩𝗘𝗡𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469972"
+    },
+    {
+      "id": "ra:2469973",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗩𝗘𝗡𝗧𝗛 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469973"
+    },
+    {
+      "id": "ra:2469977",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗜𝗡𝗔𝗟 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469977"
+    },
+    {
+      "id": "ra:2469982",
+      "title": "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗜𝗡𝗔𝗟 𝗪𝗔𝗩𝗘",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469982"
+    },
+    {
+      "id": "ra:2469600",
+      "title": "𝗖𝗘𝗟𝗘𝗕𝗥𝗔𝗧𝗜𝗡𝗚 𝗟𝗜𝗙𝗘 - 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗕𝗔𝗖𝗞",
+      "date": "2026-09-05",
+      "start": "2026-09-05T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469600"
+    },
+    {
+      "id": "ra:2469611",
+      "title": "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469611"
+    },
+    {
+      "id": "ra:2469663",
+      "title": "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469663"
+    },
+    {
+      "id": "ra:2469667",
+      "title": "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes",
+      "date": "2026-09-18",
+      "start": "2026-09-18T20:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469667"
+    },
+    {
+      "id": "ra:2469672",
+      "title": "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469672"
+    },
+    {
+      "id": "ra:2469676",
+      "title": "2 Year Anniversary - Old School R&B • Hip Hop • Latin • Caribbean vibes",
+      "date": "2026-09-26",
+      "start": "2026-09-26T21:00+02:00",
+      "venue": "Club Leidse",
+      "venue_id": "275116",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469676"
     }
   ],
   "past": [],
@@ -88,12 +188,12 @@
     {
       "id": "20172",
       "name": "Rishi Romero",
-      "count": 8
+      "count": 17
     },
     {
       "id": "127606",
       "name": "Oscar Osorio",
-      "count": 8
+      "count": 17
     }
   ]
 }

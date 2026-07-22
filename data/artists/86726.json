@@ -1,0 +1,28 @@
+{
+  "id": "86726",
+  "name": "Jordan Brando",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
+    }
+  ],
+  "past": []
+}

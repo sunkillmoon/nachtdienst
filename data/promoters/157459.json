@@ -1,0 +1,54 @@
+{
+  "id": "157459",
+  "name": "SevenEight78",
+  "upcoming": [
+    {
+      "id": "ra:2493594",
+      "title": "SevenEight78",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493594"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "3250",
+      "name": "Nakadia",
+      "count": 1
+    },
+    {
+      "id": "129261",
+      "name": "Phil-o",
+      "count": 1
+    },
+    {
+      "id": "106485",
+      "name": "rebrånded",
+      "count": 1
+    },
+    {
+      "id": "128901",
+      "name": "Caelestis",
+      "count": 1
+    },
+    {
+      "id": "128902",
+      "name": "Vale.T",
+      "count": 1
+    },
+    {
+      "id": "134473",
+      "name": "Robert De Neer",
+      "count": 1
+    },
+    {
+      "id": "174192",
+      "name": "Tiki Masawa",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,28 @@
   "id": "137079",
   "name": "BLNK",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2437906",
+      "title": "22-08-2026 H7 FESTIVAL // AMSTERDAM",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437906"
+    },
+    {
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479794"
+    }
+  ],
   "past": [
     {
       "id": "ra:2397048",

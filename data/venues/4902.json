@@ -1,0 +1,40 @@
+{
+  "id": "4902",
+  "name": "Maassilo",
+  "area": "Rotterdam",
+  "lat": 51.898051,
+  "lng": 4.494994,
+  "upcoming": [
+    {
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479794"
+    },
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    },
+    {
+      "id": "ra:2479799",
+      "title": "BØĘRY All Night Long",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479799"
+    }
+  ],
+  "past": []
+}

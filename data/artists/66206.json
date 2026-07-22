@@ -12,6 +12,46 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2481979",
+      "title": "THUISHONK",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481979"
+    },
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    },
+    {
+      "id": "ra:2324563",
+      "title": "Outdoor Stereo 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Julianapark Hoorn",
+      "venue_id": "33038",
+      "area": "All",
+      "url": "https://ra.co/events/2324563"
+    },
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
     }
   ],
   "past": []

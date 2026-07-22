@@ -61,6 +61,36 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445865"
+    },
+    {
+      "id": "ra:2446379",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446379"
+    },
+    {
+      "id": "ra:2438871",
+      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [COL]",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2438871"
+    },
+    {
+      "id": "ra:2446382",
+      "title": "RAVELAND x 20kHz: Hard Techno & Hard Bounce",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446382"
     }
   ],
   "past": [],
@@ -68,6 +98,11 @@
     {
       "id": "103744",
       "name": "Robin Hastings",
+      "count": 2
+    },
+    {
+      "id": "116203",
+      "name": "Mischa Duncan",
       "count": 2
     },
     {
@@ -93,11 +128,6 @@
     {
       "id": "95957",
       "name": "Divain",
-      "count": 1
-    },
-    {
-      "id": "116203",
-      "name": "Mischa Duncan",
       "count": 1
     },
     {

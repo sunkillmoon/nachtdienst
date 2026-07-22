@@ -1,0 +1,28 @@
+{
+  "id": "61599",
+  "name": "Obskur",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    }
+  ],
+  "past": []
+}

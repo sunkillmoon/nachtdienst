@@ -1,0 +1,28 @@
+{
+  "id": "3469",
+  "name": "Claudio PRC",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479325",
+      "title": "Vault Sessions All Vinyl WKNDR | Afterhours | De Fik Garden",
+      "date": "2026-08-30",
+      "start": "2026-08-30T09:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479325"
+    },
+    {
+      "id": "ra:2491613",
+      "title": "Delsin: 30 Years Anniversary",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491613"
+    }
+  ],
+  "past": []
+}

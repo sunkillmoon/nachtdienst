@@ -1,0 +1,18 @@
+{
+  "id": "185485",
+  "name": "Mad Music Hub",
+  "upcoming": [
+    {
+      "id": "ra:2462689",
+      "title": "Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

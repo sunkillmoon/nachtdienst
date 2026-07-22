@@ -53,6 +53,26 @@
       "url": "https://ra.co/events/2464920"
     },
     {
+      "id": "ra:2494092",
+      "title": "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494092"
+    },
+    {
+      "id": "ra:2494096",
+      "title": "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494096"
+    },
+    {
       "id": "ra:2489462",
       "title": "BeHaerd BO.02 - Purposely Connect",
       "date": "2026-08-09",
@@ -61,10 +81,70 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489462"
+    },
+    {
+      "id": "ra:2494099",
+      "title": "Cousin, baby ganoush b2b Nèna, Sandor",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494099"
+    },
+    {
+      "id": "ra:2494101",
+      "title": "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494101"
+    },
+    {
+      "id": "ra:2494102",
+      "title": "co-curation by smother: smother, DJ MELL G, tba",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494102"
+    },
+    {
+      "id": "ra:2494104",
+      "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494104"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "14996",
+      "name": "Amz",
+      "count": 2
+    },
+    {
+      "id": "82947",
+      "name": "Sandor",
+      "count": 2
+    },
+    {
+      "id": "95855",
+      "name": "Nèna",
+      "count": 2
+    },
+    {
+      "id": "106207",
+      "name": "Sarkawt Hamad",
+      "count": 2
+    },
     {
       "id": "91943",
       "name": "Lola Haro",
@@ -81,38 +161,18 @@
       "count": 1
     },
     {
-      "id": "90252",
-      "name": "RHR",
+      "id": "86340",
+      "name": "amara",
       "count": 1
     },
     {
-      "id": "78696",
-      "name": "SHERELLE",
+      "id": "155509",
+      "name": "BARROSKINI",
       "count": 1
     },
     {
-      "id": "14996",
-      "name": "Amz",
-      "count": 1
-    },
-    {
-      "id": "119255",
-      "name": "Mia Koden",
-      "count": 1
-    },
-    {
-      "id": "55090",
-      "name": "Sir Spyro",
-      "count": 1
-    },
-    {
-      "id": "70611",
-      "name": "CCL",
-      "count": 1
-    },
-    {
-      "id": "165704",
-      "name": "dirtydms",
+      "id": "123252",
+      "name": "Nsasi",
       "count": 1
     }
   ]

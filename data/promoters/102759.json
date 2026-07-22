@@ -1,0 +1,59 @@
+{
+  "id": "102759",
+  "name": "PAX-ROMANA",
+  "upcoming": [
+    {
+      "id": "ra:2486464",
+      "title": "RAUM invites PAX-ROMANA 12HRS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486464"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "60129",
+      "name": "Altinbas",
+      "count": 1
+    },
+    {
+      "id": "103304",
+      "name": "Delano Legito",
+      "count": 1
+    },
+    {
+      "id": "93138",
+      "name": "BELLA (NL)",
+      "count": 1
+    },
+    {
+      "id": "143900",
+      "name": "Lara Renner",
+      "count": 1
+    },
+    {
+      "id": "807",
+      "name": "Shinedoe",
+      "count": 1
+    },
+    {
+      "id": "24079",
+      "name": "Tijana T",
+      "count": 1
+    },
+    {
+      "id": "37738",
+      "name": "Tripeo",
+      "count": 1
+    },
+    {
+      "id": "19093",
+      "name": "Voiski",
+      "count": 1
+    }
+  ]
+}

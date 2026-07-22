@@ -12,6 +12,16 @@
       "venue_id": "101595",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2417587"
+    },
+    {
+      "id": "ra:2480568",
+      "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2480568"
     }
   ],
   "past": []

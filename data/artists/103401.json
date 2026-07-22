@@ -42,6 +42,16 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488552"
+    },
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
     }
   ],
   "past": []

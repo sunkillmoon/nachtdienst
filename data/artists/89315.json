@@ -1,0 +1,48 @@
+{
+  "id": "89315",
+  "name": "Remy Unger",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    },
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    },
+    {
+      "id": "ra:2484688",
+      "title": "WE ARE BACK - Club Night - Remy Unger 3hr set",
+      "date": "2026-10-10",
+      "start": "2026-10-10T21:00+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2484688"
+    }
+  ],
+  "past": []
+}

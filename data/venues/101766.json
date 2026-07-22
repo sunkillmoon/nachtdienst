@@ -84,6 +84,96 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2479458"
+    },
+    {
+      "id": "ra:2478412",
+      "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478412"
+    },
+    {
+      "id": "ra:2478403",
+      "title": "BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478403"
+    },
+    {
+      "id": "ra:2480568",
+      "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2480568"
+    },
+    {
+      "id": "ra:2470297",
+      "title": "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2470297"
+    },
+    {
+      "id": "ra:2471468",
+      "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2471468"
+    },
+    {
+      "id": "ra:2490556",
+      "title": "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2490556"
+    },
+    {
+      "id": "ra:2476052",
+      "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2476052"
+    },
+    {
+      "id": "ra:2481410",
+      "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2481410"
+    },
+    {
+      "id": "ra:2485729",
+      "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2485729"
     }
   ],
   "past": [

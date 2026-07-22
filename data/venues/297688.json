@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 51.85,
   "lng": 5.86,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492154",
       "title": "Mia's HOUSE of DISCO - Vierdaagse feesten",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2492154"
     }
-  ],
-  "past": []
+  ]
 }

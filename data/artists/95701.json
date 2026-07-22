@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466755",
-      "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466755"
-    },
-    {
       "id": "ra:2363397",
       "title": "Het Systeem",
       "date": "2026-08-07",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2363397"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466755",
+      "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466755"
+    }
+  ]
 }

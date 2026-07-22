@@ -12,6 +12,36 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454757"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2468479",
+      "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2468479"
     }
   ],
   "past": []

@@ -44,6 +44,16 @@
       "venue_id": "264128",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2396378"
+    },
+    {
+      "id": "ra:2410327",
+      "title": "Menno Solo - The Reunion",
+      "date": "2026-09-12",
+      "start": "2026-09-12T20:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2410327"
     }
   ],
   "past": []

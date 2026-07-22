@@ -11,6 +11,16 @@
       "venue_id": "141886",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476013"
+    },
+    {
+      "id": "ra:2477038",
+      "title": "Ópalo - 4YR Anniversary",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477038"
     }
   ],
   "past": [],
@@ -18,6 +28,11 @@
     {
       "id": "151965",
       "name": "LevyM",
+      "count": 2
+    },
+    {
+      "id": "136147",
+      "name": "Romy Janssen",
       "count": 1
     }
   ]

@@ -11,6 +11,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2381846"
+    },
+    {
+      "id": "ra:2370218",
+      "title": "HIGH TEA Tilburg x SUBQUAKE",
+      "date": "2026-09-05",
+      "start": "2026-09-05T14:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2370218"
     }
   ],
   "past": [],
@@ -53,6 +63,16 @@
     {
       "id": "129370",
       "name": "Shockone",
+      "count": 1
+    },
+    {
+      "id": "127152",
+      "name": "Fox Stevenson",
+      "count": 1
+    },
+    {
+      "id": "125109",
+      "name": "Mozey",
       "count": 1
     }
   ]

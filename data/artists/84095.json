@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2471661",
+      "title": "Orphic #21 Pride Takeover",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471661"
+    },
+    {
+      "id": "ra:2479292",
+      "title": "Vault All Vinyl WKNDR | Night | RADION",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479292"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2483651",
       "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
       "date": "2026-07-19",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483651"
     }
-  ],
-  "past": []
+  ]
 }

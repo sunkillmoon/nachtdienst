@@ -11,8 +11,44 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481500"
+    },
+    {
+      "id": "ra:2466280",
+      "title": "THE OTHER SIDE OPEN AIR 2026",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Houtrijk",
+      "venue_id": "201863",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466280"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "72368",
+      "name": "Sarah Wild",
+      "count": 1
+    },
+    {
+      "id": "31589",
+      "name": "Some Chemistry",
+      "count": 1
+    },
+    {
+      "id": "75858",
+      "name": "Genii",
+      "count": 1
+    },
+    {
+      "id": "22235",
+      "name": "Noraj Cue",
+      "count": 1
+    },
+    {
+      "id": "118202",
+      "name": "Ninsa",
+      "count": 1
+    }
+  ]
 }

@@ -3,16 +3,6 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477905",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-07-20",
-      "start": "2026-07-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477905"
-    },
-    {
       "id": "ra:2477372",
       "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
       "date": "2026-07-23",
@@ -21,6 +11,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477372"
+    },
+    {
+      "id": "ra:2493300",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
+      "date": "2026-07-27",
+      "start": "2026-07-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493300"
     },
     {
       "id": "ra:2477375",
@@ -61,28 +61,64 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477393"
+    },
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
+    },
+    {
+      "id": "ra:2477399",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477399"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2477905",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477905"
+    }
+  ],
   "top_artists": [
     {
       "id": "99004",
       "name": "Marco Ramos",
-      "count": 4
-    },
-    {
-      "id": "131240",
-      "name": "NO1ELSE",
-      "count": 1
+      "count": 6
     },
     {
       "id": "89568",
       "name": "No Intellectual Property",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "131240",
+      "name": "NO1ELSE",
+      "count": 2
     },
     {
       "id": "21842",
       "name": "Durcheinander",
+      "count": 1
+    },
+    {
+      "id": "158939",
+      "name": "QV (1)",
       "count": 1
     }
   ]

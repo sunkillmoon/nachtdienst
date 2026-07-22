@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2482088",
+      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+      "date": "2026-08-25",
+      "start": "2026-08-25T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482088"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2481778",
       "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
       "date": "2026-07-21",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481778"
     }
-  ],
-  "past": []
+  ]
 }

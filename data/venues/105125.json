@@ -6,16 +6,6 @@
   "lng": 4.545636,
   "upcoming": [
     {
-      "id": "ra:2454339",
-      "title": "VERKNIPT Beach Special - 19 July",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Beachclub Fuel",
-      "venue_id": "105125",
-      "area": "All",
-      "url": "https://ra.co/events/2454339"
-    },
-    {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",
       "date": "2026-08-08",
@@ -34,9 +24,29 @@
       "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2464413"
+    },
+    {
+      "id": "ra:2395761",
+      "title": "SOLD OUT We are iT at the beach 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2395761"
     }
   ],
   "past": [
+    {
+      "id": "ra:2454339",
+      "title": "VERKNIPT Beach Special - 19 July",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2454339"
+    },
     {
       "id": "ra:2397048",
       "title": "VERKNIPT Beach Special - 18 July",

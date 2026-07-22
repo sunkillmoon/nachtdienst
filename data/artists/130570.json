@@ -1,0 +1,28 @@
+{
+  "id": "130570",
+  "name": "Gibbo",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2495232",
+      "title": "Cheeky Monday: Ray Keith",
+      "date": "2026-08-24",
+      "start": "2026-08-24T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495232"
+    },
+    {
+      "id": "ra:2490217",
+      "title": "For The Rhythm presents: Fort Riddim Vol. 1",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490217"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "86081",
+  "name": "Jesse Maas",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2476146",
+      "title": "Jesse Maas curates",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476146"
+    },
+    {
+      "id": "ra:2487480",
+      "title": "TOFFLER presents jWave, Jesse Maas",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2487480"
+    }
+  ],
+  "past": []
+}

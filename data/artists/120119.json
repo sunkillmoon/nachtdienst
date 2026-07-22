@@ -1,0 +1,58 @@
+{
+  "id": "120119",
+  "name": "Daft Funk Live",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2342711",
+      "title": "Daft Funk Live",
+      "date": "2026-09-29",
+      "start": "2026-09-29T19:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2342711"
+    },
+    {
+      "id": "ra:2393986",
+      "title": "Daft Funk Live in Amsterdam",
+      "date": "2026-09-30",
+      "start": "2026-09-30T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2393986"
+    },
+    {
+      "id": "ra:2393987",
+      "title": "Daft Funk Live in Haarlem",
+      "date": "2026-10-01",
+      "start": "2026-10-01T19:00+02:00",
+      "venue": "Patronaat",
+      "venue_id": "6754",
+      "area": "All",
+      "url": "https://ra.co/events/2393987"
+    },
+    {
+      "id": "ra:2393990",
+      "title": "Daft Funk Live in Utrecht",
+      "date": "2026-10-02",
+      "start": "2026-10-02T19:00+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2393990"
+    },
+    {
+      "id": "ra:2393991",
+      "title": "Daft Funk Live in Groningen",
+      "date": "2026-10-04",
+      "start": "2026-10-04T19:00+02:00",
+      "venue": "De Oosterpoort",
+      "venue_id": "26593",
+      "area": "All",
+      "url": "https://ra.co/events/2393991"
+    }
+  ],
+  "past": []
+}

@@ -44,6 +44,26 @@
       "venue_id": "160195",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464904"
+    },
+    {
+      "id": "ra:2491420",
+      "title": "New Era ISO session 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491420"
+    },
+    {
+      "id": "ra:2467439",
+      "title": "New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl",
+      "date": "2026-10-03",
+      "start": "2026-10-03T20:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2467439"
     }
   ],
   "past": []

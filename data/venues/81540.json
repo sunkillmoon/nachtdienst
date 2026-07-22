@@ -74,6 +74,26 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489606"
+    },
+    {
+      "id": "ra:2494389",
+      "title": "Kult Funktion Panel - WorldPride",
+      "date": "2026-08-06",
+      "start": "2026-08-06T19:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494389"
+    },
+    {
+      "id": "ra:2488581",
+      "title": "Doka Studio w/ Vladimir Ivkovic | Intergalactic Gary",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488581"
     }
   ],
   "past": [

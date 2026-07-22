@@ -6,16 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2407224",
-      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2407224"
-    },
-    {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
       "date": "2026-07-25",
@@ -104,9 +94,79 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443517"
+    },
+    {
+      "id": "ra:2390196",
+      "title": "komm schon Alter - Das Mini Festival",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390196"
+    },
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
+    },
+    {
+      "id": "ra:2458433",
+      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
+      "date": "2026-09-06",
+      "start": "2026-09-06T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458433"
+    },
+    {
+      "id": "ra:2451241",
+      "title": "13 SEP - Thuishaven with MENESIX 10HRS",
+      "date": "2026-09-13",
+      "start": "2026-09-13T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451241"
+    },
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    },
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
     }
   ],
   "past": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    },
     {
       "id": "ra:2373339",
       "title": "18 JUL - Thuishaven with Michel de Hey 10HRS",

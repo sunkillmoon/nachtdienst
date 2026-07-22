@@ -1,0 +1,29 @@
+{
+  "id": "94991",
+  "name": "Klankvorm",
+  "upcoming": [
+    {
+      "id": "ra:2449960",
+      "title": "Conflux Festival 2026",
+      "date": "2026-09-24",
+      "start": "2026-09-24T19:00+02:00",
+      "venue": "TBA - Rotterdam Various Locations",
+      "venue_id": "293197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2449960"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "17323",
+      "name": "Merzbow",
+      "count": 1
+    },
+    {
+      "id": "151332",
+      "name": "Alex Zhang Hungtai",
+      "count": 1
+    }
+  ]
+}

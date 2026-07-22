@@ -1,0 +1,64 @@
+{
+  "id": "161133",
+  "name": "Turbine Delft",
+  "upcoming": [
+    {
+      "id": "ra:2380229",
+      "title": "Cluster Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Kabelfabriek",
+      "venue_id": "286230",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2380229"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "181400",
+      "name": "Acid Rebels",
+      "count": 1
+    },
+    {
+      "id": "73401",
+      "name": "Colin Benders",
+      "count": 1
+    },
+    {
+      "id": "104358",
+      "name": "Esther Dune",
+      "count": 1
+    },
+    {
+      "id": "157228",
+      "name": "Hashashin",
+      "count": 1
+    },
+    {
+      "id": "159946",
+      "name": "JDMA",
+      "count": 1
+    },
+    {
+      "id": "171999",
+      "name": "Paul Ray",
+      "count": 1
+    },
+    {
+      "id": "143309",
+      "name": "RUL3",
+      "count": 1
+    },
+    {
+      "id": "102744",
+      "name": "slin",
+      "count": 1
+    },
+    {
+      "id": "113993",
+      "name": "SURCO",
+      "count": 1
+    }
+  ]
+}

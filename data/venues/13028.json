@@ -1,0 +1,30 @@
+{
+  "id": "13028",
+  "name": "OT301",
+  "area": "Amsterdam",
+  "lat": 52.360083,
+  "lng": 4.865688,
+  "upcoming": [
+    {
+      "id": "ra:2493000",
+      "title": "Anacalypto & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493000"
+    },
+    {
+      "id": "ra:2484091",
+      "title": "Alteration vol. 6",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484091"
+    }
+  ],
+  "past": []
+}

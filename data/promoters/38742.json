@@ -1,0 +1,79 @@
+{
+  "id": "38742",
+  "name": "Audio Obscura",
+  "upcoming": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2464483",
+      "title": "Audio Obscura Festival [By Night]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2464483"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "85915",
+      "name": "Chloé Caillet",
+      "count": 2
+    },
+    {
+      "id": "106818",
+      "name": "DJ Heartstring",
+      "count": 2
+    },
+    {
+      "id": "62077",
+      "name": "Chris Stussy",
+      "count": 1
+    },
+    {
+      "id": "90643",
+      "name": "Prospa",
+      "count": 1
+    },
+    {
+      "id": "9944",
+      "name": "Honey Dijon",
+      "count": 1
+    },
+    {
+      "id": "55735",
+      "name": "Folamour",
+      "count": 1
+    },
+    {
+      "id": "83185",
+      "name": "DJ Gigola",
+      "count": 1
+    },
+    {
+      "id": "120215",
+      "name": "Marsolo",
+      "count": 1
+    },
+    {
+      "id": "98015",
+      "name": "Max Dean",
+      "count": 1
+    },
+    {
+      "id": "157617",
+      "name": "TLM (NL)",
+      "count": 1
+    }
+  ]
+}

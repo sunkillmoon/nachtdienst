@@ -22,6 +22,16 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423448"
+    },
+    {
+      "id": "ra:2484813",
+      "title": "Last Days Of Summer",
+      "date": "2026-08-29",
+      "start": "2026-08-29T15:00+02:00",
+      "venue": "Manii Beach",
+      "venue_id": "287886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484813"
     }
   ],
   "past": []

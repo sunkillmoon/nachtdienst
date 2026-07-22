@@ -1,0 +1,39 @@
+{
+  "id": "120446",
+  "name": "Anacalypto",
+  "upcoming": [
+    {
+      "id": "ra:2493000",
+      "title": "Anacalypto & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493000"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "110487",
+      "name": "Anacalypto",
+      "count": 1
+    },
+    {
+      "id": "55948",
+      "name": "DJ Aleksi",
+      "count": 1
+    },
+    {
+      "id": "121702",
+      "name": "Klankers",
+      "count": 1
+    },
+    {
+      "id": "26598",
+      "name": "Tre Turner",
+      "count": 1
+    }
+  ]
+}

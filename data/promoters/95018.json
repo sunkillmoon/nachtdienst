@@ -21,10 +21,35 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2357564"
+    },
+    {
+      "id": "ra:2468479",
+      "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2468479"
+    },
+    {
+      "id": "ra:2357574",
+      "title": "Happy Feelings - Colorado Charlie Beach Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357574"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "175798",
+      "name": "Merel Helderman",
+      "count": 2
+    },
     {
       "id": "10446",
       "name": "Benny Rodrigues",
@@ -43,11 +68,6 @@
     {
       "id": "101467",
       "name": "Inafekt",
-      "count": 1
-    },
-    {
-      "id": "175798",
-      "name": "Merel Helderman",
       "count": 1
     },
     {

@@ -1,0 +1,38 @@
+{
+  "id": "166177",
+  "name": "Maryland",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2495325",
+      "title": "Allstate Insurance Home Insurance — Coverage, Pricing, and Bill Pay 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Club 11",
+      "venue_id": "4851",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495325"
+    },
+    {
+      "id": "ra:2495285",
+      "title": "Allstate Insurance Express Pay — Immediate Payment Processing 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495285"
+    },
+    {
+      "id": "ra:2495259",
+      "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "NDSM Docklands",
+      "venue_id": "4859",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495259"
+    }
+  ],
+  "past": []
+}

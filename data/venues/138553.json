@@ -6,16 +6,6 @@
   "lng": 4.925604,
   "upcoming": [
     {
-      "id": "ra:2481235",
-      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
-      "date": "2026-07-21",
-      "start": "2026-07-21T19:30+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481235"
-    },
-    {
       "id": "ra:2462885",
       "title": "PRIDE - LET'S STRUT",
       "date": "2026-07-24",
@@ -24,6 +14,16 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462885"
+    },
+    {
+      "id": "ra:2493208",
+      "title": "Super-Sonic Jam",
+      "date": "2026-07-25",
+      "start": "2026-07-25T18:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493208"
     },
     {
       "id": "ra:2462890",
@@ -84,9 +84,69 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488651"
+    },
+    {
+      "id": "ra:2495357",
+      "title": "BAILE DO OUTRO LADO X ONDA COLLECTIVE",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495357"
+    },
+    {
+      "id": "ra:2488611",
+      "title": "AZÚCAR",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488611"
+    },
+    {
+      "id": "ra:2470243",
+      "title": "PIP BLOM 10 YEARS",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470243"
+    },
+    {
+      "id": "ra:2400214",
+      "title": "HET VELD: THE SECOND TRANSMISSION",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2400214"
+    },
+    {
+      "id": "ra:2473192",
+      "title": "PARKER FEST 3.0",
+      "date": "2026-10-17",
+      "start": "2026-10-17T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473192"
     }
   ],
   "past": [
+    {
+      "id": "ra:2481235",
+      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
+      "date": "2026-07-21",
+      "start": "2026-07-21T19:30+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481235"
+    },
     {
       "id": "ra:2462878",
       "title": "ROOTED X BOUNCE THAT BOOTY",

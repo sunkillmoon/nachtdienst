@@ -1,0 +1,20 @@
+{
+  "id": "294777",
+  "name": "De Toekomst",
+  "area": "All",
+  "lat": 53.17,
+  "lng": 6.99,
+  "upcoming": [
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
+    }
+  ],
+  "past": []
+}

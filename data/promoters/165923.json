@@ -21,6 +21,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462151"
+    },
+    {
+      "id": "ra:2490009",
+      "title": "Naked KNIT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490009"
     }
   ],
   "past": [],

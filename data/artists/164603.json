@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2464040",
-      "title": "De Reünie",
-      "date": "2026-07-19",
-      "start": "2026-07-19T15:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464040"
-    },
-    {
       "id": "ra:2478086",
       "title": "Zalando and adidas present The Corner",
       "date": "2026-07-23",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2478086"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    }
+  ]
 }

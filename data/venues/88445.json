@@ -1,0 +1,50 @@
+{
+  "id": "88445",
+  "name": "TivoliVredenburg",
+  "area": "Utrecht",
+  "lat": 52.09262,
+  "lng": 5.112978,
+  "upcoming": [
+    {
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
+    },
+    {
+      "id": "ra:2479976",
+      "title": "Black Sun Empire presents: Blackout Rewind",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2479976"
+    },
+    {
+      "id": "ra:2393990",
+      "title": "Daft Funk Live in Utrecht",
+      "date": "2026-10-02",
+      "start": "2026-10-02T19:00+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2393990"
+    },
+    {
+      "id": "ra:2442065",
+      "title": "Motiv - Lisa Korver (Extended set) & More",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:59+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442065"
+    }
+  ],
+  "past": []
+}

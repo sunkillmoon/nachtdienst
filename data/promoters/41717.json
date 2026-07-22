@@ -3,6 +3,28 @@
   "name": "Draaimolen",
   "upcoming": [
     {
+      "id": "ra:2480350",
+      "title": "Draaimolen Opening Concert 2026",
+      "date": "2026-09-03",
+      "start": "2026-09-03T20:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2480350"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2453191",
       "title": "Holy Pink 2026",
       "date": "2026-07-20",
@@ -13,51 +35,55 @@
       "url": "https://ra.co/events/2453191"
     }
   ],
-  "past": [],
   "top_artists": [
-    {
-      "id": "148687",
-      "name": "36framez",
-      "count": 1
-    },
-    {
-      "id": "90132",
-      "name": "Ehua",
-      "count": 1
-    },
-    {
-      "id": "12951",
-      "name": "Flore",
-      "count": 1
-    },
-    {
-      "id": "42350",
-      "name": "Hyperaktivist",
-      "count": 1
-    },
-    {
-      "id": "96633",
-      "name": "THC",
-      "count": 1
-    },
-    {
-      "id": "62286",
-      "name": "JASSS",
-      "count": 1
-    },
-    {
-      "id": "109012",
-      "name": "Mohajer",
-      "count": 1
-    },
-    {
-      "id": "133930",
-      "name": "Lis van Horssen",
-      "count": 1
-    },
     {
       "id": "4619",
       "name": "Sandrien",
+      "count": 2
+    },
+    {
+      "id": "896",
+      "name": "Efdemin",
+      "count": 1
+    },
+    {
+      "id": "83115",
+      "name": "GiGi FM",
+      "count": 1
+    },
+    {
+      "id": "2063",
+      "name": "Legowelt",
+      "count": 1
+    },
+    {
+      "id": "98411",
+      "name": "ābnamā",
+      "count": 1
+    },
+    {
+      "id": "109785",
+      "name": "Faited",
+      "count": 1
+    },
+    {
+      "id": "1801",
+      "name": "Adam Marshall",
+      "count": 1
+    },
+    {
+      "id": "10168",
+      "name": "Ricardo Tobar",
+      "count": 1
+    },
+    {
+      "id": "45485",
+      "name": "Adiel",
+      "count": 1
+    },
+    {
+      "id": "7770",
+      "name": "Garçon",
       "count": 1
     }
   ]

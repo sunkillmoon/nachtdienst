@@ -21,10 +21,35 @@
       "venue_id": "265448",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2442055"
+    },
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
+    },
+    {
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "77557",
+      "name": "Easttown",
+      "count": 2
+    },
     {
       "id": "126833",
       "name": "Riordan",
@@ -43,6 +68,31 @@
     {
       "id": "152684",
       "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "56571",
+      "name": "Kepler",
+      "count": 1
+    },
+    {
+      "id": "88056",
+      "name": "Boss Priester",
+      "count": 1
+    },
+    {
+      "id": "114297",
+      "name": "Rooléh",
+      "count": 1
+    },
+    {
+      "id": "110515",
+      "name": "AAT (NL)",
+      "count": 1
+    },
+    {
+      "id": "171453",
+      "name": "Cici Daze",
       "count": 1
     }
   ]

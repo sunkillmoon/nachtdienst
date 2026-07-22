@@ -1,0 +1,20 @@
+{
+  "id": "6754",
+  "name": "Patronaat",
+  "area": "All",
+  "lat": 52.382341,
+  "lng": 4.628179,
+  "upcoming": [
+    {
+      "id": "ra:2393987",
+      "title": "Daft Funk Live in Haarlem",
+      "date": "2026-10-01",
+      "start": "2026-10-01T19:00+02:00",
+      "venue": "Patronaat",
+      "venue_id": "6754",
+      "area": "All",
+      "url": "https://ra.co/events/2393987"
+    }
+  ],
+  "past": []
+}

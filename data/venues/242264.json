@@ -1,0 +1,31 @@
+{
+  "id": "242264",
+  "name": "Phono Lake",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2434861",
+      "title": "Phono Lake Festival",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2434861"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2419546",
+      "title": "Phono Lake's Second Night At The Lake",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2419546"
+    }
+  ]
+}

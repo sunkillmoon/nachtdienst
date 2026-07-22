@@ -11,6 +11,36 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2442144"
+    },
+    {
+      "id": "ra:2411139",
+      "title": "HRMNY by Rose Ringed at the beach",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2411139"
+    },
+    {
+      "id": "ra:2371018",
+      "title": "Anjunabeats at Zandvoort beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2371018"
+    },
+    {
+      "id": "ra:2414839",
+      "title": "Olivier Weiter b2b Miss Melera",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414839"
     }
   ],
   "past": [],
@@ -23,6 +53,21 @@
     {
       "id": "98673",
       "name": "Cyantist",
+      "count": 1
+    },
+    {
+      "id": "108112",
+      "name": "Rose Ringed",
+      "count": 1
+    },
+    {
+      "id": "3521",
+      "name": "Olivier Weiter",
+      "count": 1
+    },
+    {
+      "id": "32322",
+      "name": "Miss Melera",
       "count": 1
     }
   ]

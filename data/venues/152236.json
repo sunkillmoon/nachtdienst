@@ -6,16 +6,6 @@
   "lng": 4.291748,
   "upcoming": [
     {
-      "id": "ra:2460452",
-      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2460452"
-    },
-    {
       "id": "ra:2420278",
       "title": "Overbruggen Summer Series - Colorado Charlie",
       "date": "2026-07-24",
@@ -104,9 +94,109 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
+    },
+    {
+      "id": "ra:2486365",
+      "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486365"
+    },
+    {
+      "id": "ra:2470472",
+      "title": "Colorado Charlie with Jan Blomqvist, Helsloot, Sinca",
+      "date": "2026-08-22",
+      "start": "2026-08-22T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2470472"
+    },
+    {
+      "id": "ra:2479334",
+      "title": "Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT)",
+      "date": "2026-08-23",
+      "start": "2026-08-23T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2479334"
+    },
+    {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
+    },
+    {
+      "id": "ra:2467073",
+      "title": "Distant Beach with Mees Salomé & Friends",
+      "date": "2026-08-29",
+      "start": "2026-08-29T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2467073"
+    },
+    {
+      "id": "ra:2484549",
+      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2484549"
+    },
+    {
+      "id": "ra:2485021",
+      "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
+      "date": "2026-09-12",
+      "start": "2026-09-12T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2485021"
+    },
+    {
+      "id": "ra:2468479",
+      "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2468479"
+    },
+    {
+      "id": "ra:2357574",
+      "title": "Happy Feelings - Colorado Charlie Beach Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357574"
     }
   ],
   "past": [
+    {
+      "id": "ra:2460452",
+      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460452"
+    },
     {
       "id": "ra:2357558",
       "title": "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT",

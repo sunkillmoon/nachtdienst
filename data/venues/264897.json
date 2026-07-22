@@ -44,6 +44,26 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2472104"
+    },
+    {
+      "id": "ra:2411139",
+      "title": "HRMNY by Rose Ringed at the beach",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2411139"
+    },
+    {
+      "id": "ra:2371018",
+      "title": "Anjunabeats at Zandvoort beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2371018"
     }
   ],
   "past": [

@@ -1,0 +1,69 @@
+{
+  "id": "54965",
+  "name": "Breakfast Club Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2434861",
+      "title": "Phono Lake Festival",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2434861"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "58874",
+      "name": "Athens of the North",
+      "count": 1
+    },
+    {
+      "id": "942",
+      "name": "Blake Baxter",
+      "count": 1
+    },
+    {
+      "id": "9542",
+      "name": "Danny Daze",
+      "count": 1
+    },
+    {
+      "id": "165550",
+      "name": "Field Notes DJs",
+      "count": 1
+    },
+    {
+      "id": "134901",
+      "name": "Millie McKee",
+      "count": 1
+    },
+    {
+      "id": "88318",
+      "name": "Jetti",
+      "count": 1
+    },
+    {
+      "id": "33410",
+      "name": "Jovonn",
+      "count": 1
+    },
+    {
+      "id": "67241",
+      "name": "Louise Chen",
+      "count": 1
+    },
+    {
+      "id": "116675",
+      "name": "Marie K (1)",
+      "count": 1
+    },
+    {
+      "id": "13553",
+      "name": "Mike Dunn",
+      "count": 1
+    }
+  ]
+}

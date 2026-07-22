@@ -22,6 +22,46 @@
       "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2464413"
+    },
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2395761",
+      "title": "SOLD OUT We are iT at the beach 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2395761"
+    },
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    },
+    {
+      "id": "ra:2404224",
+      "title": "The Original Warehouse Rave 89/05",
+      "date": "2026-10-17",
+      "start": "2026-10-17T16:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2404224"
     }
   ],
   "past": []

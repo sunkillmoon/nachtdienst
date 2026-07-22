@@ -12,6 +12,16 @@
       "venue_id": "241842",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2436135"
+    },
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
     }
   ],
   "past": [

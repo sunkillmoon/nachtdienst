@@ -1,0 +1,39 @@
+{
+  "id": "67169",
+  "name": "Brighter Days",
+  "upcoming": [
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "37323",
+      "name": "Palms Trax",
+      "count": 1
+    },
+    {
+      "id": "54907",
+      "name": "Kamma",
+      "count": 1
+    },
+    {
+      "id": "59664",
+      "name": "Masalo",
+      "count": 1
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
+      "count": 1
+    }
+  ]
+}

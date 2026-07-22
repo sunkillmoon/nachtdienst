@@ -1,0 +1,48 @@
+{
+  "id": "172605",
+  "name": "lizz.e",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2425635",
+      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2492123",
+      "title": "DJ Life • Moxes • lizz.e",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492123"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2492783",
+      "title": "SIMPLICITY",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Aken in het Werkwarenhuis",
+      "venue_id": "144150",
+      "area": "All",
+      "url": "https://ra.co/events/2492783"
+    }
+  ],
+  "past": []
+}

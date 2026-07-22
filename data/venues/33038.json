@@ -1,0 +1,20 @@
+{
+  "id": "33038",
+  "name": "Julianapark Hoorn",
+  "area": "All",
+  "lat": 52.641004,
+  "lng": 5.071402,
+  "upcoming": [
+    {
+      "id": "ra:2324563",
+      "title": "Outdoor Stereo 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Julianapark Hoorn",
+      "venue_id": "33038",
+      "area": "All",
+      "url": "https://ra.co/events/2324563"
+    }
+  ],
+  "past": []
+}

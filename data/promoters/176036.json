@@ -1,0 +1,29 @@
+{
+  "id": "176036",
+  "name": "Killa Cutz Records ",
+  "upcoming": [
+    {
+      "id": "ra:2492190",
+      "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492190"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "535",
+      "name": "Eddie Richards",
+      "count": 1
+    },
+    {
+      "id": "76338",
+      "name": "Herra",
+      "count": 1
+    }
+  ]
+}

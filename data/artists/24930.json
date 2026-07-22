@@ -22,6 +22,26 @@
       "venue_id": "284762",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2363397"
+    },
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2490652",
+      "title": "Toffler presents Chris Gialanze, De Sluwe Vos",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490652"
     }
   ],
   "past": []

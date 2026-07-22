@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453191",
-      "title": "Holy Pink 2026",
-      "date": "2026-07-20",
-      "start": "2026-07-20T13:00+02:00",
-      "venue": "Muzentuin Tilburg",
-      "venue_id": "114854",
-      "area": "All",
-      "url": "https://ra.co/events/2453191"
-    },
-    {
       "id": "ra:2440419",
       "title": "RAUM invites Mala Junta",
       "date": "2026-07-31",
@@ -22,7 +12,28 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440419"
+    },
+    {
+      "id": "ra:2494196",
+      "title": "GEGEN AMSTERDAM",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494196"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "venue_id": "114854",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    }
+  ]
 }

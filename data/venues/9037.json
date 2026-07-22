@@ -84,6 +84,126 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466205"
+    },
+    {
+      "id": "ra:2466207",
+      "title": "TOFFLER presents LEYO and friends",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466207"
+    },
+    {
+      "id": "ra:2466211",
+      "title": "TOFFLER x Maas Afterparty",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466211"
+    },
+    {
+      "id": "ra:2466215",
+      "title": "TOFFLER presents Boss Priester and friends",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466215"
+    },
+    {
+      "id": "ra:2466212",
+      "title": "TOFFLER presents Changi and friends",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466212"
+    },
+    {
+      "id": "ra:2479241",
+      "title": "TOFFLER presents G-NO and friends",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479241"
+    },
+    {
+      "id": "ra:2479246",
+      "title": "TOFFLER presents Nacho Scoppa and friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479246"
+    },
+    {
+      "id": "ra:2479248",
+      "title": "TOFFLER presents RAMØN and friends",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479248"
+    },
+    {
+      "id": "ra:2479253",
+      "title": "TOFFLER presents Karim Soliman and friends",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479253"
+    },
+    {
+      "id": "ra:2487327",
+      "title": "TOFFLER presents KLOUD",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2487327"
+    },
+    {
+      "id": "ra:2487480",
+      "title": "TOFFLER presents jWave, Jesse Maas",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2487480"
+    },
+    {
+      "id": "ra:2490624",
+      "title": "Toffler presents CLAESSENS",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490624"
+    },
+    {
+      "id": "ra:2490652",
+      "title": "Toffler presents Chris Gialanze, De Sluwe Vos",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490652"
     }
   ],
   "past": [

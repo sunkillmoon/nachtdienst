@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2486464",
+      "title": "RAUM invites PAX-ROMANA 12HRS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486464"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488231",
       "title": "BALANS X THE LOW END",
       "date": "2026-07-20",
@@ -13,6 +25,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2488231"
     }
-  ],
-  "past": []
+  ]
 }

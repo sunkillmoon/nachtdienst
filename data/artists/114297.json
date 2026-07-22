@@ -12,6 +12,16 @@
       "venue_id": "121137",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
+    },
+    {
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
     }
   ],
   "past": [

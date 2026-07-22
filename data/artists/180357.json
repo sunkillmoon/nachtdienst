@@ -1,0 +1,28 @@
+{
+  "id": "180357",
+  "name": "Drabes",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2481979",
+      "title": "THUISHONK",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481979"
+    },
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
+    }
+  ],
+  "past": []
+}

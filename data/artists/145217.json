@@ -22,6 +22,46 @@
       "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
+    },
+    {
+      "id": "ra:2492123",
+      "title": "DJ Life • Moxes • lizz.e",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492123"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
     }
   ],
   "past": [

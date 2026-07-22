@@ -1,0 +1,28 @@
+{
+  "id": "807",
+  "name": "Shinedoe",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2486464",
+      "title": "RAUM invites PAX-ROMANA 12HRS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486464"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    }
+  ],
+  "past": []
+}

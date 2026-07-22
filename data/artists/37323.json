@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2484801",
-      "title": "Drift Block Party",
-      "date": "2026-07-20",
-      "start": "2026-07-20T17:00+02:00",
-      "venue": "TBA",
-      "venue_id": "259877",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2484801"
-    },
-    {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
       "date": "2026-07-29",
@@ -32,9 +22,49 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
+    },
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
     }
   ],
   "past": [
+    {
+      "id": "ra:2484801",
+      "title": "Drift Block Party",
+      "date": "2026-07-20",
+      "start": "2026-07-20T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "259877",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2484801"
+    },
     {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",

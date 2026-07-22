@@ -12,6 +12,16 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476138"
+    },
+    {
+      "id": "ra:2479246",
+      "title": "TOFFLER presents Nacho Scoppa and friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479246"
     }
   ],
   "past": []

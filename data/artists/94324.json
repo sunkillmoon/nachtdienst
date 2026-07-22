@@ -12,6 +12,26 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466510"
+    },
+    {
+      "id": "ra:2494208",
+      "title": "Robbie Doherty - all night long",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494208"
+    },
+    {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
     }
   ],
   "past": []

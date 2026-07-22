@@ -11,6 +11,26 @@
       "venue_id": "206210",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2465506"
+    },
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2465233",
+      "title": "Intercell Papierfabriek",
+      "date": "2026-10-03",
+      "start": "2026-10-03T13:00+02:00",
+      "venue": "De Papierfabriek",
+      "venue_id": "280996",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2465233"
     }
   ],
   "past": [],
@@ -43,6 +63,26 @@
     {
       "id": "181740",
       "name": "LINDS (NL)",
+      "count": 1
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "136611",
+      "name": "Emmz",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
       "count": 1
     }
   ]

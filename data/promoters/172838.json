@@ -1,0 +1,24 @@
+{
+  "id": "172838",
+  "name": "00:13",
+  "upcoming": [
+    {
+      "id": "ra:2342711",
+      "title": "Daft Funk Live",
+      "date": "2026-09-29",
+      "start": "2026-09-29T19:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2342711"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120119",
+      "name": "Daft Funk Live",
+      "count": 1
+    }
+  ]
+}

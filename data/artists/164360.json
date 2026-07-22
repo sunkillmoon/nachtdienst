@@ -1,0 +1,28 @@
+{
+  "id": "164360",
+  "name": "FENIM0RE",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2421033",
+      "title": "BCCO x TRANSITION",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2476052",
+      "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2476052"
+    }
+  ],
+  "past": []
+}

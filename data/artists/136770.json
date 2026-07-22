@@ -2,7 +2,8 @@
   "id": "136770",
   "name": "Lyrae",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2407224"
     }
-  ],
-  "past": []
+  ]
 }

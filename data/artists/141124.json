@@ -22,6 +22,16 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
+    },
+    {
+      "id": "ra:2424479",
+      "title": "HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2424479"
     }
   ],
   "past": []

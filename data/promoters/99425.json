@@ -11,6 +11,16 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2464028"
+    },
+    {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
     }
   ],
   "past": [],
@@ -18,6 +28,16 @@
     {
       "id": "14022",
       "name": "Prunk",
+      "count": 2
+    },
+    {
+      "id": "110515",
+      "name": "AAT (NL)",
+      "count": 1
+    },
+    {
+      "id": "94324",
+      "name": "Robbie Doherty",
       "count": 1
     }
   ]

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2419387",
-      "title": "Benwal (ALL DAY LONG) [sold out]",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2419387"
-    },
-    {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",
       "date": "2026-07-25",
@@ -22,7 +12,28 @@
       "venue_id": "89263",
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2419387",
+      "title": "Benwal (ALL DAY LONG) [sold out]",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2419387"
+    }
+  ]
 }

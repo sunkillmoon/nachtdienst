@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2466755",
-      "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466755"
-    },
-    {
       "id": "ra:2445698",
       "title": "Dance Valley Festival 2026",
       "date": "2026-08-08",
@@ -24,7 +14,68 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445698"
+    },
+    {
+      "id": "ra:2481979",
+      "title": "THUISHONK",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481979"
+    },
+    {
+      "id": "ra:2493594",
+      "title": "SevenEight78",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493594"
+    },
+    {
+      "id": "ra:2490009",
+      "title": "Naked KNIT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490009"
+    },
+    {
+      "id": "ra:2462689",
+      "title": "Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
+    },
+    {
+      "id": "ra:2473473",
+      "title": "The Deep Club - Outdoor Edition",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:30+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473473"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466755",
+      "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466755"
+    }
+  ]
 }

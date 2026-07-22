@@ -11,6 +11,16 @@
       "venue_id": "71387",
       "area": "All",
       "url": "https://ra.co/events/2376005"
+    },
+    {
+      "id": "ra:2441335",
+      "title": "Sona presents: &ME and Rampa",
+      "date": "2026-09-05",
+      "start": "2026-09-05T14:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2441335"
     }
   ],
   "past": [],
@@ -18,6 +28,16 @@
     {
       "id": "62077",
       "name": "Chris Stussy",
+      "count": 1
+    },
+    {
+      "id": "6388",
+      "name": "&ME",
+      "count": 1
+    },
+    {
+      "id": "5011",
+      "name": "Rampa",
       "count": 1
     }
   ]

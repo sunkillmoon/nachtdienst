@@ -3,16 +3,6 @@
   "name": "PIP Den Haag",
   "upcoming": [
     {
-      "id": "ra:2481235",
-      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
-      "date": "2026-07-21",
-      "start": "2026-07-21T19:30+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481235"
-    },
-    {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
       "date": "2026-07-25",
@@ -21,10 +11,106 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2383086"
+    },
+    {
+      "id": "ra:2399040",
+      "title": "PIP Season Opening",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399040"
+    },
+    {
+      "id": "ra:2399043",
+      "title": "PIP presents Wildcard",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399043"
+    },
+    {
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
+    },
+    {
+      "id": "ra:2490543",
+      "title": "Afra invites",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2490543"
+    },
+    {
+      "id": "ra:2438473",
+      "title": "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2438473"
+    },
+    {
+      "id": "ra:2399032",
+      "title": "PIP meets Stingray 313 / mul/ANNA / KI/IP",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399032"
+    },
+    {
+      "id": "ra:2402455",
+      "title": "Lobster invites",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402455"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481235",
+      "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
+      "date": "2026-07-21",
+      "start": "2026-07-21T19:30+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481235"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "174243",
+      "name": "Ascha",
+      "count": 1
+    },
+    {
+      "id": "164508",
+      "name": "Auryn",
+      "count": 1
+    },
+    {
+      "id": "145175",
+      "name": "Bouk Liúw",
+      "count": 1
+    },
     {
       "id": "105168",
       "name": "De Schuurman",
@@ -36,8 +122,8 @@
       "count": 1
     },
     {
-      "id": "119693",
-      "name": "IZZY (UK)",
+      "id": "11831",
+      "name": "Jan van Kampen",
       "count": 1
     },
     {
@@ -46,23 +132,18 @@
       "count": 1
     },
     {
-      "id": "88318",
-      "name": "Jetti",
-      "count": 1
-    },
-    {
       "id": "85986",
       "name": "Kikelomo",
       "count": 1
     },
     {
-      "id": "31385",
-      "name": "Post",
+      "id": "65333",
+      "name": "LIVI",
       "count": 1
     },
     {
-      "id": "129056",
-      "name": "Willem Feltzer",
+      "id": "161032",
+      "name": "nienquepasa",
       "count": 1
     }
   ]

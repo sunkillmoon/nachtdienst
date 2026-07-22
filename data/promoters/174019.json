@@ -1,0 +1,24 @@
+{
+  "id": "174019",
+  "name": "Motiv.NL",
+  "upcoming": [
+    {
+      "id": "ra:2442065",
+      "title": "Motiv - Lisa Korver (Extended set) & More",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:59+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442065"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "165697",
+      "name": "Lisa Korver",
+      "count": 1
+    }
+  ]
+}

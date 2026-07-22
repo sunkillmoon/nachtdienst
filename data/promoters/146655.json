@@ -3,16 +3,6 @@
   "name": "RIZE",
   "upcoming": [
     {
-      "id": "ra:2481778",
-      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481778"
-    },
-    {
       "id": "ra:2460722",
       "title": "[PHANTOM GROUP] KLUBNACHT",
       "date": "2026-07-28",
@@ -51,14 +41,130 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2482085"
+    },
+    {
+      "id": "ra:2482088",
+      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+      "date": "2026-08-25",
+      "start": "2026-08-25T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482088"
+    },
+    {
+      "id": "ra:2482164",
+      "title": "[PHANTOM GROUP] KLUBNACHT w TRANZ",
+      "date": "2026-09-01",
+      "start": "2026-09-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482164"
+    },
+    {
+      "id": "ra:2482190",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss",
+      "date": "2026-09-08",
+      "start": "2026-09-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482190"
+    },
+    {
+      "id": "ra:2482192",
+      "title": "[PHANTOM GROUP] B2B EDITION",
+      "date": "2026-09-15",
+      "start": "2026-09-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482192"
+    },
+    {
+      "id": "ra:2482194",
+      "title": "[PHANTOM GROUP] KLUBNACHT w Jøel",
+      "date": "2026-09-22",
+      "start": "2026-09-22T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482194"
+    },
+    {
+      "id": "ra:2482196",
+      "title": "[PHANTOM GROUP] KLUBNACHT w Mørris",
+      "date": "2026-09-29",
+      "start": "2026-09-29T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482196"
+    },
+    {
+      "id": "ra:2482165",
+      "title": "[PHANTOM GROUP] KLUBNACHT w KLEØ",
+      "date": "2026-10-06",
+      "start": "2026-10-06T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482165"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481778",
+      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481778"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "77901",
+      "name": "Mørris",
+      "count": 2
+    },
+    {
+      "id": "127968",
+      "name": "TRANZ",
+      "count": 2
+    },
+    {
+      "id": "168810",
+      "name": "inKKiss",
+      "count": 2
+    },
     {
       "id": "160452",
       "name": "JTN (1)",
       "count": 2
+    },
+    {
+      "id": "173764",
+      "name": "SUKA",
+      "count": 2
+    },
+    {
+      "id": "88845",
+      "name": "Kleo",
+      "count": 1
+    },
+    {
+      "id": "62406",
+      "name": "STVN",
+      "count": 1
+    },
+    {
+      "id": "154196",
+      "name": "Jøel",
+      "count": 1
     },
     {
       "id": "185468",
@@ -68,26 +174,6 @@
     {
       "id": "139206",
       "name": "BIØNIC BAMBI",
-      "count": 1
-    },
-    {
-      "id": "173764",
-      "name": "SUKA",
-      "count": 1
-    },
-    {
-      "id": "77901",
-      "name": "Mørris",
-      "count": 1
-    },
-    {
-      "id": "127968",
-      "name": "TRANZ",
-      "count": 1
-    },
-    {
-      "id": "168810",
-      "name": "inKKiss",
       "count": 1
     }
   ]

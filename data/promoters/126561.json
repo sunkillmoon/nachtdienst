@@ -31,6 +31,26 @@
       "venue_id": "215846",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443220"
+    },
+    {
+      "id": "ra:2443232",
+      "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:30+02:00",
+      "venue": "Ijburg",
+      "venue_id": "215846",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443232"
+    },
+    {
+      "id": "ra:2443238",
+      "title": "De Zomervloot - Zomerclosing",
+      "date": "2026-09-13",
+      "start": "2026-09-13T16:30+02:00",
+      "venue": "Ijburg",
+      "venue_id": "215846",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443238"
     }
   ],
   "past": [],
@@ -58,6 +78,11 @@
     {
       "id": "165677",
       "name": "Gabriel Muñoz",
+      "count": 1
+    },
+    {
+      "id": "75878",
+      "name": "Fafi Abdel Nour",
       "count": 1
     }
   ]

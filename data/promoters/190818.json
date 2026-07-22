@@ -1,0 +1,29 @@
+{
+  "id": "190818",
+  "name": "Connection art event ",
+  "upcoming": [
+    {
+      "id": "ra:2493507",
+      "title": "Reclaim the floor",
+      "date": "2026-07-31",
+      "start": "2026-07-31T19:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493507"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    },
+    {
+      "id": "172543",
+      "name": "Abiba Sokoto",
+      "count": 1
+    }
+  ]
+}

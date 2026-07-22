@@ -1,0 +1,28 @@
+{
+  "id": "179070",
+  "name": "Ruud Vanden",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    },
+    {
+      "id": "ra:2494445",
+      "title": "RESONANT - DE NACHT VAN STRIJP-S 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2494445"
+    }
+  ],
+  "past": []
+}

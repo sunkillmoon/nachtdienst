@@ -1,0 +1,28 @@
+{
+  "id": "118202",
+  "name": "Ninsa",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2466280",
+      "title": "THE OTHER SIDE OPEN AIR 2026",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Houtrijk",
+      "venue_id": "201863",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466280"
+    }
+  ],
+  "past": []
+}

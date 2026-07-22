@@ -2,7 +2,8 @@
   "id": "77529",
   "name": "Laura De Greef",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2460452",
       "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2460452"
     }
-  ],
-  "past": []
+  ]
 }

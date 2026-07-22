@@ -14,6 +14,16 @@
       "url": "https://ra.co/events/2488713"
     },
     {
+      "id": "ra:2493327",
+      "title": "PRIDE WORLDWIDE OPENING + PRIDE WALK hosted by Boogie House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T11:00+02:00",
+      "venue": "TBA - DAM SQUARE / VONDELPARK after 14:00",
+      "venue_id": "297834",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493327"
+    },
+    {
       "id": "ra:2475953",
       "title": "Vodka Woensdag XXL: Night of the Diva's",
       "date": "2026-07-29",
@@ -52,6 +62,36 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
+    },
+    {
+      "id": "ra:2487494",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487494"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2357574",
+      "title": "Happy Feelings - Colorado Charlie Beach Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357574"
     }
   ],
   "past": []

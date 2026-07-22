@@ -22,6 +22,16 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2444343"
+    },
+    {
+      "id": "ra:2465233",
+      "title": "Intercell Papierfabriek",
+      "date": "2026-10-03",
+      "start": "2026-10-03T13:00+02:00",
+      "venue": "De Papierfabriek",
+      "venue_id": "280996",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2465233"
     }
   ],
   "past": []

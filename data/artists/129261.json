@@ -2,7 +2,18 @@
   "id": "129261",
   "name": "Phil-o",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2493594",
+      "title": "SevenEight78",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493594"
+    }
+  ],
   "past": [
     {
       "id": "ra:2461593",

@@ -12,6 +12,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452159"
+    },
+    {
+      "id": "ra:2452089",
+      "title": "Patio - Summer Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452089"
     }
   ],
   "past": []

@@ -11,6 +11,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2485596",
+      "title": "Kult Funktion",
+      "date": "2026-09-26",
+      "start": "2026-09-26T22:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2485596"
     }
   ],
   "past": [],

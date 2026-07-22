@@ -12,6 +12,26 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480522"
+    },
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2466212",
+      "title": "TOFFLER presents Changi and friends",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466212"
     }
   ],
   "past": []

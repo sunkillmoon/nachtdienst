@@ -12,6 +12,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2484345",
+      "title": "PULSE invites Herrensauna",
+      "date": "2026-10-10",
+      "start": "2026-10-10T22:00+02:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2484345"
     }
   ],
   "past": []

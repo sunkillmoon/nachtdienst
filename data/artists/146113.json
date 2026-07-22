@@ -12,6 +12,16 @@
       "venue_id": "113031",
       "area": "All",
       "url": "https://ra.co/events/2438726"
+    },
+    {
+      "id": "ra:2436412",
+      "title": "Give Soul at the Beach - August",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436412"
     }
   ],
   "past": []

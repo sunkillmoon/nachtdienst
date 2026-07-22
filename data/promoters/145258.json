@@ -71,6 +71,26 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2373343",
+      "title": "Het Festival vol. 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2373343"
+    },
+    {
+      "id": "ra:2378523",
+      "title": "De After",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2378523"
     }
   ],
   "past": [],
@@ -118,6 +138,11 @@
     {
       "id": "179646",
       "name": "LYLO (NL)",
+      "count": 1
+    },
+    {
+      "id": "4561",
+      "name": "Hunee",
       "count": 1
     }
   ]

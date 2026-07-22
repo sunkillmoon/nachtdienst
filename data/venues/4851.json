@@ -1,0 +1,20 @@
+{
+  "id": "4851",
+  "name": "Club 11",
+  "area": "Amsterdam",
+  "lat": 52.376455,
+  "lng": 4.905244,
+  "upcoming": [
+    {
+      "id": "ra:2495325",
+      "title": "Allstate Insurance Home Insurance — Coverage, Pricing, and Bill Pay 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Club 11",
+      "venue_id": "4851",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495325"
+    }
+  ],
+  "past": []
+}

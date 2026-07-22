@@ -1,0 +1,69 @@
+{
+  "id": "27760",
+  "name": "ZeeZout",
+  "upcoming": [
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "148687",
+      "name": "36framez",
+      "count": 1
+    },
+    {
+      "id": "99930",
+      "name": "Bad Boombox",
+      "count": 1
+    },
+    {
+      "id": "109046",
+      "name": "Benwal",
+      "count": 1
+    },
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    },
+    {
+      "id": "141268",
+      "name": "Coco Coquelicot",
+      "count": 1
+    },
+    {
+      "id": "129734",
+      "name": "Diffrent",
+      "count": 1
+    },
+    {
+      "id": "117642",
+      "name": "Dj Babatr",
+      "count": 1
+    },
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    },
+    {
+      "id": "102359",
+      "name": "Dr Dubplate",
+      "count": 1
+    },
+    {
+      "id": "34062",
+      "name": "Elias Mazian",
+      "count": 1
+    }
+  ]
+}

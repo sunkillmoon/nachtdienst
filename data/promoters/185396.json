@@ -1,0 +1,54 @@
+{
+  "id": "185396",
+  "name": "TRANSITION",
+  "upcoming": [
+    {
+      "id": "ra:2421033",
+      "title": "BCCO x TRANSITION",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2421033"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "121129",
+      "name": "Amphia",
+      "count": 1
+    },
+    {
+      "id": "93785",
+      "name": "ANNĒ",
+      "count": 1
+    },
+    {
+      "id": "93149",
+      "name": "DJ Hyperdrive",
+      "count": 1
+    },
+    {
+      "id": "164360",
+      "name": "FENIM0RE",
+      "count": 1
+    },
+    {
+      "id": "77302",
+      "name": "future.666",
+      "count": 1
+    },
+    {
+      "id": "137240",
+      "name": "HUJUS",
+      "count": 1
+    },
+    {
+      "id": "136976",
+      "name": "SHE/HER",
+      "count": 1
+    }
+  ]
+}

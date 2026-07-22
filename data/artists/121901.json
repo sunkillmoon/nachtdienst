@@ -1,0 +1,38 @@
+{
+  "id": "121901",
+  "name": "mul/ANNA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2494101",
+      "title": "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494101"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2399032",
+      "title": "PIP meets Stingray 313 / mul/ANNA / KI/IP",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399032"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "166703",
+  "name": "LIEKS",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479794"
+    },
+    {
+      "id": "ra:2490622",
+      "title": "AFTER DARK // ROTTERDAM",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490622"
+    }
+  ],
+  "past": []
+}

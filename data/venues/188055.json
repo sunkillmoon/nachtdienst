@@ -24,6 +24,16 @@
       "venue_id": "188055",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478267"
+    },
+    {
+      "id": "ra:2414839",
+      "title": "Olivier Weiter b2b Miss Melera",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414839"
     }
   ],
   "past": []

@@ -12,6 +12,36 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2395761",
+      "title": "SOLD OUT We are iT at the beach 2026",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2395761"
+    },
+    {
+      "id": "ra:2484681",
+      "title": "WE ARE BACK - Indoor Festival",
+      "date": "2026-10-03",
+      "start": "2026-10-03T19:30+02:00",
+      "venue": "Popei",
+      "venue_id": "290812",
+      "area": "All",
+      "url": "https://ra.co/events/2484681"
     }
   ],
   "past": []

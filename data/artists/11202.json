@@ -2,7 +2,8 @@
   "id": "11202",
   "name": "Ivano Tetelepta",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2475947",
       "title": "ESHU Vibes x Kronkel",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2475947"
     }
-  ],
-  "past": []
+  ]
 }

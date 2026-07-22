@@ -1,0 +1,24 @@
+{
+  "id": "129858",
+  "name": "Kaap Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2462927",
+      "title": "Tim Green all day long",
+      "date": "2026-10-10",
+      "start": "2026-10-10T17:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462927"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "2144",
+      "name": "Tim Green",
+      "count": 1
+    }
+  ]
+}

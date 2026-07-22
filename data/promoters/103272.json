@@ -1,0 +1,24 @@
+{
+  "id": "103272",
+  "name": "Redlof Records",
+  "upcoming": [
+    {
+      "id": "ra:2464345",
+      "title": "John Doe CLUB presents: Mosher",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464345"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "100027",
+      "name": "Mosher",
+      "count": 1
+    }
+  ]
+}

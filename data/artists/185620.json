@@ -2,7 +2,18 @@
   "id": "185620",
   "name": "Noumena",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2489503",
+      "title": "Ouragan takeover",
+      "date": "2026-08-21",
+      "start": "2026-08-21T18:00+02:00",
+      "venue": "got.Drip",
+      "venue_id": "297342",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489503"
+    }
+  ],
   "past": [
     {
       "id": "ra:2484096",

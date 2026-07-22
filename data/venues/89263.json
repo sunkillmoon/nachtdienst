@@ -14,6 +14,16 @@
       "venue_id": "89263",
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
+    },
+    {
+      "id": "ra:2309776",
+      "title": "Geheime Liefde, HRFST",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Fort Vechten",
+      "venue_id": "89263",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2309776"
     }
   ],
   "past": []

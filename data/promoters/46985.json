@@ -1,0 +1,49 @@
+{
+  "id": "46985",
+  "name": "Rinse FM",
+  "upcoming": [
+    {
+      "id": "ra:2481531",
+      "title": "UNMUTE X Rinse FM X Back:beat",
+      "date": "2026-09-06",
+      "start": "2026-09-06T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2481531"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183814",
+      "name": "SOVÉ (2)",
+      "count": 1
+    },
+    {
+      "id": "124162",
+      "name": "Janis Zielinski",
+      "count": 1
+    },
+    {
+      "id": "146324",
+      "name": "JÄMO",
+      "count": 1
+    },
+    {
+      "id": "182572",
+      "name": "Sam Hofman",
+      "count": 1
+    },
+    {
+      "id": "180589",
+      "name": "CLAESSENS",
+      "count": 1
+    },
+    {
+      "id": "87856",
+      "name": "DJANGO (NL)",
+      "count": 1
+    }
+  ]
+}

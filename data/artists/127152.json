@@ -12,6 +12,16 @@
       "venue_id": "18674",
       "area": "All",
       "url": "https://ra.co/events/2235347"
+    },
+    {
+      "id": "ra:2370218",
+      "title": "HIGH TEA Tilburg x SUBQUAKE",
+      "date": "2026-09-05",
+      "start": "2026-09-05T14:00+02:00",
+      "venue": "013 Poppodium",
+      "venue_id": "7861",
+      "area": "All",
+      "url": "https://ra.co/events/2370218"
     }
   ],
   "past": []

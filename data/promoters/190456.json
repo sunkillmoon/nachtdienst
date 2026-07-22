@@ -1,7 +1,8 @@
 {
   "id": "190456",
   "name": "BAR GOTO",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488826",
       "title": "CLUB GOTO X JANGALA",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2488826"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "122579",

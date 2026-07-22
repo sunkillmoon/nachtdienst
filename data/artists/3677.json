@@ -12,6 +12,16 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2472104"
+    },
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
     }
   ],
   "past": []

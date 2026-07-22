@@ -1,0 +1,20 @@
+{
+  "id": "296714",
+  "name": "De Mispelhoef",
+  "area": "Eindhoven",
+  "lat": 51.47,
+  "lng": 5.41,
+  "upcoming": [
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    }
+  ],
+  "past": []
+}

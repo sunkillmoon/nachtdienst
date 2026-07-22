@@ -24,6 +24,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2455670"
+    },
+    {
+      "id": "ra:2462831",
+      "title": "Plastilina Mosh",
+      "date": "2026-08-29",
+      "start": "2026-08-29T17:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462831"
     }
   ],
   "past": [

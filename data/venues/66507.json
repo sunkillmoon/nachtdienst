@@ -1,0 +1,30 @@
+{
+  "id": "66507",
+  "name": "H7 Warehouse",
+  "area": "Amsterdam",
+  "lat": 52.390513,
+  "lng": 4.830901,
+  "upcoming": [
+    {
+      "id": "ra:2437906",
+      "title": "22-08-2026 H7 FESTIVAL // AMSTERDAM",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437906"
+    },
+    {
+      "id": "ra:2490634",
+      "title": "H7 AFTERPARTY // AMSTERDAM",
+      "date": "2026-08-22",
+      "start": "2026-08-23T00:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490634"
+    }
+  ],
+  "past": []
+}

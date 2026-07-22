@@ -1,0 +1,20 @@
+{
+  "id": "243999",
+  "name": "Pink Beach by Wondr",
+  "area": "All",
+  "lat": 52.39,
+  "lng": 4.92,
+  "upcoming": [
+    {
+      "id": "ra:2403542",
+      "title": "Adam & Eve - Pink Beach Edition",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Pink Beach by Wondr",
+      "venue_id": "243999",
+      "area": "All",
+      "url": "https://ra.co/events/2403542"
+    }
+  ],
+  "past": []
+}

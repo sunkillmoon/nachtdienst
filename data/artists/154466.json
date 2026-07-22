@@ -12,6 +12,16 @@
       "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2464413"
+    },
+    {
+      "id": "ra:2480696",
+      "title": "Multigroove presents: NoXa Invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480696"
     }
   ],
   "past": []

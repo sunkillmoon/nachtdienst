@@ -22,6 +22,46 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2436233",
+      "title": "Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436233"
+    },
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2424479",
+      "title": "HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2424479"
     }
   ],
   "past": []

@@ -1,0 +1,20 @@
+{
+  "id": "170010",
+  "name": "Ndsm",
+  "area": "Amsterdam",
+  "lat": 52.35878,
+  "lng": 4.862978,
+  "upcoming": [
+    {
+      "id": "ra:2420292",
+      "title": "Circoloco Amsterdam",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Ndsm",
+      "venue_id": "170010",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420292"
+    }
+  ],
+  "past": []
+}

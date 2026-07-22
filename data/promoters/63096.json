@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "86340",
+      "name": "amara",
+      "count": 1
+    },
+    {
+      "id": "14996",
+      "name": "Amz",
+      "count": 1
+    },
+    {
+      "id": "155509",
+      "name": "BARROSKINI",
+      "count": 1
+    },
+    {
+      "id": "123252",
+      "name": "Nsasi",
+      "count": 1
+    },
+    {
+      "id": "120627",
+      "name": "Garnett",
+      "count": 1
+    },
+    {
+      "id": "70865",
+      "name": "Han",
+      "count": 1
+    },
+    {
+      "id": "82892",
+      "name": "Jay Mitta",
+      "count": 1
+    },
+    {
+      "id": "76354",
+      "name": "Kampire",
+      "count": 1
+    },
+    {
+      "id": "34062",
+      "name": "Elias Mazian",
+      "count": 1
+    },
+    {
+      "id": "101929",
+      "name": "Regal86",
+      "count": 1
+    }
+  ]
 }

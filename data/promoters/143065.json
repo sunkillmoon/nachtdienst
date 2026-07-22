@@ -1,0 +1,84 @@
+{
+  "id": "143065",
+  "name": "Dark Session",
+  "upcoming": [
+    {
+      "id": "ra:2437906",
+      "title": "22-08-2026 H7 FESTIVAL // AMSTERDAM",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437906"
+    },
+    {
+      "id": "ra:2490634",
+      "title": "H7 AFTERPARTY // AMSTERDAM",
+      "date": "2026-08-22",
+      "start": "2026-08-23T00:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490634"
+    },
+    {
+      "id": "ra:2490622",
+      "title": "AFTER DARK // ROTTERDAM",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490622"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "137079",
+      "name": "BLNK",
+      "count": 1
+    },
+    {
+      "id": "125725",
+      "name": "D|K|OXY",
+      "count": 1
+    },
+    {
+      "id": "109371",
+      "name": "PARAPHER",
+      "count": 1
+    },
+    {
+      "id": "144671",
+      "name": "KRUELTY",
+      "count": 1
+    },
+    {
+      "id": "180598",
+      "name": "LS41 (2)",
+      "count": 1
+    },
+    {
+      "id": "89701",
+      "name": "TiTi",
+      "count": 1
+    },
+    {
+      "id": "166202",
+      "name": "KAKI (GE)",
+      "count": 1
+    },
+    {
+      "id": "166703",
+      "name": "LIEKS",
+      "count": 1
+    },
+    {
+      "id": "129283",
+      "name": "Nyctonian",
+      "count": 1
+    }
+  ]
+}

@@ -4,7 +4,18 @@
   "area": "Rotterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2466330",
+      "title": "POING FESTIVAL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466330"
+    }
+  ],
   "past": [
     {
       "id": "ra:2478274",

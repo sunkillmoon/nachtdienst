@@ -1,0 +1,49 @@
+{
+  "id": "142223",
+  "name": "Epiphany Records",
+  "upcoming": [
+    {
+      "id": "ra:2489575",
+      "title": "fruit salad x Epiphany Records",
+      "date": "2026-08-30",
+      "start": "2026-08-30T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489575"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "110141",
+      "name": "Annebel",
+      "count": 1
+    },
+    {
+      "id": "119041",
+      "name": "baby ganoush",
+      "count": 1
+    },
+    {
+      "id": "119851",
+      "name": "Masha Wordpress",
+      "count": 1
+    },
+    {
+      "id": "126335",
+      "name": "Lena Rigel",
+      "count": 1
+    },
+    {
+      "id": "117173",
+      "name": "Ambu Bambu",
+      "count": 1
+    },
+    {
+      "id": "184623",
+      "name": "lis (5)",
+      "count": 1
+    }
+  ]
+}

@@ -3,16 +3,6 @@
   "name": "VERKNIPT",
   "upcoming": [
     {
-      "id": "ra:2454339",
-      "title": "VERKNIPT Beach Special - 19 July",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Beachclub Fuel",
-      "venue_id": "105125",
-      "area": "All",
-      "url": "https://ra.co/events/2454339"
-    },
-    {
       "id": "ra:2466427",
       "title": "PULSE x Diffrent All Day Long",
       "date": "2026-08-15",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2466427"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2454339",
+      "title": "VERKNIPT Beach Special - 19 July",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2454339"
+    }
+  ],
   "top_artists": [
     {
       "id": "86340",

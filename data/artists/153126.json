@@ -1,0 +1,28 @@
+{
+  "id": "153126",
+  "name": "Liso (1)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2489049",
+      "title": "HYPERWAVES invites Flux Collective",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489049"
+    },
+    {
+      "id": "ra:2385114",
+      "title": "PSYLÂN 2026 · Alien Paradise",
+      "date": "2026-09-04",
+      "start": "2026-09-04T10:00+02:00",
+      "venue": "Scoutinglandgoed Zeewolde",
+      "venue_id": "286703",
+      "area": "All",
+      "url": "https://ra.co/events/2385114"
+    }
+  ],
+  "past": []
+}

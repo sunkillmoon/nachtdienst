@@ -124,6 +124,36 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2422944"
+    },
+    {
+      "id": "ra:2422946",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422946"
+    },
+    {
+      "id": "ra:2422949",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422949"
+    },
+    {
+      "id": "ra:2422966",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-02",
+      "start": "2026-09-02T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422966"
     }
   ],
   "past": [

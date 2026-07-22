@@ -12,6 +12,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488592"
+    },
+    {
+      "id": "ra:2402455",
+      "title": "Lobster invites",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402455"
     }
   ],
   "past": []

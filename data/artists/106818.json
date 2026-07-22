@@ -1,0 +1,28 @@
+{
+  "id": "106818",
+  "name": "DJ Heartstring",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2464483",
+      "title": "Audio Obscura Festival [By Night]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2464483"
+    }
+  ],
+  "past": []
+}

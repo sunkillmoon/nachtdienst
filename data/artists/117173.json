@@ -22,6 +22,26 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490623"
+    },
+    {
+      "id": "ra:2466330",
+      "title": "POING FESTIVAL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466330"
+    },
+    {
+      "id": "ra:2489575",
+      "title": "fruit salad x Epiphany Records",
+      "date": "2026-08-30",
+      "start": "2026-08-30T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489575"
     }
   ],
   "past": []

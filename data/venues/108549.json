@@ -6,16 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2483651",
-      "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
-      "date": "2026-07-19",
-      "start": "2026-07-19T20:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483651"
-    },
-    {
       "id": "ra:2488586",
       "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
       "date": "2026-07-24",
@@ -76,6 +66,16 @@
       "url": "https://ra.co/events/2490752"
     },
     {
+      "id": "ra:2494208",
+      "title": "Robbie Doherty - all night long",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494208"
+    },
+    {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",
       "date": "2026-08-14",
@@ -86,6 +86,16 @@
       "url": "https://ra.co/events/2490449"
     },
     {
+      "id": "ra:2493279",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493279"
+    },
+    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -94,9 +104,49 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
+    },
+    {
+      "id": "ra:2492190",
+      "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492190"
+    },
+    {
+      "id": "ra:2458327",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
+      "date": "2026-08-29",
+      "start": "2026-08-30T05:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458327"
+    },
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
     }
   ],
   "past": [
+    {
+      "id": "ra:2483651",
+      "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
+      "date": "2026-07-19",
+      "start": "2026-07-19T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483651"
+    },
     {
       "id": "ra:2381526",
       "title": "The Ghost x BRET",

@@ -1,0 +1,29 @@
+{
+  "id": "183843",
+  "name": "Woods Events",
+  "upcoming": [
+    {
+      "id": "ra:2402363",
+      "title": "Woods Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Hut van Mie Pils",
+      "venue_id": "288378",
+      "area": "All",
+      "url": "https://ra.co/events/2402363"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "17451",
+      "name": "Erick E",
+      "count": 1
+    },
+    {
+      "id": "53893",
+      "name": "Ferreck Dawn",
+      "count": 1
+    }
+  ]
+}

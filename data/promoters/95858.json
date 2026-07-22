@@ -14,5 +14,51 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "157231",
+      "name": "Mila Haj Kasem",
+      "count": 1
+    },
+    {
+      "id": "84095",
+      "name": "Rosati",
+      "count": 1
+    },
+    {
+      "id": "109242",
+      "name": "Serti",
+      "count": 1
+    },
+    {
+      "id": "103529",
+      "name": "Thoms Traxx",
+      "count": 1
+    },
+    {
+      "id": "174777",
+      "name": "ISA W",
+      "count": 1
+    },
+    {
+      "id": "122099",
+      "name": "Juliana X",
+      "count": 1
+    },
+    {
+      "id": "85310",
+      "name": "MMIV",
+      "count": 1
+    },
+    {
+      "id": "146879",
+      "name": "SERAFIM",
+      "count": 1
+    },
+    {
+      "id": "105158",
+      "name": "Vuur",
+      "count": 1
+    }
+  ]
 }

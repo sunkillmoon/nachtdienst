@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.539105,
   "lng": 5.076607,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453191",
       "title": "Holy Pink 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2453191"
     }
-  ],
-  "past": []
+  ]
 }

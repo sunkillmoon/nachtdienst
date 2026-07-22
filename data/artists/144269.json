@@ -12,6 +12,16 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2354081"
+    },
+    {
+      "id": "ra:2412218",
+      "title": "Complex presents Armand Van Helden",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2412218"
     }
   ],
   "past": []

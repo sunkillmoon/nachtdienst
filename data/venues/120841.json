@@ -54,6 +54,66 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2445602"
+    },
+    {
+      "id": "ra:2445604",
+      "title": "Complex Summer with The Drift System",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445604"
+    },
+    {
+      "id": "ra:2412218",
+      "title": "Complex presents Armand Van Helden",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2412218"
+    },
+    {
+      "id": "ra:2425634",
+      "title": "Claydrum presents Samuel Moriero",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2425634"
+    },
+    {
+      "id": "ra:2419331",
+      "title": "HOTLINE presents Pegassi",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:30+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2419331"
+    },
+    {
+      "id": "ra:2465042",
+      "title": "Riot Starter",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2465042"
+    },
+    {
+      "id": "ra:2424479",
+      "title": "HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2424479"
     }
   ],
   "past": [

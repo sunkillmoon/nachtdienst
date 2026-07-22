@@ -1,0 +1,48 @@
+{
+  "id": "169937",
+  "name": "Club Laak",
+  "upcoming": [
+    {
+      "id": "ra:2491497",
+      "title": "Club Day & Night (Season opening)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491497"
+    },
+    {
+      "id": "ra:2491473",
+      "title": "Club Night",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491473"
+    },
+    {
+      "id": "ra:2491494",
+      "title": "Club night",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491494"
+    },
+    {
+      "id": "ra:2491475",
+      "title": "Club Night",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491475"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

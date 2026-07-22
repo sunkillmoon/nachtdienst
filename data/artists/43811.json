@@ -2,7 +2,8 @@
   "id": "43811",
   "name": "Weval",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484801",
       "title": "Drift Block Party",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2484801"
     }
-  ],
-  "past": []
+  ]
 }

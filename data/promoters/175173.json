@@ -11,6 +11,16 @@
       "venue_id": "294025",
       "area": "All",
       "url": "https://ra.co/events/2451995"
+    },
+    {
+      "id": "ra:2403542",
+      "title": "Adam & Eve - Pink Beach Edition",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Pink Beach by Wondr",
+      "venue_id": "243999",
+      "area": "All",
+      "url": "https://ra.co/events/2403542"
     }
   ],
   "past": [],
@@ -18,6 +28,11 @@
     {
       "id": "165890",
       "name": "Urban",
+      "count": 2
+    },
+    {
+      "id": "79394",
+      "name": "Aries",
       "count": 1
     }
   ]

@@ -11,28 +11,53 @@
       "venue_id": "228945",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484097"
+    },
+    {
+      "id": "ra:2489503",
+      "title": "Ouragan takeover",
+      "date": "2026-08-21",
+      "start": "2026-08-21T18:00+02:00",
+      "venue": "got.Drip",
+      "venue_id": "297342",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489503"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "138622",
+      "name": "Giovane Filippo",
+      "count": 2
+    },
+    {
+      "id": "170995",
+      "name": "tanggero",
+      "count": 2
+    },
+    {
+      "id": "165567",
+      "name": "The Silentist",
+      "count": 2
+    },
     {
       "id": "176403",
       "name": "Frissonn",
       "count": 1
     },
     {
-      "id": "138622",
-      "name": "Giovane Filippo",
+      "id": "125739",
+      "name": "Normal Stage",
       "count": 1
     },
     {
-      "id": "170995",
-      "name": "tanggero",
+      "id": "185620",
+      "name": "Noumena",
       "count": 1
     },
     {
-      "id": "165567",
-      "name": "The Silentist",
+      "id": "166548",
+      "name": "Peach Fuzz (2)",
       "count": 1
     }
   ]

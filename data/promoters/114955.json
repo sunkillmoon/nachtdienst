@@ -1,0 +1,69 @@
+{
+  "id": "114955",
+  "name": "POING CLUB",
+  "upcoming": [
+    {
+      "id": "ra:2466330",
+      "title": "POING FESTIVAL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466330"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117173",
+      "name": "Ambu Bambu",
+      "count": 1
+    },
+    {
+      "id": "104265",
+      "name": "AMORAL",
+      "count": 1
+    },
+    {
+      "id": "173673",
+      "name": "Candy Coup",
+      "count": 1
+    },
+    {
+      "id": "86255",
+      "name": "Chippy Nonstop",
+      "count": 1
+    },
+    {
+      "id": "87795",
+      "name": "Coffintexts",
+      "count": 1
+    },
+    {
+      "id": "56880",
+      "name": "Epiphany",
+      "count": 1
+    },
+    {
+      "id": "149712",
+      "name": "Jo FLM",
+      "count": 1
+    },
+    {
+      "id": "143174",
+      "name": "Joya Astou",
+      "count": 1
+    },
+    {
+      "id": "136708",
+      "name": "justin case",
+      "count": 1
+    },
+    {
+      "id": "95124",
+      "name": "Miss Jay (RO)",
+      "count": 1
+    }
+  ]
+}

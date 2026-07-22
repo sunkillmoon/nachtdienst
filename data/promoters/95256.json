@@ -81,6 +81,106 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423424"
+    },
+    {
+      "id": "ra:2458317",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458317"
+    },
+    {
+      "id": "ra:2464416",
+      "title": "Symfora",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464416"
+    },
+    {
+      "id": "ra:2490658",
+      "title": "Kirollus [all day long]",
+      "date": "2026-09-06",
+      "start": "2026-09-06T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490658"
+    },
+    {
+      "id": "ra:2479566",
+      "title": "Lofi by Tjade",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479566"
+    },
+    {
+      "id": "ra:2458490",
+      "title": "Massano - All Night Long",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458490"
+    },
+    {
+      "id": "ra:2452089",
+      "title": "Patio - Summer Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452089"
+    },
+    {
+      "id": "ra:2448883",
+      "title": "Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2448883"
+    },
+    {
+      "id": "ra:2483660",
+      "title": "Mindscape - Live set experience",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483660"
+    },
+    {
+      "id": "ra:2480696",
+      "title": "Multigroove presents: NoXa Invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T15:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480696"
+    },
+    {
+      "id": "ra:2490633",
+      "title": "Cincity [all night long]",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490633"
     }
   ],
   "past": [],

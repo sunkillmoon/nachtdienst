@@ -22,6 +22,16 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2475450"
+    },
+    {
+      "id": "ra:2484549",
+      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2484549"
     }
   ],
   "past": []

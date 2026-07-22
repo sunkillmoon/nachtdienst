@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2460452",
       "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
       "date": "2026-07-19",
@@ -13,6 +35,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2460452"
     }
-  ],
-  "past": []
+  ]
 }

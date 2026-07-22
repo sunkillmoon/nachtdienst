@@ -1,7 +1,8 @@
 {
   "id": "187971",
   "name": "Baron Collective",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454666",
       "title": "Baron Collective",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2454666"
     }
   ],
-  "past": [],
   "top_artists": []
 }
