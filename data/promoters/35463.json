@@ -3,16 +3,6 @@
   "name": "UNDRGRND Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2475467",
-      "title": "No Sundays Without Techno",
-      "date": "2026-07-19",
-      "start": "2026-07-19T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475467"
-    },
-    {
       "id": "ra:2475657",
       "title": "TRUEFORM x UNDRGRND",
       "date": "2026-07-24",
@@ -31,14 +21,35 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2475643"
+    },
+    {
+      "id": "ra:2494712",
+      "title": "Pride Special x UNDRGRND - Techno Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494712"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2475467",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-19",
+      "start": "2026-07-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475467"
+    }
+  ],
   "top_artists": [
     {
       "id": "66028",
       "name": "Alex Sharp",
-      "count": 2
+      "count": 3
     },
     {
       "id": "34115",

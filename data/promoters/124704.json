@@ -3,16 +3,6 @@
   "name": "ColoradoCharlieNL",
   "upcoming": [
     {
-      "id": "ra:2460452",
-      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2460452"
-    },
-    {
       "id": "ra:2362374",
       "title": "Colorado Charlie x COLOURIZON with Miss Melera (All Day Long)",
       "date": "2026-07-25",
@@ -71,20 +61,31 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
+    },
+    {
+      "id": "ra:2486365",
+      "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486365"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2460452",
+      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460452"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "118815",
-      "name": "Jamback",
-      "count": 1
-    },
-    {
-      "id": "77529",
-      "name": "Laura De Greef",
-      "count": 1
-    },
     {
       "id": "32322",
       "name": "Miss Melera",
@@ -123,6 +124,16 @@
     {
       "id": "75202",
       "name": "Kendal",
+      "count": 1
+    },
+    {
+      "id": "108064",
+      "name": "Spacer Woman",
+      "count": 1
+    },
+    {
+      "id": "141124",
+      "name": "22 Interns",
       "count": 1
     }
   ]

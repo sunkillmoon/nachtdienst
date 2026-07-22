@@ -3,16 +3,6 @@
   "name": "Thuishaven",
   "upcoming": [
     {
-      "id": "ra:2407224",
-      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2407224"
-    },
-    {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
       "date": "2026-07-25",
@@ -83,7 +73,18 @@
       "url": "https://ra.co/events/2443517"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    }
+  ],
   "top_artists": [
     {
       "id": "92873",
@@ -96,43 +97,43 @@
       "count": 2
     },
     {
-      "id": "42186",
-      "name": "Philou Louzolo",
+      "id": "103655",
+      "name": "DAWS",
       "count": 1
     },
     {
-      "id": "152684",
-      "name": "Ammé",
+      "id": "176575",
+      "name": "KINETIKS",
       "count": 1
     },
     {
-      "id": "117966",
-      "name": "Joëlla Jackson",
+      "id": "102180",
+      "name": "Papa Nugs",
       "count": 1
     },
     {
-      "id": "79065",
-      "name": "Maqossa",
+      "id": "119784",
+      "name": "Paperkraft",
       "count": 1
     },
     {
-      "id": "156254",
-      "name": "TINS",
+      "id": "95084",
+      "name": "PNNY",
       "count": 1
     },
     {
-      "id": "179646",
-      "name": "LYLO (NL)",
+      "id": "112784",
+      "name": "Azucy",
       "count": 1
     },
     {
-      "id": "136770",
-      "name": "Lyrae",
+      "id": "185706",
+      "name": "JUUL",
       "count": 1
     },
     {
-      "id": "125726",
-      "name": "WOLTERS",
+      "id": "121702",
+      "name": "Klankers",
       "count": 1
     }
   ]

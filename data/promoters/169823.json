@@ -1,7 +1,8 @@
 {
   "id": "169823",
   "name": "PSYROM",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466755",
       "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2466755"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "95701",

@@ -21,6 +21,16 @@
       "venue_id": "265448",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2442055"
+    },
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
     }
   ],
   "past": [],
@@ -43,6 +53,21 @@
     {
       "id": "152684",
       "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "56571",
+      "name": "Kepler",
+      "count": 1
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
+      "count": 1
+    },
+    {
+      "id": "88056",
+      "name": "Boss Priester",
       "count": 1
     }
   ]

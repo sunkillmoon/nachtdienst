@@ -3,26 +3,6 @@
   "name": "BRET",
   "upcoming": [
     {
-      "id": "ra:2483651",
-      "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
-      "date": "2026-07-19",
-      "start": "2026-07-19T20:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483651"
-    },
-    {
-      "id": "ra:2488586",
-      "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
-      "date": "2026-07-24",
-      "start": "2026-07-24T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488586"
-    },
-    {
       "id": "ra:2479656",
       "title": "SLPFNK SUMMER GATHERING - BRET",
       "date": "2026-07-25",
@@ -31,6 +11,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479656"
+    },
+    {
+      "id": "ra:2488592",
+      "title": "LOBSTER INVITES MAC DECLOS",
+      "date": "2026-08-02",
+      "start": "2026-08-02T18:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488592"
     },
     {
       "id": "ra:2490752",
@@ -43,6 +33,16 @@
       "url": "https://ra.co/events/2490752"
     },
     {
+      "id": "ra:2494208",
+      "title": "Robbie Doherty - all night long",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494208"
+    },
+    {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",
       "date": "2026-08-14",
@@ -51,6 +51,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490449"
+    },
+    {
+      "id": "ra:2493279",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493279"
     },
     {
       "id": "ra:2483642",
@@ -63,31 +73,27 @@
       "url": "https://ra.co/events/2483642"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2483651",
+      "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",
+      "date": "2026-07-19",
+      "start": "2026-07-19T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483651"
+    }
+  ],
   "top_artists": [
     {
-      "id": "426",
-      "name": "Ben Sims",
+      "id": "77232",
+      "name": "Lobster (NL)",
       "count": 1
     },
     {
-      "id": "69798",
-      "name": "TAFKAMP",
-      "count": 1
-    },
-    {
-      "id": "141111",
-      "name": "Pelanoir",
-      "count": 1
-    },
-    {
-      "id": "84095",
-      "name": "Rosati",
-      "count": 1
-    },
-    {
-      "id": "98278",
-      "name": "Special Guest (US)",
+      "id": "103691",
+      "name": "Mac Declos",
       "count": 1
     },
     {
@@ -106,6 +112,11 @@
       "count": 1
     },
     {
+      "id": "94324",
+      "name": "Robbie Doherty",
+      "count": 1
+    },
+    {
       "id": "128932",
       "name": "bullet tooth",
       "count": 1
@@ -113,6 +124,16 @@
     {
       "id": "118668",
       "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "103738",
+      "name": "Melody RA+RE",
+      "count": 1
+    },
+    {
+      "id": "79757",
+      "name": "Truly Madly",
       "count": 1
     }
   ]

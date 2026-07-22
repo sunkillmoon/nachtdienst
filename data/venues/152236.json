@@ -6,16 +6,6 @@
   "lng": 4.291748,
   "upcoming": [
     {
-      "id": "ra:2460452",
-      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
-      "date": "2026-07-19",
-      "start": "2026-07-19T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2460452"
-    },
-    {
       "id": "ra:2420278",
       "title": "Overbruggen Summer Series - Colorado Charlie",
       "date": "2026-07-24",
@@ -104,9 +94,29 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
+    },
+    {
+      "id": "ra:2486365",
+      "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486365"
     }
   ],
   "past": [
+    {
+      "id": "ra:2460452",
+      "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",
+      "date": "2026-07-19",
+      "start": "2026-07-19T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460452"
+    },
     {
       "id": "ra:2357558",
       "title": "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT",

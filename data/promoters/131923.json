@@ -14,7 +14,7 @@
     },
     {
       "id": "ra:2330518",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ Kuzio [DE] / Zeyvers / Pokedecks",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
       "date": "2026-07-24",
       "start": "2026-07-24T23:00+02:00",
       "venue": "Panama",
@@ -71,6 +71,26 @@
       "venue_id": "1729",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330520"
+    },
+    {
+      "id": "ra:2422946",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422946"
+    },
+    {
+      "id": "ra:2423000",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423000"
     }
   ],
   "past": [],

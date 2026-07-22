@@ -2,7 +2,8 @@
   "id": "178966",
   "name": "Mimmo Errico",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2391088",
       "title": "ECLECTIK",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2391088"
     }
-  ],
-  "past": []
+  ]
 }

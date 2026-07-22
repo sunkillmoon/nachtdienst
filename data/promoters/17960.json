@@ -3,16 +3,6 @@
   "name": "Techno Tuesday Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2477810",
-      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477810"
-    },
-    {
       "id": "ra:2477812",
       "title": "Techno Tuesday Amsterdam, Lenz, Dexon, Ladaeg",
       "date": "2026-07-28",
@@ -53,7 +43,18 @@
       "url": "https://ra.co/events/2492900"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2477810",
+      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477810"
+    }
+  ],
   "top_artists": [
     {
       "id": "8455",

@@ -61,6 +61,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445865"
+    },
+    {
+      "id": "ra:2446379",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446379"
     }
   ],
   "past": [],
@@ -68,6 +78,11 @@
     {
       "id": "103744",
       "name": "Robin Hastings",
+      "count": 2
+    },
+    {
+      "id": "116203",
+      "name": "Mischa Duncan",
       "count": 2
     },
     {
@@ -93,11 +108,6 @@
     {
       "id": "95957",
       "name": "Divain",
-      "count": 1
-    },
-    {
-      "id": "116203",
-      "name": "Mischa Duncan",
       "count": 1
     },
     {

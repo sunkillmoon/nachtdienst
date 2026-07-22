@@ -12,6 +12,16 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466510"
+    },
+    {
+      "id": "ra:2494208",
+      "title": "Robbie Doherty - all night long",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494208"
     }
   ],
   "past": []

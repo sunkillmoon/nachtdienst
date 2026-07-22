@@ -6,36 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2475467",
-      "title": "No Sundays Without Techno",
-      "date": "2026-07-19",
-      "start": "2026-07-19T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475467"
-    },
-    {
-      "id": "ra:2477905",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-07-20",
-      "start": "2026-07-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477905"
-    },
-    {
-      "id": "ra:2481778",
-      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481778"
-    },
-    {
       "id": "ra:2444417",
       "title": "RAVELAND: Hard Techno & Hard Bounce w/ Darshan [AUS], Arabesque [AUS], Aztlan Zidonia [MEX]",
       "date": "2026-07-22",
@@ -86,6 +56,16 @@
       "url": "https://ra.co/events/2475643"
     },
     {
+      "id": "ra:2493300",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
+      "date": "2026-07-27",
+      "start": "2026-07-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493300"
+    },
+    {
       "id": "ra:2460722",
       "title": "[PHANTOM GROUP] KLUBNACHT",
       "date": "2026-07-28",
@@ -114,6 +94,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2494712",
+      "title": "Pride Special x UNDRGRND - Techno Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494712"
     },
     {
       "id": "ra:2492701",
@@ -214,9 +204,59 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2482085"
+    },
+    {
+      "id": "ra:2446379",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446379"
+    },
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
     }
   ],
   "past": [
+    {
+      "id": "ra:2481778",
+      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481778"
+    },
+    {
+      "id": "ra:2477905",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477905"
+    },
+    {
+      "id": "ra:2475467",
+      "title": "No Sundays Without Techno",
+      "date": "2026-07-19",
+      "start": "2026-07-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475467"
+    },
     {
       "id": "ra:2477362",
       "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",

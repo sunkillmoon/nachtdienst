@@ -3,16 +3,6 @@
   "name": "RIZE",
   "upcoming": [
     {
-      "id": "ra:2481778",
-      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481778"
-    },
-    {
       "id": "ra:2460722",
       "title": "[PHANTOM GROUP] KLUBNACHT",
       "date": "2026-07-28",
@@ -53,27 +43,23 @@
       "url": "https://ra.co/events/2482085"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481778",
+      "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481778"
+    }
+  ],
   "top_artists": [
     {
       "id": "160452",
       "name": "JTN (1)",
       "count": 2
-    },
-    {
-      "id": "185468",
-      "name": "STVN (2)",
-      "count": 1
-    },
-    {
-      "id": "139206",
-      "name": "BIØNIC BAMBI",
-      "count": 1
-    },
-    {
-      "id": "173764",
-      "name": "SUKA",
-      "count": 1
     },
     {
       "id": "77901",
@@ -88,6 +74,21 @@
     {
       "id": "168810",
       "name": "inKKiss",
+      "count": 1
+    },
+    {
+      "id": "185468",
+      "name": "STVN (2)",
+      "count": 1
+    },
+    {
+      "id": "139206",
+      "name": "BIØNIC BAMBI",
+      "count": 1
+    },
+    {
+      "id": "173764",
+      "name": "SUKA",
       "count": 1
     }
   ]

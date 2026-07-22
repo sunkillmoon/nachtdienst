@@ -6,16 +6,6 @@
   "lng": 4.871839,
   "upcoming": [
     {
-      "id": "ra:2464040",
-      "title": "De Reünie",
-      "date": "2026-07-19",
-      "start": "2026-07-19T15:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464040"
-    },
-    {
       "id": "ra:2466408",
       "title": "De Sluwe Vos • Danielle",
       "date": "2026-07-24",
@@ -84,9 +74,29 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488567"
+    },
+    {
+      "id": "ra:2492294",
+      "title": "Andy Luff • Alexia Glensy",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492294"
     }
   ],
   "past": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    },
     {
       "id": "ra:2466395",
       "title": "Tsepo All Night",

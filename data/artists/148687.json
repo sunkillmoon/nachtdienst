@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453191",
-      "title": "Holy Pink 2026",
-      "date": "2026-07-20",
-      "start": "2026-07-20T13:00+02:00",
-      "venue": "Muzentuin Tilburg",
-      "venue_id": "114854",
-      "area": "All",
-      "url": "https://ra.co/events/2453191"
-    },
-    {
       "id": "ra:2486670",
       "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
       "date": "2026-07-31",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2488542"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2453191",
+      "title": "Holy Pink 2026",
+      "date": "2026-07-20",
+      "start": "2026-07-20T13:00+02:00",
+      "venue": "Muzentuin Tilburg",
+      "venue_id": "114854",
+      "area": "All",
+      "url": "https://ra.co/events/2453191"
+    }
+  ]
 }

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2375299",
+      "title": "Lowlands 2026",
+      "date": "2026-08-21",
+      "start": "2026-08-21T10:00+02:00",
+      "venue": "Lowlands Festival Site",
+      "venue_id": "6646",
+      "area": "All",
+      "url": "https://ra.co/events/2375299"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488832",
       "title": "CLUB GOTO",
       "date": "2026-07-21",
@@ -13,6 +25,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488832"
     }
-  ],
-  "past": []
+  ]
 }

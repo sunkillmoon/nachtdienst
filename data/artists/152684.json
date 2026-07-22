@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2407224",
-      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2407224"
-    },
-    {
       "id": "ra:2426010",
       "title": "Hush at the Beach with Riordan, Job de Jong & More",
       "date": "2026-07-24",
@@ -72,7 +62,28 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2466207",
+      "title": "TOFFLER presents LEYO and friends",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466207"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    }
+  ]
 }

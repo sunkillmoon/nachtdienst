@@ -12,6 +12,16 @@
       "venue_id": "286756",
       "area": "All",
       "url": "https://ra.co/events/2385640"
+    },
+    {
+      "id": "ra:2493384",
+      "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493384"
     }
   ],
   "past": []

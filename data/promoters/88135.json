@@ -51,6 +51,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477393"
+    },
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
     }
   ],
   "past": [],
@@ -58,7 +68,7 @@
     {
       "id": "99004",
       "name": "Marco Ramos",
-      "count": 4
+      "count": 5
     },
     {
       "id": "89568",
@@ -68,6 +78,11 @@
     {
       "id": "21842",
       "name": "Durcheinander",
+      "count": 1
+    },
+    {
+      "id": "158939",
+      "name": "QV (1)",
       "count": 1
     }
   ]

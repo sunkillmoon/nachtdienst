@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 51.843677,
   "lng": 5.86286,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2475947",
       "title": "ESHU Vibes x Kronkel",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2475947"
     }
-  ],
-  "past": []
+  ]
 }

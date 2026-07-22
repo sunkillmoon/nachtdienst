@@ -26,6 +26,16 @@
       "url": "https://ra.co/events/2453266"
     },
     {
+      "id": "ra:2493228",
+      "title": "BONDRU",
+      "date": "2026-07-26",
+      "start": "2026-07-26T19:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493228"
+    },
+    {
       "id": "ra:2439799",
       "title": "RPU presents Lustrum",
       "date": "2026-07-31",
@@ -46,6 +56,16 @@
       "url": "https://ra.co/events/2430672"
     },
     {
+      "id": "ra:2493231",
+      "title": "SOTO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493231"
+    },
+    {
       "id": "ra:2492263",
       "title": "SERVE Eurosummer",
       "date": "2026-08-09",
@@ -54,6 +74,26 @@
       "venue_id": "269324",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492263"
+    },
+    {
+      "id": "ra:2493234",
+      "title": "Scene",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493234"
+    },
+    {
+      "id": "ra:2489049",
+      "title": "HYPERWAVES invites Flux Collective",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489049"
     }
   ],
   "past": []

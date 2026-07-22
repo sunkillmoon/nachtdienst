@@ -6,16 +6,6 @@
   "lng": 4.2893,
   "upcoming": [
     {
-      "id": "ra:2436222",
-      "title": "Rotterdam Rave Beach Sessions with davyboi",
-      "date": "2026-07-19",
-      "start": "2026-07-19T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2436222"
-    },
-    {
       "id": "ra:2426010",
       "title": "Hush at the Beach with Riordan, Job de Jong & More",
       "date": "2026-07-24",
@@ -74,7 +64,28 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2436229"
+    },
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2436222",
+      "title": "Rotterdam Rave Beach Sessions with davyboi",
+      "date": "2026-07-19",
+      "start": "2026-07-19T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436222"
+    }
+  ]
 }

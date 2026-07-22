@@ -33,16 +33,6 @@
       "url": "https://ra.co/events/2490639"
     },
     {
-      "id": "ra:2490643",
-      "title": "Striptopia - Club Chrome",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490643"
-    },
-    {
       "id": "ra:2490653",
       "title": "Pyxls x HD Heaven - CLUB CHROME",
       "date": "2026-08-07",
@@ -51,6 +41,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490653"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
     },
     {
       "id": "ra:2490645",
@@ -68,6 +68,16 @@
     {
       "id": "112642",
       "name": "Milian Dolla",
+      "count": 1
+    },
+    {
+      "id": "88748",
+      "name": "Hannah Diamond",
+      "count": 1
+    },
+    {
+      "id": "74611",
+      "name": "LYZZA",
       "count": 1
     },
     {
@@ -93,16 +103,6 @@
     {
       "id": "123484",
       "name": "Shaw Cain",
-      "count": 1
-    },
-    {
-      "id": "88748",
-      "name": "Hannah Diamond",
-      "count": 1
-    },
-    {
-      "id": "74611",
-      "name": "LYZZA",
       "count": 1
     },
     {

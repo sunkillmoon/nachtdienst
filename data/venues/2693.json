@@ -6,26 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2476766",
-      "title": "Cheeky Monday: Jade Venom (15 Years of Eatbrain)",
-      "date": "2026-07-20",
-      "start": "2026-07-20T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476766"
-    },
-    {
-      "id": "ra:2477810",
-      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
-      "date": "2026-07-21",
-      "start": "2026-07-21T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477810"
-    },
-    {
       "id": "ra:2490619",
       "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
       "date": "2026-07-25",
@@ -96,6 +76,16 @@
       "url": "https://ra.co/events/2490639"
     },
     {
+      "id": "ra:2495223",
+      "title": "Cheeky Monday: Silvahfonk",
+      "date": "2026-08-03",
+      "start": "2026-08-03T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495223"
+    },
+    {
       "id": "ra:2492896",
       "title": "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM",
       "date": "2026-08-04",
@@ -116,16 +106,6 @@
       "url": "https://ra.co/events/2483964"
     },
     {
-      "id": "ra:2490643",
-      "title": "Striptopia - Club Chrome",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490643"
-    },
-    {
       "id": "ra:2490653",
       "title": "Pyxls x HD Heaven - CLUB CHROME",
       "date": "2026-08-07",
@@ -134,6 +114,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490653"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
     },
     {
       "id": "ra:2490645",
@@ -146,6 +136,16 @@
       "url": "https://ra.co/events/2490645"
     },
     {
+      "id": "ra:2495225",
+      "title": "Cheeky Monday Soundsystem",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495225"
+    },
+    {
       "id": "ra:2492898",
       "title": "Techno Tuesday Amsterdam, Alexa Strange, Dexon, A.R.T",
       "date": "2026-08-11",
@@ -156,6 +156,16 @@
       "url": "https://ra.co/events/2492898"
     },
     {
+      "id": "ra:2495228",
+      "title": "Cheeky Monday: Natty Lou",
+      "date": "2026-08-17",
+      "start": "2026-08-17T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495228"
+    },
+    {
       "id": "ra:2492900",
       "title": "Techno Tuesday Amsterdam, Dexon, CHAFA, Alix",
       "date": "2026-08-18",
@@ -164,9 +174,39 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492900"
+    },
+    {
+      "id": "ra:2423000",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423000"
     }
   ],
   "past": [
+    {
+      "id": "ra:2477810",
+      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
+      "date": "2026-07-21",
+      "start": "2026-07-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477810"
+    },
+    {
+      "id": "ra:2476766",
+      "title": "Cheeky Monday: Jade Venom (15 Years of Eatbrain)",
+      "date": "2026-07-20",
+      "start": "2026-07-20T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476766"
+    },
     {
       "id": "ra:2474895",
       "title": "EAST Techno Collective",

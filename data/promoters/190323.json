@@ -1,7 +1,8 @@
 {
   "id": "190323",
   "name": "Mozzy",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487470",
       "title": "Rave in the Park",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2487470"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "159186",

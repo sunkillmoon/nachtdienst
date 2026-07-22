@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454666",
       "title": "Baron Collective",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454666"
     }
-  ],
-  "past": []
+  ]
 }

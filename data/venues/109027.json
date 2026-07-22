@@ -6,16 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2407224",
-      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
-      "date": "2026-07-19",
-      "start": "2026-07-19T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2407224"
-    },
-    {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
       "date": "2026-07-25",
@@ -107,6 +97,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2407224",
+      "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
+      "date": "2026-07-19",
+      "start": "2026-07-19T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407224"
+    },
     {
       "id": "ra:2373339",
       "title": "18 JUL - Thuishaven with Michel de Hey 10HRS",

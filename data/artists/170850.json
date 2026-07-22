@@ -2,7 +2,8 @@
   "id": "170850",
   "name": "Mia Banks",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492154",
       "title": "Mia's HOUSE of DISCO - Vierdaagse feesten",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2492154"
     }
-  ],
-  "past": []
+  ]
 }

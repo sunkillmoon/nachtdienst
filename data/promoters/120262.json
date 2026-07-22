@@ -3,8 +3,18 @@
   "name": "Tale of Bus",
   "upcoming": [
     {
+      "id": "ra:2492874",
+      "title": "Tobana",
+      "date": "2026-07-24",
+      "start": "2026-07-24T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492874"
+    },
+    {
       "id": "ra:2491852",
-      "title": "Tale of Bus after hours",
+      "title": "Tale of Bus afterhours",
       "date": "2026-08-02",
       "start": "2026-08-02T22:00+02:00",
       "venue": "Het Salon",
@@ -15,6 +25,21 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "161876",
+      "name": "Lazystep",
+      "count": 1
+    },
+    {
+      "id": "93746",
+      "name": "Hannecart",
+      "count": 1
+    },
+    {
+      "id": "131102",
+      "name": "Santiago Guilá",
+      "count": 1
+    },
     {
       "id": "111744",
       "name": "Kuba'97",

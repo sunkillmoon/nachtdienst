@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 51.845471,
   "lng": 5.861369,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488231",
       "title": "BALANS X THE LOW END",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2488231"
     }
-  ],
-  "past": []
+  ]
 }

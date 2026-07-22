@@ -1,7 +1,8 @@
 {
   "id": "190526",
   "name": "cell service",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488125",
       "title": "Club Ecology // Simon Deschamps // quasistate // with Project X",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2488125"
     }
   ],
-  "past": [],
   "top_artists": []
 }

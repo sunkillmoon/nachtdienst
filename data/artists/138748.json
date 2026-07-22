@@ -2,7 +2,8 @@
   "id": "138748",
   "name": "Osmosis Jones",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488824",
       "title": "CLUB GOTO X ALL BREAKS ALLOWED",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488824"
     }
-  ],
-  "past": []
+  ]
 }

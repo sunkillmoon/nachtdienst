@@ -12,6 +12,26 @@
       "venue_id": "129182",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489890"
+    },
+    {
+      "id": "ra:2453208",
+      "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
+      "date": "2026-07-26",
+      "start": "2026-07-26T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453208"
+    },
+    {
+      "id": "ra:2375299",
+      "title": "Lowlands 2026",
+      "date": "2026-08-21",
+      "start": "2026-08-21T10:00+02:00",
+      "venue": "Lowlands Festival Site",
+      "venue_id": "6646",
+      "area": "All",
+      "url": "https://ra.co/events/2375299"
     }
   ],
   "past": []

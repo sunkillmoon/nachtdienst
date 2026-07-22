@@ -3,16 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2464040",
-      "title": "De Reünie",
-      "date": "2026-07-19",
-      "start": "2026-07-19T15:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464040"
-    },
-    {
       "id": "ra:2466408",
       "title": "De Sluwe Vos • Danielle",
       "date": "2026-07-24",
@@ -81,35 +71,31 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488567"
+    },
+    {
+      "id": "ra:2492294",
+      "title": "Andy Luff • Alexia Glensy",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492294"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2464040",
+      "title": "De Reünie",
+      "date": "2026-07-19",
+      "start": "2026-07-19T15:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464040"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "105271",
-      "name": "Cybersex",
-      "count": 1
-    },
-    {
-      "id": "105235",
-      "name": "N.R.M",
-      "count": 1
-    },
-    {
-      "id": "118674",
-      "name": "TWIENA",
-      "count": 1
-    },
-    {
-      "id": "168116",
-      "name": "MXV (1)",
-      "count": 1
-    },
-    {
-      "id": "164603",
-      "name": "rriddim",
-      "count": 1
-    },
     {
       "id": "24930",
       "name": "De Sluwe Vos",
@@ -133,6 +119,31 @@
     {
       "id": "42221",
       "name": "ISAbella",
+      "count": 1
+    },
+    {
+      "id": "76997",
+      "name": "Dee Diggs",
+      "count": 1
+    },
+    {
+      "id": "6041",
+      "name": "Tom Trago",
+      "count": 1
+    },
+    {
+      "id": "2949",
+      "name": "Carlos Valdes",
+      "count": 1
+    },
+    {
+      "id": "108348",
+      "name": "Mattias El Mansouri",
+      "count": 1
+    },
+    {
+      "id": "148687",
+      "name": "36framez",
       "count": 1
     }
   ]

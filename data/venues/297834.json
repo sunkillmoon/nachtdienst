@@ -1,0 +1,20 @@
+{
+  "id": "297834",
+  "name": "TBA - DAM SQUARE / VONDELPARK after 14:00",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2493327",
+      "title": "PRIDE WORLDWIDE OPENING + PRIDE WALK hosted by Boogie House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T11:00+02:00",
+      "venue": "TBA - DAM SQUARE / VONDELPARK after 14:00",
+      "venue_id": "297834",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493327"
+    }
+  ],
+  "past": []
+}
