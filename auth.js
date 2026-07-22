@@ -17,7 +17,7 @@
   let session = null;
   let picksCache = new Map(); // event_id -> "went" | "want_to_go"
   let picksMeta = new Map(); // event_id -> created_at (ISO); logged-in only
-  let followsCache = new Set(); // artist_id
+  let followsCache = new Set(); // "kind:id" (kind = artist | promoter)
   let favoriteVenuesCache = new Set(); // venue_name
   let customEventsCache = []; // user-authored diary rows
   const listeners = [];
@@ -55,13 +55,13 @@
     const uid = session.user.id;
     const [picksRes, followsRes, favRes, customRes] = await Promise.all([
       sb.from("picks").select("event_id,status,created_at").eq("user_id", uid),
-      sb.from("follows").select("artist_id").eq("user_id", uid),
+      sb.from("follows").select("artist_id,kind").eq("user_id", uid),
       sb.from("favorite_venues").select("venue_name").eq("user_id", uid),
       sb.from("custom_events").select("*").eq("user_id", uid),
     ]);
     picksCache = new Map((picksRes.data || []).map((r) => [r.event_id, r.status]));
     picksMeta = new Map((picksRes.data || []).map((r) => [r.event_id, r.created_at]));
-    followsCache = new Set((followsRes.data || []).map((r) => r.artist_id));
+    followsCache = new Set((followsRes.data || []).map((r) => `${r.kind || "artist"}:${r.artist_id}`));
     favoriteVenuesCache = new Set((favRes.data || []).map((r) => r.venue_name));
     customEventsCache = customRes.data || [];
   }
@@ -220,8 +220,9 @@
       notify();
     },
     // Whole-collection getters for the profile page.
-    getFollows() {
-      return [...followsCache];
+    getFollows(kind = "artist") {
+      const prefix = `${kind}:`;
+      return [...followsCache].filter((k) => k.startsWith(prefix)).map((k) => k.slice(prefix.length));
     },
     getFavoriteVenues() {
       return [...favoriteVenuesCache];
@@ -262,18 +263,19 @@
       if (error) throw error;
       await sb.auth.signOut();
     },
-    isFollowing(artistId) {
-      return followsCache.has(artistId);
+    isFollowing(id, kind = "artist") {
+      return followsCache.has(`${kind}:${id}`);
     },
-    async toggleFollow(artistId) {
+    async toggleFollow(id, kind = "artist") {
       if (!session) return;
       const uid = session.user.id;
-      if (followsCache.has(artistId)) {
-        await sb.from("follows").delete().eq("user_id", uid).eq("artist_id", artistId);
-        followsCache.delete(artistId);
+      const key = `${kind}:${id}`;
+      if (followsCache.has(key)) {
+        await sb.from("follows").delete().eq("user_id", uid).eq("kind", kind).eq("artist_id", id);
+        followsCache.delete(key);
       } else {
-        await sb.from("follows").insert({ user_id: uid, artist_id: artistId });
-        followsCache.add(artistId);
+        await sb.from("follows").insert({ user_id: uid, artist_id: id, kind });
+        followsCache.add(key);
       }
       notify();
     },

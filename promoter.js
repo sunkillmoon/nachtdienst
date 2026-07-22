@@ -21,16 +21,18 @@ function formatGigDate(dateStr) {
 }
 
 // FOLLOW is a placeholder this batch: no backend table yet. Logged-out visitors
-// get nudged to log in; logged-in visitors see a disabled "FOLLOWING SOON".
-function renderFollow() {
-  const loggedIn = window.NachtkaartAuth.isLoggedIn();
-  linksEl.innerHTML = loggedIn
-    ? `<button class="link-btn" type="button" id="followBtn" disabled>FOLLOWING SOON</button>`
-    : `<button class="link-btn" type="button" id="followBtn">FOLLOW</button>`;
-  const btn = document.getElementById("followBtn");
-  if (!loggedIn) {
-    btn.addEventListener("click", () => window.NachtkaartAuth.openLogin());
-  }
+// Real follow toggle (kind: promoter), mirroring the artist page.
+function renderFollow(promoter) {
+  const following = window.NachtkaartAuth.isFollowing(promoter.id, "promoter");
+  linksEl.innerHTML = `<button class="link-btn${following ? " active" : ""}" type="button" id="followBtn">${following ? "FOLLOWING" : "FOLLOW"}</button>`;
+  document.getElementById("followBtn").addEventListener("click", async () => {
+    if (!window.NachtkaartAuth.isLoggedIn()) {
+      window.NachtkaartAuth.openLogin();
+      return;
+    }
+    await window.NachtkaartAuth.toggleFollow(promoter.id, "promoter");
+    renderFollow(promoter);
+  });
 }
 
 function topArtistsHtml(list) {
@@ -84,13 +86,13 @@ async function init() {
 
   document.title = `NACHTKAART — ${promoter.name}`;
   nameEl.textContent = promoter.name;
-  renderFollow();
+  renderFollow(promoter);
   mainEl.innerHTML =
     topArtistsHtml(promoter.top_artists) +
     renderSection("UPCOMING", promoter.upcoming || []) +
     renderSection("PAST", promoter.past || []);
 
-  window.NachtkaartAuth.onAuthChange(renderFollow);
+  window.NachtkaartAuth.onAuthChange(() => renderFollow(promoter));
 }
 
 init();
