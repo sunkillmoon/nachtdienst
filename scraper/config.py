@@ -19,12 +19,15 @@ AREAS = {
 # Which areas the scraper fetches. National feed by default; edit to narrow scope.
 SCRAPE_AREA_IDS = [AREAS["netherlands"]]
 
-DEFAULT_DAYS_AHEAD = 30  # RA's unofficial API caps a single request's date range at 30 days.
+# Days ahead to fetch. RA's eventListings paginates a 90-day window fine (verified
+# 2026-07-22: 718 rows over ~88 days, no truncation) — the earlier "30-day cap" was
+# overcautious. Kept a config value so the window is easy to tune.
+DEFAULT_DAYS_AHEAD = 90
 
 PAGE_SIZE = 20
 # Safety cap; a run that hits this logs a warning instead of looping forever.
-# The national feed (area 176) runs ~26 pages over a 30-day window, so 40 leaves headroom.
-MAX_PAGES = 40
+# The national feed (area 176) runs ~36 pages over a 90-day window, so 60 leaves headroom.
+MAX_PAGES = 60
 
 SLEEP_SECONDS = 1.5  # between paginated requests only, not before the first
 

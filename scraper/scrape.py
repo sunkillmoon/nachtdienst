@@ -19,7 +19,7 @@ def parse_args():
     )
     parser.add_argument(
         "--days", type=int, default=config.DEFAULT_DAYS_AHEAD,
-        help="Days ahead to fetch (RA caps a single request's range at 30)",
+        help="Days ahead to fetch (up to 90; RA paginates that window fine)",
     )
     parser.add_argument("--out", default=str(config.DEFAULT_OUTPUT), help="Output JSON path")
     parser.add_argument(
@@ -31,8 +31,8 @@ def parse_args():
 
 def main():
     args = parse_args()
-    if args.days > 30:
-        raise SystemExit("--days cannot exceed 30 (RA's unofficial API request-range cap)")
+    if args.days > 90:
+        raise SystemExit("--days cannot exceed 90 (beyond this RA's window gets unreliable)")
 
     today = date.today()
     date_from = today.isoformat()
