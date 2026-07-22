@@ -128,49 +128,94 @@ function customRowHtml(ce) {
 
 // ---------- sections ----------
 
-async function renderFollowing() {
-  const ids = window.NachtkaartAuth.getFollows();
-  const label = `<div class="section-label">FOLLOWING (${ids.length})</div>`;
-  if (!ids.length) return label + `<div class="empty">NOBODY YET — FOLLOW ARTISTS FROM THEIR PAGES.</div>`;
+// ---------- collapsible sections (open/closed persisted, first ~10 + SHOW ALL) ----------
+
+const LS_OPEN = "nachtkaart:profileOpen";
+
+function openState() {
+  try { return JSON.parse(localStorage.getItem(LS_OPEN) || "{}"); } catch { return {}; }
+}
+function isSecOpen(key) {
+  const o = openState();
+  return key in o ? !!o[key] : true; // default open
+}
+function setSecOpen(key, val) {
+  const o = openState();
+  o[key] = val;
+  try { localStorage.setItem(LS_OPEN, JSON.stringify(o)); } catch {}
+}
+
+function collapsible(key, titleWithCount, bodyHtml) {
+  const open = isSecOpen(key);
+  return `<section class="sec">` +
+    `<button class="sec-head" type="button" data-sec-toggle data-key="${key}">` +
+    `<span class="sec-title">${titleWithCount}</span>` +
+    `<span class="sec-caret">${open ? "–" : "+"}</span></button>` +
+    `<div class="sec-body${open ? "" : " closed"}">${bodyHtml}</div></section>`;
+}
+
+// Body of rows with the first ~10 shown and a SHOW ALL toggle for the rest (CSS
+// hides the 11th+ until expanded, so no re-render needed).
+function rowsBody(rowsHtml, emptyMsg) {
+  if (!rowsHtml.length) return `<div class="empty">${emptyMsg}</div>`;
+  const collapsed = rowsHtml.length > 10;
+  return `<div class="sec-rows${collapsed ? " collapsed" : ""}">${rowsHtml.join("")}</div>` +
+    (collapsed ? `<button class="show-all" type="button" data-showall>SHOW ALL (${rowsHtml.length})</button>` : "");
+}
+
+async function renderFollowingArtists() {
+  const ids = window.NachtkaartAuth.getFollows("artist");
   const names = await Promise.all(
     ids.map(async (id) => {
       const a = await fetchJson(`data/artists/${encodeURIComponent(id)}.json?t=${CACHE_BUST}`);
       return (a && a.name) || id;
     })
   );
-  const rows = ids
-    .map(
-      (id, i) => `<div class="prow">` +
-        `<a class="prow-main prow-name" href="artist.html?id=${encodeURIComponent(id)}">${esc(names[i])}</a>` +
-        `<button class="prow-action" type="button" data-unfollow="${esc(id)}">UNFOLLOW</button></div>`
-    )
-    .join("");
-  return label + rows;
+  const rows = ids.map(
+    (id, i) => `<div class="prow">` +
+      `<a class="prow-main prow-name" href="artist.html?id=${encodeURIComponent(id)}">${esc(names[i])}</a>` +
+      `<button class="prow-action" type="button" data-unfollow="${esc(id)}" data-kind="artist">UNFOLLOW</button></div>`
+  );
+  return collapsible("following-artists", `FOLLOWING — ARTISTS (${ids.length})`,
+    rowsBody(rows, "NOBODY YET — FOLLOW ARTISTS FROM THEIR PAGES."));
+}
+
+async function renderFollowingPromoters() {
+  const ids = window.NachtkaartAuth.getFollows("promoter");
+  const names = await Promise.all(
+    ids.map(async (id) => {
+      const p = await fetchJson(`data/promoters/${encodeURIComponent(id)}.json?t=${CACHE_BUST}`);
+      return (p && p.name) || id;
+    })
+  );
+  const rows = ids.map(
+    (id, i) => `<div class="prow">` +
+      `<a class="prow-main prow-name" href="promoter.html?id=${encodeURIComponent(id)}">${esc(names[i])}</a>` +
+      `<button class="prow-action" type="button" data-unfollow="${esc(id)}" data-kind="promoter">UNFOLLOW</button></div>`
+  );
+  return collapsible("following-promoters", `FOLLOWING — PROMOTERS (${ids.length})`,
+    rowsBody(rows, "NO PROMOTERS FOLLOWED YET."));
 }
 
 function renderVenues() {
   const names = window.NachtkaartAuth.getFavoriteVenues();
-  const label = `<div class="section-label">VENUES (${names.length})</div>`;
-  if (!names.length) return label + `<div class="empty">NO SAVED VENUES YET.</div>`;
-  const rows = names
-    .map((name) => {
-      const vid = venueNameToId.get(name);
-      const main = vid != null
-        ? `<a class="prow-main prow-name" href="venue.html?id=${encodeURIComponent(vid)}">${esc(name)}</a>`
-        : `<span class="prow-main prow-name">${esc(name)}</span>`;
-      return `<div class="prow">${main}<button class="prow-action" type="button" data-unfav="${esc(name)}">REMOVE</button></div>`;
-    })
-    .join("");
-  return label + rows;
+  const rows = names.map((name) => {
+    const vid = venueNameToId.get(name);
+    const main = vid != null
+      ? `<a class="prow-main prow-name" href="venue.html?id=${encodeURIComponent(vid)}">${esc(name)}</a>`
+      : `<span class="prow-main prow-name">${esc(name)}</span>`;
+    return `<div class="prow">${main}<button class="prow-action" type="button" data-unfav="${esc(name)}">REMOVE</button></div>`;
+  });
+  return collapsible("venues", `VENUES (${names.length})`, rowsBody(rows, "NO SAVED VENUES YET."));
 }
 
 function renderWantToGo(picks) {
   const list = picks
     .filter((p) => p.status === "want_to_go")
     .sort((a, b) => (pickSortKey(a) < pickSortKey(b) ? -1 : 1));
-  const label = `<div class="section-label">WANT TO GO (${list.length})</div>`;
-  if (!list.length) return label + `<div class="empty">NOTHING ON THE LIST. THE NIGHT IS YOUNG.</div>`;
-  return label + list.map(eventRowHtml).join("");
+  const rows = list.map(eventRowHtml);
+  return collapsible("want-to-go", `WANT TO GO (${list.length})`,
+    rowsBody(rows, "NOTHING ON THE LIST. THE NIGHT IS YOUNG."));
 }
 
 function pickSortKey(pick) {
@@ -197,11 +242,12 @@ function renderWent(picks) {
   const addBlock =
     `<div class="add-past"><button class="link-btn" type="button" id="addPastBtn">+ ADD PAST EVENT</button></div>` +
     addPanelHtml();
-  const label = `<div class="section-label">WENT (${wentAll.length})</div>`;
-  if (!wentAll.length) {
-    return label + addBlock + `<div class="empty">NO NIGHTS LOGGED YET.</div>`;
-  }
-  return label + addBlock + `<div id="wentList"></div><div id="wentMore"></div>`;
+  const body = wentAll.length
+    ? addBlock + `<div id="wentList"></div><div id="wentMore"></div>`
+    : addBlock + `<div class="empty">NO NIGHTS LOGGED YET.</div>`;
+  // WENT keeps its own 50 + LOAD MORE paging (the diary can be huge), so no
+  // first-10 SHOW ALL here — just the collapsible wrapper.
+  return collapsible("went", `WENT (${wentAll.length})`, body);
 }
 
 function appendWent() {
@@ -420,9 +466,13 @@ async function render() {
   const picks = window.NachtkaartAuth.getPicks();
   await loadEventIndex(new Set(picks.map((p) => p.event_id)));
 
-  const following = await renderFollowing();
+  const [followingArtists, followingPromoters] = await Promise.all([
+    renderFollowingArtists(),
+    renderFollowingPromoters(),
+  ]);
   mainEl.innerHTML =
-    following +
+    followingArtists +
+    followingPromoters +
     renderVenues() +
     renderWantToGo(picks) +
     renderWent(picks) +
@@ -433,9 +483,24 @@ async function render() {
 }
 
 mainEl.addEventListener("click", async (e) => {
+  const secToggle = e.target.closest("[data-sec-toggle]");
+  if (secToggle) {
+    const body = secToggle.closest(".sec").querySelector(".sec-body");
+    const nowClosed = body.classList.toggle("closed");
+    secToggle.querySelector(".sec-caret").textContent = nowClosed ? "+" : "–";
+    setSecOpen(secToggle.dataset.key, !nowClosed);
+    return;
+  }
+  const showall = e.target.closest("[data-showall]");
+  if (showall) {
+    const rows = showall.previousElementSibling;
+    const stillCollapsed = rows.classList.toggle("collapsed");
+    showall.textContent = stillCollapsed ? `SHOW ALL (${rows.children.length})` : "SHOW LESS";
+    return;
+  }
   const unfollow = e.target.closest("[data-unfollow]");
   if (unfollow) {
-    await window.NachtkaartAuth.toggleFollow(unfollow.dataset.unfollow);
+    await window.NachtkaartAuth.toggleFollow(unfollow.dataset.unfollow, unfollow.dataset.kind || "artist");
     const row = unfollow.closest(".prow");
     if (row) row.remove();
     return;
