@@ -85,13 +85,18 @@ async function loadEventIndex(pickIds) {
 // ---------- row renderers ----------
 
 let profileGigs = [];
-function eventRowHtml(pick) {
+// A WENT pick is removable (instant, since it's recoverable — just re-log it);
+// WANT TO GO rows pass removable=false.
+function eventRowHtml(pick, removable = false) {
+  const remove = removable
+    ? `<span class="gig-tags"><button class="prow-action" type="button" data-remove-pick="${esc(pick.event_id)}">REMOVE</button></span>`
+    : "";
   const ev = eventIndex.get(pick.event_id);
   if (!ev) {
     const d = pick.created_at ? formatDate(pick.created_at.slice(0, 10)) : "—";
     return `<div class="gig unresolved"><span class="gig-date">${d}</span><span>` +
       `<span class="gig-title">${esc(pick.event_id)}</span>` +
-      `<span class="gig-sub">EVENT NO LONGER IN RANGE</span></span></div>`;
+      `<span class="gig-sub">EVENT NO LONGER IN RANGE</span>${remove}</span></div>`;
   }
   const gi = profileGigs.push({
     id: pick.event_id, title: ev.title, date: ev.date,
@@ -103,7 +108,7 @@ function eventRowHtml(pick) {
   const sub = `<span class="gig-sub">${venue}${ev.area ? " · " + esc(ev.area) : ""}</span>`;
   return `<div class="gig" role="button" tabindex="0" data-gi="${gi}">` +
     `<span class="gig-date">${formatDate(ev.date)}</span>` +
-    `<span><span class="gig-title">${esc(ev.title)}</span>${sub}</span></div>`;
+    `<span><span class="gig-title">${esc(ev.title)}</span>${sub}${remove}</span></div>`;
 }
 
 // Diary entry. Linked names where an RA id is present, plain text otherwise.
@@ -234,7 +239,7 @@ let wentShown = 0;
 
 function buildWentItems(picks) {
   const items = [];
-  for (const p of picks.filter((p) => p.status === "went")) items.push({ date: pickSortKey(p), html: eventRowHtml(p) });
+  for (const p of picks.filter((p) => p.status === "went")) items.push({ date: pickSortKey(p), html: eventRowHtml(p, true) });
   for (const ce of window.NachtkaartAuth.getCustomEvents()) items.push({ date: ce.date, html: customRowHtml(ce) });
   items.sort((a, b) => (a.date > b.date ? -1 : 1));
   return items;
@@ -523,16 +528,41 @@ mainEl.addEventListener("click", async (e) => {
     await render();
     return;
   }
+  // Removing a WENT pick is instant — it's recoverable (re-log it any time).
+  const removePick = e.target.closest("[data-remove-pick]");
+  if (removePick) {
+    await window.NachtkaartAuth.setPick(removePick.dataset.removePick, null);
+    removePick.closest(".gig").remove();
+    return;
+  }
+  // Removing a custom diary entry is irrecoverable -> two-step confirm.
   const removeCustom = e.target.closest("[data-remove-custom]");
   if (removeCustom) {
-    await window.NachtkaartAuth.deleteCustomEvent(removeCustom.dataset.removeCustom);
+    const id = removeCustom.dataset.removeCustom;
+    removeCustom.closest(".gig-tags").innerHTML =
+      `<span class="confirm-remove">DELETE FOREVER?</span>` +
+      `<button class="prow-action" type="button" data-cancel-remove="${esc(id)}">KEEP</button>` +
+      `<button class="prow-action" type="button" data-confirm-remove-custom="${esc(id)}">DELETE</button>`;
+    return;
+  }
+  const confirmRemove = e.target.closest("[data-confirm-remove-custom]");
+  if (confirmRemove) {
+    await window.NachtkaartAuth.deleteCustomEvent(confirmRemove.dataset.confirmRemoveCustom);
     await render();
     return;
   }
+  const cancelRemove = e.target.closest("[data-cancel-remove]");
+  if (cancelRemove) {
+    cancelRemove.closest(".gig-tags").innerHTML =
+      `<span class="tag-diary">DIARY</span>` +
+      `<button class="prow-action" type="button" data-remove-custom="${esc(cancelRemove.dataset.cancelRemove)}">REMOVE</button>`;
+    return;
+  }
   if (e.target.closest("[data-loadmore]")) { appendWent(); return; }
-  // A resolved WENT / WANT-TO-GO row opens the shared panel (unless a link inside).
+  // A resolved WENT / WANT-TO-GO row opens the shared panel — but not when a link
+  // or a button (REMOVE etc.) inside it was tapped.
   const gigRow = e.target.closest("[data-gi]");
-  if (gigRow && !e.target.closest("a")) window.NkPanel.openGig(profileGigs[Number(gigRow.dataset.gi)]);
+  if (gigRow && !e.target.closest("a") && !e.target.closest("button")) window.NkPanel.openGig(profileGigs[Number(gigRow.dataset.gi)]);
 });
 
 mainEl.addEventListener("keydown", (e) => {
