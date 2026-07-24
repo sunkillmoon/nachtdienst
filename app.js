@@ -18,6 +18,7 @@ const state = {
   cityCentroids: [], // [{ city, lat, lng }] derived from the data, for the header label
   cities: [],        // distinct real venue.area values, for the city filter
   cityFilter: "ALL", // "ALL" or a specific venue.area; persisted
+  freeOnly: false,   // when true, only price == "FREE" events; persisted
   map: null,
   markers: new Map(), // venueName/clusterKey -> { marker, el, venue, events }
   userMarker: null,   // maplibre Marker for the visitor's own position
@@ -25,6 +26,7 @@ const state = {
 
 // Persisted UI preferences (nachtkaart: prefix, matching auth.js).
 const LS_CITY = "nachtkaart:cityFilter";
+const LS_FREE = "nachtkaart:freeOnly";
 
 function safeGetItem(key) {
   try { return localStorage.getItem(key); } catch (_) { return null; }
@@ -38,6 +40,7 @@ const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
 const datePickerEl = document.getElementById("datePicker");
 const cityFilterEl = document.getElementById("cityFilter");
+const freeToggleEl = document.getElementById("freeToggle");
 const prevDayBtn = document.getElementById("prevDay");
 const nextDayBtn = document.getElementById("nextDay");
 const geoNoticeEl = document.getElementById("geoNotice");
@@ -213,7 +216,9 @@ function getVenueMeta(name) {
 // chronological (see sortEvents); this filters, it never regroups.
 function eventsForDate(date) {
   return state.allEvents.filter(
-    (e) => e.date === date && (state.cityFilter === "ALL" || e.venue.area === state.cityFilter)
+    (e) => e.date === date &&
+      (state.cityFilter === "ALL" || e.venue.area === state.cityFilter) &&
+      (!state.freeOnly || e.price === "FREE")
   );
 }
 
@@ -637,9 +642,19 @@ function setCityFilter(city) {
   renderMapMarkers();
 }
 
+function setFreeOnly(on) {
+  state.freeOnly = on;
+  try { localStorage.setItem(LS_FREE, on ? "1" : "0"); } catch (_) {}
+  freeToggleEl.classList.toggle("active", on);
+  freeToggleEl.setAttribute("aria-pressed", on ? "true" : "false");
+  renderTicker();
+  renderList();
+  renderMapMarkers();
+}
+
 // Populate the city <select> with ALL + every real city present in the data.
 function buildCityFilterOptions() {
-  const opts = ['<option value="ALL">ALL</option>'];
+  const opts = ['<option value="ALL">ALL CITIES</option>'];
   for (const city of state.cities) {
     const sel = city === state.cityFilter ? " selected" : "";
     opts.push(`<option value="${esc(city)}"${sel}>${esc(city.toUpperCase())}</option>`);
@@ -682,10 +697,13 @@ async function init() {
   state.cities = [...new Set(allEvents.map((e) => e.venue.area).filter((a) => a && a !== "All"))].sort();
   state.todayDate = currentNightAmsterdam();
 
-  // Restore persisted city filter; ignore a stored city that isn't in this data.
+  // Restore persisted filters; ignore a stored city that isn't in this data.
   const savedCity = safeGetItem(LS_CITY);
   state.cityFilter = savedCity && state.cities.includes(savedCity) ? savedCity : "ALL";
+  state.freeOnly = safeGetItem(LS_FREE) === "1";
   buildCityFilterOptions();
+  freeToggleEl.classList.toggle("active", state.freeOnly);
+  freeToggleEl.setAttribute("aria-pressed", state.freeOnly ? "true" : "false");
 
   const dates = [...new Set(allEvents.map((e) => e.date))].sort();
   state.minDate = dates[0] ?? state.todayDate;
@@ -714,6 +732,7 @@ if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.
 }
 datePickerEl.addEventListener("change", onDatePickerChange);
 cityFilterEl.addEventListener("change", () => setCityFilter(cityFilterEl.value));
+freeToggleEl.addEventListener("click", () => setFreeOnly(!state.freeOnly));
 
 matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", () => startTickerAnimation());
 

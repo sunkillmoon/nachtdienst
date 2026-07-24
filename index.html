@@ -192,6 +192,15 @@
     cursor:pointer;
   }
   .city-filter:focus-visible{ outline:1px solid var(--accent); outline-offset:-2px; }
+  .free-toggle{
+    flex:none;
+    font-family:var(--font-mono);
+    font-size:11px; letter-spacing:0.06em; text-transform:uppercase;
+    background:var(--bg); color:var(--text-dim);
+    border:none; border-left:1px solid var(--line);
+    padding:0 14px; cursor:pointer;
+  }
+  .free-toggle.active{ background:var(--accent); color:var(--bg); font-weight:700; }
 
   /* ---------- geolocation notice ---------- */
   .geo-notice{
@@ -653,8 +662,9 @@
     </div>
     <button class="stepper-btn" id="nextDay" type="button" aria-label="Next day">›</button>
     <select class="city-filter" id="cityFilter" aria-label="Filter by city">
-      <option value="ALL">ALL</option>
+      <option value="ALL">ALL CITIES</option>
     </select>
+    <button class="free-toggle" id="freeToggle" type="button" aria-pressed="false" aria-label="Show only free events">FREE</button>
   </nav>
 
   <div class="geo-notice" id="geoNotice">LOCATION UNAVAILABLE — SORTED FROM AMSTERDAM CENTER</div>
