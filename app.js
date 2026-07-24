@@ -390,6 +390,37 @@ async function startTickerAnimation() {
   );
 }
 
+// Ticker items are tappable: a tap opens that event (selecting its marker +
+// panel). Pause the marquee while a finger is down so the moving target is
+// hittable; a drag (scroll) is not a tap. Works for the reduced-motion path too
+// (no animation, ticker scrolls, tap still opens).
+let tickerPointer = null;
+function resumeTicker() {
+  if (tickerAnimation && tickerAnimation.playState === "paused") tickerAnimation.play();
+}
+function wireTicker() {
+  tickerWrapEl.addEventListener("pointerdown", (e) => {
+    tickerPointer = { x: e.clientX, y: e.clientY, moved: false };
+    if (tickerAnimation) tickerAnimation.pause();
+  });
+  tickerWrapEl.addEventListener("pointermove", (e) => {
+    if (tickerPointer && (Math.abs(e.clientX - tickerPointer.x) > 8 || Math.abs(e.clientY - tickerPointer.y) > 8)) {
+      tickerPointer.moved = true;
+    }
+  });
+  tickerWrapEl.addEventListener("pointerup", (e) => {
+    const wasTap = tickerPointer && !tickerPointer.moved;
+    tickerPointer = null;
+    resumeTicker();
+    if (wasTap) {
+      const item = e.target.closest(".item[data-id]");
+      if (item) openEvent(item.dataset.id);
+    }
+  });
+  tickerWrapEl.addEventListener("pointercancel", () => { tickerPointer = null; resumeTicker(); });
+  tickerWrapEl.addEventListener("pointerleave", () => { tickerPointer = null; resumeTicker(); });
+}
+
 function renderTicker() {
   const events = eventsForDate(state.selectedDate);
   tickerWrapEl.setAttribute("aria-label", `${formatDateLabel(state.selectedDate)}'s headline events`);
@@ -397,7 +428,7 @@ function renderTicker() {
     events.length === 0
       ? `<span class="item">NOTHING SCRAPED FOR THIS NIGHT YET.</span>`
       : events
-          .map((e) => `<span class="item">${e.title} <span class="v">${e.venue.name}</span></span><span class="sep">•</span>`)
+          .map((e) => `<span class="item" data-id="${e.id}">${e.title} <span class="v">${e.venue.name}</span></span><span class="sep">•</span>`)
           .join("");
   // duplicated once for a seamless loop (see startTickerAnimation)
   tickerEl.innerHTML = html + html;
@@ -740,5 +771,6 @@ matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", () => 
 // the list rows so their distance value follows. The panel manages its own
 // re-render + auth-driven refresh (see panel.js).
 window.NkPanel.onDistanceChange(() => renderList());
+wireTicker();
 
 init();
