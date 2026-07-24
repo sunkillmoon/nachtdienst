@@ -36,6 +36,9 @@
     color:var(--text);
     font-family:var(--font-mono);
     -webkit-font-smoothing:antialiased;
+    /* Stop iOS Safari auto-inflating text (it was blowing up some ticker items). */
+    -webkit-text-size-adjust:100%;
+    text-size-adjust:100%;
   }
 
   body{ min-height:100vh; overflow-x:hidden; }
@@ -401,7 +404,7 @@
       display:grid;
       grid-template-columns:92px 1fr 1.3fr auto;
       gap:12px;
-      align-items:center;
+      align-items:start; /* top-align columns; a tall venue+dist+promoter cell no longer centres and shoves the lineup out of line */
       padding:8px 16px;
     }
     .row-top{ margin:0; display:contents; }

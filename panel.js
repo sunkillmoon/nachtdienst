@@ -55,6 +55,16 @@
     const [y, m, d] = String(dateStr).split("-").map(Number);
     return `${d} ${MONTHS[m - 1]} ${y}`;
   }
+  // An event has ended once its end (or start) is past; for a date-only archive
+  // gig, once its night is before the current night (-8h rule). Ended events can
+  // only ever be WENT, never WANT TO GO.
+  function eventEnded(event) {
+    const now = Date.now();
+    if (event.end) return new Date(event.end).getTime() < now;
+    if (event.start) return new Date(event.start).getTime() < now;
+    if (event.date) return event.date < new Date(now - 8 * 3600 * 1000).toISOString().slice(0, 10);
+    return false;
+  }
   function posterInitials(title) {
     const w = String(title || "").trim().split(/\s+/).filter(Boolean);
     if (!w.length) return "??";
@@ -181,7 +191,8 @@
       `</div>` +
       (event.id ? `<div class="nk-rsvp">` +
         `<button class="nk-btn nk-rsvp-btn${pickStatus === "went" ? " active" : ""}" type="button" data-rsvp="went">WENT</button>` +
-        `<button class="nk-btn nk-rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>` +
+        (eventEnded(event) ? "" :
+          `<button class="nk-btn nk-rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>`) +
       `</div>` : "");
 
     const tile = bodyEl.querySelector("[data-dcycle]");
