@@ -1,12 +1,15 @@
-"""One-off helper: propose lat/lng overrides for venues with no real coordinates.
+"""Repeatable maintenance flow: give every venue lacking real coordinates a location.
 
-RA gives some venues a placeholder "somewhere in the Netherlands" location
-(exactly lat=52, lng=5, nulled out by scraper/transform.py). This geocodes
-those venues via Nominatim (OpenStreetMap's free geocoding service) and writes
-PROPOSALS to a separate file for review -- it never touches data/venues.json
-directly. Once you've reviewed scraper/geocode_proposals.json, re-run with
---apply to merge them in (still additive-only: skips any venue that already
-has a hand-set lat/lng, so it's safe to re-run after hand-correcting one).
+RA leaves some venues without a usable location -- a placeholder "somewhere in
+the Netherlands" (lat=52, lng=5, nulled by scraper/transform.py) or just nothing.
+Run this any time the nightly scrape warns about venues without coords: it finds
+ALL such venues in the live window, geocodes them via Nominatim (OpenStreetMap's
+free service), and writes PROPOSALS to a separate file for review -- it never
+touches data/venues.json directly. Review scraper/geocode_proposals.json, then
+re-run with --apply to merge them in. `--apply` is additive: it never clobbers an
+existing hand-set lat/lng, and it creates the venues.json entry for a brand-new
+venue that isn't there yet (abbreviation auto-derives on the frontend), so the
+flow is self-contained -- no need to run generate_venues.py first.
 
 Deliberately excludes genuinely location-TBA (0,0) venues -- those are mostly
 literally named "TBA - ..." and geocoding a placeholder name isn't meaningful.
@@ -126,12 +129,15 @@ def apply():
         return
 
     venues = _load_json(VENUES_PATH, {})
-    applied, skipped = [], []
+    applied, created = [], []
     for name, proposal in proposals.items():
-        if name not in venues:
-            skipped.append(name)
+        entry = venues.get(name)
+        if entry is None:
+            # Brand-new venue: create a minimal entry (abbr/logo auto-derive on
+            # the frontend). generate_venues.py fills in abbr later, non-destructively.
+            venues[name] = {"abbr": None, "logo": None, "lat": proposal["lat"], "lng": proposal["lng"]}
+            created.append(name)
             continue
-        entry = venues[name]
         if entry.get("lat") is not None and entry.get("lng") is not None:
             continue  # never clobber an existing hand-set override
         entry["lat"] = proposal["lat"]
@@ -142,9 +148,7 @@ def apply():
         json.dumps({k: venues[k] for k in sorted(venues)}, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(f"Applied {len(applied)} proposals to {VENUES_PATH}.")
-    if skipped:
-        print(f"Skipped (not in venues.json yet -- run generate_venues.py first): {', '.join(skipped)}")
+    print(f"Applied {len(applied)} coord updates + created {len(created)} new venue entries in {VENUES_PATH}.")
 
 
 def main():

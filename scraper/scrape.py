@@ -70,6 +70,15 @@ def main():
     if events:
         print(f"Date range covered: {events[0]['date']} .. {events[-1]['date']}")
 
+    # Surface venues without real coordinates (the geocode backlog) so new ones
+    # are noticed the day they appear -- run `python -m scraper.geocode_venues`.
+    no_coords = sorted({
+        e["venue"]["name"] for e in events
+        if e["venue"]["lat"] is None and not e["venue"].get("location_tba")
+    })
+    if no_coords:
+        print(f"WARNING: {len(no_coords)} venue(s) without coordinates (not on the map): {', '.join(no_coords)}")
+
     # Permanent archive + per-artist files.
     added = archive.merge(events, now=now)
     print(f"Archive: added {sum(added.values())} new events across years {sorted(added)}")
