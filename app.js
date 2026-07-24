@@ -38,7 +38,7 @@ const tickerWrapEl = document.querySelector(".ticker");
 const clockEl = document.getElementById("clock");
 const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
-const datePickerEl = document.getElementById("datePicker");
+const calendarEl = document.getElementById("calendar");
 const cityFilterEl = document.getElementById("cityFilter");
 const freeToggleEl = document.getElementById("freeToggle");
 const prevDayBtn = document.getElementById("prevDay");
@@ -353,9 +353,49 @@ function renderStepper() {
   dateLabelEl.textContent = formatDateLabel(state.selectedDate);
   prevDayBtn.disabled = state.selectedDate <= state.minDate;
   nextDayBtn.disabled = state.selectedDate >= state.maxDate;
-  datePickerEl.min = state.minDate;
-  datePickerEl.max = state.maxDate;
-  datePickerEl.value = state.selectedDate;
+  if (!calendarEl.hidden) renderCalendar(); // keep an open calendar in sync
+}
+
+// ---------- calendar (our own dropdown, primary on all platforms) ----------
+const CAL_DOW = ["MO", "TU", "WE", "TH", "FR", "SA", "SU"];
+let calMonth = null; // "YYYY-MM" currently shown
+
+function renderCalendar() {
+  const [y, m] = calMonth.split("-").map(Number);
+  const firstDow = (new Date(Date.UTC(y, m - 1, 1)).getUTCDay() + 6) % 7; // Monday=0
+  const daysInMonth = new Date(Date.UTC(y, m, 0)).getUTCDate();
+  const minMonth = state.minDate.slice(0, 7);
+  const maxMonth = state.maxDate.slice(0, 7);
+
+  let cells = CAL_DOW.map((d) => `<span class="cal-dow">${d}</span>`).join("");
+  for (let i = 0; i < firstDow; i++) cells += `<span class="cal-empty"></span>`;
+  for (let d = 1; d <= daysInMonth; d++) {
+    const ds = `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
+    if (ds < state.minDate || ds > state.maxDate) {
+      cells += `<span class="cal-day disabled">${d}</span>`;
+    } else {
+      const cls = "cal-day" + (ds === state.selectedDate ? " sel" : "") + (ds === state.todayDate ? " today" : "");
+      cells += `<button class="${cls}" type="button" data-date="${ds}">${d}</button>`;
+    }
+  }
+
+  calendarEl.innerHTML =
+    `<div class="cal-head">` +
+      `<button class="cal-nav" type="button" data-cal-step="-1"${calMonth <= minMonth ? " disabled" : ""} aria-label="Previous month">‹</button>` +
+      `<span class="cal-title">${MONTHS[m - 1]} ${y}</span>` +
+      `<button class="cal-nav" type="button" data-cal-step="1"${calMonth >= maxMonth ? " disabled" : ""} aria-label="Next month">›</button>` +
+    `</div><div class="cal-grid">${cells}</div>`;
+}
+
+function openCalendar() {
+  calMonth = state.selectedDate.slice(0, 7);
+  renderCalendar();
+  calendarEl.hidden = false;
+  dateLabelEl.setAttribute("aria-expanded", "true");
+}
+function closeCalendar() {
+  calendarEl.hidden = true;
+  dateLabelEl.setAttribute("aria-expanded", "false");
 }
 
 const TICKER_PIXELS_PER_SECOND = 60;
@@ -694,17 +734,6 @@ function buildCityFilterOptions() {
   cityFilterEl.value = state.cityFilter;
 }
 
-function onDatePickerChange() {
-  if (!datePickerEl.value) return;
-  const newDate = clamp(datePickerEl.value, state.minDate, state.maxDate);
-  if (newDate === state.selectedDate) {
-    renderStepper(); // snap the input back if the chosen value was out of range
-    return;
-  }
-  state.selectedDate = newDate;
-  renderForSelectedDate();
-}
-
 async function init() {
   let allEvents = [];
   let venuesMeta = {};
@@ -753,15 +782,32 @@ async function init() {
 prevDayBtn.addEventListener("click", () => stepDate(-1));
 nextDayBtn.addEventListener("click", () => stepDate(1));
 
-// showPicker() must run synchronously inside a real user-gesture handler, and
-// isn't available everywhere -- where it's missing, fall back to a genuinely
-// visible/tappable native input rather than a JS-triggered call that can't work.
-if (typeof HTMLInputElement !== "undefined" && "showPicker" in HTMLInputElement.prototype) {
-  dateLabelEl.addEventListener("click", () => datePickerEl.showPicker());
-} else {
-  datePickerEl.classList.add("visible-fallback");
-}
-datePickerEl.addEventListener("change", onDatePickerChange);
+// Our own calendar dropdown (the native picker kept failing on iPhones).
+dateLabelEl.addEventListener("click", () => (calendarEl.hidden ? openCalendar() : closeCalendar()));
+calendarEl.addEventListener("click", (e) => {
+  const step = e.target.closest("[data-cal-step]");
+  if (step && !step.disabled) {
+    const [y, m] = calMonth.split("-").map(Number);
+    const nd = new Date(Date.UTC(y, m - 1 + Number(step.dataset.calStep), 1));
+    calMonth = `${nd.getUTCFullYear()}-${String(nd.getUTCMonth() + 1).padStart(2, "0")}`;
+    renderCalendar();
+    return;
+  }
+  const day = e.target.closest("[data-date]");
+  if (day) {
+    closeCalendar();
+    if (day.dataset.date !== state.selectedDate) {
+      state.selectedDate = day.dataset.date;
+      renderForSelectedDate();
+    }
+  }
+});
+document.addEventListener("click", (e) => {
+  if (!calendarEl.hidden && !e.target.closest("#calendar") && !e.target.closest("#dateLabel")) closeCalendar();
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !calendarEl.hidden) closeCalendar();
+});
 cityFilterEl.addEventListener("change", () => setCityFilter(cityFilterEl.value));
 freeToggleEl.addEventListener("click", () => setFreeOnly(!state.freeOnly));
 
