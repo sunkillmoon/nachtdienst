@@ -86,12 +86,9 @@
     const el = document.getElementById("authControl");
     if (!el) return;
     if (session) {
-      const email = session.user.email || "";
-      // Show just the handle (before @), uppercased to match the mono chrome;
-      // full address stays in the title.
-      const handle = (email.split("@")[0] || email).toUpperCase();
+      // Top-right is just PROFILE + LOG OUT (the username moved off the header).
       el.innerHTML = `
-        <a class="auth-email" href="profile.html" title="${esc(email)}">${esc(handle)}</a>
+        <a class="auth-email" href="profile.html">PROFILE</a>
         <button class="auth-btn" type="button" id="logoutBtn">LOG OUT</button>
       `;
       document.getElementById("logoutBtn").addEventListener("click", () => sb.auth.signOut());

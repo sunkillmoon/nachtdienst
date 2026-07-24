@@ -61,32 +61,26 @@
 
   /* ---------- header ---------- */
   header{
-    display:flex; align-items:baseline; justify-content:space-between;
-    padding:9px 16px 7px;
+    display:flex; align-items:center; justify-content:space-between;
+    padding:9px 16px;
     border-bottom:1px solid var(--line);
   }
+  .brand-block{ display:flex; flex-direction:column; gap:2px; min-width:0; }
   .brand{
     font-family:var(--font-display);
     font-weight:700;
     text-transform:uppercase;
     letter-spacing:-0.02em;
     font-size:18px;
+    line-height:1;
   }
   .brand .brand-dot{ color:var(--accent); }
-  .meta{
-    font-size:11px;
-    letter-spacing:0.08em;
-    text-transform:uppercase;
+  .city-sub{
+    font-size:10px; letter-spacing:0.08em; text-transform:uppercase;
     color:var(--text-dim);
-    text-align:right;
-  }
-  .meta .dot{
-    display:inline-block; width:6px; height:6px;
-    background:var(--accent); margin-right:6px;
-    vertical-align:middle;
   }
   .auth-control{
-    margin-top:4px;
+    flex:none;
     display:flex; align-items:center; justify-content:flex-end; gap:8px;
   }
   .auth-btn{
@@ -413,6 +407,12 @@
     letter-spacing:0.04em;
     color:var(--text-dim);
   }
+  /* System-log timestamp, moved out of the header to the end of the list. */
+  .updated{
+    padding:12px 16px 4px;
+    font-size:10px; letter-spacing:0.06em; text-transform:uppercase;
+    color:var(--text-dim);
+  }
 
   @media (min-width:700px){
     .list-head{
@@ -666,16 +666,18 @@
 
 <div class="wrap">
   <header>
-    <div class="brand">NACHT<span class="brand-dot">/</span>KAART</div>
-    <div class="meta">
-      <span id="cityLabel">NL</span><br><span class="dot"></span><span id="clock">UPDATED 20:41:03</span>
-      <div class="auth-control" id="authControl"></div>
+    <div class="brand-block">
+      <div class="brand">NACHT<span class="brand-dot">/</span>KAART</div>
+      <div class="city-sub" id="cityLabel">NL</div>
     </div>
+    <div class="auth-control" id="authControl"></div>
   </header>
 
   <div class="ticker" aria-label="Tonight's headline events">
     <div class="ticker-track" id="tickerTrack"></div>
   </div>
+
+  <div class="map" id="map"></div>
 
   <nav class="controls-bar">
     <button class="stepper-btn" id="prevDay" type="button" aria-label="Previous day">‹</button>
@@ -692,13 +694,12 @@
 
   <div class="geo-notice" id="geoNotice">LOCATION UNAVAILABLE — SORTED FROM AMSTERDAM CENTER</div>
 
-  <div class="map" id="map"></div>
-
   <main>
     <div class="list-head">
       <span>TIME</span><span>EVENT / VENUE</span><span>LINEUP</span><span>TAGS</span>
     </div>
     <div class="list" id="eventList"></div>
+    <div class="updated" id="clock"></div>
   </main>
 </div>
 
