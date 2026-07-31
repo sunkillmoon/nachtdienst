@@ -17,6 +17,24 @@ it ever ships, the shape is fixed:
 - Sent server-side (a Supabase Edge Function or scheduled job) — never from the
   static client, and never with a secret key committed to this repo.
 
+## Attendance / "interested" count — no viable anonymous route (checked 2026-08-01)
+
+Wanted: surface RA's "X interested" on the panel/list and tier the map by it
+(busy = ring, hot = ring + pulse). Both anonymous routes are closed:
+
+- **GraphQL** `Event.interestedCount` / `attending` is a placeholder — across all
+  ~1,125 live NL events it's 1–3 (max 3), identical from the listings query and
+  the single `event(id)` query. Not the website's real number. `viewCount` errors
+  ("cannot return null for non-nullable field").
+- **RA event pages** return **HTTP 403 (Cloudflare)** to scripted requests (even
+  with full browser headers) and to WebFetch, so the embedded `__NEXT_DATA__`
+  route is closed server-side.
+
+Only theoretical route: a **headless browser** scraping the *current night's ~40
+events only* (never all 1,125). Out of scope for now — heavy dependency, ToS-risky,
+and against "scrape politely / minimal deps". Revisit only if a real source
+appears. (This is why the STYLE motion list is 4 items, not 5 — no attendance pulse.)
+
 ## iCal feed for "want to go" (roadmap step 7)
 
 Still planned: a personal iCal feed so "want to go" picks land in a calendar.

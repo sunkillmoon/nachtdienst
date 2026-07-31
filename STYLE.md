@@ -46,9 +46,11 @@ Rounded cards, purple/blue gradients, Inter or Roboto, hero sections with taglin
 
 ## Motion
 
-- The ticker scrolls. The detail panel slides up. The ON NOW tag pulses (slow opacity breathe, no movement). That is the complete list — closed.
+Animation is a single self-hosted, pinned dependency (anime.js) and a closed list. **Every animation must encode information — decorative motion stays banned.**
+
+- The complete list — closed: the ticker scrolls; the detail panel slides up; the ON NOW tag pulses (slow opacity breathe, no movement); the map markers **stagger in** when the set changes (date / city / FREE filter — a fast ~150ms opacity stagger, no bounce or overshoot). Nothing else moves.
 - No fade-in-on-scroll, no parallax, no hover lift.
-- Respect `prefers-reduced-motion`: stop the ticker, cut the slide, stop the pulse.
+- Respect `prefers-reduced-motion`: it disables **all** of the above — ticker still, no slide, no pulse, markers appear instantly.
 
 ## Quality floor
 

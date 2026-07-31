@@ -561,11 +561,12 @@ function initMap() {
   });
   state.map.touchZoomRotate.disableRotation();
   state.map.on("load", () => {
-    renderMapMarkers();
+    renderMapMarkers(true); // first appearance staggers in
     showUserLocationMarker(); // in case geolocation resolved before the map loaded
   });
   // Re-cluster whenever the view settles: zooming in splits piles into squares.
-  state.map.on("moveend", renderMapMarkers);
+  // No stagger here (would fire on every pan) -- pass no arg so animate is false.
+  state.map.on("moveend", () => renderMapMarkers());
 }
 
 function addVenueMarker(venue) {
@@ -616,7 +617,9 @@ function addClusterMarker(cluster, key) {
 // (state.userMarker) and untouched here.
 const CLUSTER_PX = 28;
 
-function renderMapMarkers() {
+// animate=true (date/city/FREE change, first render) staggers the markers in;
+// moveend re-renders pass false so panning/zooming doesn't re-stagger.
+function renderMapMarkers(animate = false) {
   if (!state.map) return;
   for (const { marker } of state.markers.values()) marker.remove();
   state.markers.clear();
@@ -642,7 +645,26 @@ function renderMapMarkers() {
     else addClusterMarker(cluster, `cluster:${i}`);
   }
 
+  staggerMarkersIn(animate);
   syncActiveStates();
+}
+
+// Subtle information-bearing motion: a new marker set fades in with a fast
+// stagger (~150ms total). Opacity only -- maplibre owns each marker's transform,
+// so we must never animate transform/scale here. anime.js is the one animation
+// dep (see STYLE.md). Reduced-motion -> markers just appear.
+function staggerMarkersIn(animate) {
+  if (!animate || typeof anime === "undefined" || reducedMotion()) return;
+  const els = [...state.markers.values()].map((m) => m.el);
+  if (!els.length) return;
+  const perDelay = Math.min(14, 40 / els.length); // total ≈ perDelay*n + duration ≈ 150ms
+  els.forEach((el) => (el.style.opacity = "0"));
+  anime.animate(els, {
+    opacity: [0, 1],
+    delay: anime.stagger(perDelay),
+    duration: 110,
+    ease: "out(3)",
+  });
 }
 
 // The visitor's own position: an accent crosshair, distinct from venue squares,
@@ -695,7 +717,7 @@ function renderForSelectedDate() {
   renderStepper();
   renderTicker();
   renderList();
-  renderMapMarkers();
+  renderMapMarkers(true);
 }
 
 function stepDate(delta) {
@@ -710,7 +732,7 @@ function setCityFilter(city) {
   try { localStorage.setItem(LS_CITY, city); } catch (_) {}
   renderTicker();
   renderList();
-  renderMapMarkers();
+  renderMapMarkers(true);
 }
 
 function setFreeOnly(on) {
@@ -720,7 +742,7 @@ function setFreeOnly(on) {
   freeToggleEl.setAttribute("aria-pressed", on ? "true" : "false");
   renderTicker();
   renderList();
-  renderMapMarkers();
+  renderMapMarkers(true);
 }
 
 // Populate the city <select> with ALL + every real city present in the data.
