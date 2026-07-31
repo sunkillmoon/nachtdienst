@@ -36,6 +36,7 @@ _EVENT_FIELDS = """
   venue {
     id
     name
+    address
     area { id name }
     location { latitude longitude }
   }

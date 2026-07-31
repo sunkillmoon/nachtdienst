@@ -799,6 +799,11 @@ async function init() {
   renderList();
   initMap();
   requestGeolocation();
+
+  // Deep link: ?event=<id> opens that event's panel on load (the shareable
+  // "nachtkaart event URL" used in the .ics export).
+  const deepEvent = new URLSearchParams(location.search).get("event");
+  if (deepEvent) openEvent(deepEvent);
 }
 
 prevDayBtn.addEventListener("click", () => stepDate(-1));

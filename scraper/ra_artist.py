@@ -43,6 +43,7 @@ query GET_ARTIST($id: ID!, $limit: Int!, $excludeIds: [ID!]) {
       venue {
         id
         name
+        address
         area { id name }
         location { latitude longitude }
       }

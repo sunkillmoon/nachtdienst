@@ -104,6 +104,57 @@
   }
   function mapsDirectionsUrl(lat, lng) { return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`; }
 
+  // ---------- .ics (add to calendar), generated client-side, no auto-prompt ----------
+  function pad2(n) { return String(n).padStart(2, "0"); }
+  function icsUtc(d) {
+    return `${d.getUTCFullYear()}${pad2(d.getUTCMonth() + 1)}${pad2(d.getUTCDate())}T` +
+      `${pad2(d.getUTCHours())}${pad2(d.getUTCMinutes())}${pad2(d.getUTCSeconds())}Z`;
+  }
+  function icsEsc(s) {
+    return String(s ?? "").replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n");
+  }
+  function lineupText(event) {
+    if (event.lineup_text) return event.lineup_text.replace(/\n/g, ", ");
+    if (event.artists && event.artists.length) return event.artists.map((a) => a.name).join(", ");
+    return "";
+  }
+  function buildIcs(event) {
+    const v = event.venue || {};
+    const loc = v.address || (v.name ? (v.area ? `${v.name}, ${v.area}` : v.name) : "");
+    const deepUrl = `https://nachtkaart.nl/?event=${encodeURIComponent(event.id)}`;
+    const descParts = [deepUrl];
+    if (event.ra_url) descParts.push(event.ra_url);
+    const lu = lineupText(event);
+    if (lu) descParts.push("Lineup: " + lu);
+    const lines = [
+      "BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//nachtkaart//NL//EN", "CALSCALE:GREGORIAN",
+      "BEGIN:VEVENT", `UID:${event.id}@nachtkaart.nl`, `DTSTAMP:${icsUtc(new Date())}`,
+    ];
+    if (event.start) {
+      const s = new Date(event.start);
+      const e = event.end ? new Date(event.end) : new Date(s.getTime() + 4 * 3600 * 1000);
+      lines.push(`DTSTART:${icsUtc(s)}`, `DTEND:${icsUtc(e)}`);
+    } else if (event.date) {
+      lines.push(`DTSTART;VALUE=DATE:${event.date.replace(/-/g, "")}`);
+    }
+    lines.push(`SUMMARY:${icsEsc(event.title || "Event")}`);
+    if (loc) lines.push(`LOCATION:${icsEsc(loc)}`);
+    lines.push(`DESCRIPTION:${descParts.map(icsEsc).join("\\n\\n")}`);
+    if (event.ra_url) lines.push(`URL:${event.ra_url}`);
+    lines.push("END:VEVENT", "END:VCALENDAR");
+    return lines.join("\r\n");
+  }
+  function downloadIcs(event) {
+    const blob = new Blob([buildIcs(event)], { type: "text/calendar;charset=utf-8" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = (event.title || "event").replace(/[^\w-]+/g, "_").slice(0, 60) + ".ics";
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+  }
+  function hasWhen(event) { return !!(event.start || event.date); }
+
   // ---------- DOM (injected once) ----------
   let scrimEl, panelEl, bodyEl, closeBtn, handleEl, lightboxEl, lightboxImg;
   let ctx = {}, currentEvent = null;
@@ -188,12 +239,18 @@
         (event.ra_url ? `<a class="nk-btn" href="${esc(event.ra_url)}" target="_blank" rel="noopener">RA EVENT PAGE</a>` : "") +
         (hasCoords ? `<a class="nk-btn" href="${mapsDirectionsUrl(v.lat, v.lng)}" target="_blank" rel="noopener">DIRECTIONS</a>` : "") +
         (v.name ? `<button class="nk-btn${loggedInFav ? " active" : ""}" type="button" id="nkFav">${loggedInFav ? "FAVORITED" : "FAVORITE VENUE"}</button>` : "") +
+        (hasWhen(event) ? `<button class="nk-btn" type="button" data-ics>ADD TO CALENDAR</button>` : "") +
       `</div>` +
       (event.id ? `<div class="nk-rsvp">` +
         `<button class="nk-btn nk-rsvp-btn${pickStatus === "went" ? " active" : ""}" type="button" data-rsvp="went">WENT</button>` +
         (eventEnded(event) ? "" :
           `<button class="nk-btn nk-rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>`) +
-      `</div>` : "");
+      `</div>` : "") +
+      // After marking WANT TO GO, nudge to add it to the calendar (the RA link etc. stay in Links above).
+      (pickStatus === "want_to_go" && hasWhen(event)
+        ? `<div class="nk-cal-nudge"><button class="nk-btn" type="button" data-ics>ADD TO CALENDAR</button></div>` : "");
+
+    bodyEl.querySelectorAll("[data-ics]").forEach((b) => b.addEventListener("click", () => downloadIcs(event)));
 
     const tile = bodyEl.querySelector("[data-dcycle]");
     if (tile) tile.addEventListener("click", () => { cycleDistanceMode(); renderBody(); });
@@ -278,6 +335,8 @@
   .nk-btn.active{ background:var(--accent); color:var(--bg); border-color:var(--accent); font-weight:700; }
   .nk-rsvp{ display:flex; gap:8px; margin-top:16px; }
   .nk-rsvp-btn{ flex:1; }
+  .nk-cal-nudge{ margin-top:8px; }
+  .nk-cal-nudge .nk-btn{ width:100%; font-size:10px; }
   .nk-lightbox{ position:fixed; inset:0; background:#000; display:flex; align-items:center; justify-content:center; opacity:0; pointer-events:none; transition:opacity .2s ease; z-index:40; cursor:pointer; }
   .nk-lightbox.open{ opacity:1; pointer-events:auto; }
   .nk-lightbox img{ max-width:100%; max-height:100%; object-fit:contain; }

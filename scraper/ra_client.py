@@ -35,6 +35,7 @@ query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: I
         venue {
           id
           name
+          address
           area { id name }
           location { latitude longitude }
         }

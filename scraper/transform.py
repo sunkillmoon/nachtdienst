@@ -127,6 +127,7 @@ def transform(rows: list[dict], scraped_at: datetime | None = None) -> list[dict
             "venue": {
                 "id": venue.get("id"),
                 "name": venue["name"],
+                "address": venue.get("address"),
                 "area": area.get("name"),
                 "lat": lat,
                 "lng": lng,
