@@ -22,6 +22,36 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2495692",
+      "title": "Modern Funktion x Shelter",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495692"
+    },
+    {
+      "id": "ra:2494128",
+      "title": "PIV ADE - Ijland",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494128"
     }
   ],
   "past": []

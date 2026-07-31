@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2466211",
       "title": "TOFFLER x Maas Afterparty",
       "date": "2026-08-22",
@@ -52,9 +42,39 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2441295",
+      "title": "25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2441295"
     }
   ],
   "past": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
     {
       "id": "ra:2436222",
       "title": "Rotterdam Rave Beach Sessions with davyboi",

@@ -3,26 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2466408",
-      "title": "De Sluwe Vos • Danielle",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466408"
-    },
-    {
-      "id": "ra:2466421",
-      "title": "Doppelgang • Lola Edo",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466421"
-    },
-    {
       "id": "ra:2468330",
       "title": "ISAbella • Dee Diggs",
       "date": "2026-07-31",
@@ -31,6 +11,16 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2468330"
+    },
+    {
+      "id": "ra:2502948",
+      "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502948"
     },
     {
       "id": "ra:2488539",
@@ -71,6 +61,16 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488567"
+    },
+    {
+      "id": "ra:2499013",
+      "title": "Tokyo Underground: Avant-garde Art of the Far East",
+      "date": "2026-08-19",
+      "start": "2026-08-19T20:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499013"
     },
     {
       "id": "ra:2492294",
@@ -115,6 +115,26 @@
   ],
   "past": [
     {
+      "id": "ra:2466421",
+      "title": "Doppelgang • Lola Edo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466421"
+    },
+    {
+      "id": "ra:2466408",
+      "title": "De Sluwe Vos • Danielle",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466408"
+    },
+    {
       "id": "ra:2464040",
       "title": "De Reünie",
       "date": "2026-07-19",
@@ -127,33 +147,23 @@
   ],
   "top_artists": [
     {
-      "id": "24930",
-      "name": "De Sluwe Vos",
+      "id": "71941",
+      "name": "Sally C",
       "count": 1
     },
     {
-      "id": "81806",
-      "name": "Danielle",
+      "id": "93138",
+      "name": "BELLA (NL)",
       "count": 1
     },
     {
-      "id": "81091",
-      "name": "Doppelgang",
+      "id": "159225",
+      "name": "Benny2",
       "count": 1
     },
     {
-      "id": "130751",
-      "name": "Lola Edo",
-      "count": 1
-    },
-    {
-      "id": "42221",
-      "name": "ISAbella",
-      "count": 1
-    },
-    {
-      "id": "76997",
-      "name": "Dee Diggs",
+      "id": "182924",
+      "name": "Cathy Grogan",
       "count": 1
     },
     {
@@ -174,6 +184,16 @@
     {
       "id": "148687",
       "name": "36framez",
+      "count": 1
+    },
+    {
+      "id": "179646",
+      "name": "LYLO (NL)",
+      "count": 1
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
       "count": 1
     }
   ]

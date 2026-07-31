@@ -11,39 +11,99 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2481531"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2495676",
+      "title": "Lola x Rinse FM ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495676"
+    },
+    {
+      "id": "ra:2481524",
+      "title": "WHATSNEW X Rinse FM - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481524"
+    },
+    {
+      "id": "ra:2498843",
+      "title": "ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498843"
     }
   ],
   "past": [],
   "top_artists": [
     {
-      "id": "183814",
-      "name": "SOVÉ (2)",
-      "count": 1
+      "id": "82621",
+      "name": "Bellaire",
+      "count": 2
     },
     {
-      "id": "124162",
-      "name": "Janis Zielinski",
-      "count": 1
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 2
     },
     {
-      "id": "146324",
-      "name": "JÄMO",
-      "count": 1
+      "id": "107539",
+      "name": "Bibi Seck",
+      "count": 2
     },
     {
-      "id": "182572",
-      "name": "Sam Hofman",
-      "count": 1
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 2
     },
     {
-      "id": "180589",
-      "name": "CLAESSENS",
-      "count": 1
+      "id": "132926",
+      "name": "Alec Dienaar",
+      "count": 2
     },
     {
-      "id": "87856",
-      "name": "DJANGO (NL)",
-      "count": 1
+      "id": "180357",
+      "name": "Drabes",
+      "count": 2
+    },
+    {
+      "id": "183470",
+      "name": "Julian Wijn",
+      "count": 2
+    },
+    {
+      "id": "145321",
+      "name": "Lasse Top",
+      "count": 2
+    },
+    {
+      "id": "144498",
+      "name": "Milo Passier",
+      "count": 2
+    },
+    {
+      "id": "133750",
+      "name": "Ive Lovers",
+      "count": 2
     }
   ]
 }

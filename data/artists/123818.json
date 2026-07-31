@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485804",
-      "title": "Ray-Ban Red Experience",
-      "date": "2026-07-24",
-      "start": "2026-07-24T15:00+02:00",
-      "venue": "De Hallen",
-      "venue_id": "123485",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485804"
-    },
-    {
       "id": "ra:2478267",
       "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
       "date": "2026-08-08",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2478267"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2485804",
+      "title": "Ray-Ban Red Experience",
+      "date": "2026-07-24",
+      "start": "2026-07-24T15:00+02:00",
+      "venue": "De Hallen",
+      "venue_id": "123485",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485804"
+    }
+  ]
 }

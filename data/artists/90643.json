@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479148"
     }
   ],
   "past": []

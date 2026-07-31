@@ -12,6 +12,16 @@
       "venue_id": "297148",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2488123"
+    },
+    {
+      "id": "ra:2498952",
+      "title": "IN TUNE ~~",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2498952"
     }
   ],
   "past": []

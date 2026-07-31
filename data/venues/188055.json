@@ -6,16 +6,6 @@
   "lng": 4.87756,
   "upcoming": [
     {
-      "id": "ra:2483518",
-      "title": "DnB XL meets Known Associates",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:00+02:00",
-      "venue": "Ijland",
-      "venue_id": "188055",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483518"
-    },
-    {
       "id": "ra:2478267",
       "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
       "date": "2026-08-08",
@@ -34,7 +24,58 @@
       "venue_id": "188055",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2414839"
+    },
+    {
+      "id": "ra:2501891",
+      "title": "Cirque Du Rave Is Coming",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501891"
+    },
+    {
+      "id": "ra:2458425",
+      "title": "Guy J - all night long",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458425"
+    },
+    {
+      "id": "ra:2494128",
+      "title": "PIV ADE - Ijland",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494128"
+    },
+    {
+      "id": "ra:2476166",
+      "title": "Happy Feelings ADE: Girls Don't Sync Invites - Ijland",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476166"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2483518",
+      "title": "DnB XL meets Known Associates",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483518"
+    }
+  ]
 }

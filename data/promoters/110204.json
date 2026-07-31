@@ -1,0 +1,18 @@
+{
+  "id": "110204",
+  "name": "Like It Love It",
+  "upcoming": [
+    {
+      "id": "ra:2501891",
+      "title": "Cirque Du Rave Is Coming",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501891"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

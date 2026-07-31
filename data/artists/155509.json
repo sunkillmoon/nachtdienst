@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494173",
-      "title": "Baile Trama",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
+      "id": "ra:2440419",
+      "title": "RAUM invites Mala Junta",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2494173"
-    },
+      "url": "https://ra.co/events/2440419"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2453208"
     },
     {
-      "id": "ra:2440419",
-      "title": "RAUM invites Mala Junta",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
+      "id": "ra:2494173",
+      "title": "Baile Trama",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2440419"
+      "url": "https://ra.co/events/2494173"
     }
-  ],
-  "past": []
+  ]
 }

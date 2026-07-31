@@ -1,7 +1,8 @@
 {
   "id": "63096",
   "name": "Nyege Nyege Festival",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2453208"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "86340",

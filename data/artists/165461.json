@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2420618",
-      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2420618"
-    },
-    {
       "id": "ra:2436230",
       "title": "De Sessie - Ryan Elliott - Summer Sessions",
       "date": "2026-08-15",
@@ -32,7 +22,38 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493279"
+    },
+    {
+      "id": "ra:2499918",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499918"
+    },
+    {
+      "id": "ra:2496553",
+      "title": "Andrew Azara, Traumer b2b Janeret",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496553"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2420618",
+      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420618"
+    }
+  ]
 }

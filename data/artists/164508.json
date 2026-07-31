@@ -2,7 +2,8 @@
   "id": "164508",
   "name": "Auryn",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2383086"
     }
-  ],
-  "past": []
+  ]
 }

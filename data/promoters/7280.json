@@ -1,0 +1,79 @@
+{
+  "id": "7280",
+  "name": "Rinse",
+  "upcoming": [
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2498843",
+      "title": "ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498843"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "82621",
+      "name": "Bellaire",
+      "count": 1
+    },
+    {
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 1
+    },
+    {
+      "id": "107539",
+      "name": "Bibi Seck",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "132926",
+      "name": "Alec Dienaar",
+      "count": 1
+    },
+    {
+      "id": "180357",
+      "name": "Drabes",
+      "count": 1
+    },
+    {
+      "id": "183470",
+      "name": "Julian Wijn",
+      "count": 1
+    },
+    {
+      "id": "145321",
+      "name": "Lasse Top",
+      "count": 1
+    },
+    {
+      "id": "144498",
+      "name": "Milo Passier",
+      "count": 1
+    },
+    {
+      "id": "11440",
+      "name": "Voigtmann",
+      "count": 1
+    }
+  ]
+}

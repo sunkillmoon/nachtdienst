@@ -12,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2330160",
+      "title": "Dimitri & ISIS ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330160"
     }
   ],
   "past": []

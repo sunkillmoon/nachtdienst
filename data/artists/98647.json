@@ -12,6 +12,16 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2501248",
+      "title": "Loveland Festival Official Afterparty (Sat)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501248"
     }
   ],
   "past": []

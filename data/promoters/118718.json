@@ -1,0 +1,44 @@
+{
+  "id": "118718",
+  "name": "GALEJ",
+  "upcoming": [
+    {
+      "id": "ra:2498352",
+      "title": "GALEJ",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498352"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183378",
+      "name": "GATTOMUSiC",
+      "count": 1
+    },
+    {
+      "id": "181191",
+      "name": "issagirl",
+      "count": 1
+    },
+    {
+      "id": "122356",
+      "name": "Eylon",
+      "count": 1
+    },
+    {
+      "id": "129127",
+      "name": "grosen",
+      "count": 1
+    },
+    {
+      "id": "185104",
+      "name": "YOJIBERI",
+      "count": 1
+    }
+  ]
+}

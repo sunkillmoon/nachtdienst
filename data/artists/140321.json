@@ -2,7 +2,18 @@
   "id": "140321",
   "name": "LuxNL",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2472650",
+      "title": "FROW ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Vic's Bar",
+      "venue_id": "276679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472650"
+    }
+  ],
   "past": [
     {
       "id": "ra:2492154",

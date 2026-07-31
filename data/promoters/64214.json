@@ -1,0 +1,69 @@
+{
+  "id": "64214",
+  "name": "Perspectives Digital",
+  "upcoming": [
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "111493",
+      "name": "Almost Human (DJ)",
+      "count": 1
+    },
+    {
+      "id": "107694",
+      "name": "Cris-H",
+      "count": 1
+    },
+    {
+      "id": "1765",
+      "name": "Darin Epsilon",
+      "count": 1
+    },
+    {
+      "id": "32758",
+      "name": "Emanate",
+      "count": 1
+    },
+    {
+      "id": "151582",
+      "name": "Jono Stephenson",
+      "count": 1
+    },
+    {
+      "id": "100407",
+      "name": "Joshlane",
+      "count": 1
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 1
+    },
+    {
+      "id": "162318",
+      "name": "Min the Universe",
+      "count": 1
+    },
+    {
+      "id": "132612",
+      "name": "OIBAF",
+      "count": 1
+    },
+    {
+      "id": "3521",
+      "name": "Olivier Weiter",
+      "count": 1
+    }
+  ]
+}

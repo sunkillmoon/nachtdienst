@@ -1,0 +1,34 @@
+{
+  "id": "100332",
+  "name": "CLUB.RECORD",
+  "upcoming": [
+    {
+      "id": "ra:2499921",
+      "title": "CLUB.RECORD x Shelter Boat Series",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Klaas Kompaan (Boat)",
+      "venue_id": "215670",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499921"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "96823",
+      "name": "Berkan V8",
+      "count": 1
+    },
+    {
+      "id": "34062",
+      "name": "Elias Mazian",
+      "count": 1
+    },
+    {
+      "id": "50071",
+      "name": "Tsepo",
+      "count": 1
+    }
+  ]
+}

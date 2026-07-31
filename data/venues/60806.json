@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.386606,
   "lng": 4.875296,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2397110",
       "title": "Milkshake Festival 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2397110"
     }
-  ],
-  "past": []
+  ]
 }

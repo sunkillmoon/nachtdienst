@@ -1,0 +1,74 @@
+{
+  "id": "19960",
+  "name": "Loud-Contact",
+  "upcoming": [
+    {
+      "id": "ra:2452252",
+      "title": "fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452252"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "188",
+      "name": "Jeff Mills",
+      "count": 1
+    },
+    {
+      "id": "1515",
+      "name": "Marcel Dettmann",
+      "count": 1
+    },
+    {
+      "id": "43227",
+      "name": "Helena Hauff",
+      "count": 1
+    },
+    {
+      "id": "27357",
+      "name": "FJAAK",
+      "count": 1
+    },
+    {
+      "id": "76003",
+      "name": "Quest (IT)",
+      "count": 1
+    },
+    {
+      "id": "14812",
+      "name": "Binh",
+      "count": 1
+    },
+    {
+      "id": "93539",
+      "name": "Quelza",
+      "count": 1
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 1
+    },
+    {
+      "id": "71178",
+      "name": "Lumiere",
+      "count": 1
+    }
+  ]
+}

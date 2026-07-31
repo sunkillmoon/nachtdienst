@@ -2,17 +2,8 @@
   "id": "95008",
   "name": "DJ Tracksuit",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2401519",
-      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
-      "date": "2026-07-24",
-      "start": "2026-07-24T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2401519"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
@@ -22,7 +13,16 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2383086"
+    },
+    {
+      "id": "ra:2401519",
+      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401519"
     }
-  ],
-  "past": []
+  ]
 }

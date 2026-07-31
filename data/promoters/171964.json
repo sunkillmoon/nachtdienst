@@ -14,5 +14,11 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "186381",
+      "name": "Elijah Tevrede",
+      "count": 1
+    }
+  ]
 }

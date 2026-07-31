@@ -2,7 +2,8 @@
   "id": "111019",
   "name": "Portente",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480519",
       "title": "Portente Invites",
@@ -12,9 +13,7 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480519"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453374",
       "title": "Doka Summer Studio x Klub Analog",

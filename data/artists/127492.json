@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2468316",
-      "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2468316"
-    },
-    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2330627"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2468316",
+      "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2468316"
+    }
+  ]
 }

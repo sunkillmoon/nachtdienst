@@ -22,6 +22,16 @@
       "venue_id": "988",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2436233"
+    },
+    {
+      "id": "ra:2420673",
+      "title": "UNREAL x ADE 2026: KUKO ALL NIGHT LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420673"
     }
   ],
   "past": []

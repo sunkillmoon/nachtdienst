@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.200389,
   "lng": 4.485364,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2438726",
       "title": "Puur Festival 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2438726"
     }
-  ],
-  "past": []
+  ]
 }

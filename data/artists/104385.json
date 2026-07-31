@@ -52,6 +52,36 @@
       "venue_id": "131709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
+    },
+    {
+      "id": "ra:2480629",
+      "title": "Overbruggen x OG - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "PRE-Reserved",
+      "venue_id": "296320",
+      "area": "All",
+      "url": "https://ra.co/events/2480629"
+    },
+    {
+      "id": "ra:2473394",
+      "title": "Intercell x Milion & SAIDAH Invites - ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473394"
     }
   ],
   "past": [

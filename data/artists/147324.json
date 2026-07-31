@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2440414",
-      "title": "RAUM invites NightClubbing",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440414"
-    },
-    {
       "id": "ra:2453528",
       "title": "Planet Angels",
       "date": "2026-07-31",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2494102"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2440414",
+      "title": "RAUM invites NightClubbing",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440414"
+    }
+  ]
 }

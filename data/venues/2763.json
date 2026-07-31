@@ -1,0 +1,40 @@
+{
+  "id": "2763",
+  "name": "Akhnaton",
+  "area": "Amsterdam",
+  "lat": 52.376144,
+  "lng": 4.894156,
+  "upcoming": [
+    {
+      "id": "ra:2500167",
+      "title": "Let Techno Unite ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500167"
+    },
+    {
+      "id": "ra:2498349",
+      "title": "Meanwhile x Solis Labelshowcase ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498349"
+    },
+    {
+      "id": "ra:2499130",
+      "title": "MOOV - ADE Edition",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499130"
+    }
+  ],
+  "past": []
+}

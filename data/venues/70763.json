@@ -1,0 +1,40 @@
+{
+  "id": "70763",
+  "name": "Muziekgebouw aan t' IJ",
+  "area": "Amsterdam",
+  "lat": 52.378054,
+  "lng": 4.912666,
+  "upcoming": [
+    {
+      "id": "ra:2499059",
+      "title": "Forced to be the Clown",
+      "date": "2026-10-03",
+      "start": "2026-10-03T22:30+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499059"
+    },
+    {
+      "id": "ra:2499098",
+      "title": "ADE: Louis Andriessen's Hoketus",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499098"
+    },
+    {
+      "id": "ra:2499074",
+      "title": "ADE: Oh Voyage, DJ Klapsalon + Afrobotic",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499074"
+    }
+  ],
+  "past": []
+}

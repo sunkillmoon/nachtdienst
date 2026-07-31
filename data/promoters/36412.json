@@ -3,26 +3,6 @@
   "name": "TOFFLER",
   "upcoming": [
     {
-      "id": "ra:2437618",
-      "title": "TOFFLER presents Najel Monteiro and friends",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2437618"
-    },
-    {
-      "id": "ra:2437621",
-      "title": "TOFFLER presents Chico Rose",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2437621"
-    },
-    {
       "id": "ra:2437625",
       "title": "TOFFLER presents SANTØS and friends",
       "date": "2026-07-31",
@@ -181,44 +161,45 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2487480"
+    },
+    {
+      "id": "ra:2500811",
+      "title": "TOFFLER presents Locky (3HR set)",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500811"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2437621",
+      "title": "TOFFLER presents Chico Rose",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437621"
+    },
+    {
+      "id": "ra:2437618",
+      "title": "TOFFLER presents Najel Monteiro and friends",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437618"
+    }
+  ],
   "top_artists": [
     {
       "id": "179145",
       "name": "MIT (6)",
       "count": 2
-    },
-    {
-      "id": "67162",
-      "name": "Najel Monteiro",
-      "count": 1
-    },
-    {
-      "id": "133125",
-      "name": "NIVEK",
-      "count": 1
-    },
-    {
-      "id": "154743",
-      "name": "Chess",
-      "count": 1
-    },
-    {
-      "id": "176209",
-      "name": "SANTØS",
-      "count": 1
-    },
-    {
-      "id": "114529",
-      "name": "DeGuzman",
-      "count": 1
-    },
-    {
-      "id": "129659",
-      "name": "nicole lukiys",
-      "count": 1
     },
     {
       "id": "171453",
@@ -233,6 +214,36 @@
     {
       "id": "164363",
       "name": "Kel Mozy",
+      "count": 1
+    },
+    {
+      "id": "151115",
+      "name": "Luun",
+      "count": 1
+    },
+    {
+      "id": "168466",
+      "name": "MRJ-K",
+      "count": 1
+    },
+    {
+      "id": "777",
+      "name": "Mossa",
+      "count": 1
+    },
+    {
+      "id": "165551",
+      "name": "NKI (1)",
+      "count": 1
+    },
+    {
+      "id": "169040",
+      "name": "OZ (5)",
+      "count": 1
+    },
+    {
+      "id": "173833",
+      "name": "emssoleil",
       "count": 1
     }
   ]

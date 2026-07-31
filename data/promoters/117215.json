@@ -3,6 +3,16 @@
   "name": "Time is the new space",
   "upcoming": [
     {
+      "id": "ra:2496753",
+      "title": "HIDDEN BEHIND x TIME Vol. 20",
+      "date": "2026-08-06",
+      "start": "2026-08-06T20:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2496753"
+    },
+    {
       "id": "ra:2489790",
       "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
       "date": "2026-08-07",
@@ -11,6 +21,16 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489790"
+    },
+    {
+      "id": "ra:2496821",
+      "title": "TIME'S TATTOO SPACE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2496821"
     },
     {
       "id": "ra:2490623",

@@ -1,7 +1,8 @@
 {
   "id": "150925",
   "name": "Hard Mondays Amsterdam",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493300",
       "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
@@ -11,9 +12,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493300"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2477905",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",

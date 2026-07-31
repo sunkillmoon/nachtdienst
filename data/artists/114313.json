@@ -2,7 +2,8 @@
   "id": "114313",
   "name": "Gordon Flash",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453266",
       "title": "Vault Sessions x In.di.go x Symbole WKNDR | DAY | De Fik Garden",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453266"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "275591",
+  "name": "Onder Hans",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    }
+  ],
+  "past": []
+}

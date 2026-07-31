@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2500884",
+      "title": "Doka Studio with Colored Craig - Fais Le Beau",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500884"
+    },
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2461747",
       "title": "AZOTH Roze Woensdag",
       "date": "2026-07-22",
@@ -13,6 +45,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2461747"
     }
-  ],
-  "past": []
+  ]
 }

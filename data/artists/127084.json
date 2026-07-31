@@ -1,0 +1,28 @@
+{
+  "id": "127084",
+  "name": "Taylor Taylor",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2497317",
+      "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497317"
+    },
+    {
+      "id": "ra:2498340",
+      "title": "Entity + Herbivox presents OVERGROW",
+      "date": "2026-08-29",
+      "start": "2026-08-29T16:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498340"
+    }
+  ],
+  "past": []
+}

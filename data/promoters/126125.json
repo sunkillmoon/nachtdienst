@@ -3,6 +3,18 @@
   "name": "VM Radio",
   "upcoming": [
     {
+      "id": "ra:2495931",
+      "title": "VM Radio x Synesthesia - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Generator",
+      "venue_id": "124224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495931"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2477682",
       "title": "VM Open",
       "date": "2026-07-25",
@@ -13,7 +25,6 @@
       "url": "https://ra.co/events/2477682"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "127350",

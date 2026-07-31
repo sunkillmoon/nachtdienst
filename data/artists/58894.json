@@ -2,17 +2,8 @@
   "id": "58894",
   "name": "Space Afrika",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2429258",
-      "title": "Dekmantel Festival Opening Concert - Into The City - Wednesday",
-      "date": "2026-07-29",
-      "start": "2026-07-29T20:00+02:00",
-      "venue": "Oude Kerk",
-      "venue_id": "274981",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2429258"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
@@ -22,7 +13,16 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2351984"
+    },
+    {
+      "id": "ra:2429258",
+      "title": "Dekmantel Festival Opening Concert - Into The City - Wednesday",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:00+02:00",
+      "venue": "Oude Kerk",
+      "venue_id": "274981",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429258"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2496550",
+      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496550"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,50 @@
+{
+  "id": "169846",
+  "name": "Wibar",
+  "area": "All",
+  "lat": 52.16032,
+  "lng": 4.510269,
+  "upcoming": [
+    {
+      "id": "ra:2501581",
+      "title": "JØASE ANL @ Wibar - FREE RAVE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2501581"
+    },
+    {
+      "id": "ra:2495731",
+      "title": "Wibar Opening Party with Detroit In Effect b2b Serge",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2495731"
+    },
+    {
+      "id": "ra:2495795",
+      "title": "Wibar ...IsBurning - Leiden Pride",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2495795"
+    },
+    {
+      "id": "ra:2495745",
+      "title": "Wibar Invites Narciss",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2495745"
+    }
+  ],
+  "past": []
+}

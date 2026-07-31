@@ -3,36 +3,6 @@
   "name": "Thuishaven",
   "upcoming": [
     {
-      "id": "ra:2425635",
-      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2425635"
-    },
-    {
-      "id": "ra:2480484",
-      "title": "25 JUL - Nachtshow with Tjade & Friends",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480484"
-    },
-    {
-      "id": "ra:2414866",
-      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
-      "date": "2026-07-26",
-      "start": "2026-07-26T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2414866"
-    },
-    {
       "id": "ra:2460812",
       "title": "08 AUG - Thuishaven with Eelke Kleijn 10HRS",
       "date": "2026-08-08",
@@ -114,16 +84,106 @@
     },
     {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2501894",
+      "title": "04 OKT - IOSIO 10HRS",
+      "date": "2026-10-04",
+      "start": "2026-10-04T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501894"
+    },
+    {
+      "id": "ra:2482113",
+      "title": "23 OCT - Friday Day with salute / Diffrent & Bella Claxton",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482113"
+    },
+    {
+      "id": "ra:2482115",
+      "title": "Friday Night with Daria Kolosova invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482115"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2473476",
+      "title": "24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473476"
+    },
+    {
+      "id": "ra:2441295",
+      "title": "25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2441295"
     }
   ],
   "past": [
+    {
+      "id": "ra:2414866",
+      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414866"
+    },
+    {
+      "id": "ra:2425635",
+      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    },
     {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",
@@ -137,8 +197,38 @@
   ],
   "top_artists": [
     {
-      "id": "92873",
-      "name": "Tjade",
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 3
+    },
+    {
+      "id": "565",
+      "name": "Michel de Hey",
+      "count": 3
+    },
+    {
+      "id": "101454",
+      "name": "Bella Claxton",
+      "count": 2
+    },
+    {
+      "id": "110515",
+      "name": "AAT (NL)",
+      "count": 2
+    },
+    {
+      "id": "102180",
+      "name": "Papa Nugs",
+      "count": 2
+    },
+    {
+      "id": "179646",
+      "name": "LYLO (NL)",
+      "count": 2
+    },
+    {
+      "id": "42186",
+      "name": "Philou Louzolo",
       "count": 2
     },
     {
@@ -147,43 +237,13 @@
       "count": 2
     },
     {
-      "id": "10446",
-      "name": "Benny Rodrigues",
+      "id": "92873",
+      "name": "Tjade",
       "count": 2
     },
     {
-      "id": "103655",
-      "name": "DAWS",
-      "count": 1
-    },
-    {
-      "id": "176575",
-      "name": "KINETIKS",
-      "count": 1
-    },
-    {
-      "id": "102180",
-      "name": "Papa Nugs",
-      "count": 1
-    },
-    {
-      "id": "119784",
-      "name": "Paperkraft",
-      "count": 1
-    },
-    {
-      "id": "95084",
-      "name": "PNNY",
-      "count": 1
-    },
-    {
-      "id": "112784",
-      "name": "Azucy",
-      "count": 1
-    },
-    {
-      "id": "185706",
-      "name": "JUUL",
+      "id": "1662",
+      "name": "Eelke Kleijn",
       "count": 1
     }
   ]

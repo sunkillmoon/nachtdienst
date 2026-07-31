@@ -12,6 +12,26 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2491401"
+    },
+    {
+      "id": "ra:2493544",
+      "title": "Vault Sessions x Mutual Rytm ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493544"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
     }
   ],
   "past": []

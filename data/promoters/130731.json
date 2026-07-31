@@ -3,26 +3,6 @@
   "name": "Skatecafe Karin & Yvonne",
   "upcoming": [
     {
-      "id": "ra:2462885",
-      "title": "PRIDE - LET'S STRUT",
-      "date": "2026-07-24",
-      "start": "2026-07-24T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462885"
-    },
-    {
-      "id": "ra:2462890",
-      "title": "PRIDE - PLUG & PLAY",
-      "date": "2026-07-25",
-      "start": "2026-07-25T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462890"
-    },
-    {
       "id": "ra:2474056",
       "title": "PRIDE - PRIDE IS A PROTEST",
       "date": "2026-07-31",
@@ -83,6 +63,16 @@
       "url": "https://ra.co/events/2488611"
     },
     {
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
+    },
+    {
       "id": "ra:2473192",
       "title": "PARKER FEST 3.0",
       "date": "2026-10-17",
@@ -91,9 +81,39 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473192"
+    },
+    {
+      "id": "ra:2462899",
+      "title": "ADE - CHAMOS PRESENTS: HAWRAVE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462899"
     }
   ],
   "past": [
+    {
+      "id": "ra:2462890",
+      "title": "PRIDE - PLUG & PLAY",
+      "date": "2026-07-25",
+      "start": "2026-07-25T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462890"
+    },
+    {
+      "id": "ra:2462885",
+      "title": "PRIDE - LET'S STRUT",
+      "date": "2026-07-24",
+      "start": "2026-07-24T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462885"
+    },
     {
       "id": "ra:2481235",
       "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",
@@ -107,53 +127,53 @@
   ],
   "top_artists": [
     {
-      "id": "145269",
-      "name": "EVER",
+      "id": "81091",
+      "name": "Doppelgang",
       "count": 1
     },
     {
-      "id": "103163",
-      "name": "Ecstasya",
+      "id": "73578",
+      "name": "OMOLOKO",
       "count": 1
     },
     {
-      "id": "103438",
-      "name": "kimmah",
+      "id": "106848",
+      "name": "bebe bad",
       "count": 1
     },
     {
-      "id": "128614",
-      "name": "SISSY MISFIT",
+      "id": "80260",
+      "name": "Mayo (1)",
       "count": 1
     },
     {
-      "id": "157924",
-      "name": "Krai",
+      "id": "140088",
+      "name": "Zeldenrust",
       "count": 1
     },
     {
-      "id": "33314",
-      "name": "Maan",
+      "id": "132926",
+      "name": "Alec Dienaar",
       "count": 1
     },
     {
-      "id": "85310",
-      "name": "MMIV",
+      "id": "163269",
+      "name": "Aniko",
       "count": 1
     },
     {
-      "id": "111791",
-      "name": "NAAZ",
+      "id": "147226",
+      "name": "Godsendo",
       "count": 1
     },
     {
-      "id": "112928",
-      "name": "Slimfit",
+      "id": "170462",
+      "name": "Pedro da Mata",
       "count": 1
     },
     {
-      "id": "182134",
-      "name": "UNAUNA KITT",
+      "id": "170661",
+      "name": "Not Yet (2)",
       "count": 1
     }
   ]

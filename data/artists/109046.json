@@ -4,6 +4,48 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2449895",
+      "title": "GASHOUDER presents: Armin van Buuren & Benwal",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449895"
+    },
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2479118",
+      "title": "Awakenings ADE - Sunday Sessions",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479118"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",
       "date": "2026-07-25",
@@ -13,18 +55,6 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
     },
-    {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2419387",
       "title": "Benwal (ALL DAY LONG) [sold out]",

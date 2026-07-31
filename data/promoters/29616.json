@@ -1,0 +1,69 @@
+{
+  "id": "29616",
+  "name": "Into the Woods",
+  "upcoming": [
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "91128",
+      "name": "Deer Jade",
+      "count": 1
+    },
+    {
+      "id": "76212",
+      "name": "Cynthia Spiering",
+      "count": 1
+    },
+    {
+      "id": "77302",
+      "name": "future.666",
+      "count": 1
+    },
+    {
+      "id": "79410",
+      "name": "Clara Cuvé",
+      "count": 1
+    },
+    {
+      "id": "133993",
+      "name": "davyboi",
+      "count": 1
+    },
+    {
+      "id": "26270",
+      "name": "Young Marco",
+      "count": 1
+    },
+    {
+      "id": "61599",
+      "name": "Obskur",
+      "count": 1
+    },
+    {
+      "id": "93785",
+      "name": "ANNĒ",
+      "count": 1
+    },
+    {
+      "id": "72536",
+      "name": "DJ BORING",
+      "count": 1
+    },
+    {
+      "id": "122185",
+      "name": "LAMSI",
+      "count": 1
+    }
+  ]
+}

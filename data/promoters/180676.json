@@ -11,6 +11,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490449"
+    },
+    {
+      "id": "ra:2480629",
+      "title": "Overbruggen x OG - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "PRE-Reserved",
+      "venue_id": "296320",
+      "area": "All",
+      "url": "https://ra.co/events/2480629"
     }
   ],
   "past": [],
@@ -33,6 +43,31 @@
     {
       "id": "79757",
       "name": "Truly Madly",
+      "count": 1
+    },
+    {
+      "id": "129734",
+      "name": "Diffrent",
+      "count": 1
+    },
+    {
+      "id": "145253",
+      "name": "RIRIA",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
+    {
+      "id": "104385",
+      "name": "Milion",
+      "count": 1
+    },
+    {
+      "id": "114140",
+      "name": "6 SENSE",
       "count": 1
     }
   ]

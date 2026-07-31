@@ -11,6 +11,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493279"
+    },
+    {
+      "id": "ra:2499918",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499918"
     }
   ],
   "past": [],
@@ -18,27 +28,27 @@
     {
       "id": "28938",
       "name": "Andy Luff",
-      "count": 1
+      "count": 2
     },
     {
       "id": "165461",
       "name": "nik-ey",
-      "count": 1
+      "count": 2
     },
     {
       "id": "50867",
       "name": "Moopie",
-      "count": 1
+      "count": 2
     },
     {
       "id": "50977",
       "name": "Pelle (NL)",
-      "count": 1
+      "count": 2
     },
     {
       "id": "114846",
       "name": "Tadeusz",
-      "count": 1
+      "count": 2
     }
   ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453208",
-      "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
-      "date": "2026-07-26",
-      "start": "2026-07-26T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453208"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -22,6 +12,16 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2499921",
+      "title": "CLUB.RECORD x Shelter Boat Series",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Klaas Kompaan (Boat)",
+      "venue_id": "215670",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499921"
     },
     {
       "id": "ra:2376016",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2453208",
+      "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
+      "date": "2026-07-26",
+      "start": "2026-07-26T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453208"
+    },
     {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",

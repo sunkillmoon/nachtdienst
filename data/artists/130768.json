@@ -12,6 +12,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480551"
+    },
+    {
+      "id": "ra:2473478",
+      "title": "Madam by Night invites: VELVET",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473478"
     }
   ],
   "past": []

@@ -11,59 +11,109 @@
       "venue_id": "242264",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2434861"
+    },
+    {
+      "id": "ra:2492381",
+      "title": "One Long Groove",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492381"
+    },
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2494410",
+      "title": "Second Wind",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494410"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
     }
   ],
   "past": [],
   "top_artists": [
     {
-      "id": "58874",
-      "name": "Athens of the North",
-      "count": 1
-    },
-    {
-      "id": "942",
-      "name": "Blake Baxter",
-      "count": 1
-    },
-    {
-      "id": "9542",
-      "name": "Danny Daze",
-      "count": 1
-    },
-    {
-      "id": "165550",
-      "name": "Field Notes DJs",
-      "count": 1
-    },
-    {
-      "id": "134901",
-      "name": "Millie McKee",
-      "count": 1
-    },
-    {
-      "id": "88318",
-      "name": "Jetti",
-      "count": 1
-    },
-    {
-      "id": "33410",
-      "name": "Jovonn",
-      "count": 1
-    },
-    {
-      "id": "67241",
-      "name": "Louise Chen",
-      "count": 1
-    },
-    {
       "id": "116675",
       "name": "Marie K (1)",
-      "count": 1
+      "count": 3
     },
     {
-      "id": "13553",
-      "name": "Mike Dunn",
-      "count": 1
+      "id": "71996",
+      "name": "Gene On Earth",
+      "count": 3
+    },
+    {
+      "id": "80532",
+      "name": "Eversines",
+      "count": 2
+    },
+    {
+      "id": "50071",
+      "name": "Tsepo",
+      "count": 2
+    },
+    {
+      "id": "137338",
+      "name": "DJ Rino",
+      "count": 2
+    },
+    {
+      "id": "91943",
+      "name": "Lola Haro",
+      "count": 2
+    },
+    {
+      "id": "135556",
+      "name": "Andy (NL)",
+      "count": 2
+    },
+    {
+      "id": "112078",
+      "name": "Bennet (DE)",
+      "count": 2
+    },
+    {
+      "id": "171459",
+      "name": "ESTRELLA",
+      "count": 2
+    },
+    {
+      "id": "115426",
+      "name": "42nd Avenue",
+      "count": 2
     }
   ]
 }

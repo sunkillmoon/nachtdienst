@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.38,
   "lng": 4.92,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478086",
       "title": "Zalando and adidas present The Corner",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478086"
     }
-  ],
-  "past": []
+  ]
 }

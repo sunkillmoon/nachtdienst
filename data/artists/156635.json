@@ -2,7 +2,8 @@
   "id": "156635",
   "name": "Coûteux",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
@@ -12,9 +13,7 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2354081"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2485555",
       "title": "Subcultuur Nachtvierdaagse",

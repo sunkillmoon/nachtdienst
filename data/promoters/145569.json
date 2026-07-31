@@ -1,0 +1,59 @@
+{
+  "id": "145569",
+  "name": "2Lovers5683",
+  "upcoming": [
+    {
+      "id": "ra:2499299",
+      "title": "Discosabotage & 2lovers present Onur Özer",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499299"
+    },
+    {
+      "id": "ra:2499676",
+      "title": "Discosabotage & 2lovers afterparty",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499676"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "798",
+      "name": "Onur Özer",
+      "count": 1
+    },
+    {
+      "id": "153812",
+      "name": "Luval",
+      "count": 1
+    },
+    {
+      "id": "145462",
+      "name": "Denise Luzzi",
+      "count": 1
+    },
+    {
+      "id": "55106",
+      "name": "Alex Pastor",
+      "count": 1
+    },
+    {
+      "id": "176038",
+      "name": "Truman",
+      "count": 1
+    },
+    {
+      "id": "146378",
+      "name": "Matteo Racheli",
+      "count": 1
+    }
+  ]
+}

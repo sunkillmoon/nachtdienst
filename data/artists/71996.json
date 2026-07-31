@@ -2,7 +2,38 @@
   "id": "71996",
   "name": "Gene On Earth",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2492381",
+      "title": "One Long Groove",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492381"
+    },
+    {
+      "id": "ra:2494410",
+      "title": "Second Wind",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494410"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
+    }
+  ],
   "past": [
     {
       "id": "ra:2483805",

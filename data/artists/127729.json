@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2443210",
-      "title": "Hot Meal presents Mischluft's Hard Feelings",
+      "title": "Hot Meal presents Mischluft's Hard Feelings [sold out]",
       "date": "2026-08-01",
       "start": "2026-08-01T14:00+02:00",
       "venue": "Lofi",
@@ -22,6 +22,16 @@
       "venue_id": "286760",
       "area": "All",
       "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2470633",
+      "title": "ADE - Hot Meal",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470633"
     }
   ],
   "past": []

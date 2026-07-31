@@ -14,6 +14,16 @@
       "venue_id": "214852",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2359008"
+    },
+    {
+      "id": "ra:2359013",
+      "title": "KRAFT ADE 2026 Premium Pounding Techno",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Lagerwal",
+      "venue_id": "214852",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2359013"
     }
   ],
   "past": []

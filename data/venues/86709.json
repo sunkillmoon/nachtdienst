@@ -1,0 +1,50 @@
+{
+  "id": "86709",
+  "name": "Pllek",
+  "area": "Amsterdam",
+  "lat": 52.399007,
+  "lng": 4.893369,
+  "upcoming": [
+    {
+      "id": "ra:2492381",
+      "title": "One Long Groove",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492381"
+    },
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
+    },
+    {
+      "id": "ra:2501967",
+      "title": "Heavy House Society",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501967"
+    }
+  ],
+  "past": []
+}

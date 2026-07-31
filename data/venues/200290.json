@@ -6,26 +6,6 @@
   "lng": 4.8743906,
   "upcoming": [
     {
-      "id": "ra:2480519",
-      "title": "Portente Invites",
-      "date": "2026-07-24",
-      "start": "2026-07-24T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480519"
-    },
-    {
-      "id": "ra:2495285",
-      "title": "Allstate Insurance Express Pay — Immediate Payment Processing 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495285"
-    },
-    {
       "id": "ra:2480522",
       "title": "SINE OFF",
       "date": "2026-07-31",
@@ -34,6 +14,16 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480522"
+    },
+    {
+      "id": "ra:2496598",
+      "title": "JØASE ANL - FREE PRIDE RAVE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496598"
     },
     {
       "id": "ra:2481029",
@@ -47,6 +37,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495285",
+      "title": "Allstate Insurance Express Pay — Immediate Payment Processing 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495285"
+    },
+    {
+      "id": "ra:2480519",
+      "title": "Portente Invites",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480519"
+    },
     {
       "id": "ra:2461593",
       "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",

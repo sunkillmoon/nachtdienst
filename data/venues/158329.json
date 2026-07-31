@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.366504,
   "lng": 4.89064,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489489",
       "title": "Sake to Me",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489489"
     }
-  ],
-  "past": []
+  ]
 }

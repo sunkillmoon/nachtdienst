@@ -1,0 +1,39 @@
+{
+  "id": "190751",
+  "name": "TwoMindsTalking",
+  "upcoming": [
+    {
+      "id": "ra:2494078",
+      "title": "Defected ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494078"
+    },
+    {
+      "id": "ra:2492762",
+      "title": "Tonno Disko & Friends presents: Armand Van Helden",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492762"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "127489",
+      "name": "Tonno Disko",
+      "count": 1
+    },
+    {
+      "id": "569",
+      "name": "Armand Van Helden",
+      "count": 1
+    }
+  ]
+}

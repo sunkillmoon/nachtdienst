@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2426010",
-      "title": "Hush at the Beach with Riordan, Job de Jong & More",
-      "date": "2026-07-24",
-      "start": "2026-07-24T20:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2426010"
-    },
-    {
       "id": "ra:2493364",
       "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
       "date": "2026-08-07",
@@ -62,7 +52,58 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2495692",
+      "title": "Modern Funktion x Shelter",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495692"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
+    },
+    {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479148"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2426010",
+      "title": "Hush at the Beach with Riordan, Job de Jong & More",
+      "date": "2026-07-24",
+      "start": "2026-07-24T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426010"
+    }
+  ]
 }

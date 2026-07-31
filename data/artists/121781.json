@@ -1,0 +1,28 @@
+{
+  "id": "121781",
+  "name": "NOVAH",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479104",
+      "title": "Awakenings ADE - Opening Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479104"
+    },
+    {
+      "id": "ra:2474444",
+      "title": "DGTL ADE NOVAH & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474444"
+    }
+  ],
+  "past": []
+}

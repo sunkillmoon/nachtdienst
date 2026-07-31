@@ -1,7 +1,8 @@
 {
   "id": "182041",
   "name": "Stranded",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2381114",
       "title": "Stranded Festival 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2381114"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "126232",

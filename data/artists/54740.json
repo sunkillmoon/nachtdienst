@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2452159",
       "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452159"
     }
-  ],
-  "past": []
+  ]
 }

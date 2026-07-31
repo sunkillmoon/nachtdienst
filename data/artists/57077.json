@@ -2,7 +2,48 @@
   "id": "57077",
   "name": "Sedef Adasï",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2494330",
+      "title": "Avalon Emerson pres. 9000 Dreams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494330"
+    },
+    {
+      "id": "ra:2478125",
+      "title": "ADE - SPIELRAUM: 55 HOURS",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2479598",
+      "title": "Brighter Days x Life and Death",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479598"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485555",

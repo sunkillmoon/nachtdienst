@@ -11,6 +11,16 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466427"
+    },
+    {
+      "id": "ra:2476171",
+      "title": "VERKNIPT ADE Special Sunday",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476171"
     }
   ],
   "past": [
@@ -27,28 +37,53 @@
   ],
   "top_artists": [
     {
-      "id": "86340",
-      "name": "amara",
-      "count": 1
-    },
-    {
-      "id": "138462",
-      "name": "FØSS",
-      "count": 1
-    },
-    {
       "id": "109923",
       "name": "Raxeller",
-      "count": 1
-    },
-    {
-      "id": "176209",
-      "name": "SANTØS",
-      "count": 1
+      "count": 2
     },
     {
       "id": "89701",
       "name": "TiTi",
+      "count": 2
+    },
+    {
+      "id": "150403",
+      "name": "Alycia Bezgo",
+      "count": 1
+    },
+    {
+      "id": "169568",
+      "name": "IOSIO",
+      "count": 1
+    },
+    {
+      "id": "176769",
+      "name": "BØĘRY",
+      "count": 1
+    },
+    {
+      "id": "137592",
+      "name": "KLOFAMA",
+      "count": 1
+    },
+    {
+      "id": "180061",
+      "name": "Samuel Moriero (2)",
+      "count": 1
+    },
+    {
+      "id": "117926",
+      "name": "SLVL",
+      "count": 1
+    },
+    {
+      "id": "109511",
+      "name": "Winson",
+      "count": 1
+    },
+    {
+      "id": "86340",
+      "name": "amara",
       "count": 1
     }
   ]

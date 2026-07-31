@@ -2,7 +2,8 @@
   "id": "170554",
   "name": "Swanborn",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477682",
       "title": "VM Open",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477682"
     }
-  ],
-  "past": []
+  ]
 }

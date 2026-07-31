@@ -1,0 +1,34 @@
+{
+  "id": "149346",
+  "name": "FERMI",
+  "upcoming": [
+    {
+      "id": "ra:2495565",
+      "title": "FERMI presents... Dita & Ezza",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495565"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "124114",
+      "name": "DITA (ID)",
+      "count": 1
+    },
+    {
+      "id": "148895",
+      "name": "Jiminal (2)",
+      "count": 1
+    },
+    {
+      "id": "148871",
+      "name": "Meniac",
+      "count": 1
+    }
+  ]
+}

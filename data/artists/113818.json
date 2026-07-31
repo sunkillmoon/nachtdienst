@@ -32,6 +32,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2461530"
+    },
+    {
+      "id": "ra:2501510",
+      "title": "angelboy & Schwesta P",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501510"
     }
   ],
   "past": []

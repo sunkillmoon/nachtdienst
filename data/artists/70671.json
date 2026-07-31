@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2449960",
+      "title": "Conflux Festival 2026",
+      "date": "2026-09-24",
+      "start": "2026-09-24T19:00+02:00",
+      "venue": "TBA - Rotterdam Various Locations",
+      "venue_id": "293197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2449960"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2440412",
       "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",
       "date": "2026-07-24",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440412"
     }
-  ],
-  "past": []
+  ]
 }

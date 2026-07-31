@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.3729576,
   "lng": 4.878229,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491746",
       "title": "Normaal Sounds: Across The Pond",
@@ -14,9 +15,7 @@
       "venue_id": "202501",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491746"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2484096",
       "title": "Ouragan takeover",

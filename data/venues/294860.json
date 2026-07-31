@@ -1,0 +1,20 @@
+{
+  "id": "294860",
+  "name": "Pathe Tuschinski Theater",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2466179",
+      "title": "M07 presents SIGNAL_01 - Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Pathe Tuschinski Theater",
+      "venue_id": "294860",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466179"
+    }
+  ],
+  "past": []
+}

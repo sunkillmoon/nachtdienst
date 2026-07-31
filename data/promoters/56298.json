@@ -31,10 +31,155 @@
       "venue_id": "280996",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2465233"
+    },
+    {
+      "id": "ra:2473295",
+      "title": "Intercell ADE Kickoff | ADE By Day",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473295"
+    },
+    {
+      "id": "ra:2473316",
+      "title": "Intercell x 999999999 Invites | ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473316"
+    },
+    {
+      "id": "ra:2473364",
+      "title": "Intercell x Mika Heggemann Invites | ADE By Day",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473364"
+    },
+    {
+      "id": "ra:2473368",
+      "title": "Intercell x Glitch | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473368"
+    },
+    {
+      "id": "ra:2473366",
+      "title": "Intercell x Oscar Mulero Invites | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473366"
+    },
+    {
+      "id": "ra:2473373",
+      "title": "Intercell x Eris Drew & Octo Octa | ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473373"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
+    },
+    {
+      "id": "ra:2473385",
+      "title": "Intercell x Skin On Skin Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473385"
+    },
+    {
+      "id": "ra:2473386",
+      "title": "Intercell x SPFDJ Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473386"
+    },
+    {
+      "id": "ra:2473390",
+      "title": "Intercell x Yanamaste Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473390"
+    },
+    {
+      "id": "ra:2473393",
+      "title": "Intercell x fumi Invites - ADE By Day",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473393"
+    },
+    {
+      "id": "ra:2473394",
+      "title": "Intercell x Milion & SAIDAH Invites - ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473394"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "114563",
+      "name": "LAMMER",
+      "count": 2
+    },
+    {
+      "id": "142130",
+      "name": "SAIDAH",
+      "count": 2
+    },
+    {
+      "id": "79470",
+      "name": "Skin On Skin",
+      "count": 2
+    },
     {
       "id": "69599",
       "name": "KRTM",
@@ -68,21 +213,6 @@
     {
       "id": "103401",
       "name": "Doudou MD",
-      "count": 1
-    },
-    {
-      "id": "136611",
-      "name": "Emmz",
-      "count": 1
-    },
-    {
-      "id": "151923",
-      "name": "Emvae",
-      "count": 1
-    },
-    {
-      "id": "145217",
-      "name": "Moxes",
       "count": 1
     }
   ]

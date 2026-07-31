@@ -2,7 +2,8 @@
   "id": "91778",
   "name": "Katopodis",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2401521",
       "title": "Madam by Night invites: Papi Tut Mir Leid",
@@ -23,6 +24,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2426260"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2461747",
-      "title": "AZOTH Roze Woensdag",
-      "date": "2026-07-22",
-      "start": "2026-07-22T23:59+02:00",
-      "venue": "Hubert Nijmegen",
-      "venue_id": "280876",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2461747"
+      "id": "ra:2366738",
+      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2366738"
     },
+    {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
@@ -34,15 +56,14 @@
       "url": "https://ra.co/events/2471661"
     },
     {
-      "id": "ra:2366738",
-      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
-      "date": "2026-08-15",
-      "start": "2026-08-15T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2366738"
+      "id": "ra:2461747",
+      "title": "AZOTH Roze Woensdag",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:59+02:00",
+      "venue": "Hubert Nijmegen",
+      "venue_id": "280876",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2461747"
     }
-  ],
-  "past": []
+  ]
 }

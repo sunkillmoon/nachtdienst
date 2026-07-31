@@ -2,7 +2,8 @@
   "id": "106788",
   "name": "Maara",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440412",
       "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440412"
     }
-  ],
-  "past": []
+  ]
 }

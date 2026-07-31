@@ -1,7 +1,8 @@
 {
   "id": "161946",
   "name": "Last Seen",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2459039",
       "title": "Last Seen",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2459039"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "169785",

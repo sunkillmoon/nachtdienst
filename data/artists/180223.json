@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2489890",
-      "title": "Carnaval Blockparty",
-      "date": "2026-07-25",
-      "start": "2026-07-25T16:00+02:00",
-      "venue": "Mono",
-      "venue_id": "129182",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489890"
-    },
-    {
       "id": "ra:2488633",
       "title": "Baila Baixa",
       "date": "2026-08-08",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2488633"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2489890",
+      "title": "Carnaval Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T16:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489890"
+    }
+  ]
 }

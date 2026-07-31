@@ -84,6 +84,26 @@
       "venue_id": "7405",
       "area": "All",
       "url": "https://ra.co/events/2356414"
+    },
+    {
+      "id": "ra:2425674",
+      "title": "90's Now",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2425674"
+    },
+    {
+      "id": "ra:2448827",
+      "title": "TEAM RUSH HOUR XL SHOW",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2448827"
     }
   ],
   "past": []

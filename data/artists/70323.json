@@ -32,6 +32,26 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2491610",
+      "title": "Somov at Levenslang (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
   "past": []

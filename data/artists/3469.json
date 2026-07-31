@@ -22,6 +22,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491613"
+    },
+    {
+      "id": "ra:2473366",
+      "title": "Intercell x Oscar Mulero Invites | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473366"
     }
   ],
   "past": []

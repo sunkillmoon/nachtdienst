@@ -2,7 +2,8 @@
   "id": "1013",
   "name": "Seth Troxler",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
     }
-  ],
-  "past": []
+  ]
 }

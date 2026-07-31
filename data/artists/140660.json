@@ -2,7 +2,8 @@
   "id": "140660",
   "name": "Benoît",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480519",
       "title": "Portente Invites",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480519"
     }
-  ],
-  "past": []
+  ]
 }

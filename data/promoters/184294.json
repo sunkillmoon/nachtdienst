@@ -1,0 +1,54 @@
+{
+  "id": "184294",
+  "name": "OUTKZT ADE 2026",
+  "upcoming": [
+    {
+      "id": "ra:2408142",
+      "title": "OUTKZT ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2408142"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "138238",
+      "name": "ArioVistus",
+      "count": 1
+    },
+    {
+      "id": "28637",
+      "name": "Belocca",
+      "count": 1
+    },
+    {
+      "id": "116682",
+      "name": "DA SEYKO",
+      "count": 1
+    },
+    {
+      "id": "178822",
+      "name": "Kay Wagner",
+      "count": 1
+    },
+    {
+      "id": "125902",
+      "name": "Ozzy Riot",
+      "count": 1
+    },
+    {
+      "id": "54779",
+      "name": "Teenage Mutants",
+      "count": 1
+    },
+    {
+      "id": "111208",
+      "name": "TheKoosy",
+      "count": 1
+    }
+  ]
+}

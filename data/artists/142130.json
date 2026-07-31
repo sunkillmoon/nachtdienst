@@ -62,6 +62,26 @@
       "venue_id": "294777",
       "area": "All",
       "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2464111",
+      "title": "GASHOUDER presents: Sammy Virji Curates",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464111"
+    },
+    {
+      "id": "ra:2473394",
+      "title": "Intercell x Milion & SAIDAH Invites - ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473394"
     }
   ],
   "past": []

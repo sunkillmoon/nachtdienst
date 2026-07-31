@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2477372",
-      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477372"
-    },
-    {
-      "id": "ra:2477375",
-      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
-      "date": "2026-07-30",
-      "start": "2026-07-30T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477375"
-    },
-    {
       "id": "ra:2477378",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-06",
@@ -65,6 +45,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477375",
+      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2477372",
+      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477372"
+    },
     {
       "id": "ra:2477362",
       "title": "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX",

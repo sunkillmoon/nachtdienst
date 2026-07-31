@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2480519",
-      "title": "Portente Invites",
-      "date": "2026-07-24",
-      "start": "2026-07-24T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480519"
-    },
-    {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
       "date": "2026-08-29",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2376016"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2480519",
+      "title": "Portente Invites",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480519"
+    }
+  ]
 }

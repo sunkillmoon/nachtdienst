@@ -2,7 +2,8 @@
   "id": "81806",
   "name": "Danielle",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466408",
       "title": "De Sluwe Vos • Danielle",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466408"
     }
-  ],
-  "past": []
+  ]
 }

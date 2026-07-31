@@ -22,6 +22,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483660"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
   "past": []

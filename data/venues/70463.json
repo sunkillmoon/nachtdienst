@@ -1,0 +1,40 @@
+{
+  "id": "70463",
+  "name": "Ziggo Dome",
+  "area": "Amsterdam",
+  "lat": 52.313023,
+  "lng": 4.941842,
+  "upcoming": [
+    {
+      "id": "ra:2401347",
+      "title": "KI/KI 5 HOURS - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401347"
+    },
+    {
+      "id": "ra:2403373",
+      "title": "KI/KI 5 HOURS DAY/2 - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403373"
+    },
+    {
+      "id": "ra:2479552",
+      "title": "Scooter Crushes ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00+01:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479552"
+    }
+  ],
+  "past": []
+}

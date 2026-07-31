@@ -2,7 +2,18 @@
   "id": "107734",
   "name": "Girls Don't Sync",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2476166",
+      "title": "Happy Feelings ADE: Girls Don't Sync Invites - Ijland",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476166"
+    }
+  ],
   "past": [
     {
       "id": "ra:2406778",

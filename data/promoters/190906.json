@@ -14,5 +14,21 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "103250",
+      "name": "Crinkhoff",
+      "count": 1
+    },
+    {
+      "id": "180789",
+      "name": "MøR.",
+      "count": 1
+    },
+    {
+      "id": "130829",
+      "name": "DJ DSA",
+      "count": 1
+    }
+  ]
 }

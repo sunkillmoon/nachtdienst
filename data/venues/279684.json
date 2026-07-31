@@ -4,7 +4,8 @@
   "area": "Utrecht",
   "lat": 52.06,
   "lng": 5.08,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2307967",
       "title": "Geheime Liefde; Tuinen van Geluk",
@@ -15,6 +16,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2307967"
     }
-  ],
-  "past": []
+  ]
 }

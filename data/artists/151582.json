@@ -1,0 +1,28 @@
+{
+  "id": "151582",
+  "name": "Jono Stephenson",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2473425",
+      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST 70 TICKETS] ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473425"
+    }
+  ],
+  "past": []
+}

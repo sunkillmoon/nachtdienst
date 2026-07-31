@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466421",
-      "title": "Doppelgang • Lola Edo",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466421"
-    },
-    {
       "id": "ra:2454376",
       "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
       "date": "2026-07-31",
@@ -42,7 +32,28 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2473373",
+      "title": "Intercell x Eris Drew & Octo Octa | ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473373"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466421",
+      "title": "Doppelgang • Lola Edo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466421"
+    }
+  ]
 }

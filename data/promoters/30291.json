@@ -11,6 +11,66 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452373"
+    },
+    {
+      "id": "ra:2469789",
+      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469789"
+    },
+    {
+      "id": "ra:2469603",
+      "title": "VBX - BRET - ADE 24.10",
+      "date": "2026-10-23",
+      "start": "2026-10-24T07:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469603"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY 24.10",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
+    },
+    {
+      "id": "ra:2469614",
+      "title": "Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY 25.10",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469614"
+    },
+    {
+      "id": "ra:2469608",
+      "title": "Apollonia curates VBX - Shelter - ADE 25.10",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469608"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
   "past": [],
@@ -43,6 +103,26 @@
     {
       "id": "50373",
       "name": "Charlotte (FR)",
+      "count": 1
+    },
+    {
+      "id": "36505",
+      "name": "Shanti Celeste",
+      "count": 1
+    },
+    {
+      "id": "70230",
+      "name": "Pancratio",
+      "count": 1
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "51119",
+      "name": "Jennifer Loveless",
       "count": 1
     }
   ]

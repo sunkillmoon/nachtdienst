@@ -2,7 +2,18 @@
   "id": "166256",
   "name": "Gaya Carmeli",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2497114",
+      "title": "CODE 303 x UNDRGRND",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497114"
+    }
+  ],
   "past": [
     {
       "id": "ra:2479449",

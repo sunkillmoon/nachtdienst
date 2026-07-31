@@ -1,0 +1,40 @@
+{
+  "id": "205208",
+  "name": "De Sering",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2498352",
+      "title": "GALEJ",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498352"
+    },
+    {
+      "id": "ra:2489337",
+      "title": "Dusty Cabinets | Friday",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489337"
+    },
+    {
+      "id": "ra:2489338",
+      "title": "Dusty Cabinets | Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489338"
+    }
+  ],
+  "past": []
+}

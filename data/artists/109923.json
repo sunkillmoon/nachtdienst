@@ -22,6 +22,16 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2476171",
+      "title": "VERKNIPT ADE Special Sunday",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476171"
     }
   ],
   "past": [

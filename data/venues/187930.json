@@ -1,0 +1,80 @@
+{
+  "id": "187930",
+  "name": "GASHOUDER",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2449895",
+      "title": "GASHOUDER presents: Armin van Buuren & Benwal",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449895"
+    },
+    {
+      "id": "ra:2464117",
+      "title": "GASHOUDER presents: I Hate Models & Nico Moreno Invite",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464117"
+    },
+    {
+      "id": "ra:2442640",
+      "title": "GASHOUDER presents: Job Jobse [Sold Out]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442640"
+    },
+    {
+      "id": "ra:2444784",
+      "title": "GASHOUDER presents: Mochakk CALLING",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444784"
+    },
+    {
+      "id": "ra:2447959",
+      "title": "GASHOUDER presents: Flow by Franky Rizardo [Sold Out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447959"
+    },
+    {
+      "id": "ra:2464111",
+      "title": "GASHOUDER presents: Sammy Virji Curates",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464111"
+    },
+    {
+      "id": "ra:2452022",
+      "title": "GASHOUDER presents: Josh Baker",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:30+01:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452022"
+    }
+  ],
+  "past": []
+}

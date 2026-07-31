@@ -2,7 +2,8 @@
   "id": "109522",
   "name": "ex.sses",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491363",
       "title": "grady steele b2b ex.sses",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491363"
     }
-  ],
-  "past": []
+  ]
 }

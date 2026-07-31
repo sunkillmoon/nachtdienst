@@ -2,7 +2,8 @@
   "id": "132883",
   "name": "ILKA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487326",
       "title": "ANTIA INDUSTRIAL NIGHT",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2487326"
     }
-  ],
-  "past": []
+  ]
 }

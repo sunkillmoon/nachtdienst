@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2351984",
-      "title": "Dekmantel Festival 2026",
-      "date": "2026-07-29",
-      "start": "2026-07-29T20:30+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2351984"
-    },
-    {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",
       "date": "2026-08-02",
@@ -42,7 +32,28 @@
       "venue_id": "294777",
       "area": "All",
       "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2442640",
+      "title": "GASHOUDER presents: Job Jobse [Sold Out]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442640"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    }
+  ]
 }

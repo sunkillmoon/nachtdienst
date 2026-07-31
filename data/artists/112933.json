@@ -12,6 +12,36 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
+    {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
+    },
+    {
+      "id": "ra:2494410",
+      "title": "Second Wind",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494410"
     }
   ],
   "past": []

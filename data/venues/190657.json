@@ -14,6 +14,56 @@
       "venue_id": "190657",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481285"
+    },
+    {
+      "id": "ra:2480595",
+      "title": "Overbruggen x Hot Since 82' - Loft Sunset - ADE ",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480595"
+    },
+    {
+      "id": "ra:2466448",
+      "title": "PIV - The Loft",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466448"
+    },
+    {
+      "id": "ra:2466451",
+      "title": "20 Years Of The WHP - The Loft",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466451"
+    },
+    {
+      "id": "ra:2466456",
+      "title": "CLUB.RECORD - The Loft",
+      "date": "2026-10-22",
+      "start": "2026-10-23T06:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466456"
+    },
+    {
+      "id": "ra:2466462",
+      "title": "ADE Closing Party",
+      "date": "2026-10-26",
+      "start": "2026-10-26T15:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466462"
     }
   ],
   "past": []

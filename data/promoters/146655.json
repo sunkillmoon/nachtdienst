@@ -3,18 +3,8 @@
   "name": "RIZE",
   "upcoming": [
     {
-      "id": "ra:2460722",
-      "title": "[PHANTOM GROUP] KLUBNACHT",
-      "date": "2026-07-28",
-      "start": "2026-07-28T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2460722"
-    },
-    {
       "id": "ra:2481847",
-      "title": "[PHANTOM GROUP] KLUBNACHT w TRANZ",
+      "title": "[PHANTOM GROUP] KLUBNACHT w Ahku / 2LS / TOKOLOSHE / MAR. / Zerra",
       "date": "2026-08-04",
       "start": "2026-08-04T23:00+02:00",
       "venue": "John Doe",
@@ -54,7 +44,7 @@
     },
     {
       "id": "ra:2482164",
-      "title": "[PHANTOM GROUP] KLUBNACHT w TRANZ",
+      "title": "[PHANTOM GROUP] KLUBNACHT w TRANZ ",
       "date": "2026-09-01",
       "start": "2026-09-01T23:00+02:00",
       "venue": "John Doe",
@@ -94,7 +84,7 @@
     },
     {
       "id": "ra:2482196",
-      "title": "[PHANTOM GROUP] KLUBNACHT w Mørris",
+      "title": "[PHANTOM GROUP] KLUBNACHT w MØRRIS / Won / ALTBASE / BROEKSTER / PHILSBAD7",
       "date": "2026-09-29",
       "start": "2026-09-29T23:00+02:00",
       "venue": "John Doe",
@@ -115,6 +105,16 @@
   ],
   "past": [
     {
+      "id": "ra:2460722",
+      "title": "[PHANTOM GROUP] KLUBNACHT",
+      "date": "2026-07-28",
+      "start": "2026-07-28T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460722"
+    },
+    {
       "id": "ra:2481778",
       "title": "[PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU",
       "date": "2026-07-21",
@@ -126,16 +126,6 @@
     }
   ],
   "top_artists": [
-    {
-      "id": "77901",
-      "name": "Mørris",
-      "count": 2
-    },
-    {
-      "id": "127968",
-      "name": "TRANZ",
-      "count": 2
-    },
     {
       "id": "168810",
       "name": "inKKiss",
@@ -152,6 +142,21 @@
       "count": 2
     },
     {
+      "id": "176469",
+      "name": "Ahku",
+      "count": 1
+    },
+    {
+      "id": "181239",
+      "name": "2LS (1)",
+      "count": 1
+    },
+    {
+      "id": "174521",
+      "name": "Zerra",
+      "count": 1
+    },
+    {
       "id": "88845",
       "name": "Kleo",
       "count": 1
@@ -162,18 +167,13 @@
       "count": 1
     },
     {
+      "id": "127968",
+      "name": "TRANZ",
+      "count": 1
+    },
+    {
       "id": "154196",
       "name": "Jøel",
-      "count": 1
-    },
-    {
-      "id": "185468",
-      "name": "STVN (2)",
-      "count": 1
-    },
-    {
-      "id": "139206",
-      "name": "BIØNIC BAMBI",
       "count": 1
     }
   ]

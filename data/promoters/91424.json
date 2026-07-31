@@ -1,0 +1,39 @@
+{
+  "id": "91424",
+  "name": "Unsilenced",
+  "upcoming": [
+    {
+      "id": "ra:2498987",
+      "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498987"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "87138",
+      "name": "livwutang",
+      "count": 1
+    },
+    {
+      "id": "180250",
+      "name": "Mery",
+      "count": 1
+    },
+    {
+      "id": "106544",
+      "name": "Malom",
+      "count": 1
+    },
+    {
+      "id": "69022",
+      "name": "skyra",
+      "count": 1
+    }
+  ]
+}

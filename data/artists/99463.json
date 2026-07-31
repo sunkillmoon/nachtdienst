@@ -12,6 +12,16 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2479106",
+      "title": "Awakenings ADE - Drumcode",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479106"
     }
   ],
   "past": []

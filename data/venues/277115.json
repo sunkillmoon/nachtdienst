@@ -1,0 +1,90 @@
+{
+  "id": "277115",
+  "name": "Sugarfactory",
+  "area": "All",
+  "lat": 52.38,
+  "lng": 4.75,
+  "upcoming": [
+    {
+      "id": "ra:2479104",
+      "title": "Awakenings ADE - Opening Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479104"
+    },
+    {
+      "id": "ra:2479106",
+      "title": "Awakenings ADE - Drumcode",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479106"
+    },
+    {
+      "id": "ra:2479108",
+      "title": "Awakenings ADE - Joseph Capriati presents Metamorfosi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479108"
+    },
+    {
+      "id": "ra:2479113",
+      "title": "Awakenings ADE - Friday Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479113"
+    },
+    {
+      "id": "ra:2479114",
+      "title": "Awakenings ADE - Joris Voorn presents Trip To Galaxy",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479114"
+    },
+    {
+      "id": "ra:2479116",
+      "title": "Awakenings ADE - Adriatique All Night Long",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479116"
+    },
+    {
+      "id": "ra:2479118",
+      "title": "Awakenings ADE - Sunday Sessions",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479118"
+    },
+    {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479148"
+    }
+  ],
+  "past": []
+}

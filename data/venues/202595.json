@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.385937,
   "lng": 4.87144,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481298",
       "title": "House of Flava",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481298"
     }
-  ],
-  "past": []
+  ]
 }

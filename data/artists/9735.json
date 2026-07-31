@@ -1,0 +1,28 @@
+{
+  "id": "9735",
+  "name": "Benja",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2496550",
+      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496550"
+    },
+    {
+      "id": "ra:2478046",
+      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478046"
+    }
+  ],
+  "past": []
+}

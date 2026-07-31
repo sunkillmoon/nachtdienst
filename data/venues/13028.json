@@ -24,6 +24,16 @@
       "venue_id": "13028",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484091"
+    },
+    {
+      "id": "ra:2496717",
+      "title": "Tare invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T20:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496717"
     }
   ],
   "past": []

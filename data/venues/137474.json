@@ -6,26 +6,6 @@
   "lng": 4.92572,
   "upcoming": [
     {
-      "id": "ra:2483329",
-      "title": "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483329"
-    },
-    {
-      "id": "ra:2453208",
-      "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
-      "date": "2026-07-26",
-      "start": "2026-07-26T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453208"
-    },
-    {
       "id": "ra:2464185",
       "title": "Dekmantel At Night - Friday",
       "date": "2026-07-31",
@@ -144,9 +124,39 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494108"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
     }
   ],
   "past": [
+    {
+      "id": "ra:2453208",
+      "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
+      "date": "2026-07-26",
+      "start": "2026-07-26T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453208"
+    },
+    {
+      "id": "ra:2483329",
+      "title": "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483329"
+    },
     {
       "id": "ra:2483326",
       "title": "dBridge, 333 + bar40 with KRUISPUNT & Pacific Ondergronds",

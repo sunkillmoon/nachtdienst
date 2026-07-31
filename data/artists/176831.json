@@ -5,13 +5,33 @@
   "upcoming": [
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2449895",
+      "title": "GASHOUDER presents: Armin van Buuren & Benwal",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449895"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
     }
   ],
   "past": []

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2501498",
+      "title": "DJ NIETSCHIETEN & rriddim",
+      "date": "2026-08-06",
+      "start": "2026-08-06T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501498"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2478086",
       "title": "Zalando and adidas present The Corner",
       "date": "2026-07-23",
@@ -12,9 +24,7 @@
       "venue_id": "296104",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478086"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2464040",
       "title": "De Reünie",

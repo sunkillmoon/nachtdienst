@@ -12,6 +12,16 @@
       "venue_id": "10632",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471234"
+    },
+    {
+      "id": "ra:2478046",
+      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478046"
     }
   ],
   "past": []

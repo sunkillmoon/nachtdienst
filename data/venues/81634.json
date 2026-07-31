@@ -1,0 +1,70 @@
+{
+  "id": "81634",
+  "name": "NDSM Scheepsbouwloods",
+  "area": "Amsterdam",
+  "lat": 52.401147,
+  "lng": 4.896282,
+  "upcoming": [
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2474410",
+      "title": "DGTL ADE Tinlicker & Special Guests",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:30+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474410"
+    },
+    {
+      "id": "ra:2474416",
+      "title": "DGTL ADE Friday Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474416"
+    },
+    {
+      "id": "ra:2474432",
+      "title": "DGTL ADE Shimza & Co",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474432"
+    },
+    {
+      "id": "ra:2474444",
+      "title": "DGTL ADE NOVAH & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474444"
+    },
+    {
+      "id": "ra:2479433",
+      "title": "DGTL ADE FUSE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479433"
+    }
+  ],
+  "past": []
+}

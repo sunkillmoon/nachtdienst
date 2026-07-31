@@ -1,0 +1,29 @@
+{
+  "id": "90843",
+  "name": "Alien Communications",
+  "upcoming": [
+    {
+      "id": "ra:2499556",
+      "title": "Alien Communications x Craigie Knowes ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499556"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "92526",
+      "name": "Alien Communications",
+      "count": 1
+    },
+    {
+      "id": "75784",
+      "name": "Craigie Knowes",
+      "count": 1
+    }
+  ]
+}

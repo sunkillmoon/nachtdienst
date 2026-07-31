@@ -1,0 +1,38 @@
+{
+  "id": "137338",
+  "name": "DJ Rino",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2501639",
+      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501639"
+    },
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
+    }
+  ],
+  "past": []
+}

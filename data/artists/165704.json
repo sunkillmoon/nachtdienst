@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2357461",
-      "title": "Orbit Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Fort Vechten",
-      "venue_id": "89263",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2357461"
-    },
+      "id": "ra:2464920",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464920"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2351984"
     },
     {
-      "id": "ra:2464920",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464920"
+      "id": "ra:2357461",
+      "title": "Orbit Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Fort Vechten",
+      "venue_id": "89263",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2357461"
     }
-  ],
-  "past": []
+  ]
 }

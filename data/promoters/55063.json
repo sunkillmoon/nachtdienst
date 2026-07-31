@@ -1,0 +1,28 @@
+{
+  "id": "55063",
+  "name": "Dockyard",
+  "upcoming": [
+    {
+      "id": "ra:2466156",
+      "title": "Dockyard Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466156"
+    },
+    {
+      "id": "ra:2466154",
+      "title": "Mystic Garden Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466154"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

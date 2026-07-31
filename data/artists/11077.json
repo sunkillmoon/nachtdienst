@@ -22,6 +22,16 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458125"
+    },
+    {
+      "id": "ra:2489684",
+      "title": "Dave Clarke presents: 30 Years of ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489684"
     }
   ],
   "past": []

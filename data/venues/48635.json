@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.208133,
   "lng": 4.534314,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488560",
       "title": "Tomorrowland Pre Boat Party Weekend 2",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488560"
     }
-  ],
-  "past": []
+  ]
 }

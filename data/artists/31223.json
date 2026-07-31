@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2469370",
-      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
-      "date": "2026-07-25",
-      "start": "2026-07-25T15:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469370"
-    },
-    {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
       "date": "2026-08-15",
@@ -22,7 +12,28 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
+    },
+    {
+      "id": "ra:2498952",
+      "title": "IN TUNE ~~",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2498952"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2469370",
+      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469370"
+    }
+  ]
 }

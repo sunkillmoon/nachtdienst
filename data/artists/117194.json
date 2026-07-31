@@ -25,13 +25,23 @@
     },
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2470321",
+      "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470321"
     }
   ],
   "past": []

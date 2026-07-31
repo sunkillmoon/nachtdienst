@@ -1,0 +1,28 @@
+{
+  "id": "28755",
+  "name": "Rrose",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2491610",
+      "title": "Somov at Levenslang (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    }
+  ],
+  "past": []
+}

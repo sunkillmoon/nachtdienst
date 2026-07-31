@@ -2,7 +2,8 @@
   "id": "73672",
   "name": "Sama' Abdulhadi",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440116",
       "title": "Âme DJ x Sama' Abdulhadi",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440116"
     }
-  ],
-  "past": []
+  ]
 }

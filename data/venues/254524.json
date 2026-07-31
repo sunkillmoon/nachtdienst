@@ -1,0 +1,20 @@
+{
+  "id": "254524",
+  "name": "Loop51",
+  "area": "Amsterdam",
+  "lat": 52.35,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2383070",
+      "title": "Boogie House ADE 2026 SHOWCASE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2383070"
+    }
+  ],
+  "past": []
+}

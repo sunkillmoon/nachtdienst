@@ -1,0 +1,28 @@
+{
+  "id": "87519",
+  "name": "Cloonee",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2479108",
+      "title": "Awakenings ADE - Joseph Capriati presents Metamorfosi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479108"
+    },
+    {
+      "id": "ra:2447959",
+      "title": "GASHOUDER presents: Flow by Franky Rizardo [Sold Out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447959"
+    }
+  ],
+  "past": []
+}

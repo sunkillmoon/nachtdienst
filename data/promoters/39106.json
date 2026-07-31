@@ -1,0 +1,359 @@
+{
+  "id": "39106",
+  "name": "Amsterdam Dance Event",
+  "upcoming": [
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2414815",
+      "title": "Hernan Cattaneo b2b Nick Warren - 6hrs ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414815"
+    },
+    {
+      "id": "ra:2407995",
+      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407995"
+    },
+    {
+      "id": "ra:2459376",
+      "title": "Madam invites: David Penn & friends",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2475090",
+      "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475090"
+    },
+    {
+      "id": "ra:2484740",
+      "title": "Miss Monique presents Siona ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484740"
+    },
+    {
+      "id": "ra:2459379",
+      "title": "Madam invites: PIV",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459379"
+    },
+    {
+      "id": "ra:2499098",
+      "title": "ADE: Louis Andriessen's Hoketus",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499098"
+    },
+    {
+      "id": "ra:2458430",
+      "title": "DJ Kicks ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458430"
+    },
+    {
+      "id": "ra:2442149",
+      "title": "Worakls & friends ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442149"
+    },
+    {
+      "id": "ra:2458425",
+      "title": "Guy J - all night long",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458425"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
+    },
+    {
+      "id": "ra:2426450",
+      "title": "Ritter Butzke & Casa ADE Cruise",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426450"
+    },
+    {
+      "id": "ra:2499813",
+      "title": "Kompakt ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499813"
+    },
+    {
+      "id": "ra:2420664",
+      "title": "UNREAL ADE 2026 x Cloudy ALL DAY LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420664"
+    },
+    {
+      "id": "ra:2458450",
+      "title": "We are lost ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458450"
+    },
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2475096",
+      "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475096"
+    },
+    {
+      "id": "ra:2473425",
+      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST 70 TICKETS] ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473425"
+    },
+    {
+      "id": "ra:2459380",
+      "title": "Madam invites: Kitty Amor curates",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459380"
+    },
+    {
+      "id": "ra:2420673",
+      "title": "UNREAL x ADE 2026: KUKO ALL NIGHT LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420673"
+    },
+    {
+      "id": "ra:2502429",
+      "title": "Audio Obscura x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
+    },
+    {
+      "id": "ra:2375140",
+      "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375140"
+    },
+    {
+      "id": "ra:2478046",
+      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478046"
+    },
+    {
+      "id": "ra:2459386",
+      "title": "Madam invites: Detroit Love",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459386"
+    },
+    {
+      "id": "ra:2499074",
+      "title": "ADE: Oh Voyage, DJ Klapsalon + Afrobotic",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499074"
+    },
+    {
+      "id": "ra:2502535",
+      "title": "Paco Osuna x Now Here ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502535"
+    },
+    {
+      "id": "ra:2459389",
+      "title": "Madam invites: Detroit Love",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459389"
+    },
+    {
+      "id": "ra:2459622",
+      "title": "Lost Miracle ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459622"
+    },
+    {
+      "id": "ra:2459394",
+      "title": "Madam invites: MVSON",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459394"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "98741",
+      "name": "Aline Rocha",
+      "count": 2
+    },
+    {
+      "id": "28587",
+      "name": "David Penn",
+      "count": 2
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
+      "count": 2
+    },
+    {
+      "id": "53893",
+      "name": "Ferreck Dawn",
+      "count": 2
+    },
+    {
+      "id": "148310",
+      "name": "Job de Jong",
+      "count": 2
+    },
+    {
+      "id": "117966",
+      "name": "Joëlla Jackson",
+      "count": 2
+    },
+    {
+      "id": "36517",
+      "name": "Kitty Amor",
+      "count": 2
+    },
+    {
+      "id": "48752",
+      "name": "Low Steppa",
+      "count": 2
+    },
+    {
+      "id": "76335",
+      "name": "Mason Collective",
+      "count": 2
+    },
+    {
+      "id": "22744",
+      "name": "Mousse T.",
+      "count": 2
+    }
+  ]
+}

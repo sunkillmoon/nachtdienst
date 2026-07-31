@@ -12,6 +12,36 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443517"
+    },
+    {
+      "id": "ra:2501541",
+      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya ",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2501541"
+    },
+    {
+      "id": "ra:2455370",
+      "title": "Eastenderz x Loveland - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455370"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
     }
   ],
   "past": []

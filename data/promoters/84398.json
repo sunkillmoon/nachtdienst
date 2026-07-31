@@ -1,0 +1,69 @@
+{
+  "id": "84398",
+  "name": "FreeFromSleep",
+  "upcoming": [
+    {
+      "id": "ra:2479678",
+      "title": "Colorize: 15 Years - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479678"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "170087",
+      "name": "ALLKNIGHT",
+      "count": 1
+    },
+    {
+      "id": "143572",
+      "name": "Estiva",
+      "count": 1
+    },
+    {
+      "id": "115530",
+      "name": "Helsloot",
+      "count": 1
+    },
+    {
+      "id": "75147",
+      "name": "Fejká",
+      "count": 1
+    },
+    {
+      "id": "147633",
+      "name": "Klur",
+      "count": 1
+    },
+    {
+      "id": "62107",
+      "name": "Matt Fax",
+      "count": 1
+    },
+    {
+      "id": "123768",
+      "name": "Datskie",
+      "count": 1
+    },
+    {
+      "id": "147851",
+      "name": "Jordin Post",
+      "count": 1
+    },
+    {
+      "id": "152452",
+      "name": "Falden",
+      "count": 1
+    },
+    {
+      "id": "147157",
+      "name": "Guy Didden",
+      "count": 1
+    }
+  ]
+}

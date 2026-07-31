@@ -12,6 +12,16 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2500675",
+      "title": "Interplanetary Criminal ADE at Bajes",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500675"
     }
   ],
   "past": []

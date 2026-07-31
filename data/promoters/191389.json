@@ -1,0 +1,24 @@
+{
+  "id": "191389",
+  "name": "TOKRA",
+  "upcoming": [
+    {
+      "id": "ra:2502172",
+      "title": "TOKRA",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Loods 12",
+      "venue_id": "248793",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502172"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "106567",
+      "name": "PunkFunkLove",
+      "count": 1
+    }
+  ]
+}

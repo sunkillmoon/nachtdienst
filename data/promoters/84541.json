@@ -3,14 +3,14 @@
   "name": "Watt events",
   "upcoming": [
     {
-      "id": "ra:2442144",
-      "title": "Capture with Cosmic Gate & Laura van Dam",
-      "date": "2026-07-26",
-      "start": "2026-07-26T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
+      "id": "ra:2500689",
+      "title": "Eichenbaum all-night-long",
+      "date": "2026-08-07",
+      "start": "2026-08-07T20:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2442144"
+      "url": "https://ra.co/events/2500689"
     },
     {
       "id": "ra:2411139",
@@ -41,19 +41,130 @@
       "venue_id": "188055",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2414839"
-    }
-  ],
-  "past": [],
-  "top_artists": [
-    {
-      "id": "10905",
-      "name": "Cosmic Gate",
-      "count": 1
     },
     {
-      "id": "98673",
-      "name": "Cyantist",
-      "count": 1
+      "id": "ra:2414815",
+      "title": "Hernan Cattaneo b2b Nick Warren - 6hrs ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414815"
+    },
+    {
+      "id": "ra:2484740",
+      "title": "Miss Monique presents Siona ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484740"
+    },
+    {
+      "id": "ra:2458430",
+      "title": "DJ Kicks ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458430"
+    },
+    {
+      "id": "ra:2442149",
+      "title": "Worakls & friends ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442149"
+    },
+    {
+      "id": "ra:2458425",
+      "title": "Guy J - all night long",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458425"
+    },
+    {
+      "id": "ra:2499813",
+      "title": "Kompakt ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499813"
+    },
+    {
+      "id": "ra:2458450",
+      "title": "We are lost ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458450"
+    },
+    {
+      "id": "ra:2452252",
+      "title": "fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452252"
+    },
+    {
+      "id": "ra:2375140",
+      "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375140"
+    },
+    {
+      "id": "ra:2459622",
+      "title": "Lost Miracle ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459622"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2442144",
+      "title": "Capture with Cosmic Gate & Laura van Dam",
+      "date": "2026-07-26",
+      "start": "2026-07-26T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442144"
+    }
+  ],
+  "top_artists": [
+    {
+      "id": "82940",
+      "name": "Eichenbaum",
+      "count": 2
+    },
+    {
+      "id": "1076",
+      "name": "Guy J",
+      "count": 2
     },
     {
       "id": "108112",
@@ -68,6 +179,31 @@
     {
       "id": "32322",
       "name": "Miss Melera",
+      "count": 1
+    },
+    {
+      "id": "75",
+      "name": "Hernan Cattaneo",
+      "count": 1
+    },
+    {
+      "id": "58",
+      "name": "Nick Warren",
+      "count": 1
+    },
+    {
+      "id": "7971",
+      "name": "Adapter",
+      "count": 1
+    },
+    {
+      "id": "84862",
+      "name": "Genesi (IT)",
+      "count": 1
+    },
+    {
+      "id": "7541",
+      "name": "Kiko",
       "count": 1
     }
   ]

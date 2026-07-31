@@ -1,0 +1,29 @@
+{
+  "id": "72357",
+  "name": "Jackies",
+  "upcoming": [
+    {
+      "id": "ra:2458761",
+      "title": "Jackies ADE Boat Party 2026 - Louie Vega - Open to Close",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:30+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458761"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "1621",
+      "name": "Louie Vega",
+      "count": 1
+    },
+    {
+      "id": "39103",
+      "name": "Piem",
+      "count": 1
+    }
+  ]
+}

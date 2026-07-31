@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2357461",
-      "title": "Orbit Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Fort Vechten",
-      "venue_id": "89263",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2357461"
-    },
-    {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",
       "date": "2026-08-01",
@@ -54,15 +44,56 @@
       "url": "https://ra.co/events/2309929"
     },
     {
+      "id": "ra:2499721",
+      "title": "CARISTA, ROD, Prance",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499721"
+    },
+    {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2357461",
+      "title": "Orbit Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Fort Vechten",
+      "venue_id": "89263",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2357461"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "88238",
   "name": "Operator",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489890",
       "title": "Carnaval Blockparty",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2489890"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "163073",

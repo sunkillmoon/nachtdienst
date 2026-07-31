@@ -2,7 +2,8 @@
   "id": "179030",
   "name": "Arter",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488835",
       "title": "CLUB GOTO",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488835"
     }
-  ],
-  "past": []
+  ]
 }

@@ -12,6 +12,16 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2444343"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
     }
   ],
   "past": []

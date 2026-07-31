@@ -2,7 +2,8 @@
   "id": "175860",
   "name": "Dennis (3)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2381114",
       "title": "Stranded Festival 2026",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2381114"
     }
-  ],
-  "past": []
+  ]
 }

@@ -32,6 +32,36 @@
       "venue_id": "287886",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484813"
+    },
+    {
+      "id": "ra:2394012",
+      "title": "RESONANT - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Zum Barbarossa",
+      "venue_id": "248592",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2394012"
+    },
+    {
+      "id": "ra:2426450",
+      "title": "Ritter Butzke & Casa ADE Cruise",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426450"
+    },
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
     }
   ],
   "past": []

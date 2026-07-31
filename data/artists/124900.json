@@ -2,7 +2,8 @@
   "id": "124900",
   "name": "Brian Fasano",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480215",
       "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480215"
     }
-  ],
-  "past": []
+  ]
 }

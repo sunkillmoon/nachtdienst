@@ -1,0 +1,49 @@
+{
+  "id": "189551",
+  "name": "Ruben Karapetyan Presents ",
+  "upcoming": [
+    {
+      "id": "ra:2475720",
+      "title": "RKP presents ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475720"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "39640",
+      "name": "DJ Ruby",
+      "count": 1
+    },
+    {
+      "id": "70028",
+      "name": "Emi Galvan",
+      "count": 1
+    },
+    {
+      "id": "120155",
+      "name": "NOIYSE PROJECT",
+      "count": 1
+    },
+    {
+      "id": "146293",
+      "name": "Ruben Karapetyan",
+      "count": 1
+    },
+    {
+      "id": "103359",
+      "name": "Yvo J",
+      "count": 1
+    },
+    {
+      "id": "147328",
+      "name": "Baliology",
+      "count": 1
+    }
+  ]
+}

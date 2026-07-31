@@ -22,6 +22,26 @@
       "venue_id": "294145",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466330"
+    },
+    {
+      "id": "ra:2499721",
+      "title": "CARISTA, ROD, Prance",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499721"
+    },
+    {
+      "id": "ra:2490674",
+      "title": "Vault Sessions & Friends ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490674"
     }
   ],
   "past": [

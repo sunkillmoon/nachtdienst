@@ -2,7 +2,8 @@
   "id": "3687",
   "name": "Toxic",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2430662",
       "title": "EAST Techno - Summer Edition",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2430662"
     }
-  ],
-  "past": []
+  ]
 }

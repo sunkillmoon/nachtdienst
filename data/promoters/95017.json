@@ -11,6 +11,16 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2481531"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
     }
   ],
   "past": [],
@@ -43,6 +53,26 @@
     {
       "id": "87856",
       "name": "DJANGO (NL)",
+      "count": 1
+    },
+    {
+      "id": "82621",
+      "name": "Bellaire",
+      "count": 1
+    },
+    {
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 1
+    },
+    {
+      "id": "107539",
+      "name": "Bibi Seck",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
       "count": 1
     }
   ]

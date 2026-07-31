@@ -6,56 +6,6 @@
   "lng": 4.911916,
   "upcoming": [
     {
-      "id": "ra:2453384",
-      "title": "Doka Summer Studio x Last Seen",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453384"
-    },
-    {
-      "id": "ra:2459039",
-      "title": "Last Seen",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2459039"
-    },
-    {
-      "id": "ra:2453390",
-      "title": "Doka Summer Studio x Jaguar House",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453390"
-    },
-    {
-      "id": "ra:2488573",
-      "title": "Doka Summer Studio x Jaguar House",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488573"
-    },
-    {
-      "id": "ra:2486663",
-      "title": "Coco Coquelicot masterclass & club night (World Pride)",
-      "date": "2026-07-30",
-      "start": "2026-07-30T22:00+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2486663"
-    },
-    {
       "id": "ra:2470216",
       "title": "Jezabel x Doka Studio (World Pride)",
       "date": "2026-07-31",
@@ -86,6 +36,66 @@
       "url": "https://ra.co/events/2494389"
     },
     {
+      "id": "ra:2500884",
+      "title": "Doka Studio with Colored Craig - Fais Le Beau",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500884"
+    },
+    {
+      "id": "ra:2500888",
+      "title": "Polychrome x Doka Studio with Faited - Tanzverbot",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500888"
+    },
+    {
+      "id": "ra:2500890",
+      "title": "Doka Studio with Antal (All night long)",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500890"
+    },
+    {
+      "id": "ra:2500891",
+      "title": "Ciranda Sundays x Doka Studio with TBA",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500891"
+    },
+    {
+      "id": "ra:2500895",
+      "title": "Likeminded x Doka Studio with TBA",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500895"
+    },
+    {
+      "id": "ra:2500899",
+      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500899"
+    },
+    {
       "id": "ra:2488581",
       "title": "Doka Studio w/ Vladimir Ivkovic | Intergalactic Gary",
       "date": "2026-09-25",
@@ -97,6 +107,56 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2486663",
+      "title": "Coco Coquelicot masterclass & club night (World Pride)",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486663"
+    },
+    {
+      "id": "ra:2453390",
+      "title": "Doka Summer Studio x Jaguar House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453390"
+    },
+    {
+      "id": "ra:2488573",
+      "title": "Doka Summer Studio x Jaguar House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488573"
+    },
+    {
+      "id": "ra:2453384",
+      "title": "Doka Summer Studio x Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453384"
+    },
+    {
+      "id": "ra:2459039",
+      "title": "Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459039"
+    },
     {
       "id": "ra:2453380",
       "title": "Doka Summer Studio x Namazu",

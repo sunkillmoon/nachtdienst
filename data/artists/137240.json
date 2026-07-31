@@ -32,6 +32,26 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2479104",
+      "title": "Awakenings ADE - Opening Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479104"
+    },
+    {
+      "id": "ra:2473393",
+      "title": "Intercell x fumi Invites - ADE By Day",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473393"
     }
   ],
   "past": []

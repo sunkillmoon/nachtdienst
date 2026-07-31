@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488836",
-      "title": "CLUB GOTO",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "BAR Goto",
-      "venue_id": "297258",
-      "area": "All",
-      "url": "https://ra.co/events/2488836"
-    },
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
@@ -22,7 +24,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2488836",
+      "title": "CLUB GOTO",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "BAR Goto",
+      "venue_id": "297258",
+      "area": "All",
+      "url": "https://ra.co/events/2488836"
     }
-  ],
-  "past": []
+  ]
 }

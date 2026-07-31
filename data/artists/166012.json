@@ -24,14 +24,54 @@
       "url": "https://ra.co/events/2488595"
     },
     {
+      "id": "ra:2495691",
+      "title": "Lola x BRET - Midas Field Curates",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495691"
+    },
+    {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2495676",
+      "title": "Lola x Rinse FM ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495676"
+    },
+    {
+      "id": "ra:2494128",
+      "title": "PIV ADE - Ijland",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494128"
     }
   ],
   "past": []

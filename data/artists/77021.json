@@ -12,6 +12,16 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2473390",
+      "title": "Intercell x Yanamaste Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473390"
     }
   ],
   "past": []

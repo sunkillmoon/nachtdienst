@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2357461",
-      "title": "Orbit Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Fort Vechten",
-      "venue_id": "89263",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2357461"
-    },
-    {
       "id": "ra:2440428",
       "title": "BASHKKA present INVIGORATE A.M",
       "date": "2026-08-07",
@@ -32,7 +22,58 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2442640",
+      "title": "GASHOUDER presents: Job Jobse [Sold Out]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442640"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    },
+    {
+      "id": "ra:2478125",
+      "title": "ADE - SPIELRAUM: 55 HOURS",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2357461",
+      "title": "Orbit Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Fort Vechten",
+      "venue_id": "89263",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2357461"
+    }
+  ]
 }

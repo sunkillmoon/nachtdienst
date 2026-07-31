@@ -3,56 +3,6 @@
   "name": "NAR",
   "upcoming": [
     {
-      "id": "ra:2469350",
-      "title": "DE DANSVLOER / Zuennheiser & Grisha Greg",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469350"
-    },
-    {
-      "id": "ra:2469355",
-      "title": "CLUBNACHT / Ajuma (All Night)",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469355"
-    },
-    {
-      "id": "ra:2469370",
-      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
-      "date": "2026-07-25",
-      "start": "2026-07-25T15:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469370"
-    },
-    {
-      "id": "ra:2469373",
-      "title": "PLAYGROUND / Benny Rodrigues, Nuno dos Santos",
-      "date": "2026-07-26",
-      "start": "2026-07-26T13:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469373"
-    },
-    {
-      "id": "ra:2469378",
-      "title": "DE DANSVLOER / DJ Hushpuppy & Hunter",
-      "date": "2026-07-30",
-      "start": "2026-07-30T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469378"
-    },
-    {
       "id": "ra:2469382",
       "title": "CLUBNACHT / CHEWCHEW (All Night)",
       "date": "2026-07-31",
@@ -93,48 +43,59 @@
       "url": "https://ra.co/events/2378523"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2469378",
+      "title": "DE DANSVLOER / DJ Hushpuppy & Hunter",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469378"
+    },
+    {
+      "id": "ra:2469373",
+      "title": "PLAYGROUND / Benny Rodrigues, Nuno dos Santos",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469373"
+    },
+    {
+      "id": "ra:2469370",
+      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469370"
+    },
+    {
+      "id": "ra:2469355",
+      "title": "CLUBNACHT / Ajuma (All Night)",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469355"
+    },
+    {
+      "id": "ra:2469350",
+      "title": "DE DANSVLOER / Zuennheiser & Grisha Greg",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469350"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "107688",
-      "name": "Ajuma",
-      "count": 1
-    },
-    {
-      "id": "110946",
-      "name": "Yopo (NL)",
-      "count": 1
-    },
-    {
-      "id": "3596",
-      "name": "Serge",
-      "count": 1
-    },
-    {
-      "id": "31223",
-      "name": "Frits Wentink",
-      "count": 1
-    },
-    {
-      "id": "752",
-      "name": "Cassy",
-      "count": 1
-    },
-    {
-      "id": "3512",
-      "name": "Nuno dos Santos",
-      "count": 1
-    },
-    {
-      "id": "10446",
-      "name": "Benny Rodrigues",
-      "count": 1
-    },
-    {
-      "id": "108167",
-      "name": "CHEWCHEW",
-      "count": 1
-    },
     {
       "id": "179646",
       "name": "LYLO (NL)",
@@ -143,6 +104,46 @@
     {
       "id": "4561",
       "name": "Hunee",
+      "count": 1
+    },
+    {
+      "id": "3760",
+      "name": "Gerd Janson",
+      "count": 1
+    },
+    {
+      "id": "141268",
+      "name": "Coco Coquelicot",
+      "count": 1
+    },
+    {
+      "id": "81175",
+      "name": "Guus Christian",
+      "count": 1
+    },
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    },
+    {
+      "id": "9083",
+      "name": "David Vunk",
+      "count": 1
+    },
+    {
+      "id": "137301",
+      "name": "Malou (NL)",
+      "count": 1
+    },
+    {
+      "id": "2897",
+      "name": "Tama Sumo",
+      "count": 1
+    },
+    {
+      "id": "1910",
+      "name": "Lakuti",
       "count": 1
     }
   ]

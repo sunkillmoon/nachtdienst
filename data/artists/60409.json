@@ -2,7 +2,8 @@
   "id": "60409",
   "name": "ANOTR",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",
@@ -12,9 +13,7 @@
       "venue_id": "121137",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2402609",
       "title": "No Art Opening Festival",

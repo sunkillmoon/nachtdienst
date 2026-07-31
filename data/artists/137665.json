@@ -2,7 +2,8 @@
   "id": "137665",
   "name": "MALLAURY",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478086",
       "title": "Zalando and adidas present The Corner",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478086"
     }
-  ],
-  "past": []
+  ]
 }

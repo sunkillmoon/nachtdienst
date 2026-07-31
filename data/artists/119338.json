@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2479118",
+      "title": "Awakenings ADE - Sunday Sessions",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479118"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488835",
       "title": "CLUB GOTO",
       "date": "2026-07-23",
@@ -13,6 +35,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488835"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2351984",
-      "title": "Dekmantel Festival 2026",
-      "date": "2026-07-29",
-      "start": "2026-07-29T20:30+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2351984"
-    },
-    {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",
       "date": "2026-08-02",
@@ -32,7 +22,48 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2488526",
+      "title": "Vault Sessions ADE - TILLATEC",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488526"
+    },
+    {
+      "id": "ra:2475096",
+      "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475096"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2351984",
+      "title": "Dekmantel Festival 2026",
+      "date": "2026-07-29",
+      "start": "2026-07-29T20:30+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2351984"
+    }
+  ]
 }

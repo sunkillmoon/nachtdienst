@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2448066",
       "title": "Colorado Charlie with Marsolo (All Day Long) (SOLD OUT)",
       "date": "2026-08-08",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
@@ -45,14 +35,65 @@
     },
     {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2495692",
+      "title": "Modern Funktion x Shelter",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495692"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2452022",
+      "title": "GASHOUDER presents: Josh Baker",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:30+01:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452022"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    }
+  ]
 }

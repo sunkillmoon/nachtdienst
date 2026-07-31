@@ -12,6 +12,16 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476133"
+    },
+    {
+      "id": "ra:2500899",
+      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500899"
     }
   ],
   "past": []

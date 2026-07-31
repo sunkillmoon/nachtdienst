@@ -1,7 +1,8 @@
 {
   "id": "153214",
   "name": "AZOTH",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461747",
       "title": "AZOTH Roze Woensdag",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2461747"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "156577",

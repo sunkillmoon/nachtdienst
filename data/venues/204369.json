@@ -1,0 +1,20 @@
+{
+  "id": "204369",
+  "name": "Blend XL",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2482781",
+      "title": "Soundvision presents … Expmental ADE Networking",
+      "date": "2026-10-24",
+      "start": "2026-10-24T18:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482781"
+    }
+  ],
+  "past": []
+}

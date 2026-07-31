@@ -12,6 +12,26 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2492189"
+    },
+    {
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
   "past": []

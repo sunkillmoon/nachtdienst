@@ -6,26 +6,6 @@
   "lng": 6.89,
   "upcoming": [
     {
-      "id": "ra:2487326",
-      "title": "ANTIA INDUSTRIAL NIGHT",
-      "date": "2026-07-24",
-      "start": "2026-07-24T21:00+02:00",
-      "venue": "ANTIA",
-      "venue_id": "285993",
-      "area": "All",
-      "url": "https://ra.co/events/2487326"
-    },
-    {
-      "id": "ra:2487332",
-      "title": "ANTIA CLUB NIGHT",
-      "date": "2026-07-25",
-      "start": "2026-07-25T21:00+02:00",
-      "venue": "ANTIA",
-      "venue_id": "285993",
-      "area": "All",
-      "url": "https://ra.co/events/2487332"
-    },
-    {
       "id": "ra:2487320",
       "title": "SEASON FINALE",
       "date": "2026-07-31",
@@ -37,6 +17,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2487332",
+      "title": "ANTIA CLUB NIGHT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2487332"
+    },
+    {
+      "id": "ra:2487326",
+      "title": "ANTIA INDUSTRIAL NIGHT",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2487326"
+    },
     {
       "id": "ra:2487316",
       "title": "ANTIA CLUB NIGHT",

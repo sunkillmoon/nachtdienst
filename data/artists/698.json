@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2474432",
+      "title": "DGTL ADE Shimza & Co",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474432"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2440116",
       "title": "Âme DJ x Sama' Abdulhadi",
       "date": "2026-07-24",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440116"
     }
-  ],
-  "past": []
+  ]
 }

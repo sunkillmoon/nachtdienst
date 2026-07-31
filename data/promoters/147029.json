@@ -1,0 +1,44 @@
+{
+  "id": "147029",
+  "name": "Herbivox",
+  "upcoming": [
+    {
+      "id": "ra:2498340",
+      "title": "Entity + Herbivox presents OVERGROW",
+      "date": "2026-08-29",
+      "start": "2026-08-29T16:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498340"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "127084",
+      "name": "Taylor Taylor",
+      "count": 1
+    },
+    {
+      "id": "149023",
+      "name": "SAAB (2)",
+      "count": 1
+    },
+    {
+      "id": "186235",
+      "name": "KateGia (2)",
+      "count": 1
+    },
+    {
+      "id": "150567",
+      "name": "Sheps",
+      "count": 1
+    },
+    {
+      "id": "168569",
+      "name": "mckelv",
+      "count": 1
+    }
+  ]
+}

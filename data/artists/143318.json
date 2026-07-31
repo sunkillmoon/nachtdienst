@@ -2,7 +2,8 @@
   "id": "143318",
   "name": "Millz",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476767",
       "title": "Cheeky Monday: Millz",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476767"
     }
-  ],
-  "past": []
+  ]
 }

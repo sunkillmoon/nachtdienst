@@ -1,0 +1,39 @@
+{
+  "id": "62738",
+  "name": "Tanzgemeinschaft",
+  "upcoming": [
+    {
+      "id": "ra:2472657",
+      "title": "Strange Town",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "The Flying Dutchman Café",
+      "venue_id": "223183",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472657"
+    },
+    {
+      "id": "ra:2472660",
+      "title": "Melodic Drift",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "The Flying Dutchman Café",
+      "venue_id": "223183",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472660"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "2634",
+      "name": "Pedro Mercado",
+      "count": 2
+    },
+    {
+      "id": "16083",
+      "name": "Bryan Wolf Ear",
+      "count": 1
+    }
+  ]
+}

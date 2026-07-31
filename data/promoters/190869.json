@@ -1,0 +1,44 @@
+{
+  "id": "190869",
+  "name": "Bajes",
+  "upcoming": [
+    {
+      "id": "ra:2494330",
+      "title": "Avalon Emerson pres. 9000 Dreams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494330"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "40732",
+      "name": "Avalon Emerson",
+      "count": 1
+    },
+    {
+      "id": "44873",
+      "name": "Aurora Halal",
+      "count": 1
+    },
+    {
+      "id": "57077",
+      "name": "Sedef Adasï",
+      "count": 1
+    },
+    {
+      "id": "76890",
+      "name": "Ineffekt",
+      "count": 1
+    },
+    {
+      "id": "72669",
+      "name": "Verraco",
+      "count": 1
+    }
+  ]
+}

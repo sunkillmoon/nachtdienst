@@ -12,6 +12,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462147"
+    },
+    {
+      "id": "ra:2473386",
+      "title": "Intercell x SPFDJ Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473386"
     }
   ],
   "past": []

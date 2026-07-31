@@ -1,7 +1,8 @@
 {
   "id": "190668",
   "name": "Normaal Sounds",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491746",
       "title": "Normaal Sounds: Across The Pond",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2491746"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "118279",

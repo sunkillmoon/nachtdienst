@@ -1,0 +1,30 @@
+{
+  "id": "175707",
+  "name": "Klaproos",
+  "area": "Amsterdam",
+  "lat": 52.396562,
+  "lng": 4.906843,
+  "upcoming": [
+    {
+      "id": "ra:2491520",
+      "title": "Polifonic & SMIILE ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491520"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    }
+  ],
+  "past": []
+}

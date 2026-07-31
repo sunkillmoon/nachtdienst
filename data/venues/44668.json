@@ -6,16 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2420618",
-      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2420618"
-    },
-    {
       "id": "ra:2480551",
       "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
       "date": "2026-07-31",
@@ -24,6 +14,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480551"
+    },
+    {
+      "id": "ra:2500689",
+      "title": "Eichenbaum all-night-long",
+      "date": "2026-08-07",
+      "start": "2026-08-07T20:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500689"
     },
     {
       "id": "ra:2476119",
@@ -54,9 +54,99 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471398"
+    },
+    {
+      "id": "ra:2484740",
+      "title": "Miss Monique presents Siona ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484740"
+    },
+    {
+      "id": "ra:2469792",
+      "title": "Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469792"
+    },
+    {
+      "id": "ra:2480645",
+      "title": "ADE - HRMNY W/ Rose Ringed & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480645"
+    },
+    {
+      "id": "ra:2375140",
+      "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375140"
+    },
+    {
+      "id": "ra:2411141",
+      "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2411141"
+    },
+    {
+      "id": "ra:2496697",
+      "title": "ADE - Pan-Pot presents HUMAN",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496697"
+    },
+    {
+      "id": "ra:2484584",
+      "title": "ADE - Todd Terry & Friends",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484584"
+    },
+    {
+      "id": "ra:2469754",
+      "title": "Bob Moses (Club Set)",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469754"
     }
   ],
   "past": [
+    {
+      "id": "ra:2420618",
+      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420618"
+    },
     {
       "id": "ra:2459444",
       "title": "Olivier Weiter All Night Long",

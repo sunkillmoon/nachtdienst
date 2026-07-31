@@ -1,0 +1,60 @@
+{
+  "id": "140102",
+  "name": "Afas Live",
+  "area": "Amsterdam",
+  "lat": 52.312162,
+  "lng": 4.944669,
+  "upcoming": [
+    {
+      "id": "ra:2390161",
+      "title": "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390161"
+    },
+    {
+      "id": "ra:2420664",
+      "title": "UNREAL ADE 2026 x Cloudy ALL DAY LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420664"
+    },
+    {
+      "id": "ra:2420673",
+      "title": "UNREAL x ADE 2026: KUKO ALL NIGHT LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420673"
+    },
+    {
+      "id": "ra:2479661",
+      "title": "ZAZU presents: SOLÈY by Francis Mercier",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479661"
+    },
+    {
+      "id": "ra:2476171",
+      "title": "VERKNIPT ADE Special Sunday",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476171"
+    }
+  ],
+  "past": []
+}

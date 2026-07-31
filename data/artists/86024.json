@@ -2,7 +2,8 @@
   "id": "86024",
   "name": "BADSISTA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440414",
       "title": "RAUM invites NightClubbing",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440414"
     }
-  ],
-  "past": []
+  ]
 }

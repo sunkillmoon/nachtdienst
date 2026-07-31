@@ -12,6 +12,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2437706"
+    },
+    {
+      "id": "ra:2479188",
+      "title": "FACE 2 FACE: ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479188"
     }
   ],
   "past": []

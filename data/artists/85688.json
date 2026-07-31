@@ -12,6 +12,16 @@
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2464483"
+    },
+    {
+      "id": "ra:2473368",
+      "title": "Intercell x Glitch | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473368"
     }
   ],
   "past": []

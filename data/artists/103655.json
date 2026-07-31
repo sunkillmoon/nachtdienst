@@ -2,7 +2,8 @@
   "id": "103655",
   "name": "DAWS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
@@ -12,9 +13,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2425635"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",

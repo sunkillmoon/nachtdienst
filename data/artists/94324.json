@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466510",
-      "title": "Joy at the Beach",
-      "date": "2026-07-26",
-      "start": "2026-07-26T17:00+02:00",
-      "venue": "Bronze Beach",
-      "venue_id": "197451",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466510"
-    },
-    {
       "id": "ra:2494208",
       "title": "Robbie Doherty - all night long",
       "date": "2026-08-08",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2448972"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466510",
+      "title": "Joy at the Beach",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466510"
+    }
+  ]
 }

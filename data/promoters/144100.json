@@ -11,6 +11,36 @@
       "venue_id": "242264",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2434861"
+    },
+    {
+      "id": "ra:2497409",
+      "title": "ADE AT THE LAKE - Friday",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497409"
+    },
+    {
+      "id": "ra:2497413",
+      "title": "ADE AT THE LAKE - Saturday (daytime)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497413"
+    },
+    {
+      "id": "ra:2497417",
+      "title": "ADE AT THE LAKE - Saturday (Night)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497417"
     }
   ],
   "past": [],

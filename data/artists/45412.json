@@ -2,7 +2,8 @@
   "id": "45412",
   "name": "DJ Marfox",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487395",
       "title": "Roots & Riddims #2",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2487395"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 51.86,
   "lng": 5.84,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461747",
       "title": "AZOTH Roze Woensdag",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2461747"
     }
-  ],
-  "past": []
+  ]
 }

@@ -6,36 +6,6 @@
   "lng": 4.291748,
   "upcoming": [
     {
-      "id": "ra:2420278",
-      "title": "Overbruggen Summer Series - Colorado Charlie",
-      "date": "2026-07-24",
-      "start": "2026-07-24T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2420278"
-    },
-    {
-      "id": "ra:2362374",
-      "title": "Colorado Charlie x COLOURIZON with Miss Melera (All Day Long)",
-      "date": "2026-07-25",
-      "start": "2026-07-25T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2362374"
-    },
-    {
-      "id": "ra:2437651",
-      "title": "Colorado Charlie - 9-Year Anniversary with Julian Fijma (All Day Long) (SOLD OUT)",
-      "date": "2026-07-26",
-      "start": "2026-07-26T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2437651"
-    },
-    {
       "id": "ra:2460749",
       "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",
       "date": "2026-08-01",
@@ -44,6 +14,16 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2460749"
+    },
+    {
+      "id": "ra:2451891",
+      "title": "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)",
+      "date": "2026-08-02",
+      "start": "2026-08-02T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2451891"
     },
     {
       "id": "ra:2464028",
@@ -66,14 +46,14 @@
       "url": "https://ra.co/events/2448066"
     },
     {
-      "id": "ra:2451891",
-      "title": "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)",
+      "id": "ra:2495463",
+      "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
       "date": "2026-08-09",
       "start": "2026-08-09T17:00+02:00",
       "venue": "Colorado Charlie",
       "venue_id": "152236",
       "area": "The Hague",
-      "url": "https://ra.co/events/2451891"
+      "url": "https://ra.co/events/2495463"
     },
     {
       "id": "ra:2357564",
@@ -166,6 +146,16 @@
       "url": "https://ra.co/events/2485021"
     },
     {
+      "id": "ra:2501541",
+      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya ",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2501541"
+    },
+    {
       "id": "ra:2468479",
       "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
       "date": "2026-09-18",
@@ -187,6 +177,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2437651",
+      "title": "Colorado Charlie - 9-Year Anniversary with Julian Fijma (All Day Long) (SOLD OUT)",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2437651"
+    },
+    {
+      "id": "ra:2362374",
+      "title": "Colorado Charlie x COLOURIZON with Miss Melera (All Day Long)",
+      "date": "2026-07-25",
+      "start": "2026-07-25T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2362374"
+    },
+    {
+      "id": "ra:2420278",
+      "title": "Overbruggen Summer Series - Colorado Charlie",
+      "date": "2026-07-24",
+      "start": "2026-07-24T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2420278"
+    },
     {
       "id": "ra:2460452",
       "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",

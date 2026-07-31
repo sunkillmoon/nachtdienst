@@ -1,0 +1,29 @@
+{
+  "id": "168357",
+  "name": "South Side Collective",
+  "upcoming": [
+    {
+      "id": "ra:2498547",
+      "title": "SouthSide Pride Edition",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498547"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "149436",
+      "name": "JP Hernández",
+      "count": 1
+    },
+    {
+      "id": "156951",
+      "name": "Bianchetti",
+      "count": 1
+    }
+  ]
+}

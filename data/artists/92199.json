@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2357461",
-      "title": "Orbit Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Fort Vechten",
-      "venue_id": "89263",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2357461"
+      "id": "ra:2444343",
+      "title": "Dekmantel Festival 2026 - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444343"
     },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
@@ -24,15 +46,14 @@
       "url": "https://ra.co/events/2351984"
     },
     {
-      "id": "ra:2444343",
-      "title": "Dekmantel Festival 2026 - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2444343"
+      "id": "ra:2357461",
+      "title": "Orbit Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Fort Vechten",
+      "venue_id": "89263",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2357461"
     }
-  ],
-  "past": []
+  ]
 }

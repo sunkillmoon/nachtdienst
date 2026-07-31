@@ -1,0 +1,69 @@
+{
+  "id": "172397",
+  "name": "Soundcora",
+  "upcoming": [
+    {
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493047"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "57043",
+      "name": "Andy Garvey",
+      "count": 1
+    },
+    {
+      "id": "9004",
+      "name": "Andy Martin",
+      "count": 1
+    },
+    {
+      "id": "51617",
+      "name": "Anika Kunst",
+      "count": 1
+    },
+    {
+      "id": "752",
+      "name": "Cassy",
+      "count": 1
+    },
+    {
+      "id": "38666",
+      "name": "Clarisa Kimskii",
+      "count": 1
+    },
+    {
+      "id": "94743",
+      "name": "Valody",
+      "count": 1
+    },
+    {
+      "id": "7556",
+      "name": "Eduardo de la Calle",
+      "count": 1
+    },
+    {
+      "id": "896",
+      "name": "Efdemin",
+      "count": 1
+    },
+    {
+      "id": "119956",
+      "name": "HERMETICA",
+      "count": 1
+    },
+    {
+      "id": "181159",
+      "name": "Raquel Cruz",
+      "count": 1
+    }
+  ]
+}

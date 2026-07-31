@@ -12,6 +12,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479566"
+    },
+    {
+      "id": "ra:2459379",
+      "title": "Madam invites: PIV",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459379"
     }
   ],
   "past": []

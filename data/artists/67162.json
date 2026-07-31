@@ -2,7 +2,8 @@
   "id": "67162",
   "name": "Najel Monteiro",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2437618",
       "title": "TOFFLER presents Najel Monteiro and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2437618"
     }
-  ],
-  "past": []
+  ]
 }

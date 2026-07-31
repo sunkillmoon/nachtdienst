@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2320346",
-      "title": "No Art Closing Festival",
-      "date": "2026-07-25",
-      "start": "2026-07-25T12:00+02:00",
-      "venue": "Flevopark",
-      "venue_id": "121137",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2320346"
-    },
-    {
       "id": "ra:2468330",
       "title": "ISAbella • Dee Diggs",
       "date": "2026-07-31",
@@ -42,7 +32,38 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2444784",
+      "title": "GASHOUDER presents: Mochakk CALLING",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444784"
+    },
+    {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479148"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "venue_id": "121137",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    }
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2329951",
       "title": "Chris Stussy at the beach [sold out]",
       "date": "2026-08-02",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2329764"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    }
+  ]
 }

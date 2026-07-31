@@ -1,0 +1,54 @@
+{
+  "id": "83087",
+  "name": "Limousine Dream",
+  "upcoming": [
+    {
+      "id": "ra:2492381",
+      "title": "One Long Groove",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492381"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "2289",
+      "name": "Dyed Soundorom",
+      "count": 1
+    },
+    {
+      "id": "102386",
+      "name": "dj sweet6teen",
+      "count": 1
+    },
+    {
+      "id": "71996",
+      "name": "Gene On Earth",
+      "count": 1
+    },
+    {
+      "id": "64679",
+      "name": "Peach",
+      "count": 1
+    },
+    {
+      "id": "12546",
+      "name": "Midland",
+      "count": 1
+    },
+    {
+      "id": "35622",
+      "name": "Octo Octa",
+      "count": 1
+    },
+    {
+      "id": "71059",
+      "name": "Talaboman",
+      "count": 1
+    }
+  ]
+}

@@ -22,6 +22,56 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488595"
+    },
+    {
+      "id": "ra:2495691",
+      "title": "Lola x BRET - Midas Field Curates",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495691"
+    },
+    {
+      "id": "ra:2473490",
+      "title": "Madam by Night invites: The Disco Express",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473490"
+    },
+    {
+      "id": "ra:2499136",
+      "title": "UNTIED",
+      "date": "2026-10-02",
+      "start": "2026-10-02T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499136"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2495676",
+      "title": "Lola x Rinse FM ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495676"
     }
   ],
   "past": []

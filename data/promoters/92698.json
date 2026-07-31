@@ -1,0 +1,79 @@
+{
+  "id": "92698",
+  "name": "Melodic Room",
+  "upcoming": [
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2493024",
+      "title": "ADE Techno Train - Audacious x Astral Records x Melodic Room",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:30+02:00",
+      "venue": "Amsterdam Club Train",
+      "venue_id": "297794",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493024"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "111493",
+      "name": "Almost Human (DJ)",
+      "count": 1
+    },
+    {
+      "id": "107694",
+      "name": "Cris-H",
+      "count": 1
+    },
+    {
+      "id": "1765",
+      "name": "Darin Epsilon",
+      "count": 1
+    },
+    {
+      "id": "32758",
+      "name": "Emanate",
+      "count": 1
+    },
+    {
+      "id": "151582",
+      "name": "Jono Stephenson",
+      "count": 1
+    },
+    {
+      "id": "100407",
+      "name": "Joshlane",
+      "count": 1
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 1
+    },
+    {
+      "id": "162318",
+      "name": "Min the Universe",
+      "count": 1
+    },
+    {
+      "id": "132612",
+      "name": "OIBAF",
+      "count": 1
+    },
+    {
+      "id": "3521",
+      "name": "Olivier Weiter",
+      "count": 1
+    }
+  ]
+}

@@ -3,16 +3,6 @@
   "name": "MBG Productions NL",
   "upcoming": [
     {
-      "id": "ra:2466510",
-      "title": "Joy at the Beach",
-      "date": "2026-07-26",
-      "start": "2026-07-26T17:00+02:00",
-      "venue": "Bronze Beach",
-      "venue_id": "197451",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466510"
-    },
-    {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",
       "date": "2026-08-08",
@@ -31,25 +21,41 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476839"
+    },
+    {
+      "id": "ra:2475062",
+      "title": "Glitterbox ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475062"
+    },
+    {
+      "id": "ra:2501967",
+      "title": "Heavy House Society",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501967"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2466510",
+      "title": "Joy at the Beach",
+      "date": "2026-07-26",
+      "start": "2026-07-26T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466510"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "126833",
-      "name": "Riordan",
-      "count": 1
-    },
-    {
-      "id": "10446",
-      "name": "Benny Rodrigues",
-      "count": 1
-    },
-    {
-      "id": "94324",
-      "name": "Robbie Doherty",
-      "count": 1
-    },
     {
       "id": "95014",
       "name": "Paige Tomlinson",
@@ -68,6 +74,36 @@
     {
       "id": "154448",
       "name": "Freddi",
+      "count": 1
+    },
+    {
+      "id": "155929",
+      "name": "Bridge (NY)",
+      "count": 1
+    },
+    {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 1
+    },
+    {
+      "id": "85975",
+      "name": "Eliza Rose",
+      "count": 1
+    },
+    {
+      "id": "117739",
+      "name": "Ella Knight",
+      "count": 1
+    },
+    {
+      "id": "101378",
+      "name": "HoneyLuv",
+      "count": 1
+    },
+    {
+      "id": "8341",
+      "name": "Horse Meat Disco",
       "count": 1
     }
   ]

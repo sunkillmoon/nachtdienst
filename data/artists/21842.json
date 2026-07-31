@@ -2,7 +2,8 @@
   "id": "21842",
   "name": "Durcheinander",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477375",
       "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477375"
     }
-  ],
-  "past": []
+  ]
 }

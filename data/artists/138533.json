@@ -1,0 +1,28 @@
+{
+  "id": "138533",
+  "name": "Velocity Made Good",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2445911",
+      "title": "Velocity Made Good",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445911"
+    },
+    {
+      "id": "ra:2473147",
+      "title": "Velocity Made Good",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473147"
+    }
+  ],
+  "past": []
+}

@@ -2,7 +2,8 @@
   "id": "133796",
   "name": "Lexurus",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2235347",
       "title": "Liquicity Festival 2026",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2235347"
     }
-  ],
-  "past": []
+  ]
 }

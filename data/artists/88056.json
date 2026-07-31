@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2426015",
-      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "title": "Hush at the Beach with Kepler, Boss Priester & More",
       "date": "2026-08-21",
       "start": "2026-08-21T20:00+02:00",
       "venue": "Boomerang Beach",
@@ -35,13 +35,33 @@
     },
     {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
     }
   ],
   "past": []

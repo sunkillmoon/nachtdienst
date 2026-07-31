@@ -1,0 +1,39 @@
+{
+  "id": "155343",
+  "name": "Rythym",
+  "upcoming": [
+    {
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502868"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "565",
+      "name": "Michel de Hey",
+      "count": 1
+    },
+    {
+      "id": "109346",
+      "name": "Boris Coelman",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "145321",
+      "name": "Lasse Top",
+      "count": 1
+    }
+  ]
+}

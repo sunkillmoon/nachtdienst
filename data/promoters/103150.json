@@ -1,0 +1,49 @@
+{
+  "id": "103150",
+  "name": "Laster Club",
+  "upcoming": [
+    {
+      "id": "ra:2475664",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475664"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "966",
+      "name": "Ben Klock",
+      "count": 1
+    },
+    {
+      "id": "9311",
+      "name": "DVS1",
+      "count": 1
+    },
+    {
+      "id": "71914",
+      "name": "Roll Dann",
+      "count": 1
+    },
+    {
+      "id": "17892",
+      "name": "Setaoc Mass",
+      "count": 1
+    },
+    {
+      "id": "78330",
+      "name": "The Lady Machine",
+      "count": 1
+    },
+    {
+      "id": "116354",
+      "name": "Laia",
+      "count": 1
+    }
+  ]
+}

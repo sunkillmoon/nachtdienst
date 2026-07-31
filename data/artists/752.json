@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2469370",
-      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
-      "date": "2026-07-25",
-      "start": "2026-07-25T15:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2469370"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -22,7 +12,38 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    },
+    {
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493047"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2469370",
+      "title": "HOUSE OF NAR X CLONE ROYAL OAK / Cassy, Serge, Frits Wentink, Yopo",
+      "date": "2026-07-25",
+      "start": "2026-07-25T15:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469370"
+    }
+  ]
 }

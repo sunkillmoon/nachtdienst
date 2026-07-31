@@ -2,7 +2,8 @@
   "id": "1948",
   "name": "Silversurfer",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494173",
       "title": "Baile Trama",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494173"
     }
-  ],
-  "past": []
+  ]
 }

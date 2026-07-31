@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2490706",
+      "title": "Monstercat x Ophelia - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490706"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2235347",
       "title": "Liquicity Festival 2026",
       "date": "2026-07-24",
@@ -13,6 +25,5 @@
       "area": "All",
       "url": "https://ra.co/events/2235347"
     }
-  ],
-  "past": []
+  ]
 }

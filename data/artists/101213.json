@@ -2,7 +2,8 @@
   "id": "101213",
   "name": "Amaliah",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2449009",
       "title": "Hannecart, Byron Yeates, Amaliah, Idilay & More",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449009"
     }
-  ],
-  "past": []
+  ]
 }

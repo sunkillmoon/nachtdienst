@@ -1,7 +1,8 @@
 {
   "id": "95858",
   "name": "Orphic",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2471661"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "157231",

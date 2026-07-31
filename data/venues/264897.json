@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2442144",
-      "title": "Capture with Cosmic Gate & Laura van Dam",
-      "date": "2026-07-26",
-      "start": "2026-07-26T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2442144"
-    },
-    {
       "id": "ra:2492172",
       "title": "Ambrosia Ecstatic Rave at the beach",
       "date": "2026-08-09",
@@ -67,6 +57,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2442144",
+      "title": "Capture with Cosmic Gate & Laura van Dam",
+      "date": "2026-07-26",
+      "start": "2026-07-26T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442144"
+    },
     {
       "id": "ra:2454506",
       "title": "SOMETHINGNU",

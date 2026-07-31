@@ -1,0 +1,29 @@
+{
+  "id": "190504",
+  "name": "JHONATAN OSPINA",
+  "upcoming": [
+    {
+      "id": "ra:2489447",
+      "title": "ADE 2026 OPENING PARTY",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489447"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117500",
+      "name": "JHONATAN OSPINA",
+      "count": 1
+    },
+    {
+      "id": "167661",
+      "name": "ARTISTIKK",
+      "count": 1
+    }
+  ]
+}

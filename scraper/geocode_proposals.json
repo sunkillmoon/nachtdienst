@@ -64,5 +64,23 @@
     "lng": 4.8743906,
     "display_name": "Yellow House, 45R, Danzigerbocht, Minervahaven, Westpoort, Amsterdam, Noord-Holland, Nederland, 1013 AM, Nederland",
     "query": "Yellow House, Amsterdam, Netherlands"
+  },
+  "Houtrijk": {
+    "lat": 52.4272864,
+    "lng": 4.7364664,
+    "display_name": "Houtrijk, Machineweg, Westpoort, Amsterdam, Noord-Holland, Nederland, 1165 NC, Nederland",
+    "query": "Houtrijk, Amsterdam, Netherlands"
+  },
+  "Kaap Amsterdam": {
+    "lat": 52.3697918,
+    "lng": 4.9773284,
+    "display_name": "Kaap Amsterdam, 1006, Zuider IJdijk, Zeeburgereiland, Oost, Durgerdam, Amsterdam, Noord-Holland, Nederland, 1095 KN, Nederland",
+    "query": "Kaap Amsterdam, Amsterdam, Netherlands"
+  },
+  "San Francisco": {
+    "lat": 52.3752067,
+    "lng": 4.9009395,
+    "display_name": "San Francisco, 42, Zeedijk, Chinatown, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 CR, Nederland",
+    "query": "San Francisco, Amsterdam, Netherlands"
   }
 }

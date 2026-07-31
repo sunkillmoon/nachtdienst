@@ -3,6 +3,38 @@
   "name": "Overbruggen",
   "upcoming": [
     {
+      "id": "ra:2480595",
+      "title": "Overbruggen x Hot Since 82' - Loft Sunset - ADE ",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480595"
+    },
+    {
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
+    },
+    {
+      "id": "ra:2480629",
+      "title": "Overbruggen x OG - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "PRE-Reserved",
+      "venue_id": "296320",
+      "area": "All",
+      "url": "https://ra.co/events/2480629"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2420278",
       "title": "Overbruggen Summer Series - Colorado Charlie",
       "date": "2026-07-24",
@@ -13,31 +45,55 @@
       "url": "https://ra.co/events/2420278"
     }
   ],
-  "past": [],
   "top_artists": [
     {
-      "id": "81309",
-      "name": "DART",
-      "count": 1
+      "id": "143959",
+      "name": "Ned Bennett",
+      "count": 2
     },
     {
       "id": "101467",
       "name": "Inafekt",
+      "count": 2
+    },
+    {
+      "id": "31155",
+      "name": "Hot Since 82",
       "count": 1
     },
     {
-      "id": "143959",
-      "name": "Ned Bennett",
+      "id": "119382",
+      "name": "Club Angel",
       "count": 1
     },
     {
-      "id": "112204",
-      "name": "MPH (1)",
+      "id": "154307",
+      "name": "Entasia",
       "count": 1
     },
     {
-      "id": "113857",
-      "name": "Sensu (2)",
+      "id": "6694",
+      "name": "Sensu",
+      "count": 1
+    },
+    {
+      "id": "122230",
+      "name": "Kyle Starkey",
+      "count": 1
+    },
+    {
+      "id": "134978",
+      "name": "NewTone",
+      "count": 1
+    },
+    {
+      "id": "116220",
+      "name": "STÜM",
+      "count": 1
+    },
+    {
+      "id": "125726",
+      "name": "WOLTERS",
       "count": 1
     }
   ]

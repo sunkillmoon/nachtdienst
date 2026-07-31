@@ -2,17 +2,8 @@
   "id": "163073",
   "name": "awhlkuhn",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2489890",
-      "title": "Carnaval Blockparty",
-      "date": "2026-07-25",
-      "start": "2026-07-25T16:00+02:00",
-      "venue": "Mono",
-      "venue_id": "129182",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489890"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487395",
       "title": "Roots & Riddims #2",
@@ -22,7 +13,16 @@
       "venue_id": "55285",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2487395"
+    },
+    {
+      "id": "ra:2489890",
+      "title": "Carnaval Blockparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T16:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489890"
     }
-  ],
-  "past": []
+  ]
 }

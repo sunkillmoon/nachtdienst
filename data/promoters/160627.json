@@ -3,16 +3,6 @@
   "name": "Spätkauf ",
   "upcoming": [
     {
-      "id": "ra:2438726",
-      "title": "Puur Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T14:00+02:00",
-      "venue": "Klinkenbergerplas, Oegstgeest",
-      "venue_id": "113031",
-      "area": "All",
-      "url": "https://ra.co/events/2438726"
-    },
-    {
       "id": "ra:2415305",
       "title": "Spätkauf Amersfoort",
       "date": "2026-10-09",
@@ -23,12 +13,33 @@
       "url": "https://ra.co/events/2415305"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2438726",
+      "title": "Puur Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Klinkenbergerplas, Oegstgeest",
+      "venue_id": "113031",
+      "area": "All",
+      "url": "https://ra.co/events/2438726"
+    }
+  ],
   "top_artists": [
     {
       "id": "124248",
       "name": "Rini Berlini",
       "count": 2
+    },
+    {
+      "id": "96369",
+      "name": "Bastienne",
+      "count": 1
+    },
+    {
+      "id": "116277",
+      "name": "Mahabe",
+      "count": 1
     },
     {
       "id": "8570",
@@ -63,16 +74,6 @@
     {
       "id": "6502",
       "name": "Jordan Peak",
-      "count": 1
-    },
-    {
-      "id": "26090",
-      "name": "Anil Aras",
-      "count": 1
-    },
-    {
-      "id": "185053",
-      "name": "PAULY!",
       "count": 1
     }
   ]

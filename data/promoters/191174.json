@@ -1,0 +1,29 @@
+{
+  "id": "191174",
+  "name": "UNTIED",
+  "upcoming": [
+    {
+      "id": "ra:2499136",
+      "title": "UNTIED",
+      "date": "2026-10-02",
+      "start": "2026-10-02T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499136"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "180357",
+      "name": "Drabes",
+      "count": 1
+    },
+    {
+      "id": "186286",
+      "name": "LIKE61",
+      "count": 1
+    }
+  ]
+}

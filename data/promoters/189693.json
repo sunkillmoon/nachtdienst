@@ -1,0 +1,39 @@
+{
+  "id": "189693",
+  "name": "Beenoise Staff",
+  "upcoming": [
+    {
+      "id": "ra:2450696",
+      "title": "Beenoise Attack at Ade 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Bar22",
+      "venue_id": "50372",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2450696"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "22782",
+      "name": "Sygma",
+      "count": 1
+    },
+    {
+      "id": "28505",
+      "name": "Luciano Mancini Luke",
+      "count": 1
+    },
+    {
+      "id": "135796",
+      "name": "Tribe Dj",
+      "count": 1
+    },
+    {
+      "id": "157944",
+      "name": "Francesca.Fagiani",
+      "count": 1
+    }
+  ]
+}

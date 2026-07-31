@@ -7,7 +7,7 @@
   "upcoming": [
     {
       "id": "ra:2437906",
-      "title": "22-08-2026 H7 FESTIVAL // AMSTERDAM",
+      "title": "Dark Session: H7 FESTIVAL // AMSTERDAM",
       "date": "2026-08-22",
       "start": "2026-08-22T14:00+02:00",
       "venue": "H7 Warehouse",
@@ -17,13 +17,83 @@
     },
     {
       "id": "ra:2490634",
-      "title": "H7 AFTERPARTY // AMSTERDAM",
+      "title": "Dark Session: H7 AFTERPARTY // AMSTERDAM",
       "date": "2026-08-22",
       "start": "2026-08-23T00:00+02:00",
       "venue": "H7 Warehouse",
       "venue_id": "66507",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490634"
+    },
+    {
+      "id": "ra:2481550",
+      "title": "Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481550"
+    },
+    {
+      "id": "ra:2473316",
+      "title": "Intercell x 999999999 Invites | ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473316"
+    },
+    {
+      "id": "ra:2473364",
+      "title": "Intercell x Mika Heggemann Invites | ADE By Day",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473364"
+    },
+    {
+      "id": "ra:2473368",
+      "title": "Intercell x Glitch | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473368"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
+    },
+    {
+      "id": "ra:2473386",
+      "title": "Intercell x SPFDJ Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473386"
+    },
+    {
+      "id": "ra:2473394",
+      "title": "Intercell x Milion & SAIDAH Invites - ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473394"
     }
   ],
   "past": []

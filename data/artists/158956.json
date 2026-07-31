@@ -2,7 +2,8 @@
   "id": "158956",
   "name": "Patient (MT)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2452159",
       "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452159"
     }
-  ],
-  "past": []
+  ]
 }

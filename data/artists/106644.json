@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2496550",
+      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496550"
+    },
+    {
       "id": "ra:2490633",
       "title": "Cincity [all night long]",
       "date": "2026-10-10",
@@ -12,6 +22,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490633"
+    },
+    {
+      "id": "ra:2474432",
+      "title": "DGTL ADE Shimza & Co",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474432"
     }
   ],
   "past": []

@@ -1,0 +1,50 @@
+{
+  "id": "2683",
+  "name": "Escape",
+  "area": "Amsterdam",
+  "lat": 52.366428,
+  "lng": 4.896349,
+  "upcoming": [
+    {
+      "id": "ra:2407995",
+      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407995"
+    },
+    {
+      "id": "ra:2483536",
+      "title": "LEVI ADE at Free Your Mind Club",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483536"
+    },
+    {
+      "id": "ra:2502535",
+      "title": "Paco Osuna x Now Here ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502535"
+    },
+    {
+      "id": "ra:2479277",
+      "title": "HALŌ ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479277"
+    }
+  ],
+  "past": []
+}

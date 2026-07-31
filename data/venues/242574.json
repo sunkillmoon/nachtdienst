@@ -1,0 +1,60 @@
+{
+  "id": "242574",
+  "name": "Bajes Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.34,
+  "lng": 4.92,
+  "upcoming": [
+    {
+      "id": "ra:2494330",
+      "title": "Avalon Emerson pres. 9000 Dreams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494330"
+    },
+    {
+      "id": "ra:2473373",
+      "title": "Intercell x Eris Drew & Octo Octa | ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473373"
+    },
+    {
+      "id": "ra:2473390",
+      "title": "Intercell x Yanamaste Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473390"
+    },
+    {
+      "id": "ra:2500675",
+      "title": "Interplanetary Criminal ADE at Bajes",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500675"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
+    }
+  ],
+  "past": []
+}

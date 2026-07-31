@@ -12,6 +12,16 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2473385",
+      "title": "Intercell x Skin On Skin Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473385"
     }
   ],
   "past": [

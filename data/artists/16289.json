@@ -12,6 +12,26 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2467254",
+      "title": "Moments",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2467254"
+    },
+    {
+      "id": "ra:2458450",
+      "title": "We are lost ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458450"
     }
   ],
   "past": []

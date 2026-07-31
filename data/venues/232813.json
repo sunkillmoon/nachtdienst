@@ -6,26 +6,6 @@
   "lng": 4.843713,
   "upcoming": [
     {
-      "id": "ra:2478072",
-      "title": "TILLAVISION: Aquatec",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2478072"
-    },
-    {
-      "id": "ra:2471661",
-      "title": "Orphic #21 Pride Takeover",
-      "date": "2026-07-25",
-      "start": "2026-07-25T21:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2471661"
-    },
-    {
       "id": "ra:2453528",
       "title": "Planet Angels",
       "date": "2026-07-31",
@@ -96,6 +76,36 @@
       "url": "https://ra.co/events/2461530"
     },
     {
+      "id": "ra:2498106",
+      "title": "ARMAT X REFORMA",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498106"
+    },
+    {
+      "id": "ra:2498987",
+      "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498987"
+    },
+    {
+      "id": "ra:2499622",
+      "title": "United Identities ...IsBurning",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499622"
+    },
+    {
       "id": "ra:2421033",
       "title": "BCCO x TRANSITION",
       "date": "2026-09-12",
@@ -104,9 +114,79 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2475664",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475664"
+    },
+    {
+      "id": "ra:2493544",
+      "title": "Vault Sessions x Mutual Rytm ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493544"
+    },
+    {
+      "id": "ra:2488526",
+      "title": "Vault Sessions ADE - TILLATEC",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488526"
+    },
+    {
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493047"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
   "past": [
+    {
+      "id": "ra:2471661",
+      "title": "Orphic #21 Pride Takeover",
+      "date": "2026-07-25",
+      "start": "2026-07-25T21:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471661"
+    },
+    {
+      "id": "ra:2478072",
+      "title": "TILLAVISION: Aquatec",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478072"
+    },
     {
       "id": "ra:2477184",
       "title": "PAMELA invites Dalson Superstore",

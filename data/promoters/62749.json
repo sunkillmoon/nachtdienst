@@ -3,16 +3,6 @@
   "name": "RADION ",
   "upcoming": [
     {
-      "id": "ra:2447897",
-      "title": "Closer Milano - RADION CLUB TOUR",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2447897"
-    },
-    {
       "id": "ra:2464183",
       "title": "Dekmantel At Night - Friday",
       "date": "2026-07-31",
@@ -63,6 +53,16 @@
       "url": "https://ra.co/events/2433222"
     },
     {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
+    {
       "id": "ra:2494196",
       "title": "GEGEN AMSTERDAM",
       "date": "2026-10-10",
@@ -71,58 +71,109 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494196"
+    },
+    {
+      "id": "ra:2492405",
+      "title": "LNR - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2470624",
+      "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2489700",
+      "title": "AURA ADE Special with Hayes Collective",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489700"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2447897",
+      "title": "Closer Milano - RADION CLUB TOUR",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447897"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "70323",
+      "name": "Fadi Mohem",
+      "count": 2
+    },
+    {
+      "id": "83115",
+      "name": "GiGi FM",
+      "count": 2
+    },
+    {
+      "id": "73604",
+      "name": "Justine Perry",
+      "count": 2
+    },
     {
       "id": "70467",
       "name": "Mar/us",
       "count": 2
     },
     {
-      "id": "75946",
-      "name": "AgainstMe",
+      "id": "157228",
+      "name": "Hashashin",
+      "count": 2
+    },
+    {
+      "id": "136976",
+      "name": "SHE/HER",
+      "count": 2
+    },
+    {
+      "id": "110285",
+      "name": "Flits",
+      "count": 2
+    },
+    {
+      "id": "109901",
+      "name": "Isaiah (NL)",
+      "count": 2
+    },
+    {
+      "id": "104265",
+      "name": "AMORAL",
       "count": 1
     },
     {
-      "id": "165117",
-      "name": "Connor Wall",
-      "count": 1
-    },
-    {
-      "id": "95388",
-      "name": "Elisa Batti",
-      "count": 1
-    },
-    {
-      "id": "60092",
-      "name": "Rorschack",
-      "count": 1
-    },
-    {
-      "id": "84884",
-      "name": "Afra",
-      "count": 1
-    },
-    {
-      "id": "54184",
-      "name": "Blasha & Allatt",
-      "count": 1
-    },
-    {
-      "id": "84014",
-      "name": "Mari Sakurai",
-      "count": 1
-    },
-    {
-      "id": "70288",
-      "name": "MARRØN",
-      "count": 1
-    },
-    {
-      "id": "51198",
-      "name": "Phase Fatale",
+      "id": "99288",
+      "name": "Decoder",
       "count": 1
     }
   ]

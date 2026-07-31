@@ -1,0 +1,28 @@
+{
+  "id": "131712",
+  "name": "JØASE",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2496598",
+      "title": "JØASE ANL - FREE PRIDE RAVE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496598"
+    },
+    {
+      "id": "ra:2501581",
+      "title": "JØASE ANL @ Wibar - FREE RAVE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2501581"
+    }
+  ],
+  "past": []
+}

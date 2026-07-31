@@ -1,0 +1,34 @@
+{
+  "id": "182939",
+  "name": "Progressive Hub",
+  "upcoming": [
+    {
+      "id": "ra:2500787",
+      "title": "Sunset Boat Party with Henry Saiz, Clay Van Dijk & Tom Pavicich b2b Gaspar Torres",
+      "date": "2026-08-22",
+      "start": "2026-08-22T15:30+02:00",
+      "venue": "TBA - De Ruyterkade 14 Amsterdam Central",
+      "venue_id": "298659",
+      "area": "All",
+      "url": "https://ra.co/events/2500787"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "2356",
+      "name": "Henry Saiz",
+      "count": 1
+    },
+    {
+      "id": "131192",
+      "name": "Tom Pavicich",
+      "count": 1
+    },
+    {
+      "id": "146479",
+      "name": "Gaspar Torres",
+      "count": 1
+    }
+  ]
+}

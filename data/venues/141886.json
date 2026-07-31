@@ -6,6 +6,18 @@
   "lng": 4.894841,
   "upcoming": [
     {
+      "id": "ra:2456002",
+      "title": "TMPL MUSIC at The Crane: ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-23T02:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456002"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2476013",
       "title": "Ópalo at The Crane",
       "date": "2026-07-25",
@@ -15,6 +27,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476013"
     }
-  ],
-  "past": []
+  ]
 }

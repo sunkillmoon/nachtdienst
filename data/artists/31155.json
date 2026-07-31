@@ -12,6 +12,26 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2480595",
+      "title": "Overbruggen x Hot Since 82' - Loft Sunset - ADE ",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480595"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
     }
   ],
   "past": []

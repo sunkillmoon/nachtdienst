@@ -1,0 +1,60 @@
+{
+  "id": "93679",
+  "name": "Mediahaven - Minervahaven",
+  "area": "Amsterdam",
+  "lat": 52.397665,
+  "lng": 4.871321,
+  "upcoming": [
+    {
+      "id": "ra:2491300",
+      "title": "Luciano ALIVE concert X Loveland",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:30+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491300"
+    },
+    {
+      "id": "ra:2482243",
+      "title": "Mau P presents Baddest Behaviour x Loveland - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482243"
+    },
+    {
+      "id": "ra:2455390",
+      "title": "Paradise x Loveland - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455390"
+    },
+    {
+      "id": "ra:2481566",
+      "title": "909 x Loveland - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481566"
+    },
+    {
+      "id": "ra:2481562",
+      "title": "Mind Against presents HABITAT x Loveland - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481562"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "32758",
+  "name": "Emanate",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2407995",
+      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407995"
+    },
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
+    }
+  ],
+  "past": []
+}

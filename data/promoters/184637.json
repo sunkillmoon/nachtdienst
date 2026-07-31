@@ -1,0 +1,44 @@
+{
+  "id": "184637",
+  "name": "BRM Agency",
+  "upcoming": [
+    {
+      "id": "ra:2474780",
+      "title": "BRM Agency & Barbur Room pres. ADE Friday Night Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "TBA - 50:HERTZ HOUSE & TECHNO CLUB",
+      "venue_id": "296995",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474780"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "38453",
+      "name": "Barbur",
+      "count": 1
+    },
+    {
+      "id": "47204",
+      "name": "Franz Matthews",
+      "count": 1
+    },
+    {
+      "id": "62470",
+      "name": "Ornery",
+      "count": 1
+    },
+    {
+      "id": "59661",
+      "name": "POLS",
+      "count": 1
+    },
+    {
+      "id": "60073",
+      "name": "Underspreche",
+      "count": 1
+    }
+  ]
+}

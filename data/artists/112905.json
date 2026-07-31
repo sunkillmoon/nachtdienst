@@ -1,0 +1,28 @@
+{
+  "id": "112905",
+  "name": "ÜBERKIKZ",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2473393",
+      "title": "Intercell x fumi Invites - ADE By Day",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473393"
+    },
+    {
+      "id": "ra:2491349",
+      "title": "Vault Sessions x Key Vinyl ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491349"
+    }
+  ],
+  "past": []
+}

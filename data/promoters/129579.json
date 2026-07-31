@@ -31,6 +31,26 @@
       "venue_id": "287886",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484813"
+    },
+    {
+      "id": "ra:2426450",
+      "title": "Ritter Butzke & Casa ADE Cruise",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426450"
+    },
+    {
+      "id": "ra:2484443",
+      "title": "Perspectives x Melodic Room x VVISSIONN ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484443"
     }
   ],
   "past": [],
@@ -38,7 +58,17 @@
     {
       "id": "107694",
       "name": "Cris-H",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 2
+    },
+    {
+      "id": "171531",
+      "name": "Tumzz",
+      "count": 2
     },
     {
       "id": "32322",
@@ -56,16 +86,6 @@
       "count": 1
     },
     {
-      "id": "165125",
-      "name": "KARINSMATIC",
-      "count": 1
-    },
-    {
-      "id": "171531",
-      "name": "Tumzz",
-      "count": 1
-    },
-    {
       "id": "80427",
       "name": "Ezequiel Arias",
       "count": 1
@@ -78,6 +98,11 @@
     {
       "id": "2672",
       "name": "Paul Sparkes",
+      "count": 1
+    },
+    {
+      "id": "1707",
+      "name": "Einmusik",
       "count": 1
     }
   ]

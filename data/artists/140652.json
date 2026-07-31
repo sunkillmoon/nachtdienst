@@ -22,6 +22,26 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2478125",
+      "title": "ADE - SPIELRAUM: 55 HOURS",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
   "past": []

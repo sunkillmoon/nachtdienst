@@ -22,6 +22,16 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
     }
   ],
   "past": []

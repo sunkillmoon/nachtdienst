@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502868"
+    },
+    {
       "id": "ra:2468479",
       "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
       "date": "2026-09-18",
@@ -12,6 +22,16 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2468479"
+    },
+    {
+      "id": "ra:2502429",
+      "title": "Audio Obscura x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
     }
   ],
   "past": [

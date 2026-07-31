@@ -12,6 +12,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453528"
+    },
+    {
+      "id": "ra:2500666",
+      "title": "The Patchwork Family 5 Year Anniversary",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500666"
     }
   ],
   "past": []

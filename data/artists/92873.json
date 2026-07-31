@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2425635",
-      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2425635"
-    },
-    {
-      "id": "ra:2480484",
-      "title": "25 JUL - Nachtshow with Tjade & Friends",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480484"
-    },
-    {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
       "date": "2026-08-08",
@@ -72,9 +52,59 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479566"
+    },
+    {
+      "id": "ra:2475090",
+      "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475090"
+    },
+    {
+      "id": "ra:2451944",
+      "title": "BURST presents TLM - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451944"
+    },
+    {
+      "id": "ra:2470661",
+      "title": "ADE - Agrio Club x Rapid Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470661"
     }
   ],
   "past": [
+    {
+      "id": "ra:2425635",
+      "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2425635"
+    },
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    },
     {
       "id": "ra:2485555",
       "title": "Subcultuur Nachtvierdaagse",

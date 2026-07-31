@@ -1,0 +1,24 @@
+{
+  "id": "116261",
+  "name": "Ondergronds Verzetje",
+  "upcoming": [
+    {
+      "id": "ra:2498139",
+      "title": "Ondergronds Verzetje",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498139"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "32668",
+      "name": "Franky Jones",
+      "count": 1
+    }
+  ]
+}

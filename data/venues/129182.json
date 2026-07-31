@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.928572,
   "lng": 4.478262,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489890",
       "title": "Carnaval Blockparty",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489890"
     }
-  ],
-  "past": []
+  ]
 }

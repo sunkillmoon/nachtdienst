@@ -11,8 +11,129 @@
       "venue_id": "190657",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481285"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2459376",
+      "title": "Madam invites: David Penn & friends",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2459379",
+      "title": "Madam invites: PIV",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459379"
+    },
+    {
+      "id": "ra:2459380",
+      "title": "Madam invites: Kitty Amor curates",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459380"
+    },
+    {
+      "id": "ra:2459386",
+      "title": "Madam invites: Detroit Love",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459386"
+    },
+    {
+      "id": "ra:2459389",
+      "title": "Madam invites: Detroit Love",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459389"
+    },
+    {
+      "id": "ra:2459394",
+      "title": "Madam invites: MVSON",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459394"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "98741",
+      "name": "Aline Rocha",
+      "count": 2
+    },
+    {
+      "id": "28587",
+      "name": "David Penn",
+      "count": 2
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
+      "count": 2
+    },
+    {
+      "id": "53893",
+      "name": "Ferreck Dawn",
+      "count": 2
+    },
+    {
+      "id": "117966",
+      "name": "Joëlla Jackson",
+      "count": 2
+    },
+    {
+      "id": "36517",
+      "name": "Kitty Amor",
+      "count": 2
+    },
+    {
+      "id": "48752",
+      "name": "Low Steppa",
+      "count": 2
+    },
+    {
+      "id": "76335",
+      "name": "Mason Collective",
+      "count": 2
+    },
+    {
+      "id": "22744",
+      "name": "Mousse T.",
+      "count": 2
+    },
+    {
+      "id": "66206",
+      "name": "ROOG",
+      "count": 2
+    }
+  ]
 }

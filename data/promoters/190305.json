@@ -1,0 +1,34 @@
+{
+  "id": "190305",
+  "name": "Pamela",
+  "upcoming": [
+    {
+      "id": "ra:2495536",
+      "title": "Pamela x Waterkant - World Pride",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495536"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "80034",
+      "name": "ketia",
+      "count": 1
+    },
+    {
+      "id": "184623",
+      "name": "lis (5)",
+      "count": 1
+    },
+    {
+      "id": "159913",
+      "name": "Tundji",
+      "count": 1
+    }
+  ]
+}

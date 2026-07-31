@@ -1,0 +1,28 @@
+{
+  "id": "11366",
+  "name": "John Talabot",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493047"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    }
+  ],
+  "past": []
+}

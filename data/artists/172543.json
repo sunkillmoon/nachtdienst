@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2401519",
-      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
-      "date": "2026-07-24",
-      "start": "2026-07-24T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2401519"
+      "url": "https://ra.co/events/2488747"
     },
     {
       "id": "ra:2493507",
@@ -24,16 +24,6 @@
       "url": "https://ra.co/events/2493507"
     },
     {
-      "id": "ra:2488747",
-      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488747"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2375299"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2401519",
+      "title": "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow",
+      "date": "2026-07-24",
+      "start": "2026-07-24T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401519"
+    }
+  ]
 }

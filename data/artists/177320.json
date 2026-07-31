@@ -2,7 +2,8 @@
   "id": "177320",
   "name": "Deodaat",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2439763"
     }
-  ],
-  "past": []
+  ]
 }

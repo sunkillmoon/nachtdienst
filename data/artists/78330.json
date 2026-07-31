@@ -1,0 +1,28 @@
+{
+  "id": "78330",
+  "name": "The Lady Machine",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2475664",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475664"
+    },
+    {
+      "id": "ra:2478125",
+      "title": "ADE - SPIELRAUM: 55 HOURS",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478125"
+    }
+  ],
+  "past": []
+}

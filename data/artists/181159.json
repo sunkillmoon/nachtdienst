@@ -1,0 +1,28 @@
+{
+  "id": "181159",
+  "name": "Raquel Cruz",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2496717",
+      "title": "Tare invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T20:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496717"
+    },
+    {
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493047"
+    }
+  ],
+  "past": []
+}

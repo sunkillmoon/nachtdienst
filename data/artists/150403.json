@@ -12,6 +12,36 @@
       "venue_id": "288289",
       "area": "Utrecht",
       "url": "https://ra.co/events/2400580"
+    },
+    {
+      "id": "ra:2473364",
+      "title": "Intercell x Mika Heggemann Invites | ADE By Day",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473364"
+    },
+    {
+      "id": "ra:2485446",
+      "title": "OBSCUUR x Trancecore ADE with DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE, Amøn",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485446"
+    },
+    {
+      "id": "ra:2476171",
+      "title": "VERKNIPT ADE Special Sunday",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476171"
     }
   ],
   "past": []

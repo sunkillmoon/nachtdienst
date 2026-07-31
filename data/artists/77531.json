@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2452159",
-      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2452159"
-    },
-    {
       "id": "ra:2454597",
       "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
       "date": "2026-08-08",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2454597"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2452159",
+      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452159"
+    }
+  ]
 }

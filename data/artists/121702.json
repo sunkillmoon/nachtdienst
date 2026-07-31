@@ -2,7 +2,8 @@
   "id": "121702",
   "name": "Klankers",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",
@@ -12,17 +13,6 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2425635"
-    },
-    {
-      "id": "ra:2493000",
-      "title": "Anacalypto & Friends",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "OT301",
-      "venue_id": "13028",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493000"
     }
-  ],
-  "past": []
+  ]
 }

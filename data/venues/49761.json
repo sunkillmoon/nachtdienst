@@ -1,0 +1,30 @@
+{
+  "id": "49761",
+  "name": "De Kromhouthal",
+  "area": "Amsterdam",
+  "lat": 52.382835,
+  "lng": 4.920456,
+  "upcoming": [
+    {
+      "id": "ra:2474424",
+      "title": "DGTL ADE Lane 8 presents This Never Happened",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "De Kromhouthal",
+      "venue_id": "49761",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474424"
+    },
+    {
+      "id": "ra:2474448",
+      "title": "DGTL ADE Folamour All Day Long",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Kromhouthal",
+      "venue_id": "49761",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474448"
+    }
+  ],
+  "past": []
+}

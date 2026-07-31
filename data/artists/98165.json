@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2458255",
+      "title": "Dekmantel Festival 2026 - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2479113",
+      "title": "Awakenings ADE - Friday Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479113"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
       "date": "2026-07-29",
@@ -13,18 +45,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2351984"
     },
-    {
-      "id": "ra:2458255",
-      "title": "Dekmantel Festival 2026 - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458255"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2483805",
       "title": "Drift op de Boot 2026",

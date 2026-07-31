@@ -1,7 +1,8 @@
 {
   "id": "186810",
   "name": "Botanic Festival",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2439763"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "81091",

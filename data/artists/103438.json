@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2501667",
+      "title": "POING FESTIVAL after hours",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2501667"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2462890",
       "title": "PRIDE - PLUG & PLAY",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462890"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2442144",
-      "title": "Capture with Cosmic Gate & Laura van Dam",
-      "date": "2026-07-26",
-      "start": "2026-07-26T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2442144"
-    },
-    {
       "id": "ra:2494445",
       "title": "RESONANT - DE NACHT VAN STRIJP-S 2026",
       "date": "2026-09-19",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2494445"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2442144",
+      "title": "Capture with Cosmic Gate & Laura van Dam",
+      "date": "2026-07-26",
+      "start": "2026-07-26T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442144"
+    }
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "86340",
   "name": "amara",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453208"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2454339",
       "title": "VERKNIPT Beach Special - 19 July",

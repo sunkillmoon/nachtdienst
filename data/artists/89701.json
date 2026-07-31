@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2490634",
-      "title": "H7 AFTERPARTY // AMSTERDAM",
+      "title": "Dark Session: H7 AFTERPARTY // AMSTERDAM",
       "date": "2026-08-22",
       "start": "2026-08-23T00:00+02:00",
       "venue": "H7 Warehouse",
@@ -32,9 +22,29 @@
       "venue_id": "4902",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479794"
+    },
+    {
+      "id": "ra:2476171",
+      "title": "VERKNIPT ADE Special Sunday",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476171"
     }
   ],
   "past": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    },
     {
       "id": "ra:2454339",
       "title": "VERKNIPT Beach Special - 19 July",

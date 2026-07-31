@@ -34,6 +34,16 @@
       "url": "https://ra.co/events/2488542"
     },
     {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
+    {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
       "date": "2026-08-29",
@@ -44,6 +54,16 @@
       "url": "https://ra.co/events/2376016"
     },
     {
+      "id": "ra:2502004",
+      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502004"
+    },
+    {
       "id": "ra:2485729",
       "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
       "date": "2026-10-10",
@@ -52,6 +72,26 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2485729"
+    },
+    {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
     }
   ],
   "past": [

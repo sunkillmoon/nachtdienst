@@ -1,7 +1,8 @@
 {
   "id": "163928",
   "name": "papi tut mir leid",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2426260",
       "title": "papi in Amsterdam",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2426260"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "181527",

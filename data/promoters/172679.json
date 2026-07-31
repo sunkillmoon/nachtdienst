@@ -1,0 +1,64 @@
+{
+  "id": "172679",
+  "name": "MOJO Concerts",
+  "upcoming": [
+    {
+      "id": "ra:2390161",
+      "title": "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390161"
+    },
+    {
+      "id": "ra:2401347",
+      "title": "KI/KI 5 HOURS - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401347"
+    },
+    {
+      "id": "ra:2403373",
+      "title": "KI/KI 5 HOURS DAY/2 - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403373"
+    },
+    {
+      "id": "ra:2479552",
+      "title": "Scooter Crushes ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00+01:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479552"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84447",
+      "name": "KI/KI",
+      "count": 2
+    },
+    {
+      "id": "63125",
+      "name": "Jean Michel Jarre",
+      "count": 1
+    },
+    {
+      "id": "74951",
+      "name": "Scooter",
+      "count": 1
+    }
+  ]
+}

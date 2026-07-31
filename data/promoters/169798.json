@@ -1,7 +1,8 @@
 {
   "id": "169798",
   "name": "het veld",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2468394",
       "title": "Mathiéux presents: Itz3bby & Seb Wes",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2468394"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "167750",

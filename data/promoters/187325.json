@@ -1,0 +1,29 @@
+{
+  "id": "187325",
+  "name": "Eros Events",
+  "upcoming": [
+    {
+      "id": "ra:2495421",
+      "title": "Eros Society - Pride Fantasies",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Sahara",
+      "venue_id": "223096",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2495421"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "186385",
+      "name": "Jordy Jordos",
+      "count": 1
+    },
+    {
+      "id": "94442",
+      "name": "Spikey Lee",
+      "count": 1
+    }
+  ]
+}

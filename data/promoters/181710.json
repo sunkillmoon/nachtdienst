@@ -3,28 +3,8 @@
   "name": "Marijn",
   "upcoming": [
     {
-      "id": "ra:2478215",
-      "title": "Source x Weekdays",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2478215"
-    },
-    {
-      "id": "ra:2485492",
-      "title": "Supper's House",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485492"
-    },
-    {
       "id": "ra:2485497",
-      "title": "AfterGlow Disco",
+      "title": "PRIDE PARTY | AfterGlow Disco",
       "date": "2026-08-01",
       "start": "2026-08-01T23:00+02:00",
       "venue": "Supperclub",
@@ -54,7 +34,7 @@
     },
     {
       "id": "ra:2485507",
-      "title": "Senses",
+      "title": "TRUTH",
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "Supperclub",
@@ -63,6 +43,27 @@
       "url": "https://ra.co/events/2485507"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2485492",
+      "title": "Supper's House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485492"
+    },
+    {
+      "id": "ra:2478215",
+      "title": "Source x Weekdays",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478215"
+    }
+  ],
   "top_artists": []
 }

@@ -1,0 +1,59 @@
+{
+  "id": "34899",
+  "name": "!K7 Records",
+  "upcoming": [
+    {
+      "id": "ra:2458430",
+      "title": "DJ Kicks ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458430"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "93138",
+      "name": "BELLA (NL)",
+      "count": 1
+    },
+    {
+      "id": "40438",
+      "name": "The Blessed Madonna",
+      "count": 1
+    },
+    {
+      "id": "72536",
+      "name": "DJ BORING",
+      "count": 1
+    },
+    {
+      "id": "121173",
+      "name": "D Stone",
+      "count": 1
+    },
+    {
+      "id": "27408",
+      "name": "Dam Swindle",
+      "count": 1
+    },
+    {
+      "id": "3760",
+      "name": "Gerd Janson",
+      "count": 1
+    },
+    {
+      "id": "141111",
+      "name": "Pelanoir",
+      "count": 1
+    },
+    {
+      "id": "55834",
+      "name": "Sofia Kourtesis",
+      "count": 1
+    }
+  ]
+}

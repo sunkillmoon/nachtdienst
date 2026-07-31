@@ -12,6 +12,16 @@
       "venue_id": "89597",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2399776",
+      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt GIORGIA ANGIULI Juliet Fox",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2399776"
     }
   ],
   "past": []

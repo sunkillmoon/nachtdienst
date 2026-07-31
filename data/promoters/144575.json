@@ -1,0 +1,104 @@
+{
+  "id": "144575",
+  "name": "Artists for President",
+  "upcoming": [
+    {
+      "id": "ra:2449265",
+      "title": "Pegassi All Day - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449265"
+    },
+    {
+      "id": "ra:2494330",
+      "title": "Avalon Emerson pres. 9000 Dreams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494330"
+    },
+    {
+      "id": "ra:2465411",
+      "title": "Lisa Korver All Day - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2465411"
+    },
+    {
+      "id": "ra:2470372",
+      "title": "Skepta pres. Más Tiempo",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470372"
+    },
+    {
+      "id": "ra:2500675",
+      "title": "Interplanetary Criminal ADE at Bajes",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500675"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117719",
+      "name": "Pegassi",
+      "count": 1
+    },
+    {
+      "id": "40732",
+      "name": "Avalon Emerson",
+      "count": 1
+    },
+    {
+      "id": "44873",
+      "name": "Aurora Halal",
+      "count": 1
+    },
+    {
+      "id": "57077",
+      "name": "Sedef Adasï",
+      "count": 1
+    },
+    {
+      "id": "76890",
+      "name": "Ineffekt",
+      "count": 1
+    },
+    {
+      "id": "72669",
+      "name": "Verraco",
+      "count": 1
+    },
+    {
+      "id": "165697",
+      "name": "Lisa Korver",
+      "count": 1
+    },
+    {
+      "id": "14634",
+      "name": "Skepta",
+      "count": 1
+    },
+    {
+      "id": "73737",
+      "name": "Interplanetary Criminal",
+      "count": 1
+    }
+  ]
+}

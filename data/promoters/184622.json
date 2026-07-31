@@ -1,0 +1,54 @@
+{
+  "id": "184622",
+  "name": "Canapa-x ",
+  "upcoming": [
+    {
+      "id": "ra:2501005",
+      "title": "Canapa-x present: 'Follow The Cat Recordings showcase'",
+      "date": "2026-08-15",
+      "start": "2026-08-15T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501005"
+    },
+    {
+      "id": "ra:2501054",
+      "title": "Canapa-x present: 'OFFSET party by GENE'",
+      "date": "2026-08-16",
+      "start": "2026-08-16T22:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501054"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "129482",
+      "name": "ADEZ",
+      "count": 1
+    },
+    {
+      "id": "180501",
+      "name": "Gabriele Peveri",
+      "count": 1
+    },
+    {
+      "id": "96858",
+      "name": "GENE",
+      "count": 1
+    },
+    {
+      "id": "93456",
+      "name": "Voicila Alin",
+      "count": 1
+    },
+    {
+      "id": "111488",
+      "name": "Rolmar",
+      "count": 1
+    }
+  ]
+}

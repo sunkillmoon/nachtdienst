@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2501506",
+      "title": "Solit b2b Nathan Homan",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501506"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2480519",
       "title": "Portente Invites",
       "date": "2026-07-24",
@@ -12,9 +24,7 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480519"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2456711",
       "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",

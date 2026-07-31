@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.362011,
   "lng": 4.949109,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2480484",
-      "title": "25 JUL - Nachtshow with Tjade & Friends",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480484"
-    },
-    {
-      "id": "ra:2414866",
-      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
-      "date": "2026-07-26",
-      "start": "2026-07-26T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2414866"
-    },
-    {
       "id": "ra:2251187",
       "title": "Daycare Festival",
       "date": "2026-08-08",
@@ -52,7 +32,38 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
+    },
+    {
+      "id": "ra:2501510",
+      "title": "angelboy & Schwesta P",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501510"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2414866",
+      "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",
+      "date": "2026-07-26",
+      "start": "2026-07-26T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414866"
+    },
+    {
+      "id": "ra:2480484",
+      "title": "25 JUL - Nachtshow with Tjade & Friends",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480484"
+    }
+  ]
 }

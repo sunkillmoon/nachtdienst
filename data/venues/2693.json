@@ -6,56 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2490619",
-      "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
-      "date": "2026-07-25",
-      "start": "2026-07-25T19:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490619"
-    },
-    {
-      "id": "ra:2490637",
-      "title": "PAARDENRAVE - CLUB CHROME",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490637"
-    },
-    {
-      "id": "ra:2476767",
-      "title": "Cheeky Monday: Millz",
-      "date": "2026-07-27",
-      "start": "2026-07-27T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476767"
-    },
-    {
-      "id": "ra:2477812",
-      "title": "Techno Tuesday Amsterdam, Lenz, Dexon, Ladaeg",
-      "date": "2026-07-28",
-      "start": "2026-07-28T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477812"
-    },
-    {
-      "id": "ra:2429304",
-      "title": "Dekmantel Festival - Into The City - Thursday",
-      "date": "2026-07-30",
-      "start": "2026-07-30T18:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2429304"
-    },
-    {
       "id": "ra:2386613",
       "title": "Our World Pride Opening",
       "date": "2026-07-31",
@@ -106,16 +56,6 @@
       "url": "https://ra.co/events/2483964"
     },
     {
-      "id": "ra:2490653",
-      "title": "Pyxls x HD Heaven - CLUB CHROME",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490653"
-    },
-    {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",
       "date": "2026-08-07",
@@ -124,6 +64,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490643"
+    },
+    {
+      "id": "ra:2490653",
+      "title": "Pyxls x HD Heaven - CLUB CHROME",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490653"
     },
     {
       "id": "ra:2490645",
@@ -294,9 +244,219 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490699"
+    },
+    {
+      "id": "ra:2489739",
+      "title": "Mind Enterprises - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489739"
+    },
+    {
+      "id": "ra:2490682",
+      "title": "Mind Enterprises - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490682"
+    },
+    {
+      "id": "ra:2489760",
+      "title": "ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489760"
+    },
+    {
+      "id": "ra:2490696",
+      "title": "bitbird presents: San Holo & DROELOE - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490696"
+    },
+    {
+      "id": "ra:2490675",
+      "title": "NIMINO - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490675"
+    },
+    {
+      "id": "ra:2490706",
+      "title": "Monstercat x Ophelia - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490706"
+    },
+    {
+      "id": "ra:2479188",
+      "title": "FACE 2 FACE: ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479188"
+    },
+    {
+      "id": "ra:2490629",
+      "title": "Get Physical! - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490629"
+    },
+    {
+      "id": "ra:2490630",
+      "title": "Starjunk 95 - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490630"
+    },
+    {
+      "id": "ra:2489684",
+      "title": "Dave Clarke presents: 30 Years of ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489684"
+    },
+    {
+      "id": "ra:2495258",
+      "title": "Rampage Amsterdam ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495258"
+    },
+    {
+      "id": "ra:2489725",
+      "title": "Paul Van Dyk Open To Close",
+      "date": "2026-10-24",
+      "start": "2026-10-24T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489725"
+    },
+    {
+      "id": "ra:2490695",
+      "title": "GoldFish - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490695"
+    },
+    {
+      "id": "ra:2490671",
+      "title": "Blendsworld - ADE SPECIAL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490671"
+    },
+    {
+      "id": "ra:2489701",
+      "title": "Amsterdam Dub Event: Moritz von Oswald / Radikal Guru e.a",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489701"
+    },
+    {
+      "id": "ra:2498430",
+      "title": "RAVING CHARLIE: Halloween Rave",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498430"
     }
   ],
   "past": [
+    {
+      "id": "ra:2429304",
+      "title": "Dekmantel Festival - Into The City - Thursday",
+      "date": "2026-07-30",
+      "start": "2026-07-30T18:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2429304"
+    },
+    {
+      "id": "ra:2477812",
+      "title": "Techno Tuesday Amsterdam, Lenz, Dexon, Ladaeg",
+      "date": "2026-07-28",
+      "start": "2026-07-28T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477812"
+    },
+    {
+      "id": "ra:2476767",
+      "title": "Cheeky Monday: Millz",
+      "date": "2026-07-27",
+      "start": "2026-07-27T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476767"
+    },
+    {
+      "id": "ra:2490619",
+      "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
+      "date": "2026-07-25",
+      "start": "2026-07-25T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490619"
+    },
+    {
+      "id": "ra:2490637",
+      "title": "PAARDENRAVE - CLUB CHROME",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490637"
+    },
     {
       "id": "ra:2477810",
       "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",

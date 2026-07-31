@@ -12,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2392340"
+    },
+    {
+      "id": "ra:2462689",
+      "title": "Shermanology - Lucien Foort | Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
     }
   ],
   "past": []

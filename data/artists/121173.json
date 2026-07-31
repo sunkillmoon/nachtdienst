@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2458430",
+      "title": "DJ Kicks ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458430"
+    },
+    {
+      "id": "ra:2478046",
+      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478046"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",
       "date": "2026-07-25",
@@ -12,9 +44,7 @@
       "venue_id": "121137",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2320346"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2470565",
       "title": "CLUB.RECORD X Shelter: Boat Series",

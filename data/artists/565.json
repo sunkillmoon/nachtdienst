@@ -14,6 +14,36 @@
       "url": "https://ra.co/events/2302716"
     },
     {
+      "id": "ra:2495463",
+      "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
+      "date": "2026-08-09",
+      "start": "2026-08-09T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2495463"
+    },
+    {
+      "id": "ra:2501268",
+      "title": "Rythym Amsterdam",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501268"
+    },
+    {
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502868"
+    },
+    {
       "id": "ra:2281919",
       "title": "A Day at the Park Festival 2026",
       "date": "2026-09-12",
@@ -24,14 +54,54 @@
       "url": "https://ra.co/events/2281919"
     },
     {
+      "id": "ra:2501541",
+      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya ",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2501541"
+    },
+    {
       "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
       "date": "2026-09-27",
       "start": "2026-09-27T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2502625",
+      "title": "Hush with Michel de Hey, AAT & More",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502625"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2473476",
+      "title": "24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473476"
     }
   ],
   "past": [

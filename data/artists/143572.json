@@ -12,6 +12,16 @@
       "venue_id": "288966",
       "area": "The Hague",
       "url": "https://ra.co/events/2408404"
+    },
+    {
+      "id": "ra:2479678",
+      "title": "Colorize: 15 Years - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479678"
     }
   ],
   "past": []

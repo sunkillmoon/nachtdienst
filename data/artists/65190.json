@@ -12,6 +12,16 @@
       "venue_id": "160195",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2467439"
+    },
+    {
+      "id": "ra:2490674",
+      "title": "Vault Sessions & Friends ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490674"
     }
   ],
   "past": []

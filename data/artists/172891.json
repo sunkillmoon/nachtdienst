@@ -12,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466518"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
     }
   ],
   "past": []

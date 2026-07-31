@@ -2,7 +2,8 @@
   "id": "115969",
   "name": "no service",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453384",
       "title": "Doka Summer Studio x Last Seen",
@@ -23,6 +24,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459039"
     }
-  ],
-  "past": []
+  ]
 }

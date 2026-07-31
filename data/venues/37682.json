@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.364103,
   "lng": 4.863473,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494714",
       "title": "Go Cosmic with AnnaM, Be.a.son",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494714"
     }
-  ],
-  "past": []
+  ]
 }

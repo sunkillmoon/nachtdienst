@@ -1,0 +1,59 @@
+{
+  "id": "148284",
+  "name": "One Eye Witness",
+  "upcoming": [
+    {
+      "id": "ra:2499718",
+      "title": "RAUM invites One Eye Witness",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499718"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "103515",
+      "name": "Aldonna",
+      "count": 1
+    },
+    {
+      "id": "115371",
+      "name": "Mia Cecille",
+      "count": 1
+    },
+    {
+      "id": "63987",
+      "name": "Sansibar",
+      "count": 1
+    },
+    {
+      "id": "957",
+      "name": "Mark Broom",
+      "count": 1
+    },
+    {
+      "id": "18878",
+      "name": "Nelly",
+      "count": 1
+    },
+    {
+      "id": "119650",
+      "name": "Hylke",
+      "count": 1
+    },
+    {
+      "id": "115745",
+      "name": "LazerGazer",
+      "count": 1
+    },
+    {
+      "id": "88823",
+      "name": "Temple Rat",
+      "count": 1
+    }
+  ]
+}

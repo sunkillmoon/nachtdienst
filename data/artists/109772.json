@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2499737",
+      "title": "Uphoria x Roots",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2499737"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488713",
       "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
       "date": "2026-07-24",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488713"
     }
-  ],
-  "past": []
+  ]
 }

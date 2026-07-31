@@ -1,0 +1,29 @@
+{
+  "id": "191231",
+  "name": "Oase-Rotterdam ",
+  "upcoming": [
+    {
+      "id": "ra:2499845",
+      "title": "weave",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Oase",
+      "venue_id": "298553",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2499845"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "133437",
+      "name": "LI-YU",
+      "count": 1
+    },
+    {
+      "id": "134439",
+      "name": "peppi",
+      "count": 1
+    }
+  ]
+}

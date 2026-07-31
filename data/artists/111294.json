@@ -2,7 +2,18 @@
   "id": "111294",
   "name": "Mochakk",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2444784",
+      "title": "GASHOUDER presents: Mochakk CALLING",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444784"
+    }
+  ],
   "past": [
     {
       "id": "ra:2402609",

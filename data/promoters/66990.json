@@ -1,0 +1,49 @@
+{
+  "id": "66990",
+  "name": "Life and Death",
+  "upcoming": [
+    {
+      "id": "ra:2479598",
+      "title": "Brighter Days x Life and Death",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479598"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "91976",
+      "name": "Retromigration",
+      "count": 1
+    },
+    {
+      "id": "57077",
+      "name": "Sedef Adasï",
+      "count": 1
+    },
+    {
+      "id": "17805",
+      "name": "DJ Tennis",
+      "count": 1
+    },
+    {
+      "id": "54907",
+      "name": "Kamma",
+      "count": 1
+    },
+    {
+      "id": "59664",
+      "name": "Masalo",
+      "count": 1
+    },
+    {
+      "id": "107688",
+      "name": "Ajuma",
+      "count": 1
+    }
+  ]
+}

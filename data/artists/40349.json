@@ -12,6 +12,26 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478169"
+    },
+    {
+      "id": "ra:2501667",
+      "title": "POING FESTIVAL after hours",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2501667"
+    },
+    {
+      "id": "ra:2478125",
+      "title": "ADE - SPIELRAUM: 55 HOURS",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478125"
     }
   ],
   "past": []

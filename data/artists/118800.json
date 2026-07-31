@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2397297",
-      "title": "OIWA Beach Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Manii Beach",
-      "venue_id": "287886",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2397297"
-    },
-    {
       "id": "ra:2493384",
       "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
       "date": "2026-08-21",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2493384"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2397297",
+      "title": "OIWA Beach Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Manii Beach",
+      "venue_id": "287886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2397297"
+    }
+  ]
 }

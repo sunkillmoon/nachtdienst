@@ -1,7 +1,8 @@
 {
   "id": "189726",
   "name": "BREAKGLASS",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478320",
       "title": "BREAKGLASS - Launch Party",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2478320"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "182847",

@@ -2,7 +2,8 @@
   "id": "112642",
   "name": "Milian Dolla",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490619",
       "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490619"
     }
-  ],
-  "past": []
+  ]
 }

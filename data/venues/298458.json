@@ -1,0 +1,20 @@
+{
+  "id": "298458",
+  "name": "TBA - private location, tba 48h before the event to all ticket holders",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2498852",
+      "title": "S+ Techno Party x Anniversary Big Edition",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "TBA - private location, tba 48h before the event to all ticket holders",
+      "venue_id": "298458",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498852"
+    }
+  ],
+  "past": []
+}

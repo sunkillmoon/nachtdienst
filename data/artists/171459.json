@@ -4,15 +4,47 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476214",
-      "title": "100% KATOEN",
-      "date": "2026-07-23",
-      "start": "2026-07-23T20:00+02:00",
-      "venue": "Café Katoen",
-      "venue_id": "124046",
+      "id": "ra:2490752",
+      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2476214"
+      "url": "https://ra.co/events/2490752"
     },
+    {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
@@ -24,15 +56,14 @@
       "url": "https://ra.co/events/2439763"
     },
     {
-      "id": "ra:2490752",
-      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
+      "id": "ra:2476214",
+      "title": "100% KATOEN",
+      "date": "2026-07-23",
+      "start": "2026-07-23T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2490752"
+      "url": "https://ra.co/events/2476214"
     }
-  ],
-  "past": []
+  ]
 }

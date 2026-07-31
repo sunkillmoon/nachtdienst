@@ -1,0 +1,54 @@
+{
+  "id": "9481",
+  "name": "Ritter Butzke",
+  "upcoming": [
+    {
+      "id": "ra:2426450",
+      "title": "Ritter Butzke & Casa ADE Cruise",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426450"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "1707",
+      "name": "Einmusik",
+      "count": 1
+    },
+    {
+      "id": "2341",
+      "name": "Super Flu",
+      "count": 1
+    },
+    {
+      "id": "59109",
+      "name": "Prismode",
+      "count": 1
+    },
+    {
+      "id": "48613",
+      "name": "Solvane",
+      "count": 1
+    },
+    {
+      "id": "33436",
+      "name": "Markus Klee",
+      "count": 1
+    },
+    {
+      "id": "172449",
+      "name": "Malouna",
+      "count": 1
+    },
+    {
+      "id": "107694",
+      "name": "Cris-H",
+      "count": 1
+    }
+  ]
+}

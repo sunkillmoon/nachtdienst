@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2420618",
-      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2420618"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
@@ -52,7 +42,28 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2496558",
+      "title": "10SERIES by Shelter - Hidde van Wee (all night long)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496558"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2420618",
+      "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420618"
+    }
+  ]
 }

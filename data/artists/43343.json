@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2492405",
+      "title": "LNR - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
     }
-  ],
-  "past": []
+  ]
 }

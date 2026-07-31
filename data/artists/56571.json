@@ -5,13 +5,33 @@
   "upcoming": [
     {
       "id": "ra:2426015",
-      "title": "Hush at the Beach with Kepler, Easttown & More",
+      "title": "Hush at the Beach with Kepler, Boss Priester & More",
       "date": "2026-08-21",
       "start": "2026-08-21T20:00+02:00",
       "venue": "Boomerang Beach",
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2426015"
+    },
+    {
+      "id": "ra:2494128",
+      "title": "PIV ADE - Ijland",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494128"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
     }
   ],
   "past": []

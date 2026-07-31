@@ -1,0 +1,69 @@
+{
+  "id": "68698",
+  "name": "The Gardens of Babylon",
+  "upcoming": [
+    {
+      "id": "ra:2501585",
+      "title": "The Boutique Dunes of Babylon",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Bodhi Beach",
+      "venue_id": "298722",
+      "area": "All",
+      "url": "https://ra.co/events/2501585"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "118535",
+      "name": "Arc Music",
+      "count": 1
+    },
+    {
+      "id": "90945",
+      "name": "John Woods",
+      "count": 1
+    },
+    {
+      "id": "108561",
+      "name": "Joep Mencke",
+      "count": 1
+    },
+    {
+      "id": "66332",
+      "name": "Nico Morano",
+      "count": 1
+    },
+    {
+      "id": "108966",
+      "name": "RONJA.",
+      "count": 1
+    },
+    {
+      "id": "83601",
+      "name": "Sorä",
+      "count": 1
+    },
+    {
+      "id": "67631",
+      "name": "Yulia Niko",
+      "count": 1
+    },
+    {
+      "id": "86627",
+      "name": "NenaHalena",
+      "count": 1
+    },
+    {
+      "id": "110838",
+      "name": "Frida Darko",
+      "count": 1
+    },
+    {
+      "id": "92575",
+      "name": "Juan Hansen",
+      "count": 1
+    }
+  ]
+}

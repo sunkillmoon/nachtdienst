@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2499729",
+      "title": "Marco Shuttle, Sunil Sharpe, Maria Cue",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499729"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2453266",
       "title": "Vault Sessions x In.di.go x Symbole WKNDR | DAY | De Fik Garden",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453266"
     }
-  ],
-  "past": []
+  ]
 }

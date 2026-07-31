@@ -1,7 +1,15 @@
 [
   {
+    "id": "34899",
+    "name": "!K7 Records"
+  },
+  {
     "id": "135532",
     "name": "+++"
+  },
+  {
+    "id": "190779",
+    "name": ".VISIONS"
   },
   {
     "id": "172838",
@@ -10,6 +18,14 @@
   {
     "id": "141492",
     "name": "100% KATOEN"
+  },
+  {
+    "id": "145569",
+    "name": "2Lovers5683"
+  },
+  {
+    "id": "77828",
+    "name": "909"
   },
   {
     "id": "43885",
@@ -32,8 +48,20 @@
     "name": "Afters Events Amsterdam"
   },
   {
+    "id": "130074",
+    "name": "aguscostilla"
+  },
+  {
+    "id": "90843",
+    "name": "Alien Communications"
+  },
+  {
     "id": "180430",
     "name": "Ambrosia"
+  },
+  {
+    "id": "39106",
+    "name": "Amsterdam Dance Event"
   },
   {
     "id": "175173",
@@ -52,12 +80,24 @@
     "name": "Anacalypto"
   },
   {
+    "id": "103384",
+    "name": "Animarum Showcases"
+  },
+  {
     "id": "123537",
     "name": "Anjunabeats"
   },
   {
+    "id": "68310",
+    "name": "Anjunadeep"
+  },
+  {
     "id": "182087",
     "name": "ANTIA"
+  },
+  {
+    "id": "154462",
+    "name": "Antidoto Club"
   },
   {
     "id": "114431",
@@ -68,12 +108,32 @@
     "name": "AOS"
   },
   {
+    "id": "148179",
+    "name": "ArchangelUK"
+  },
+  {
+    "id": "144575",
+    "name": "Artists for President"
+  },
+  {
     "id": "173002",
     "name": "AS.C"
   },
   {
+    "id": "181552",
+    "name": "Astral Records Mx"
+  },
+  {
+    "id": "78205",
+    "name": "Audacious"
+  },
+  {
     "id": "38742",
     "name": "Audio Obscura"
+  },
+  {
+    "id": "39167",
+    "name": "Awakenings Festival "
   },
   {
     "id": "153214",
@@ -86,6 +146,10 @@
   {
     "id": "186214",
     "name": "BACKTOGETHER AME"
+  },
+  {
+    "id": "190869",
+    "name": "Bajes"
   },
   {
     "id": "190456",
@@ -104,16 +168,40 @@
     "name": "Basic Grooves"
   },
   {
+    "id": "138847",
+    "name": "Basics Recording"
+  },
+  {
     "id": "102291",
     "name": "BCCO"
+  },
+  {
+    "id": "189693",
+    "name": "Beenoise Staff"
   },
   {
     "id": "174293",
     "name": "BeHærd"
   },
   {
+    "id": "190368",
+    "name": "Beyond the Beat"
+  },
+  {
     "id": "177075",
     "name": "BIERGARTEN EINDHOVEN"
+  },
+  {
+    "id": "188788",
+    "name": "Big Bells Digital"
+  },
+  {
+    "id": "73281",
+    "name": "BIRD Rotterdam"
+  },
+  {
+    "id": "188979",
+    "name": "Boat Club"
   },
   {
     "id": "120312",
@@ -152,8 +240,16 @@
     "name": "Brighter Days"
   },
   {
+    "id": "184637",
+    "name": "BRM Agency"
+  },
+  {
     "id": "190532",
     "name": "Bubbling rave"
+  },
+  {
+    "id": "184622",
+    "name": "Canapa-x "
   },
   {
     "id": "129579",
@@ -176,6 +272,10 @@
     "name": "Chin Chin Club"
   },
   {
+    "id": "74788",
+    "name": "Chrom Recordings"
+  },
+  {
     "id": "57200",
     "name": "Closer Milano"
   },
@@ -192,6 +292,10 @@
     "name": "Club RAUM"
   },
   {
+    "id": "100332",
+    "name": "CLUB.RECORD"
+  },
+  {
     "id": "124704",
     "name": "ColoradoCharlieNL"
   },
@@ -204,6 +308,10 @@
     "name": "Connection art event "
   },
   {
+    "id": "68869",
+    "name": "Craigie Knowes"
+  },
+  {
     "id": "117673",
     "name": "Crunch Tapes"
   },
@@ -212,12 +320,20 @@
     "name": "Daft Funk Live"
   },
   {
+    "id": "191309",
+    "name": "Dan Jergovic"
+  },
+  {
     "id": "100757",
     "name": "Dansplicht"
   },
   {
     "id": "143065",
     "name": "Dark Session"
+  },
+  {
+    "id": "134925",
+    "name": "Daydreaming"
   },
   {
     "id": "126561",
@@ -232,6 +348,14 @@
     "name": "De Sessie"
   },
   {
+    "id": "120658",
+    "name": "Deep Tech Los Angeles Records"
+  },
+  {
+    "id": "1884",
+    "name": "Defected Records"
+  },
+  {
     "id": "1697",
     "name": "Dekmantel"
   },
@@ -240,8 +364,16 @@
     "name": "Derailed Rotterdam"
   },
   {
+    "id": "38800",
+    "name": "DGTL "
+  },
+  {
     "id": "69187",
     "name": "Diffuse Reality Records"
+  },
+  {
+    "id": "149276",
+    "name": "Disclosure Events"
   },
   {
     "id": "80880",
@@ -256,12 +388,20 @@
     "name": "Dissident"
   },
   {
+    "id": "151819",
+    "name": "Disturbia Events"
+  },
+  {
     "id": "131844",
     "name": "Dive Deep"
   },
   {
     "id": "174512",
     "name": "DnB XL"
+  },
+  {
+    "id": "55063",
+    "name": "Dockyard"
   },
   {
     "id": "92729",
@@ -272,6 +412,10 @@
     "name": "Double Deux"
   },
   {
+    "id": "90278",
+    "name": "DP&A events"
+  },
+  {
     "id": "41717",
     "name": "Draaimolen"
   },
@@ -280,8 +424,24 @@
     "name": "Drift om te dansen"
   },
   {
+    "id": "35183",
+    "name": "E&A Events"
+  },
+  {
     "id": "87212",
     "name": "East Collective"
+  },
+  {
+    "id": "43151",
+    "name": "Eastenderz"
+  },
+  {
+    "id": "180302",
+    "name": "EL PADRE MUSIC"
+  },
+  {
+    "id": "151166",
+    "name": "Electric Ibiza"
   },
   {
     "id": "117166",
@@ -292,8 +452,28 @@
     "name": "Elevation Events"
   },
   {
+    "id": "88271",
+    "name": "endlessbcn"
+  },
+  {
+    "id": "191109",
+    "name": "Entity"
+  },
+  {
     "id": "142223",
     "name": "Epiphany Records"
+  },
+  {
+    "id": "178546",
+    "name": "EQUINOX"
+  },
+  {
+    "id": "187325",
+    "name": "Eros Events"
+  },
+  {
+    "id": "87874",
+    "name": "EXHALE"
   },
   {
     "id": "146580",
@@ -308,8 +488,24 @@
     "name": "Eye-Ris events"
   },
   {
+    "id": "967",
+    "name": "fabric"
+  },
+  {
+    "id": "171123",
+    "name": "FACE 2 FACE TV"
+  },
+  {
     "id": "148206",
     "name": "Fandom Nights"
+  },
+  {
+    "id": "149346",
+    "name": "FERMI"
+  },
+  {
+    "id": "127248",
+    "name": "Festival Downtown"
   },
   {
     "id": "190392",
@@ -320,16 +516,44 @@
     "name": "Frederik Teixeira"
   },
   {
+    "id": "60338",
+    "name": "Free Your Mind Festival"
+  },
+  {
+    "id": "84398",
+    "name": "FreeFromSleep"
+  },
+  {
     "id": "190083",
     "name": "Frenquency "
+  },
+  {
+    "id": "171522",
+    "name": "FROW Motion"
+  },
+  {
+    "id": "181959",
+    "name": "Frunz"
   },
   {
     "id": "154753",
     "name": "Full Circle Talent"
   },
   {
+    "id": "15502",
+    "name": "Fuse London"
+  },
+  {
+    "id": "118718",
+    "name": "GALEJ"
+  },
+  {
     "id": "94474",
     "name": "Garage Noord"
+  },
+  {
+    "id": "186927",
+    "name": "GASHOUDER"
   },
   {
     "id": "177037",
@@ -360,6 +584,14 @@
     "name": "Goddess of Queens Music"
   },
   {
+    "id": "108372",
+    "name": "Guerrilla"
+  },
+  {
+    "id": "164345",
+    "name": "HABITAT"
+  },
+  {
     "id": "95018",
     "name": "Happy Feelings"
   },
@@ -374,6 +606,10 @@
   {
     "id": "79889",
     "name": "HE.SHE.THEY."
+  },
+  {
+    "id": "147029",
+    "name": "Herbivox"
   },
   {
     "id": "56793",
@@ -412,6 +648,10 @@
     "name": "HOWL WORLDWIDE"
   },
   {
+    "id": "106339",
+    "name": "Hungry4"
+  },
+  {
     "id": "100428",
     "name": "Hunkering"
   },
@@ -432,20 +672,44 @@
     "name": "InDeep'n'Dance Records"
   },
   {
+    "id": "136968",
+    "name": "Insomniac Events"
+  },
+  {
     "id": "56298",
     "name": "Intercell"
+  },
+  {
+    "id": "29616",
+    "name": "Into the Woods"
   },
   {
     "id": "50894",
     "name": "IsBurning"
   },
   {
+    "id": "72357",
+    "name": "Jackies"
+  },
+  {
     "id": "190094",
     "name": "Jarred Baker"
   },
   {
+    "id": "190504",
+    "name": "JHONATAN OSPINA"
+  },
+  {
     "id": "190388",
     "name": "JN Events"
+  },
+  {
+    "id": "188768",
+    "name": "Joachim Willemse"
+  },
+  {
+    "id": "130703",
+    "name": "John Doe Amsterdam"
   },
   {
     "id": "172935",
@@ -460,12 +724,28 @@
     "name": "JTMusic"
   },
   {
+    "id": "60746",
+    "name": "Just Movement"
+  },
+  {
     "id": "129858",
     "name": "Kaap Amsterdam"
   },
   {
+    "id": "136615",
+    "name": "KABUL à GoGo"
+  },
+  {
     "id": "125739",
     "name": "Kadinsky Sessions"
+  },
+  {
+    "id": "117681",
+    "name": "Kate"
+  },
+  {
+    "id": "188773",
+    "name": "Key Factory"
   },
   {
     "id": "176036",
@@ -476,12 +756,20 @@
     "name": "Kinetic Festival"
   },
   {
+    "id": "121139",
+    "name": "Kiosk Radio"
+  },
+  {
     "id": "94991",
     "name": "Klankvorm"
   },
   {
     "id": "165923",
     "name": "KNIT"
+  },
+  {
+    "id": "180308",
+    "name": "KRAFT ADE 2026 Premium Pounding Techno 24th of October 2026"
   },
   {
     "id": "180306",
@@ -504,8 +792,36 @@
     "name": "Last Seen"
   },
   {
+    "id": "103150",
+    "name": "Laster Club"
+  },
+  {
     "id": "190134",
     "name": "Latebloomers"
+  },
+  {
+    "id": "163522",
+    "name": "Lelantus"
+  },
+  {
+    "id": "120432",
+    "name": "Levenslang Amsterdam"
+  },
+  {
+    "id": "66990",
+    "name": "Life and Death"
+  },
+  {
+    "id": "110204",
+    "name": "Like It Love It"
+  },
+  {
+    "id": "82256",
+    "name": "Likeminded worldwide"
+  },
+  {
+    "id": "83087",
+    "name": "Limousine Dream"
   },
   {
     "id": "57654",
@@ -524,8 +840,24 @@
     "name": "Lofi Amsterdam"
   },
   {
+    "id": "138155",
+    "name": "Lola Events"
+  },
+  {
+    "id": "19960",
+    "name": "Loud-Contact"
+  },
+  {
     "id": "24761",
     "name": "Loveland Events"
+  },
+  {
+    "id": "171999",
+    "name": "Luuk Rooks"
+  },
+  {
+    "id": "184806",
+    "name": "Luuk van Rijn"
   },
   {
     "id": "118449",
@@ -560,6 +892,10 @@
     "name": "Melkweg"
   },
   {
+    "id": "92698",
+    "name": "Melodic Room"
+  },
+  {
     "id": "171964",
     "name": "Melvin"
   },
@@ -572,8 +908,16 @@
     "name": "Mia Banks"
   },
   {
+    "id": "99039",
+    "name": "Modern Funktion"
+  },
+  {
     "id": "30480",
     "name": "MODULAR | MUSIC"
+  },
+  {
+    "id": "172679",
+    "name": "MOJO Concerts"
   },
   {
     "id": "172111",
@@ -588,12 +932,28 @@
     "name": "MOVATILA"
   },
   {
+    "id": "17138",
+    "name": "Movement Recordings"
+  },
+  {
     "id": "190323",
     "name": "Mozzy"
   },
   {
     "id": "29203",
     "name": "Multigroove"
+  },
+  {
+    "id": "54538",
+    "name": "Muziekgebouw aan 't IJ"
+  },
+  {
+    "id": "66900",
+    "name": "MVSON EVENTS"
+  },
+  {
+    "id": "43225",
+    "name": "Mystic Garden Festival"
   },
   {
     "id": "74959",
@@ -606,6 +966,10 @@
   {
     "id": "145258",
     "name": "NAR"
+  },
+  {
+    "id": "137809",
+    "name": "Naturalis"
   },
   {
     "id": "163163",
@@ -632,6 +996,14 @@
     "name": "Nyege Nyege Festival"
   },
   {
+    "id": "191231",
+    "name": "Oase-Rotterdam "
+  },
+  {
+    "id": "115897",
+    "name": "OBSCUUR"
+  },
+  {
     "id": "180676",
     "name": "OG Records"
   },
@@ -644,6 +1016,14 @@
     "name": "Onda Collective"
   },
   {
+    "id": "116261",
+    "name": "Ondergronds Verzetje"
+  },
+  {
+    "id": "148284",
+    "name": "One Eye Witness"
+  },
+  {
     "id": "88238",
     "name": "Operator"
   },
@@ -652,12 +1032,28 @@
     "name": "Orphic"
   },
   {
+    "id": "165153",
+    "name": "Oscar Mulder"
+  },
+  {
     "id": "178545",
     "name": "Ouragan"
   },
   {
+    "id": "184294",
+    "name": "OUTKZT ADE 2026"
+  },
+  {
     "id": "109940",
     "name": "Overbruggen"
+  },
+  {
+    "id": "153208",
+    "name": "PALMBEATS"
+  },
+  {
+    "id": "190305",
+    "name": "Pamela"
   },
   {
     "id": "163928",
@@ -676,12 +1072,20 @@
     "name": "Parallel"
   },
   {
+    "id": "132678",
+    "name": "Patrick scuro"
+  },
+  {
     "id": "160543",
     "name": "Paul van Rooijen"
   },
   {
     "id": "102759",
     "name": "PAX-ROMANA"
+  },
+  {
+    "id": "64214",
+    "name": "Perspectives Digital"
   },
   {
     "id": "80633",
@@ -716,6 +1120,10 @@
     "name": "POING CLUB"
   },
   {
+    "id": "69488",
+    "name": "Polifonic"
+  },
+  {
     "id": "167511",
     "name": "Pompstation "
   },
@@ -728,12 +1136,20 @@
     "name": "Positive Transmitter"
   },
   {
+    "id": "182939",
+    "name": "Progressive Hub"
+  },
+  {
     "id": "169823",
     "name": "PSYROM"
   },
   {
     "id": "144494",
     "name": "Pucklectic"
+  },
+  {
+    "id": "156412",
+    "name": "Qube Events"
   },
   {
     "id": "189882",
@@ -772,16 +1188,44 @@
     "name": "RavingCharlie"
   },
   {
+    "id": "191289",
+    "name": "RB | PR"
+  },
+  {
+    "id": "191156",
+    "name": "RDBLCK"
+  },
+  {
     "id": "103272",
     "name": "Redlof Records"
+  },
+  {
+    "id": "890",
+    "name": "Resident Advisor"
+  },
+  {
+    "id": "7280",
+    "name": "Rinse"
   },
   {
     "id": "46985",
     "name": "Rinse FM"
   },
   {
+    "id": "129152",
+    "name": "Ritmo "
+  },
+  {
+    "id": "9481",
+    "name": "Ritter Butzke"
+  },
+  {
     "id": "146655",
     "name": "RIZE"
+  },
+  {
+    "id": "190559",
+    "name": "Robert"
   },
   {
     "id": "43423",
@@ -792,12 +1236,36 @@
     "name": "RPU"
   },
   {
+    "id": "189551",
+    "name": "Ruben Karapetyan Presents "
+  },
+  {
+    "id": "47630",
+    "name": "Rush Hour Music"
+  },
+  {
+    "id": "155343",
+    "name": "Rythym"
+  },
+  {
     "id": "91163",
     "name": "S.A.S.H"
   },
   {
+    "id": "169942",
+    "name": "S1N3RGY COLLECTIVE"
+  },
+  {
+    "id": "103229",
+    "name": "Saturo Sounds"
+  },
+  {
     "id": "172566",
     "name": "Saverinio Morman"
+  },
+  {
+    "id": "184204",
+    "name": "Sem Kuijpers"
   },
   {
     "id": "182946",
@@ -814,6 +1282,10 @@
   {
     "id": "64273",
     "name": "Shelter Amsterdam"
+  },
+  {
+    "id": "157261",
+    "name": "Signal NYC"
   },
   {
     "id": "170115",
@@ -836,12 +1308,44 @@
     "name": "Soft Focus"
   },
   {
+    "id": "173004",
+    "name": "Solis Records"
+  },
+  {
     "id": "135646",
     "name": "Sona"
   },
   {
+    "id": "127002",
+    "name": "Sonic Tonic Collective"
+  },
+  {
+    "id": "56814",
+    "name": "Soul Express"
+  },
+  {
+    "id": "172397",
+    "name": "Soundcora"
+  },
+  {
+    "id": "8744",
+    "name": "Soundvision"
+  },
+  {
+    "id": "168357",
+    "name": "South Side Collective"
+  },
+  {
+    "id": "115024",
+    "name": "SOW"
+  },
+  {
     "id": "190259",
     "name": "Space Society"
+  },
+  {
+    "id": "191165",
+    "name": "Spades.Amsterdam"
   },
   {
     "id": "84610",
@@ -864,6 +1368,10 @@
     "name": "STUDIO STRIP AMSTERDAM"
   },
   {
+    "id": "171783",
+    "name": "Studio508amsterdam"
+  },
+  {
     "id": "78874",
     "name": "Subcultuur (NL)"
   },
@@ -872,12 +1380,20 @@
     "name": "SubjectDetroit"
   },
   {
+    "id": "178150",
+    "name": "Sweet Nothing"
+  },
+  {
     "id": "164591",
     "name": "Sweetlips"
   },
   {
     "id": "115991",
     "name": "Symbole"
+  },
+  {
+    "id": "129567",
+    "name": "Synesthesia"
   },
   {
     "id": "55697",
@@ -892,6 +1408,10 @@
     "name": "Tale of Bus"
   },
   {
+    "id": "62738",
+    "name": "Tanzgemeinschaft"
+  },
+  {
     "id": "17960",
     "name": "Techno Tuesday Amsterdam"
   },
@@ -900,16 +1420,48 @@
     "name": "Textures "
   },
   {
+    "id": "89871",
+    "name": "The Disco Express"
+  },
+  {
+    "id": "132624",
+    "name": "The Drop"
+  },
+  {
     "id": "190534",
     "name": "The Function"
+  },
+  {
+    "id": "191429",
+    "name": "The Gang is Beautiful"
+  },
+  {
+    "id": "36376",
+    "name": "The Garden..."
+  },
+  {
+    "id": "68698",
+    "name": "The Gardens of Babylon"
   },
   {
     "id": "161687",
     "name": "The Planet Amsterdam"
   },
   {
+    "id": "2767",
+    "name": "The Warehouse Project"
+  },
+  {
+    "id": "159623",
+    "name": "Theoryxmusic"
+  },
+  {
     "id": "112339",
     "name": "theothersideams"
+  },
+  {
+    "id": "177566",
+    "name": "TheSocialRoom"
   },
   {
     "id": "190510",
@@ -928,12 +1480,24 @@
     "name": "Time is the new space"
   },
   {
+    "id": "135456",
+    "name": "TMPL MUSIC"
+  },
+  {
     "id": "36412",
     "name": "TOFFLER"
   },
   {
+    "id": "191389",
+    "name": "TOKRA"
+  },
+  {
     "id": "95761",
     "name": "Toy Tonics"
+  },
+  {
+    "id": "161184",
+    "name": "Trancecore"
   },
   {
     "id": "185396",
@@ -948,12 +1512,36 @@
     "name": "Turbine Delft"
   },
   {
+    "id": "190751",
+    "name": "TwoMindsTalking"
+  },
+  {
     "id": "35463",
     "name": "UNDRGRND Amsterdam"
   },
   {
+    "id": "73565",
+    "name": "United Identities"
+  },
+  {
     "id": "95017",
     "name": "UNMUTE"
+  },
+  {
+    "id": "112664",
+    "name": "Unreal Germany"
+  },
+  {
+    "id": "91424",
+    "name": "Unsilenced"
+  },
+  {
+    "id": "191174",
+    "name": "UNTIED"
+  },
+  {
+    "id": "187036",
+    "name": "Uphoria"
   },
   {
     "id": "50079",
@@ -972,12 +1560,20 @@
     "name": "VESELKA"
   },
   {
+    "id": "189581",
+    "name": "VIERVIERTEL"
+  },
+  {
     "id": "126125",
     "name": "VM Radio"
   },
   {
     "id": "124981",
     "name": "Vrau"
+  },
+  {
+    "id": "108042",
+    "name": "VYBZ"
   },
   {
     "id": "72804",
@@ -996,6 +1592,18 @@
     "name": "We Build Events"
   },
   {
+    "id": "191230",
+    "name": "weave-deep"
+  },
+  {
+    "id": "118825",
+    "name": "Whatsnew Events"
+  },
+  {
+    "id": "147756",
+    "name": "Wibar"
+  },
+  {
     "id": "183843",
     "name": "Woods Events"
   },
@@ -1012,12 +1620,24 @@
     "name": "YEREYERE"
   },
   {
+    "id": "139471",
+    "name": "ZAZU"
+  },
+  {
     "id": "27760",
     "name": "ZeeZout"
   },
   {
-    "id": "190830",
-    "name": "Zijkant music"
+    "id": "190933",
+    "name": "Zijkant"
+  },
+  {
+    "id": "34201",
+    "name": "Zwart Goud"
+  },
+  {
+    "id": "79173",
+    "name": "ZwartGoudNL"
   },
   {
     "id": "156843",

@@ -12,6 +12,16 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445698"
+    },
+    {
+      "id": "ra:2483536",
+      "title": "LEVI ADE at Free Your Mind Club",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483536"
     }
   ],
   "past": []

@@ -1,0 +1,39 @@
+{
+  "id": "188788",
+  "name": "Big Bells Digital",
+  "upcoming": [
+    {
+      "id": "ra:2466273",
+      "title": "Big Bells x Audiosolo ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466273"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "28723",
+      "name": "Adnan Jakubovic",
+      "count": 1
+    },
+    {
+      "id": "184788",
+      "name": "Arrakis (GER)",
+      "count": 1
+    },
+    {
+      "id": "39640",
+      "name": "DJ Ruby",
+      "count": 1
+    },
+    {
+      "id": "51281",
+      "name": "Mir Omar",
+      "count": 1
+    }
+  ]
+}

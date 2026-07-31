@@ -32,6 +32,16 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2474416",
+      "title": "DGTL ADE Friday Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474416"
     }
   ],
   "past": []

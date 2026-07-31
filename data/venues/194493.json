@@ -6,26 +6,6 @@
   "lng": 4.903617,
   "upcoming": [
     {
-      "id": "ra:2494173",
-      "title": "Baile Trama",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494173"
-    },
-    {
-      "id": "ra:2479635",
-      "title": "Ziongate",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479635"
-    },
-    {
       "id": "ra:2485428",
       "title": "HYPERPRIDE",
       "date": "2026-08-08",
@@ -54,7 +34,38 @@
       "venue_id": "194493",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2413490"
+    },
+    {
+      "id": "ra:2479575",
+      "title": "DESCENDANTS - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479575"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2479635",
+      "title": "Ziongate",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479635"
+    },
+    {
+      "id": "ra:2494173",
+      "title": "Baile Trama",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494173"
+    }
+  ]
 }

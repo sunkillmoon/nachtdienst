@@ -3,36 +3,6 @@
   "name": "Doka Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2453384",
-      "title": "Doka Summer Studio x Last Seen",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453384"
-    },
-    {
-      "id": "ra:2453390",
-      "title": "Doka Summer Studio x Jaguar House",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453390"
-    },
-    {
-      "id": "ra:2486663",
-      "title": "Coco Coquelicot masterclass & club night (World Pride)",
-      "date": "2026-07-30",
-      "start": "2026-07-30T22:00+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2486663"
-    },
-    {
       "id": "ra:2470216",
       "title": "Jezabel x Doka Studio (World Pride)",
       "date": "2026-07-31",
@@ -51,50 +21,101 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489606"
+    },
+    {
+      "id": "ra:2500884",
+      "title": "Doka Studio with Colored Craig - Fais Le Beau",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500884"
+    },
+    {
+      "id": "ra:2500888",
+      "title": "Polychrome x Doka Studio with Faited - Tanzverbot",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500888"
+    },
+    {
+      "id": "ra:2500890",
+      "title": "Doka Studio with Antal (All night long)",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500890"
+    },
+    {
+      "id": "ra:2500891",
+      "title": "Ciranda Sundays x Doka Studio with TBA",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500891"
+    },
+    {
+      "id": "ra:2500895",
+      "title": "Likeminded x Doka Studio with TBA",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500895"
+    },
+    {
+      "id": "ra:2500899",
+      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500899"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2486663",
+      "title": "Coco Coquelicot masterclass & club night (World Pride)",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2486663"
+    },
+    {
+      "id": "ra:2453390",
+      "title": "Doka Summer Studio x Jaguar House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453390"
+    },
+    {
+      "id": "ra:2453384",
+      "title": "Doka Summer Studio x Last Seen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453384"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "115969",
-      "name": "no service",
-      "count": 1
-    },
-    {
-      "id": "169785",
-      "name": "Gizem",
-      "count": 1
-    },
-    {
-      "id": "14330",
-      "name": "Mary Olivetti",
-      "count": 1
-    },
-    {
-      "id": "114185",
-      "name": "da Graca Brothers",
-      "count": 1
-    },
-    {
-      "id": "60735",
-      "name": "Franco Strato",
-      "count": 1
-    },
-    {
-      "id": "141268",
-      "name": "Coco Coquelicot",
-      "count": 1
-    },
-    {
-      "id": "112619",
-      "name": "Shady Lady",
-      "count": 1
-    },
-    {
-      "id": "85310",
-      "name": "MMIV",
-      "count": 1
-    },
     {
       "id": "2897",
       "name": "Tama Sumo",
@@ -103,6 +124,46 @@
     {
       "id": "115828",
       "name": "Rob Manga",
+      "count": 1
+    },
+    {
+      "id": "120531",
+      "name": "some out of none",
+      "count": 1
+    },
+    {
+      "id": "98382",
+      "name": "Colored Craig",
+      "count": 1
+    },
+    {
+      "id": "90391",
+      "name": "Fais Le Beau",
+      "count": 1
+    },
+    {
+      "id": "109785",
+      "name": "Faited",
+      "count": 1
+    },
+    {
+      "id": "13075",
+      "name": "Antal",
+      "count": 1
+    },
+    {
+      "id": "24930",
+      "name": "De Sluwe Vos",
+      "count": 1
+    },
+    {
+      "id": "42033",
+      "name": "Theo Kottis",
+      "count": 1
+    },
+    {
+      "id": "115969",
+      "name": "no service",
       "count": 1
     }
   ]

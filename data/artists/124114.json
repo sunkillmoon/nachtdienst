@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2495565",
+      "title": "FERMI presents... Dita & Ezza",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495565"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2494143",
       "title": "Dita",
       "date": "2026-07-30",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494143"
     }
-  ],
-  "past": []
+  ]
 }

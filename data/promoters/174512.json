@@ -1,7 +1,8 @@
 {
   "id": "174512",
   "name": "DnB XL",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483518",
       "title": "DnB XL meets Known Associates",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2483518"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "58337",

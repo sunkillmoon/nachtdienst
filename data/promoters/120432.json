@@ -1,0 +1,44 @@
+{
+  "id": "120432",
+  "name": "Levenslang Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2491610",
+      "title": "Somov at Levenslang (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "70323",
+      "name": "Fadi Mohem",
+      "count": 1
+    },
+    {
+      "id": "70860",
+      "name": "Ignez",
+      "count": 1
+    },
+    {
+      "id": "88211",
+      "name": "Polygonia",
+      "count": 1
+    },
+    {
+      "id": "28755",
+      "name": "Rrose",
+      "count": 1
+    },
+    {
+      "id": "166039",
+      "name": "Wala",
+      "count": 1
+    }
+  ]
+}

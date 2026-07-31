@@ -1,0 +1,28 @@
+{
+  "id": "170047",
+  "name": "Lasse",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2501507",
+      "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501507"
+    },
+    {
+      "id": "ra:2492405",
+      "title": "LNR - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    }
+  ],
+  "past": []
+}

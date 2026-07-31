@@ -1,0 +1,49 @@
+{
+  "id": "60746",
+  "name": "Just Movement",
+  "upcoming": [
+    {
+      "id": "ra:2498349",
+      "title": "Meanwhile x Solis Labelshowcase ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498349"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "91914",
+      "name": "Alex O'Rion",
+      "count": 1
+    },
+    {
+      "id": "123862",
+      "name": "Anthony Rhino",
+      "count": 1
+    },
+    {
+      "id": "117566",
+      "name": "Dowden",
+      "count": 1
+    },
+    {
+      "id": "80953",
+      "name": "Kasper Koman",
+      "count": 1
+    },
+    {
+      "id": "17377",
+      "name": "Nicolas Rada",
+      "count": 1
+    },
+    {
+      "id": "36513",
+      "name": "Subandrio",
+      "count": 1
+    }
+  ]
+}

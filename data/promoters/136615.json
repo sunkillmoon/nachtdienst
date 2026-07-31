@@ -1,0 +1,29 @@
+{
+  "id": "136615",
+  "name": "KABUL à GoGo",
+  "upcoming": [
+    {
+      "id": "ra:2502004",
+      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502004"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "148687",
+      "name": "36framez",
+      "count": 1
+    },
+    {
+      "id": "122302",
+      "name": "OG Karin",
+      "count": 1
+    }
+  ]
+}

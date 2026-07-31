@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493327",
       "title": "PRIDE WORLDWIDE OPENING + PRIDE WALK hosted by Boogie House",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493327"
     }
-  ],
-  "past": []
+  ]
 }

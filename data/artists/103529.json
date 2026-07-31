@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2491420",
+      "title": "New Era ISO session 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491420"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",
       "date": "2026-07-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471661"
     }
-  ],
-  "past": []
+  ]
 }

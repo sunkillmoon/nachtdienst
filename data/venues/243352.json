@@ -6,86 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2422929",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
-      "date": "2026-07-22",
-      "start": "2026-07-22T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422929"
-    },
-    {
-      "id": "ra:2480212",
-      "title": "Mathiéux Presents: Itz3bby, Seb Wes",
-      "date": "2026-07-23",
-      "start": "2026-07-23T22:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480212"
-    },
-    {
-      "id": "ra:2468394",
-      "title": "Mathiéux presents: Itz3bby & Seb Wes",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:59+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2468394"
-    },
-    {
-      "id": "ra:2480214",
-      "title": "Tai Lokun & Queen Saba",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480214"
-    },
-    {
-      "id": "ra:2480215",
-      "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480215"
-    },
-    {
-      "id": "ra:2422934",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
-      "date": "2026-07-29",
-      "start": "2026-07-29T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422934"
-    },
-    {
-      "id": "ra:2480216",
-      "title": "Sweetlips w/ Sirolf, Devo & Housekes, Dino & Brina",
-      "date": "2026-07-30",
-      "start": "2026-07-30T22:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480216"
-    },
-    {
-      "id": "ra:2475598",
-      "title": "Sweetlips",
-      "date": "2026-07-30",
-      "start": "2026-07-30T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475598"
-    },
-    {
       "id": "ra:2480218",
       "title": "Zombies in Miami",
       "date": "2026-07-31",
@@ -107,7 +27,7 @@
     },
     {
       "id": "ra:2422941",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / KRØVØ",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / ROBBY / KRØVØ / CITØ",
       "date": "2026-08-05",
       "start": "2026-08-05T23:00+02:00",
       "venue": "nachbar",
@@ -116,8 +36,38 @@
       "url": "https://ra.co/events/2422941"
     },
     {
+      "id": "ra:2501498",
+      "title": "DJ NIETSCHIETEN & rriddim",
+      "date": "2026-08-06",
+      "start": "2026-08-06T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501498"
+    },
+    {
+      "id": "ra:2501499",
+      "title": "DJ Frank & unaniem & splinter",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501499"
+    },
+    {
+      "id": "ra:2501500",
+      "title": "lizz.e & Lucky Done Gone",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501500"
+    },
+    {
       "id": "ra:2422944",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
       "date": "2026-08-12",
       "start": "2026-08-12T23:00+02:00",
       "venue": "nachbar",
@@ -126,14 +76,74 @@
       "url": "https://ra.co/events/2422944"
     },
     {
+      "id": "ra:2501501",
+      "title": "Bubbling Baby",
+      "date": "2026-08-13",
+      "start": "2026-08-13T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501501"
+    },
+    {
+      "id": "ra:2501503",
+      "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501503"
+    },
+    {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
+    {
       "id": "ra:2422946",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
       "date": "2026-08-19",
       "start": "2026-08-19T23:00+02:00",
       "venue": "nachbar",
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2422946"
+    },
+    {
+      "id": "ra:2501505",
+      "title": "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois",
+      "date": "2026-08-20",
+      "start": "2026-08-20T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501505"
+    },
+    {
+      "id": "ra:2501506",
+      "title": "Solit b2b Nathan Homan",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501506"
+    },
+    {
+      "id": "ra:2501507",
+      "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501507"
     },
     {
       "id": "ra:2422949",
@@ -144,6 +154,36 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2422949"
+    },
+    {
+      "id": "ra:2501509",
+      "title": "Passion DEEZ & Friends",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501509"
+    },
+    {
+      "id": "ra:2501510",
+      "title": "angelboy & Schwesta P",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501510"
+    },
+    {
+      "id": "ra:2501512",
+      "title": "Ultrabruma (Brenda & Maria Manuela)",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501512"
     },
     {
       "id": "ra:2422966",
@@ -157,6 +197,86 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2475598",
+      "title": "Sweetlips",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475598"
+    },
+    {
+      "id": "ra:2480216",
+      "title": "Sweetlips w/ Sirolf, Devo & Housekes, Dino & Brina",
+      "date": "2026-07-30",
+      "start": "2026-07-30T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480216"
+    },
+    {
+      "id": "ra:2422934",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
+      "date": "2026-07-29",
+      "start": "2026-07-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422934"
+    },
+    {
+      "id": "ra:2480215",
+      "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480215"
+    },
+    {
+      "id": "ra:2480214",
+      "title": "Tai Lokun & Queen Saba",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480214"
+    },
+    {
+      "id": "ra:2468394",
+      "title": "Mathiéux presents: Itz3bby & Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:59+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468394"
+    },
+    {
+      "id": "ra:2480212",
+      "title": "Mathiéux Presents: Itz3bby, Seb Wes",
+      "date": "2026-07-23",
+      "start": "2026-07-23T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480212"
+    },
+    {
+      "id": "ra:2422929",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422929"
+    },
     {
       "id": "ra:2480211",
       "title": "Playhaus w/ Di² b2b rkeat, JØRDY & Prance",

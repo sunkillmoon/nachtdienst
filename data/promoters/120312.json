@@ -3,26 +3,6 @@
   "name": "Boogie House",
   "upcoming": [
     {
-      "id": "ra:2493327",
-      "title": "PRIDE WORLDWIDE OPENING + PRIDE WALK hosted by Boogie House",
-      "date": "2026-07-25",
-      "start": "2026-07-25T11:00+02:00",
-      "venue": "TBA - DAM SQUARE / VONDELPARK after 14:00",
-      "venue_id": "297834",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493327"
-    },
-    {
-      "id": "ra:2475953",
-      "title": "Vodka Woensdag XXL: Night of the Diva's",
-      "date": "2026-07-29",
-      "start": "2026-07-29T21:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475953"
-    },
-    {
       "id": "ra:2494563",
       "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",
       "date": "2026-08-06",
@@ -41,9 +21,40 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
+    },
+    {
+      "id": "ra:2383070",
+      "title": "Boogie House ADE 2026 SHOWCASE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2383070"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2475953",
+      "title": "Vodka Woensdag XXL: Night of the Diva's",
+      "date": "2026-07-29",
+      "start": "2026-07-29T21:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475953"
+    },
+    {
+      "id": "ra:2493327",
+      "title": "PRIDE WORLDWIDE OPENING + PRIDE WALK hosted by Boogie House",
+      "date": "2026-07-25",
+      "start": "2026-07-25T11:00+02:00",
+      "venue": "TBA - DAM SQUARE / VONDELPARK after 14:00",
+      "venue_id": "297834",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493327"
+    }
+  ],
   "top_artists": [
     {
       "id": "119481",
@@ -61,21 +72,6 @@
       "count": 2
     },
     {
-      "id": "121296",
-      "name": "cera",
-      "count": 1
-    },
-    {
-      "id": "91911",
-      "name": "Matt Suave",
-      "count": 1
-    },
-    {
-      "id": "185245",
-      "name": "The Groovejet",
-      "count": 1
-    },
-    {
       "id": "159640",
       "name": "Pentola",
       "count": 1
@@ -88,6 +84,21 @@
     {
       "id": "102417",
       "name": "Shermanology",
+      "count": 1
+    },
+    {
+      "id": "121296",
+      "name": "cera",
+      "count": 1
+    },
+    {
+      "id": "91911",
+      "name": "Matt Suave",
+      "count": 1
+    },
+    {
+      "id": "185245",
+      "name": "The Groovejet",
       "count": 1
     }
   ]

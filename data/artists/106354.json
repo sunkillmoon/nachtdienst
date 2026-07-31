@@ -32,6 +32,36 @@
       "venue_id": "294777",
       "area": "All",
       "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2464111",
+      "title": "GASHOUDER presents: Sammy Virji Curates",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464111"
     }
   ],
   "past": []

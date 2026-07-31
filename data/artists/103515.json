@@ -32,6 +32,26 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479566"
+    },
+    {
+      "id": "ra:2499718",
+      "title": "RAUM invites One Eye Witness",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499718"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
     }
   ],
   "past": [

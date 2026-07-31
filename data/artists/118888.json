@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488713",
-      "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488713"
-    },
-    {
       "id": "ra:2450489",
       "title": "LIEF Festival",
       "date": "2026-09-05",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2450489"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2488713",
+      "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488713"
+    }
+  ]
 }

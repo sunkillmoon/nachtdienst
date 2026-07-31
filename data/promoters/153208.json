@@ -1,0 +1,29 @@
+{
+  "id": "153208",
+  "name": "PALMBEATS",
+  "upcoming": [
+    {
+      "id": "ra:2502108",
+      "title": "PALMBEATS",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Manii Beach",
+      "venue_id": "287886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502108"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "97085",
+      "name": "Hoani Teano",
+      "count": 1
+    },
+    {
+      "id": "152192",
+      "name": "Sisi Carini",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "88271",
+  "name": "endlessbcn",
+  "upcoming": [
+    {
+      "id": "ra:2399776",
+      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt GIORGIA ANGIULI Juliet Fox",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2399776"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "83198",
+      "name": "Lino Fuso",
+      "count": 1
+    },
+    {
+      "id": "87607",
+      "name": "Marie Vaunt",
+      "count": 1
+    },
+    {
+      "id": "43728",
+      "name": "Giorgia Angiuli",
+      "count": 1
+    },
+    {
+      "id": "21599",
+      "name": "Juliet Fox",
+      "count": 1
+    },
+    {
+      "id": "3437",
+      "name": "Udolph",
+      "count": 1
+    },
+    {
+      "id": "66028",
+      "name": "Alex Sharp",
+      "count": 1
+    },
+    {
+      "id": "127550",
+      "name": "Cambric",
+      "count": 1
+    }
+  ]
+}

@@ -22,6 +22,26 @@
       "venue_id": "297148",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2488123"
+    },
+    {
+      "id": "ra:2498952",
+      "title": "IN TUNE ~~",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2498952"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
     }
   ],
   "past": []

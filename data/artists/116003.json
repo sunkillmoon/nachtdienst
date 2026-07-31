@@ -12,6 +12,16 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2436229"
+    },
+    {
+      "id": "ra:2420664",
+      "title": "UNREAL ADE 2026 x Cloudy ALL DAY LONG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:30+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2420664"
     }
   ],
   "past": []

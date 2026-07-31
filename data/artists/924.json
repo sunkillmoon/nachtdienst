@@ -12,6 +12,16 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2459622",
+      "title": "Lost Miracle ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459622"
     }
   ],
   "past": []

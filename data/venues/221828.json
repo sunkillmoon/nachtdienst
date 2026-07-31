@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.3741373,
   "lng": 4.8936787,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487393",
       "title": "Kadinsky Sessions 074",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487393"
     }
-  ],
-  "past": []
+  ]
 }

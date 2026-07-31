@@ -2,7 +2,8 @@
   "id": "185740",
   "name": "Mathilde Nobel",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489529",
       "title": "Sonic Character Workshop +++ SERENA, Mathilde Nobel and Abusing Machines",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489529"
     }
-  ],
-  "past": []
+  ]
 }

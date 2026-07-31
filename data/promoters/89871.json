@@ -1,0 +1,34 @@
+{
+  "id": "89871",
+  "name": "The Disco Express",
+  "upcoming": [
+    {
+      "id": "ra:2473490",
+      "title": "Madam by Night invites: The Disco Express",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473490"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "144164",
+      "name": "Crystal Touch",
+      "count": 1
+    },
+    {
+      "id": "180357",
+      "name": "Drabes",
+      "count": 1
+    },
+    {
+      "id": "150226",
+      "name": "Nablijven Soundsystem",
+      "count": 1
+    }
+  ]
+}

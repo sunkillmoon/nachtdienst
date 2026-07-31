@@ -3,16 +3,6 @@
   "name": "Complex Maastricht",
   "upcoming": [
     {
-      "id": "ra:2414517",
-      "title": "Complex Festival 2026 Afterparty",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:59+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2414517"
-    },
-    {
       "id": "ra:2445597",
       "title": "Complex Summer with Asphere / Granular Heat / Améli",
       "date": "2026-08-01",
@@ -101,9 +91,40 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2424479"
+    },
+    {
+      "id": "ra:2452193",
+      "title": "Doomslayer IX - Millennium Mayhem",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2452193"
+    },
+    {
+      "id": "ra:2470321",
+      "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470321"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2414517",
+      "title": "Complex Festival 2026 Afterparty",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:59+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2414517"
+    }
+  ],
   "top_artists": [
     {
       "id": "155430",

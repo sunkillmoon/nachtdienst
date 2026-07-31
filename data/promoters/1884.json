@@ -1,0 +1,69 @@
+{
+  "id": "1884",
+  "name": "Defected Records",
+  "upcoming": [
+    {
+      "id": "ra:2475062",
+      "title": "Glitterbox ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475062"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "155929",
+      "name": "Bridge (NY)",
+      "count": 1
+    },
+    {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 1
+    },
+    {
+      "id": "85975",
+      "name": "Eliza Rose",
+      "count": 1
+    },
+    {
+      "id": "117739",
+      "name": "Ella Knight",
+      "count": 1
+    },
+    {
+      "id": "101378",
+      "name": "HoneyLuv",
+      "count": 1
+    },
+    {
+      "id": "8341",
+      "name": "Horse Meat Disco",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "24048",
+      "name": "Melvo Baptiste",
+      "count": 1
+    },
+    {
+      "id": "634",
+      "name": "The Shapeshifters",
+      "count": 1
+    },
+    {
+      "id": "127489",
+      "name": "Tonno Disko",
+      "count": 1
+    }
+  ]
+}

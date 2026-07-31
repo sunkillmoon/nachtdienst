@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2420278",
-      "title": "Overbruggen Summer Series - Colorado Charlie",
-      "date": "2026-07-24",
-      "start": "2026-07-24T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2420278"
-    },
-    {
       "id": "ra:2251187",
       "title": "Daycare Festival",
       "date": "2026-08-08",
@@ -32,7 +22,38 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454703"
+    },
+    {
+      "id": "ra:2473385",
+      "title": "Intercell x Skin On Skin Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473385"
+    },
+    {
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2420278",
+      "title": "Overbruggen Summer Series - Colorado Charlie",
+      "date": "2026-07-24",
+      "start": "2026-07-24T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2420278"
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": "79173",
+  "name": "ZwartGoudNL",
+  "upcoming": [
+    {
+      "id": "ra:2497317",
+      "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497317"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "10350",
+      "name": "Massimiliano Pagliara",
+      "count": 1
+    },
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    },
+    {
+      "id": "186156",
+      "name": "Lex Eco",
+      "count": 1
+    },
+    {
+      "id": "82226",
+      "name": "Jewel",
+      "count": 1
+    },
+    {
+      "id": "127084",
+      "name": "Taylor Taylor",
+      "count": 1
+    }
+  ]
+}

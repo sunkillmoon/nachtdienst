@@ -12,6 +12,26 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494226"
+    },
+    {
+      "id": "ra:2401347",
+      "title": "KI/KI 5 HOURS - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401347"
+    },
+    {
+      "id": "ra:2403373",
+      "title": "KI/KI 5 HOURS DAY/2 - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:30+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403373"
     }
   ],
   "past": []

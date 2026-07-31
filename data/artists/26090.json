@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2438726",
-      "title": "Puur Festival 2026",
-      "date": "2026-07-25",
-      "start": "2026-07-25T14:00+02:00",
-      "venue": "Klinkenbergerplas, Oegstgeest",
-      "venue_id": "113031",
-      "area": "All",
-      "url": "https://ra.co/events/2438726"
-    },
-    {
       "id": "ra:2450489",
       "title": "LIEF Festival",
       "date": "2026-09-05",
@@ -22,7 +12,48 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2498905",
+      "title": "PIV ADE - Shelter Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498905"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2438726",
+      "title": "Puur Festival 2026",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "Klinkenbergerplas, Oegstgeest",
+      "venue_id": "113031",
+      "area": "All",
+      "url": "https://ra.co/events/2438726"
+    }
+  ]
 }

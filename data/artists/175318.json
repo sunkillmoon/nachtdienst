@@ -2,16 +2,17 @@
   "id": "175318",
   "name": "LockOut",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2495325",
-      "title": "Allstate Insurance Home Insurance — Coverage, Pricing, and Bill Pay 2026",
+      "id": "ra:2495259",
+      "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",
       "date": "2026-07-25",
       "start": "2026-07-25T23:00+02:00",
-      "venue": "Club 11",
-      "venue_id": "4851",
+      "venue": "NDSM Docklands",
+      "venue_id": "4859",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2495325"
+      "url": "https://ra.co/events/2495259"
     },
     {
       "id": "ra:2495285",
@@ -24,15 +25,14 @@
       "url": "https://ra.co/events/2495285"
     },
     {
-      "id": "ra:2495259",
-      "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",
+      "id": "ra:2495325",
+      "title": "Allstate Insurance Home Insurance — Coverage, Pricing, and Bill Pay 2026",
       "date": "2026-07-25",
       "start": "2026-07-25T23:00+02:00",
-      "venue": "NDSM Docklands",
-      "venue_id": "4859",
+      "venue": "Club 11",
+      "venue_id": "4851",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2495259"
+      "url": "https://ra.co/events/2495325"
     }
-  ],
-  "past": []
+  ]
 }

@@ -12,6 +12,16 @@
       "venue_id": "288289",
       "area": "Utrecht",
       "url": "https://ra.co/events/2400580"
+    },
+    {
+      "id": "ra:2470628",
+      "title": "ADE - MASONICS",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470628"
     }
   ],
   "past": []

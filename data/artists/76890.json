@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2494330",
+      "title": "Avalon Emerson pres. 9000 Dreams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494330"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",
       "date": "2026-07-25",
@@ -13,6 +35,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2357461"
     }
-  ],
-  "past": []
+  ]
 }

@@ -12,6 +12,46 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2496559",
+      "title": "Archie Hamilton, DXNBY, Jhobei",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496559"
+    },
+    {
+      "id": "ra:2469789",
+      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469789"
+    },
+    {
+      "id": "ra:2481524",
+      "title": "WHATSNEW X Rinse FM - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481524"
+    },
+    {
+      "id": "ra:2498843",
+      "title": "ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498843"
     }
   ],
   "past": []

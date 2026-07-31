@@ -1,0 +1,18 @@
+{
+  "id": "35183",
+  "name": "E&A Events",
+  "upcoming": [
+    {
+      "id": "ra:2479277",
+      "title": "HALŌ ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479277"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

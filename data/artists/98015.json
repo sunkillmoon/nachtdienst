@@ -15,13 +15,23 @@
     },
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2442667",
+      "title": "Max Dean & Wavy present: NEXUP [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2442667"
     }
   ],
   "past": []

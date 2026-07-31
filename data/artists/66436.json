@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2471398",
       "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
       "date": "2026-09-11",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2471398"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    }
+  ]
 }

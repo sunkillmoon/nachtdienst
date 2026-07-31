@@ -4,7 +4,8 @@
   "area": "All",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2451995",
       "title": "Summer Beach Party & BBQ",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2451995"
     }
-  ],
-  "past": []
+  ]
 }

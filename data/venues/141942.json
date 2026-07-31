@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.357454,
   "lng": 4.899154,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487909",
       "title": "AFTERS: Summer Edition",
@@ -14,9 +15,7 @@
       "venue_id": "141942",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487909"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2463999",
       "title": "Radio Dwars",

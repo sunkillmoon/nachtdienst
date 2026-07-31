@@ -1,0 +1,39 @@
+{
+  "id": "130703",
+  "name": "John Doe Amsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2489981",
+      "title": "S1N3RGY COLLECTIVE PRESENTS: 30 YEARS OF ADE - SPECIAL HARD TECHNO RAVE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489981"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "140581",
+      "name": "Billy Currie",
+      "count": 1
+    },
+    {
+      "id": "153804",
+      "name": "DMS1N3RGY",
+      "count": 1
+    },
+    {
+      "id": "105638",
+      "name": "KR:KD K",
+      "count": 1
+    },
+    {
+      "id": "153636",
+      "name": "TEKON",
+      "count": 1
+    }
+  ]
+}

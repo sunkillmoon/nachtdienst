@@ -3,36 +3,6 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477372",
-      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
-      "date": "2026-07-23",
-      "start": "2026-07-23T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477372"
-    },
-    {
-      "id": "ra:2493300",
-      "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
-      "date": "2026-07-27",
-      "start": "2026-07-27T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493300"
-    },
-    {
-      "id": "ra:2477375",
-      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
-      "date": "2026-07-30",
-      "start": "2026-07-30T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477375"
-    },
-    {
       "id": "ra:2477378",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-06",
@@ -85,6 +55,36 @@
   ],
   "past": [
     {
+      "id": "ra:2477375",
+      "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
+      "date": "2026-07-30",
+      "start": "2026-07-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477375"
+    },
+    {
+      "id": "ra:2493300",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",
+      "date": "2026-07-27",
+      "start": "2026-07-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493300"
+    },
+    {
+      "id": "ra:2477372",
+      "title": "Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA",
+      "date": "2026-07-23",
+      "start": "2026-07-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477372"
+    },
+    {
       "id": "ra:2477905",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
       "date": "2026-07-20",
@@ -112,13 +112,13 @@
       "count": 2
     },
     {
-      "id": "21842",
-      "name": "Durcheinander",
+      "id": "158939",
+      "name": "QV (1)",
       "count": 1
     },
     {
-      "id": "158939",
-      "name": "QV (1)",
+      "id": "21842",
+      "name": "Durcheinander",
       "count": 1
     }
   ]

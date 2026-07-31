@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2489981",
+      "title": "S1N3RGY COLLECTIVE PRESENTS: 30 YEARS OF ADE - SPECIAL HARD TECHNO RAVE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489981"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2438860",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Robin Hastings [CL], DMS1N3RGY [NL], Divain [LT], Nekso ",
       "date": "2026-07-25",
@@ -12,9 +24,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2438860"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2479449",
       "title": "CODE 303 x UNDRGRND",

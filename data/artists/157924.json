@@ -2,7 +2,8 @@
   "id": "157924",
   "name": "Krai",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462890",
       "title": "PRIDE - PLUG & PLAY",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462890"
     }
-  ],
-  "past": []
+  ]
 }

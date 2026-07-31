@@ -1,0 +1,20 @@
+{
+  "id": "188627",
+  "name": "Borisov Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.395403,
+  "lng": 4.875843,
+  "upcoming": [
+    {
+      "id": "ra:2497540",
+      "title": "STC #053",
+      "date": "2026-08-13",
+      "start": "2026-08-13T19:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497540"
+    }
+  ],
+  "past": []
+}

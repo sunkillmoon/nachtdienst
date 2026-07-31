@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2500811",
+      "title": "TOFFLER presents Locky (3HR set)",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500811"
+    },
+    {
+      "id": "ra:2444784",
+      "title": "GASHOUDER presents: Mochakk CALLING",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444784"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",
       "date": "2026-07-25",
@@ -12,17 +44,6 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471661"
-    },
-    {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
     }
-  ],
-  "past": []
+  ]
 }

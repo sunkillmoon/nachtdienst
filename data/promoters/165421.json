@@ -1,7 +1,8 @@
 {
   "id": "165421",
   "name": "OIWA Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2397297",
       "title": "OIWA Beach Festival 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2397297"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "174315",

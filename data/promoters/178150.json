@@ -1,0 +1,24 @@
+{
+  "id": "178150",
+  "name": "Sweet Nothing",
+  "upcoming": [
+    {
+      "id": "ra:2449265",
+      "title": "Pegassi All Day - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449265"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117719",
+      "name": "Pegassi",
+      "count": 1
+    }
+  ]
+}

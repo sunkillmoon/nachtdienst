@@ -12,6 +12,26 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2485024"
+    },
+    {
+      "id": "ra:2488526",
+      "title": "Vault Sessions ADE - TILLATEC",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488526"
+    },
+    {
+      "id": "ra:2489700",
+      "title": "AURA ADE Special with Hayes Collective",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489700"
     }
   ],
   "past": []

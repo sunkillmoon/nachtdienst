@@ -12,6 +12,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2473316",
+      "title": "Intercell x 999999999 Invites | ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473316"
     }
   ],
   "past": []

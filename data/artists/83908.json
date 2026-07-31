@@ -12,6 +12,26 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2470628",
+      "title": "ADE - MASONICS",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470628"
+    },
+    {
+      "id": "ra:2475090",
+      "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475090"
     }
   ],
   "past": []

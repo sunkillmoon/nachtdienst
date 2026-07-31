@@ -1,0 +1,69 @@
+{
+  "id": "87874",
+  "name": "EXHALE",
+  "upcoming": [
+    {
+      "id": "ra:2475096",
+      "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475096"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "61166",
+      "name": "Amelie Lens",
+      "count": 1
+    },
+    {
+      "id": "45485",
+      "name": "Adiel",
+      "count": 1
+    },
+    {
+      "id": "66408",
+      "name": "HAAi",
+      "count": 1
+    },
+    {
+      "id": "79856",
+      "name": "Anfisa Letyago",
+      "count": 1
+    },
+    {
+      "id": "150899",
+      "name": "BLONDEX",
+      "count": 1
+    },
+    {
+      "id": "11733",
+      "name": "DAX J",
+      "count": 1
+    },
+    {
+      "id": "17327",
+      "name": "DJ Nobu",
+      "count": 1
+    },
+    {
+      "id": "124962",
+      "name": "Ellen Trenn",
+      "count": 1
+    },
+    {
+      "id": "134086",
+      "name": "Flour",
+      "count": 1
+    },
+    {
+      "id": "64279",
+      "name": "Grace Dahl",
+      "count": 1
+    }
+  ]
+}

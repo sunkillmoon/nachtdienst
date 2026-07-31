@@ -1,0 +1,49 @@
+{
+  "id": "157261",
+  "name": "Signal NYC",
+  "upcoming": [
+    {
+      "id": "ra:2496555",
+      "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496555"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "145777",
+      "name": "Foghan",
+      "count": 1
+    },
+    {
+      "id": "75352",
+      "name": "Nathan Homan",
+      "count": 1
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "92723",
+      "name": "J. Richards",
+      "count": 1
+    },
+    {
+      "id": "78508",
+      "name": "Gian-Paul",
+      "count": 1
+    }
+  ]
+}

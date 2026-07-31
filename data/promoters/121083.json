@@ -1,7 +1,8 @@
 {
   "id": "121083",
   "name": "HOTBOX.EVENTS",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481713",
       "title": "HOTBOX",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2481713"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "167583",

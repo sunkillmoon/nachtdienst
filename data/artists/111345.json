@@ -1,0 +1,28 @@
+{
+  "id": "111345",
+  "name": "Kabeaushé",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2451874",
+      "title": "I.S.U.I.L.P TOUR 26",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:00+01:00",
+      "venue": "Rotown",
+      "venue_id": "9040",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2451874"
+    },
+    {
+      "id": "ra:2451890",
+      "title": "I.S.U.I.L.P TOUR 26",
+      "date": "2026-10-29",
+      "start": "2026-10-29T22:00+01:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451890"
+    }
+  ],
+  "past": []
+}

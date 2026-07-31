@@ -32,6 +32,16 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
     }
   ],
   "past": []

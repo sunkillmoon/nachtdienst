@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.367068,
   "lng": 4.868224,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2485804",
       "title": "Ray-Ban Red Experience",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2485804"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "117271",
   "name": "LAUZ",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488763",
       "title": "BASIS Talent Night/ LAUZ/ LOYK/ Nito/ S.H.A.R.P",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2488763"
     }
-  ],
-  "past": []
+  ]
 }

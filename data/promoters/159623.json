@@ -1,0 +1,69 @@
+{
+  "id": "159623",
+  "name": "Theoryxmusic",
+  "upcoming": [
+    {
+      "id": "ra:2407995",
+      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2407995"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "5617",
+      "name": "Sezer Uysal",
+      "count": 1
+    },
+    {
+      "id": "27",
+      "name": "Timo Maas",
+      "count": 1
+    },
+    {
+      "id": "3861",
+      "name": "James Harcourt",
+      "count": 1
+    },
+    {
+      "id": "131499",
+      "name": "ALADAG",
+      "count": 1
+    },
+    {
+      "id": "170210",
+      "name": "OZBEK",
+      "count": 1
+    },
+    {
+      "id": "79485",
+      "name": "VIIA",
+      "count": 1
+    },
+    {
+      "id": "76562",
+      "name": "Baime",
+      "count": 1
+    },
+    {
+      "id": "184979",
+      "name": "LAMPETEE",
+      "count": 1
+    },
+    {
+      "id": "32758",
+      "name": "Emanate",
+      "count": 1
+    },
+    {
+      "id": "168931",
+      "name": "FAITH",
+      "count": 1
+    }
+  ]
+}

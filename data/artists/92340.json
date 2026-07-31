@@ -2,7 +2,8 @@
   "id": "92340",
   "name": "atomo",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2475528",
       "title": "Discosabotage summer issue 25.07.26",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2475528"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "298553",
+  "name": "Oase",
+  "area": "Rotterdam",
+  "lat": 51.9,
+  "lng": 4.45,
+  "upcoming": [
+    {
+      "id": "ra:2499845",
+      "title": "weave",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Oase",
+      "venue_id": "298553",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2499845"
+    }
+  ],
+  "past": []
+}

@@ -6,16 +6,6 @@
   "lng": 4.850118,
   "upcoming": [
     {
-      "id": "ra:2459288",
-      "title": "Zeedyke Sloterdyke Edition",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2459288"
-    },
-    {
       "id": "ra:2464093",
       "title": "Dekmantel At Night - Friday",
       "date": "2026-07-31",
@@ -66,5 +56,16 @@
       "url": "https://ra.co/events/2467439"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2459288",
+      "title": "Zeedyke Sloterdyke Edition",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459288"
+    }
+  ]
 }

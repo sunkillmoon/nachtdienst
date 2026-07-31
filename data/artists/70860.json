@@ -22,6 +22,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452089"
+    },
+    {
+      "id": "ra:2491610",
+      "title": "Somov at Levenslang (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
     }
   ],
   "past": []

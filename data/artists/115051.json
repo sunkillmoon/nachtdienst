@@ -22,6 +22,26 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2479334"
+    },
+    {
+      "id": "ra:2500811",
+      "title": "TOFFLER presents Locky (3HR set)",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500811"
+    },
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
     }
   ],
   "past": []

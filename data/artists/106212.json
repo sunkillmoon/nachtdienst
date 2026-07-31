@@ -2,7 +2,8 @@
   "id": "106212",
   "name": "Bertie",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488834",
       "title": "CLUB GOTO: PINK WEDNESDAY",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488834"
     }
-  ],
-  "past": []
+  ]
 }

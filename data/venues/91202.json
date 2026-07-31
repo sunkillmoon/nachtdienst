@@ -6,26 +6,6 @@
   "lng": 4.826431,
   "upcoming": [
     {
-      "id": "ra:2447897",
-      "title": "Closer Milano - RADION CLUB TOUR",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2447897"
-    },
-    {
-      "id": "ra:2452159",
-      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2452159"
-    },
-    {
       "id": "ra:2464183",
       "title": "Dekmantel At Night - Friday",
       "date": "2026-07-31",
@@ -86,6 +66,16 @@
       "url": "https://ra.co/events/2479292"
     },
     {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
+    {
       "id": "ra:2494196",
       "title": "GEGEN AMSTERDAM",
       "date": "2026-10-10",
@@ -94,9 +84,99 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494196"
+    },
+    {
+      "id": "ra:2492405",
+      "title": "LNR - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2470624",
+      "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2489700",
+      "title": "AURA ADE Special with Hayes Collective",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489700"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2490011",
+      "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490011"
+    },
+    {
+      "id": "ra:2494410",
+      "title": "Second Wind",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494410"
+    },
+    {
+      "id": "ra:2491349",
+      "title": "Vault Sessions x Key Vinyl ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491349"
     }
   ],
   "past": [
+    {
+      "id": "ra:2452159",
+      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452159"
+    },
+    {
+      "id": "ra:2447897",
+      "title": "Closer Milano - RADION CLUB TOUR",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447897"
+    },
     {
       "id": "ra:2471494",
       "title": "RADION invites Antidote",

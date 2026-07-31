@@ -1,0 +1,40 @@
+{
+  "id": "89523",
+  "name": "Veronica Schip",
+  "area": "Amsterdam",
+  "lat": 52.401372,
+  "lng": 4.890246,
+  "upcoming": [
+    {
+      "id": "ra:2408142",
+      "title": "OUTKZT ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2408142"
+    },
+    {
+      "id": "ra:2475720",
+      "title": "RKP presents ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475720"
+    },
+    {
+      "id": "ra:2502005",
+      "title": "ORIGINS x Deep Echoes pres. ALL HANDS ON DECK",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502005"
+    }
+  ],
+  "past": []
+}

@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494137",
-      "title": "Loradeniz",
-      "date": "2026-07-23",
-      "start": "2026-07-23T21:00+02:00",
-      "venue": "San Francisco",
-      "venue_id": "250599",
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2494137"
-    },
+      "url": "https://ra.co/events/2458162"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2351984"
     },
     {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
+      "id": "ra:2494137",
+      "title": "Loradeniz",
+      "date": "2026-07-23",
+      "start": "2026-07-23T21:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
+      "url": "https://ra.co/events/2494137"
     }
-  ],
-  "past": []
+  ]
 }

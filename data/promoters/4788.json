@@ -14,5 +14,16 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "8341",
+      "name": "Horse Meat Disco",
+      "count": 1
+    },
+    {
+      "id": "108902",
+      "name": "Robin Flux",
+      "count": 1
+    }
+  ]
 }

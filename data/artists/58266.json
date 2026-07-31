@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2385640"
     },
     {
+      "id": "ra:2501500",
+      "title": "lizz.e & Lucky Done Gone",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501500"
+    },
+    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -52,6 +62,16 @@
       "venue_id": "280996",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2465233"
+    },
+    {
+      "id": "ra:2451944",
+      "title": "BURST presents TLM - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451944"
     }
   ],
   "past": [

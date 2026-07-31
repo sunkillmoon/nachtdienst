@@ -1,0 +1,54 @@
+{
+  "id": "187036",
+  "name": "Uphoria",
+  "upcoming": [
+    {
+      "id": "ra:2499737",
+      "title": "Uphoria x Roots",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2499737"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "144917",
+      "name": "Mocrosoft",
+      "count": 1
+    },
+    {
+      "id": "181563",
+      "name": "DJ Soyboy",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    },
+    {
+      "id": "109772",
+      "name": "CHEM:EX",
+      "count": 1
+    },
+    {
+      "id": "157401",
+      "name": "Argento",
+      "count": 1
+    },
+    {
+      "id": "140973",
+      "name": "VOLPEVOLPE",
+      "count": 1
+    },
+    {
+      "id": "182655",
+      "name": "Mattie (2)",
+      "count": 1
+    }
+  ]
+}

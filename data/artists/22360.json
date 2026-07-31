@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2235347",
-      "title": "Liquicity Festival 2026",
-      "date": "2026-07-24",
-      "start": "2026-07-24T11:00+02:00",
-      "venue": "Geestmerambacht",
-      "venue_id": "18674",
-      "area": "All",
-      "url": "https://ra.co/events/2235347"
-    },
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2351984"
     },
     {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
+      "id": "ra:2235347",
+      "title": "Liquicity Festival 2026",
+      "date": "2026-07-24",
+      "start": "2026-07-24T11:00+02:00",
+      "venue": "Geestmerambacht",
+      "venue_id": "18674",
+      "area": "All",
+      "url": "https://ra.co/events/2235347"
     }
-  ],
-  "past": []
+  ]
 }

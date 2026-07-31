@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.39,
   "lng": 4.92,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478320",
       "title": "BREAKGLASS - Launch Party",
@@ -14,9 +15,7 @@
       "venue_id": "264224",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478320"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488125",
       "title": "Club Ecology // Simon Deschamps // quasistate // with Project X",

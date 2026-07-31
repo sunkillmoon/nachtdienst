@@ -1,0 +1,28 @@
+{
+  "id": "116220",
+  "name": "STÜM",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2473368",
+      "title": "Intercell x Glitch | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473368"
+    },
+    {
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
+    }
+  ],
+  "past": []
+}

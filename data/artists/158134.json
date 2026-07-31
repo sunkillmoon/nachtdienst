@@ -12,6 +12,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456912"
+    },
+    {
+      "id": "ra:2496550",
+      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496550"
     }
   ],
   "past": []

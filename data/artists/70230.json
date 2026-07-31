@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2496546",
+      "title": "Ryan Elliott b2b Pancratio, Naomi",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496546"
+    },
+    {
+      "id": "ra:2469789",
+      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469789"
+    },
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
       "date": "2026-07-25",
@@ -13,6 +45,5 @@
       "area": "All",
       "url": "https://ra.co/events/2439763"
     }
-  ],
-  "past": []
+  ]
 }

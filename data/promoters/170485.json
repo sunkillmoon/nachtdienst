@@ -3,16 +3,6 @@
   "name": "Go-Cosmic",
   "upcoming": [
     {
-      "id": "ra:2494714",
-      "title": "Go Cosmic with AnnaM, Be.a.son",
-      "date": "2026-07-30",
-      "start": "2026-07-30T20:00+02:00",
-      "venue": "Kashmir Lounge",
-      "venue_id": "37682",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494714"
-    },
-    {
       "id": "ra:2489006",
       "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
       "date": "2026-08-08",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2489006"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2494714",
+      "title": "Go Cosmic with AnnaM, Be.a.son",
+      "date": "2026-07-30",
+      "start": "2026-07-30T20:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494714"
+    }
+  ],
   "top_artists": [
     {
       "id": "177904",

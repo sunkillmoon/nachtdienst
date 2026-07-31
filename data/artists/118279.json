@@ -2,7 +2,8 @@
   "id": "118279",
   "name": "Dennis Free",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491746",
       "title": "Normaal Sounds: Across The Pond",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491746"
     }
-  ],
-  "past": []
+  ]
 }

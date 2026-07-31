@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2320346",
-      "title": "No Art Closing Festival",
-      "date": "2026-07-25",
-      "start": "2026-07-25T12:00+02:00",
-      "venue": "Flevopark",
-      "venue_id": "121137",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2320346"
-    },
-    {
-      "id": "ra:2354081",
-      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
-      "date": "2026-07-25",
-      "start": "2026-07-25T13:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2354081"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -42,7 +22,38 @@
       "venue_id": "280996",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2465233"
+    },
+    {
+      "id": "ra:2432349",
+      "title": "MALUGI - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2432349"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2320346",
+      "title": "No Art Closing Festival",
+      "date": "2026-07-25",
+      "start": "2026-07-25T12:00+02:00",
+      "venue": "Flevopark",
+      "venue_id": "121137",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2320346"
+    },
+    {
+      "id": "ra:2354081",
+      "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",
+      "date": "2026-07-25",
+      "start": "2026-07-25T13:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2354081"
+    }
+  ]
 }

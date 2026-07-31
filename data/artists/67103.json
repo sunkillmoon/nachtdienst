@@ -22,6 +22,26 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2475090",
+      "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475090"
+    },
+    {
+      "id": "ra:2473386",
+      "title": "Intercell x SPFDJ Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473386"
     }
   ],
   "past": []

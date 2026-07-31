@@ -1,7 +1,8 @@
 {
   "id": "164591",
   "name": "Sweetlips",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2475598",
       "title": "Sweetlips",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2475598"
     }
   ],
-  "past": [],
   "top_artists": []
 }

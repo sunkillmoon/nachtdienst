@@ -6,16 +6,6 @@
   "lng": 4.8528354,
   "upcoming": [
     {
-      "id": "ra:2475528",
-      "title": "Discosabotage summer issue 25.07.26",
-      "date": "2026-07-25",
-      "start": "2026-07-25T14:00+02:00",
-      "venue": "CONTACT",
-      "venue_id": "225039",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2475528"
-    },
-    {
       "id": "ra:2469432",
       "title": "CLUB CONTACT",
       "date": "2026-08-30",
@@ -24,7 +14,28 @@
       "venue_id": "225039",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469432"
+    },
+    {
+      "id": "ra:2499299",
+      "title": "Discosabotage & 2lovers present Onur Özer",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499299"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2475528",
+      "title": "Discosabotage summer issue 25.07.26",
+      "date": "2026-07-25",
+      "start": "2026-07-25T14:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475528"
+    }
+  ]
 }

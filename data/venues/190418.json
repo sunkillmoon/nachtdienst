@@ -1,0 +1,60 @@
+{
+  "id": "190418",
+  "name": "RAWFACTORY",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2475090",
+      "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475090"
+    },
+    {
+      "id": "ra:2502427",
+      "title": "Audio Obscura x Thusday House Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502427"
+    },
+    {
+      "id": "ra:2475096",
+      "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475096"
+    },
+    {
+      "id": "ra:2502429",
+      "title": "Audio Obscura x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
+    },
+    {
+      "id": "ra:2478046",
+      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478046"
+    }
+  ],
+  "past": []
+}

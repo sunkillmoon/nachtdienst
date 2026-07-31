@@ -1,0 +1,28 @@
+{
+  "id": "82940",
+  "name": "Eichenbaum",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2500689",
+      "title": "Eichenbaum all-night-long",
+      "date": "2026-08-07",
+      "start": "2026-08-07T20:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500689"
+    },
+    {
+      "id": "ra:2458450",
+      "title": "We are lost ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458450"
+    }
+  ],
+  "past": []
+}

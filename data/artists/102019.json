@@ -22,6 +22,26 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2490556"
+    },
+    {
+      "id": "ra:2473390",
+      "title": "Intercell x Yanamaste Invites - ADE By Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473390"
+    },
+    {
+      "id": "ra:2491349",
+      "title": "Vault Sessions x Key Vinyl ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491349"
     }
   ],
   "past": []

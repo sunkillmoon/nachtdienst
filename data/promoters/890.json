@@ -1,0 +1,18 @@
+{
+  "id": "890",
+  "name": "Resident Advisor",
+  "upcoming": [
+    {
+      "id": "ra:2497456",
+      "title": "RA25: Amsterdam - Greenhouse Sessions live",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497456"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "108372",
+  "name": "Guerrilla",
+  "upcoming": [
+    {
+      "id": "ra:2473496",
+      "title": "Madam by Night invites: Guerrilla",
+      "date": "2026-09-26",
+      "start": "2026-09-26T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473496"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "177385",
+      "name": "Nitefield",
+      "count": 1
+    }
+  ]
+}

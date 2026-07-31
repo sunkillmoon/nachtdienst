@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2461747",
-      "title": "AZOTH Roze Woensdag",
-      "date": "2026-07-22",
-      "start": "2026-07-22T23:59+02:00",
-      "venue": "Hubert Nijmegen",
-      "venue_id": "280876",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2461747"
-    },
-    {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
       "date": "2026-09-04",
@@ -22,7 +12,38 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2494395",
+      "title": "Runner's High",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2461747",
+      "title": "AZOTH Roze Woensdag",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:59+02:00",
+      "venue": "Hubert Nijmegen",
+      "venue_id": "280876",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2461747"
+    }
+  ]
 }

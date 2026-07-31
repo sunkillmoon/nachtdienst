@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488586",
-      "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
-      "date": "2026-07-24",
-      "start": "2026-07-24T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488586"
-    },
-    {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
       "date": "2026-08-01",
@@ -52,18 +42,28 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2470321",
+      "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470321"
     }
   ],
   "past": [
     {
-      "id": "ra:2485555",
-      "title": "Subcultuur Nachtvierdaagse",
-      "date": "2026-07-18",
-      "start": "2026-07-18T23:59+02:00",
-      "venue": "De Lindenberg",
-      "venue_id": "80434",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2485555"
+      "id": "ra:2488586",
+      "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
+      "date": "2026-07-24",
+      "start": "2026-07-24T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488586"
     },
     {
       "id": "ra:2357558",
@@ -74,6 +74,16 @@
       "venue_id": null,
       "area": "The Hague",
       "url": "https://ra.co/events/2357558"
+    },
+    {
+      "id": "ra:2485555",
+      "title": "Subcultuur Nachtvierdaagse",
+      "date": "2026-07-18",
+      "start": "2026-07-18T23:59+02:00",
+      "venue": "De Lindenberg",
+      "venue_id": "80434",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2485555"
     }
   ]
 }

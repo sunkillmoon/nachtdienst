@@ -1,0 +1,139 @@
+{
+  "id": "38800",
+  "name": "DGTL ",
+  "upcoming": [
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2474410",
+      "title": "DGTL ADE Tinlicker & Special Guests",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:30+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474410"
+    },
+    {
+      "id": "ra:2474416",
+      "title": "DGTL ADE Friday Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474416"
+    },
+    {
+      "id": "ra:2474432",
+      "title": "DGTL ADE Shimza & Co",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474432"
+    },
+    {
+      "id": "ra:2474424",
+      "title": "DGTL ADE Lane 8 presents This Never Happened",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "De Kromhouthal",
+      "venue_id": "49761",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474424"
+    },
+    {
+      "id": "ra:2474444",
+      "title": "DGTL ADE NOVAH & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474444"
+    },
+    {
+      "id": "ra:2479433",
+      "title": "DGTL ADE FUSE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479433"
+    },
+    {
+      "id": "ra:2474448",
+      "title": "DGTL ADE Folamour All Day Long",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Kromhouthal",
+      "venue_id": "49761",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474448"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "109046",
+      "name": "Benwal",
+      "count": 1
+    },
+    {
+      "id": "34321",
+      "name": "DJ EZ",
+      "count": 1
+    },
+    {
+      "id": "102359",
+      "name": "Dr Dubplate",
+      "count": 1
+    },
+    {
+      "id": "115051",
+      "name": "Locky",
+      "count": 1
+    },
+    {
+      "id": "119338",
+      "name": "Helena Lauwaert",
+      "count": 1
+    },
+    {
+      "id": "114563",
+      "name": "LAMMER",
+      "count": 1
+    },
+    {
+      "id": "95014",
+      "name": "Paige Tomlinson",
+      "count": 1
+    },
+    {
+      "id": "112204",
+      "name": "MPH (1)",
+      "count": 1
+    },
+    {
+      "id": "115530",
+      "name": "Helsloot",
+      "count": 1
+    },
+    {
+      "id": "75875",
+      "name": "Tinlicker",
+      "count": 1
+    }
+  ]
+}

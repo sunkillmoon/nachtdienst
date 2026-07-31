@@ -6,26 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2488586",
-      "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
-      "date": "2026-07-24",
-      "start": "2026-07-24T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488586"
-    },
-    {
-      "id": "ra:2479656",
-      "title": "SLPFNK SUMMER GATHERING - BRET",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479656"
-    },
-    {
       "id": "ra:2488590",
       "title": "HOMOMONUMENT X BRET AFTERHOURS (18+)",
       "date": "2026-07-31",
@@ -96,6 +76,16 @@
       "url": "https://ra.co/events/2493279"
     },
     {
+      "id": "ra:2499918",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499918"
+    },
+    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -104,6 +94,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
+    },
+    {
+      "id": "ra:2501639",
+      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501639"
     },
     {
       "id": "ra:2492190",
@@ -126,6 +126,16 @@
       "url": "https://ra.co/events/2458327"
     },
     {
+      "id": "ra:2495711",
+      "title": "DKMNTL at BRET",
+      "date": "2026-09-06",
+      "start": "2026-09-06T14:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495711"
+    },
+    {
       "id": "ra:2488595",
       "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
       "date": "2026-09-18",
@@ -134,9 +144,59 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488595"
+    },
+    {
+      "id": "ra:2495691",
+      "title": "Lola x BRET - Midas Field Curates",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495691"
+    },
+    {
+      "id": "ra:2498896",
+      "title": "SPADES 12 HOURS",
+      "date": "2026-09-19",
+      "start": "2026-09-19T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498896"
+    },
+    {
+      "id": "ra:2469603",
+      "title": "VBX - BRET - ADE 24.10",
+      "date": "2026-10-23",
+      "start": "2026-10-24T07:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469603"
     }
   ],
   "past": [
+    {
+      "id": "ra:2479656",
+      "title": "SLPFNK SUMMER GATHERING - BRET",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479656"
+    },
+    {
+      "id": "ra:2488586",
+      "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",
+      "date": "2026-07-24",
+      "start": "2026-07-24T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488586"
+    },
     {
       "id": "ra:2483651",
       "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2462151",
+      "title": "TILLATEC invites: KNIT + VESELKA",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462151"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488834",
       "title": "CLUB GOTO: PINK WEDNESDAY",
       "date": "2026-07-22",
@@ -13,6 +25,5 @@
       "area": "All",
       "url": "https://ra.co/events/2488834"
     }
-  ],
-  "past": []
+  ]
 }

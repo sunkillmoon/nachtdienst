@@ -11,6 +11,26 @@
       "venue_id": "222814",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462927"
+    },
+    {
+      "id": "ra:2467254",
+      "title": "Moments",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2467254"
+    },
+    {
+      "id": "ra:2330160",
+      "title": "Dimitri & ISIS ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330160"
     }
   ],
   "past": [],
@@ -18,6 +38,51 @@
     {
       "id": "2144",
       "name": "Tim Green",
+      "count": 1
+    },
+    {
+      "id": "16289",
+      "name": "Guy Mantzur",
+      "count": 1
+    },
+    {
+      "id": "26474",
+      "name": "Antrim",
+      "count": 1
+    },
+    {
+      "id": "73145",
+      "name": "Eli Nissan",
+      "count": 1
+    },
+    {
+      "id": "70028",
+      "name": "Emi Galvan",
+      "count": 1
+    },
+    {
+      "id": "25334",
+      "name": "Sahar Z",
+      "count": 1
+    },
+    {
+      "id": "52447",
+      "name": "Chicola",
+      "count": 1
+    },
+    {
+      "id": "122270",
+      "name": "Kamilo Sanclemente",
+      "count": 1
+    },
+    {
+      "id": "18887",
+      "name": "Stefano Richetta",
+      "count": 1
+    },
+    {
+      "id": "75348",
+      "name": "DJ Zombi",
       "count": 1
     }
   ]

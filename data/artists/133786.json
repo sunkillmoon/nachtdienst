@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2375299"
     },
     {
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502868"
+    },
+    {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
       "date": "2026-08-29",
@@ -32,6 +42,46 @@
       "venue_id": "131709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2475062",
+      "title": "Glitterbox ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475062"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2495676",
+      "title": "Lola x Rinse FM ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495676"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
     }
   ],
   "past": []

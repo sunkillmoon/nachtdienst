@@ -12,6 +12,26 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2495209"
+    },
+    {
+      "id": "ra:2475062",
+      "title": "Glitterbox ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475062"
+    },
+    {
+      "id": "ra:2492762",
+      "title": "Tonno Disko & Friends presents: Armand Van Helden",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492762"
     }
   ],
   "past": []

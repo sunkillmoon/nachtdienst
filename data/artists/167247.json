@@ -2,7 +2,18 @@
   "id": "167247",
   "name": "Piepotelli",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2501503",
+      "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501503"
+    }
+  ],
   "past": [
     {
       "id": "ra:2453374",

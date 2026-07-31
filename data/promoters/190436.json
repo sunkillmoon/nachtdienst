@@ -1,7 +1,8 @@
 {
   "id": "190436",
   "name": "raveconnects",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488560",
       "title": "Tomorrowland Pre Boat Party Weekend 2",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2488560"
     }
   ],
-  "past": [],
   "top_artists": []
 }

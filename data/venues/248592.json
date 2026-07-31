@@ -1,0 +1,20 @@
+{
+  "id": "248592",
+  "name": "Zum Barbarossa",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2394012",
+      "title": "RESONANT - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Zum Barbarossa",
+      "venue_id": "248592",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2394012"
+    }
+  ],
+  "past": []
+}

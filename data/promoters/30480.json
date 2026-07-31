@@ -1,7 +1,8 @@
 {
   "id": "30480",
   "name": "MODULAR | MUSIC",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479892",
       "title": "Modular at the Beach: Bad Boombox 5H",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2479892"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "99930",

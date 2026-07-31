@@ -1,0 +1,20 @@
+{
+  "id": "165440",
+  "name": "Reverse Rotterdam",
+  "area": "Rotterdam",
+  "lat": 51.925462,
+  "lng": 4.475427,
+  "upcoming": [
+    {
+      "id": "ra:2495441",
+      "title": "Music is the Answer Back at Reverse",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "Reverse Rotterdam",
+      "venue_id": "165440",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2495441"
+    }
+  ],
+  "past": []
+}

@@ -11,6 +11,26 @@
       "venue_id": "131709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
     }
   ],
   "past": [],
@@ -18,51 +38,51 @@
     {
       "id": "148687",
       "name": "36framez",
-      "count": 1
-    },
-    {
-      "id": "99930",
-      "name": "Bad Boombox",
-      "count": 1
-    },
-    {
-      "id": "109046",
-      "name": "Benwal",
-      "count": 1
+      "count": 2
     },
     {
       "id": "73940",
       "name": "CARISTA",
-      "count": 1
-    },
-    {
-      "id": "141268",
-      "name": "Coco Coquelicot",
-      "count": 1
-    },
-    {
-      "id": "129734",
-      "name": "Diffrent",
-      "count": 1
-    },
-    {
-      "id": "117642",
-      "name": "Dj Babatr",
-      "count": 1
+      "count": 2
     },
     {
       "id": "81091",
       "name": "Doppelgang",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "102359",
-      "name": "Dr Dubplate",
-      "count": 1
+      "id": "151923",
+      "name": "Emvae",
+      "count": 2
     },
     {
-      "id": "34062",
-      "name": "Elias Mazian",
+      "id": "145217",
+      "name": "Moxes",
+      "count": 2
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 2
+    },
+    {
+      "id": "104385",
+      "name": "Milion",
+      "count": 2
+    },
+    {
+      "id": "106354",
+      "name": "Sam Alfred",
+      "count": 2
+    },
+    {
+      "id": "106084",
+      "name": "Surusinghe",
+      "count": 2
+    },
+    {
+      "id": "99930",
+      "name": "Bad Boombox",
       "count": 1
     }
   ]

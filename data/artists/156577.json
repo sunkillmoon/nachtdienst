@@ -2,7 +2,8 @@
   "id": "156577",
   "name": "Mars O10C",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461747",
       "title": "AZOTH Roze Woensdag",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2461747"
     }
-  ],
-  "past": []
+  ]
 }

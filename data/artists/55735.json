@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2329764",
-      "title": "Audio Obscura Festival",
+      "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
       "start": "2026-08-29T12:00+02:00",
       "venue": "Van Nelle Fabriek",
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2474448",
+      "title": "DGTL ADE Folamour All Day Long",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Kromhouthal",
+      "venue_id": "49761",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474448"
     }
   ],
   "past": []

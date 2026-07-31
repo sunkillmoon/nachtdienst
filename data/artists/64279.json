@@ -1,0 +1,38 @@
+{
+  "id": "64279",
+  "name": "Grace Dahl",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2475096",
+      "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475096"
+    },
+    {
+      "id": "ra:2479114",
+      "title": "Awakenings ADE - Joris Voorn presents Trip To Galaxy",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479114"
+    },
+    {
+      "id": "ra:2491349",
+      "title": "Vault Sessions x Key Vinyl ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491349"
+    }
+  ],
+  "past": []
+}

@@ -6,36 +6,6 @@
   "lng": 4.925604,
   "upcoming": [
     {
-      "id": "ra:2462885",
-      "title": "PRIDE - LET'S STRUT",
-      "date": "2026-07-24",
-      "start": "2026-07-24T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462885"
-    },
-    {
-      "id": "ra:2493208",
-      "title": "Super-Sonic Jam",
-      "date": "2026-07-25",
-      "start": "2026-07-25T18:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493208"
-    },
-    {
-      "id": "ra:2462890",
-      "title": "PRIDE - PLUG & PLAY",
-      "date": "2026-07-25",
-      "start": "2026-07-25T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462890"
-    },
-    {
       "id": "ra:2474056",
       "title": "PRIDE - PRIDE IS A PROTEST",
       "date": "2026-07-31",
@@ -106,6 +76,16 @@
       "url": "https://ra.co/events/2488611"
     },
     {
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
+    },
+    {
       "id": "ra:2470243",
       "title": "PIP BLOM 10 YEARS",
       "date": "2026-09-24",
@@ -134,9 +114,69 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473192"
+    },
+    {
+      "id": "ra:2462899",
+      "title": "ADE - CHAMOS PRESENTS: HAWRAVE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462899"
+    },
+    {
+      "id": "ra:2469789",
+      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469789"
+    },
+    {
+      "id": "ra:2493209",
+      "title": "Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy",
+      "date": "2026-10-29",
+      "start": "2026-10-29T19:30+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493209"
     }
   ],
   "past": [
+    {
+      "id": "ra:2462890",
+      "title": "PRIDE - PLUG & PLAY",
+      "date": "2026-07-25",
+      "start": "2026-07-25T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462890"
+    },
+    {
+      "id": "ra:2493208",
+      "title": "Super-Sonic Jam",
+      "date": "2026-07-25",
+      "start": "2026-07-25T18:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493208"
+    },
+    {
+      "id": "ra:2462885",
+      "title": "PRIDE - LET'S STRUT",
+      "date": "2026-07-24",
+      "start": "2026-07-24T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462885"
+    },
     {
       "id": "ra:2481235",
       "title": "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS",

@@ -1,0 +1,24 @@
+{
+  "id": "108042",
+  "name": "VYBZ",
+  "upcoming": [
+    {
+      "id": "ra:2500221",
+      "title": "VYBZ Festival",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500221"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "26465",
+      "name": "AJ Christou",
+      "count": 1
+    }
+  ]
+}

@@ -3,38 +3,8 @@
   "name": "RavingCharlie",
   "upcoming": [
     {
-      "id": "ra:2422929",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
-      "date": "2026-07-22",
-      "start": "2026-07-22T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422929"
-    },
-    {
-      "id": "ra:2330518",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-07-24",
-      "start": "2026-07-24T23:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330518"
-    },
-    {
-      "id": "ra:2422934",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
-      "date": "2026-07-29",
-      "start": "2026-07-29T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422934"
-    },
-    {
       "id": "ra:2422941",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / KRØVØ",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / ROBBY / KRØVØ / CITØ",
       "date": "2026-08-05",
       "start": "2026-08-05T23:00+02:00",
       "venue": "nachbar",
@@ -44,7 +14,7 @@
     },
     {
       "id": "ra:2330521",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ TOMAGAN [AT] / ØLCZYK / BRIZZIA  ",
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "Panama",
@@ -54,7 +24,7 @@
     },
     {
       "id": "ra:2422944",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
       "date": "2026-08-12",
       "start": "2026-08-12T23:00+02:00",
       "venue": "nachbar",
@@ -64,7 +34,7 @@
     },
     {
       "id": "ra:2330520",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ WON / FHNX / GO-BLIN ",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "Panama",
@@ -74,7 +44,7 @@
     },
     {
       "id": "ra:2422946",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
       "date": "2026-08-19",
       "start": "2026-08-19T23:00+02:00",
       "venue": "nachbar",
@@ -111,10 +81,81 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2422966"
+    },
+    {
+      "id": "ra:2502109",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502109"
+    },
+    {
+      "id": "ra:2498430",
+      "title": "RAVING CHARLIE: Halloween Rave",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498430"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2422934",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
+      "date": "2026-07-29",
+      "start": "2026-07-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422934"
+    },
+    {
+      "id": "ra:2330518",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-07-24",
+      "start": "2026-07-24T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330518"
+    },
+    {
+      "id": "ra:2422929",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY",
+      "date": "2026-07-22",
+      "start": "2026-07-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422929"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "178757",
+      "name": "7AZ (1)",
+      "count": 1
+    },
+    {
+      "id": "173869",
+      "name": "FHNX",
+      "count": 1
+    },
+    {
+      "id": "81914",
+      "name": "SHU (2)",
+      "count": 1
+    },
+    {
+      "id": "176932",
+      "name": "AEZARYA",
+      "count": 1
+    },
     {
       "id": "129156",
       "name": "Kuzio",

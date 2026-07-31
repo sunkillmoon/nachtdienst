@@ -2,7 +2,8 @@
   "id": "111470",
   "name": "Lenz",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477812",
       "title": "Techno Tuesday Amsterdam, Lenz, Dexon, Ladaeg",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477812"
     }
-  ],
-  "past": []
+  ]
 }

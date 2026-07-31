@@ -12,6 +12,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2401524"
+    },
+    {
+      "id": "ra:2473484",
+      "title": "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473484"
     }
   ],
   "past": []

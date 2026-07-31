@@ -22,6 +22,16 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2499721",
+      "title": "CARISTA, ROD, Prance",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499721"
     }
   ],
   "past": []

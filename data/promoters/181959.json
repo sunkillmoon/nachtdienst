@@ -1,0 +1,54 @@
+{
+  "id": "181959",
+  "name": "Frunz",
+  "upcoming": [
+    {
+      "id": "ra:2498106",
+      "title": "ARMAT X REFORMA",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498106"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "145755",
+      "name": "androgienia",
+      "count": 1
+    },
+    {
+      "id": "101887",
+      "name": "Arkan",
+      "count": 1
+    },
+    {
+      "id": "179969",
+      "name": "g3kko",
+      "count": 1
+    },
+    {
+      "id": "157020",
+      "name": "Hovani",
+      "count": 1
+    },
+    {
+      "id": "128851",
+      "name": "James Harbrecht",
+      "count": 1
+    },
+    {
+      "id": "134804",
+      "name": "PLATTER",
+      "count": 1
+    },
+    {
+      "id": "94442",
+      "name": "Spikey Lee",
+      "count": 1
+    }
+  ]
+}

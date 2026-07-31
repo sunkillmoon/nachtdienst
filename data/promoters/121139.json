@@ -1,0 +1,69 @@
+{
+  "id": "121139",
+  "name": "Kiosk Radio",
+  "upcoming": [
+    {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "76451",
+      "name": "AliA",
+      "count": 1
+    },
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    },
+    {
+      "id": "128",
+      "name": "CJ Bolland",
+      "count": 1
+    },
+    {
+      "id": "20254",
+      "name": "Nosedrip",
+      "count": 1
+    },
+    {
+      "id": "17687",
+      "name": "DC Salas",
+      "count": 1
+    },
+    {
+      "id": "80532",
+      "name": "Eversines",
+      "count": 1
+    },
+    {
+      "id": "137667",
+      "name": "Shoplifter",
+      "count": 1
+    },
+    {
+      "id": "50071",
+      "name": "Tsepo",
+      "count": 1
+    },
+    {
+      "id": "90391",
+      "name": "Fais Le Beau",
+      "count": 1
+    },
+    {
+      "id": "75878",
+      "name": "Fafi Abdel Nour",
+      "count": 1
+    }
+  ]
+}

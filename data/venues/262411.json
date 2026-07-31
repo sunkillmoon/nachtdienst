@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.38,
   "lng": 4.67,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2433142",
       "title": "Boyos Wonderland & INI Movement present SUMMER JAM",
@@ -14,9 +15,7 @@
       "venue_id": "262411",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433142"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2469943",
       "title": "Houtbaar ...IsBurning invites CVNT Collective (Haarlem Pride 2026)",

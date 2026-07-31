@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.384802,
   "lng": 4.92987,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477682",
       "title": "VM Open",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477682"
     }
-  ],
-  "past": []
+  ]
 }

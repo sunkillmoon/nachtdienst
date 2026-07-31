@@ -2,7 +2,8 @@
   "id": "90332",
   "name": "Fenna Fiction",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476218",
       "title": "100% KATOEN",
@@ -12,9 +13,7 @@
       "venue_id": "124046",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476218"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488741",
       "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",

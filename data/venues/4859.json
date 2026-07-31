@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.401147,
   "lng": 4.896282,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495259",
       "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495259"
     }
-  ],
-  "past": []
+  ]
 }

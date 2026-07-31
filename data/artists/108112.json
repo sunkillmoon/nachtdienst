@@ -22,6 +22,16 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2411139"
+    },
+    {
+      "id": "ra:2480645",
+      "title": "ADE - HRMNY W/ Rose Ringed & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480645"
     }
   ],
   "past": []

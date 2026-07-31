@@ -4,15 +4,31 @@
   "upcoming": [
     {
       "id": "ra:2462689",
-      "title": "Soft Landing",
+      "title": "Shermanology - Lucien Foort | Soft Landing",
       "date": "2026-09-06",
       "start": "2026-09-06T15:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462689"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "102417",
+      "name": "Shermanology",
+      "count": 1
+    },
+    {
+      "id": "141",
+      "name": "Lucien Foort",
+      "count": 1
+    },
+    {
+      "id": "66028",
+      "name": "Alex Sharp",
+      "count": 1
+    }
+  ]
 }

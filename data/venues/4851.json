@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.376455,
   "lng": 4.905244,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495325",
       "title": "Allstate Insurance Home Insurance — Coverage, Pricing, and Bill Pay 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495325"
     }
-  ],
-  "past": []
+  ]
 }

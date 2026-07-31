@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2452159",
-      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2452159"
+      "url": "https://ra.co/events/2500670"
     },
     {
       "id": "ra:2437294",
@@ -32,7 +32,28 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2492405",
+      "title": "LNR - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2452159",
+      "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452159"
+    }
+  ]
 }

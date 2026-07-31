@@ -12,6 +12,26 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452089"
+    },
+    {
+      "id": "ra:2475664",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475664"
+    },
+    {
+      "id": "ra:2489472",
+      "title": "Vault Sessions x SK_eleven ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489472"
     }
   ],
   "past": []

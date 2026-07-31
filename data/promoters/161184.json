@@ -1,0 +1,69 @@
+{
+  "id": "161184",
+  "name": "Trancecore",
+  "upcoming": [
+    {
+      "id": "ra:2485446",
+      "title": "OBSCUUR x Trancecore ADE with DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE, Amøn",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485446"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "150403",
+      "name": "Alycia Bezgo",
+      "count": 1
+    },
+    {
+      "id": "159757",
+      "name": "JOKESONYOU",
+      "count": 1
+    },
+    {
+      "id": "117042",
+      "name": "Amøn",
+      "count": 1
+    },
+    {
+      "id": "167208",
+      "name": "Fronsi",
+      "count": 1
+    },
+    {
+      "id": "102552",
+      "name": "Kø:lab",
+      "count": 1
+    },
+    {
+      "id": "146992",
+      "name": "DJ DRECKISCH",
+      "count": 1
+    },
+    {
+      "id": "161001",
+      "name": "DICE",
+      "count": 1
+    },
+    {
+      "id": "149329",
+      "name": "DETOXX",
+      "count": 1
+    },
+    {
+      "id": "148233",
+      "name": "nordcorreia.mp3",
+      "count": 1
+    },
+    {
+      "id": "153642",
+      "name": "Boltcore",
+      "count": 1
+    }
+  ]
+}

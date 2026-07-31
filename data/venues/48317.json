@@ -1,0 +1,20 @@
+{
+  "id": "48317",
+  "name": "BIRD",
+  "area": "Rotterdam",
+  "lat": 51.926638,
+  "lng": 4.478826,
+  "upcoming": [
+    {
+      "id": "ra:2500769",
+      "title": "360 Degrees: Jayda G, Danou P & Love Transmission",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "BIRD",
+      "venue_id": "48317",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500769"
+    }
+  ],
+  "past": []
+}

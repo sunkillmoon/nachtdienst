@@ -11,6 +11,16 @@
       "venue_id": "290812",
       "area": "All",
       "url": "https://ra.co/events/2494445"
+    },
+    {
+      "id": "ra:2394012",
+      "title": "RESONANT - ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Zum Barbarossa",
+      "venue_id": "248592",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2394012"
     }
   ],
   "past": [],
@@ -18,11 +28,36 @@
     {
       "id": "179070",
       "name": "Ruud Vanden",
-      "count": 1
+      "count": 2
     },
     {
       "id": "98673",
       "name": "Cyantist",
+      "count": 1
+    },
+    {
+      "id": "57800",
+      "name": "Paul Nolan",
+      "count": 1
+    },
+    {
+      "id": "171880",
+      "name": "AND(W)Y",
+      "count": 1
+    },
+    {
+      "id": "97165",
+      "name": "Tom One",
+      "count": 1
+    },
+    {
+      "id": "181435",
+      "name": "Scarlett (US)",
+      "count": 1
+    },
+    {
+      "id": "107694",
+      "name": "Cris-H",
       "count": 1
     }
   ]

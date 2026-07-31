@@ -1,7 +1,8 @@
 {
   "id": "72804",
   "name": "WAS.",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2357461"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "92059",

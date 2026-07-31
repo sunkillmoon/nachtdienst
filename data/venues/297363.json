@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.25,
   "lng": 4.59,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2439763"
     }
-  ],
-  "past": []
+  ]
 }

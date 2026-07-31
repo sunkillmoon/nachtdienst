@@ -16,13 +16,28 @@
   "past": [],
   "top_artists": [
     {
-      "id": "151419",
-      "name": "Bug (1)",
+      "id": "146443",
+      "name": "Merikan",
       "count": 1
     },
     {
-      "id": "88022",
-      "name": "Baseck",
+      "id": "7760",
+      "name": "The Bloody Beetroots",
+      "count": 1
+    },
+    {
+      "id": "87466",
+      "name": "Hellfish",
+      "count": 1
+    },
+    {
+      "id": "104852",
+      "name": "Dina Summer",
+      "count": 1
+    },
+    {
+      "id": "119941",
+      "name": "Cancel",
       "count": 1
     }
   ]

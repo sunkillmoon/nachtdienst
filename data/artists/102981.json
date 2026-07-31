@@ -22,6 +22,16 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2436412"
+    },
+    {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "All",
+      "url": "https://ra.co/events/2479148"
     }
   ],
   "past": []

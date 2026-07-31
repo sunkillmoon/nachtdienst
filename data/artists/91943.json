@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2494370",
+      "title": "The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2494430",
+      "title": "The Final Stretch",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494430"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2483329",
       "title": "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie",
       "date": "2026-07-24",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483329"
     }
-  ],
-  "past": []
+  ]
 }

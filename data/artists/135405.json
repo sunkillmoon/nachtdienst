@@ -2,7 +2,8 @@
   "id": "135405",
   "name": "DJ Spence",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2429269",
       "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2429269"
     }
-  ],
-  "past": []
+  ]
 }

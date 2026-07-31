@@ -3,16 +3,6 @@
   "name": "SlapFunk",
   "upcoming": [
     {
-      "id": "ra:2479656",
-      "title": "SLPFNK SUMMER GATHERING - BRET",
-      "date": "2026-07-25",
-      "start": "2026-07-25T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479656"
-    },
-    {
       "id": "ra:2458317",
       "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
       "date": "2026-08-29",
@@ -33,7 +23,18 @@
       "url": "https://ra.co/events/2458327"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2479656",
+      "title": "SLPFNK SUMMER GATHERING - BRET",
+      "date": "2026-07-25",
+      "start": "2026-07-25T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479656"
+    }
+  ],
   "top_artists": [
     {
       "id": "89167",

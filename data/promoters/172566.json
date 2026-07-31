@@ -1,7 +1,8 @@
 {
   "id": "172566",
   "name": "Saverinio Morman",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481633",
       "title": "Constantmo Summer edition",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2481633"
     }
   ],
-  "past": [],
   "top_artists": []
 }

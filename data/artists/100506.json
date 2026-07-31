@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485804",
-      "title": "Ray-Ban Red Experience",
-      "date": "2026-07-24",
-      "start": "2026-07-24T15:00+02:00",
-      "venue": "De Hallen",
-      "venue_id": "123485",
+      "id": "ra:2501509",
+      "title": "Passion DEEZ & Friends",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2485804"
-    },
+      "url": "https://ra.co/events/2501509"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2494140",
       "title": "Passion Deez",
@@ -22,7 +24,16 @@
       "venue_id": "250599",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494140"
+    },
+    {
+      "id": "ra:2485804",
+      "title": "Ray-Ban Red Experience",
+      "date": "2026-07-24",
+      "start": "2026-07-24T15:00+02:00",
+      "venue": "De Hallen",
+      "venue_id": "123485",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485804"
     }
-  ],
-  "past": []
+  ]
 }
