@@ -2,7 +2,8 @@
   "id": "51198",
   "name": "Phase Fatale",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464183",
       "title": "Dekmantel At Night - Friday",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464183"
     }
-  ],
-  "past": []
+  ]
 }

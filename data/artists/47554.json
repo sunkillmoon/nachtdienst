@@ -2,7 +2,8 @@
   "id": "47554",
   "name": "Sampha",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458255"
     }
-  ],
-  "past": []
+  ]
 }

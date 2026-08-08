@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2444343",
-      "title": "Dekmantel Festival 2026 - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
+      "id": "ra:2470624",
+      "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2444343"
+      "url": "https://ra.co/events/2470624"
     },
     {
       "id": "ra:2297501",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2444343",
+      "title": "Dekmantel Festival 2026 - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444343"
+    },
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

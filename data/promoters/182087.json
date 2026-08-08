@@ -3,6 +3,28 @@
   "name": "ANTIA",
   "upcoming": [
     {
+      "id": "ra:2495725",
+      "title": "SEASON OPENING",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2495725"
+    },
+    {
+      "id": "ra:2506889",
+      "title": "CLUB NIGHT",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2506889"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2487320",
       "title": "SEASON FINALE",
       "date": "2026-07-31",
@@ -11,9 +33,7 @@
       "venue_id": "285993",
       "area": "All",
       "url": "https://ra.co/events/2487320"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487332",
       "title": "ANTIA CLUB NIGHT",
@@ -36,6 +56,16 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
     {
       "id": "94318",
       "name": "Alex Ranzino",

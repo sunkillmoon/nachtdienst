@@ -16,7 +16,7 @@
       "id": "ra:2489503",
       "title": "Ouragan takeover",
       "date": "2026-08-21",
-      "start": "2026-08-21T18:00+02:00",
+      "start": "2026-08-21T17:00+02:00",
       "venue": "got.Drip",
       "venue_id": "297342",
       "area": "Amsterdam",
@@ -31,19 +31,14 @@
       "count": 2
     },
     {
-      "id": "170995",
-      "name": "tanggero",
-      "count": 2
-    },
-    {
       "id": "165567",
       "name": "The Silentist",
       "count": 2
     },
     {
-      "id": "176403",
-      "name": "Frissonn",
-      "count": 1
+      "id": "170995",
+      "name": "tanggero",
+      "count": 2
     },
     {
       "id": "125739",
@@ -58,6 +53,11 @@
     {
       "id": "166548",
       "name": "Peach Fuzz (2)",
+      "count": 1
+    },
+    {
+      "id": "176403",
+      "name": "Frissonn",
       "count": 1
     }
   ]

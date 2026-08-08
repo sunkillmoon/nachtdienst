@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2456898",
-      "title": "Madam by Night invites: Kult Funktion",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456898"
-    },
-    {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
       "date": "2026-08-22",
@@ -22,6 +12,16 @@
       "venue_id": "294145",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466330"
+    },
+    {
+      "id": "ra:2506023",
+      "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506023"
     },
     {
       "id": "ra:2499721",
@@ -45,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
     {
       "id": "ra:2480211",
       "title": "Playhaus w/ Di² b2b rkeat, JØRDY & Prance",

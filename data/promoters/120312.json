@@ -3,16 +3,6 @@
   "name": "Boogie House",
   "upcoming": [
     {
-      "id": "ra:2494563",
-      "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494563"
-    },
-    {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",
       "date": "2026-08-07",
@@ -21,6 +11,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
+    },
+    {
+      "id": "ra:2507768",
+      "title": "RIPE: ART EXHIBITION & LAUNCH PARTY - with CLBHUIS & Boogie House",
+      "date": "2026-08-28",
+      "start": "2026-08-28T19:30+02:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507768"
     },
     {
       "id": "ra:2383070",
@@ -34,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2494563",
+      "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494563"
+    },
     {
       "id": "ra:2475953",
       "title": "Vodka Woensdag XXL: Night of the Diva's",
@@ -59,17 +69,17 @@
     {
       "id": "119481",
       "name": "Kirilski",
-      "count": 4
+      "count": 5
     },
     {
       "id": "137891",
       "name": "Emma Champagne Queen",
-      "count": 3
+      "count": 4
     },
     {
       "id": "138988",
       "name": "Heritage Listed",
-      "count": 2
+      "count": 3
     },
     {
       "id": "159640",

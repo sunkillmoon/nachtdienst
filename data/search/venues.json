@@ -44,6 +44,10 @@
     "name": "Amsterdamse Bos"
   },
   {
+    "id": "104637",
+    "name": "Annabel"
+  },
+  {
     "id": "285993",
     "name": "ANTIA"
   },
@@ -54,6 +58,10 @@
   {
     "id": "286760",
     "name": "Asterdplas"
+  },
+  {
+    "id": "240192",
+    "name": "Azorra Beachclub"
   },
   {
     "id": "242574",
@@ -152,12 +160,20 @@
     "name": "Brouwerij Troost Westergas"
   },
   {
+    "id": "256406",
+    "name": "Brutus"
+  },
+  {
     "id": "52605",
     "name": "Café De Plak"
   },
   {
     "id": "124046",
     "name": "Café Katoen"
+  },
+  {
+    "id": "298963",
+    "name": "Catuabar"
   },
   {
     "id": "138568",
@@ -212,6 +228,10 @@
     "name": "Crane Hotel Faralda"
   },
   {
+    "id": "255373",
+    "name": "Cult=us"
+  },
+  {
     "id": "248511",
     "name": "Db55"
   },
@@ -222,6 +242,10 @@
   {
     "id": "123485",
     "name": "De Hallen"
+  },
+  {
+    "id": "269965",
+    "name": "De Hangout"
   },
   {
     "id": "294378",
@@ -266,6 +290,10 @@
   {
     "id": "205208",
     "name": "De Sering"
+  },
+  {
+    "id": "221843",
+    "name": "De Thomaskerk"
   },
   {
     "id": "294777",
@@ -384,6 +412,10 @@
     "name": "House of Noa"
   },
   {
+    "id": "299375",
+    "name": "House of Noa"
+  },
+  {
     "id": "262411",
     "name": "Houtbaar Haarlem"
   },
@@ -418,6 +450,10 @@
   {
     "id": "160195",
     "name": "ISOamsterdam"
+  },
+  {
+    "id": "2766",
+    "name": "Jimmy Woo"
   },
   {
     "id": "109140",
@@ -600,6 +636,10 @@
     "name": "Nine Lives Gallery"
   },
   {
+    "id": "158843",
+    "name": "Noorderlicht Café"
+  },
+  {
     "id": "25197",
     "name": "Now&Wow"
   },
@@ -696,6 +736,10 @@
     "name": "Pllek"
   },
   {
+    "id": "5543",
+    "name": "Podium Victorie"
+  },
+  {
     "id": "290812",
     "name": "Popei"
   },
@@ -788,6 +832,10 @@
     "name": "Sportpark Riekerhaven"
   },
   {
+    "id": "5629",
+    "name": "Stadsblokken / Groene Rivier"
+  },
+  {
     "id": "297688",
     "name": "Stadseiland Stek"
   },
@@ -836,12 +884,24 @@
     "name": "TBA"
   },
   {
+    "id": "198648",
+    "name": "TBA"
+  },
+  {
+    "id": "299272",
+    "name": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland"
+  },
+  {
     "id": "296995",
     "name": "TBA - 50:HERTZ HOUSE & TECHNO CLUB"
   },
   {
     "id": "289639",
     "name": "TBA - Amsterdam Noord"
+  },
+  {
+    "id": "299085",
+    "name": "TBA - Boot 122"
   },
   {
     "id": "296103",
@@ -876,6 +936,10 @@
     "name": "TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam"
   },
   {
+    "id": "291414",
+    "name": "TBA - IYKYK"
+  },
+  {
     "id": "294025",
     "name": "TBA - Ohana Beach Club "
   },
@@ -900,12 +964,20 @@
     "name": "TBA - Secret Location"
   },
   {
+    "id": "296481",
+    "name": "TBA - The All Out, Amsterdam"
+  },
+  {
     "id": "296970",
     "name": "TBA - Transit / The Beef Chief"
   },
   {
     "id": "294024",
     "name": "TBA - Treehouse NDSM"
+  },
+  {
+    "id": "223249",
+    "name": "The Bulldog Palace"
   },
   {
     "id": "223183",

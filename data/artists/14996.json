@@ -2,7 +2,8 @@
   "id": "14996",
   "name": "Amz",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464196",
       "title": "Dekmantel At Night - Saturday",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464196"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",

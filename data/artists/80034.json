@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495536",
-      "title": "Pamela x Waterkant - World Pride",
-      "date": "2026-08-01",
-      "start": "2026-08-01T15:00+02:00",
-      "venue": "Waterkant",
-      "venue_id": "95538",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495536"
-    },
-    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2478125"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2495536",
+      "title": "Pamela x Waterkant - World Pride",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495536"
+    }
+  ]
 }

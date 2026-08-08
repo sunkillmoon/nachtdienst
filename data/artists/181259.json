@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2504768",
+      "title": "REVEAL",
+      "date": "2026-09-05",
+      "start": "2026-09-05T17:00+02:00",
+      "venue": "TBA - Boot 122",
+      "venue_id": "299085",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2504768"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2495209",
       "title": "Fluff Disco",
       "date": "2026-08-01",
@@ -13,6 +25,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2495209"
     }
-  ],
-  "past": []
+  ]
 }

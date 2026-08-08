@@ -2,7 +2,8 @@
   "id": "153028",
   "name": "Benja (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",
@@ -12,9 +13,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466518"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",

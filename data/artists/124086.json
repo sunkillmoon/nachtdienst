@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2506186",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506186"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2395176",
       "title": "FunHouse - The World Pride Saturday Edition",
       "date": "2026-08-01",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395176"
     }
-  ],
-  "past": []
+  ]
 }

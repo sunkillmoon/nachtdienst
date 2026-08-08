@@ -1,0 +1,20 @@
+{
+  "id": "5543",
+  "name": "Podium Victorie",
+  "area": "All",
+  "lat": 53,
+  "lng": 5,
+  "upcoming": [
+    {
+      "id": "ra:2504684",
+      "title": "The Voyage - an Ambient Journey with Gin & Tonic",
+      "date": "2026-09-13",
+      "start": "2026-09-13T14:30+02:00",
+      "venue": "Podium Victorie",
+      "venue_id": "5543",
+      "area": "All",
+      "url": "https://ra.co/events/2504684"
+    }
+  ],
+  "past": []
+}

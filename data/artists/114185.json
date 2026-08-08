@@ -2,7 +2,18 @@
   "id": "114185",
   "name": "da Graca Brothers",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2505832",
+      "title": "Vierkant Rooster",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505832"
+    }
+  ],
   "past": [
     {
       "id": "ra:2453390",

@@ -1,7 +1,18 @@
 {
   "id": "125739",
   "name": "Kadinsky Sessions",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2503247",
+      "title": "Kadinsky Sessions 075",
+      "date": "2026-08-29",
+      "start": "2026-08-29T20:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503247"
+    }
+  ],
   "past": [
     {
       "id": "ra:2487393",
@@ -16,23 +27,23 @@
   ],
   "top_artists": [
     {
+      "id": "137503",
+      "name": "Ras Paulus",
+      "count": 2
+    },
+    {
+      "id": "137487",
+      "name": "MC PPholl",
+      "count": 2
+    },
+    {
       "id": "96488",
       "name": "Around Us",
       "count": 1
     },
     {
-      "id": "137503",
-      "name": "Ras Paulus",
-      "count": 1
-    },
-    {
       "id": "5881",
       "name": "Francesco Pico",
-      "count": 1
-    },
-    {
-      "id": "137487",
-      "name": "MC PPholl",
       "count": 1
     }
   ]

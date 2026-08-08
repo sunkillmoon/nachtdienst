@@ -2,7 +2,8 @@
   "id": "114529",
   "name": "DeGuzman",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2437625",
       "title": "TOFFLER presents SANTØS and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2437625"
     }
-  ],
-  "past": []
+  ]
 }

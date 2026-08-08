@@ -34,7 +34,7 @@
     },
     {
       "id": "ra:2501967",
-      "title": "Heavy House Society",
+      "title": "Heavy House Society ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "Pllek",
@@ -56,6 +56,11 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "94324",
+      "name": "Robbie Doherty",
+      "count": 2
+    },
     {
       "id": "95014",
       "name": "Paige Tomlinson",
@@ -99,11 +104,6 @@
     {
       "id": "101378",
       "name": "HoneyLuv",
-      "count": 1
-    },
-    {
-      "id": "8341",
-      "name": "Horse Meat Disco",
       "count": 1
     }
   ]

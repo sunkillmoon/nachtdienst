@@ -14,6 +14,16 @@
       "venue_id": "988",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2436233"
+    },
+    {
+      "id": "ra:2505886",
+      "title": "ROTTERDAM RAVE FESTIVAL",
+      "date": "2026-08-29",
+      "start": "2026-08-29T20:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505886"
     }
   ],
   "past": []

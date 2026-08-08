@@ -1,0 +1,18 @@
+{
+  "id": "113593",
+  "name": "Etape",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2504306",
+      "title": "OBERHAUM: Garden Radio",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504306"
+    }
+  ],
+  "past": []
+}

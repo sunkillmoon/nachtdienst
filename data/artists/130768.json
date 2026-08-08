@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2480551",
-      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480551"
-    },
-    {
       "id": "ra:2473478",
       "title": "Madam by Night invites: VELVET",
       "date": "2026-09-04",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2473478"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2480551",
+      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480551"
+    }
+  ]
 }

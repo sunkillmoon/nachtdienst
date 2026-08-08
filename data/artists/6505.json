@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2503117",
+      "title": "Valtifest",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503117"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",
       "date": "2026-08-02",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466518"
     }
-  ],
-  "past": []
+  ]
 }

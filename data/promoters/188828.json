@@ -1,7 +1,8 @@
 {
   "id": "188828",
   "name": "JonesKamil",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466790",
       "title": "CHANNELS x Soulkitchen",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2466790"
     }
   ],
-  "past": [],
   "top_artists": []
 }

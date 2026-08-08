@@ -6,16 +6,6 @@
   "lng": 4.875716,
   "upcoming": [
     {
-      "id": "ra:2498547",
-      "title": "SouthSide Pride Edition",
-      "date": "2026-08-01",
-      "start": "2026-08-01T20:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498547"
-    },
-    {
       "id": "ra:2455670",
       "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
       "date": "2026-08-17",
@@ -36,6 +26,16 @@
       "url": "https://ra.co/events/2462831"
     },
     {
+      "id": "ra:2504199",
+      "title": "Føler x LINKD x Toekomstmuziek minifestival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T16:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504199"
+    },
+    {
       "id": "ra:2501108",
       "title": "The Pink Room",
       "date": "2026-09-11",
@@ -46,6 +46,16 @@
       "url": "https://ra.co/events/2501108"
     },
     {
+      "id": "ra:2483261",
+      "title": "Omnibus w/ Bruno Schmidt",
+      "date": "2026-09-11",
+      "start": "2026-09-11T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483261"
+    },
+    {
       "id": "ra:2499136",
       "title": "UNTIED",
       "date": "2026-10-02",
@@ -54,6 +64,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499136"
+    },
+    {
+      "id": "ra:2504882",
+      "title": "BREAK PROTOCOL #2",
+      "date": "2026-10-17",
+      "start": "2026-10-17T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504882"
     },
     {
       "id": "ra:2479678",
@@ -87,6 +107,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2498547",
+      "title": "SouthSide Pride Edition",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498547"
+    },
     {
       "id": "ra:2474501",
       "title": "Eye-Ris x Gloeilamp - The Yard",

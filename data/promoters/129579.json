@@ -3,16 +3,6 @@
   "name": "CASA PRODUCTIONS (NL)",
   "upcoming": [
     {
-      "id": "ra:2460181",
-      "title": "Love Floats",
-      "date": "2026-08-01",
-      "start": "2026-08-01T19:00+02:00",
-      "venue": "Supperclub Cruise",
-      "venue_id": "34719",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2460181"
-    },
-    {
       "id": "ra:2423448",
       "title": "Evoque with Ezequiel Arias & Nicolas Rada",
       "date": "2026-08-15",
@@ -53,7 +43,18 @@
       "url": "https://ra.co/events/2484443"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2460181",
+      "title": "Love Floats",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460181"
+    }
+  ],
   "top_artists": [
     {
       "id": "107694",
@@ -69,21 +70,6 @@
       "id": "171531",
       "name": "Tumzz",
       "count": 2
-    },
-    {
-      "id": "32322",
-      "name": "Miss Melera",
-      "count": 1
-    },
-    {
-      "id": "113044",
-      "name": "Farius",
-      "count": 1
-    },
-    {
-      "id": "123338",
-      "name": "Jesabel",
-      "count": 1
     },
     {
       "id": "80427",
@@ -103,6 +89,21 @@
     {
       "id": "1707",
       "name": "Einmusik",
+      "count": 1
+    },
+    {
+      "id": "2341",
+      "name": "Super Flu",
+      "count": 1
+    },
+    {
+      "id": "59109",
+      "name": "Prismode",
+      "count": 1
+    },
+    {
+      "id": "48613",
+      "name": "Solvane",
       "count": 1
     }
   ]

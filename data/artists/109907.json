@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2503464",
+      "title": "ADE Train Sunrise Express - IAM Productions",
+      "date": "2026-10-24",
+      "start": "2026-10-25T05:30+01:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503464"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2492701",
       "title": "Stuck in a Loop - PRIDE EDITION - with ANGEL-V (MEX), Joris Turenhout",
       "date": "2026-08-01",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492701"
     }
-  ],
-  "past": []
+  ]
 }

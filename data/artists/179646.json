@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2490649",
-      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
-      "date": "2026-07-31",
-      "start": "2026-07-31T16:00+02:00",
-      "venue": "Waterkant",
-      "venue_id": "95538",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490649"
-    },
-    {
-      "id": "ra:2475988",
-      "title": "DE DANSVLOER / LYLO",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2475988"
-    },
-    {
       "id": "ra:2488542",
       "title": "Mattias El Mansouri • 36framez b2b LYLO",
       "date": "2026-08-08",
@@ -32,6 +12,16 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488542"
+    },
+    {
+      "id": "ra:2504306",
+      "title": "OBERHAUM: Garden Radio",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504306"
     },
     {
       "id": "ra:2464416",
@@ -55,6 +45,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2475988",
+      "title": "DE DANSVLOER / LYLO",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2490649",
+      "title": "YEREYERE x PAARDENRAVE World Pride 2026",
+      "date": "2026-07-31",
+      "start": "2026-07-31T16:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490649"
+    },
     {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",

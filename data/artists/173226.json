@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2445865",
+      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445865"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2445862",
       "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",
       "date": "2026-08-05",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445862"
     }
-  ],
-  "past": []
+  ]
 }

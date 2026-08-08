@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2366738"
     },
     {
+      "id": "ra:2506036",
+      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2506036"
+    },
+    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -32,6 +42,16 @@
       "venue_id": "6646",
       "area": "All",
       "url": "https://ra.co/events/2375299"
+    },
+    {
+      "id": "ra:2506044",
+      "title": "ONTZET! - Wolter Wolthers X Onder de Pannen",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland",
+      "venue_id": "299272",
+      "area": "All",
+      "url": "https://ra.co/events/2506044"
     },
     {
       "id": "ra:2329764",
@@ -82,6 +102,16 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
     }
   ],
   "past": [

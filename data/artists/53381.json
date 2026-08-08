@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
     {
       "id": "ra:2429269",
       "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",

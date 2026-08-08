@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2417587",
+      "title": "Blijdorp Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Roel Langerakpark",
+      "venue_id": "101595",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2417587"
+    },
+    {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2490649",
       "title": "YEREYERE x PAARDENRAVE World Pride 2026",
       "date": "2026-07-31",
@@ -13,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490649"
     },
-    {
-      "id": "ra:2417587",
-      "title": "Blijdorp Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Roel Langerakpark",
-      "venue_id": "101595",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2417587"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2474501",
       "title": "Eye-Ris x Gloeilamp - The Yard",

@@ -1,0 +1,20 @@
+{
+  "id": "256406",
+  "name": "Brutus",
+  "area": "Rotterdam",
+  "lat": 51.91,
+  "lng": 4.43,
+  "upcoming": [
+    {
+      "id": "ra:2506251",
+      "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Brutus",
+      "venue_id": "256406",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506251"
+    }
+  ],
+  "past": []
+}

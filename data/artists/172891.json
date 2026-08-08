@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466518",
-      "title": "Wavy Summer Festival",
-      "date": "2026-08-02",
-      "start": "2026-08-02T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466518"
-    },
-    {
       "id": "ra:2502427",
       "title": "Audio Obscura x Thusday House Night",
       "date": "2026-10-22",
@@ -22,7 +12,28 @@
       "venue_id": "190418",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502427"
+    },
+    {
+      "id": "ra:2501967",
+      "title": "Heavy House Society ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501967"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466518",
+      "title": "Wavy Summer Festival",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466518"
+    }
+  ]
 }

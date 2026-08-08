@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
+      "id": "ra:2507742",
+      "title": "Syntax Error x TILT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
+      "url": "https://ra.co/events/2507742"
     },
     {
       "id": "ra:2478125",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

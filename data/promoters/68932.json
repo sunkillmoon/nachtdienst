@@ -71,6 +71,16 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2402455"
+    },
+    {
+      "id": "ra:2506097",
+      "title": "PIP presents PARISH",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2506097"
     }
   ],
   "past": [
@@ -96,6 +106,21 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "54907",
+      "name": "Kamma",
+      "count": 1
+    },
+    {
+      "id": "137301",
+      "name": "Malou (NL)",
+      "count": 1
+    },
+    {
+      "id": "110072",
+      "name": "Mowgli (NL)",
+      "count": 1
+    },
     {
       "id": "110084",
       "name": "Eileen (NL)",
@@ -129,21 +154,6 @@
     {
       "id": "22464",
       "name": "Intergalactic Gary",
-      "count": 1
-    },
-    {
-      "id": "121901",
-      "name": "mul/ANNA",
-      "count": 1
-    },
-    {
-      "id": "77232",
-      "name": "Lobster (NL)",
-      "count": 1
-    },
-    {
-      "id": "174243",
-      "name": "Ascha",
       "count": 1
     }
   ]

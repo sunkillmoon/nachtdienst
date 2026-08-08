@@ -14,6 +14,16 @@
       "venue_id": "79979",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2463250"
+    },
+    {
+      "id": "ra:2505070",
+      "title": "GOLFOS [ADE]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Taets Art & Event Park",
+      "venue_id": "79979",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505070"
     }
   ],
   "past": []

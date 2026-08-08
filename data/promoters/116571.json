@@ -1,0 +1,39 @@
+{
+  "id": "116571",
+  "name": "SudAEst",
+  "upcoming": [
+    {
+      "id": "ra:2507405",
+      "title": "LOOSE MONKEY TAKEOVER",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507405"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "24393",
+      "name": "Toti Coco",
+      "count": 1
+    },
+    {
+      "id": "42695",
+      "name": "Camilo Do Santos",
+      "count": 1
+    },
+    {
+      "id": "167149",
+      "name": "LOUDER BROS. DEPARTMENT",
+      "count": 1
+    },
+    {
+      "id": "167643",
+      "name": "TWOEF",
+      "count": 1
+    }
+  ]
+}

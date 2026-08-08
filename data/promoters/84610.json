@@ -3,26 +3,6 @@
   "name": "SPIELRAUM",
   "upcoming": [
     {
-      "id": "ra:2440421",
-      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
-      "date": "2026-08-01",
-      "start": "2026-08-01T20:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440421"
-    },
-    {
-      "id": "ra:2439706",
-      "title": "SPIELRAUM ...IsBurning",
-      "date": "2026-08-02",
-      "start": "2026-08-02T13:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2439706"
-    },
-    {
       "id": "ra:2458125",
       "title": "SPIELRAUM Weekender: Nexus opening",
       "date": "2026-09-11",
@@ -43,7 +23,28 @@
       "url": "https://ra.co/events/2478125"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2439706",
+      "title": "SPIELRAUM ...IsBurning",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2439706"
+    },
+    {
+      "id": "ra:2440421",
+      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440421"
+    }
+  ],
   "top_artists": [
     {
       "id": "118674",
@@ -54,31 +55,6 @@
       "id": "75251",
       "name": "Mary Lake",
       "count": 2
-    },
-    {
-      "id": "106638",
-      "name": "Grace Sands",
-      "count": 1
-    },
-    {
-      "id": "1447",
-      "name": "Hannah Holland",
-      "count": 1
-    },
-    {
-      "id": "57370",
-      "name": "Josh Caffé",
-      "count": 1
-    },
-    {
-      "id": "83883",
-      "name": "Polly F",
-      "count": 1
-    },
-    {
-      "id": "152642",
-      "name": "Yigit",
-      "count": 1
     },
     {
       "id": "13258",
@@ -93,6 +69,31 @@
     {
       "id": "426",
       "name": "Ben Sims",
+      "count": 1
+    },
+    {
+      "id": "93471",
+      "name": "Bitter Babe",
+      "count": 1
+    },
+    {
+      "id": "54184",
+      "name": "Blasha & Allatt",
+      "count": 1
+    },
+    {
+      "id": "11458",
+      "name": "DAVE the Drummer",
+      "count": 1
+    },
+    {
+      "id": "6692",
+      "name": "DJ Pete",
+      "count": 1
+    },
+    {
+      "id": "11077",
+      "name": "DJ Stingray 313",
       "count": 1
     }
   ]

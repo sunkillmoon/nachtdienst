@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2431383",
-      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
-      "date": "2026-08-01",
-      "start": "2026-08-01T14:00+02:00",
-      "venue": "Graanfabriek",
-      "venue_id": "156433",
-      "area": "All",
-      "url": "https://ra.co/events/2431383"
-    },
-    {
-      "id": "ra:2458255",
-      "title": "Dekmantel Festival 2026 - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458255"
-    },
-    {
       "id": "ra:2495463",
       "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
       "date": "2026-08-09",
@@ -152,9 +132,39 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
     }
   ],
   "past": [
+    {
+      "id": "ra:2458255",
+      "title": "Dekmantel Festival 2026 - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    },
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

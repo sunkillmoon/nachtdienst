@@ -1,0 +1,20 @@
+{
+  "id": "104637",
+  "name": "Annabel",
+  "area": "Rotterdam",
+  "lat": 51.92523,
+  "lng": 4.475996,
+  "upcoming": [
+    {
+      "id": "ra:2504401",
+      "title": "bratty • with charli xcx & other brat coded artists • rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Annabel",
+      "venue_id": "104637",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2504401"
+    }
+  ],
+  "past": []
+}

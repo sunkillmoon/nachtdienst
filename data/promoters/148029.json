@@ -1,0 +1,44 @@
+{
+  "id": "148029",
+  "name": "Field Notes International",
+  "upcoming": [
+    {
+      "id": "ra:2506324",
+      "title": "Field Notes presents... A House Party 2",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506324"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "904",
+      "name": "Prins Thomas",
+      "count": 1
+    },
+    {
+      "id": "2063",
+      "name": "Legowelt",
+      "count": 1
+    },
+    {
+      "id": "86045",
+      "name": "Alicia Carrera",
+      "count": 1
+    },
+    {
+      "id": "67902",
+      "name": "Alexis Le-Tan",
+      "count": 1
+    },
+    {
+      "id": "165550",
+      "name": "Field Notes DJs",
+      "count": 1
+    }
+  ]
+}

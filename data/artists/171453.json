@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466195",
-      "title": "TOFFLER presents DAF and friends",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466195"
-    },
-    {
       "id": "ra:2476120",
       "title": "Locky curates",
       "date": "2026-08-07",
@@ -82,9 +72,29 @@
       "venue_id": "290812",
       "area": "All",
       "url": "https://ra.co/events/2484681"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
     }
   ],
   "past": [
+    {
+      "id": "ra:2466195",
+      "title": "TOFFLER presents DAF and friends",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466195"
+    },
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",

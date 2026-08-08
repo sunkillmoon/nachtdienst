@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
-    },
-    {
-      "id": "ra:2464912",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464912"
-    },
-    {
       "id": "ra:2480350",
       "title": "Draaimolen Opening Concert 2026",
       "date": "2026-09-03",
@@ -32,6 +12,26 @@
       "venue_id": "7861",
       "area": "All",
       "url": "https://ra.co/events/2480350"
+    },
+    {
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2470624",
+      "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470624"
     },
     {
       "id": "ra:2473383",
@@ -55,6 +55,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2464912",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

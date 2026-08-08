@@ -2,7 +2,8 @@
   "id": "112254",
   "name": "TASSERY",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",
@@ -12,9 +13,7 @@
       "venue_id": "288289",
       "area": "Utrecht",
       "url": "https://ra.co/events/2400580"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2397048",
       "title": "VERKNIPT Beach Special - 18 July",

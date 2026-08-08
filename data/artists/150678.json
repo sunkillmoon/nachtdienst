@@ -2,7 +2,18 @@
   "id": "150678",
   "name": "Vieze Asbak",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
+    }
+  ],
   "past": [
     {
       "id": "ra:2354081",

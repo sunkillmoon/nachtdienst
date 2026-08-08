@@ -1,7 +1,8 @@
 {
   "id": "55697",
   "name": "Taboo events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487893",
       "title": "TABOO AT THE BEACH",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2487893"
     }
   ],
-  "past": [],
   "top_artists": []
 }

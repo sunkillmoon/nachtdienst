@@ -2,7 +2,8 @@
   "id": "137391",
   "name": "Cindy (CH)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2439799",
       "title": "RPU presents Lustrum",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2439799"
     }
-  ],
-  "past": []
+  ]
 }

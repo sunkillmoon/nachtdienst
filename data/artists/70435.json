@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2462147",
-      "title": "TILLATEC invites: Herrensauna + KNIT",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462147"
-    },
-    {
       "id": "ra:2484345",
       "title": "PULSE invites Herrensauna",
       "date": "2026-10-10",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2484345"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    }
+  ]
 }

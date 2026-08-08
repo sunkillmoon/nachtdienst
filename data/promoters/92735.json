@@ -3,16 +3,6 @@
   "name": "Amsterdam Nights",
   "upcoming": [
     {
-      "id": "ra:2445862",
-      "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",
-      "date": "2026-08-05",
-      "start": "2026-08-05T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2445862"
-    },
-    {
       "id": "ra:2438868",
       "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
       "date": "2026-08-08",
@@ -24,7 +14,7 @@
     },
     {
       "id": "ra:2445865",
-      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG] & Djaygo [NL]",
+      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
       "date": "2026-08-12",
       "start": "2026-08-12T23:00+02:00",
       "venue": "John Doe",
@@ -61,9 +51,89 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2446382"
+    },
+    {
+      "id": "ra:2503536",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-02",
+      "start": "2026-09-02T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503536"
+    },
+    {
+      "id": "ra:2503537",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-09",
+      "start": "2026-09-09T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503537"
+    },
+    {
+      "id": "ra:2503218",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503218"
+    },
+    {
+      "id": "ra:2503539",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-16",
+      "start": "2026-09-16T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503539"
+    },
+    {
+      "id": "ra:2503543",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-09-23",
+      "start": "2026-09-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503543"
+    },
+    {
+      "id": "ra:2503220",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503220"
+    },
+    {
+      "id": "ra:2503544",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-09-30",
+      "start": "2026-09-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503544"
     }
   ],
   "past": [
+    {
+      "id": "ra:2445862",
+      "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",
+      "date": "2026-08-05",
+      "start": "2026-08-05T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445862"
+    },
     {
       "id": "ra:2444418",
       "title": "RAVELAND: Hard Groove & Hard Techno w/ Mischa Duncan, DJaygo & Qhaki ",
@@ -102,24 +172,14 @@
       "count": 2
     },
     {
-      "id": "97003",
-      "name": "Djaygo T",
+      "id": "173226",
+      "name": "NELLIE",
       "count": 2
     },
     {
       "id": "116203",
       "name": "Mischa Duncan",
       "count": 2
-    },
-    {
-      "id": "106568",
-      "name": "Paroxyzm",
-      "count": 1
-    },
-    {
-      "id": "173226",
-      "name": "NELLIE",
-      "count": 1
     },
     {
       "id": "116281",
@@ -144,6 +204,16 @@
     {
       "id": "124338",
       "name": "Uma Scheffer",
+      "count": 1
+    },
+    {
+      "id": "134954",
+      "name": "MelFerdi",
+      "count": 1
+    },
+    {
+      "id": "136176",
+      "name": "Insolence",
       "count": 1
     }
   ]

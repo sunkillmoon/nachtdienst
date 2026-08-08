@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2400580",
-      "title": "BASIS Outdoor/ 2026",
-      "date": "2026-08-01",
-      "start": "2026-08-01T13:00+02:00",
-      "venue": "Beton-T",
-      "venue_id": "288289",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2400580"
-    },
-    {
       "id": "ra:2476052",
       "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
       "date": "2026-09-18",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2400580",
+      "title": "BASIS Outdoor/ 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Beton-T",
+      "venue_id": "288289",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2400580"
+    },
     {
       "id": "ra:2488231",
       "title": "BALANS X THE LOW END",

@@ -1,7 +1,8 @@
 {
   "id": "190094",
   "name": "Jarred Baker",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484250",
       "title": "Recovery Sessions: Vol 001",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2484250"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "81091",

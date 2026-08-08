@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2487494",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487494"
+    },
+    {
+      "id": "ra:2506125",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506125"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2487894",
       "title": "Gay Disko",
       "date": "2026-08-01",
@@ -13,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487894"
     },
-    {
-      "id": "ra:2487494",
-      "title": "3xNYX: Burn the House Down",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2487494"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2475953",
       "title": "Vodka Woensdag XXL: Night of the Diva's",

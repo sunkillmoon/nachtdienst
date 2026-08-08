@@ -6,36 +6,6 @@
   "lng": 4.8309665,
   "upcoming": [
     {
-      "id": "ra:2440419",
-      "title": "RAUM invites Mala Junta",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440419"
-    },
-    {
-      "id": "ra:2440421",
-      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
-      "date": "2026-08-01",
-      "start": "2026-08-01T20:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440421"
-    },
-    {
-      "id": "ra:2464923",
-      "title": "DKMNTL at RAUM",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464923"
-    },
-    {
       "id": "ra:2440428",
       "title": "BASHKKA present INVIGORATE A.M",
       "date": "2026-08-07",
@@ -147,6 +117,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2464923",
+      "title": "DKMNTL at RAUM",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464923"
+    },
+    {
+      "id": "ra:2440421",
+      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440421"
+    },
+    {
+      "id": "ra:2440419",
+      "title": "RAUM invites Mala Junta",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440419"
+    },
     {
       "id": "ra:2440414",
       "title": "RAUM invites NightClubbing",

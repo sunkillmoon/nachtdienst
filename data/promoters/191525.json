@@ -1,0 +1,29 @@
+{
+  "id": "191525",
+  "name": "Føler.NL",
+  "upcoming": [
+    {
+      "id": "ra:2504199",
+      "title": "Føler x LINKD x Toekomstmuziek minifestival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T16:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504199"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "565",
+      "name": "Michel de Hey",
+      "count": 1
+    },
+    {
+      "id": "134556",
+      "name": "AUTOFLOWER",
+      "count": 1
+    }
+  ]
+}

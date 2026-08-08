@@ -6,16 +6,6 @@
   "lng": 4.906672,
   "upcoming": [
     {
-      "id": "ra:2473127",
-      "title": "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra",
-      "date": "2026-07-31",
-      "start": "2026-07-31T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473127"
-    },
-    {
       "id": "ra:2473131",
       "title": "Lamb",
       "date": "2026-09-01",
@@ -86,16 +76,6 @@
       "url": "https://ra.co/events/2473145"
     },
     {
-      "id": "ra:2445911",
-      "title": "Velocity Made Good",
-      "date": "2026-10-28",
-      "start": "2026-10-28T20:00+01:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2445911"
-    },
-    {
       "id": "ra:2473147",
       "title": "Velocity Made Good",
       "date": "2026-10-28",
@@ -104,9 +84,29 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473147"
+    },
+    {
+      "id": "ra:2445911",
+      "title": "Velocity Made Good",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445911"
     }
   ],
   "past": [
+    {
+      "id": "ra:2473127",
+      "title": "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra",
+      "date": "2026-07-31",
+      "start": "2026-07-31T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473127"
+    },
     {
       "id": "ra:2461665",
       "title": "Textures",

@@ -1,0 +1,44 @@
+{
+  "id": "81939",
+  "name": "PRSPCT",
+  "upcoming": [
+    {
+      "id": "ra:2452367",
+      "title": "GABBERLAND",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452367"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120166",
+      "name": "Art of Fighters",
+      "count": 1
+    },
+    {
+      "id": "130698",
+      "name": "NoXa",
+      "count": 1
+    },
+    {
+      "id": "76708",
+      "name": "DJ Panic",
+      "count": 1
+    },
+    {
+      "id": "130705",
+      "name": "Dj Promo",
+      "count": 1
+    },
+    {
+      "id": "96702",
+      "name": "satronica",
+      "count": 1
+    }
+  ]
+}

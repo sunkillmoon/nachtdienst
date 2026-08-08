@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2501504"
     },
     {
+      "id": "ra:2505813",
+      "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:30+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505813"
+    },
+    {
       "id": "ra:2494395",
       "title": "Runner's High",
       "date": "2026-10-24",
@@ -32,6 +42,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2507203",
+      "title": "4AM Network x Loos ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507203"
     },
     {
       "id": "ra:2494430",

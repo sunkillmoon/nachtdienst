@@ -6,36 +6,6 @@
   "lng": 4.883945,
   "upcoming": [
     {
-      "id": "ra:2454376",
-      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2454376"
-    },
-    {
-      "id": "ra:2390854",
-      "title": "RAPIDO - The World Pride Edition",
-      "date": "2026-08-02",
-      "start": "2026-08-02T15:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2390854"
-    },
-    {
-      "id": "ra:2465186",
-      "title": "CONFESS - World Pride Edition",
-      "date": "2026-08-06",
-      "start": "2026-08-06T22:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2465186"
-    },
-    {
       "id": "ra:2375945",
       "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
       "date": "2026-08-08",
@@ -127,7 +97,7 @@
     },
     {
       "id": "ra:2403392",
-      "title": "Speedy J presents STOOR Live - ADE 2026",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
       "date": "2026-10-24",
       "start": "2026-10-24T16:00+02:00",
       "venue": "Paradiso",
@@ -137,7 +107,7 @@
     },
     {
       "id": "ra:2403394",
-      "title": "Speedy J presents STOOR Live - ADE 2026",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 2)",
       "date": "2026-10-25",
       "start": "2026-10-25T16:00+01:00",
       "venue": "Paradiso",
@@ -157,6 +127,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2465186",
+      "title": "CONFESS - World Pride Edition",
+      "date": "2026-08-06",
+      "start": "2026-08-06T22:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2465186"
+    },
+    {
+      "id": "ra:2390854",
+      "title": "RAPIDO - The World Pride Edition",
+      "date": "2026-08-02",
+      "start": "2026-08-02T15:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390854"
+    },
+    {
+      "id": "ra:2454376",
+      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454376"
+    },
     {
       "id": "ra:2429269",
       "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",

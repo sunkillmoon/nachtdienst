@@ -2,7 +2,8 @@
   "id": "96447",
   "name": "SOSA (UK)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466518"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": "144310",
+  "name": "Higher Ground Experience ",
+  "upcoming": [
+    {
+      "id": "ra:2503390",
+      "title": "Higher Ground Experience",
+      "date": "2026-08-22",
+      "start": "2026-08-22T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "198648",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2503390"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "121702",
+      "name": "Klankers",
+      "count": 1
+    },
+    {
+      "id": "81185",
+      "name": "Driv",
+      "count": 1
+    },
+    {
+      "id": "101074",
+      "name": "Lexmic",
+      "count": 1
+    },
+    {
+      "id": "122927",
+      "name": "Edenfranz",
+      "count": 1
+    },
+    {
+      "id": "122910",
+      "name": "Arnau",
+      "count": 1
+    },
+    {
+      "id": "124638",
+      "name": "Josef (NL)",
+      "count": 1
+    }
+  ]
+}

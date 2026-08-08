@@ -6,16 +6,6 @@
   "lng": 4.891344,
   "upcoming": [
     {
-      "id": "ra:2487468",
-      "title": "3xNYX: PRIDE",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2487468"
-    },
-    {
       "id": "ra:2487475",
       "title": "3xNYX: WORLD PRIDE",
       "date": "2026-08-08",
@@ -24,6 +14,16 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487475"
+    },
+    {
+      "id": "ra:2506173",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506173"
     },
     {
       "id": "ra:2487479",
@@ -36,6 +36,16 @@
       "url": "https://ra.co/events/2487479"
     },
     {
+      "id": "ra:2506179",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506179"
+    },
+    {
       "id": "ra:2487494",
       "title": "3xNYX: Burn the House Down",
       "date": "2026-08-22",
@@ -46,6 +56,16 @@
       "url": "https://ra.co/events/2487494"
     },
     {
+      "id": "ra:2506186",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506186"
+    },
+    {
       "id": "ra:2487497",
       "title": "3xNYX: In the Mix",
       "date": "2026-08-29",
@@ -54,9 +74,69 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487497"
+    },
+    {
+      "id": "ra:2506190",
+      "title": "Vrijdag is NYX: International Beyoncé Day",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506190"
+    },
+    {
+      "id": "ra:2506079",
+      "title": "3xNYX hosted by Abby OMG",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506079"
+    },
+    {
+      "id": "ra:2506087",
+      "title": "3xNYX: Bootylicious",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506087"
+    },
+    {
+      "id": "ra:2506125",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506125"
+    },
+    {
+      "id": "ra:2507060",
+      "title": "RARA AVIS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507060"
     }
   ],
   "past": [
+    {
+      "id": "ra:2487468",
+      "title": "3xNYX: PRIDE",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487468"
+    },
     {
       "id": "ra:2475953",
       "title": "Vodka Woensdag XXL: Night of the Diva's",

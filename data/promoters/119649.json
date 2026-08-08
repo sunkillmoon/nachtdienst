@@ -1,0 +1,54 @@
+{
+  "id": "119649",
+  "name": "IAM Productions",
+  "upcoming": [
+    {
+      "id": "ra:2503464",
+      "title": "ADE Train Sunrise Express - IAM Productions",
+      "date": "2026-10-24",
+      "start": "2026-10-25T05:30+01:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503464"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120884",
+      "name": "Albin Brezlan",
+      "count": 1
+    },
+    {
+      "id": "109907",
+      "name": "Joris Turenhout",
+      "count": 1
+    },
+    {
+      "id": "32277",
+      "name": "Joyhauser",
+      "count": 1
+    },
+    {
+      "id": "21599",
+      "name": "Juliet Fox",
+      "count": 1
+    },
+    {
+      "id": "64244",
+      "name": "KAS:ST",
+      "count": 1
+    },
+    {
+      "id": "148868",
+      "name": "Nelayan",
+      "count": 1
+    },
+    {
+      "id": "69225",
+      "name": "Sanel",
+      "count": 1
+    }
+  ]
+}

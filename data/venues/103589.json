@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.374167,
   "lng": 4.901777,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497317",
       "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497317"
     }
-  ],
-  "past": []
+  ]
 }

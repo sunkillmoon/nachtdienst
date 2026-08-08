@@ -2,7 +2,8 @@
   "id": "148266",
   "name": "Sunnysoposted",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486670",
       "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2486670"
     }
-  ],
-  "past": []
+  ]
 }

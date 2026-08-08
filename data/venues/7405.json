@@ -104,6 +104,26 @@
       "venue_id": "7405",
       "area": "All",
       "url": "https://ra.co/events/2448827"
+    },
+    {
+      "id": "ra:2507048",
+      "title": "De Sluwe Vos",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2507048"
+    },
+    {
+      "id": "ra:2499862",
+      "title": "Rauw & Lauw reünie in Mezz",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2499862"
     }
   ],
   "past": []

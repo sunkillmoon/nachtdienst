@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2499059"
     },
     {
+      "id": "ra:2503874",
+      "title": "ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503874"
+    },
+    {
       "id": "ra:2499098",
       "title": "ADE: Louis Andriessen's Hoketus",
       "date": "2026-10-22",
@@ -38,6 +48,41 @@
     {
       "id": "141010",
       "name": "Burchhhha",
+      "count": 1
+    },
+    {
+      "id": "71242",
+      "name": "Nkisi",
+      "count": 1
+    },
+    {
+      "id": "11031",
+      "name": "Crawler",
+      "count": 1
+    },
+    {
+      "id": "147173",
+      "name": "2K88",
+      "count": 1
+    },
+    {
+      "id": "114880",
+      "name": "Rainy Miller",
+      "count": 1
+    },
+    {
+      "id": "94421",
+      "name": "Bianca Scout",
+      "count": 1
+    },
+    {
+      "id": "90759",
+      "name": "Zohar",
+      "count": 1
+    },
+    {
+      "id": "112035",
+      "name": "Castle",
       "count": 1
     },
     {

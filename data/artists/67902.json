@@ -12,6 +12,16 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2506324",
+      "title": "Field Notes presents... A House Party 2",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506324"
     }
   ],
   "past": []

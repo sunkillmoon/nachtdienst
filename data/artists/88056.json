@@ -62,6 +62,16 @@
       "venue_id": "159079",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2501967",
+      "title": "Heavy House Society ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501967"
     }
   ],
   "past": []

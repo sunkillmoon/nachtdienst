@@ -3,26 +3,6 @@
   "name": "Paradiso Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2454376",
-      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2454376"
-    },
-    {
-      "id": "ra:2479505",
-      "title": "HTRK",
-      "date": "2026-08-06",
-      "start": "2026-08-06T20:30+02:00",
-      "venue": "Paradiso Noord / Tolhuistuin",
-      "venue_id": "123151",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479505"
-    },
-    {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
       "date": "2026-09-04",
@@ -31,6 +11,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500666"
+    },
+    {
+      "id": "ra:2504956",
+      "title": "Effy presents: Clubgirls",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504956"
     },
     {
       "id": "ra:2432349",
@@ -74,7 +64,7 @@
     },
     {
       "id": "ra:2403392",
-      "title": "Speedy J presents STOOR Live - ADE 2026",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
       "date": "2026-10-24",
       "start": "2026-10-24T16:00+02:00",
       "venue": "Paradiso",
@@ -84,7 +74,7 @@
     },
     {
       "id": "ra:2403394",
-      "title": "Speedy J presents STOOR Live - ADE 2026",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 2)",
       "date": "2026-10-25",
       "start": "2026-10-25T16:00+01:00",
       "venue": "Paradiso",
@@ -94,6 +84,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2479505",
+      "title": "HTRK",
+      "date": "2026-08-06",
+      "start": "2026-08-06T20:30+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479505"
+    },
+    {
+      "id": "ra:2454376",
+      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454376"
+    },
     {
       "id": "ra:2474087",
       "title": "Thievery Corporation - Extra Show",
@@ -127,14 +137,19 @@
   ],
   "top_artists": [
     {
-      "id": "4100",
-      "name": "Thievery Corporation",
+      "id": "130751",
+      "name": "Lola Edo",
       "count": 2
     },
     {
-      "id": "26301",
-      "name": "HTRK",
-      "count": 1
+      "id": "1703",
+      "name": "Speedy J",
+      "count": 2
+    },
+    {
+      "id": "4100",
+      "name": "Thievery Corporation",
+      "count": 2
     },
     {
       "id": "115376",
@@ -157,23 +172,18 @@
       "count": 1
     },
     {
+      "id": "88345",
+      "name": "Effy",
+      "count": 1
+    },
+    {
+      "id": "176854",
+      "name": "Matty Chiabi",
+      "count": 1
+    },
+    {
       "id": "93439",
       "name": "MALUGI",
-      "count": 1
-    },
-    {
-      "id": "111421",
-      "name": "State OFFF",
-      "count": 1
-    },
-    {
-      "id": "99118",
-      "name": "Lawrence Hart",
-      "count": 1
-    },
-    {
-      "id": "112784",
-      "name": "Azucy",
       "count": 1
     }
   ]

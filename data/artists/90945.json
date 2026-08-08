@@ -2,7 +2,8 @@
   "id": "90945",
   "name": "John Woods",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501585",
       "title": "The Boutique Dunes of Babylon",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2501585"
     }
-  ],
-  "past": []
+  ]
 }

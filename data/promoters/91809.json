@@ -3,26 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2468330",
-      "title": "ISAbella • Dee Diggs",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2468330"
-    },
-    {
-      "id": "ra:2502948",
-      "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502948"
-    },
-    {
       "id": "ra:2488539",
       "title": "Tom Trago • Carlos Valdes",
       "date": "2026-08-07",
@@ -115,6 +95,26 @@
   ],
   "past": [
     {
+      "id": "ra:2502948",
+      "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502948"
+    },
+    {
+      "id": "ra:2468330",
+      "title": "ISAbella • Dee Diggs",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2468330"
+    },
+    {
       "id": "ra:2466421",
       "title": "Doppelgang • Lola Edo",
       "date": "2026-07-25",
@@ -147,36 +147,6 @@
   ],
   "top_artists": [
     {
-      "id": "71941",
-      "name": "Sally C",
-      "count": 1
-    },
-    {
-      "id": "93138",
-      "name": "BELLA (NL)",
-      "count": 1
-    },
-    {
-      "id": "159225",
-      "name": "Benny2",
-      "count": 1
-    },
-    {
-      "id": "182924",
-      "name": "Cathy Grogan",
-      "count": 1
-    },
-    {
-      "id": "6041",
-      "name": "Tom Trago",
-      "count": 1
-    },
-    {
-      "id": "2949",
-      "name": "Carlos Valdes",
-      "count": 1
-    },
-    {
       "id": "108348",
       "name": "Mattias El Mansouri",
       "count": 1
@@ -194,6 +164,36 @@
     {
       "id": "103401",
       "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "77346",
+      "name": "mad miran",
+      "count": 1
+    },
+    {
+      "id": "25203",
+      "name": "Samuel Deep",
+      "count": 1
+    },
+    {
+      "id": "43115",
+      "name": "Cinnaman",
+      "count": 1
+    },
+    {
+      "id": "28938",
+      "name": "Andy Luff",
+      "count": 1
+    },
+    {
+      "id": "103146",
+      "name": "Alexia Glensy",
+      "count": 1
+    },
+    {
+      "id": "97687",
+      "name": "DJ Life",
       "count": 1
     }
   ]

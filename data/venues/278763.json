@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2486670",
-      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2486670"
-    },
-    {
       "id": "ra:2489651",
       "title": "Fafi Abdel Nour, Meena, Nanton",
       "date": "2026-08-07",
@@ -24,6 +14,16 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489651"
+    },
+    {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
     },
     {
       "id": "ra:2486672",
@@ -44,6 +44,16 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2491401"
+    },
+    {
+      "id": "ra:2506014",
+      "title": "doo-bop, Doktoro, sima k",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506014"
     },
     {
       "id": "ra:2501667",
@@ -87,6 +97,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2486670",
+      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486670"
+    },
     {
       "id": "ra:2486665",
       "title": "Bean party",

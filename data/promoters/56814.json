@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2502648",
-      "title": "ADE Naturalis festival Preview",
+      "title": "ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock ",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Het Dorp",
@@ -14,5 +14,41 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "147731",
+      "name": "Arista",
+      "count": 1
+    },
+    {
+      "id": "60056",
+      "name": "Budino",
+      "count": 1
+    },
+    {
+      "id": "11634",
+      "name": "Jonny Rock",
+      "count": 1
+    },
+    {
+      "id": "4758",
+      "name": "Nunzio Borino",
+      "count": 1
+    },
+    {
+      "id": "51665",
+      "name": "Manfredas",
+      "count": 1
+    },
+    {
+      "id": "60105",
+      "name": "Paula Tape",
+      "count": 1
+    },
+    {
+      "id": "28188",
+      "name": "ThanksMate",
+      "count": 1
+    }
+  ]
 }

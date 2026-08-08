@@ -1,0 +1,39 @@
+{
+  "id": "73865",
+  "name": "RAW",
+  "upcoming": [
+    {
+      "id": "ra:2504760",
+      "title": "GRÜV",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504760"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "39861",
+      "name": "Nastia",
+      "count": 1
+    },
+    {
+      "id": "76710",
+      "name": "KUSS",
+      "count": 1
+    },
+    {
+      "id": "106320",
+      "name": "KALTBLUME",
+      "count": 1
+    },
+    {
+      "id": "136976",
+      "name": "SHE/HER",
+      "count": 1
+    }
+  ]
+}

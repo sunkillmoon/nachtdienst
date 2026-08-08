@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495209",
-      "title": "Fluff Disco",
-      "date": "2026-08-01",
-      "start": "2026-08-01T13:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2495209"
+      "id": "ra:2504784",
+      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504784"
     },
     {
       "id": "ra:2376016",
@@ -45,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495209",
+      "title": "Fluff Disco",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2495209"
+    },
     {
       "id": "ra:2486663",
       "title": "Coco Coquelicot masterclass & club night (World Pride)",

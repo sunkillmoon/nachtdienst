@@ -1,7 +1,8 @@
 {
   "id": "160468",
   "name": "Kult Funktion Rotterdam",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494389",
       "title": "Kult Funktion Panel - WorldPride",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2494389"
     }
   ],
-  "past": [],
   "top_artists": []
 }

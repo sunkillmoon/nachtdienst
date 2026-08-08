@@ -54,6 +54,16 @@
       "venue_id": "88445",
       "area": "Utrecht",
       "url": "https://ra.co/events/2442065"
+    },
+    {
+      "id": "ra:2442143",
+      "title": "Le Guess Who? 2026",
+      "date": "2026-11-05",
+      "start": "2026-11-05T17:00+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442143"
     }
   ],
   "past": []

@@ -1,7 +1,8 @@
 {
   "id": "190818",
   "name": "Connection art event ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493507",
       "title": "Reclaim the floor",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2493507"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "107543",

@@ -2,7 +2,8 @@
   "id": "112784",
   "name": "Azucy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454376",
       "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
@@ -12,9 +13,7 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454376"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",

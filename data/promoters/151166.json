@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2501967",
-      "title": "Heavy House Society",
+      "title": "Heavy House Society ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "Pllek",
@@ -14,5 +14,51 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "20364",
+      "name": "Sidney Charles",
+      "count": 1
+    },
+    {
+      "id": "88056",
+      "name": "Boss Priester",
+      "count": 1
+    },
+    {
+      "id": "172891",
+      "name": "Cam Stockman",
+      "count": 1
+    },
+    {
+      "id": "65929",
+      "name": "Dennis Quin",
+      "count": 1
+    },
+    {
+      "id": "94324",
+      "name": "Robbie Doherty",
+      "count": 1
+    },
+    {
+      "id": "135197",
+      "name": "Mason Cooper",
+      "count": 1
+    },
+    {
+      "id": "117119",
+      "name": "Hidde van Wee",
+      "count": 1
+    },
+    {
+      "id": "86081",
+      "name": "Jesse Maas",
+      "count": 1
+    },
+    {
+      "id": "115055",
+      "name": "Kim April",
+      "count": 1
+    }
+  ]
 }

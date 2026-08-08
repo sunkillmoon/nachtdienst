@@ -2,7 +2,8 @@
   "id": "69599",
   "name": "KRTM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2465506",
       "title": "Intercell Industrial Night",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2465506"
     }
-  ],
-  "past": []
+  ]
 }

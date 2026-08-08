@@ -1,0 +1,39 @@
+{
+  "id": "64513",
+  "name": "Boiler Room",
+  "upcoming": [
+    {
+      "id": "ra:2505865",
+      "title": "Boiler Room: Maastricht - Friday",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2505865"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "114588",
+      "name": "AEREA",
+      "count": 1
+    },
+    {
+      "id": "104592",
+      "name": "Koboyo",
+      "count": 1
+    },
+    {
+      "id": "77232",
+      "name": "Lobster (NL)",
+      "count": 1
+    },
+    {
+      "id": "98165",
+      "name": "Philippa Pacho",
+      "count": 1
+    }
+  ]
+}

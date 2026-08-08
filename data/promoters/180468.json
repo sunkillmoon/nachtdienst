@@ -1,0 +1,54 @@
+{
+  "id": "180468",
+  "name": "4AM Network ",
+  "upcoming": [
+    {
+      "id": "ra:2507203",
+      "title": "4AM Network x Loos ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507203"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "791",
+      "name": "André Galluzzi",
+      "count": 1
+    },
+    {
+      "id": "4342",
+      "name": "Dana Ruh",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "171459",
+      "name": "ESTRELLA",
+      "count": 1
+    },
+    {
+      "id": "171280",
+      "name": "SAMEFACES",
+      "count": 1
+    },
+    {
+      "id": "43239",
+      "name": "Junior Pappa",
+      "count": 1
+    },
+    {
+      "id": "176244",
+      "name": "Tempted Audio",
+      "count": 1
+    }
+  ]
+}

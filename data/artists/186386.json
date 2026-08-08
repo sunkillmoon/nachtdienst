@@ -12,6 +12,26 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487475"
+    },
+    {
+      "id": "ra:2506079",
+      "title": "3xNYX hosted by Abby OMG",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506079"
+    },
+    {
+      "id": "ra:2506125",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506125"
     }
   ],
   "past": []

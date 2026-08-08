@@ -1,0 +1,28 @@
+{
+  "id": "65049",
+  "name": "DJ Holographic",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2403606",
+      "title": "A'DAM Toren ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "A'DAM Toren",
+      "venue_id": "125668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2459389",
+      "title": "Madam invites: Detroit Love",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459389"
+    }
+  ],
+  "past": []
+}

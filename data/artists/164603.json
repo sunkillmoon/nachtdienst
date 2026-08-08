@@ -2,7 +2,8 @@
   "id": "164603",
   "name": "rriddim",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501498",
       "title": "DJ NIETSCHIETEN & rriddim",
@@ -12,9 +13,7 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501498"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478086",
       "title": "Zalando and adidas present The Corner",

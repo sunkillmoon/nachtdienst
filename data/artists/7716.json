@@ -2,7 +2,8 @@
   "id": "7716",
   "name": "NANO",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473127",
       "title": "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473127"
     }
-  ],
-  "past": []
+  ]
 }

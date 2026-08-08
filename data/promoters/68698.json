@@ -1,7 +1,8 @@
 {
   "id": "68698",
   "name": "The Gardens of Babylon",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501585",
       "title": "The Boutique Dunes of Babylon",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2501585"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "118535",

@@ -11,6 +11,16 @@
       "venue_id": "243999",
       "area": "All",
       "url": "https://ra.co/events/2403542"
+    },
+    {
+      "id": "ra:2482313",
+      "title": "The All Out - Playground Edition",
+      "date": "2026-10-31",
+      "start": "2026-10-31T18:00+01:00",
+      "venue": "TBA - The All Out, Amsterdam",
+      "venue_id": "296481",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482313"
     }
   ],
   "past": [
@@ -29,12 +39,12 @@
     {
       "id": "165890",
       "name": "Urban",
-      "count": 2
+      "count": 3
     },
     {
       "id": "79394",
       "name": "Aries",
-      "count": 1
+      "count": 2
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "141768",
+  "name": "Tilla Tec",
+  "upcoming": [
+    {
+      "id": "ra:2507742",
+      "title": "Syntax Error x TILT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507742"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "6877",
+      "name": "Makam",
+      "count": 1
+    },
+    {
+      "id": "74853",
+      "name": "Jesse G",
+      "count": 1
+    },
+    {
+      "id": "61514",
+      "name": "Ploy",
+      "count": 1
+    },
+    {
+      "id": "111224",
+      "name": "Karina Schneider",
+      "count": 1
+    },
+    {
+      "id": "96672",
+      "name": "ttyfal",
+      "count": 1
+    },
+    {
+      "id": "13927",
+      "name": "ENNIO",
+      "count": 1
+    },
+    {
+      "id": "125013",
+      "name": "Vinz Sosa",
+      "count": 1
+    },
+    {
+      "id": "105235",
+      "name": "N.R.M",
+      "count": 1
+    },
+    {
+      "id": "157229",
+      "name": "Terrakin",
+      "count": 1
+    },
+    {
+      "id": "119323",
+      "name": "HAMY",
+      "count": 1
+    }
+  ]
+}

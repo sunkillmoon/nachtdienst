@@ -1,0 +1,20 @@
+{
+  "id": "291414",
+  "name": "TBA - IYKYK",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2507306",
+      "title": "Stupid Session 19 - Thirty Years of Adi-J",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "TBA - IYKYK",
+      "venue_id": "291414",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507306"
+    }
+  ],
+  "past": []
+}

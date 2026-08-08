@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2473182",
-      "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473182"
-    },
-    {
-      "id": "ra:2484250",
-      "title": "Recovery Sessions: Vol 001",
-      "date": "2026-08-02",
-      "start": "2026-08-02T14:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2484250"
-    },
-    {
       "id": "ra:2375945",
       "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
       "date": "2026-08-08",
@@ -42,6 +22,16 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493371"
+    },
+    {
+      "id": "ra:2508100",
+      "title": "New Amsterdam Beach takeover",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "De Hangout",
+      "venue_id": "269965",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508100"
     },
     {
       "id": "ra:2376016",
@@ -85,6 +75,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2484250",
+      "title": "Recovery Sessions: Vol 001",
+      "date": "2026-08-02",
+      "start": "2026-08-02T14:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484250"
+    },
+    {
+      "id": "ra:2473182",
+      "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473182"
+    },
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",

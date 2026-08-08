@@ -23,6 +23,16 @@
       "url": "https://ra.co/events/2414815"
     },
     {
+      "id": "ra:2503874",
+      "title": "ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503874"
+    },
+    {
       "id": "ra:2407995",
       "title": "Theory X Showcase - Royal Room , Escape - ADE",
       "date": "2026-10-21",
@@ -123,14 +133,14 @@
       "url": "https://ra.co/events/2502427"
     },
     {
-      "id": "ra:2426450",
-      "title": "Ritter Butzke & Casa ADE Cruise",
-      "date": "2026-10-23",
-      "start": "2026-10-23T14:00+02:00",
-      "venue": "Supperclub Cruise",
-      "venue_id": "34719",
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2426450"
+      "url": "https://ra.co/events/2503161"
     },
     {
       "id": "ra:2499813",
@@ -141,6 +151,16 @@
       "venue_id": "204155",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499813"
+    },
+    {
+      "id": "ra:2426450",
+      "title": "Ritter Butzke & Casa ADE Cruise",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2426450"
     },
     {
       "id": "ra:2420664",
@@ -184,23 +204,13 @@
     },
     {
       "id": "ra:2473425",
-      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST 70 TICKETS] ",
+      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST 50 TICKETS] ",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Amsterdam Central Station",
       "venue_id": "137362",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473425"
-    },
-    {
-      "id": "ra:2459380",
-      "title": "Madam invites: Kitty Amor curates",
-      "date": "2026-10-23",
-      "start": "2026-10-23T22:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2459380"
     },
     {
       "id": "ra:2420673",
@@ -221,6 +231,16 @@
       "venue_id": "190418",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502429"
+    },
+    {
+      "id": "ra:2459380",
+      "title": "Madam invites: Kitty Amor curates",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459380"
     },
     {
       "id": "ra:2375140",
@@ -251,6 +271,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459386"
+    },
+    {
+      "id": "ra:2503158",
+      "title": "Bordello A Parigi - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503158"
     },
     {
       "id": "ra:2499074",
@@ -293,6 +323,16 @@
       "url": "https://ra.co/events/2459622"
     },
     {
+      "id": "ra:2507687",
+      "title": "Berg Audio",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507687"
+    },
+    {
       "id": "ra:2459394",
       "title": "Madam invites: MVSON",
       "date": "2026-10-25",
@@ -306,8 +346,18 @@
   "past": [],
   "top_artists": [
     {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 3
+    },
+    {
       "id": "98741",
       "name": "Aline Rocha",
+      "count": 2
+    },
+    {
+      "id": "45901",
+      "name": "Dan Shake",
       "count": 2
     },
     {
@@ -316,8 +366,23 @@
       "count": 2
     },
     {
+      "id": "90020",
+      "name": "Demi Riquisimo",
+      "count": 2
+    },
+    {
+      "id": "65049",
+      "name": "DJ Holographic",
+      "count": 2
+    },
+    {
       "id": "77557",
       "name": "Easttown",
+      "count": 2
+    },
+    {
+      "id": "117739",
+      "name": "Ella Knight",
       "count": 2
     },
     {
@@ -326,33 +391,8 @@
       "count": 2
     },
     {
-      "id": "148310",
-      "name": "Job de Jong",
-      "count": 2
-    },
-    {
-      "id": "117966",
-      "name": "Joëlla Jackson",
-      "count": 2
-    },
-    {
-      "id": "36517",
-      "name": "Kitty Amor",
-      "count": 2
-    },
-    {
-      "id": "48752",
-      "name": "Low Steppa",
-      "count": 2
-    },
-    {
-      "id": "76335",
-      "name": "Mason Collective",
-      "count": 2
-    },
-    {
-      "id": "22744",
-      "name": "Mousse T.",
+      "id": "47",
+      "name": "Ian Pooley",
       "count": 2
     }
   ]

@@ -2,7 +2,18 @@
   "id": "42057",
   "name": "Sugar Free",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2464189",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464189"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2444343"
     },
-    {
-      "id": "ra:2464189",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464189"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

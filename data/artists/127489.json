@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495209",
-      "title": "Fluff Disco",
-      "date": "2026-08-01",
-      "start": "2026-08-01T13:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2495209"
-    },
-    {
       "id": "ra:2475062",
       "title": "Glitterbox ADE",
       "date": "2026-10-22",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2492762"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2495209",
+      "title": "Fluff Disco",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2495209"
+    }
+  ]
 }

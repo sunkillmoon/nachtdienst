@@ -3,16 +3,6 @@
   "name": "Melkweg",
   "upcoming": [
     {
-      "id": "ra:2490639",
-      "title": "PON DI PRIDE - CLUB CHROME",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490639"
-    },
-    {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",
       "date": "2026-08-07",
@@ -241,9 +231,59 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489701"
+    },
+    {
+      "id": "ra:2490689",
+      "title": "Digitalism",
+      "date": "2026-11-05",
+      "start": "2026-11-05T19:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490689"
+    },
+    {
+      "id": "ra:2490669",
+      "title": "Skeler Nightfall World Tour",
+      "date": "2026-11-06",
+      "start": "2026-11-06T19:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490669"
+    },
+    {
+      "id": "ra:2490662",
+      "title": "Garage Nation",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490662"
+    },
+    {
+      "id": "ra:2490656",
+      "title": "Ascension Invites Space Invaderz",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490656"
     }
   ],
   "past": [
+    {
+      "id": "ra:2490639",
+      "title": "PON DI PRIDE - CLUB CHROME",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490639"
+    },
     {
       "id": "ra:2490619",
       "title": "Pabllo Vittar: Club Vittar - CLUB CHROME",
@@ -267,41 +307,6 @@
   ],
   "top_artists": [
     {
-      "id": "127869",
-      "name": "Asphodèle",
-      "count": 1
-    },
-    {
-      "id": "146056",
-      "name": "Alma Negrot",
-      "count": 1
-    },
-    {
-      "id": "127454",
-      "name": "Tida Kamara",
-      "count": 1
-    },
-    {
-      "id": "107322",
-      "name": "DJ Westfa",
-      "count": 1
-    },
-    {
-      "id": "123484",
-      "name": "Shaw Cain",
-      "count": 1
-    },
-    {
-      "id": "88748",
-      "name": "Hannah Diamond",
-      "count": 1
-    },
-    {
-      "id": "74611",
-      "name": "LYZZA",
-      "count": 1
-    },
-    {
       "id": "125757",
       "name": "_hiø",
       "count": 1
@@ -314,6 +319,41 @@
     {
       "id": "181564",
       "name": "FILAIPE",
+      "count": 1
+    },
+    {
+      "id": "93547",
+      "name": "Sly Fox",
+      "count": 1
+    },
+    {
+      "id": "160384",
+      "name": "Six Sex",
+      "count": 1
+    },
+    {
+      "id": "143160",
+      "name": "Alírio",
+      "count": 1
+    },
+    {
+      "id": "84966",
+      "name": "Danytribe",
+      "count": 1
+    },
+    {
+      "id": "147272",
+      "name": "Delirium",
+      "count": 1
+    },
+    {
+      "id": "64858",
+      "name": "Hellboy",
+      "count": 1
+    },
+    {
+      "id": "69880",
+      "name": "Niro (1)",
       "count": 1
     }
   ]

@@ -6,16 +6,6 @@
   "lng": 4.8753577,
   "upcoming": [
     {
-      "id": "ra:2355301",
-      "title": "BOPS x KIKI - WorldPride Amsterdam",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2355301"
-    },
-    {
       "id": "ra:2498891",
       "title": "MITA - Volume 1",
       "date": "2026-09-11",
@@ -46,6 +36,16 @@
       "url": "https://ra.co/events/2473511"
     },
     {
+      "id": "ra:2504838",
+      "title": "Drum 'n Babes // Line-up t.b.a",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504838"
+    },
+    {
       "id": "ra:2433282",
       "title": "Closer presents Miss Melera Mitch de Klein Thysma",
       "date": "2026-10-03",
@@ -54,6 +54,16 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433282"
+    },
+    {
+      "id": "ra:2506976",
+      "title": "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506976"
     },
     {
       "id": "ra:2469400",
@@ -67,6 +77,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2355301",
+      "title": "BOPS x KIKI - WorldPride Amsterdam",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2355301"
+    },
     {
       "id": "ra:2458040",
       "title": "HustlaBall Amsterdam World Pride 2026",

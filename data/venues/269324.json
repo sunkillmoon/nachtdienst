@@ -6,26 +6,6 @@
   "lng": 4.84,
   "upcoming": [
     {
-      "id": "ra:2439799",
-      "title": "RPU presents Lustrum",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2439799"
-    },
-    {
-      "id": "ra:2430672",
-      "title": "EAST Summer Night Rave",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2430672"
-    },
-    {
       "id": "ra:2493231",
       "title": "SOTO",
       "date": "2026-08-08",
@@ -44,6 +24,16 @@
       "venue_id": "269324",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492263"
+    },
+    {
+      "id": "ra:2503792",
+      "title": "QUERICO TOKYO in AMS",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503792"
     },
     {
       "id": "ra:2493234",
@@ -124,9 +114,39 @@
       "venue_id": "269324",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490674"
+    },
+    {
+      "id": "ra:2498366",
+      "title": "EAST Techno Collective - Halloween Warehouse",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498366"
     }
   ],
   "past": [
+    {
+      "id": "ra:2430672",
+      "title": "EAST Summer Night Rave",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2430672"
+    },
+    {
+      "id": "ra:2439799",
+      "title": "RPU presents Lustrum",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2439799"
+    },
     {
       "id": "ra:2493228",
       "title": "BONDRU",

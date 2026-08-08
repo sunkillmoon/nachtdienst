@@ -1,0 +1,59 @@
+{
+  "id": "86575",
+  "name": "Berg Audio",
+  "upcoming": [
+    {
+      "id": "ra:2507687",
+      "title": "Berg Audio",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507687"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "9736",
+      "name": "Andre Kronert",
+      "count": 1
+    },
+    {
+      "id": "6098",
+      "name": "Andrey Pushkarev",
+      "count": 1
+    },
+    {
+      "id": "142636",
+      "name": "Celine Roman",
+      "count": 1
+    },
+    {
+      "id": "160146",
+      "name": "COZi",
+      "count": 1
+    },
+    {
+      "id": "46335",
+      "name": "Demuja",
+      "count": 1
+    },
+    {
+      "id": "38176",
+      "name": "Lola Palmer",
+      "count": 1
+    },
+    {
+      "id": "6019",
+      "name": "Priku",
+      "count": 1
+    },
+    {
+      "id": "158",
+      "name": "Satoshi Tomiie",
+      "count": 1
+    }
+  ]
+}

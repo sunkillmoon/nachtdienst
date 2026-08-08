@@ -1,7 +1,8 @@
 {
   "id": "190737",
   "name": "Kurumbu",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492544",
       "title": "Kurumbu presents Naya Beat",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2492544"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "127612",

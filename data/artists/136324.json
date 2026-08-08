@@ -2,7 +2,8 @@
   "id": "136324",
   "name": "Floris Fahrenheit",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488747",
       "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
@@ -12,9 +13,7 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488747"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2485525",
       "title": "Park Kronenburg",

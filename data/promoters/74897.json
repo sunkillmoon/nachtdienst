@@ -1,0 +1,39 @@
+{
+  "id": "74897",
+  "name": "Reculture",
+  "upcoming": [
+    {
+      "id": "ra:2506976",
+      "title": "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506976"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "35914",
+      "name": "Trikk",
+      "count": 1
+    },
+    {
+      "id": "80887",
+      "name": "Hardt Antoine",
+      "count": 1
+    },
+    {
+      "id": "132852",
+      "name": "MĪMĪ x FY",
+      "count": 1
+    },
+    {
+      "id": "105302",
+      "name": "Pattn",
+      "count": 1
+    }
+  ]
+}

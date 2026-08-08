@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491852",
-      "title": "Tale of Bus afterhours w/ Kuba '97, Idilay & Daan Donk",
-      "date": "2026-08-02",
-      "start": "2026-08-02T22:00+02:00",
-      "venue": "Het Salon",
-      "venue_id": "237692",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491852"
-    },
-    {
       "id": "ra:2501639",
       "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
       "date": "2026-08-22",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2501639"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2491852",
+      "title": "Tale of Bus afterhours w/ Kuba '97, Idilay & Daan Donk",
+      "date": "2026-08-02",
+      "start": "2026-08-02T22:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491852"
+    }
+  ]
 }

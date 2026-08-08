@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2499737",
+      "title": "Uphoria x Roots",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2499737"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2497317",
+      "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497317"
+    },
+    {
       "id": "ra:2488747",
       "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
       "date": "2026-07-31",
@@ -22,37 +54,6 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493507"
-    },
-    {
-      "id": "ra:2497317",
-      "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
-      "date": "2026-08-01",
-      "start": "2026-08-01T15:00+02:00",
-      "venue": "Zwart Goud Record Store",
-      "venue_id": "103589",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497317"
-    },
-    {
-      "id": "ra:2456898",
-      "title": "Madam by Night invites: Kult Funktion",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456898"
-    },
-    {
-      "id": "ra:2499737",
-      "title": "Uphoria x Roots",
-      "date": "2026-09-12",
-      "start": "2026-09-12T21:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2499737"
     }
-  ],
-  "past": []
+  ]
 }

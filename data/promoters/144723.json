@@ -3,26 +3,6 @@
   "name": "TILLATEC",
   "upcoming": [
     {
-      "id": "ra:2462147",
-      "title": "TILLATEC invites: Herrensauna + KNIT",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462147"
-    },
-    {
-      "id": "ra:2462151",
-      "title": "TILLATEC invites: KNIT + VESELKA",
-      "date": "2026-08-02",
-      "start": "2026-08-02T12:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462151"
-    },
-    {
       "id": "ra:2479631",
       "title": "WorldPride: Horse Meat Disco",
       "date": "2026-08-07",
@@ -63,6 +43,16 @@
       "url": "https://ra.co/events/2498987"
     },
     {
+      "id": "ra:2507742",
+      "title": "Syntax Error x TILT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507742"
+    },
+    {
       "id": "ra:2499622",
       "title": "United Identities ...IsBurning",
       "date": "2026-09-05",
@@ -95,6 +85,26 @@
   ],
   "past": [
     {
+      "id": "ra:2462151",
+      "title": "TILLATEC invites: KNIT + VESELKA",
+      "date": "2026-08-02",
+      "start": "2026-08-02T12:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462151"
+    },
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
+    {
       "id": "ra:2478072",
       "title": "TILLAVISION: Aquatec",
       "date": "2026-07-24",
@@ -107,53 +117,53 @@
   ],
   "top_artists": [
     {
-      "id": "73940",
-      "name": "CARISTA",
+      "id": "6877",
+      "name": "Makam",
+      "count": 2
+    },
+    {
+      "id": "146919",
+      "name": "ASHTREY",
       "count": 1
     },
     {
-      "id": "63999",
-      "name": "CEM",
+      "id": "40349",
+      "name": "Faustin",
       "count": 1
     },
     {
-      "id": "4977",
-      "name": "Cormac",
+      "id": "89686",
+      "name": "MarcelDune",
       "count": 1
     },
     {
-      "id": "137891",
-      "name": "Emma Champagne Queen",
+      "id": "113146",
+      "name": "Ms.G",
       "count": 1
     },
     {
-      "id": "185357",
-      "name": "Gian Battista",
+      "id": "150873",
+      "name": "RayRay",
       "count": 1
     },
     {
-      "id": "66408",
-      "name": "HAAi",
+      "id": "75389",
+      "name": "Samantha Togni",
       "count": 1
     },
     {
-      "id": "143900",
-      "name": "Lara Renner",
+      "id": "73341",
+      "name": "Schacke",
       "count": 1
     },
     {
-      "id": "70435",
-      "name": "MCMLXXXV",
+      "id": "83367",
+      "name": "Vera Logdanidi",
       "count": 1
     },
     {
-      "id": "77413",
-      "name": "Narciss",
-      "count": 1
-    },
-    {
-      "id": "96082",
-      "name": "Slim Soledad",
+      "id": "61548",
+      "name": "nthng",
       "count": 1
     }
   ]

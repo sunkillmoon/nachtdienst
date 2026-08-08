@@ -3,26 +3,6 @@
   "name": "ColoradoCharlieNL",
   "upcoming": [
     {
-      "id": "ra:2460749",
-      "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",
-      "date": "2026-08-01",
-      "start": "2026-08-01T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2460749"
-    },
-    {
-      "id": "ra:2451891",
-      "title": "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)",
-      "date": "2026-08-02",
-      "start": "2026-08-02T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2451891"
-    },
-    {
       "id": "ra:2448066",
       "title": "Colorado Charlie with Marsolo (All Day Long) (SOLD OUT)",
       "date": "2026-08-08",
@@ -115,6 +95,26 @@
   ],
   "past": [
     {
+      "id": "ra:2451891",
+      "title": "Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT)",
+      "date": "2026-08-02",
+      "start": "2026-08-02T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2451891"
+    },
+    {
+      "id": "ra:2460749",
+      "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",
+      "date": "2026-08-01",
+      "start": "2026-08-01T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2460749"
+    },
+    {
       "id": "ra:2437651",
       "title": "Colorado Charlie - 9-Year Anniversary with Julian Fijma (All Day Long) (SOLD OUT)",
       "date": "2026-07-26",
@@ -152,21 +152,6 @@
       "count": 2
     },
     {
-      "id": "2046",
-      "name": "Bart Skils",
-      "count": 1
-    },
-    {
-      "id": "156533",
-      "name": "Luis Ripa",
-      "count": 1
-    },
-    {
-      "id": "35624",
-      "name": "East End Dubs",
-      "count": 1
-    },
-    {
       "id": "120215",
       "name": "Marsolo",
       "count": 1
@@ -194,6 +179,21 @@
     {
       "id": "75202",
       "name": "Kendal",
+      "count": 1
+    },
+    {
+      "id": "108064",
+      "name": "Spacer Woman",
+      "count": 1
+    },
+    {
+      "id": "141124",
+      "name": "22 Interns",
+      "count": 1
+    },
+    {
+      "id": "71551",
+      "name": "Toman",
       "count": 1
     }
   ]

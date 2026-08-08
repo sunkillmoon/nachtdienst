@@ -1,0 +1,24 @@
+{
+  "id": "191593",
+  "name": "TUNES.TNS",
+  "upcoming": [
+    {
+      "id": "ra:2505000",
+      "title": "TUNES",
+      "date": "2026-08-09",
+      "start": "2026-08-09T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505000"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "79979",
+      "name": "Europa (1)",
+      "count": 1
+    }
+  ]
+}

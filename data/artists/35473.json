@@ -2,7 +2,8 @@
   "id": "35473",
   "name": "Larry Tee",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488590",
       "title": "HOMOMONUMENT X BRET AFTERHOURS (18+)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488590"
     }
-  ],
-  "past": []
+  ]
 }

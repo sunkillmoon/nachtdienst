@@ -2,7 +2,8 @@
   "id": "179306",
   "name": "MONORITAM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492896",
       "title": "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492896"
     }
-  ],
-  "past": []
+  ]
 }

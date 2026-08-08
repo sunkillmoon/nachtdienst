@@ -3,16 +3,6 @@
   "name": "A'DAM The Loft",
   "upcoming": [
     {
-      "id": "ra:2481285",
-      "title": "Tower of Love - Pride editon",
-      "date": "2026-08-01",
-      "start": "2026-08-01T19:00+02:00",
-      "venue": "The Loft Amsterdam",
-      "venue_id": "190657",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481285"
-    },
-    {
       "id": "ra:2480595",
       "title": "Overbruggen x Hot Since 82' - Loft Sunset - ADE ",
       "date": "2026-10-21",
@@ -73,7 +63,18 @@
       "url": "https://ra.co/events/2466462"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481285",
+      "title": "Tower of Love - Pride editon",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481285"
+    }
+  ],
   "top_artists": [
     {
       "id": "31155",
@@ -101,6 +102,11 @@
       "count": 1
     },
     {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 1
+    },
+    {
       "id": "108167",
       "name": "CHEWCHEW",
       "count": 1
@@ -111,18 +117,13 @@
       "count": 1
     },
     {
+      "id": "45901",
+      "name": "Dan Shake",
+      "count": 1
+    },
+    {
       "id": "28587",
       "name": "David Penn",
-      "count": 1
-    },
-    {
-      "id": "17805",
-      "name": "DJ Tennis",
-      "count": 1
-    },
-    {
-      "id": "32073",
-      "name": "Dusky",
       "count": 1
     }
   ]

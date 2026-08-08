@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2444343",
-      "title": "Dekmantel Festival 2026 - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2444343"
-    },
-    {
       "id": "ra:2479117",
       "title": "Love On The Rocks - ADE 2026 - Klaproos",
       "date": "2026-10-23",
@@ -22,7 +12,28 @@
       "venue_id": "175707",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479117"
+    },
+    {
+      "id": "ra:2507687",
+      "title": "Berg Audio",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507687"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2444343",
+      "title": "Dekmantel Festival 2026 - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444343"
+    }
+  ]
 }

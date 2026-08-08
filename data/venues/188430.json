@@ -6,16 +6,6 @@
   "lng": 4.927931,
   "upcoming": [
     {
-      "id": "ra:2492544",
-      "title": "Kurumbu presents Naya Beat",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "murmur",
-      "venue_id": "188430",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492544"
-    },
-    {
       "id": "ra:2489575",
       "title": "fruit salad x Epiphany Records",
       "date": "2026-08-30",
@@ -27,6 +17,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2492544",
+      "title": "Kurumbu presents Naya Beat",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492544"
+    },
     {
       "id": "ra:2491367",
       "title": "Sat 25 kurashi & ash's plek: caribbean cookout",

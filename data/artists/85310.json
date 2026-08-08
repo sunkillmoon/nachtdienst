@@ -2,7 +2,8 @@
   "id": "85310",
   "name": "MMIV",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2470216",
       "title": "Jezabel x Doka Studio (World Pride)",
@@ -22,9 +23,7 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2474056"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",

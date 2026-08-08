@@ -1,0 +1,29 @@
+{
+  "id": "185869",
+  "name": "LET’S BREAK PROTOCOL",
+  "upcoming": [
+    {
+      "id": "ra:2504882",
+      "title": "BREAK PROTOCOL #2",
+      "date": "2026-10-17",
+      "start": "2026-10-17T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504882"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "151048",
+      "name": "BTWN NTWRX",
+      "count": 1
+    },
+    {
+      "id": "135210",
+      "name": "Daniel Englisch",
+      "count": 1
+    }
+  ]
+}

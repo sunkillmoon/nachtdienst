@@ -3,16 +3,6 @@
   "name": "Happy Feelings",
   "upcoming": [
     {
-      "id": "ra:2431383",
-      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
-      "date": "2026-08-01",
-      "start": "2026-08-01T14:00+02:00",
-      "venue": "Graanfabriek",
-      "venue_id": "156433",
-      "area": "All",
-      "url": "https://ra.co/events/2431383"
-    },
-    {
       "id": "ra:2357564",
       "title": "Happy Feelings - Colorado Charlie",
       "date": "2026-08-15",
@@ -53,7 +43,18 @@
       "url": "https://ra.co/events/2476166"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    }
+  ],
   "top_artists": [
     {
       "id": "175798",
@@ -61,48 +62,48 @@
       "count": 2
     },
     {
-      "id": "10446",
-      "name": "Benny Rodrigues",
+      "id": "176575",
+      "name": "KINETIKS",
       "count": 1
     },
     {
-      "id": "151923",
-      "name": "Emvae",
+      "id": "174340",
+      "name": "IN2POL",
       "count": 1
     },
     {
-      "id": "154307",
-      "name": "Entasia",
+      "id": "134978",
+      "name": "NewTone",
       "count": 1
     },
     {
-      "id": "101467",
-      "name": "Inafekt",
+      "id": "59414",
+      "name": "Luuk van Dijk",
       "count": 1
     },
     {
-      "id": "159427",
-      "name": "OLIVIA LENSEN",
+      "id": "109346",
+      "name": "Boris Coelman",
       "count": 1
     },
     {
-      "id": "103554",
-      "name": "Miguel De Bois",
+      "id": "137891",
+      "name": "Emma Champagne Queen",
       "count": 1
     },
     {
-      "id": "117194",
-      "name": "Rozie",
+      "id": "103167",
+      "name": "Happy Feelings",
       "count": 1
     },
     {
-      "id": "124552",
-      "name": "Upper90",
+      "id": "107734",
+      "name": "Girls Don't Sync",
       "count": 1
     },
     {
-      "id": "112808",
-      "name": "Surf 2 Glory",
+      "id": "165677",
+      "name": "Gabriel Muñoz",
       "count": 1
     }
   ]

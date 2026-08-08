@@ -6,26 +6,6 @@
   "lng": 4.474325,
   "upcoming": [
     {
-      "id": "ra:2437625",
-      "title": "TOFFLER presents SANTØS and friends",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2437625"
-    },
-    {
-      "id": "ra:2466195",
-      "title": "TOFFLER presents DAF and friends",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466195"
-    },
-    {
       "id": "ra:2466199",
       "title": "TOFFLER presents DUIF and friends",
       "date": "2026-08-07",
@@ -196,6 +176,16 @@
       "url": "https://ra.co/events/2495526"
     },
     {
+      "id": "ra:2506047",
+      "title": "Toffler presents RILEY, DAETOR",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506047"
+    },
+    {
       "id": "ra:2500811",
       "title": "TOFFLER presents Locky (3HR set)",
       "date": "2026-10-10",
@@ -207,6 +197,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466195",
+      "title": "TOFFLER presents DAF and friends",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466195"
+    },
+    {
+      "id": "ra:2437625",
+      "title": "TOFFLER presents SANTØS and friends",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437625"
+    },
     {
       "id": "ra:2437621",
       "title": "TOFFLER presents Chico Rose",

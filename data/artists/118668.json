@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476114",
-      "title": "PACH. curates",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476114"
-    },
-    {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",
       "date": "2026-08-14",
@@ -32,9 +22,29 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488594"
+    },
+    {
+      "id": "ra:2507203",
+      "title": "4AM Network x Loos ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507203"
     }
   ],
   "past": [
+    {
+      "id": "ra:2476114",
+      "title": "PACH. curates",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476114"
+    },
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",

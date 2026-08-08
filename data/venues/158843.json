@@ -1,0 +1,40 @@
+{
+  "id": "158843",
+  "name": "Noorderlicht Café",
+  "area": "Amsterdam",
+  "lat": 52.399561,
+  "lng": 4.896806,
+  "upcoming": [
+    {
+      "id": "ra:2506770",
+      "title": "A Funky Wicked Jazz Fest 2026",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506770"
+    },
+    {
+      "id": "ra:2503158",
+      "title": "Bordello A Parigi - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503158"
+    },
+    {
+      "id": "ra:2507687",
+      "title": "Berg Audio",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507687"
+    }
+  ],
+  "past": []
+}

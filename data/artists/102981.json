@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466518",
-      "title": "Wavy Summer Festival",
-      "date": "2026-08-02",
-      "start": "2026-08-02T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466518"
-    },
-    {
       "id": "ra:2436412",
       "title": "Give Soul at the Beach - August",
       "date": "2026-08-23",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2479148"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466518",
+      "title": "Wavy Summer Festival",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466518"
+    }
+  ]
 }

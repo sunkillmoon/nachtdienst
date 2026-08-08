@@ -2,7 +2,8 @@
   "id": "146965",
   "name": "Clementaum",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453528",
       "title": "Planet Angels",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2453528"
     }
-  ],
-  "past": []
+  ]
 }

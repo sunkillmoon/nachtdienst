@@ -12,6 +12,16 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2507203",
+      "title": "4AM Network x Loos ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507203"
     }
   ],
   "past": []

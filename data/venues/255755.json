@@ -6,36 +6,6 @@
   "lng": 4.8425825,
   "upcoming": [
     {
-      "id": "ra:2488747",
-      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488747"
-    },
-    {
-      "id": "ra:2493507",
-      "title": "Reclaim the floor",
-      "date": "2026-07-31",
-      "start": "2026-07-31T19:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493507"
-    },
-    {
-      "id": "ra:2447735",
-      "title": "POOF DOOF Amsterdam",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2447735"
-    },
-    {
       "id": "ra:2493364",
       "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
       "date": "2026-08-07",
@@ -44,6 +14,16 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493364"
+    },
+    {
+      "id": "ra:2504784",
+      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504784"
     },
     {
       "id": "ra:2493371",
@@ -136,6 +116,16 @@
       "url": "https://ra.co/events/2493526"
     },
     {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    },
+    {
       "id": "ra:2498694",
       "title": "Sissi's Blockparty with Benny Rodrigues & LYLO",
       "date": "2026-09-26",
@@ -144,9 +134,49 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498694"
+    },
+    {
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504927"
     }
   ],
   "past": [
+    {
+      "id": "ra:2447735",
+      "title": "POOF DOOF Amsterdam",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2447735"
+    },
+    {
+      "id": "ra:2488747",
+      "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488747"
+    },
+    {
+      "id": "ra:2493507",
+      "title": "Reclaim the floor",
+      "date": "2026-07-31",
+      "start": "2026-07-31T19:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493507"
+    },
     {
       "id": "ra:2470224",
       "title": "Het Syndicaat",

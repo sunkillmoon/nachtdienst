@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2506770",
+      "title": "A Funky Wicked Jazz Fest 2026",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506770"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2489606",
       "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",
       "date": "2026-08-01",
@@ -12,9 +24,7 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489606"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",

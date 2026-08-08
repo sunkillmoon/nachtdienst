@@ -31,6 +31,46 @@
       "venue_id": "215846",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2443238"
+    },
+    {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    },
+    {
+      "id": "ra:2506887",
+      "title": "De Binnenstad x TNT Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506887"
+    },
+    {
+      "id": "ra:2506893",
+      "title": "De Binnenstad x Sam Hofman Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506893"
+    },
+    {
+      "id": "ra:2506898",
+      "title": "De Binnenstad x Southern Fried Records",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506898"
     }
   ],
   "past": [
@@ -72,18 +112,38 @@
       "count": 1
     },
     {
-      "id": "27408",
-      "name": "Dam Swindle",
+      "id": "77557",
+      "name": "Easttown",
       "count": 1
     },
     {
-      "id": "145217",
-      "name": "Moxes",
+      "id": "178273",
+      "name": "Rumi Jill",
       "count": 1
     },
     {
-      "id": "165677",
-      "name": "Gabriel Muñoz",
+      "id": "127453",
+      "name": "Gyatso",
+      "count": 1
+    },
+    {
+      "id": "108064",
+      "name": "Spacer Woman",
+      "count": 1
+    },
+    {
+      "id": "129734",
+      "name": "Diffrent",
+      "count": 1
+    },
+    {
+      "id": "154307",
+      "name": "Entasia",
+      "count": 1
+    },
+    {
+      "id": "154448",
+      "name": "Freddi",
       "count": 1
     }
   ]

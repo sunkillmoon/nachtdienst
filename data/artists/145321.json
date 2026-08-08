@@ -24,16 +24,6 @@
       "url": "https://ra.co/events/2502868"
     },
     {
-      "id": "ra:2496769",
-      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
-      "date": "2026-10-22",
-      "start": "2026-10-22T18:00+02:00",
-      "venue": "KIT Royal Tropical Institute",
-      "venue_id": "175088",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496769"
-    },
-    {
       "id": "ra:2495676",
       "title": "Lola x Rinse FM ADE",
       "date": "2026-10-22",
@@ -42,6 +32,16 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495676"
+    },
+    {
+      "id": "ra:2496769",
+      "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496769"
     }
   ],
   "past": []

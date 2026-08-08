@@ -1,0 +1,20 @@
+{
+  "id": "2766",
+  "name": "Jimmy Woo",
+  "area": "Amsterdam",
+  "lat": 52.364812,
+  "lng": 4.882338,
+  "upcoming": [
+    {
+      "id": "ra:2506051",
+      "title": "P-rallel presents NEVERMIND",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Jimmy Woo",
+      "venue_id": "2766",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506051"
+    }
+  ],
+  "past": []
+}

@@ -3,16 +3,6 @@
   "name": "Complex Maastricht",
   "upcoming": [
     {
-      "id": "ra:2445597",
-      "title": "Complex Summer with Asphere / Granular Heat / Améli",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2445597"
-    },
-    {
       "id": "ra:2445599",
       "title": "Complex Summer with Melvin Spix",
       "date": "2026-08-08",
@@ -41,6 +31,26 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2445604"
+    },
+    {
+      "id": "ra:2505865",
+      "title": "Boiler Room: Maastricht - Friday",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2505865"
+    },
+    {
+      "id": "ra:2506907",
+      "title": "Boiler Room Maastricht - Saturday",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2506907"
     },
     {
       "id": "ra:2412218",
@@ -111,9 +121,29 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2470321"
+    },
+    {
+      "id": "ra:2470324",
+      "title": "Complex Halloween with Ferreck Dawn / Ammé / Max Kilian / The Drift System",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470324"
     }
   ],
   "past": [
+    {
+      "id": "ra:2445597",
+      "title": "Complex Summer with Asphere / Granular Heat / Améli",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445597"
+    },
     {
       "id": "ra:2414517",
       "title": "Complex Festival 2026 Afterparty",
@@ -127,8 +157,23 @@
   ],
   "top_artists": [
     {
-      "id": "155430",
-      "name": "Granular Heat",
+      "id": "114588",
+      "name": "AEREA",
+      "count": 1
+    },
+    {
+      "id": "104592",
+      "name": "Koboyo",
+      "count": 1
+    },
+    {
+      "id": "77232",
+      "name": "Lobster (NL)",
+      "count": 1
+    },
+    {
+      "id": "98165",
+      "name": "Philippa Pacho",
       "count": 1
     },
     {
@@ -159,21 +204,6 @@
     {
       "id": "161890",
       "name": "Kili (3)",
-      "count": 1
-    },
-    {
-      "id": "124653",
-      "name": "Pinotello",
-      "count": 1
-    },
-    {
-      "id": "141124",
-      "name": "22 Interns",
-      "count": 1
-    },
-    {
-      "id": "114563",
-      "name": "LAMMER",
       "count": 1
     }
   ]

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488775",
-      "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2488775"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2500670"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2488775",
+      "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488775"
+    }
+  ]
 }

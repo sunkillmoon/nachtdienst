@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492952",
       "title": "Hunkering Gay Pride After festival",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492952"
     }
-  ],
-  "past": []
+  ]
 }

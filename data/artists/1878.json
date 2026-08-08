@@ -12,6 +12,16 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2503286",
+      "title": "About Us ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503286"
     }
   ],
   "past": []

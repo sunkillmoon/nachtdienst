@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2355301",
-      "title": "BOPS x KIKI - WorldPride Amsterdam",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2355301"
-    },
-    {
       "id": "ra:2375945",
       "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
       "date": "2026-08-08",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2375945"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2355301",
+      "title": "BOPS x KIKI - WorldPride Amsterdam",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2355301"
+    }
+  ]
 }

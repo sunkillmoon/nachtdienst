@@ -2,7 +2,8 @@
   "id": "10350",
   "name": "Massimiliano Pagliara",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497317",
       "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497317"
     }
-  ],
-  "past": []
+  ]
 }

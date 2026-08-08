@@ -1,0 +1,24 @@
+{
+  "id": "191457",
+  "name": "TOXIC ASYLUM",
+  "upcoming": [
+    {
+      "id": "ra:2502992",
+      "title": "TØXIC ALL NIGHT LONG (MULTI ALL NIGHT LONG)",
+      "date": "2026-08-15",
+      "start": "2026-08-15T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502992"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "185029",
+      "name": "TØXIC",
+      "count": 1
+    }
+  ]
+}

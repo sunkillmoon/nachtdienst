@@ -12,6 +12,16 @@
       "venue_id": "98505",
       "area": "All",
       "url": "https://ra.co/events/2430402"
+    },
+    {
+      "id": "ra:2452367",
+      "title": "GABBERLAND",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452367"
     }
   ],
   "past": []

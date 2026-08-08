@@ -1,0 +1,20 @@
+{
+  "id": "5629",
+  "name": "Stadsblokken / Groene Rivier",
+  "area": "All",
+  "lat": 51.977439,
+  "lng": 5.899937,
+  "upcoming": [
+    {
+      "id": "ra:2505877",
+      "title": "NACHT WACHT FESTIVAL [KARAXHELLER]",
+      "date": "2026-08-09",
+      "start": "2026-08-09T17:00+02:00",
+      "venue": "Stadsblokken / Groene Rivier",
+      "venue_id": "5629",
+      "area": "All",
+      "url": "https://ra.co/events/2505877"
+    }
+  ],
+  "past": []
+}

@@ -2,7 +2,8 @@
   "id": "69780",
   "name": "Abel Aguilera",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385580",
       "title": "RAPIDO x FunHouse - World Pride Sunday Daytime Rave",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2385580"
     }
-  ],
-  "past": []
+  ]
 }
