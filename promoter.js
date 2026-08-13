@@ -20,6 +20,25 @@ function formatGigDate(dateStr) {
   return `${d} ${MONTHS[m - 1]} ${y}`;
 }
 
+// The current "night" (see nightlogic: a moment belongs to (now - 8h).date()).
+function currentNight() {
+  const t = Date.now() - 8 * 3600 * 1000;
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Amsterdam" }).format(new Date(t));
+}
+
+// Bucket upcoming/past at RENDER time against now (the entity JSON's split is
+// frozen at scrape time and goes stale between scrapes).
+function bucketGigs(data) {
+  const seen = new Map();
+  for (const g of [...(data.gigs || []), ...(data.upcoming || []), ...(data.past || [])]) seen.set(g.id, g);
+  const all = [...seen.values()];
+  const now = currentNight();
+  return {
+    upcoming: all.filter((g) => g.date >= now).sort((a, b) => (a.date < b.date ? -1 : 1)),
+    past: all.filter((g) => g.date < now).sort((a, b) => (a.date > b.date ? -1 : 1)),
+  };
+}
+
 // FOLLOW is a placeholder this batch: no backend table yet. Logged-out visitors
 // Real follow toggle (kind: promoter), mirroring the artist page.
 function renderFollow(promoter) {
@@ -100,10 +119,11 @@ async function init() {
   nameEl.textContent = promoter.name;
   renderFollow(promoter);
   gigs = [];
+  const buckets = bucketGigs(promoter);
   mainEl.innerHTML =
     topArtistsHtml(promoter.top_artists) +
-    renderSection("UPCOMING", promoter.upcoming || []) +
-    renderSection("PAST", promoter.past || []);
+    renderSection("UPCOMING", buckets.upcoming) +
+    renderSection("PAST", buckets.past);
   wireGigRows(mainEl);
 
   window.NachtkaartAuth.onAuthChange(() => renderFollow(promoter));

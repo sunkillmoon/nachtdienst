@@ -16,8 +16,6 @@ const state = {
   userCoords: null,
   selectedEventId: null,
   cityCentroids: [], // [{ city, lat, lng }] derived from the data, for the header label
-  cities: [],        // distinct real venue.area values, for the city filter
-  cityFilter: "ALL", // "ALL" or a specific venue.area; persisted
   freeOnly: false,   // when true, only price == "FREE" events; persisted
   map: null,
   markers: new Map(), // venueName/clusterKey -> { marker, el, venue, events }
@@ -25,7 +23,6 @@ const state = {
 };
 
 // Persisted UI preferences (nachtkaart: prefix, matching auth.js).
-const LS_CITY = "nachtkaart:cityFilter";
 const LS_FREE = "nachtkaart:freeOnly";
 
 function safeGetItem(key) {
@@ -39,7 +36,6 @@ const clockEl = document.getElementById("clock");
 const cityLabelEl = document.getElementById("cityLabel");
 const dateLabelEl = document.getElementById("dateLabel");
 const calendarEl = document.getElementById("calendar");
-const cityFilterEl = document.getElementById("cityFilter");
 const freeToggleEl = document.getElementById("freeToggle");
 const prevDayBtn = document.getElementById("prevDay");
 const nextDayBtn = document.getElementById("nextDay");
@@ -123,13 +119,18 @@ function buildCityCentroids(events) {
   return centroids;
 }
 
+// Nearest data-city to the visitor, but only if they're actually near our
+// coverage. Beyond a sane radius (someone abroad / on a VPN) return null so the
+// header stays "NL" instead of falsely claiming a Dutch city.
+const NEAR_CITY_KM = 75;
+
 function nearestCity(coords, centroids) {
   let best = null, bestKm = Infinity;
   for (const c of centroids) {
     const km = haversineKm(coords.lat, coords.lng, c.lat, c.lng);
     if (km < bestKm) { bestKm = km; best = c; }
   }
-  return best ? best.city : null;
+  return best && bestKm <= NEAR_CITY_KM ? best.city : null;
 }
 
 function clamp(v, lo, hi) {
@@ -216,9 +217,7 @@ function getVenueMeta(name) {
 // chronological (see sortEvents); this filters, it never regroups.
 function eventsForDate(date) {
   return state.allEvents.filter(
-    (e) => e.date === date &&
-      (state.cityFilter === "ALL" || e.venue.area === state.cityFilter) &&
-      (!state.freeOnly || e.price === "FREE")
+    (e) => e.date === date && (!state.freeOnly || e.price === "FREE")
   );
 }
 
@@ -316,13 +315,8 @@ function timingBadge(event) {
 function tagsRowHtml(event) {
   const genreTags = event.tags.map(tagHtml).join("");
   const soldOutBadge = event.sold_out ? `<span class="tag danger">SOLD OUT</span>` : "";
-  // City only when unfiltered -- once you've filtered to a city it's just noise.
-  const cityBadge =
-    state.cityFilter === "ALL" && event.venue.area && event.venue.area !== "All"
-      ? `<span class="tag city">${esc(event.venue.area.toUpperCase())}</span>`
-      : "";
   const tbaBadge = event.venue.location_tba ? `<span class="tag">LOCATION TBA</span>` : "";
-  return genreTags + cityBadge + soldOutBadge + timingBadge(event) + tbaBadge;
+  return genreTags + soldOutBadge + timingBadge(event) + tbaBadge;
 }
 
 function mapsDirectionsUrl(lat, lng) {
@@ -727,13 +721,6 @@ function stepDate(delta) {
   renderForSelectedDate();
 }
 
-function setCityFilter(city) {
-  state.cityFilter = city;
-  try { localStorage.setItem(LS_CITY, city); } catch (_) {}
-  renderTicker();
-  renderList();
-  renderMapMarkers(true);
-}
 
 function setFreeOnly(on) {
   state.freeOnly = on;
@@ -743,17 +730,6 @@ function setFreeOnly(on) {
   renderTicker();
   renderList();
   renderMapMarkers(true);
-}
-
-// Populate the city <select> with ALL + every real city present in the data.
-function buildCityFilterOptions() {
-  const opts = ['<option value="ALL">ALL CITIES</option>'];
-  for (const city of state.cities) {
-    const sel = city === state.cityFilter ? " selected" : "";
-    opts.push(`<option value="${esc(city)}"${sel}>${esc(city.toUpperCase())}</option>`);
-  }
-  cityFilterEl.innerHTML = opts.join("");
-  cityFilterEl.value = state.cityFilter;
 }
 
 async function init() {
@@ -776,14 +752,10 @@ async function init() {
   state.allEvents = allEvents;
   state.venuesMeta = venuesMeta;
   state.cityCentroids = buildCityCentroids(allEvents);
-  state.cities = [...new Set(allEvents.map((e) => e.venue.area).filter((a) => a && a !== "All"))].sort();
   state.todayDate = currentNightAmsterdam();
 
-  // Restore persisted filters; ignore a stored city that isn't in this data.
-  const savedCity = safeGetItem(LS_CITY);
-  state.cityFilter = savedCity && state.cities.includes(savedCity) ? savedCity : "ALL";
+  // Restore persisted FREE toggle.
   state.freeOnly = safeGetItem(LS_FREE) === "1";
-  buildCityFilterOptions();
   freeToggleEl.classList.toggle("active", state.freeOnly);
   freeToggleEl.setAttribute("aria-pressed", state.freeOnly ? "true" : "false");
 
@@ -812,6 +784,10 @@ nextDayBtn.addEventListener("click", () => stepDate(1));
 // Our own calendar dropdown (the native picker kept failing on iPhones).
 dateLabelEl.addEventListener("click", () => (calendarEl.hidden ? openCalendar() : closeCalendar()));
 calendarEl.addEventListener("click", (e) => {
+  // Keep inside-clicks from reaching the document outside-click handler: a month
+  // step rebuilds calendarEl.innerHTML, detaching e.target, after which that
+  // handler's closest("#calendar") returns null and wrongly closes the calendar.
+  e.stopPropagation();
   const step = e.target.closest("[data-cal-step]");
   if (step && !step.disabled) {
     const [y, m] = calMonth.split("-").map(Number);
@@ -835,7 +811,6 @@ document.addEventListener("click", (e) => {
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && !calendarEl.hidden) closeCalendar();
 });
-cityFilterEl.addEventListener("change", () => setCityFilter(cityFilterEl.value));
 freeToggleEl.addEventListener("click", () => setFreeOnly(!state.freeOnly));
 
 matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", () => startTickerAnimation());

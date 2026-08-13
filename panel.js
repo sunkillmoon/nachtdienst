@@ -145,13 +145,33 @@
     return lines.join("\r\n");
   }
   function downloadIcs(event) {
-    const blob = new Blob([buildIcs(event)], { type: "text/calendar;charset=utf-8" });
+    // A data: URI (not blob:) so iOS Safari opens it into the Calendar "Add
+    // event" sheet -- blob downloads went nowhere there.
     const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
+    a.href = "data:text/calendar;charset=utf-8," + encodeURIComponent(buildIcs(event));
     a.download = (event.title || "event").replace(/[^\w-]+/g, "_").slice(0, 60) + ".ics";
+    a.rel = "noopener";
     document.body.appendChild(a);
     a.click();
-    setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    setTimeout(() => a.remove(), 0);
+  }
+  function googleCalUrl(event) {
+    let dates = "";
+    if (event.start) {
+      const s = new Date(event.start);
+      const e = event.end ? new Date(event.end) : new Date(s.getTime() + 4 * 3600 * 1000);
+      dates = `${icsUtc(s)}/${icsUtc(e)}`;
+    } else if (event.date) {
+      const d = event.date.replace(/-/g, "");
+      dates = `${d}/${d}`;
+    }
+    const v = event.venue || {};
+    const loc = v.address || (v.name ? (v.area ? `${v.name}, ${v.area}` : v.name) : "");
+    const details = [`https://nachtkaart.nl/?event=${encodeURIComponent(event.id)}`, event.ra_url, lineupText(event) && "Lineup: " + lineupText(event)].filter(Boolean).join("\n\n");
+    const p = new URLSearchParams({ action: "TEMPLATE", text: event.title || "Event", details });
+    if (dates) p.set("dates", dates);
+    if (loc) p.set("location", loc);
+    return "https://calendar.google.com/calendar/render?" + p.toString();
   }
   function hasWhen(event) { return !!(event.start || event.date); }
 
@@ -240,15 +260,13 @@
         (hasCoords ? `<a class="nk-btn" href="${mapsDirectionsUrl(v.lat, v.lng)}" target="_blank" rel="noopener">DIRECTIONS</a>` : "") +
         (v.name ? `<button class="nk-btn${loggedInFav ? " active" : ""}" type="button" id="nkFav">${loggedInFav ? "FAVORITED" : "FAVORITE VENUE"}</button>` : "") +
         (hasWhen(event) ? `<button class="nk-btn" type="button" data-ics>ADD TO CALENDAR</button>` : "") +
+        (hasWhen(event) ? `<a class="nk-btn" href="${esc(googleCalUrl(event))}" target="_blank" rel="noopener">GOOGLE CAL</a>` : "") +
       `</div>` +
       (event.id ? `<div class="nk-rsvp">` +
         `<button class="nk-btn nk-rsvp-btn${pickStatus === "went" ? " active" : ""}" type="button" data-rsvp="went">WENT</button>` +
         (eventEnded(event) ? "" :
           `<button class="nk-btn nk-rsvp-btn${pickStatus === "want_to_go" ? " active" : ""}" type="button" data-rsvp="want_to_go">WANT TO GO</button>`) +
-      `</div>` : "") +
-      // After marking WANT TO GO, nudge to add it to the calendar (the RA link etc. stay in Links above).
-      (pickStatus === "want_to_go" && hasWhen(event)
-        ? `<div class="nk-cal-nudge"><button class="nk-btn" type="button" data-ics>ADD TO CALENDAR</button></div>` : "");
+      `</div>` : "");
 
     bodyEl.querySelectorAll("[data-ics]").forEach((b) => b.addEventListener("click", () => downloadIcs(event)));
 
@@ -335,8 +353,6 @@
   .nk-btn.active{ background:var(--accent); color:var(--bg); border-color:var(--accent); font-weight:700; }
   .nk-rsvp{ display:flex; gap:8px; margin-top:16px; }
   .nk-rsvp-btn{ flex:1; }
-  .nk-cal-nudge{ margin-top:8px; }
-  .nk-cal-nudge .nk-btn{ width:100%; font-size:10px; }
   .nk-lightbox{ position:fixed; inset:0; background:#000; display:flex; align-items:center; justify-content:center; opacity:0; pointer-events:none; transition:opacity .2s ease; z-index:40; cursor:pointer; }
   .nk-lightbox.open{ opacity:1; pointer-events:auto; }
   .nk-lightbox img{ max-width:100%; max-height:100%; object-fit:contain; }

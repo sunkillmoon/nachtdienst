@@ -23,6 +23,25 @@ function formatGigDate(dateStr) {
   return `${d} ${MONTHS[m - 1]} ${y}`;
 }
 
+// The current "night" (see nightlogic: a moment belongs to (now - 8h).date()).
+function currentNight() {
+  const t = Date.now() - 8 * 3600 * 1000;
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Amsterdam" }).format(new Date(t));
+}
+
+// Bucket upcoming/past at RENDER time against now (the entity JSON's split is
+// frozen at scrape time and goes stale between scrapes).
+function bucketGigs(data) {
+  const seen = new Map();
+  for (const g of [...(data.gigs || []), ...(data.upcoming || []), ...(data.past || [])]) seen.set(g.id, g);
+  const all = [...seen.values()];
+  const now = currentNight();
+  return {
+    upcoming: all.filter((g) => g.date >= now).sort((a, b) => (a.date < b.date ? -1 : 1)),
+    past: all.filter((g) => g.date < now).sort((a, b) => (a.date > b.date ? -1 : 1)),
+  };
+}
+
 function abbr(name) {
   const words = name.split(/[^A-Za-z0-9]+/).filter(Boolean);
   const a = words.length >= 2 ? words.slice(0, 4).map((w) => w[0]).join("") : (words[0] || "??").slice(0, 4);
@@ -113,9 +132,10 @@ async function init() {
   renderFavorite(venue);
   renderMap(venue);
   gigs = [];
+  const buckets = bucketGigs(venue);
   mainEl.innerHTML =
-    renderSection("UPCOMING", venue.upcoming || []) +
-    renderSection("PAST", venue.past || []);
+    renderSection("UPCOMING", buckets.upcoming) +
+    renderSection("PAST", buckets.past);
   wireGigRows(mainEl);
 
   // Re-render FAVORITE once the real session/favorite-state resolves and on later changes.
