@@ -3,16 +3,6 @@
   "name": "Export",
   "upcoming": [
     {
-      "id": "ra:2486670",
-      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2486670"
-    },
-    {
       "id": "ra:2489651",
       "title": "Fafi Abdel Nour, Meena, Nanton",
       "date": "2026-08-07",
@@ -21,6 +11,16 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489651"
+    },
+    {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
     },
     {
       "id": "ra:2486672",
@@ -41,6 +41,16 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2491401"
+    },
+    {
+      "id": "ra:2506014",
+      "title": "doo-bop, Doktoro, sima k",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506014"
     },
     {
       "id": "ra:2501667",
@@ -65,6 +75,16 @@
   ],
   "past": [
     {
+      "id": "ra:2486670",
+      "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2486670"
+    },
+    {
       "id": "ra:2486665",
       "title": "Bean party",
       "date": "2026-07-25",
@@ -87,8 +107,13 @@
   ],
   "top_artists": [
     {
-      "id": "75878",
-      "name": "Fafi Abdel Nour",
+      "id": "178844",
+      "name": "iMarly",
+      "count": 1
+    },
+    {
+      "id": "133627",
+      "name": "COLD ASS ICE",
       "count": 1
     },
     {
@@ -112,28 +137,23 @@
       "count": 1
     },
     {
+      "id": "175054",
+      "name": "doo-bop",
+      "count": 1
+    },
+    {
+      "id": "85044",
+      "name": "Doktoro",
+      "count": 1
+    },
+    {
+      "id": "131050",
+      "name": "sima k",
+      "count": 1
+    },
+    {
       "id": "143160",
       "name": "Alírio",
-      "count": 1
-    },
-    {
-      "id": "40349",
-      "name": "Faustin",
-      "count": 1
-    },
-    {
-      "id": "103438",
-      "name": "kimmah",
-      "count": 1
-    },
-    {
-      "id": "77263",
-      "name": "Nene H",
-      "count": 1
-    },
-    {
-      "id": "112928",
-      "name": "Slimfit",
       "count": 1
     }
   ]

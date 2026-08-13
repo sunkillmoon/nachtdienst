@@ -11,10 +11,30 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423424"
+    },
+    {
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503161"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "22644",
+      "name": "Sunju Hargun",
+      "count": 2
+    },
+    {
+      "id": "126327",
+      "name": "Tauceti (FR)",
+      "count": 2
+    },
     {
       "id": "136260",
       "name": "Beatrice M.",
@@ -53,16 +73,6 @@
     {
       "id": "135170",
       "name": "Innersha",
-      "count": 1
-    },
-    {
-      "id": "81305",
-      "name": "JakoJako",
-      "count": 1
-    },
-    {
-      "id": "3854",
-      "name": "Kangding Ray",
       "count": 1
     }
   ]

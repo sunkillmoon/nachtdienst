@@ -1,7 +1,8 @@
 {
   "id": "191289",
   "name": "RB | PR",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500699",
       "title": "MISS HONEY*",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2500699"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "137929",

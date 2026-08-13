@@ -6,16 +6,6 @@
   "lng": 4.52,
   "upcoming": [
     {
-      "id": "ra:2502108",
-      "title": "PALMBEATS",
-      "date": "2026-08-02",
-      "start": "2026-08-02T13:00+02:00",
-      "venue": "Manii Beach",
-      "venue_id": "287886",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502108"
-    },
-    {
       "id": "ra:2484813",
       "title": "Last Days Of Summer",
       "date": "2026-08-29",
@@ -27,6 +17,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2502108",
+      "title": "PALMBEATS",
+      "date": "2026-08-02",
+      "start": "2026-08-02T13:00+02:00",
+      "venue": "Manii Beach",
+      "venue_id": "287886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502108"
+    },
     {
       "id": "ra:2397297",
       "title": "OIWA Beach Festival 2026",

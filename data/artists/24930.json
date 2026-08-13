@@ -42,6 +42,16 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490652"
+    },
+    {
+      "id": "ra:2507048",
+      "title": "De Sluwe Vos",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2507048"
     }
   ],
   "past": [

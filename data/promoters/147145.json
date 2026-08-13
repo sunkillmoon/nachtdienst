@@ -3,16 +3,6 @@
   "name": "A'DAM Toren",
   "upcoming": [
     {
-      "id": "ra:2481285",
-      "title": "Tower of Love - Pride editon",
-      "date": "2026-08-01",
-      "start": "2026-08-01T19:00+02:00",
-      "venue": "The Loft Amsterdam",
-      "venue_id": "190657",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481285"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -83,11 +73,32 @@
       "url": "https://ra.co/events/2459394"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481285",
+      "title": "Tower of Love - Pride editon",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481285"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 3
+    },
     {
       "id": "98741",
       "name": "Aline Rocha",
+      "count": 2
+    },
+    {
+      "id": "45901",
+      "name": "Dan Shake",
       "count": 2
     },
     {
@@ -96,8 +107,23 @@
       "count": 2
     },
     {
+      "id": "90020",
+      "name": "Demi Riquisimo",
+      "count": 2
+    },
+    {
+      "id": "65049",
+      "name": "DJ Holographic",
+      "count": 2
+    },
+    {
       "id": "77557",
       "name": "Easttown",
+      "count": 2
+    },
+    {
+      "id": "117739",
+      "name": "Ella Knight",
       "count": 2
     },
     {
@@ -106,33 +132,8 @@
       "count": 2
     },
     {
-      "id": "117966",
-      "name": "Joëlla Jackson",
-      "count": 2
-    },
-    {
-      "id": "36517",
-      "name": "Kitty Amor",
-      "count": 2
-    },
-    {
-      "id": "48752",
-      "name": "Low Steppa",
-      "count": 2
-    },
-    {
-      "id": "76335",
-      "name": "Mason Collective",
-      "count": 2
-    },
-    {
-      "id": "22744",
-      "name": "Mousse T.",
-      "count": 2
-    },
-    {
-      "id": "66206",
-      "name": "ROOG",
+      "id": "47",
+      "name": "Ian Pooley",
       "count": 2
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "id": "33234",
+  "name": "Black Coffee",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2504026",
+      "title": "Black Coffee",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Ziggo Dome",
+      "venue_id": "70463",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504026"
+    }
+  ],
+  "past": []
+}

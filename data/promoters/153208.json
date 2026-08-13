@@ -1,7 +1,8 @@
 {
   "id": "153208",
   "name": "PALMBEATS",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2502108",
       "title": "PALMBEATS",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2502108"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "97085",

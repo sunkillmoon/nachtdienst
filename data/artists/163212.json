@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2499053",
+      "title": "LockeRRoom #42",
+      "date": "2026-08-15",
+      "start": "2026-08-15T22:00+02:00",
+      "venue": "Club Church",
+      "venue_id": "95535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499053"
+    },
+    {
       "id": "ra:2492900",
       "title": "Techno Tuesday Amsterdam, Dexon, CHAFA, Alix",
       "date": "2026-08-18",
@@ -12,6 +22,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492900"
+    },
+    {
+      "id": "ra:2507363",
+      "title": "Techno Tuesday Amsterdam, CHAFA & Dexon extended sets",
+      "date": "2026-09-15",
+      "start": "2026-09-15T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507363"
     }
   ],
   "past": []

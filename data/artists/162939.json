@@ -2,7 +2,8 @@
   "id": "162939",
   "name": "Seven Angels",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456898",
       "title": "Madam by Night invites: Kult Funktion",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456898"
     }
-  ],
-  "past": []
+  ]
 }

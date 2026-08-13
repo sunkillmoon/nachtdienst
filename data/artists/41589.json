@@ -2,7 +2,8 @@
   "id": "41589",
   "name": "Zombies In Miami",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480218",
       "title": "Zombies in Miami",
@@ -12,9 +13,7 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480218"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488834",
       "title": "CLUB GOTO: PINK WEDNESDAY",

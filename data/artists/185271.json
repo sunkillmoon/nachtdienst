@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2487894",
-      "title": "Gay Disko",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Oliva",
-      "venue_id": "179504",
+      "id": "ra:2487497",
+      "title": "3xNYX: In the Mix",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2487894"
-    },
+      "url": "https://ra.co/events/2487497"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2483964",
       "title": "Heated Rivalrave",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2483964"
     },
     {
-      "id": "ra:2487497",
-      "title": "3xNYX: In the Mix",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
+      "id": "ra:2487894",
+      "title": "Gay Disko",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2487497"
+      "url": "https://ra.co/events/2487894"
     }
-  ],
-  "past": []
+  ]
 }

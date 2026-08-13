@@ -2,7 +2,18 @@
   "id": "2930",
   "name": "I-F",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
+    }
+  ],
   "past": [
     {
       "id": "ra:2419546",

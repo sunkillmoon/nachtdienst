@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2490009",
+      "title": "Naked KNIT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490009"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",
       "date": "2026-08-01",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462147"
     }
-  ],
-  "past": []
+  ]
 }

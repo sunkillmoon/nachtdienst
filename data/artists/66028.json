@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494712",
-      "title": "Pride Special x UNDRGRND - Techno Edition",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494712"
-    },
-    {
-      "id": "ra:2496831",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496831"
-    },
-    {
       "id": "ra:2496771",
       "title": "Under One Groove - Melodic & Peak Time Techno",
       "date": "2026-08-07",
@@ -105,7 +85,7 @@
     },
     {
       "id": "ra:2487589",
-      "title": "ADE 2026 - Beatfreak Recordings x UNDRGRND",
+      "title": "ADE 2026 - Beatfreak Records x UNDRGRND",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "John Doe",
@@ -115,7 +95,7 @@
     },
     {
       "id": "ra:2399776",
-      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt GIORGIA ANGIULI Juliet Fox",
+      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt Girigia Angiulí Juliet Fox",
       "date": "2026-10-25",
       "start": "2026-10-25T20:00+01:00",
       "venue": "John Doe",
@@ -125,6 +105,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2496831",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496831"
+    },
+    {
+      "id": "ra:2494712",
+      "title": "Pride Special x UNDRGRND - Techno Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494712"
+    },
     {
       "id": "ra:2475643",
       "title": "No Sundays Without Techno",

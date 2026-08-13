@@ -6,36 +6,6 @@
   "lng": 4.92572,
   "upcoming": [
     {
-      "id": "ra:2464185",
-      "title": "Dekmantel At Night - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464185"
-    },
-    {
-      "id": "ra:2464196",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464196"
-    },
-    {
-      "id": "ra:2464920",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464920"
-    },
-    {
       "id": "ra:2494092",
       "title": "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST",
       "date": "2026-08-07",
@@ -96,6 +66,16 @@
       "url": "https://ra.co/events/2494102"
     },
     {
+      "id": "ra:2507269",
+      "title": "Piuma at BAR40 w/​ Helena Renedo, GC (Live), DHN",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507269"
+    },
+    {
       "id": "ra:2494104",
       "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",
       "date": "2026-08-22",
@@ -104,6 +84,16 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494104"
+    },
+    {
+      "id": "ra:2508099",
+      "title": "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508099"
     },
     {
       "id": "ra:2494107",
@@ -137,6 +127,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2464920",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464920"
+    },
+    {
+      "id": "ra:2464196",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464196"
+    },
+    {
+      "id": "ra:2464185",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464185"
+    },
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",

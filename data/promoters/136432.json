@@ -1,0 +1,34 @@
+{
+  "id": "136432",
+  "name": "3Gram",
+  "upcoming": [
+    {
+      "id": "ra:2504684",
+      "title": "The Voyage - an Ambient Journey with Gin & Tonic",
+      "date": "2026-09-13",
+      "start": "2026-09-13T14:30+02:00",
+      "venue": "Podium Victorie",
+      "venue_id": "5543",
+      "area": "All",
+      "url": "https://ra.co/events/2504684"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112501",
+      "name": "Gin & Tonic",
+      "count": 1
+    },
+    {
+      "id": "48422",
+      "name": "Gwenan",
+      "count": 1
+    },
+    {
+      "id": "2841",
+      "name": "Eli Verveine",
+      "count": 1
+    }
+  ]
+}

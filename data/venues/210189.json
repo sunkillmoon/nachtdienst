@@ -6,34 +6,24 @@
   "lng": 5.0834009,
   "upcoming": [
     {
-      "id": "ra:2469382",
-      "title": "CLUBNACHT / CHEWCHEW (All Night)",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
+      "id": "ra:2505068",
+      "title": "Playground X Club Coco",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
       "venue": "NAR",
       "venue_id": "210189",
       "area": "Utrecht",
-      "url": "https://ra.co/events/2469382"
+      "url": "https://ra.co/events/2505068"
     },
     {
-      "id": "ra:2495209",
-      "title": "Fluff Disco",
-      "date": "2026-08-01",
-      "start": "2026-08-01T13:00+02:00",
+      "id": "ra:2506036",
+      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
       "venue": "NAR",
       "venue_id": "210189",
       "area": "Utrecht",
-      "url": "https://ra.co/events/2495209"
-    },
-    {
-      "id": "ra:2475988",
-      "title": "DE DANSVLOER / LYLO",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2475988"
+      "url": "https://ra.co/events/2506036"
     },
     {
       "id": "ra:2373343",
@@ -57,6 +47,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2475988",
+      "title": "DE DANSVLOER / LYLO",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2495209",
+      "title": "Fluff Disco",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2495209"
+    },
+    {
+      "id": "ra:2469382",
+      "title": "CLUBNACHT / CHEWCHEW (All Night)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469382"
+    },
     {
       "id": "ra:2469378",
       "title": "DE DANSVLOER / DJ Hushpuppy & Hunter",

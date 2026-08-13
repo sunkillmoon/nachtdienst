@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2462147",
-      "title": "TILLATEC invites: Herrensauna + KNIT",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462147"
-    },
-    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -82,9 +72,29 @@
       "venue_id": "86709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2442143",
+      "title": "Le Guess Who? 2026",
+      "date": "2026-11-05",
+      "start": "2026-11-05T17:00+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442143"
     }
   ],
   "past": [
+    {
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462147"
+    },
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",

@@ -3,26 +3,6 @@
   "name": "UNDRGRND Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2494712",
-      "title": "Pride Special x UNDRGRND - Techno Edition",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494712"
-    },
-    {
-      "id": "ra:2496831",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496831"
-    },
-    {
       "id": "ra:2496771",
       "title": "Under One Groove - Melodic & Peak Time Techno",
       "date": "2026-08-07",
@@ -103,8 +83,28 @@
       "url": "https://ra.co/events/2497101"
     },
     {
+      "id": "ra:2508072",
+      "title": "ADE 2026 Opening - JHONATAN OSPINA x House Mag Showcase",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508072"
+    },
+    {
+      "id": "ra:2507148",
+      "title": "ADE 2026 - BEFORE × EKANITE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507148"
+    },
+    {
       "id": "ra:2487589",
-      "title": "ADE 2026 - Beatfreak Recordings x UNDRGRND",
+      "title": "ADE 2026 - Beatfreak Records x UNDRGRND",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "John Doe",
@@ -114,6 +114,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2496831",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496831"
+    },
+    {
+      "id": "ra:2494712",
+      "title": "Pride Special x UNDRGRND - Techno Edition",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494712"
+    },
     {
       "id": "ra:2475643",
       "title": "No Sundays Without Techno",
@@ -167,6 +187,21 @@
       "count": 1
     },
     {
+      "id": "117500",
+      "name": "JHONATAN OSPINA",
+      "count": 1
+    },
+    {
+      "id": "167661",
+      "name": "ARTISTIKK",
+      "count": 1
+    },
+    {
+      "id": "180370",
+      "name": "GAB (ES)",
+      "count": 1
+    },
+    {
       "id": "69889",
       "name": "Alex Medina",
       "count": 1
@@ -179,21 +214,6 @@
     {
       "id": "100260",
       "name": "Darksidevinyl",
-      "count": 1
-    },
-    {
-      "id": "176945",
-      "name": "Slimflo",
-      "count": 1
-    },
-    {
-      "id": "182197",
-      "name": "Lilin",
-      "count": 1
-    },
-    {
-      "id": "34115",
-      "name": "Dunkel",
       "count": 1
     }
   ]

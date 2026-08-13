@@ -6,14 +6,14 @@
   "lng": 4.894278,
   "upcoming": [
     {
-      "id": "ra:2460181",
-      "title": "Love Floats",
-      "date": "2026-08-01",
-      "start": "2026-08-01T19:00+02:00",
+      "id": "ra:2503439",
+      "title": "Source: The Boatparty",
+      "date": "2026-08-28",
+      "start": "2026-08-28T18:00+02:00",
       "venue": "Supperclub Cruise",
       "venue_id": "34719",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2460181"
+      "url": "https://ra.co/events/2503439"
     },
     {
       "id": "ra:2458761",
@@ -36,5 +36,16 @@
       "url": "https://ra.co/events/2426450"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2460181",
+      "title": "Love Floats",
+      "date": "2026-08-01",
+      "start": "2026-08-01T19:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460181"
+    }
+  ]
 }

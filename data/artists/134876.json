@@ -2,7 +2,8 @@
   "id": "134876",
   "name": "Di After",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462151",
       "title": "TILLATEC invites: KNIT + VESELKA",
@@ -12,9 +13,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462151"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488834",
       "title": "CLUB GOTO: PINK WEDNESDAY",

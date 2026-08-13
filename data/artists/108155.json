@@ -12,6 +12,16 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2505209",
+      "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",
+      "date": "2026-08-09",
+      "start": "2026-08-09T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505209"
     }
   ],
   "past": []

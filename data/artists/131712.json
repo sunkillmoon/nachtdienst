@@ -2,7 +2,8 @@
   "id": "131712",
   "name": "JØASE",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496598",
       "title": "JØASE ANL - FREE PRIDE RAVE",
@@ -23,6 +24,5 @@
       "area": "All",
       "url": "https://ra.co/events/2501581"
     }
-  ],
-  "past": []
+  ]
 }

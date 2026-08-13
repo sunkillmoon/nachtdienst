@@ -2,7 +2,8 @@
   "id": "90311",
   "name": "PACH",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476114",
       "title": "PACH. curates",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476114"
     }
-  ],
-  "past": []
+  ]
 }

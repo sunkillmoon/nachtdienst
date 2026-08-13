@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2444343",
-      "title": "Dekmantel Festival 2026 - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2444343"
-    },
-    {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
       "date": "2026-08-08",
@@ -32,9 +22,39 @@
       "venue_id": "2081",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2403392",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403392"
+    },
+    {
+      "id": "ra:2403394",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 2)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403394"
     }
   ],
   "past": [
+    {
+      "id": "ra:2444343",
+      "title": "Dekmantel Festival 2026 - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2444343"
+    },
     {
       "id": "ra:2429269",
       "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",

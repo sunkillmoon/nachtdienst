@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2449012",
-      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2449012"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -65,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2449012",
+      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449012"
+    },
     {
       "id": "ra:2435241",
       "title": "De Binnenstad",

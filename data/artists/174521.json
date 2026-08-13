@@ -2,7 +2,8 @@
   "id": "174521",
   "name": "Zerra",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481847",
       "title": "[PHANTOM GROUP] KLUBNACHT w Ahku / 2LS / TOKOLOSHE / MAR. / Zerra",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481847"
     }
-  ],
-  "past": []
+  ]
 }

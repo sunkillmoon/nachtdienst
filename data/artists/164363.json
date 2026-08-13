@@ -2,7 +2,8 @@
   "id": "164363",
   "name": "Kel Mozy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466195",
       "title": "TOFFLER presents DAF and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466195"
     }
-  ],
-  "past": []
+  ]
 }

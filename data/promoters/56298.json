@@ -3,16 +3,6 @@
   "name": "Intercell",
   "upcoming": [
     {
-      "id": "ra:2465506",
-      "title": "Intercell Industrial Night",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2465506"
-    },
-    {
       "id": "ra:2465223",
       "title": "Intercell Groningen",
       "date": "2026-09-19",
@@ -163,7 +153,18 @@
       "url": "https://ra.co/events/2473398"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2465506",
+      "title": "Intercell Industrial Night",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2465506"
+    }
+  ],
   "top_artists": [
     {
       "id": "114563",
@@ -181,38 +182,38 @@
       "count": 2
     },
     {
-      "id": "69599",
-      "name": "KRTM",
-      "count": 1
-    },
-    {
-      "id": "70648",
-      "name": "Ghost in the Machine",
-      "count": 1
-    },
-    {
-      "id": "101047",
-      "name": "Krista Bourgeois",
-      "count": 1
-    },
-    {
-      "id": "2048",
-      "name": "Perc",
-      "count": 1
-    },
-    {
-      "id": "46540",
-      "name": "Ansome",
-      "count": 1
-    },
-    {
-      "id": "181740",
-      "name": "LINDS (NL)",
-      "count": 1
-    },
-    {
       "id": "103401",
       "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "136611",
+      "name": "Emmz",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
+    {
+      "id": "26085",
+      "name": "Job Jobse",
+      "count": 1
+    },
+    {
+      "id": "106354",
+      "name": "Sam Alfred",
+      "count": 1
+    },
+    {
+      "id": "69666",
+      "name": "Byron Yeates",
       "count": 1
     }
   ]

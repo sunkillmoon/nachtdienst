@@ -2,7 +2,8 @@
   "id": "120531",
   "name": "some out of none",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489606",
       "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489606"
     }
-  ],
-  "past": []
+  ]
 }

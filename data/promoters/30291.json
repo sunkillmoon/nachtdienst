@@ -3,14 +3,14 @@
   "name": "VBX",
   "upcoming": [
     {
-      "id": "ra:2452373",
-      "title": "VBX BRET",
-      "date": "2026-08-01",
-      "start": "2026-08-01T20:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
+      "id": "ra:2505220",
+      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2452373"
+      "url": "https://ra.co/events/2505220"
     },
     {
       "id": "ra:2469789",
@@ -73,38 +73,19 @@
       "url": "https://ra.co/events/2489846"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2452373",
+      "title": "VBX BRET",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452373"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "46616",
-      "name": "Poggio",
-      "count": 1
-    },
-    {
-      "id": "93746",
-      "name": "Hannecart",
-      "count": 1
-    },
-    {
-      "id": "40414",
-      "name": "Gabriel Belabbas",
-      "count": 1
-    },
-    {
-      "id": "48655",
-      "name": "Franziska Berns",
-      "count": 1
-    },
-    {
-      "id": "93941",
-      "name": "DIEDE",
-      "count": 1
-    },
-    {
-      "id": "50373",
-      "name": "Charlotte (FR)",
-      "count": 1
-    },
     {
       "id": "36505",
       "name": "Shanti Celeste",
@@ -123,6 +104,36 @@
     {
       "id": "51119",
       "name": "Jennifer Loveless",
+      "count": 1
+    },
+    {
+      "id": "118862",
+      "name": "A For Alpha",
+      "count": 1
+    },
+    {
+      "id": "81868",
+      "name": "Oriana",
+      "count": 1
+    },
+    {
+      "id": "86453",
+      "name": "Michelle",
+      "count": 1
+    },
+    {
+      "id": "3481",
+      "name": "Jane Fitz",
+      "count": 1
+    },
+    {
+      "id": "62252",
+      "name": "Richard Fearless",
+      "count": 1
+    },
+    {
+      "id": "86429",
+      "name": "Bitzer Maloney",
       "count": 1
     }
   ]

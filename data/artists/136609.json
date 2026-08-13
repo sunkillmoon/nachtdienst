@@ -2,7 +2,8 @@
   "id": "136609",
   "name": "Merissa Mahilaa",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480551",
       "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480551"
     }
-  ],
-  "past": []
+  ]
 }

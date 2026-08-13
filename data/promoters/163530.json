@@ -1,0 +1,29 @@
+{
+  "id": "163530",
+  "name": "Labyrinth Belgium",
+  "upcoming": [
+    {
+      "id": "ra:2373015",
+      "title": "Lost Frequencies - Open Air (3 Hour Set)",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "Evoluon",
+      "venue_id": "82319",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2373015"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "182179",
+      "name": "bees & honey",
+      "count": 1
+    },
+    {
+      "id": "165423",
+      "name": "Isa Roos",
+      "count": 1
+    }
+  ]
+}

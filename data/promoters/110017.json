@@ -1,0 +1,49 @@
+{
+  "id": "110017",
+  "name": "Multifest Events",
+  "upcoming": [
+    {
+      "id": "ra:2503117",
+      "title": "Valtifest",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503117"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "15867",
+      "name": "Remy",
+      "count": 1
+    },
+    {
+      "id": "1565",
+      "name": "DJ Gregory",
+      "count": 1
+    },
+    {
+      "id": "17451",
+      "name": "Erick E",
+      "count": 1
+    },
+    {
+      "id": "28599",
+      "name": "Benjamin Brown",
+      "count": 1
+    },
+    {
+      "id": "6505",
+      "name": "Joey Daniel",
+      "count": 1
+    },
+    {
+      "id": "18887",
+      "name": "Stefano Richetta",
+      "count": 1
+    }
+  ]
+}

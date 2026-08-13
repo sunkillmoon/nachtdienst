@@ -1,7 +1,18 @@
 {
   "id": "95858",
   "name": "Orphic",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503161"
+    }
+  ],
   "past": [
     {
       "id": "ra:2471661",
@@ -16,48 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "157231",
-      "name": "Mila Haj Kasem",
+      "id": "106052",
+      "name": "Loradeniz",
       "count": 1
     },
     {
-      "id": "84095",
-      "name": "Rosati",
+      "id": "174540",
+      "name": "Out Of Place Artefacts",
       "count": 1
     },
     {
-      "id": "109242",
-      "name": "Serti",
+      "id": "10751",
+      "name": "Rødhåd",
       "count": 1
     },
     {
-      "id": "103529",
-      "name": "Thoms Traxx",
+      "id": "48012",
+      "name": ".VRIL",
       "count": 1
     },
     {
-      "id": "174777",
-      "name": "ISA W",
+      "id": "68928",
+      "name": "Merve",
       "count": 1
     },
     {
-      "id": "122099",
-      "name": "Juliana X",
+      "id": "4035",
+      "name": "Portable",
       "count": 1
     },
     {
-      "id": "85310",
-      "name": "MMIV",
+      "id": "60129",
+      "name": "Altinbas",
       "count": 1
     },
     {
-      "id": "146879",
-      "name": "SERAFIM",
+      "id": "97299",
+      "name": "Joline Scheffler",
       "count": 1
     },
     {
-      "id": "105158",
-      "name": "Vuur",
+      "id": "83115",
+      "name": "GiGi FM",
+      "count": 1
+    },
+    {
+      "id": "70323",
+      "name": "Fadi Mohem",
       "count": 1
     }
   ]

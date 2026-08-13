@@ -3,15 +3,17 @@
   "name": "KNIT",
   "upcoming": [
     {
-      "id": "ra:2462147",
-      "title": "TILLATEC invites: Herrensauna + KNIT",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2490009",
+      "title": "Naked KNIT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2462147"
-    },
+      "url": "https://ra.co/events/2490009"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2462151",
       "title": "TILLATEC invites: KNIT + VESELKA",
@@ -23,18 +25,37 @@
       "url": "https://ra.co/events/2462151"
     },
     {
-      "id": "ra:2490009",
-      "title": "Naked KNIT",
-      "date": "2026-08-29",
-      "start": "2026-08-29T22:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
+      "id": "ra:2462147",
+      "title": "TILLATEC invites: Herrensauna + KNIT",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2490009"
+      "url": "https://ra.co/events/2462147"
     }
   ],
-  "past": [],
   "top_artists": [
+    {
+      "id": "185357",
+      "name": "Gian Battista",
+      "count": 2
+    },
+    {
+      "id": "96823",
+      "name": "Berkan V8",
+      "count": 1
+    },
+    {
+      "id": "83132",
+      "name": "Jasper Pol",
+      "count": 1
+    },
+    {
+      "id": "94318",
+      "name": "Alex Ranzino",
+      "count": 1
+    },
     {
       "id": "73940",
       "name": "CARISTA",
@@ -56,11 +77,6 @@
       "count": 1
     },
     {
-      "id": "185357",
-      "name": "Gian Battista",
-      "count": 1
-    },
-    {
       "id": "66408",
       "name": "HAAi",
       "count": 1
@@ -68,21 +84,6 @@
     {
       "id": "143900",
       "name": "Lara Renner",
-      "count": 1
-    },
-    {
-      "id": "70435",
-      "name": "MCMLXXXV",
-      "count": 1
-    },
-    {
-      "id": "77413",
-      "name": "Narciss",
-      "count": 1
-    },
-    {
-      "id": "96082",
-      "name": "Slim Soledad",
       "count": 1
     }
   ]

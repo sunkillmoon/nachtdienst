@@ -6,36 +6,6 @@
   "lng": 4.888833,
   "upcoming": [
     {
-      "id": "ra:2485497",
-      "title": "PRIDE PARTY | AfterGlow Disco",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485497"
-    },
-    {
-      "id": "ra:2494563",
-      "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494563"
-    },
-    {
-      "id": "ra:2485503",
-      "title": "Source",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485503"
-    },
-    {
       "id": "ra:2485505",
       "title": "Function",
       "date": "2026-08-07",
@@ -54,9 +24,139 @@
       "venue_id": "2684",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2485507"
+    },
+    {
+      "id": "ra:2503447",
+      "title": "Source",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503447"
+    },
+    {
+      "id": "ra:2503446",
+      "title": "Function",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503446"
+    },
+    {
+      "id": "ra:2503445",
+      "title": "Young, Rich & Balkan",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503445"
+    },
+    {
+      "id": "ra:2503444",
+      "title": "Favela Events",
+      "date": "2026-08-16",
+      "start": "2026-08-16T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503444"
+    },
+    {
+      "id": "ra:2503443",
+      "title": "SOURCE",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503443"
+    },
+    {
+      "id": "ra:2503441",
+      "title": "Supper's House",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503441"
+    },
+    {
+      "id": "ra:2505867",
+      "title": "SOURCE",
+      "date": "2026-09-03",
+      "start": "2026-09-03T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505867"
+    },
+    {
+      "id": "ra:2505868",
+      "title": "Senses",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505868"
+    },
+    {
+      "id": "ra:2505870",
+      "title": "Function",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505870"
+    },
+    {
+      "id": "ra:2505871",
+      "title": "Young, Rich & Balkan",
+      "date": "2026-09-13",
+      "start": "2026-09-13T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505871"
     }
   ],
   "past": [
+    {
+      "id": "ra:2485503",
+      "title": "Source",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485503"
+    },
+    {
+      "id": "ra:2494563",
+      "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494563"
+    },
+    {
+      "id": "ra:2485497",
+      "title": "PRIDE PARTY | AfterGlow Disco",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485497"
+    },
     {
       "id": "ra:2485492",
       "title": "Supper's House",

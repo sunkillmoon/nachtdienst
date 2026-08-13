@@ -3,36 +3,6 @@
   "name": "RADION ",
   "upcoming": [
     {
-      "id": "ra:2464183",
-      "title": "Dekmantel At Night - Friday",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464183"
-    },
-    {
-      "id": "ra:2464194",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464194"
-    },
-    {
-      "id": "ra:2464912",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464912"
-    },
-    {
       "id": "ra:2485024",
       "title": "RADION invites Justine Perry",
       "date": "2026-08-07",
@@ -53,6 +23,16 @@
       "url": "https://ra.co/events/2433222"
     },
     {
+      "id": "ra:2504772",
+      "title": "RADION x ACTA Gathering",
+      "date": "2026-09-04",
+      "start": "2026-09-04T18:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504772"
+    },
+    {
       "id": "ra:2500670",
       "title": "RADION Season Opener",
       "date": "2026-09-05",
@@ -61,6 +41,36 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500670"
+    },
+    {
+      "id": "ra:2504786",
+      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504786"
+    },
+    {
+      "id": "ra:2507235",
+      "title": "RADION presents: DJ Assault",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507235"
+    },
+    {
+      "id": "ra:2504760",
+      "title": "GRÜV",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504760"
     },
     {
       "id": "ra:2494196",
@@ -115,6 +125,36 @@
   ],
   "past": [
     {
+      "id": "ra:2464912",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2464194",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464194"
+    },
+    {
+      "id": "ra:2464183",
+      "title": "Dekmantel At Night - Friday",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464183"
+    },
+    {
       "id": "ra:2447897",
       "title": "Closer Milano - RADION CLUB TOUR",
       "date": "2026-07-24",
@@ -127,19 +167,14 @@
   ],
   "top_artists": [
     {
-      "id": "70323",
-      "name": "Fadi Mohem",
-      "count": 2
+      "id": "136976",
+      "name": "SHE/HER",
+      "count": 3
     },
     {
       "id": "83115",
       "name": "GiGi FM",
-      "count": 2
-    },
-    {
-      "id": "73604",
-      "name": "Justine Perry",
-      "count": 2
+      "count": 3
     },
     {
       "id": "70467",
@@ -149,11 +184,6 @@
     {
       "id": "157228",
       "name": "Hashashin",
-      "count": 2
-    },
-    {
-      "id": "136976",
-      "name": "SHE/HER",
       "count": 2
     },
     {
@@ -167,13 +197,23 @@
       "count": 2
     },
     {
-      "id": "104265",
-      "name": "AMORAL",
-      "count": 1
+      "id": "64729",
+      "name": "Remco Beekwilder",
+      "count": 2
     },
     {
-      "id": "99288",
-      "name": "Decoder",
+      "id": "73604",
+      "name": "Justine Perry",
+      "count": 2
+    },
+    {
+      "id": "70323",
+      "name": "Fadi Mohem",
+      "count": 2
+    },
+    {
+      "id": "156723",
+      "name": "BOYCA",
       "count": 1
     }
   ]

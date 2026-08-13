@@ -1,7 +1,8 @@
 {
   "id": "159818",
   "name": "YEREYERE",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490649",
       "title": "YEREYERE x PAARDENRAVE World Pride 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2490649"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "111450",

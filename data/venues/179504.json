@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.366485,
   "lng": 4.89663,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487894",
       "title": "Gay Disko",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487894"
     }
-  ],
-  "past": []
+  ]
 }

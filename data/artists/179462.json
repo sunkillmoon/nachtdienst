@@ -2,7 +2,8 @@
   "id": "179462",
   "name": "POSTMAN",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494147",
       "title": "Parris & Postman",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494147"
     }
-  ],
-  "past": []
+  ]
 }

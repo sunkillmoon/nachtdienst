@@ -14,5 +14,16 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "96188",
+      "name": "Vanell",
+      "count": 1
+    },
+    {
+      "id": "32873",
+      "name": "Karmon",
+      "count": 1
+    }
+  ]
 }

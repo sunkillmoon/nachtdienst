@@ -1,0 +1,69 @@
+{
+  "id": "53928",
+  "name": "Le Guess Who?",
+  "upcoming": [
+    {
+      "id": "ra:2442143",
+      "title": "Le Guess Who? 2026",
+      "date": "2026-11-05",
+      "start": "2026-11-05T17:00+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442143"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "186106",
+      "name": "Los Thuthanaka",
+      "count": 2
+    },
+    {
+      "id": "153737",
+      "name": "Aba Shanti-I",
+      "count": 1
+    },
+    {
+      "id": "99036",
+      "name": "Azu Tiwaline",
+      "count": 1
+    },
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    },
+    {
+      "id": "119098",
+      "name": "Chinnamasta",
+      "count": 1
+    },
+    {
+      "id": "107217",
+      "name": "Introspekt",
+      "count": 1
+    },
+    {
+      "id": "84708",
+      "name": "Kelman Duran",
+      "count": 1
+    },
+    {
+      "id": "12599",
+      "name": "Mad Professor",
+      "count": 1
+    },
+    {
+      "id": "104009",
+      "name": "ojoo",
+      "count": 1
+    },
+    {
+      "id": "58206",
+      "name": "Sa Pa",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "76997",
   "name": "Dee Diggs",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2468330",
       "title": "ISAbella • Dee Diggs",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2468330"
     }
-  ],
-  "past": []
+  ]
 }

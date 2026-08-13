@@ -1,0 +1,28 @@
+{
+  "id": "678",
+  "name": "DJ Pierre",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2503286",
+      "title": "About Us ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503286"
+    },
+    {
+      "id": "ra:2503288",
+      "title": "Official ADE After Party",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503288"
+    }
+  ],
+  "past": []
+}

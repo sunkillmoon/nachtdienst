@@ -1,7 +1,8 @@
 {
   "id": "117355",
   "name": "BOPS",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2355301",
       "title": "BOPS x KIKI - WorldPride Amsterdam",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2355301"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "107976",

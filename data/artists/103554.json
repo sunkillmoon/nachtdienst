@@ -2,7 +2,8 @@
   "id": "103554",
   "name": "Miguel De Bois",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
@@ -12,9 +13,7 @@
       "venue_id": "156433",
       "area": "All",
       "url": "https://ra.co/events/2431383"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2485525",
       "title": "Park Kronenburg",

@@ -3,16 +3,6 @@
   "name": "Time is the new space",
   "upcoming": [
     {
-      "id": "ra:2496753",
-      "title": "HIDDEN BEHIND x TIME Vol. 20",
-      "date": "2026-08-06",
-      "start": "2026-08-06T20:30+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2496753"
-    },
-    {
       "id": "ra:2489790",
       "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
       "date": "2026-08-07",
@@ -33,6 +23,26 @@
       "url": "https://ra.co/events/2496821"
     },
     {
+      "id": "ra:2507139",
+      "title": "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION",
+      "date": "2026-08-13",
+      "start": "2026-08-13T18:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2507139"
+    },
+    {
+      "id": "ra:2505069",
+      "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505069"
+    },
+    {
       "id": "ra:2490623",
       "title": "PAUZE",
       "date": "2026-08-15",
@@ -41,15 +51,41 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490623"
+    },
+    {
+      "id": "ra:2506251",
+      "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Brutus",
+      "venue_id": "256406",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506251"
+    },
+    {
+      "id": "ra:2506056",
+      "title": "Het Vreemd (Album Release)",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506056"
     }
   ],
-  "past": [],
-  "top_artists": [
+  "past": [
     {
-      "id": "95967",
-      "name": "Borokov Borokov",
-      "count": 1
-    },
+      "id": "ra:2496753",
+      "title": "HIDDEN BEHIND x TIME Vol. 20",
+      "date": "2026-08-06",
+      "start": "2026-08-06T20:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2496753"
+    }
+  ],
+  "top_artists": [
     {
       "id": "117173",
       "name": "Ambu Bambu",
@@ -63,6 +99,21 @@
     {
       "id": "164336",
       "name": "georg-i",
+      "count": 1
+    },
+    {
+      "id": "98041",
+      "name": "Ofra",
+      "count": 1
+    },
+    {
+      "id": "60612",
+      "name": "Palmbomen II",
+      "count": 1
+    },
+    {
+      "id": "95967",
+      "name": "Borokov Borokov",
       "count": 1
     }
   ]

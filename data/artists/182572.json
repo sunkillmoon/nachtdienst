@@ -12,6 +12,26 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2481531"
+    },
+    {
+      "id": "ra:2506893",
+      "title": "De Binnenstad x Sam Hofman Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506893"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
     }
   ],
   "past": []

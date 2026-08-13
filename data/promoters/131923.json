@@ -3,18 +3,8 @@
   "name": "RavingCharlie",
   "upcoming": [
     {
-      "id": "ra:2422941",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / ROBBY / KRØVØ / CITØ",
-      "date": "2026-08-05",
-      "start": "2026-08-05T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422941"
-    },
-    {
       "id": "ra:2330521",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ TOMAGAN [AT] / ØLCZYK / BRIZZIA  ",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
       "date": "2026-08-08",
       "start": "2026-08-08T23:00+02:00",
       "venue": "Panama",
@@ -54,7 +44,7 @@
     },
     {
       "id": "ra:2423000",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
       "date": "2026-08-21",
       "start": "2026-08-21T23:30+02:00",
       "venue": "Melkweg",
@@ -64,7 +54,7 @@
     },
     {
       "id": "ra:2422949",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / BUZINEZZLADY / ENVISION / LUCKY",
       "date": "2026-08-26",
       "start": "2026-08-26T23:00+02:00",
       "venue": "nachbar",
@@ -93,6 +83,76 @@
       "url": "https://ra.co/events/2502109"
     },
     {
+      "id": "ra:2506137",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-09",
+      "start": "2026-09-09T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506137"
+    },
+    {
+      "id": "ra:2507446",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-16",
+      "start": "2026-09-16T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507446"
+    },
+    {
+      "id": "ra:2507451",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-23",
+      "start": "2026-09-23T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507451"
+    },
+    {
+      "id": "ra:2507463",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-30",
+      "start": "2026-09-30T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507463"
+    },
+    {
+      "id": "ra:2507469",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-10-07",
+      "start": "2026-10-07T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507469"
+    },
+    {
+      "id": "ra:2507679",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-10-14",
+      "start": "2026-10-14T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507679"
+    },
+    {
+      "id": "ra:2507684",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507684"
+    },
+    {
       "id": "ra:2498430",
       "title": "RAVING CHARLIE: Halloween Rave",
       "date": "2026-10-30",
@@ -101,9 +161,29 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498430"
+    },
+    {
+      "id": "ra:2507696",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-11-04",
+      "start": "2026-11-04T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507696"
     }
   ],
   "past": [
+    {
+      "id": "ra:2422941",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / ROBBY / KRØVØ / CITØ",
+      "date": "2026-08-05",
+      "start": "2026-08-05T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422941"
+    },
     {
       "id": "ra:2422934",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ ØLCZYK / UTOPIA / CRYSTAL BITCH / KATSUKI",
@@ -137,6 +217,11 @@
   ],
   "top_artists": [
     {
+      "id": "164212",
+      "name": "Zeyvers",
+      "count": 2
+    },
+    {
       "id": "178757",
       "name": "7AZ (1)",
       "count": 1
@@ -157,13 +242,13 @@
       "count": 1
     },
     {
-      "id": "129156",
-      "name": "Kuzio",
+      "id": "148333",
+      "name": "SWAGGER",
       "count": 1
     },
     {
-      "id": "164212",
-      "name": "Zeyvers",
+      "id": "129156",
+      "name": "Kuzio",
       "count": 1
     },
     {

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453528",
-      "title": "Planet Angels",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453528"
-    },
-    {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
       "date": "2026-08-22",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2466330"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    }
+  ]
 }

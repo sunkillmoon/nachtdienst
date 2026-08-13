@@ -1,0 +1,41 @@
+{
+  "id": "299375",
+  "name": "House of Noa",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2506820",
+      "title": "House of Noa House Party",
+      "date": "2026-08-08",
+      "start": "2026-08-08T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": "299375",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506820"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2490445",
+      "title": "House of Noa House Party",
+      "date": "2026-07-18",
+      "start": "2026-07-18T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490445"
+    },
+    {
+      "id": "ra:2490438",
+      "title": "House of Noa House Party",
+      "date": "2026-07-17",
+      "start": "2026-07-17T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490438"
+    }
+  ]
+}

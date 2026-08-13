@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2431383",
-      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
-      "date": "2026-08-01",
-      "start": "2026-08-01T14:00+02:00",
-      "venue": "Graanfabriek",
-      "venue_id": "156433",
-      "area": "All",
-      "url": "https://ra.co/events/2431383"
-    },
-    {
       "id": "ra:2251187",
       "title": "Daycare Festival",
       "date": "2026-08-08",
@@ -22,6 +12,16 @@
       "venue_id": "108349",
       "area": "All",
       "url": "https://ra.co/events/2251187"
+    },
+    {
+      "id": "ra:2491497",
+      "title": "Club Day & Night (Season opening)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491497"
     },
     {
       "id": "ra:2385645",
@@ -44,6 +44,16 @@
       "url": "https://ra.co/events/2437294"
     },
     {
+      "id": "ra:2506887",
+      "title": "De Binnenstad x TNT Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506887"
+    },
+    {
       "id": "ra:2470321",
       "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
       "date": "2026-10-30",
@@ -55,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2431383",
+      "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2431383"
+    },
     {
       "id": "ra:2488586",
       "title": "BRET x Off World - Olivia Lensen + SPECIAL GUEST",

@@ -22,6 +22,26 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2487480"
+    },
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    },
+    {
+      "id": "ra:2501967",
+      "title": "Heavy House Society ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501967"
     }
   ],
   "past": []

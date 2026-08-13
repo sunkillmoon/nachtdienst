@@ -3,6 +3,108 @@
   "name": "Dekmantel",
   "upcoming": [
     {
+      "id": "ra:2495711",
+      "title": "DKMNTL at BRET",
+      "date": "2026-09-06",
+      "start": "2026-09-06T14:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495711"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2458255",
+      "title": "Dekmantel Festival 2026 - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458255"
+    },
+    {
+      "id": "ra:2464904",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464904"
+    },
+    {
+      "id": "ra:2464912",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464912"
+    },
+    {
+      "id": "ra:2464920",
+      "title": "Dekmantel At Night - Sunday",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464920"
+    },
+    {
+      "id": "ra:2464923",
+      "title": "DKMNTL at RAUM",
+      "date": "2026-08-02",
+      "start": "2026-08-02T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464923"
+    },
+    {
+      "id": "ra:2458162",
+      "title": "Dekmantel Festival 2026 - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T11:00+02:00",
+      "venue": "Amsterdamse Bos",
+      "venue_id": "10328",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458162"
+    },
+    {
+      "id": "ra:2464189",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464189"
+    },
+    {
+      "id": "ra:2464194",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464194"
+    },
+    {
+      "id": "ra:2464196",
+      "title": "Dekmantel At Night - Saturday",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464196"
+    },
+    {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",
       "date": "2026-07-31",
@@ -42,108 +144,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464185"
     },
-    {
-      "id": "ra:2458162",
-      "title": "Dekmantel Festival 2026 - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458162"
-    },
-    {
-      "id": "ra:2464194",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464194"
-    },
-    {
-      "id": "ra:2464196",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464196"
-    },
-    {
-      "id": "ra:2464189",
-      "title": "Dekmantel At Night - Saturday",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464189"
-    },
-    {
-      "id": "ra:2458255",
-      "title": "Dekmantel Festival 2026 - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T11:00+02:00",
-      "venue": "Amsterdamse Bos",
-      "venue_id": "10328",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458255"
-    },
-    {
-      "id": "ra:2464923",
-      "title": "DKMNTL at RAUM",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464923"
-    },
-    {
-      "id": "ra:2464912",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464912"
-    },
-    {
-      "id": "ra:2464904",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464904"
-    },
-    {
-      "id": "ra:2464920",
-      "title": "Dekmantel At Night - Sunday",
-      "date": "2026-08-02",
-      "start": "2026-08-02T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464920"
-    },
-    {
-      "id": "ra:2495711",
-      "title": "DKMNTL at BRET",
-      "date": "2026-09-06",
-      "start": "2026-09-06T14:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495711"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2429269",
       "title": "Dekmantel Festival x STOOR Live - Into The City - Thursday",

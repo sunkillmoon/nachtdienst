@@ -6,6 +6,18 @@
   "lng": 4.903119,
   "upcoming": [
     {
+      "id": "ra:2504306",
+      "title": "OBERHAUM: Garden Radio",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504306"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2479505",
       "title": "HTRK",
       "date": "2026-08-06",
@@ -15,6 +27,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479505"
     }
-  ],
-  "past": []
+  ]
 }

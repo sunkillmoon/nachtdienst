@@ -2,7 +2,8 @@
   "id": "165704",
   "name": "dirtydms",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464920",
       "title": "Dekmantel At Night - Sunday",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464920"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2351984",
       "title": "Dekmantel Festival 2026",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2454376",
-      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2454376"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -34,6 +24,16 @@
       "url": "https://ra.co/events/2309929"
     },
     {
+      "id": "ra:2504956",
+      "title": "Effy presents: Clubgirls",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504956"
+    },
+    {
       "id": "ra:2473373",
       "title": "Intercell x Eris Drew & Octo Octa | ADE By Day",
       "date": "2026-10-24",
@@ -45,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2454376",
+      "title": "DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454376"
+    },
     {
       "id": "ra:2466421",
       "title": "Doppelgang • Lola Edo",

@@ -6,16 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2480551",
-      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480551"
-    },
-    {
       "id": "ra:2500689",
       "title": "Eichenbaum all-night-long",
       "date": "2026-08-07",
@@ -26,6 +16,46 @@
       "url": "https://ra.co/events/2500689"
     },
     {
+      "id": "ra:2504816",
+      "title": "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504816"
+    },
+    {
+      "id": "ra:2507946",
+      "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",
+      "date": "2026-08-15",
+      "start": "2026-08-15T18:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507946"
+    },
+    {
+      "id": "ra:2504931",
+      "title": "Collé All Night Long",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504931"
+    },
+    {
+      "id": "ra:2508104",
+      "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",
+      "date": "2026-08-21",
+      "start": "2026-08-21T18:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508104"
+    },
+    {
       "id": "ra:2476119",
       "title": "Common_Ground: Corren Cavini All Night Long",
       "date": "2026-08-22",
@@ -34,6 +64,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476119"
+    },
+    {
+      "id": "ra:2504901",
+      "title": "Ninsa b2b Vero",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504901"
     },
     {
       "id": "ra:2477038",
@@ -54,6 +94,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471398"
+    },
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
     },
     {
       "id": "ra:2484740",
@@ -137,6 +187,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2480551",
+      "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480551"
+    },
     {
       "id": "ra:2420618",
       "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",

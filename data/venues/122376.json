@@ -6,26 +6,6 @@
   "lng": 4.902859,
   "upcoming": [
     {
-      "id": "ra:2401524",
-      "title": "Madam by Night: Pride",
-      "date": "2026-07-31",
-      "start": "2026-07-31T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2401524"
-    },
-    {
-      "id": "ra:2456898",
-      "title": "Madam by Night invites: Kult Funktion",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456898"
-    },
-    {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",
       "date": "2026-08-07",
@@ -247,6 +227,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2401524",
+      "title": "Madam by Night: Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401524"
+    },
     {
       "id": "ra:2401521",
       "title": "Madam by Night invites: Papi Tut Mir Leid",

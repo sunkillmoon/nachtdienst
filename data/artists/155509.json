@@ -2,7 +2,8 @@
   "id": "155509",
   "name": "BARROSKINI",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440419",
       "title": "RAUM invites Mala Junta",
@@ -12,9 +13,7 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440419"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",

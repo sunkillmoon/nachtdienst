@@ -2,7 +2,8 @@
   "id": "299",
   "name": "Juan Atkins",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",
@@ -12,9 +13,7 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2444343"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2429304",
       "title": "Dekmantel Festival - Into The City - Thursday",

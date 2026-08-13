@@ -3,26 +3,6 @@
   "name": "Madam Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2401524",
-      "title": "Madam by Night: Pride",
-      "date": "2026-07-31",
-      "start": "2026-07-31T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2401524"
-    },
-    {
-      "id": "ra:2456898",
-      "title": "Madam by Night invites: Kult Funktion",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456898"
-    },
-    {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",
       "date": "2026-08-07",
@@ -255,6 +235,26 @@
   ],
   "past": [
     {
+      "id": "ra:2456898",
+      "title": "Madam by Night invites: Kult Funktion",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2401524",
+      "title": "Madam by Night: Pride",
+      "date": "2026-07-31",
+      "start": "2026-07-31T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2401524"
+    },
+    {
       "id": "ra:2401521",
       "title": "Madam by Night invites: Papi Tut Mir Leid",
       "date": "2026-07-25",
@@ -287,6 +287,11 @@
   ],
   "top_artists": [
     {
+      "id": "379",
+      "name": "Carl Craig",
+      "count": 3
+    },
+    {
       "id": "140301",
       "name": "Dirk Schot",
       "count": 2
@@ -297,8 +302,23 @@
       "count": 2
     },
     {
+      "id": "45901",
+      "name": "Dan Shake",
+      "count": 2
+    },
+    {
       "id": "28587",
       "name": "David Penn",
+      "count": 2
+    },
+    {
+      "id": "90020",
+      "name": "Demi Riquisimo",
+      "count": 2
+    },
+    {
+      "id": "65049",
+      "name": "DJ Holographic",
       "count": 2
     },
     {
@@ -307,33 +327,13 @@
       "count": 2
     },
     {
+      "id": "117739",
+      "name": "Ella Knight",
+      "count": 2
+    },
+    {
       "id": "53893",
       "name": "Ferreck Dawn",
-      "count": 2
-    },
-    {
-      "id": "117966",
-      "name": "Joëlla Jackson",
-      "count": 2
-    },
-    {
-      "id": "36517",
-      "name": "Kitty Amor",
-      "count": 2
-    },
-    {
-      "id": "48752",
-      "name": "Low Steppa",
-      "count": 2
-    },
-    {
-      "id": "76335",
-      "name": "Mason Collective",
-      "count": 2
-    },
-    {
-      "id": "22744",
-      "name": "Mousse T.",
       "count": 2
     }
   ]

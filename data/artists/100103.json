@@ -12,6 +12,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452089"
+    },
+    {
+      "id": "ra:2403392",
+      "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2403392"
     }
   ],
   "past": []

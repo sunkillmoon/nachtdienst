@@ -2,7 +2,8 @@
   "id": "63999",
   "name": "CEM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2462147"
     }
-  ],
-  "past": []
+  ]
 }

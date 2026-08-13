@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2440421",
-      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
-      "date": "2026-08-01",
-      "start": "2026-08-01T20:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440421"
-    },
-    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -75,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2440421",
+      "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
+      "date": "2026-08-01",
+      "start": "2026-08-01T20:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440421"
+    },
     {
       "id": "ra:2464040",
       "title": "De Reünie",

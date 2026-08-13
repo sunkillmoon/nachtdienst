@@ -1,7 +1,8 @@
 {
   "id": "189882",
   "name": "Queer Aunties",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481029",
       "title": "Queer Aunties presents: Aunties in Amsterdam",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2481029"
     }
   ],
-  "past": [],
   "top_artists": []
 }

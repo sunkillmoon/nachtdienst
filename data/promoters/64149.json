@@ -3,14 +3,14 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477378",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
+      "id": "ra:2503305",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
       "venue": "John Doe",
       "venue_id": "109140",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2477378"
+      "url": "https://ra.co/events/2503305"
     },
     {
       "id": "ra:2477391",
@@ -33,6 +33,16 @@
       "url": "https://ra.co/events/2477393"
     },
     {
+      "id": "ra:2503308",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-17",
+      "start": "2026-08-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503308"
+    },
+    {
       "id": "ra:2477395",
       "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
       "date": "2026-08-20",
@@ -43,6 +53,16 @@
       "url": "https://ra.co/events/2477395"
     },
     {
+      "id": "ra:2503311",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-24",
+      "start": "2026-08-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503311"
+    },
+    {
       "id": "ra:2477399",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-27",
@@ -51,9 +71,29 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477399"
+    },
+    {
+      "id": "ra:2503313",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-31",
+      "start": "2026-08-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503313"
     }
   ],
   "past": [
+    {
+      "id": "ra:2477378",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477378"
+    },
     {
       "id": "ra:2477375",
       "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",
@@ -97,6 +137,11 @@
   ],
   "top_artists": [
     {
+      "id": "131240",
+      "name": "NO1ELSE",
+      "count": 6
+    },
+    {
       "id": "99004",
       "name": "Marco Ramos",
       "count": 6
@@ -104,11 +149,6 @@
     {
       "id": "89568",
       "name": "No Intellectual Property",
-      "count": 2
-    },
-    {
-      "id": "131240",
-      "name": "NO1ELSE",
       "count": 2
     },
     {

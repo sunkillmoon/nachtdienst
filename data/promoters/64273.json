@@ -3,26 +3,6 @@
   "name": "Shelter Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2449012",
-      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2449012"
-    },
-    {
-      "id": "ra:2476114",
-      "title": "PACH. curates",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476114"
-    },
-    {
       "id": "ra:2476120",
       "title": "Locky curates",
       "date": "2026-08-07",
@@ -224,6 +204,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476114",
+      "title": "PACH. curates",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476114"
+    },
+    {
+      "id": "ra:2449012",
+      "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449012"
+    },
     {
       "id": "ra:2449009",
       "title": "Hannecart, Byron Yeates, Amaliah, Idilay & More",

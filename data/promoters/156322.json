@@ -1,7 +1,8 @@
 {
   "id": "156322",
   "name": "ADONIS LONDON",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440421",
       "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2440421"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "106638",

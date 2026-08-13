@@ -12,6 +12,16 @@
       "venue_id": "101595",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2417587"
+    },
+    {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
     }
   ],
   "past": []

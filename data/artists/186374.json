@@ -12,6 +12,16 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487497"
+    },
+    {
+      "id": "ra:2506190",
+      "title": "Vrijdag is NYX: International Beyoncé Day",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506190"
     }
   ],
   "past": []

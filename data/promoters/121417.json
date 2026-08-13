@@ -1,0 +1,54 @@
+{
+  "id": "121417",
+  "name": "ANTIDOTE Events",
+  "upcoming": [
+    {
+      "id": "ra:2506023",
+      "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506023"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "115630",
+      "name": "Dylan Fogarty",
+      "count": 1
+    },
+    {
+      "id": "110285",
+      "name": "Flits",
+      "count": 1
+    },
+    {
+      "id": "108399",
+      "name": "VSSR",
+      "count": 1
+    },
+    {
+      "id": "142384",
+      "name": "Mees Javois",
+      "count": 1
+    },
+    {
+      "id": "117525",
+      "name": "Prance",
+      "count": 1
+    },
+    {
+      "id": "160896",
+      "name": "Montse",
+      "count": 1
+    },
+    {
+      "id": "161870",
+      "name": "Varuna Agosti",
+      "count": 1
+    }
+  ]
+}

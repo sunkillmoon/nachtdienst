@@ -2,7 +2,8 @@
   "id": "73578",
   "name": "OMOLOKO",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473182",
       "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",
@@ -12,9 +13,7 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473182"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",

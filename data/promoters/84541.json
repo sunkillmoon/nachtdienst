@@ -14,7 +14,7 @@
     },
     {
       "id": "ra:2411139",
-      "title": "HRMNY by Rose Ringed at the beach",
+      "title": "HRMNY with Rose Ringed 5hrs at the beach",
       "date": "2026-08-29",
       "start": "2026-08-29T13:00+02:00",
       "venue": "Paal69",
@@ -141,6 +141,16 @@
       "venue_id": "204155",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459622"
+    },
+    {
+      "id": "ra:2507687",
+      "title": "Berg Audio",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507687"
     }
   ],
   "past": [
@@ -159,7 +169,7 @@
     {
       "id": "82940",
       "name": "Eichenbaum",
-      "count": 2
+      "count": 3
     },
     {
       "id": "1076",
@@ -169,6 +179,11 @@
     {
       "id": "108112",
       "name": "Rose Ringed",
+      "count": 1
+    },
+    {
+      "id": "47579",
+      "name": "Budakid",
       "count": 1
     },
     {
@@ -199,11 +214,6 @@
     {
       "id": "84862",
       "name": "Genesi (IT)",
-      "count": 1
-    },
-    {
-      "id": "7541",
-      "name": "Kiko",
       "count": 1
     }
   ]

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2392340",
-      "title": "SOLD OUT Summer of Love Festival 2026",
-      "date": "2026-08-01",
-      "start": "2026-08-01T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2392340"
-    },
-    {
       "id": "ra:2404225",
       "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
       "date": "2026-10-03",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2404225"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2392340",
+      "title": "SOLD OUT Summer of Love Festival 2026",
+      "date": "2026-08-01",
+      "start": "2026-08-01T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2392340"
+    }
+  ]
 }

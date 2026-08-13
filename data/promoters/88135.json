@@ -3,16 +3,6 @@
   "name": "Amsterdam Techno Sessions",
   "upcoming": [
     {
-      "id": "ra:2477378",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477378"
-    },
-    {
       "id": "ra:2477391",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-13",
@@ -54,6 +44,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477378",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477378"
+    },
     {
       "id": "ra:2477375",
       "title": "Amsterdam Techno Sessions w/ Durcheinander (Colombia) & Marco Ramos",

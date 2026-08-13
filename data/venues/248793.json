@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.38,
   "lng": 4.92,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2502172",
       "title": "TOKRA",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502172"
     }
-  ],
-  "past": []
+  ]
 }

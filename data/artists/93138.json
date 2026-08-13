@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2502948",
-      "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502948"
-    },
-    {
       "id": "ra:2501591",
       "title": "Loveland Festival Official Afterparty (Sun)",
       "date": "2026-08-09",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2502948",
+      "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502948"
+    },
     {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",

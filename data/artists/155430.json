@@ -2,7 +2,8 @@
   "id": "155430",
   "name": "Granular Heat",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2445597",
       "title": "Complex Summer with Asphere / Granular Heat / Améli",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2445597"
     }
-  ],
-  "past": []
+  ]
 }

@@ -3,24 +3,14 @@
   "name": "NAR",
   "upcoming": [
     {
-      "id": "ra:2469382",
-      "title": "CLUBNACHT / CHEWCHEW (All Night)",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
+      "id": "ra:2505068",
+      "title": "Playground X Club Coco",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
       "venue": "NAR",
       "venue_id": "210189",
       "area": "Utrecht",
-      "url": "https://ra.co/events/2469382"
-    },
-    {
-      "id": "ra:2475988",
-      "title": "DE DANSVLOER / LYLO",
-      "date": "2026-08-06",
-      "start": "2026-08-06T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2475988"
+      "url": "https://ra.co/events/2505068"
     },
     {
       "id": "ra:2373343",
@@ -44,6 +34,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2475988",
+      "title": "DE DANSVLOER / LYLO",
+      "date": "2026-08-06",
+      "start": "2026-08-06T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475988"
+    },
+    {
+      "id": "ra:2469382",
+      "title": "CLUBNACHT / CHEWCHEW (All Night)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2469382"
+    },
     {
       "id": "ra:2469378",
       "title": "DE DANSVLOER / DJ Hushpuppy & Hunter",
@@ -97,8 +107,13 @@
   ],
   "top_artists": [
     {
-      "id": "179646",
-      "name": "LYLO (NL)",
+      "id": "13075",
+      "name": "Antal",
+      "count": 1
+    },
+    {
+      "id": "97258",
+      "name": "Coco Maria",
       "count": 1
     },
     {
@@ -139,11 +154,6 @@
     {
       "id": "2897",
       "name": "Tama Sumo",
-      "count": 1
-    },
-    {
-      "id": "1910",
-      "name": "Lakuti",
       "count": 1
     }
   ]

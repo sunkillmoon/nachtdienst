@@ -11,8 +11,69 @@
       "venue_id": "250599",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497456"
+    },
+    {
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503161"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "106052",
+      "name": "Loradeniz",
+      "count": 1
+    },
+    {
+      "id": "174540",
+      "name": "Out Of Place Artefacts",
+      "count": 1
+    },
+    {
+      "id": "10751",
+      "name": "Rødhåd",
+      "count": 1
+    },
+    {
+      "id": "48012",
+      "name": ".VRIL",
+      "count": 1
+    },
+    {
+      "id": "68928",
+      "name": "Merve",
+      "count": 1
+    },
+    {
+      "id": "4035",
+      "name": "Portable",
+      "count": 1
+    },
+    {
+      "id": "60129",
+      "name": "Altinbas",
+      "count": 1
+    },
+    {
+      "id": "97299",
+      "name": "Joline Scheffler",
+      "count": 1
+    },
+    {
+      "id": "83115",
+      "name": "GiGi FM",
+      "count": 1
+    },
+    {
+      "id": "70323",
+      "name": "Fadi Mohem",
+      "count": 1
+    }
+  ]
 }

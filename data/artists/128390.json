@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2443210",
-      "title": "Hot Meal presents Mischluft's Hard Feelings [sold out]",
-      "date": "2026-08-01",
-      "start": "2026-08-01T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443210"
-    },
-    {
       "id": "ra:2251187",
       "title": "Daycare Festival",
       "date": "2026-08-08",
@@ -52,9 +42,29 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470633"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
     }
   ],
   "past": [
+    {
+      "id": "ra:2443210",
+      "title": "Hot Meal presents Mischluft's Hard Feelings [sold out]",
+      "date": "2026-08-01",
+      "start": "2026-08-01T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443210"
+    },
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",

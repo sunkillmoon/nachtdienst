@@ -2,7 +2,18 @@
   "id": "184858",
   "name": "Traffic Jam Mosquito",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2506079",
+      "title": "3xNYX hosted by Abby OMG",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506079"
+    }
+  ],
   "past": [
     {
       "id": "ra:2487470",

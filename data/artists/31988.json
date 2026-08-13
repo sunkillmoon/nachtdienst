@@ -2,7 +2,8 @@
   "id": "31988",
   "name": "Silvahfonk",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495223",
       "title": "Cheeky Monday: Silvahfonk",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495223"
     }
-  ],
-  "past": []
+  ]
 }

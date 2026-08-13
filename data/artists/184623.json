@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2453528",
-      "title": "Planet Angels",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2453528"
-    },
-    {
-      "id": "ra:2495536",
-      "title": "Pamela x Waterkant - World Pride",
-      "date": "2026-08-01",
-      "start": "2026-08-01T15:00+02:00",
-      "venue": "Waterkant",
-      "venue_id": "95538",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495536"
-    },
-    {
       "id": "ra:2494101",
       "title": "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality",
       "date": "2026-08-15",
@@ -45,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495536",
+      "title": "Pamela x Waterkant - World Pride",
+      "date": "2026-08-01",
+      "start": "2026-08-01T15:00+02:00",
+      "venue": "Waterkant",
+      "venue_id": "95538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495536"
+    },
+    {
+      "id": "ra:2453528",
+      "title": "Planet Angels",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2453528"
+    },
     {
       "id": "ra:2440412",
       "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",

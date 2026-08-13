@@ -2,7 +2,18 @@
   "id": "179008",
   "name": "Y4R4",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2481852",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
+      "date": "2026-08-11",
+      "start": "2026-08-11T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481852"
+    }
+  ],
   "past": [
     {
       "id": "ra:2489671",

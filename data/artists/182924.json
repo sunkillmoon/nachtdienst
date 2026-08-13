@@ -2,7 +2,8 @@
   "id": "182924",
   "name": "Cathy Grogan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2502948",
       "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502948"
     }
-  ],
-  "past": []
+  ]
 }

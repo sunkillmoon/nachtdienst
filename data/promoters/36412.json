@@ -3,26 +3,6 @@
   "name": "TOFFLER",
   "upcoming": [
     {
-      "id": "ra:2437625",
-      "title": "TOFFLER presents SANTØS and friends",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2437625"
-    },
-    {
-      "id": "ra:2466195",
-      "title": "TOFFLER presents DAF and friends",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466195"
-    },
-    {
       "id": "ra:2466199",
       "title": "TOFFLER presents DUIF and friends",
       "date": "2026-08-07",
@@ -175,6 +155,26 @@
   ],
   "past": [
     {
+      "id": "ra:2466195",
+      "title": "TOFFLER presents DAF and friends",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466195"
+    },
+    {
+      "id": "ra:2437625",
+      "title": "TOFFLER presents SANTØS and friends",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2437625"
+    },
+    {
       "id": "ra:2437621",
       "title": "TOFFLER presents Chico Rose",
       "date": "2026-07-25",
@@ -202,48 +202,48 @@
       "count": 2
     },
     {
-      "id": "171453",
-      "name": "Cici Daze",
-      "count": 1
-    },
-    {
-      "id": "72068",
-      "name": "DAF (UK)",
-      "count": 1
-    },
-    {
-      "id": "164363",
-      "name": "Kel Mozy",
-      "count": 1
-    },
-    {
-      "id": "151115",
-      "name": "Luun",
-      "count": 1
-    },
-    {
-      "id": "168466",
-      "name": "MRJ-K",
-      "count": 1
-    },
-    {
-      "id": "777",
-      "name": "Mossa",
-      "count": 1
-    },
-    {
-      "id": "165551",
-      "name": "NKI (1)",
-      "count": 1
-    },
-    {
-      "id": "169040",
-      "name": "OZ (5)",
-      "count": 1
-    },
-    {
       "id": "173833",
       "name": "emssoleil",
+      "count": 1
+    },
+    {
+      "id": "175064",
+      "name": "Jolani Jhones",
+      "count": 1
+    },
+    {
+      "id": "28841",
+      "name": "Vato Gonzalez",
+      "count": 1
+    },
+    {
+      "id": "163003",
+      "name": "BISOUX",
+      "count": 1
+    },
+    {
+      "id": "162897",
+      "name": "Cleo Grooves",
+      "count": 1
+    },
+    {
+      "id": "175875",
+      "name": "Keykey",
+      "count": 1
+    },
+    {
+      "id": "139982",
+      "name": "Anderdox",
+      "count": 1
+    },
+    {
+      "id": "156910",
+      "name": "Rayen",
+      "count": 1
+    },
+    {
+      "id": "133080",
+      "name": "Chris Brooks",
       "count": 1
     }
   ]

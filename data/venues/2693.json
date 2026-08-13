@@ -6,56 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2386613",
-      "title": "Our World Pride Opening",
-      "date": "2026-07-31",
-      "start": "2026-07-31T22:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2386613"
-    },
-    {
-      "id": "ra:2490639",
-      "title": "PON DI PRIDE - CLUB CHROME",
-      "date": "2026-08-01",
-      "start": "2026-08-01T22:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490639"
-    },
-    {
-      "id": "ra:2495223",
-      "title": "Cheeky Monday: Silvahfonk",
-      "date": "2026-08-03",
-      "start": "2026-08-03T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495223"
-    },
-    {
-      "id": "ra:2492896",
-      "title": "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM",
-      "date": "2026-08-04",
-      "start": "2026-08-04T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492896"
-    },
-    {
-      "id": "ra:2483964",
-      "title": "Heated Rivalrave",
-      "date": "2026-08-06",
-      "start": "2026-08-06T21:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483964"
-    },
-    {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",
       "date": "2026-08-07",
@@ -127,7 +77,7 @@
     },
     {
       "id": "ra:2423000",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
       "date": "2026-08-21",
       "start": "2026-08-21T23:30+02:00",
       "venue": "Melkweg",
@@ -176,6 +126,16 @@
       "url": "https://ra.co/events/2495234"
     },
     {
+      "id": "ra:2507344",
+      "title": "Techno Tuesday Amsterdam, Dexon, Rossa, A.R.T",
+      "date": "2026-09-01",
+      "start": "2026-09-01T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507344"
+    },
+    {
       "id": "ra:2490626",
       "title": "Six Sex PRESENTS",
       "date": "2026-09-04",
@@ -196,6 +156,16 @@
       "url": "https://ra.co/events/2490680"
     },
     {
+      "id": "ra:2507354",
+      "title": "Techno Tuesday Amsterdam, JP aka Lonestriker, Dexon, Obseth",
+      "date": "2026-09-08",
+      "start": "2026-09-08T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507354"
+    },
+    {
       "id": "ra:2490686",
       "title": "TR/ST – Live",
       "date": "2026-09-13",
@@ -204,6 +174,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490686"
+    },
+    {
+      "id": "ra:2507363",
+      "title": "Techno Tuesday Amsterdam, CHAFA & Dexon extended sets",
+      "date": "2026-09-15",
+      "start": "2026-09-15T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507363"
     },
     {
       "id": "ra:2490676",
@@ -224,6 +204,26 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2402813"
+    },
+    {
+      "id": "ra:2507371",
+      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
+      "date": "2026-09-22",
+      "start": "2026-09-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507371"
+    },
+    {
+      "id": "ra:2507375",
+      "title": "Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon",
+      "date": "2026-09-29",
+      "start": "2026-09-29T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507375"
     },
     {
       "id": "ra:2393986",
@@ -404,9 +404,99 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498430"
+    },
+    {
+      "id": "ra:2490689",
+      "title": "Digitalism",
+      "date": "2026-11-05",
+      "start": "2026-11-05T19:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490689"
+    },
+    {
+      "id": "ra:2490669",
+      "title": "Skeler Nightfall World Tour",
+      "date": "2026-11-06",
+      "start": "2026-11-06T19:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490669"
+    },
+    {
+      "id": "ra:2490662",
+      "title": "Garage Nation",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490662"
+    },
+    {
+      "id": "ra:2490656",
+      "title": "Ascension Invites Space Invaderz",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490656"
     }
   ],
   "past": [
+    {
+      "id": "ra:2483964",
+      "title": "Heated Rivalrave",
+      "date": "2026-08-06",
+      "start": "2026-08-06T21:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483964"
+    },
+    {
+      "id": "ra:2492896",
+      "title": "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM",
+      "date": "2026-08-04",
+      "start": "2026-08-04T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492896"
+    },
+    {
+      "id": "ra:2495223",
+      "title": "Cheeky Monday: Silvahfonk",
+      "date": "2026-08-03",
+      "start": "2026-08-03T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495223"
+    },
+    {
+      "id": "ra:2490639",
+      "title": "PON DI PRIDE - CLUB CHROME",
+      "date": "2026-08-01",
+      "start": "2026-08-01T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490639"
+    },
+    {
+      "id": "ra:2386613",
+      "title": "Our World Pride Opening",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2386613"
+    },
     {
       "id": "ra:2429304",
       "title": "Dekmantel Festival - Into The City - Thursday",

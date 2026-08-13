@@ -6,26 +6,6 @@
   "lng": 5.116801,
   "upcoming": [
     {
-      "id": "ra:2488775",
-      "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
-      "date": "2026-07-31",
-      "start": "2026-07-31T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2488775"
-    },
-    {
-      "id": "ra:2475450",
-      "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2475450"
-    },
-    {
       "id": "ra:2478449",
       "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
       "date": "2026-08-07",
@@ -74,6 +54,16 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2478412"
+    },
+    {
+      "id": "ra:2504935",
+      "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2504935"
     },
     {
       "id": "ra:2478403",
@@ -136,6 +126,16 @@
       "url": "https://ra.co/events/2476052"
     },
     {
+      "id": "ra:2504946",
+      "title": "BASIS/ Stan Christ all night long",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2504946"
+    },
+    {
       "id": "ra:2481410",
       "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers",
       "date": "2026-09-26",
@@ -154,9 +154,39 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2485729"
+    },
+    {
+      "id": "ra:2506120",
+      "title": "BASIS/ Rebekah all night long",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2506120"
     }
   ],
   "past": [
+    {
+      "id": "ra:2475450",
+      "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2475450"
+    },
+    {
+      "id": "ra:2488775",
+      "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
+      "date": "2026-07-31",
+      "start": "2026-07-31T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488775"
+    },
     {
       "id": "ra:2468316",
       "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco",

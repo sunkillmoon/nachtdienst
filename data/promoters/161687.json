@@ -1,7 +1,8 @@
 {
   "id": "161687",
   "name": "The Planet Amsterdam",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2453528",
       "title": "Planet Angels",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2453528"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "160251",

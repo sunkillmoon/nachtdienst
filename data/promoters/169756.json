@@ -1,7 +1,8 @@
 {
   "id": "169756",
   "name": "Mala Junta",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440419",
       "title": "RAUM invites Mala Junta",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2440419"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "155509",

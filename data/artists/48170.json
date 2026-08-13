@@ -2,7 +2,8 @@
   "id": "48170",
   "name": "Marsman",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495209",
       "title": "Fluff Disco",
@@ -12,9 +13,7 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2495209"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2419546",
       "title": "Phono Lake's Second Night At The Lake",

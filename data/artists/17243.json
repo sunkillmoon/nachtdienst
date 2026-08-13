@@ -2,7 +2,8 @@
   "id": "17243",
   "name": "Steve Bicknell",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458162"
     }
-  ],
-  "past": []
+  ]
 }

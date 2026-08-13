@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": 52.3741373,
   "lng": 4.8936787,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2503247",
+      "title": "Kadinsky Sessions 075",
+      "date": "2026-08-29",
+      "start": "2026-08-29T20:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503247"
+    }
+  ],
   "past": [
     {
       "id": "ra:2487393",

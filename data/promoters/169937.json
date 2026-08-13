@@ -14,7 +14,7 @@
     },
     {
       "id": "ra:2491473",
-      "title": "Club Night",
+      "title": "Club Night + Presto",
       "date": "2026-09-18",
       "start": "2026-09-18T23:00+02:00",
       "venue": "Laak",
@@ -24,7 +24,7 @@
     },
     {
       "id": "ra:2491494",
-      "title": "Club night",
+      "title": "Club Night",
       "date": "2026-10-02",
       "start": "2026-10-02T23:00+02:00",
       "venue": "Laak",
@@ -44,5 +44,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "48628",
+      "name": "Torus",
+      "count": 1
+    },
+    {
+      "id": "56822",
+      "name": "Max Abysmal",
+      "count": 1
+    },
+    {
+      "id": "106666",
+      "name": "Verity",
+      "count": 1
+    },
+    {
+      "id": "106236",
+      "name": "Rosa",
+      "count": 1
+    },
+    {
+      "id": "44752",
+      "name": "Oceanic",
+      "count": 1
+    },
+    {
+      "id": "108597",
+      "name": "Niebla",
+      "count": 1
+    },
+    {
+      "id": "163531",
+      "name": "Kash Kaval",
+      "count": 1
+    },
+    {
+      "id": "159427",
+      "name": "OLIVIA LENSEN",
+      "count": 1
+    },
+    {
+      "id": "169519",
+      "name": "stevie (3)",
+      "count": 1
+    },
+    {
+      "id": "85780",
+      "name": "Kilo Vee",
+      "count": 1
+    }
+  ]
 }

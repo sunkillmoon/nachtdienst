@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501530",
-      "title": "Mansion Haus",
-      "date": "2026-08-01",
-      "start": "2026-08-01T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
+      "id": "ra:2495676",
+      "title": "Lola x Rinse FM ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2501530"
+      "url": "https://ra.co/events/2495676"
     },
     {
       "id": "ra:2496769",
@@ -22,17 +22,18 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496769"
-    },
-    {
-      "id": "ra:2495676",
-      "title": "Lola x Rinse FM ADE",
-      "date": "2026-10-22",
-      "start": "2026-10-22T18:00+02:00",
-      "venue": "KIT Royal Tropical Institute",
-      "venue_id": "175088",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495676"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2501530",
+      "title": "Mansion Haus",
+      "date": "2026-08-01",
+      "start": "2026-08-01T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501530"
+    }
+  ]
 }

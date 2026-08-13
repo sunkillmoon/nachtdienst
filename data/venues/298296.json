@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.36,
   "lng": 4.88,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497513",
       "title": "VRIJ! Pride Pop Up",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497513"
     }
-  ],
-  "past": []
+  ]
 }

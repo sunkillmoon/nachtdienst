@@ -2,17 +2,8 @@
   "id": "89078",
   "name": "Juliana",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2488590",
-      "title": "HOMOMONUMENT X BRET AFTERHOURS (18+)",
-      "date": "2026-07-31",
-      "start": "2026-07-31T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488590"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456898",
       "title": "Madam by Night invites: Kult Funktion",
@@ -22,7 +13,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456898"
+    },
+    {
+      "id": "ra:2488590",
+      "title": "HOMOMONUMENT X BRET AFTERHOURS (18+)",
+      "date": "2026-07-31",
+      "start": "2026-07-31T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488590"
     }
-  ],
-  "past": []
+  ]
 }

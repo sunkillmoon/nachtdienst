@@ -1,0 +1,44 @@
+{
+  "id": "95033",
+  "name": "Wicked Jazz Sounds",
+  "upcoming": [
+    {
+      "id": "ra:2506770",
+      "title": "A Funky Wicked Jazz Fest 2026",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506770"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "121053",
+      "name": "Another Taste",
+      "count": 1
+    },
+    {
+      "id": "180357",
+      "name": "Drabes",
+      "count": 1
+    },
+    {
+      "id": "45089",
+      "name": "Kid Sublime",
+      "count": 1
+    },
+    {
+      "id": "121308",
+      "name": "Lucas Benjamin",
+      "count": 1
+    },
+    {
+      "id": "115828",
+      "name": "Rob Manga",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "14040",
   "name": "LoPoll",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483741",
       "title": "FLEX werken Pride Special - Amstelhaven",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483741"
     }
-  ],
-  "past": []
+  ]
 }

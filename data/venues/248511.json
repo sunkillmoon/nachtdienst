@@ -6,6 +6,16 @@
   "lng": 4.88,
   "upcoming": [
     {
+      "id": "ra:2507768",
+      "title": "RIPE: ART EXHIBITION & LAUNCH PARTY - with CLBHUIS & Boogie House",
+      "date": "2026-08-28",
+      "start": "2026-08-28T19:30+02:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507768"
+    },
+    {
       "id": "ra:2483609",
       "title": "Boat Club - ADE 2026",
       "date": "2026-10-22",

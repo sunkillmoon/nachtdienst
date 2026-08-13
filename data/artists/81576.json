@@ -2,7 +2,8 @@
   "id": "81576",
   "name": "Yazzus",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2440419",
       "title": "RAUM invites Mala Junta",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2440419"
     }
-  ],
-  "past": []
+  ]
 }

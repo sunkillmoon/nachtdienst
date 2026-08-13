@@ -1,7 +1,8 @@
 {
   "id": "34201",
   "name": "Zwart Goud",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497317",
       "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2497317"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "10350",

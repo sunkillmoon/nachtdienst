@@ -4,17 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.37,
   "lng": 4.9,
-  "upcoming": [
-    {
-      "id": "ra:2500622",
-      "title": "House of Noa house party",
-      "date": "2026-08-01",
-      "start": "2026-08-01T21:30+02:00",
-      "venue": "House of Noa",
-      "venue_id": "298634",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500622"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500699",
       "title": "MISS HONEY*",
@@ -24,28 +15,16 @@
       "venue_id": "298634",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500699"
-    }
-  ],
-  "past": [
-    {
-      "id": "ra:2490445",
-      "title": "House of Noa House Party",
-      "date": "2026-07-18",
-      "start": "2026-07-18T21:30+02:00",
-      "venue": "House of Noa",
-      "venue_id": null,
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490445"
     },
     {
-      "id": "ra:2490438",
-      "title": "House of Noa House Party",
-      "date": "2026-07-17",
-      "start": "2026-07-17T21:30+02:00",
+      "id": "ra:2500622",
+      "title": "House of Noa house party",
+      "date": "2026-08-01",
+      "start": "2026-08-01T21:30+02:00",
       "venue": "House of Noa",
-      "venue_id": null,
+      "venue_id": "298634",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2490438"
+      "url": "https://ra.co/events/2500622"
     }
   ]
 }

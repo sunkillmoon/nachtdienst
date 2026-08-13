@@ -2,7 +2,8 @@
   "id": "182134",
   "name": "UNAUNA KITT",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2474056",
       "title": "PRIDE - PRIDE IS A PROTEST",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2474056"
     }
-  ],
-  "past": []
+  ]
 }

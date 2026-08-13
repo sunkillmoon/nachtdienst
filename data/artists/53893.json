@@ -32,6 +32,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2470324",
+      "title": "Complex Halloween with Ferreck Dawn / Ammé / Max Kilian / The Drift System",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470324"
     }
   ],
   "past": []

@@ -1,0 +1,28 @@
+{
+  "id": "127453",
+  "name": "Gyatso",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2503792",
+      "title": "QUERICO TOKYO in AMS",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503792"
+    },
+    {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    }
+  ],
+  "past": []
+}

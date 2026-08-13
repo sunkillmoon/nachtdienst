@@ -4,7 +4,38 @@
   "area": "Amsterdam",
   "lat": 52.36778,
   "lng": 4.894169,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2506078",
+      "title": "100% KATOEN",
+      "date": "2026-08-13",
+      "start": "2026-08-13T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506078"
+    },
+    {
+      "id": "ra:2506082",
+      "title": "100% KATOEN",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506082"
+    },
+    {
+      "id": "ra:2506085",
+      "title": "100% KATOEN",
+      "date": "2026-08-27",
+      "start": "2026-08-27T20:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506085"
+    }
+  ],
   "past": [
     {
       "id": "ra:2476218",

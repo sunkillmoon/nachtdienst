@@ -1,7 +1,8 @@
 {
   "id": "56793",
   "name": "Herrensauna",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2462147"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "73940",
