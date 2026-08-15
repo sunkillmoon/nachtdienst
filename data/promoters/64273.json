@@ -3,26 +3,6 @@
   "name": "Shelter Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2476120",
-      "title": "Locky curates",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476120"
-    },
-    {
-      "id": "ra:2476133",
-      "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476133"
-    },
-    {
       "id": "ra:2476138",
       "title": "Luke Alessi (all night)",
       "date": "2026-08-14",
@@ -204,6 +184,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476133",
+      "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476133"
+    },
+    {
+      "id": "ra:2476120",
+      "title": "Locky curates",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476120"
+    },
     {
       "id": "ra:2476114",
       "title": "PACH. curates",

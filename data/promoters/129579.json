@@ -41,6 +41,16 @@
       "venue_id": "275591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2510255",
+      "title": "EVOQUE x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510255"
     }
   ],
   "past": [
@@ -59,7 +69,12 @@
     {
       "id": "107694",
       "name": "Cris-H",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "2672",
+      "name": "Paul Sparkes",
+      "count": 2
     },
     {
       "id": "165125",
@@ -79,11 +94,6 @@
     {
       "id": "17377",
       "name": "Nicolas Rada",
-      "count": 1
-    },
-    {
-      "id": "2672",
-      "name": "Paul Sparkes",
       "count": 1
     },
     {

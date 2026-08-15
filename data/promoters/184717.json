@@ -1,0 +1,89 @@
+{
+  "id": "184717",
+  "name": "De Perifeer",
+  "upcoming": [
+    {
+      "id": "ra:2512307",
+      "title": "Achter de Muren: Debbie Huisman",
+      "date": "2026-09-26",
+      "start": "2026-09-26T20:00+02:00",
+      "venue": "Walhalla",
+      "venue_id": "289449",
+      "area": "All",
+      "url": "https://ra.co/events/2512307"
+    },
+    {
+      "id": "ra:2512317",
+      "title": "Perifest 2026",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:30+02:00",
+      "venue": "Het Burgerweeshuis",
+      "venue_id": "10953",
+      "area": "All",
+      "url": "https://ra.co/events/2512317"
+    },
+    {
+      "id": "ra:2512325",
+      "title": "Jaap Blonk & Terrie Ex + SAVIĆ & REONA + boekpresentatie Blonk / Petrichor",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Perifeer",
+      "venue_id": "289451",
+      "area": "All",
+      "url": "https://ra.co/events/2512325"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "179076",
+      "name": "Debbie Huisman",
+      "count": 1
+    },
+    {
+      "id": "129501",
+      "name": "Stefanie Egedy",
+      "count": 1
+    },
+    {
+      "id": "1703",
+      "name": "Speedy J",
+      "count": 1
+    },
+    {
+      "id": "51386",
+      "name": "STERAC",
+      "count": 1
+    },
+    {
+      "id": "161672",
+      "name": "Ryosuke Kiyasu",
+      "count": 1
+    },
+    {
+      "id": "115066",
+      "name": "Rama (2)",
+      "count": 1
+    },
+    {
+      "id": "37152",
+      "name": "Charlemagne Palestine",
+      "count": 1
+    },
+    {
+      "id": "119509",
+      "name": "cadeu",
+      "count": 1
+    },
+    {
+      "id": "119726",
+      "name": "silend",
+      "count": 1
+    },
+    {
+      "id": "171334",
+      "name": "ece era",
+      "count": 1
+    }
+  ]
+}

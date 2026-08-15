@@ -6,26 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2460812",
-      "title": "08 AUG - Thuishaven with Eelke Kleijn 10HRS",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2460812"
-    },
-    {
-      "id": "ra:2454703",
-      "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
-      "date": "2026-08-09",
-      "start": "2026-08-09T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2454703"
-    },
-    {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
       "date": "2026-08-15",
@@ -34,6 +14,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
+    },
+    {
+      "id": "ra:2512409",
+      "title": "Thuishaven Nachtshow with Benny Rodrigues",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512409"
     },
     {
       "id": "ra:2443517",
@@ -167,7 +157,7 @@
     },
     {
       "id": "ra:2482115",
-      "title": "Friday Night with Daria Kolosova invites",
+      "title": "23 OCT - Friday Night with Daria Kolosova invites",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "Thuishaven",
@@ -204,9 +194,39 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2441295"
+    },
+    {
+      "id": "ra:2404228",
+      "title": "Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026",
+      "date": "2026-11-07",
+      "start": "2026-11-07T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2404228"
     }
   ],
   "past": [
+    {
+      "id": "ra:2454703",
+      "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454703"
+    },
+    {
+      "id": "ra:2460812",
+      "title": "08 AUG - Thuishaven with Eelke Kleijn 10HRS",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460812"
+    },
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",

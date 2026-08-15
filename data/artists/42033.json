@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476133",
-      "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476133"
-    },
-    {
       "id": "ra:2500899",
       "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
       "date": "2026-09-19",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2500899"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2476133",
+      "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476133"
+    }
+  ]
 }

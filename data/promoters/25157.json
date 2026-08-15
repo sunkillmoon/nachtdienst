@@ -1,0 +1,84 @@
+{
+  "id": "25157",
+  "name": "Chicago Social Club",
+  "upcoming": [
+    {
+      "id": "ra:2510263",
+      "title": "Maceo Plex presents Lone Romantic",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510263"
+    },
+    {
+      "id": "ra:2510273",
+      "title": "Ely Oaks & Friends - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510273"
+    },
+    {
+      "id": "ra:2510268",
+      "title": "NTO (3 hours live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510268"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "18948",
+      "name": "Maceo Plex",
+      "count": 1
+    },
+    {
+      "id": "44071",
+      "name": "Christian Nielsen",
+      "count": 1
+    },
+    {
+      "id": "176412",
+      "name": "Mack Loenz",
+      "count": 1
+    },
+    {
+      "id": "27204",
+      "name": "Raxon",
+      "count": 1
+    },
+    {
+      "id": "165083",
+      "name": "Ely Oaks",
+      "count": 1
+    },
+    {
+      "id": "7290",
+      "name": "NTO",
+      "count": 1
+    },
+    {
+      "id": "102570",
+      "name": "Hedda Stenberg",
+      "count": 1
+    },
+    {
+      "id": "114634",
+      "name": "Susan Right",
+      "count": 1
+    },
+    {
+      "id": "118202",
+      "name": "Ninsa",
+      "count": 1
+    }
+  ]
+}

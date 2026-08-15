@@ -6,36 +6,6 @@
   "lng": 4.888833,
   "upcoming": [
     {
-      "id": "ra:2485505",
-      "title": "Function",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485505"
-    },
-    {
-      "id": "ra:2485507",
-      "title": "TRUTH",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485507"
-    },
-    {
-      "id": "ra:2503447",
-      "title": "Source",
-      "date": "2026-08-13",
-      "start": "2026-08-13T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503447"
-    },
-    {
       "id": "ra:2503446",
       "title": "Function",
       "date": "2026-08-14",
@@ -66,6 +36,16 @@
       "url": "https://ra.co/events/2503444"
     },
     {
+      "id": "ra:2510580",
+      "title": "Source x Weekdays",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510580"
+    },
+    {
       "id": "ra:2503443",
       "title": "SOURCE",
       "date": "2026-08-27",
@@ -74,6 +54,16 @@
       "venue_id": "2684",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503443"
+    },
+    {
+      "id": "ra:2510574",
+      "title": "Source: The After",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510574"
     },
     {
       "id": "ra:2503441",
@@ -127,6 +117,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503447",
+      "title": "Source",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503447"
+    },
+    {
+      "id": "ra:2485507",
+      "title": "TRUTH",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485507"
+    },
+    {
+      "id": "ra:2485505",
+      "title": "Function",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485505"
+    },
     {
       "id": "ra:2485503",
       "title": "Source",

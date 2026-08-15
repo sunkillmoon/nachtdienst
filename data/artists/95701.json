@@ -2,7 +2,8 @@
   "id": "95701",
   "name": "Julie",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2363397",
       "title": "Het Systeem",
@@ -12,9 +13,7 @@
       "venue_id": "284762",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2363397"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466755",
       "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",

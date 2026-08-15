@@ -12,6 +12,16 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494099"
+    },
+    {
+      "id": "ra:2512482",
+      "title": "afternoon interlude with Nèna",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512482"
     }
   ],
   "past": [

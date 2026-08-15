@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
-    {
       "id": "ra:2491497",
       "title": "Club Day & Night (Season opening)",
       "date": "2026-08-28",
@@ -54,6 +44,16 @@
       "url": "https://ra.co/events/2506887"
     },
     {
+      "id": "ra:2482113",
+      "title": "23 OCT - Friday Day with salute / Diffrent & Bella Claxton",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482113"
+    },
+    {
       "id": "ra:2470321",
       "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
       "date": "2026-10-30",
@@ -65,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    },
     {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",

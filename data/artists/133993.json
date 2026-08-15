@@ -62,6 +62,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2441295"
+    },
+    {
+      "id": "ra:2502544",
+      "title": "Back To Base Eindhoven",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Beursgebouw",
+      "venue_id": "15124",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2502544"
     }
   ],
   "past": [

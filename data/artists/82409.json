@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2363397",
-      "title": "Het Systeem",
-      "date": "2026-08-07",
-      "start": "2026-08-07T19:00+02:00",
-      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
-      "venue_id": "284762",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2363397"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -32,9 +22,29 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
     }
   ],
   "past": [
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

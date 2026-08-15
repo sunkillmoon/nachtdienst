@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2363397",
-      "title": "Het Systeem",
-      "date": "2026-08-07",
-      "start": "2026-08-07T19:00+02:00",
-      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
-      "venue_id": "284762",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2363397"
-    },
-    {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "venue_id": "50801",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
-    },
-    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -44,5 +24,26 @@
       "url": "https://ra.co/events/2490011"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    }
+  ]
 }

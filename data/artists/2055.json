@@ -2,7 +2,8 @@
   "id": "2055",
   "name": "Marc Schneider",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489462",
       "title": "BeHaerd BO.02 - Purposely Connect",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489462"
     }
-  ],
-  "past": []
+  ]
 }

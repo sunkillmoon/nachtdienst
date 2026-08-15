@@ -23,6 +23,16 @@
       "url": "https://ra.co/events/2469789"
     },
     {
+      "id": "ra:2512900",
+      "title": "VBX - Lofi - ADE 23.10",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512900"
+    },
+    {
       "id": "ra:2469603",
       "title": "VBX - BRET - ADE 24.10",
       "date": "2026-10-23",
@@ -112,28 +122,28 @@
       "count": 1
     },
     {
-      "id": "81868",
-      "name": "Oriana",
+      "id": "75509",
+      "name": "Paquita Gordon",
       "count": 1
     },
     {
-      "id": "86453",
-      "name": "Michelle",
+      "id": "14293",
+      "name": "Marco Shuttle",
       "count": 1
     },
     {
-      "id": "3481",
-      "name": "Jane Fitz",
+      "id": "2924",
+      "name": "Frank Haag",
       "count": 1
     },
     {
-      "id": "62252",
-      "name": "Richard Fearless",
+      "id": "15134",
+      "name": "Francesco Del Garda",
       "count": 1
     },
     {
-      "id": "86429",
-      "name": "Bitzer Maloney",
+      "id": "110832",
+      "name": "E.LINA",
       "count": 1
     }
   ]

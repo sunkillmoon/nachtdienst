@@ -1,0 +1,84 @@
+{
+  "id": "95985",
+  "name": "Krackfree Soundsystem",
+  "upcoming": [
+    {
+      "id": "ra:2512181",
+      "title": "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "Keilecafe",
+      "venue_id": "156080",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512181"
+    },
+    {
+      "id": "ra:2512183",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512183"
+    },
+    {
+      "id": "ra:2512190",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
+      "date": "2026-10-09",
+      "start": "2026-10-09T21:00+02:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2512190"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "121179",
+      "name": "Bukkha",
+      "count": 1
+    },
+    {
+      "id": "31139",
+      "name": "V.I.V.E.K.",
+      "count": 1
+    },
+    {
+      "id": "85974",
+      "name": "Hebbe",
+      "count": 1
+    },
+    {
+      "id": "147969",
+      "name": "Helmond Lang",
+      "count": 1
+    },
+    {
+      "id": "82994",
+      "name": "Kessler",
+      "count": 1
+    },
+    {
+      "id": "22793",
+      "name": "TMSV",
+      "count": 1
+    },
+    {
+      "id": "84900",
+      "name": "Margie",
+      "count": 1
+    },
+    {
+      "id": "110141",
+      "name": "Annebel",
+      "count": 1
+    },
+    {
+      "id": "96542",
+      "name": "French II",
+      "count": 1
+    }
+  ]
+}

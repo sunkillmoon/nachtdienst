@@ -32,6 +32,10 @@
     "name": "4AM Network "
   },
   {
+    "id": "128911",
+    "name": "50HERTZ"
+  },
+  {
     "id": "77828",
     "name": "909"
   },
@@ -76,6 +80,14 @@
     "name": "Ambrosia"
   },
   {
+    "id": "192207",
+    "name": "amore.ams"
+  },
+  {
+    "id": "161601",
+    "name": "Amoreamsterdam"
+  },
+  {
     "id": "39106",
     "name": "Amsterdam Dance Event"
   },
@@ -90,6 +102,10 @@
   {
     "id": "88135",
     "name": "Amsterdam Techno Sessions"
+  },
+  {
+    "id": "115884",
+    "name": "AmsterdamBlastEvents"
   },
   {
     "id": "120446",
@@ -152,6 +168,10 @@
     "name": "Audio Obscura"
   },
   {
+    "id": "78933",
+    "name": "AURA"
+  },
+  {
     "id": "39167",
     "name": "Awakenings Festival "
   },
@@ -184,6 +204,10 @@
     "name": "Baron Collective"
   },
   {
+    "id": "180729",
+    "name": "Basement Amsterdam"
+  },
+  {
     "id": "60173",
     "name": "Basic Grooves"
   },
@@ -194,6 +218,10 @@
   {
     "id": "102291",
     "name": "BCCO"
+  },
+  {
+    "id": "16747",
+    "name": "Bedrock"
   },
   {
     "id": "189693",
@@ -220,8 +248,16 @@
     "name": "Big Bells Digital"
   },
   {
+    "id": "86606",
+    "name": "Bimhuis"
+  },
+  {
     "id": "73281",
     "name": "BIRD Rotterdam"
+  },
+  {
+    "id": "86456",
+    "name": "Bizarre Trax"
   },
   {
     "id": "188979",
@@ -300,8 +336,16 @@
     "name": "cell service"
   },
   {
+    "id": "191976",
+    "name": "chab"
+  },
+  {
     "id": "73506",
     "name": "Chasing the Hihat Events"
+  },
+  {
+    "id": "25157",
+    "name": "Chicago Social Club"
   },
   {
     "id": "186141",
@@ -380,6 +424,14 @@
     "name": "De Binnenstad"
   },
   {
+    "id": "73143",
+    "name": "De Helling"
+  },
+  {
+    "id": "184717",
+    "name": "De Perifeer"
+  },
+  {
     "id": "127520",
     "name": "De Reünie"
   },
@@ -410,6 +462,10 @@
   {
     "id": "38800",
     "name": "DGTL "
+  },
+  {
+    "id": "191990",
+    "name": "Diep Events"
   },
   {
     "id": "69187",
@@ -482,6 +538,10 @@
   {
     "id": "43151",
     "name": "Eastenderz"
+  },
+  {
+    "id": "150567",
+    "name": "EELF Presents"
   },
   {
     "id": "180302",
@@ -560,8 +620,16 @@
     "name": "Field Notes International"
   },
   {
+    "id": "188623",
+    "name": "Focal Point"
+  },
+  {
     "id": "190392",
     "name": "For The Rhythm"
+  },
+  {
+    "id": "191725",
+    "name": "FOR YOU"
   },
   {
     "id": "94862",
@@ -596,6 +664,10 @@
     "name": "Fuse London"
   },
   {
+    "id": "97036",
+    "name": "Future Intel"
+  },
+  {
     "id": "191525",
     "name": "Føler.NL"
   },
@@ -622,6 +694,10 @@
   {
     "id": "134203",
     "name": "Get In Sync"
+  },
+  {
+    "id": "121426",
+    "name": "GHOSTS OF GARAGE UK"
   },
   {
     "id": "38746",
@@ -660,12 +736,24 @@
     "name": "Hard Mondays Amsterdam"
   },
   {
+    "id": "187117",
+    "name": "Hazy Days Society"
+  },
+  {
     "id": "79889",
     "name": "HE.SHE.THEY."
   },
   {
+    "id": "191983",
+    "name": "Hektek"
+  },
+  {
     "id": "147029",
     "name": "Herbivox"
+  },
+  {
+    "id": "3029",
+    "name": "Herr Zimmerman"
   },
   {
     "id": "56793",
@@ -696,6 +784,10 @@
     "name": "hito scheveningen"
   },
   {
+    "id": "191980",
+    "name": "HKTK Events"
+  },
+  {
     "id": "187473",
     "name": "HOMEGROUND"
   },
@@ -706,6 +798,14 @@
   {
     "id": "121083",
     "name": "HOTBOX.EVENTS"
+  },
+  {
+    "id": "191732",
+    "name": "House Your Mind Events"
+  },
+  {
+    "id": "189864",
+    "name": "Houtbaar"
   },
   {
     "id": "123751",
@@ -724,6 +824,10 @@
     "name": "hush."
   },
   {
+    "id": "191981",
+    "name": "Hypa Kru"
+  },
+  {
     "id": "190474",
     "name": "HYPERWAVES Records"
   },
@@ -740,12 +844,20 @@
     "name": "InDeep'n'Dance Records"
   },
   {
+    "id": "100597",
+    "name": "INDEx"
+  },
+  {
     "id": "136968",
     "name": "Insomniac Events"
   },
   {
     "id": "56298",
     "name": "Intercell"
+  },
+  {
+    "id": "147381",
+    "name": "Interdependence"
   },
   {
     "id": "29616",
@@ -792,6 +904,10 @@
     "name": "JonesKamil"
   },
   {
+    "id": "192187",
+    "name": "Jordan Fritz"
+  },
+  {
     "id": "148666",
     "name": "JTMusic"
   },
@@ -836,8 +952,16 @@
     "name": "Klankvorm"
   },
   {
+    "id": "159101",
+    "name": "Klub Krai"
+  },
+  {
     "id": "165923",
     "name": "KNIT"
+  },
+  {
+    "id": "95985",
+    "name": "Krackfree Soundsystem"
   },
   {
     "id": "180308",
@@ -846,6 +970,10 @@
   {
     "id": "180306",
     "name": "KRAFT Premium Pounding Techno 3rd of October 2026"
+  },
+  {
+    "id": "172024",
+    "name": "Kray Atief"
   },
   {
     "id": "143134",
@@ -886,6 +1014,10 @@
   {
     "id": "163522",
     "name": "Lelantus"
+  },
+  {
+    "id": "107566",
+    "name": "Les Enfants Brillants"
   },
   {
     "id": "185869",
@@ -972,6 +1104,10 @@
     "name": "Maeve"
   },
   {
+    "id": "160111",
+    "name": "Main Panel"
+  },
+  {
     "id": "169756",
     "name": "Mala Junta"
   },
@@ -1004,12 +1140,20 @@
     "name": "Menno de Jong Productions"
   },
   {
+    "id": "191926",
+    "name": "Mente Carson"
+  },
+  {
     "id": "176787",
     "name": "Mia Banks"
   },
   {
     "id": "136724",
     "name": "Micro Trax"
+  },
+  {
+    "id": "192076",
+    "name": "minimal • vision"
   },
   {
     "id": "99039",
@@ -1024,12 +1168,20 @@
     "name": "MOJO Concerts"
   },
   {
+    "id": "78630",
+    "name": "Monkey Project"
+  },
+  {
     "id": "172111",
     "name": "MONO Rotterdam"
   },
   {
     "id": "84016",
     "name": "MONUMENT"
+  },
+  {
+    "id": "41439",
+    "name": "Moody"
   },
   {
     "id": "174019",
@@ -1100,6 +1252,10 @@
     "name": "Normaal Sounds"
   },
   {
+    "id": "191986",
+    "name": "Nothing Here Now"
+  },
+  {
     "id": "190832",
     "name": "Nudge"
   },
@@ -1114,6 +1270,14 @@
   {
     "id": "115897",
     "name": "OBSCUUR"
+  },
+  {
+    "id": "68658",
+    "name": "Of Paradise"
+  },
+  {
+    "id": "171576",
+    "name": "Off Script"
   },
   {
     "id": "180676",
@@ -1202,6 +1366,10 @@
   {
     "id": "102759",
     "name": "PAX-ROMANA"
+  },
+  {
+    "id": "137926",
+    "name": "Peers+"
   },
   {
     "id": "64214",
@@ -1376,8 +1544,16 @@
     "name": "Robert"
   },
   {
+    "id": "146061",
+    "name": "Rooftop Tapes"
+  },
+  {
     "id": "43423",
     "name": "Rotterdamse Rave"
+  },
+  {
+    "id": "191988",
+    "name": "Royal Surfclub"
   },
   {
     "id": "119157",
@@ -1440,6 +1616,10 @@
     "name": "Sissi's Amsterdam"
   },
   {
+    "id": "170965",
+    "name": "Sixtix"
+  },
+  {
     "id": "130731",
     "name": "Skatecafe Karin & Yvonne"
   },
@@ -1454,6 +1634,10 @@
   {
     "id": "161306",
     "name": "SLAPPED"
+  },
+  {
+    "id": "173714",
+    "name": "Sober Clubbing"
   },
   {
     "id": "176618",
@@ -1508,6 +1692,10 @@
     "name": "Spätkauf "
   },
   {
+    "id": "191534",
+    "name": "St. Odes"
+  },
+  {
     "id": "173003",
     "name": "STRAAL"
   },
@@ -1526,6 +1714,10 @@
   {
     "id": "181314",
     "name": "Stupid Crew"
+  },
+  {
+    "id": "56396",
+    "name": "Subbacultcha"
   },
   {
     "id": "78874",
@@ -1580,6 +1772,10 @@
     "name": "Textures "
   },
   {
+    "id": "128545",
+    "name": "TGS"
+  },
+  {
     "id": "191223",
     "name": "TGTHER"
   },
@@ -1624,6 +1820,10 @@
     "name": "theothersideams"
   },
   {
+    "id": "74354",
+    "name": "TheRootsEvent"
+  },
+  {
     "id": "177566",
     "name": "TheSocialRoom"
   },
@@ -1664,6 +1864,10 @@
     "name": "TOKRA"
   },
   {
+    "id": "192129",
+    "name": "TOKRA COMMUNITY"
+  },
+  {
     "id": "191457",
     "name": "TOXIC ASYLUM"
   },
@@ -1694,6 +1898,10 @@
   {
     "id": "190751",
     "name": "TwoMindsTalking"
+  },
+  {
+    "id": "81671",
+    "name": "Undivide"
   },
   {
     "id": "35463",
@@ -1764,6 +1972,10 @@
     "name": "WAS."
   },
   {
+    "id": "186453",
+    "name": "WaterhouseStudios"
+  },
+  {
     "id": "84541",
     "name": "Watt events"
   },
@@ -1806,6 +2018,10 @@
   {
     "id": "159818",
     "name": "YEREYERE"
+  },
+  {
+    "id": "133555",
+    "name": "You Liang"
   },
   {
     "id": "139471",

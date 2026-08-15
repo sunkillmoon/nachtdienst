@@ -2,7 +2,8 @@
   "id": "180223",
   "name": "Shinshan Salazar",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488633",
       "title": "Baila Baixa",
@@ -12,9 +13,7 @@
       "venue_id": "4842",
       "area": "Utrecht",
       "url": "https://ra.co/events/2488633"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2489890",
       "title": "Carnaval Blockparty",

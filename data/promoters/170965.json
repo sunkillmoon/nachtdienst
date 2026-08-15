@@ -1,0 +1,29 @@
+{
+  "id": "170965",
+  "name": "Sixtix",
+  "upcoming": [
+    {
+      "id": "ra:2512898",
+      "title": "Kármán VI - Community event",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "De Beatfabriek",
+      "venue_id": "300058",
+      "area": "All",
+      "url": "https://ra.co/events/2512898"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "181162",
+      "name": "Ezers",
+      "count": 1
+    },
+    {
+      "id": "184503",
+      "name": "Encomio",
+      "count": 1
+    }
+  ]
+}

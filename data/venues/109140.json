@@ -6,76 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2496771",
-      "title": "Under One Groove - Melodic & Peak Time Techno",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496771"
-    },
-    {
-      "id": "ra:2438868",
-      "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2438868"
-    },
-    {
-      "id": "ra:2496834",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-09",
-      "start": "2026-08-09T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496834"
-    },
-    {
-      "id": "ra:2503305",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-08-10",
-      "start": "2026-08-10T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503305"
-    },
-    {
-      "id": "ra:2481852",
-      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
-      "date": "2026-08-11",
-      "start": "2026-08-11T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481852"
-    },
-    {
-      "id": "ra:2445865",
-      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
-      "date": "2026-08-12",
-      "start": "2026-08-12T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2445865"
-    },
-    {
-      "id": "ra:2477391",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-13",
-      "start": "2026-08-13T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477391"
-    },
-    {
       "id": "ra:2497127",
       "title": "Melodic Astronaut with Doguez & Augustina Aliaga",
       "date": "2026-08-14",
@@ -87,7 +17,7 @@
     },
     {
       "id": "ra:2477393",
-      "title": "Amsterdam Techno Sessions",
+      "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "John Doe",
@@ -117,7 +47,7 @@
     },
     {
       "id": "ra:2482085",
-      "title": "[PHANTOM GROUP] KLUBNACHT w JTN",
+      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
       "date": "2026-08-18",
       "start": "2026-08-18T23:00+02:00",
       "venue": "John Doe",
@@ -457,6 +387,76 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477391",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477391"
+    },
+    {
+      "id": "ra:2445865",
+      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445865"
+    },
+    {
+      "id": "ra:2481852",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
+      "date": "2026-08-11",
+      "start": "2026-08-11T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481852"
+    },
+    {
+      "id": "ra:2503305",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503305"
+    },
+    {
+      "id": "ra:2496834",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-09",
+      "start": "2026-08-09T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496834"
+    },
+    {
+      "id": "ra:2438868",
+      "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2438868"
+    },
+    {
+      "id": "ra:2496771",
+      "title": "Under One Groove - Melodic & Peak Time Techno",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496771"
+    },
     {
       "id": "ra:2477378",
       "title": "Amsterdam Techno Sessions",

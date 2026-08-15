@@ -3,6 +3,18 @@
   "name": "Nachtparlement",
   "upcoming": [
     {
+      "id": "ra:2512317",
+      "title": "Perifest 2026",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:30+02:00",
+      "venue": "Het Burgerweeshuis",
+      "venue_id": "10953",
+      "area": "All",
+      "url": "https://ra.co/events/2512317"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2363397",
       "title": "Het Systeem",
       "date": "2026-08-07",
@@ -13,56 +25,55 @@
       "url": "https://ra.co/events/2363397"
     }
   ],
-  "past": [],
   "top_artists": [
-    {
-      "id": "4619",
-      "name": "Sandrien",
-      "count": 1
-    },
-    {
-      "id": "140652",
-      "name": "Hervé",
-      "count": 1
-    },
-    {
-      "id": "18524",
-      "name": "Pariah",
-      "count": 1
-    },
-    {
-      "id": "85061",
-      "name": "Ogazón",
-      "count": 1
-    },
-    {
-      "id": "95701",
-      "name": "Julie",
-      "count": 1
-    },
-    {
-      "id": "82409",
-      "name": "Jasmín",
-      "count": 1
-    },
-    {
-      "id": "74853",
-      "name": "Jesse G",
-      "count": 1
-    },
     {
       "id": "51386",
       "name": "STERAC",
+      "count": 2
+    },
+    {
+      "id": "129501",
+      "name": "Stefanie Egedy",
       "count": 1
     },
     {
-      "id": "77651",
-      "name": "Rene Wise",
+      "id": "1703",
+      "name": "Speedy J",
       "count": 1
     },
     {
-      "id": "75445",
-      "name": "upsammy",
+      "id": "161672",
+      "name": "Ryosuke Kiyasu",
+      "count": 1
+    },
+    {
+      "id": "115066",
+      "name": "Rama (2)",
+      "count": 1
+    },
+    {
+      "id": "37152",
+      "name": "Charlemagne Palestine",
+      "count": 1
+    },
+    {
+      "id": "119509",
+      "name": "cadeu",
+      "count": 1
+    },
+    {
+      "id": "119726",
+      "name": "silend",
+      "count": 1
+    },
+    {
+      "id": "171334",
+      "name": "ece era",
+      "count": 1
+    },
+    {
+      "id": "4032",
+      "name": "Brian Eno",
       "count": 1
     }
   ]

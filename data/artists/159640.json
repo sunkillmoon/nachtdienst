@@ -2,7 +2,8 @@
   "id": "159640",
   "name": "Pentola",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
     }
-  ],
-  "past": []
+  ]
 }

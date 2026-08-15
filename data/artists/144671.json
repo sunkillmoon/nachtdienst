@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2437906",
-      "title": "Dark Session: H7 FESTIVAL // AMSTERDAM",
+      "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",
       "date": "2026-08-22",
       "start": "2026-08-22T14:00+02:00",
       "venue": "H7 Warehouse",
       "venue_id": "66507",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2437906"
+    },
+    {
+      "id": "ra:2425634",
+      "title": "Claydrum presents KRUELTY / Samuel Moriero / XRTN / Freya",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2425634"
     }
   ],
   "past": [

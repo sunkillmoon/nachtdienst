@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501591",
-      "title": "Loveland Festival Official Afterparty (Sun)",
-      "date": "2026-08-09",
-      "start": "2026-08-09T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501591"
-    },
-    {
       "id": "ra:2473476",
       "title": "24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam",
       "date": "2026-10-24",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501591",
+      "title": "Loveland Festival Official Afterparty (Sun)",
+      "date": "2026-08-09",
+      "start": "2026-08-09T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501591"
+    },
     {
       "id": "ra:2460452",
       "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",

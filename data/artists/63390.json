@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2503973",
+      "title": "st. odes in amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503973"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493231",
       "title": "SOTO",
       "date": "2026-08-08",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493231"
     }
-  ],
-  "past": []
+  ]
 }

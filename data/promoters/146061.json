@@ -1,0 +1,34 @@
+{
+  "id": "146061",
+  "name": "Rooftop Tapes",
+  "upcoming": [
+    {
+      "id": "ra:2511475",
+      "title": "Rooftop Tapes at W Hotel Amsterdam",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511475"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "146150",
+      "name": "Robin Nicolas",
+      "count": 1
+    },
+    {
+      "id": "124216",
+      "name": "FR3ADY",
+      "count": 1
+    },
+    {
+      "id": "171453",
+      "name": "Cici Daze",
+      "count": 1
+    }
+  ]
+}

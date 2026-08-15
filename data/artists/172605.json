@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501500",
-      "title": "lizz.e & Lucky Done Gone",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501500"
-    },
-    {
       "id": "ra:2492123",
       "title": "DJ Life • Moxes • lizz.e",
       "date": "2026-08-22",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501500",
+      "title": "lizz.e & Lucky Done Gone",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501500"
+    },
     {
       "id": "ra:2425635",
       "title": "25 JUL - Thuishaven with Tjade 10HRS SOLD OUT",

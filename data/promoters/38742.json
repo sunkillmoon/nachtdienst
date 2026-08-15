@@ -34,7 +34,7 @@
     },
     {
       "id": "ra:2502427",
-      "title": "Audio Obscura x Thusday House Night",
+      "title": "Audio Obscura ADE x Thusday House Night",
       "date": "2026-10-22",
       "start": "2026-10-22T23:30+02:00",
       "venue": "RAWFACTORY",
@@ -54,7 +54,7 @@
     },
     {
       "id": "ra:2502429",
-      "title": "Audio Obscura x Bad Boombox Invites",
+      "title": "Audio Obscura ADE x Bad Boombox Invites",
       "date": "2026-10-23",
       "start": "2026-10-23T23:30+02:00",
       "venue": "RAWFACTORY",
@@ -64,13 +64,23 @@
     },
     {
       "id": "ra:2478046",
-      "title": "Audio Obscura x The Moment by WhoMadeWho",
+      "title": "Audio Obscura ADE x The Moment by WhoMadeWho",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
       "venue": "RAWFACTORY",
       "venue_id": "190418",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478046"
+    },
+    {
+      "id": "ra:2511714",
+      "title": "Audio Obscura ADE x LAMMER Invites",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511714"
     }
   ],
   "past": [],

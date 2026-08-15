@@ -2,7 +2,8 @@
   "id": "127454",
   "name": "Tida Kamara",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",
@@ -12,9 +13,7 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490643"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462878",
       "title": "ROOTED X BOUNCE THAT BOOTY",

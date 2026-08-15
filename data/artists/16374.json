@@ -2,7 +2,8 @@
   "id": "16374",
   "name": "Demdike Stare",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494092",
       "title": "Demdike Stare, Verity, Vox supreme + bar40 hosted by .WEST",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494092"
     }
-  ],
-  "past": []
+  ]
 }

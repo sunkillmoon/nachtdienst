@@ -1,7 +1,8 @@
 {
   "id": "190134",
   "name": "Latebloomers",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486484",
       "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2486484"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "39963",

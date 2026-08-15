@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2417587",
-      "title": "Blijdorp Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Roel Langerakpark",
-      "venue_id": "101595",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2417587"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2417587",
+      "title": "Blijdorp Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Roel Langerakpark",
+      "venue_id": "101595",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2417587"
+    },
     {
       "id": "ra:2407224",
       "title": "19 JUL - Thuishaven with Philou Louzolo 10HRS",

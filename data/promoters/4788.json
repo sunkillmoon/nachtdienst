@@ -1,7 +1,8 @@
 {
   "id": "4788",
   "name": "Horse Meat Disco",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479631",
       "title": "WorldPride: Horse Meat Disco",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2479631"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "8341",

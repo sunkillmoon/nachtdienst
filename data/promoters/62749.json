@@ -3,26 +3,6 @@
   "name": "RADION ",
   "upcoming": [
     {
-      "id": "ra:2485024",
-      "title": "RADION invites Justine Perry",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485024"
-    },
-    {
-      "id": "ra:2433222",
-      "title": "RADION invites GEGEN",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2433222"
-    },
-    {
       "id": "ra:2504772",
       "title": "RADION x ACTA Gathering",
       "date": "2026-09-04",
@@ -43,6 +23,16 @@
       "url": "https://ra.co/events/2500670"
     },
     {
+      "id": "ra:2507235",
+      "title": "RADION presents: DJ Assault",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507235"
+    },
+    {
       "id": "ra:2504786",
       "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
       "date": "2026-09-11",
@@ -53,14 +43,24 @@
       "url": "https://ra.co/events/2504786"
     },
     {
-      "id": "ra:2507235",
-      "title": "RADION presents: DJ Assault",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
+      "id": "ra:2512493",
+      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507235"
+      "url": "https://ra.co/events/2512493"
+    },
+    {
+      "id": "ra:2510264",
+      "title": "Chlär All Night Long - Vault Sessions & RADION",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510264"
     },
     {
       "id": "ra:2504760",
@@ -125,6 +125,26 @@
   ],
   "past": [
     {
+      "id": "ra:2433222",
+      "title": "RADION invites GEGEN",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433222"
+    },
+    {
+      "id": "ra:2485024",
+      "title": "RADION invites Justine Perry",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485024"
+    },
+    {
       "id": "ra:2464912",
       "title": "Dekmantel At Night - Sunday",
       "date": "2026-08-02",
@@ -177,11 +197,6 @@
       "count": 3
     },
     {
-      "id": "70467",
-      "name": "Mar/us",
-      "count": 2
-    },
-    {
       "id": "157228",
       "name": "Hashashin",
       "count": 2
@@ -197,24 +212,29 @@
       "count": 2
     },
     {
-      "id": "64729",
-      "name": "Remco Beekwilder",
+      "id": "31980",
+      "name": "Cleric",
       "count": 2
     },
     {
-      "id": "73604",
-      "name": "Justine Perry",
+      "id": "181740",
+      "name": "LINDS (NL)",
       "count": 2
     },
     {
-      "id": "70323",
-      "name": "Fadi Mohem",
+      "id": "90691",
+      "name": "Pink Concrete",
       "count": 2
     },
     {
-      "id": "156723",
-      "name": "BOYCA",
-      "count": 1
+      "id": "45935",
+      "name": "Pooja B",
+      "count": 2
+    },
+    {
+      "id": "70467",
+      "name": "Mar/us",
+      "count": 2
     }
   ]
 }

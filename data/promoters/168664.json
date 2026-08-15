@@ -1,7 +1,8 @@
 {
   "id": "168664",
   "name": "Aayush Sharma",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507880",
       "title": "JÄMO + WAXX OFF + La Lani [S44 X CRITICAL FEELING TAKEOVER]",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2507880"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "146324",

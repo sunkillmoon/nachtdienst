@@ -12,6 +12,16 @@
       "venue_id": "205208",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498352"
+    },
+    {
+      "id": "ra:2509328",
+      "title": "CLUB CVNT",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509328"
     }
   ],
   "past": []

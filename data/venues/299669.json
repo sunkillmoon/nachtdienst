@@ -1,0 +1,20 @@
+{
+  "id": "299669",
+  "name": "De Vleeshal",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.64,
+  "upcoming": [
+    {
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
+    }
+  ],
+  "past": []
+}

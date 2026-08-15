@@ -32,6 +32,26 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495692"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2513406",
+      "title": "ON&ON: Locklead e.a",
+      "date": "2026-11-13",
+      "start": "2026-11-13T23:59+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2513406"
     }
   ],
   "past": []

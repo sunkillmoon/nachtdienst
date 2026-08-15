@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2363397",
-      "title": "Het Systeem",
-      "date": "2026-08-07",
-      "start": "2026-08-07T19:00+02:00",
-      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
-      "venue_id": "284762",
+      "id": "ra:2507742",
+      "title": "TILT x Syntax Error",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2363397"
-    },
+      "url": "https://ra.co/events/2507742"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2403643"
     },
     {
-      "id": "ra:2507742",
-      "title": "Syntax Error x TILT",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507742"
+      "url": "https://ra.co/events/2363397"
     }
-  ],
-  "past": []
+  ]
 }

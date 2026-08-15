@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2363397",
-      "title": "Het Systeem",
-      "date": "2026-08-07",
-      "start": "2026-08-07T19:00+02:00",
-      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
-      "venue_id": "284762",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2363397"
-    },
-    {
-      "id": "ra:2505209",
-      "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",
-      "date": "2026-08-09",
-      "start": "2026-08-09T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505209"
-    },
-    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -44,6 +24,16 @@
       "url": "https://ra.co/events/2491613"
     },
     {
+      "id": "ra:2512317",
+      "title": "Perifest 2026",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:30+02:00",
+      "venue": "Het Burgerweeshuis",
+      "venue_id": "10953",
+      "area": "All",
+      "url": "https://ra.co/events/2512317"
+    },
+    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -55,6 +45,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505209",
+      "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",
+      "date": "2026-08-09",
+      "start": "2026-08-09T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505209"
+    },
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

@@ -1,0 +1,20 @@
+{
+  "id": "15124",
+  "name": "Beursgebouw",
+  "area": "Eindhoven",
+  "lat": 51.443062,
+  "lng": 5.476336,
+  "upcoming": [
+    {
+      "id": "ra:2502544",
+      "title": "Back To Base Eindhoven",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Beursgebouw",
+      "venue_id": "15124",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2502544"
+    }
+  ],
+  "past": []
+}

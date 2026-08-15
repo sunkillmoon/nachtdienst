@@ -2,7 +2,8 @@
   "id": "98647",
   "name": "Manda Moor",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
@@ -23,6 +24,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501248"
     }
-  ],
-  "past": []
+  ]
 }

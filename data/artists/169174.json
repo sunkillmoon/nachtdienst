@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2437706",
-      "title": "Club Lofi pres",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2437706"
-    },
-    {
-      "id": "ra:2454597",
-      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2454597"
-    },
-    {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
       "date": "2026-08-29",
@@ -64,5 +44,26 @@
       "url": "https://ra.co/events/2470661"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2454597",
+      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2454597"
+    },
+    {
+      "id": "ra:2437706",
+      "title": "Club Lofi pres",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437706"
+    }
+  ]
 }

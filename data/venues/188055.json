@@ -6,16 +6,6 @@
   "lng": 4.87756,
   "upcoming": [
     {
-      "id": "ra:2478267",
-      "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
-      "date": "2026-08-08",
-      "start": "2026-08-08T15:00+02:00",
-      "venue": "Ijland",
-      "venue_id": "188055",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2478267"
-    },
-    {
       "id": "ra:2414839",
       "title": "Olivier Weiter b2b Miss Melera",
       "date": "2026-09-12",
@@ -57,7 +47,7 @@
     },
     {
       "id": "ra:2476166",
-      "title": "Happy Feelings ADE: Girls Don't Sync Invites - Ijland",
+      "title": "Happy Feelings ADE - Ijland",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
       "venue": "Ijland",
@@ -67,6 +57,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2478267",
+      "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",
+      "date": "2026-08-08",
+      "start": "2026-08-08T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478267"
+    },
     {
       "id": "ra:2483518",
       "title": "DnB XL meets Known Associates",

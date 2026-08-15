@@ -1,0 +1,20 @@
+{
+  "id": "299768",
+  "name": "Club FYX",
+  "area": "All",
+  "lat": 52.22,
+  "lng": 5.96,
+  "upcoming": [
+    {
+      "id": "ra:2510243",
+      "title": "JØASE ANL - FREE RAVE",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club FYX",
+      "venue_id": "299768",
+      "area": "All",
+      "url": "https://ra.co/events/2510243"
+    }
+  ],
+  "past": []
+}

@@ -1,7 +1,28 @@
 {
   "id": "169798",
   "name": "het veld",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2510418",
+      "title": "het veld: The Second Transmission",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510418"
+    },
+    {
+      "id": "ra:2511302",
+      "title": "HET VELD: THE SECOND TRANSMISSION",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511302"
+    }
+  ],
   "past": [
     {
       "id": "ra:2468394",
@@ -18,6 +39,26 @@
     {
       "id": "167750",
       "name": "Mathiéux",
+      "count": 3
+    },
+    {
+      "id": "156220",
+      "name": "MESSIE",
+      "count": 2
+    },
+    {
+      "id": "174505",
+      "name": "LOU FRE$H",
+      "count": 2
+    },
+    {
+      "id": "103322",
+      "name": "gau7t",
+      "count": 2
+    },
+    {
+      "id": "157443",
+      "name": "Bibtiana",
       "count": 1
     },
     {

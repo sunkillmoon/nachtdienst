@@ -2,7 +2,8 @@
   "id": "97432",
   "name": "Mathijs Smit",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
@@ -12,9 +13,7 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2419387",
       "title": "Benwal (ALL DAY LONG) [sold out]",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
-    {
       "id": "ra:2493470",
       "title": "Sissi's by Closecall x Ghosts of Garage",
       "date": "2026-08-29",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2506887"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    }
+  ]
 }

@@ -3,16 +3,6 @@
   "name": "NAR",
   "upcoming": [
     {
-      "id": "ra:2505068",
-      "title": "Playground X Club Coco",
-      "date": "2026-08-09",
-      "start": "2026-08-09T13:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2505068"
-    },
-    {
       "id": "ra:2373343",
       "title": "Het Festival vol. 2",
       "date": "2026-08-29",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505068",
+      "title": "Playground X Club Coco",
+      "date": "2026-08-09",
+      "start": "2026-08-09T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2505068"
+    },
     {
       "id": "ra:2475988",
       "title": "DE DANSVLOER / LYLO",
@@ -107,16 +107,6 @@
   ],
   "top_artists": [
     {
-      "id": "13075",
-      "name": "Antal",
-      "count": 1
-    },
-    {
-      "id": "97258",
-      "name": "Coco Maria",
-      "count": 1
-    },
-    {
       "id": "4561",
       "name": "Hunee",
       "count": 1
@@ -154,6 +144,16 @@
     {
       "id": "2897",
       "name": "Tama Sumo",
+      "count": 1
+    },
+    {
+      "id": "1910",
+      "name": "Lakuti",
+      "count": 1
+    },
+    {
+      "id": "28482",
+      "name": "Mendel",
       "count": 1
     }
   ]

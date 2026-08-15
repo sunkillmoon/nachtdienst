@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436135",
-      "title": "Kinetic Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Hal25",
-      "venue_id": "241842",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2436135"
-    },
-    {
       "id": "ra:2399040",
       "title": "PIP Season Opening",
       "date": "2026-08-29",
@@ -54,6 +44,16 @@
       "url": "https://ra.co/events/2403606"
     },
     {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
+    },
+    {
       "id": "ra:2479598",
       "title": "Brighter Days x Life and Death",
       "date": "2026-10-24",
@@ -65,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "venue_id": "241842",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2436135"
+    },
     {
       "id": "ra:2449821",
       "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",

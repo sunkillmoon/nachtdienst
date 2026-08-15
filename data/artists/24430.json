@@ -2,7 +2,8 @@
   "id": "24430",
   "name": "Kolsch",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
@@ -12,9 +13,7 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",

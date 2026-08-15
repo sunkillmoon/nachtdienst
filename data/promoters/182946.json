@@ -1,7 +1,8 @@
 {
   "id": "182946",
   "name": "SERVE",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492263",
       "title": "SERVE Eurosummer",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2492263"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "36054",

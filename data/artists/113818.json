@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485428",
-      "title": "HYPERPRIDE",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485428"
-    },
-    {
       "id": "ra:2461530",
       "title": "Dissident",
       "date": "2026-08-21",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2485428",
+      "title": "HYPERPRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485428"
+    },
     {
       "id": "ra:2453528",
       "title": "Planet Angels",

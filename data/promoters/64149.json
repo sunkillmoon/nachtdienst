@@ -3,28 +3,8 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2503305",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-08-10",
-      "start": "2026-08-10T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503305"
-    },
-    {
-      "id": "ra:2477391",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-13",
-      "start": "2026-08-13T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477391"
-    },
-    {
       "id": "ra:2477393",
-      "title": "Amsterdam Techno Sessions",
+      "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "John Doe",
@@ -85,6 +65,26 @@
   ],
   "past": [
     {
+      "id": "ra:2477391",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477391"
+    },
+    {
+      "id": "ra:2503305",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503305"
+    },
+    {
       "id": "ra:2477378",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-06",
@@ -137,19 +137,24 @@
   ],
   "top_artists": [
     {
-      "id": "131240",
-      "name": "NO1ELSE",
+      "id": "99004",
+      "name": "Marco Ramos",
       "count": 6
     },
     {
-      "id": "99004",
-      "name": "Marco Ramos",
+      "id": "131240",
+      "name": "NO1ELSE",
       "count": 6
     },
     {
       "id": "89568",
       "name": "No Intellectual Property",
       "count": 2
+    },
+    {
+      "id": "20903",
+      "name": "TWR72",
+      "count": 1
     },
     {
       "id": "158939",

@@ -3,16 +3,6 @@
   "name": "Boogie House",
   "upcoming": [
     {
-      "id": "ra:2456899",
-      "title": "Madam by Night invites: Boogie House",
-      "date": "2026-08-07",
-      "start": "2026-08-07T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456899"
-    },
-    {
       "id": "ra:2507768",
       "title": "RIPE: ART EXHIBITION & LAUNCH PARTY - with CLBHUIS & Boogie House",
       "date": "2026-08-28",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    },
     {
       "id": "ra:2494563",
       "title": "PRIDE WORLDWIDE at SUPPER with Boogie House & SOUTHSIDE",

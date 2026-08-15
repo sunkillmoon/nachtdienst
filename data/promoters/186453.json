@@ -1,0 +1,49 @@
+{
+  "id": "186453",
+  "name": "WaterhouseStudios",
+  "upcoming": [
+    {
+      "id": "ra:2510708",
+      "title": "EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510708"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "149760",
+      "name": "Shaolin Cowboy",
+      "count": 1
+    },
+    {
+      "id": "141810",
+      "name": "Target Demographic",
+      "count": 1
+    },
+    {
+      "id": "109301",
+      "name": "GEE LEE",
+      "count": 1
+    },
+    {
+      "id": "163204",
+      "name": "Pijus",
+      "count": 1
+    },
+    {
+      "id": "150624",
+      "name": "ysheso__",
+      "count": 1
+    },
+    {
+      "id": "176579",
+      "name": "upper class",
+      "count": 1
+    }
+  ]
+}

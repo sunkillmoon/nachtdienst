@@ -6,56 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2501499",
-      "title": "DJ Frank & unaniem & splinter",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501499"
-    },
-    {
-      "id": "ra:2501500",
-      "title": "lizz.e & Lucky Done Gone",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501500"
-    },
-    {
-      "id": "ra:2505000",
-      "title": "TUNES",
-      "date": "2026-08-09",
-      "start": "2026-08-09T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505000"
-    },
-    {
-      "id": "ra:2422944",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
-      "date": "2026-08-12",
-      "start": "2026-08-12T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422944"
-    },
-    {
-      "id": "ra:2501501",
-      "title": "Bubbling Baby",
-      "date": "2026-08-13",
-      "start": "2026-08-13T22:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501501"
-    },
-    {
       "id": "ra:2501503",
       "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
       "date": "2026-08-14",
@@ -117,7 +67,7 @@
     },
     {
       "id": "ra:2422949",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / BUZINEZZLADY / ENVISION / LUCKY",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / ENVISION / INSKYI / VANITY FAIR",
       "date": "2026-08-26",
       "start": "2026-08-26T23:00+02:00",
       "venue": "nachbar",
@@ -244,9 +194,69 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507696"
+    },
+    {
+      "id": "ra:2507707",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-11-11",
+      "start": "2026-11-11T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507707"
     }
   ],
   "past": [
+    {
+      "id": "ra:2501501",
+      "title": "Bubbling Baby",
+      "date": "2026-08-13",
+      "start": "2026-08-13T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501501"
+    },
+    {
+      "id": "ra:2422944",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422944"
+    },
+    {
+      "id": "ra:2505000",
+      "title": "TUNES",
+      "date": "2026-08-09",
+      "start": "2026-08-09T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505000"
+    },
+    {
+      "id": "ra:2501500",
+      "title": "lizz.e & Lucky Done Gone",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501500"
+    },
+    {
+      "id": "ra:2501499",
+      "title": "DJ Frank & unaniem & splinter",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501499"
+    },
     {
       "id": "ra:2501498",
       "title": "DJ NIETSCHIETEN & rriddim",

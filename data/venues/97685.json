@@ -1,0 +1,150 @@
+{
+  "id": "97685",
+  "name": "Nobel",
+  "area": "All",
+  "lat": 52.163066,
+  "lng": 4.488495,
+  "upcoming": [
+    {
+      "id": "ra:2512431",
+      "title": "Brandalarm 16",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512431"
+    },
+    {
+      "id": "ra:2512435",
+      "title": "80's Verantwoord",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512435"
+    },
+    {
+      "id": "ra:2512426",
+      "title": "Pride - Official Afterparty",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512426"
+    },
+    {
+      "id": "ra:2512437",
+      "title": "VroegZat",
+      "date": "2026-09-12",
+      "start": "2026-09-12T19:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512437"
+    },
+    {
+      "id": "ra:2512442",
+      "title": "Emo Night Mainland",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512442"
+    },
+    {
+      "id": "ra:2512445",
+      "title": "Alternative 80's, 90's & 00's",
+      "date": "2026-09-18",
+      "start": "2026-09-18T21:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512445"
+    },
+    {
+      "id": "ra:2512447",
+      "title": "Nocturnal Knights presents Richard Durand",
+      "date": "2026-09-19",
+      "start": "2026-09-19T19:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512447"
+    },
+    {
+      "id": "ra:2512448",
+      "title": "Unterwasser",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512448"
+    },
+    {
+      "id": "ra:2512453",
+      "title": "40UP",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512453"
+    },
+    {
+      "id": "ra:2512455",
+      "title": "Het FOMO Huis",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512455"
+    },
+    {
+      "id": "ra:2512458",
+      "title": "Zer00's Heroes",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512458"
+    },
+    {
+      "id": "ra:2512463",
+      "title": "4AM",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512463"
+    },
+    {
+      "id": "ra:2512465",
+      "title": "Lekker Dansen",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:30+01:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512465"
+    },
+    {
+      "id": "ra:2512467",
+      "title": "NO BARRIER",
+      "date": "2026-11-13",
+      "start": "2026-11-13T20:00+01:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512467"
+    }
+  ],
+  "past": []
+}

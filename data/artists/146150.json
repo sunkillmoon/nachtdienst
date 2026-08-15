@@ -12,6 +12,16 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466207"
+    },
+    {
+      "id": "ra:2511475",
+      "title": "Rooftop Tapes at W Hotel Amsterdam",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511475"
     }
   ],
   "past": [

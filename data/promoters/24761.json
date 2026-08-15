@@ -3,16 +3,6 @@
   "name": "Loveland Events",
   "upcoming": [
     {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
       "id": "ra:2482243",
       "title": "Mau P presents Baddest Behaviour x Loveland - ADE 2026",
       "date": "2026-10-22",
@@ -93,16 +83,22 @@
       "url": "https://ra.co/events/2481562"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ],
   "top_artists": [
     {
-      "id": "110515",
-      "name": "AAT (NL)",
-      "count": 2
-    },
-    {
-      "id": "57871",
-      "name": "CamelPhat",
+      "id": "125937",
+      "name": "Mau P",
       "count": 2
     },
     {
@@ -111,8 +107,13 @@
       "count": 2
     },
     {
-      "id": "853",
-      "name": "Jamie Jones",
+      "id": "95191",
+      "name": "M-High",
+      "count": 2
+    },
+    {
+      "id": "110515",
+      "name": "AAT (NL)",
       "count": 2
     },
     {
@@ -121,8 +122,8 @@
       "count": 2
     },
     {
-      "id": "95191",
-      "name": "M-High",
+      "id": "853",
+      "name": "Jamie Jones",
       "count": 2
     },
     {
@@ -131,8 +132,8 @@
       "count": 2
     },
     {
-      "id": "125937",
-      "name": "Mau P",
+      "id": "57871",
+      "name": "CamelPhat",
       "count": 2
     },
     {
@@ -141,8 +142,8 @@
       "count": 2
     },
     {
-      "id": "63888",
-      "name": "Adam Ten",
+      "id": "95699",
+      "name": "Sosa",
       "count": 1
     }
   ]

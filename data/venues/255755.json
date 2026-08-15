@@ -6,26 +6,6 @@
   "lng": 4.8425825,
   "upcoming": [
     {
-      "id": "ra:2493364",
-      "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493364"
-    },
-    {
-      "id": "ra:2504784",
-      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504784"
-    },
-    {
       "id": "ra:2493371",
       "title": "Sissi's Friday with Doppelgang Invites: DJ Split, Jenny Cara",
       "date": "2026-08-14",
@@ -147,6 +127,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504784",
+      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504784"
+    },
+    {
+      "id": "ra:2493364",
+      "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493364"
+    },
     {
       "id": "ra:2447735",
       "title": "POOF DOOF Amsterdam",

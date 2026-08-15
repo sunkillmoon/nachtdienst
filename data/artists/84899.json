@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    },
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",

@@ -3,16 +3,6 @@
   "name": "Onda Collective",
   "upcoming": [
     {
-      "id": "ra:2508259",
-      "title": "ONDA FORTE with DJ BRUM",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508259"
-    },
-    {
       "id": "ra:2455670",
       "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
       "date": "2026-08-17",
@@ -21,6 +11,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2455670"
+    },
+    {
+      "id": "ra:2508259",
+      "title": "ONDA FORTE with DJ BRUM",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508259"
     }
   ],
   "past": [],

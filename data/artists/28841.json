@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2513386",
+      "title": "Dirty House: BOVSKI, Vato Gonzalez, FJDR",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2513386"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2466203",
       "title": "TOFFLER presents Jill-Ann and friends",
       "date": "2026-08-08",
@@ -13,6 +25,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466203"
     }
-  ],
-  "past": []
+  ]
 }

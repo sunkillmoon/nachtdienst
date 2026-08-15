@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2512659",
+      "title": "Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC",
+      "date": "2026-10-10",
+      "start": "2026-10-10T16:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512659"
+    },
+    {
+      "id": "ra:2510268",
+      "title": "NTO (3 hours live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510268"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
       "date": "2026-08-08",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
     }
-  ],
-  "past": []
+  ]
 }

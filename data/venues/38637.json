@@ -6,16 +6,6 @@
   "lng": 4.883658,
   "upcoming": [
     {
-      "id": "ra:2508259",
-      "title": "ONDA FORTE with DJ BRUM",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508259"
-    },
-    {
       "id": "ra:2467051",
       "title": "Het Concept // House & UK Garage",
       "date": "2026-08-22",
@@ -34,6 +24,36 @@
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507122"
+    },
+    {
+      "id": "ra:2508259",
+      "title": "ONDA FORTE with DJ BRUM",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508259"
+    },
+    {
+      "id": "ra:2508882",
+      "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508882"
+    },
+    {
+      "id": "ra:2513204",
+      "title": "That Garage Sound presents Jeremy Sylvester ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513204"
     }
   ],
   "past": [

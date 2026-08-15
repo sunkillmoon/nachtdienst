@@ -1,0 +1,30 @@
+{
+  "id": "299826",
+  "name": "Het Veronica Schip",
+  "area": "Amsterdam",
+  "lat": 52.4,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2511505",
+      "title": "Veronica schip",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511505"
+    },
+    {
+      "id": "ra:2510634",
+      "title": "Off Script X Moodyverse - ADE SPECIAL",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510634"
+    }
+  ],
+  "past": []
+}

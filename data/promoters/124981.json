@@ -1,7 +1,8 @@
 {
   "id": "124981",
   "name": "Vrau",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490645",
       "title": "BIXARIA + Vrau - CLUB CHROME",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2490645"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "125757",

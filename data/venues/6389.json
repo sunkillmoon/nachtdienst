@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.378305,
   "lng": 4.795224,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.64,
   "lng": 4.75,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2436135",
       "title": "Kinetic Festival 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2436135"
     }
-  ],
-  "past": []
+  ]
 }

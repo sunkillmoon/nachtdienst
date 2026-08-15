@@ -2,7 +2,8 @@
   "id": "57852",
   "name": "Denis Sulta",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
@@ -22,9 +23,7 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501248"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2485525",
       "title": "Park Kronenburg",

@@ -6,16 +6,6 @@
   "lng": 4.883945,
   "upcoming": [
     {
-      "id": "ra:2375945",
-      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:30+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2375945"
-    },
-    {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
       "date": "2026-09-04",
@@ -64,6 +54,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2432349"
+    },
+    {
+      "id": "ra:2509365",
+      "title": "DJ Snake - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509365"
     },
     {
       "id": "ra:2473522",
@@ -127,6 +127,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2375945",
+      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375945"
+    },
     {
       "id": "ra:2465186",
       "title": "CONFESS - World Pride Edition",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2363397",
-      "title": "Het Systeem",
-      "date": "2026-08-07",
-      "start": "2026-08-07T19:00+02:00",
-      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
-      "venue_id": "284762",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2363397"
-    },
-    {
       "id": "ra:2489684",
       "title": "Dave Clarke presents: 30 Years of ADE",
       "date": "2026-10-23",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2363397",
+      "title": "Het Systeem",
+      "date": "2026-08-07",
+      "start": "2026-08-07T19:00+02:00",
+      "venue": "TBA - Deventer Outdoor | Molbergsweg 3c ",
+      "venue_id": "284762",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2363397"
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

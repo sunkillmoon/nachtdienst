@@ -1,0 +1,54 @@
+{
+  "id": "171576",
+  "name": "Off Script",
+  "upcoming": [
+    {
+      "id": "ra:2510634",
+      "title": "Off Script X Moodyverse - ADE SPECIAL",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510634"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "83000",
+      "name": "Yubik",
+      "count": 1
+    },
+    {
+      "id": "47459",
+      "name": "Denes Toth",
+      "count": 1
+    },
+    {
+      "id": "133105",
+      "name": "AVANT",
+      "count": 1
+    },
+    {
+      "id": "169282",
+      "name": "Milan Steenwinkel",
+      "count": 1
+    },
+    {
+      "id": "112840",
+      "name": "Stoac",
+      "count": 1
+    },
+    {
+      "id": "112496",
+      "name": "Maarten Spoor",
+      "count": 1
+    },
+    {
+      "id": "98673",
+      "name": "Cyantist",
+      "count": 1
+    }
+  ]
+}

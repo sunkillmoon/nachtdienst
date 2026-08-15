@@ -1,0 +1,48 @@
+{
+  "id": "191983",
+  "name": "Hektek",
+  "upcoming": [
+    {
+      "id": "ra:2510271",
+      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
+      "date": "2026-08-17",
+      "start": "2026-08-17T22:00+02:00",
+      "venue": "D'n Hiemel",
+      "venue_id": "299769",
+      "area": "All",
+      "url": "https://ra.co/events/2510271"
+    },
+    {
+      "id": "ra:2510251",
+      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
+      "date": "2026-08-19",
+      "start": "2026-08-19T22:00+02:00",
+      "venue": "D'n Hiemel",
+      "venue_id": "299769",
+      "area": "All",
+      "url": "https://ra.co/events/2510251"
+    },
+    {
+      "id": "ra:2510532",
+      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "D'n Hiemel",
+      "venue_id": "299769",
+      "area": "All",
+      "url": "https://ra.co/events/2510532"
+    },
+    {
+      "id": "ra:2510586",
+      "title": "MAASTEK X LBB",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "TBA - LBB",
+      "venue_id": "299819",
+      "area": "All",
+      "url": "https://ra.co/events/2510586"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

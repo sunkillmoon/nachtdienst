@@ -1,7 +1,8 @@
 {
   "id": "80633",
   "name": "Pervert Mx",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478169",
       "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2478169"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "146919",

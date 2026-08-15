@@ -1,7 +1,8 @@
 {
   "id": "149346",
   "name": "FERMI",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495565",
       "title": "FERMI presents... Dita & Ezza",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2495565"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "124114",

@@ -11,23 +11,63 @@
       "venue_id": "298659",
       "area": "All",
       "url": "https://ra.co/events/2500787"
+    },
+    {
+      "id": "ra:2510336",
+      "title": "ADE Selador x Sudbeat Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510336"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "131192",
+      "name": "Tom Pavicich",
+      "count": 2
+    },
     {
       "id": "2356",
       "name": "Henry Saiz",
       "count": 1
     },
     {
-      "id": "131192",
-      "name": "Tom Pavicich",
+      "id": "146479",
+      "name": "Gaspar Torres",
       "count": 1
     },
     {
-      "id": "146479",
-      "name": "Gaspar Torres",
+      "id": "2",
+      "name": "Danny Howells",
+      "count": 1
+    },
+    {
+      "id": "1",
+      "name": "Dave Seaman",
+      "count": 1
+    },
+    {
+      "id": "45231",
+      "name": "Graziano Raffa",
+      "count": 1
+    },
+    {
+      "id": "53664",
+      "name": "Kevin Di Serna",
+      "count": 1
+    },
+    {
+      "id": "21274",
+      "name": "Stereo Underground",
+      "count": 1
+    },
+    {
+      "id": "10147",
+      "name": "Steve Parry",
       "count": 1
     }
   ]

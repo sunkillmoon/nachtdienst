@@ -1,0 +1,20 @@
+{
+  "id": "91806",
+  "name": "De Besturing",
+  "area": "The Hague",
+  "lat": 52.63385,
+  "lng": 4.777974,
+  "upcoming": [
+    {
+      "id": "ra:2511466",
+      "title": "Of Paradise X Future Intel X INDEx",
+      "date": "2026-09-25",
+      "start": "2026-09-25T17:00+02:00",
+      "venue": "De Besturing",
+      "venue_id": "91806",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2511466"
+    }
+  ],
+  "past": []
+}

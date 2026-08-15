@@ -1,0 +1,18 @@
+{
+  "id": "123001",
+  "name": "You Liang",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2511082",
+      "title": "Tokyo After Dark: ZIPANG",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511082"
+    }
+  ],
+  "past": []
+}

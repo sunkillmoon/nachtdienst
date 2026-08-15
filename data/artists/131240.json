@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2503305",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-08-10",
-      "start": "2026-08-10T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503305"
-    },
-    {
       "id": "ra:2503308",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
       "date": "2026-08-17",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503305",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503305"
+    },
     {
       "id": "ra:2493300",
       "title": "Hard Mondays Amsterdam - Hard Techno Night with No Intellectual Property (RawQuarter) Colombia",

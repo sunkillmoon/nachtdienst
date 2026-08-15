@@ -6,6 +6,16 @@
   "lng": 4.875716,
   "upcoming": [
     {
+      "id": "ra:2513517",
+      "title": "Bombay Centraal",
+      "date": "2026-08-15",
+      "start": "2026-08-16T03:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513517"
+    },
+    {
       "id": "ra:2455670",
       "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
       "date": "2026-08-17",

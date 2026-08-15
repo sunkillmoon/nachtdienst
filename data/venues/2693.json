@@ -6,56 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2490643",
-      "title": "Striptopia - Club Chrome",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490643"
-    },
-    {
-      "id": "ra:2490653",
-      "title": "Pyxls x HD Heaven - CLUB CHROME",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490653"
-    },
-    {
-      "id": "ra:2490645",
-      "title": "BIXARIA + Vrau - CLUB CHROME",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490645"
-    },
-    {
-      "id": "ra:2495225",
-      "title": "Cheeky Monday Soundsystem",
-      "date": "2026-08-10",
-      "start": "2026-08-10T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495225"
-    },
-    {
-      "id": "ra:2492898",
-      "title": "Techno Tuesday Amsterdam, Alexa Strange, Dexon, A.R.T",
-      "date": "2026-08-11",
-      "start": "2026-08-11T22:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492898"
-    },
-    {
       "id": "ra:2495228",
       "title": "Cheeky Monday: Natty Lou",
       "date": "2026-08-17",
@@ -376,6 +326,16 @@
       "url": "https://ra.co/events/2490695"
     },
     {
+      "id": "ra:2511606",
+      "title": "Boys Noize pres. ONES and ZEROS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511606"
+    },
+    {
       "id": "ra:2490671",
       "title": "Blendsworld - ADE SPECIAL",
       "date": "2026-10-24",
@@ -444,9 +404,69 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490656"
+    },
+    {
+      "id": "ra:2490666",
+      "title": "Cassius Club",
+      "date": "2026-11-13",
+      "start": "2026-11-13T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490666"
     }
   ],
   "past": [
+    {
+      "id": "ra:2492898",
+      "title": "Techno Tuesday Amsterdam, Alexa Strange, Dexon, A.R.T",
+      "date": "2026-08-11",
+      "start": "2026-08-11T22:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492898"
+    },
+    {
+      "id": "ra:2495225",
+      "title": "Cheeky Monday Soundsystem",
+      "date": "2026-08-10",
+      "start": "2026-08-10T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495225"
+    },
+    {
+      "id": "ra:2490645",
+      "title": "BIXARIA + Vrau - CLUB CHROME",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490645"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    },
+    {
+      "id": "ra:2490653",
+      "title": "Pyxls x HD Heaven - CLUB CHROME",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490653"
+    },
     {
       "id": "ra:2483964",
       "title": "Heated Rivalrave",

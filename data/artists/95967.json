@@ -2,7 +2,8 @@
   "id": "95967",
   "name": "Borokov Borokov",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489790",
       "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2489790"
     }
-  ],
-  "past": []
+  ]
 }

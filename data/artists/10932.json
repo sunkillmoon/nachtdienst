@@ -12,6 +12,16 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2510347",
+      "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2510347"
     }
   ],
   "past": []

@@ -2,7 +2,8 @@
   "id": "103744",
   "name": "Robin Hastings",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2438868",
       "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
@@ -12,9 +13,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2438868"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2438860",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Robin Hastings [CL], DMS1N3RGY [NL], Divain [LT], Nekso ",

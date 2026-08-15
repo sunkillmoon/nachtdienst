@@ -26,6 +26,11 @@
   "past": [],
   "top_artists": [
     {
+      "id": "28680",
+      "name": "Matteo Gatti",
+      "count": 1
+    },
+    {
       "id": "129482",
       "name": "ADEZ",
       "count": 1
@@ -38,11 +43,6 @@
     {
       "id": "96858",
       "name": "GENE",
-      "count": 1
-    },
-    {
-      "id": "93456",
-      "name": "Voicila Alin",
       "count": 1
     },
     {

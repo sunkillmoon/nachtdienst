@@ -1,0 +1,34 @@
+{
+  "id": "187117",
+  "name": "Hazy Days Society",
+  "upcoming": [
+    {
+      "id": "ra:2513275",
+      "title": "last HAZY DAYS of summer",
+      "date": "2026-09-20",
+      "start": "2026-09-20T15:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513275"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "27596",
+      "name": "Galen",
+      "count": 1
+    },
+    {
+      "id": "120033",
+      "name": "Amandla",
+      "count": 1
+    },
+    {
+      "id": "2928",
+      "name": "Aron Friedman",
+      "count": 1
+    }
+  ]
+}

@@ -6,16 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2507880",
-      "title": "JÄMO + WAXX OFF + La Lani [S44 X CRITICAL FEELING TAKEOVER]",
-      "date": "2026-08-08",
-      "start": "2026-08-08T17:00+02:00",
-      "venue": "Loop51",
-      "venue_id": "254524",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507880"
-    },
-    {
       "id": "ra:2383070",
       "title": "Boogie House ADE 2026 SHOWCASE",
       "date": "2026-10-24",
@@ -26,5 +16,16 @@
       "url": "https://ra.co/events/2383070"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2507880",
+      "title": "JÄMO + WAXX OFF + La Lani [S44 X CRITICAL FEELING TAKEOVER]",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507880"
+    }
+  ]
 }

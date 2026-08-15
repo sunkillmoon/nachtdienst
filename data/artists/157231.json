@@ -2,7 +2,8 @@
   "id": "157231",
   "name": "Mila Haj Kasem",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2433222",
       "title": "RADION invites GEGEN",
@@ -12,9 +13,7 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2433222"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",

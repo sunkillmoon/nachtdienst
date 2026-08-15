@@ -2,7 +2,8 @@
   "id": "120431",
   "name": "FANNY (SE)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493364",
       "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493364"
     }
-  ],
-  "past": []
+  ]
 }

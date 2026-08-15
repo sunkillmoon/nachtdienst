@@ -1,0 +1,29 @@
+{
+  "id": "172024",
+  "name": "Kray Atief",
+  "upcoming": [
+    {
+      "id": "ra:2508749",
+      "title": "murmur; The KrayZone invites GoodMostlyBad",
+      "date": "2026-08-21",
+      "start": "2026-08-21T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508749"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120104",
+      "name": "GoodMostlyBad",
+      "count": 1
+    },
+    {
+      "id": "150843",
+      "name": "Kray Atief",
+      "count": 1
+    }
+  ]
+}

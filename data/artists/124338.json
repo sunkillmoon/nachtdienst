@@ -2,7 +2,8 @@
   "id": "124338",
   "name": "Uma Scheffer",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2445865",
       "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445865"
     }
-  ],
-  "past": []
+  ]
 }

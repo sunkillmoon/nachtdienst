@@ -2,17 +2,8 @@
   "id": "79",
   "name": "Sven Vath",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501591",
       "title": "Loveland Festival Official Afterparty (Sun)",
@@ -22,7 +13,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501591"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
     }
-  ],
-  "past": []
+  ]
 }

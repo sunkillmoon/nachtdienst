@@ -3,16 +3,6 @@
   "name": "Complex Maastricht",
   "upcoming": [
     {
-      "id": "ra:2445599",
-      "title": "Complex Summer with Melvin Spix",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2445599"
-    },
-    {
       "id": "ra:2445602",
       "title": "Complex Summer with Similar Clouds / Manillo / Maive",
       "date": "2026-08-15",
@@ -44,9 +34,9 @@
     },
     {
       "id": "ra:2506907",
-      "title": "Boiler Room Maastricht - Saturday",
+      "title": "Boiler Room: Maastricht - Saturday",
       "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "start": "2026-09-05T22:00+02:00",
       "venue": "Complex Maastricht",
       "venue_id": "120841",
       "area": "All",
@@ -64,7 +54,7 @@
     },
     {
       "id": "ra:2425634",
-      "title": "Claydrum presents Samuel Moriero",
+      "title": "Claydrum presents KRUELTY / Samuel Moriero / XRTN / Freya",
       "date": "2026-09-18",
       "start": "2026-09-18T23:00+02:00",
       "venue": "Complex Maastricht",
@@ -135,6 +125,16 @@
   ],
   "past": [
     {
+      "id": "ra:2445599",
+      "title": "Complex Summer with Melvin Spix",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445599"
+    },
+    {
       "id": "ra:2445597",
       "title": "Complex Summer with Asphere / Granular Heat / Améli",
       "date": "2026-08-01",
@@ -187,6 +187,11 @@
       "count": 1
     },
     {
+      "id": "144671",
+      "name": "KRUELTY",
+      "count": 1
+    },
+    {
       "id": "117852",
       "name": "XRTN",
       "count": 1
@@ -199,11 +204,6 @@
     {
       "id": "126903",
       "name": "The Dark Horror",
-      "count": 1
-    },
-    {
-      "id": "161890",
-      "name": "Kili (3)",
       "count": 1
     }
   ]

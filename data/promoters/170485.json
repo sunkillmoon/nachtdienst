@@ -1,7 +1,8 @@
 {
   "id": "170485",
   "name": "Go-Cosmic",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489006",
       "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
@@ -11,9 +12,7 @@
       "venue_id": "230222",
       "area": "Utrecht",
       "url": "https://ra.co/events/2489006"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494714",
       "title": "Go Cosmic with AnnaM, Be.a.son",

@@ -37,7 +37,7 @@
     },
     {
       "id": "ra:2458430",
-      "title": "DJ Kicks ADE",
+      "title": "DJ-Kicks ADE",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "WestWeelde",
@@ -74,6 +74,16 @@
       "venue_id": "264128",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452252"
+    },
+    {
+      "id": "ra:2488516",
+      "title": "John Digweed - Bedrock",
+      "date": "2026-11-07",
+      "start": "2026-11-07T15:00+01:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488516"
     }
   ],
   "past": [

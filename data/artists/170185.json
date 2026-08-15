@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2475177",
-      "title": "Paige Tomlinson & Friends",
-      "date": "2026-08-08",
-      "start": "2026-08-08T17:00+02:00",
-      "venue": "Beachclub Fuel",
-      "venue_id": "105125",
-      "area": "All",
-      "url": "https://ra.co/events/2475177"
-    },
-    {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2470661"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2475177",
+      "title": "Paige Tomlinson & Friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T17:00+02:00",
+      "venue": "Beachclub Fuel",
+      "venue_id": "105125",
+      "area": "All",
+      "url": "https://ra.co/events/2475177"
+    }
+  ]
 }

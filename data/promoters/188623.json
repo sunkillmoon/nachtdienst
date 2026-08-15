@@ -1,0 +1,44 @@
+{
+  "id": "188623",
+  "name": "Focal Point",
+  "upcoming": [
+    {
+      "id": "ra:2510143",
+      "title": "Bizarre Trax x Focal Point - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Hasta La Vista, Baby",
+      "venue_id": "276162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510143"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "11440",
+      "name": "Voigtmann",
+      "count": 1
+    },
+    {
+      "id": "110832",
+      "name": "E.LINA",
+      "count": 1
+    },
+    {
+      "id": "68513",
+      "name": "Jhobei",
+      "count": 1
+    },
+    {
+      "id": "101550",
+      "name": "B.Love",
+      "count": 1
+    },
+    {
+      "id": "94683",
+      "name": "Oliver.r",
+      "count": 1
+    }
+  ]
+}

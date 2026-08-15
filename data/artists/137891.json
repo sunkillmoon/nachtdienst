@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2456899",
-      "title": "Madam by Night invites: Boogie House",
-      "date": "2026-08-07",
-      "start": "2026-08-07T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456899"
-    },
-    {
       "id": "ra:2487494",
       "title": "3xNYX: Burn the House Down",
       "date": "2026-08-22",
@@ -32,6 +22,16 @@
       "venue_id": "248511",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507768"
+    },
+    {
+      "id": "ra:2511200",
+      "title": "Vrijdag is NYX",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511200"
     },
     {
       "id": "ra:2437294",
@@ -55,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    },
     {
       "id": "ra:2484250",
       "title": "Recovery Sessions: Vol 001",

@@ -1,0 +1,29 @@
+{
+  "id": "191926",
+  "name": "Mente Carson",
+  "upcoming": [
+    {
+      "id": "ra:2509328",
+      "title": "CLUB CVNT",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509328"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "185104",
+      "name": "YOJIBERI",
+      "count": 1
+    },
+    {
+      "id": "181191",
+      "name": "issagirl",
+      "count": 1
+    }
+  ]
+}

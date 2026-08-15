@@ -3,26 +3,6 @@
   "name": "Amsterdam Nights",
   "upcoming": [
     {
-      "id": "ra:2438868",
-      "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2438868"
-    },
-    {
-      "id": "ra:2445865",
-      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
-      "date": "2026-08-12",
-      "start": "2026-08-12T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2445865"
-    },
-    {
       "id": "ra:2446379",
       "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
       "date": "2026-08-19",
@@ -125,6 +105,26 @@
   ],
   "past": [
     {
+      "id": "ra:2445865",
+      "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445865"
+    },
+    {
+      "id": "ra:2438868",
+      "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2438868"
+    },
+    {
       "id": "ra:2445862",
       "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",
       "date": "2026-08-05",
@@ -167,6 +167,11 @@
   ],
   "top_artists": [
     {
+      "id": "116203",
+      "name": "Mischa Duncan",
+      "count": 2
+    },
+    {
       "id": "103744",
       "name": "Robin Hastings",
       "count": 2
@@ -177,9 +182,29 @@
       "count": 2
     },
     {
-      "id": "116203",
-      "name": "Mischa Duncan",
-      "count": 2
+      "id": "134954",
+      "name": "MelFerdi",
+      "count": 1
+    },
+    {
+      "id": "136176",
+      "name": "Insolence",
+      "count": 1
+    },
+    {
+      "id": "183739",
+      "name": "KLØVER",
+      "count": 1
+    },
+    {
+      "id": "153804",
+      "name": "DMS1N3RGY",
+      "count": 1
+    },
+    {
+      "id": "95957",
+      "name": "Divain",
+      "count": 1
     },
     {
       "id": "116281",
@@ -189,31 +214,6 @@
     {
       "id": "143309",
       "name": "RUL3",
-      "count": 1
-    },
-    {
-      "id": "181033",
-      "name": "BEZMEZH",
-      "count": 1
-    },
-    {
-      "id": "63868",
-      "name": "Nina de Koning",
-      "count": 1
-    },
-    {
-      "id": "124338",
-      "name": "Uma Scheffer",
-      "count": 1
-    },
-    {
-      "id": "134954",
-      "name": "MelFerdi",
-      "count": 1
-    },
-    {
-      "id": "136176",
-      "name": "Insolence",
       "count": 1
     }
   ]

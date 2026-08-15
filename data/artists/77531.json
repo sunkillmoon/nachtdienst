@@ -2,7 +2,8 @@
   "id": "77531",
   "name": "Sons Of Hidden",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454597",
       "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2454597"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2452159",
       "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",

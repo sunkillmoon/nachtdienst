@@ -3,16 +3,6 @@
   "name": "Het Sieraad - By Night",
   "upcoming": [
     {
-      "id": "ra:2500689",
-      "title": "Eichenbaum all-night-long",
-      "date": "2026-08-07",
-      "start": "2026-08-07T20:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500689"
-    },
-    {
       "id": "ra:2504816",
       "title": "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI",
       "date": "2026-08-14",
@@ -23,16 +13,6 @@
       "url": "https://ra.co/events/2504816"
     },
     {
-      "id": "ra:2507946",
-      "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",
-      "date": "2026-08-15",
-      "start": "2026-08-15T18:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507946"
-    },
-    {
       "id": "ra:2504931",
       "title": "Collé All Night Long",
       "date": "2026-08-15",
@@ -41,6 +21,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504931"
+    },
+    {
+      "id": "ra:2507946",
+      "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507946"
     },
     {
       "id": "ra:2508104",
@@ -73,6 +63,16 @@
       "url": "https://ra.co/events/2504901"
     },
     {
+      "id": "ra:2512651",
+      "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512651"
+    },
+    {
       "id": "ra:2471398",
       "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
       "date": "2026-09-11",
@@ -91,6 +91,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506011"
+    },
+    {
+      "id": "ra:2512659",
+      "title": "Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC",
+      "date": "2026-10-10",
+      "start": "2026-10-10T16:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512659"
     },
     {
       "id": "ra:2484740",
@@ -146,7 +156,7 @@
       "id": "ra:2484584",
       "title": "ADE - Todd Terry & Friends",
       "date": "2026-10-25",
-      "start": "2026-10-25T15:00+01:00",
+      "start": "2026-10-25T14:00+01:00",
       "venue": "Het Sieraad",
       "venue_id": "44668",
       "area": "Amsterdam",
@@ -164,6 +174,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2500689",
+      "title": "Eichenbaum all-night-long",
+      "date": "2026-08-07",
+      "start": "2026-08-07T20:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500689"
+    },
     {
       "id": "ra:2480551",
       "title": "VELVET with Hris East - Lidia Lo - Merissa Mahilaa - Sanne Dammers",
@@ -197,16 +217,6 @@
       "count": 2
     },
     {
-      "id": "134411",
-      "name": "Ed Noodle",
-      "count": 1
-    },
-    {
-      "id": "125141",
-      "name": "Mona Pirzad",
-      "count": 1
-    },
-    {
       "id": "82758",
       "name": "Collé",
       "count": 1
@@ -227,6 +237,11 @@
       "count": 1
     },
     {
+      "id": "118800",
+      "name": "Koperblond",
+      "count": 1
+    },
+    {
       "id": "64303",
       "name": "Mitch de Klein",
       "count": 1
@@ -234,6 +249,11 @@
     {
       "id": "114634",
       "name": "Susan Right",
+      "count": 1
+    },
+    {
+      "id": "66436",
+      "name": "Hollt",
       "count": 1
     }
   ]

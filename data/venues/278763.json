@@ -6,26 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2489651",
-      "title": "Fafi Abdel Nour, Meena, Nanton",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489651"
-    },
-    {
-      "id": "ra:2505997",
-      "title": "Paardenrave Afterparty",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2505997"
-    },
-    {
       "id": "ra:2486672",
       "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",
       "date": "2026-08-14",
@@ -86,6 +66,26 @@
       "url": "https://ra.co/events/2498952"
     },
     {
+      "id": "ra:2511267",
+      "title": "Krackfree 10 Years",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2511267"
+    },
+    {
+      "id": "ra:2512183",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512183"
+    },
+    {
       "id": "ra:2485596",
       "title": "Kult Funktion - Rotterdam Pride",
       "date": "2026-09-26",
@@ -97,6 +97,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
+    },
+    {
+      "id": "ra:2489651",
+      "title": "Fafi Abdel Nour, Meena, Nanton",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489651"
+    },
     {
       "id": "ra:2486670",
       "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",

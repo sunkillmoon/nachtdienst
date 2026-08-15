@@ -1,0 +1,29 @@
+{
+  "id": "191986",
+  "name": "Nothing Here Now",
+  "upcoming": [
+    {
+      "id": "ra:2510318",
+      "title": "Nothing Here Now x The Rest Is Noise with Loraine James, Anysia Kym, 8ULENTINA, KROES, sign.nah",
+      "date": "2026-09-19",
+      "start": "2026-09-19T20:00+02:00",
+      "venue": "Muziekgebouw aan t' IJ",
+      "venue_id": "70763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510318"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "77135",
+      "name": "Loraine James",
+      "count": 1
+    },
+    {
+      "id": "69292",
+      "name": "8ULENTINA",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "16747",
+  "name": "Bedrock",
+  "upcoming": [
+    {
+      "id": "ra:2488516",
+      "title": "John Digweed - Bedrock",
+      "date": "2026-11-07",
+      "start": "2026-11-07T15:00+01:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488516"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "5",
+      "name": "John Digweed",
+      "count": 1
+    }
+  ]
+}

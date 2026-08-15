@@ -2,7 +2,8 @@
   "id": "2949",
   "name": "Carlos Valdes",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488539",
       "title": "Tom Trago • Carlos Valdes",
@@ -12,9 +13,7 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488539"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",

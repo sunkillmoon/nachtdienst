@@ -1,0 +1,108 @@
+{
+  "id": "186339",
+  "name": "Olive Anguz",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2484549",
+      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2484549"
+    },
+    {
+      "id": "ra:2461883",
+      "title": "Back To Base at the Beach - Daria Kolosova",
+      "date": "2026-09-05",
+      "start": "2026-09-05T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2461883"
+    },
+    {
+      "id": "ra:2502638",
+      "title": "Motiv with Olive Anguz, Burnr & More",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502638"
+    },
+    {
+      "id": "ra:2449895",
+      "title": "GASHOUDER presents: Armin van Buuren & Benwal [Sold Out]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449895"
+    },
+    {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2473364",
+      "title": "Intercell x Mika Heggemann Invites | ADE By Day",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473364"
+    },
+    {
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
+    },
+    {
+      "id": "ra:2470321",
+      "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2470321"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
+    }
+  ],
+  "past": []
+}

@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485024",
-      "title": "RADION invites Justine Perry",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485024"
-    },
-    {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "venue_id": "50801",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
-    },
-    {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
       "date": "2026-09-04",
@@ -35,6 +15,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    },
+    {
+      "id": "ra:2485024",
+      "title": "RADION invites Justine Perry",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485024"
+    },
     {
       "id": "ra:2495259",
       "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",

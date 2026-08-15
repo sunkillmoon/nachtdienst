@@ -2,7 +2,8 @@
   "id": "102099",
   "name": "DJ Tjizza",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486484",
       "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2486484"
     }
-  ],
-  "past": []
+  ]
 }

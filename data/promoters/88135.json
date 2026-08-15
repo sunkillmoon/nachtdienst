@@ -3,18 +3,8 @@
   "name": "Amsterdam Techno Sessions",
   "upcoming": [
     {
-      "id": "ra:2477391",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-13",
-      "start": "2026-08-13T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477391"
-    },
-    {
       "id": "ra:2477393",
-      "title": "Amsterdam Techno Sessions",
+      "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "John Doe",
@@ -44,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477391",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-13",
+      "start": "2026-08-13T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477391"
+    },
     {
       "id": "ra:2477378",
       "title": "Amsterdam Techno Sessions",
@@ -80,6 +80,11 @@
       "id": "99004",
       "name": "Marco Ramos",
       "count": 6
+    },
+    {
+      "id": "20903",
+      "name": "TWR72",
+      "count": 1
     },
     {
       "id": "158939",

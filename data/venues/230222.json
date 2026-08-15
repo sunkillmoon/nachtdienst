@@ -6,16 +6,6 @@
   "lng": 5.08,
   "upcoming": [
     {
-      "id": "ra:2489006",
-      "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
-      "date": "2026-08-08",
-      "start": "2026-08-08T18:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2489006"
-    },
-    {
       "id": "ra:2499162",
       "title": "CYBERLESQUE",
       "date": "2026-09-05",
@@ -44,9 +34,29 @@
       "venue_id": "230222",
       "area": "Utrecht",
       "url": "https://ra.co/events/2502004"
+    },
+    {
+      "id": "ra:2511168",
+      "title": "N-R-G x Hypa with Sam Girling (UK)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2511168"
     }
   ],
   "past": [
+    {
+      "id": "ra:2489006",
+      "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2489006"
+    },
     {
       "id": "ra:2485962",
       "title": "Teatro Danscafé: Het Complot and Friends",

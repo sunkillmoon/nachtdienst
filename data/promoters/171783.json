@@ -1,7 +1,8 @@
 {
   "id": "171783",
   "name": "Studio508amsterdam",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495644",
       "title": "808 @ Studio 508 ",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2495644"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "186314",

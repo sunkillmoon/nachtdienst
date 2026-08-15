@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
       "id": "ra:2493384",
       "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
       "date": "2026-08-21",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    },
     {
       "id": "ra:2502948",
       "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",

@@ -24,6 +24,16 @@
       "url": "https://ra.co/events/2375299"
     },
     {
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
+    },
+    {
       "id": "ra:2437294",
       "title": "Smeerboel Festival 2026",
       "date": "2026-09-12",
@@ -32,6 +42,16 @@
       "venue_id": "291910",
       "area": "Utrecht",
       "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2510347",
+      "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2510347"
     }
   ],
   "past": [

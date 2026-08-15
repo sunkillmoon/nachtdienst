@@ -2,7 +2,8 @@
   "id": "178844",
   "name": "iMarly",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2417587",
       "title": "Blijdorp Festival",
@@ -22,9 +23,7 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2505997"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2490649",
       "title": "YEREYERE x PAARDENRAVE World Pride 2026",

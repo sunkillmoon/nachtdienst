@@ -2,7 +2,8 @@
   "id": "175812",
   "name": "Voss",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493231",
       "title": "SOTO",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493231"
     }
-  ],
-  "past": []
+  ]
 }

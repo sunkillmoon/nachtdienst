@@ -1,0 +1,34 @@
+{
+  "id": "191725",
+  "name": "FOR YOU",
+  "upcoming": [
+    {
+      "id": "ra:2509848",
+      "title": "FOR YOU THE SUMMER CLOSING with ALISHA",
+      "date": "2026-10-03",
+      "start": "2026-10-03T17:00+02:00",
+      "venue": "Marcfait",
+      "venue_id": "299695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509848"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "64176",
+      "name": "ALISHA",
+      "count": 1
+    },
+    {
+      "id": "102507",
+      "name": "RUZE",
+      "count": 1
+    },
+    {
+      "id": "173113",
+      "name": "Ben Horton",
+      "count": 1
+    }
+  ]
+}

@@ -6,16 +6,6 @@
   "lng": 4.2893,
   "upcoming": [
     {
-      "id": "ra:2486484",
-      "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
-      "date": "2026-08-08",
-      "start": "2026-08-08T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2486484"
-    },
-    {
       "id": "ra:2436230",
       "title": "De Sessie - Ryan Elliott - Summer Sessions",
       "date": "2026-08-15",
@@ -77,6 +67,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2486484",
+      "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",
+      "date": "2026-08-08",
+      "start": "2026-08-08T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486484"
+    },
     {
       "id": "ra:2436225",
       "title": "Rotterdam Rave Beach Sessions with Nikolina",

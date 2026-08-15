@@ -2,7 +2,8 @@
   "id": "154048",
   "name": "Mission Architect",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489006",
       "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2489006"
     }
-  ],
-  "past": []
+  ]
 }

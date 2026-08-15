@@ -1,0 +1,28 @@
+{
+  "id": "73143",
+  "name": "De Helling",
+  "upcoming": [
+    {
+      "id": "ra:2412152",
+      "title": "Voidborn",
+      "date": "2026-11-13",
+      "start": "2026-11-13T23:59+01:00",
+      "venue": "De Helling",
+      "venue_id": "6664",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2412152"
+    },
+    {
+      "id": "ra:2503921",
+      "title": "VoidBorn VI - Psychedelic Night",
+      "date": "2026-11-13",
+      "start": "2026-11-13T23:59+01:00",
+      "venue": "De Helling",
+      "venue_id": "6664",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2503921"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

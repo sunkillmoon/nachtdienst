@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
-    {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
-      "id": "ra:2501500",
-      "title": "lizz.e & Lucky Done Gone",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501500"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -75,6 +45,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    },
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    },
+    {
+      "id": "ra:2501500",
+      "title": "lizz.e & Lucky Done Gone",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501500"
+    },
     {
       "id": "ra:2406778",
       "title": "PALET Mini Festival",

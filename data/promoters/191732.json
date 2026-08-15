@@ -1,0 +1,49 @@
+{
+  "id": "191732",
+  "name": "House Your Mind Events",
+  "upcoming": [
+    {
+      "id": "ra:2508882",
+      "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508882"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "126232",
+      "name": "Stef Davidse",
+      "count": 1
+    },
+    {
+      "id": "98549",
+      "name": "Danny Snowden",
+      "count": 1
+    },
+    {
+      "id": "173108",
+      "name": "Ryan Nicholls",
+      "count": 1
+    },
+    {
+      "id": "18395",
+      "name": "Timmy P",
+      "count": 1
+    },
+    {
+      "id": "126952",
+      "name": "Lauren Steel",
+      "count": 1
+    },
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
+      "count": 1
+    }
+  ]
+}

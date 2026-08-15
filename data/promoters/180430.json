@@ -1,7 +1,8 @@
 {
   "id": "180430",
   "name": "Ambrosia",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492172",
       "title": "Ambrosia Ecstatic Rave at the beach",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2492172"
     }
   ],
-  "past": [],
   "top_artists": []
 }

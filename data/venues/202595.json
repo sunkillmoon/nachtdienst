@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": 52.385937,
   "lng": 4.87144,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2510431",
+      "title": "Audioholics ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510431"
+    }
+  ],
   "past": [
     {
       "id": "ra:2481298",

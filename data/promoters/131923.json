@@ -3,28 +3,8 @@
   "name": "RavingCharlie",
   "upcoming": [
     {
-      "id": "ra:2330521",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330521"
-    },
-    {
-      "id": "ra:2422944",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
-      "date": "2026-08-12",
-      "start": "2026-08-12T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422944"
-    },
-    {
       "id": "ra:2330520",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ WON / FHNX / GO-BLIN ",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "Panama",
@@ -54,7 +34,7 @@
     },
     {
       "id": "ra:2422949",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / BUZINEZZLADY / ENVISION / LUCKY",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / ENVISION / INSKYI / VANITY FAIR",
       "date": "2026-08-26",
       "start": "2026-08-26T23:00+02:00",
       "venue": "nachbar",
@@ -171,9 +151,39 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507696"
+    },
+    {
+      "id": "ra:2507707",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-11-11",
+      "start": "2026-11-11T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507707"
     }
   ],
   "past": [
+    {
+      "id": "ra:2422944",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",
+      "date": "2026-08-12",
+      "start": "2026-08-12T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422944"
+    },
+    {
+      "id": "ra:2330521",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330521"
+    },
     {
       "id": "ra:2422941",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ VON-TEK [AUS] / ROBBY / KRØVØ / CITØ",
@@ -222,11 +232,6 @@
       "count": 2
     },
     {
-      "id": "178757",
-      "name": "7AZ (1)",
-      "count": 1
-    },
-    {
       "id": "173869",
       "name": "FHNX",
       "count": 1
@@ -254,6 +259,11 @@
     {
       "id": "171619",
       "name": "KaneLevy",
+      "count": 1
+    },
+    {
+      "id": "178757",
+      "name": "7AZ (1)",
       "count": 1
     }
   ]

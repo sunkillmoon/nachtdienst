@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
-    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    },
     {
       "id": "ra:2414866",
       "title": "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT ",

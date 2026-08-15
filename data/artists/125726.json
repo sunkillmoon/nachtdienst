@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
+    },
     {
       "id": "ra:2480484",
       "title": "25 JUL - Nachtshow with Tjade & Friends",

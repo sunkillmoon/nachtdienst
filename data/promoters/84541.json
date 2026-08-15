@@ -3,16 +3,6 @@
   "name": "Watt events",
   "upcoming": [
     {
-      "id": "ra:2500689",
-      "title": "Eichenbaum all-night-long",
-      "date": "2026-08-07",
-      "start": "2026-08-07T20:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500689"
-    },
-    {
       "id": "ra:2411139",
       "title": "HRMNY with Rose Ringed 5hrs at the beach",
       "date": "2026-08-29",
@@ -64,7 +54,7 @@
     },
     {
       "id": "ra:2458430",
-      "title": "DJ Kicks ADE",
+      "title": "DJ-Kicks ADE",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "WestWeelde",
@@ -123,6 +113,16 @@
       "url": "https://ra.co/events/2452252"
     },
     {
+      "id": "ra:2510431",
+      "title": "Audioholics ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510431"
+    },
+    {
       "id": "ra:2375140",
       "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
       "date": "2026-10-24",
@@ -151,9 +151,29 @@
       "venue_id": "158843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507687"
+    },
+    {
+      "id": "ra:2488516",
+      "title": "John Digweed - Bedrock",
+      "date": "2026-11-07",
+      "start": "2026-11-07T15:00+01:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488516"
     }
   ],
   "past": [
+    {
+      "id": "ra:2500689",
+      "title": "Eichenbaum all-night-long",
+      "date": "2026-08-07",
+      "start": "2026-08-07T20:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500689"
+    },
     {
       "id": "ra:2442144",
       "title": "Capture with Cosmic Gate & Laura van Dam",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2417587",
-      "title": "Blijdorp Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Roel Langerakpark",
-      "venue_id": "101595",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2417587"
-    },
-    {
       "id": "ra:2480568",
       "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
       "date": "2026-08-29",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2480568"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2417587",
+      "title": "Blijdorp Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Roel Langerakpark",
+      "venue_id": "101595",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2417587"
+    }
+  ]
 }

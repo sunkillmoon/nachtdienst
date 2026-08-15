@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2251187",
-      "title": "Daycare Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Spoorzone",
-      "venue_id": "108349",
-      "area": "All",
-      "url": "https://ra.co/events/2251187"
-    },
+      "id": "ra:2480602",
+      "title": "Overbruggen Kyle Starkey Invites - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480602"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2454703",
       "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2454703"
     },
     {
-      "id": "ra:2480602",
-      "title": "Overbruggen Kyle Starkey Invites - ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T15:00+02:00",
-      "venue": "Pllek",
-      "venue_id": "86709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480602"
+      "id": "ra:2251187",
+      "title": "Daycare Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Spoorzone",
+      "venue_id": "108349",
+      "area": "All",
+      "url": "https://ra.co/events/2251187"
     }
-  ],
-  "past": []
+  ]
 }

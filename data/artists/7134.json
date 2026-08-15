@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2366738",
+      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2366738"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",
       "date": "2026-08-08",
@@ -13,6 +25,5 @@
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
-  ],
-  "past": []
+  ]
 }

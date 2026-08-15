@@ -1,0 +1,20 @@
+{
+  "id": "23415",
+  "name": "TBA - Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.132633,
+  "lng": 5.291266,
+  "upcoming": [
+    {
+      "id": "ra:2415468",
+      "title": "DARK WATERS Noord",
+      "date": "2026-10-24",
+      "start": "2026-10-25T03:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "23415",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2415468"
+    }
+  ],
+  "past": []
+}

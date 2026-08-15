@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
-      "id": "ra:2501591",
-      "title": "Loveland Festival Official Afterparty (Sun)",
-      "date": "2026-08-09",
-      "start": "2026-08-09T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501591"
-    },
-    {
       "id": "ra:2448883",
       "title": "Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen",
       "date": "2026-09-25",
@@ -35,6 +15,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501591",
+      "title": "Loveland Festival Official Afterparty (Sun)",
+      "date": "2026-08-09",
+      "start": "2026-08-09T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501591"
+    },
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    },
     {
       "id": "ra:2460749",
       "title": "Colorado Charlie with Bart Skils (5hrs), Luis Ripa",

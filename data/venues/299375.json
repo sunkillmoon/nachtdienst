@@ -6,6 +6,18 @@
   "lng": 4.9,
   "upcoming": [
     {
+      "id": "ra:2509229",
+      "title": "House of Noa House Party",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": "299375",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509229"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506820",
       "title": "House of Noa House Party",
       "date": "2026-08-08",
@@ -14,9 +26,7 @@
       "venue_id": "299375",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506820"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2490445",
       "title": "House of Noa House Party",

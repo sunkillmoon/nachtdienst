@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2481339",
-      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
-      "date": "2026-08-08",
-      "start": "2026-08-08T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481339"
-    },
-    {
       "id": "ra:2495676",
       "title": "Lola x Rinse FM ADE",
       "date": "2026-10-22",
@@ -32,9 +22,29 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496769"
+    },
+    {
+      "id": "ra:2482115",
+      "title": "23 OCT - Friday Night with Daria Kolosova invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482115"
     }
   ],
   "past": [
+    {
+      "id": "ra:2481339",
+      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481339"
+    },
     {
       "id": "ra:2488704",
       "title": "Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan",

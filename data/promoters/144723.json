@@ -3,26 +3,6 @@
   "name": "TILLATEC",
   "upcoming": [
     {
-      "id": "ra:2479631",
-      "title": "WorldPride: Horse Meat Disco",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479631"
-    },
-    {
-      "id": "ra:2478169",
-      "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2478169"
-    },
-    {
       "id": "ra:2460516",
       "title": "Discos Movimiento x Pintai",
       "date": "2026-08-15",
@@ -44,7 +24,7 @@
     },
     {
       "id": "ra:2507742",
-      "title": "Syntax Error x TILT",
+      "title": "TILT x Syntax Error",
       "date": "2026-08-29",
       "start": "2026-08-29T23:59+02:00",
       "venue": "TILLATEC",
@@ -85,6 +65,26 @@
   ],
   "past": [
     {
+      "id": "ra:2478169",
+      "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2478169"
+    },
+    {
+      "id": "ra:2479631",
+      "title": "WorldPride: Horse Meat Disco",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479631"
+    },
+    {
       "id": "ra:2462151",
       "title": "TILLATEC invites: KNIT + VESELKA",
       "date": "2026-08-02",
@@ -122,41 +122,6 @@
       "count": 2
     },
     {
-      "id": "146919",
-      "name": "ASHTREY",
-      "count": 1
-    },
-    {
-      "id": "40349",
-      "name": "Faustin",
-      "count": 1
-    },
-    {
-      "id": "89686",
-      "name": "MarcelDune",
-      "count": 1
-    },
-    {
-      "id": "113146",
-      "name": "Ms.G",
-      "count": 1
-    },
-    {
-      "id": "150873",
-      "name": "RayRay",
-      "count": 1
-    },
-    {
-      "id": "75389",
-      "name": "Samantha Togni",
-      "count": 1
-    },
-    {
-      "id": "73341",
-      "name": "Schacke",
-      "count": 1
-    },
-    {
       "id": "83367",
       "name": "Vera Logdanidi",
       "count": 1
@@ -164,6 +129,41 @@
     {
       "id": "61548",
       "name": "nthng",
+      "count": 1
+    },
+    {
+      "id": "1731",
+      "name": "Move D",
+      "count": 1
+    },
+    {
+      "id": "60592",
+      "name": "Telfort",
+      "count": 1
+    },
+    {
+      "id": "97175",
+      "name": "MNTY",
+      "count": 1
+    },
+    {
+      "id": "110930",
+      "name": "Bluecommand",
+      "count": 1
+    },
+    {
+      "id": "52158",
+      "name": "Martinou",
+      "count": 1
+    },
+    {
+      "id": "111391",
+      "name": "Hafa",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
       "count": 1
     }
   ]

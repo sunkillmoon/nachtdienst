@@ -1,0 +1,20 @@
+{
+  "id": "298204",
+  "name": "Transit",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.93,
+  "upcoming": [
+    {
+      "id": "ra:2477143",
+      "title": "30 Years Of Freerange at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477143"
+    }
+  ],
+  "past": []
+}

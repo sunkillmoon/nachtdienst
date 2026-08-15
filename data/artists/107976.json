@@ -2,7 +2,8 @@
   "id": "107976",
   "name": "Absoluut",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2375945",
       "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
@@ -12,9 +13,7 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2375945"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2355301",
       "title": "BOPS x KIKI - WorldPride Amsterdam",

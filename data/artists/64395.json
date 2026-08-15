@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
       "date": "2026-08-08",
@@ -13,6 +25,5 @@
       "area": "All",
       "url": "https://ra.co/events/2403643"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494096",
-      "title": "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494096"
-    },
-    {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
       "date": "2026-08-22",
@@ -22,6 +12,16 @@
       "venue_id": "294145",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466330"
+    },
+    {
+      "id": "ra:2502651",
+      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502651"
     },
     {
       "id": "ra:2490674",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2494096",
+      "title": "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494096"
+    },
     {
       "id": "ra:2452159",
       "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",

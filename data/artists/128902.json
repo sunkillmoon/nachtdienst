@@ -12,6 +12,16 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493594"
+    },
+    {
+      "id": "ra:2511875",
+      "title": "RENTGLAM X Nomadism Records",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511875"
     }
   ],
   "past": []

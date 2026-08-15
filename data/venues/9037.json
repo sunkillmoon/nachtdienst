@@ -6,26 +6,6 @@
   "lng": 4.474325,
   "upcoming": [
     {
-      "id": "ra:2466199",
-      "title": "TOFFLER presents DUIF and friends",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466199"
-    },
-    {
-      "id": "ra:2466203",
-      "title": "TOFFLER presents Jill-Ann and friends",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466203"
-    },
-    {
       "id": "ra:2466204",
       "title": "TOFFLER presents The Funkmoore Brothers and friends",
       "date": "2026-08-14",
@@ -197,6 +177,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466203",
+      "title": "TOFFLER presents Jill-Ann and friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466203"
+    },
+    {
+      "id": "ra:2466199",
+      "title": "TOFFLER presents DUIF and friends",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466199"
+    },
     {
       "id": "ra:2466195",
       "title": "TOFFLER presents DAF and friends",

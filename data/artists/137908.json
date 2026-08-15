@@ -2,7 +2,8 @@
   "id": "137908",
   "name": "Pura Pachanga",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",
@@ -12,9 +13,7 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456899"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2461593",
       "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",

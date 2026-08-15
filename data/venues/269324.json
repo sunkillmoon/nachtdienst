@@ -6,26 +6,6 @@
   "lng": 4.84,
   "upcoming": [
     {
-      "id": "ra:2493231",
-      "title": "SOTO",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493231"
-    },
-    {
-      "id": "ra:2492263",
-      "title": "SERVE Eurosummer",
-      "date": "2026-08-09",
-      "start": "2026-08-09T19:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492263"
-    },
-    {
       "id": "ra:2503792",
       "title": "QUERICO TOKYO in AMS",
       "date": "2026-08-14",
@@ -127,6 +107,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2492263",
+      "title": "SERVE Eurosummer",
+      "date": "2026-08-09",
+      "start": "2026-08-09T19:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492263"
+    },
+    {
+      "id": "ra:2493231",
+      "title": "SOTO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493231"
+    },
     {
       "id": "ra:2430672",
       "title": "EAST Summer Night Rave",

@@ -3,16 +3,6 @@
   "name": "PIV",
   "upcoming": [
     {
-      "id": "ra:2464028",
-      "title": "Prunk ALL DAY",
-      "date": "2026-08-07",
-      "start": "2026-08-07T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2464028"
-    },
-    {
       "id": "ra:2448972",
       "title": "PIV AT THE BEACH",
       "date": "2026-08-28",
@@ -63,7 +53,18 @@
       "url": "https://ra.co/events/2494128"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2464028",
+      "title": "Prunk ALL DAY",
+      "date": "2026-08-07",
+      "start": "2026-08-07T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2464028"
+    }
+  ],
   "top_artists": [
     {
       "id": "14022",

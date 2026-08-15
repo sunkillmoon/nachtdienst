@@ -3,16 +3,6 @@
   "name": "Ouragan",
   "upcoming": [
     {
-      "id": "ra:2484097",
-      "title": "Ouragan takeover",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "Bordello Aperitivo",
-      "venue_id": "228945",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2484097"
-    },
-    {
       "id": "ra:2489503",
       "title": "Ouragan takeover",
       "date": "2026-08-21",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2489503"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2484097",
+      "title": "Ouragan takeover",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484097"
+    }
+  ],
   "top_artists": [
     {
       "id": "138622",

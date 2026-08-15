@@ -1,0 +1,24 @@
+{
+  "id": "78933",
+  "name": "AURA",
+  "upcoming": [
+    {
+      "id": "ra:2512446",
+      "title": "AURA - Hashashin ALL DAY LONG",
+      "date": "2026-08-23",
+      "start": "2026-08-23T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512446"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "157228",
+      "name": "Hashashin",
+      "count": 1
+    }
+  ]
+}

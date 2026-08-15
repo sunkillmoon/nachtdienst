@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436135",
-      "title": "Kinetic Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Hal25",
-      "venue_id": "241842",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2436135"
-    },
-    {
       "id": "ra:2449033",
       "title": "Brighter Days at the Beach",
       "date": "2026-08-30",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436135",
+      "title": "Kinetic Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Hal25",
+      "venue_id": "241842",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2436135"
+    },
     {
       "id": "ra:2449821",
       "title": "Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More",

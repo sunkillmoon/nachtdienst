@@ -3,26 +3,6 @@
   "name": "Export",
   "upcoming": [
     {
-      "id": "ra:2489651",
-      "title": "Fafi Abdel Nour, Meena, Nanton",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489651"
-    },
-    {
-      "id": "ra:2505997",
-      "title": "Paardenrave Afterparty",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2505997"
-    },
-    {
       "id": "ra:2486672",
       "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",
       "date": "2026-08-14",
@@ -75,6 +55,26 @@
   ],
   "past": [
     {
+      "id": "ra:2505997",
+      "title": "Paardenrave Afterparty",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505997"
+    },
+    {
+      "id": "ra:2489651",
+      "title": "Fafi Abdel Nour, Meena, Nanton",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489651"
+    },
+    {
       "id": "ra:2486670",
       "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",
       "date": "2026-07-31",
@@ -107,26 +107,6 @@
   ],
   "top_artists": [
     {
-      "id": "178844",
-      "name": "iMarly",
-      "count": 1
-    },
-    {
-      "id": "133627",
-      "name": "COLD ASS ICE",
-      "count": 1
-    },
-    {
-      "id": "110653",
-      "name": "Kontronatura",
-      "count": 1
-    },
-    {
-      "id": "118880",
-      "name": "DJ Shahmaran",
-      "count": 1
-    },
-    {
       "id": "114067",
       "name": "I-RO",
       "count": 1
@@ -154,6 +134,26 @@
     {
       "id": "143160",
       "name": "Alírio",
+      "count": 1
+    },
+    {
+      "id": "40349",
+      "name": "Faustin",
+      "count": 1
+    },
+    {
+      "id": "103438",
+      "name": "kimmah",
+      "count": 1
+    },
+    {
+      "id": "77263",
+      "name": "Nene H",
+      "count": 1
+    },
+    {
+      "id": "112928",
+      "name": "Slimfit",
       "count": 1
     }
   ]

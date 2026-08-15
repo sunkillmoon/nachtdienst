@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495644",
-      "title": "808 @ Studio 508 ",
-      "date": "2026-08-08",
-      "start": "2026-08-08T22:00+02:00",
-      "venue": "Studio 508",
-      "venue_id": "295898",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495644"
-    },
-    {
       "id": "ra:2494430",
       "title": "The Final Stretch",
       "date": "2026-10-25",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2494430"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2495644",
+      "title": "808 @ Studio 508 ",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "Studio 508",
+      "venue_id": "295898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495644"
+    }
+  ]
 }

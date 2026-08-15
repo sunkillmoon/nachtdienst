@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
       "id": "ra:2495725",
       "title": "SEASON OPENING",
       "date": "2026-08-21",
@@ -75,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    },
     {
       "id": "ra:2435241",
       "title": "De Binnenstad",

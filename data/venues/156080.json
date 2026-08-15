@@ -1,0 +1,20 @@
+{
+  "id": "156080",
+  "name": "Keilecafe",
+  "area": "Rotterdam",
+  "lat": 51.909392,
+  "lng": 4.435732,
+  "upcoming": [
+    {
+      "id": "ra:2512181",
+      "title": "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "Keilecafe",
+      "venue_id": "156080",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512181"
+    }
+  ],
+  "past": []
+}

@@ -2,7 +2,8 @@
   "id": "169205",
   "name": "RTK Tarantino",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476120",
       "title": "Locky curates",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476120"
     }
-  ],
-  "past": []
+  ]
 }

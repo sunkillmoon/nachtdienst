@@ -3,26 +3,6 @@
   "name": "TOFFLER",
   "upcoming": [
     {
-      "id": "ra:2466199",
-      "title": "TOFFLER presents DUIF and friends",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466199"
-    },
-    {
-      "id": "ra:2466203",
-      "title": "TOFFLER presents Jill-Ann and friends",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466203"
-    },
-    {
       "id": "ra:2466204",
       "title": "TOFFLER presents The Funkmoore Brothers and friends",
       "date": "2026-08-14",
@@ -155,6 +135,26 @@
   ],
   "past": [
     {
+      "id": "ra:2466203",
+      "title": "TOFFLER presents Jill-Ann and friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466203"
+    },
+    {
+      "id": "ra:2466199",
+      "title": "TOFFLER presents DUIF and friends",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466199"
+    },
+    {
       "id": "ra:2466195",
       "title": "TOFFLER presents DAF and friends",
       "date": "2026-08-01",
@@ -202,36 +202,6 @@
       "count": 2
     },
     {
-      "id": "173833",
-      "name": "emssoleil",
-      "count": 1
-    },
-    {
-      "id": "175064",
-      "name": "Jolani Jhones",
-      "count": 1
-    },
-    {
-      "id": "28841",
-      "name": "Vato Gonzalez",
-      "count": 1
-    },
-    {
-      "id": "163003",
-      "name": "BISOUX",
-      "count": 1
-    },
-    {
-      "id": "162897",
-      "name": "Cleo Grooves",
-      "count": 1
-    },
-    {
-      "id": "175875",
-      "name": "Keykey",
-      "count": 1
-    },
-    {
       "id": "139982",
       "name": "Anderdox",
       "count": 1
@@ -244,6 +214,36 @@
     {
       "id": "133080",
       "name": "Chris Brooks",
+      "count": 1
+    },
+    {
+      "id": "159211",
+      "name": "Wes Colstock",
+      "count": 1
+    },
+    {
+      "id": "26560",
+      "name": "Nick Garcia",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "146150",
+      "name": "Robin Nicolas",
+      "count": 1
+    },
+    {
+      "id": "133993",
+      "name": "davyboi",
+      "count": 1
+    },
+    {
+      "id": "146324",
+      "name": "JÄMO",
       "count": 1
     }
   ]

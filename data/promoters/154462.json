@@ -14,5 +14,41 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "176854",
+      "name": "Matty Chiabi",
+      "count": 1
+    },
+    {
+      "id": "175064",
+      "name": "Jolani Jhones",
+      "count": 1
+    },
+    {
+      "id": "84416",
+      "name": "Nala",
+      "count": 1
+    },
+    {
+      "id": "105741",
+      "name": "Yosef (ES)",
+      "count": 1
+    },
+    {
+      "id": "173203",
+      "name": "Yucky",
+      "count": 1
+    },
+    {
+      "id": "163822",
+      "name": "Diego Armando",
+      "count": 1
+    },
+    {
+      "id": "162029",
+      "name": "Maxvll",
+      "count": 1
+    }
+  ]
 }

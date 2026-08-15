@@ -2,7 +2,8 @@
   "id": "88748",
   "name": "Hannah Diamond",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490653",
       "title": "Pyxls x HD Heaven - CLUB CHROME",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490653"
     }
-  ],
-  "past": []
+  ]
 }

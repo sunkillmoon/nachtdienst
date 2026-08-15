@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
       "id": "ra:2499921",
       "title": "CLUB.RECORD x Shelter Boat Series",
       "date": "2026-08-15",
@@ -32,9 +22,29 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490009"
+    },
+    {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
     }
   ],
   "past": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    },
     {
       "id": "ra:2480220",
       "title": "Berkan V8",

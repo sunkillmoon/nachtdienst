@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2489651",
-      "title": "Fafi Abdel Nour, Meena, Nanton",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489651"
-    },
-    {
       "id": "ra:2443232",
       "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
       "date": "2026-08-30",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2489651",
+      "title": "Fafi Abdel Nour, Meena, Nanton",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489651"
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

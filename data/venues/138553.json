@@ -6,16 +6,6 @@
   "lng": 4.925604,
   "upcoming": [
     {
-      "id": "ra:2481339",
-      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
-      "date": "2026-08-08",
-      "start": "2026-08-08T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481339"
-    },
-    {
       "id": "ra:2504698",
       "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",
       "date": "2026-08-14",
@@ -46,6 +36,16 @@
       "url": "https://ra.co/events/2495357"
     },
     {
+      "id": "ra:2511266",
+      "title": "NOLANDS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511266"
+    },
+    {
       "id": "ra:2488611",
       "title": "AZÚCAR INVITES THE HERD",
       "date": "2026-08-28",
@@ -54,6 +54,26 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488611"
+    },
+    {
+      "id": "ra:2511269",
+      "title": "HARTO FALIÓN (US, LIVE), OGR+ZELDZAME (LIVE), BOBBIN, AGP",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511269"
+    },
+    {
+      "id": "ra:2511270",
+      "title": "EYE CONTACT & VIAPHIA",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511270"
     },
     {
       "id": "ra:2499764",
@@ -66,6 +86,26 @@
       "url": "https://ra.co/events/2499764"
     },
     {
+      "id": "ra:2511275",
+      "title": "TOURIST TRAP & SEEDLINIK",
+      "date": "2026-09-12",
+      "start": "2026-09-12T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511275"
+    },
+    {
+      "id": "ra:2511281",
+      "title": "PIP BLOM 10 YEARS",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511281"
+    },
+    {
       "id": "ra:2470243",
       "title": "PIP BLOM 10 YEARS",
       "date": "2026-09-24",
@@ -74,6 +114,36 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470243"
+    },
+    {
+      "id": "ra:2511297",
+      "title": "WAP SHOO WAP PRESENTS: SPLIT SYSTEM (AUS) + THE ETTERS (LIVE)",
+      "date": "2026-09-26",
+      "start": "2026-09-26T19:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511297"
+    },
+    {
+      "id": "ra:2510418",
+      "title": "het veld: The Second Transmission",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510418"
+    },
+    {
+      "id": "ra:2511302",
+      "title": "HET VELD: THE SECOND TRANSMISSION",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511302"
     },
     {
       "id": "ra:2400214",
@@ -116,6 +186,16 @@
       "url": "https://ra.co/events/2469789"
     },
     {
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511306"
+    },
+    {
       "id": "ra:2493209",
       "title": "Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy",
       "date": "2026-10-29",
@@ -137,6 +217,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2481339",
+      "title": "DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD",
+      "date": "2026-08-08",
+      "start": "2026-08-08T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481339"
+    },
     {
       "id": "ra:2473182",
       "title": "PRIDE | DOPPELGANG PRESENTS HONEY HONEY",

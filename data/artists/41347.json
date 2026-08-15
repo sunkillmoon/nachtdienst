@@ -2,7 +2,8 @@
   "id": "41347",
   "name": "Robert Bergman",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495644",
       "title": "808 @ Studio 508 ",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495644"
     }
-  ],
-  "past": []
+  ]
 }

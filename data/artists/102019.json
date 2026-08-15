@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
       "id": "ra:2490556",
       "title": "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
       "date": "2026-09-11",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2491349"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ]
 }

@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.395403,
   "lng": 4.875843,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497540",
       "title": "STC #053",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497540"
     }
-  ],
-  "past": []
+  ]
 }

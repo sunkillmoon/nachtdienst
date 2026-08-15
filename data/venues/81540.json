@@ -37,13 +37,23 @@
     },
     {
       "id": "ra:2500891",
-      "title": "Ciranda Sundays x Doka Studio with TBA",
+      "title": "Ciranda Sundays x Doka Studio with Charmaine - Mendel ",
       "date": "2026-09-13",
       "start": "2026-09-13T17:00+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500891"
+    },
+    {
+      "id": "ra:2512605",
+      "title": "Tale of Bus w/ Sugar Free, Daan Donk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512605"
     },
     {
       "id": "ra:2500895",

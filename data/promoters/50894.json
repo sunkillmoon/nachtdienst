@@ -3,16 +3,6 @@
   "name": "IsBurning",
   "upcoming": [
     {
-      "id": "ra:2440426",
-      "title": "RAUM invites Gay Haze ...IsBurning",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440426"
-    },
-    {
       "id": "ra:2499622",
       "title": "United Identities ...IsBurning",
       "date": "2026-09-05",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2440426",
+      "title": "RAUM invites Gay Haze ...IsBurning",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440426"
+    },
     {
       "id": "ra:2439706",
       "title": "SPIELRAUM ...IsBurning",

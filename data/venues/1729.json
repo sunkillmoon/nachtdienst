@@ -6,28 +6,8 @@
   "lng": 4.930309,
   "upcoming": [
     {
-      "id": "ra:2473176",
-      "title": "Backdoor x We Party – World Pride",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473176"
-    },
-    {
-      "id": "ra:2330521",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330521"
-    },
-    {
       "id": "ra:2330520",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ WON / FHNX / GO-BLIN ",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
       "date": "2026-08-15",
       "start": "2026-08-15T23:00+02:00",
       "venue": "Panama",
@@ -57,6 +37,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330521",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330521"
+    },
+    {
+      "id": "ra:2473176",
+      "title": "Backdoor x We Party – World Pride",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473176"
+    },
     {
       "id": "ra:2473174",
       "title": "Bear Necessity T-Dance",

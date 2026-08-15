@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501248",
-      "title": "Loveland Festival Official Afterparty (Sat)",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:30+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501248"
-    },
-    {
       "id": "ra:2502628",
       "title": "Hush with Dennis Quin, Maqossa & More",
       "date": "2026-10-09",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501248",
+      "title": "Loveland Festival Official Afterparty (Sat)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501248"
+    },
     {
       "id": "ra:2426010",
       "title": "Hush at the Beach with Riordan, Job de Jong & More",

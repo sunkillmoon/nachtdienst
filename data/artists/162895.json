@@ -2,7 +2,8 @@
   "id": "162895",
   "name": "Mees Mattern",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495463",
       "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
@@ -12,9 +13,7 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2495463"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2420618",
       "title": "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern",

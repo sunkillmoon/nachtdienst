@@ -1,0 +1,20 @@
+{
+  "id": "289451",
+  "name": "De Perifeer",
+  "area": "All",
+  "lat": 52.25,
+  "lng": 6.17,
+  "upcoming": [
+    {
+      "id": "ra:2512325",
+      "title": "Jaap Blonk & Terrie Ex + SAVIĆ & REONA + boekpresentatie Blonk / Petrichor",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Perifeer",
+      "venue_id": "289451",
+      "area": "All",
+      "url": "https://ra.co/events/2512325"
+    }
+  ],
+  "past": []
+}

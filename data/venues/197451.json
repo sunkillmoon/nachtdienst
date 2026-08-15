@@ -24,6 +24,16 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476839"
+    },
+    {
+      "id": "ra:2512344",
+      "title": "JOY - The Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512344"
     }
   ],
   "past": [

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53,
   "lng": 7,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2403643"
     }
-  ],
-  "past": []
+  ]
 }

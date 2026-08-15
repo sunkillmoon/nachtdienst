@@ -2,7 +2,8 @@
   "id": "129098",
   "name": "Panic",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464413",
       "title": "Knallen op het strand - Early Hardcore, Oldstyle, Early Rave, Oldskool 91/95",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2464413"
     }
-  ],
-  "past": []
+  ]
 }

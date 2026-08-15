@@ -2,7 +2,18 @@
   "id": "165800",
   "name": "Christoph Cham",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2511505",
+      "title": "Veronica schip",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511505"
+    }
+  ],
   "past": [
     {
       "id": "ra:2477479",

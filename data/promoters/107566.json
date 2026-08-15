@@ -1,0 +1,64 @@
+{
+  "id": "107566",
+  "name": "Les Enfants Brillants",
+  "upcoming": [
+    {
+      "id": "ra:2512551",
+      "title": "Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512551"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "13109",
+      "name": "tINI",
+      "count": 1
+    },
+    {
+      "id": "798",
+      "name": "Onur Özer",
+      "count": 1
+    },
+    {
+      "id": "66679",
+      "name": "Gabbs",
+      "count": 1
+    },
+    {
+      "id": "55215",
+      "name": "Janeret",
+      "count": 1
+    },
+    {
+      "id": "90055",
+      "name": "Mateo Dufour",
+      "count": 1
+    },
+    {
+      "id": "125229",
+      "name": "JUAAN",
+      "count": 1
+    },
+    {
+      "id": "116354",
+      "name": "Laia",
+      "count": 1
+    },
+    {
+      "id": "115055",
+      "name": "Kim April",
+      "count": 1
+    },
+    {
+      "id": "129916",
+      "name": "ELVI (SE)",
+      "count": 1
+    }
+  ]
+}

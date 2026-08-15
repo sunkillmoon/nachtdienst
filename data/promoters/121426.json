@@ -1,0 +1,49 @@
+{
+  "id": "121426",
+  "name": "GHOSTS OF GARAGE UK",
+  "upcoming": [
+    {
+      "id": "ra:2493470",
+      "title": "Sissi's by Closecall x Ghosts of Garage",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493470"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "155663",
+      "name": "SHUFFA",
+      "count": 1
+    },
+    {
+      "id": "124022",
+      "name": "Becking",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
+    {
+      "id": "90017",
+      "name": "Rich Reason",
+      "count": 1
+    },
+    {
+      "id": "110212",
+      "name": "Larishka",
+      "count": 1
+    },
+    {
+      "id": "29768",
+      "name": "Chunky",
+      "count": 1
+    }
+  ]
+}

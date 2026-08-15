@@ -6,36 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2490752",
-      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490752"
-    },
-    {
-      "id": "ra:2494208",
-      "title": "Robbie Doherty - all night long",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494208"
-    },
-    {
-      "id": "ra:2505209",
-      "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",
-      "date": "2026-08-09",
-      "start": "2026-08-09T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505209"
-    },
-    {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",
       "date": "2026-08-14",
@@ -84,6 +54,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501639"
+    },
+    {
+      "id": "ra:2512446",
+      "title": "AURA - Hashashin ALL DAY LONG",
+      "date": "2026-08-23",
+      "start": "2026-08-23T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512446"
     },
     {
       "id": "ra:2492190",
@@ -177,6 +157,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505209",
+      "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",
+      "date": "2026-08-09",
+      "start": "2026-08-09T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505209"
+    },
+    {
+      "id": "ra:2494208",
+      "title": "Robbie Doherty - all night long",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494208"
+    },
+    {
+      "id": "ra:2490752",
+      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490752"
+    },
     {
       "id": "ra:2488592",
       "title": "LOBSTER INVITES MAC DECLOS",

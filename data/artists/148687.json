@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2440428",
-      "title": "BASHKKA present INVIGORATE A.M",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2440428"
-    },
-    {
-      "id": "ra:2488542",
-      "title": "Mattias El Mansouri • 36framez b2b LYLO",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488542"
-    },
-    {
       "id": "ra:2501504",
       "title": "ESTRELLA & PHIA b2b 36framez",
       "date": "2026-08-15",
@@ -32,6 +12,16 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501504"
+    },
+    {
+      "id": "ra:2375299",
+      "title": "Lowlands 2026",
+      "date": "2026-08-21",
+      "start": "2026-08-21T10:00+02:00",
+      "venue": "Lowlands Festival Site",
+      "venue_id": "6646",
+      "area": "All",
+      "url": "https://ra.co/events/2375299"
     },
     {
       "id": "ra:2376016",
@@ -85,6 +75,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    },
+    {
+      "id": "ra:2440428",
+      "title": "BASHKKA present INVIGORATE A.M",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2440428"
+    },
     {
       "id": "ra:2486670",
       "title": "Gabrielle Kwarteng, Sunnysoposted, 36framez",

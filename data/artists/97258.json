@@ -2,7 +2,8 @@
   "id": "97258",
   "name": "Coco Maria",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2505068",
       "title": "Playground X Club Coco",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2505068"
     }
-  ],
-  "past": []
+  ]
 }

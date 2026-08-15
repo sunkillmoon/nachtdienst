@@ -1,7 +1,18 @@
 {
   "id": "191389",
   "name": "TOKRA",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2511505",
+      "title": "Veronica schip",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511505"
+    }
+  ],
   "past": [
     {
       "id": "ra:2502172",
@@ -15,6 +26,31 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "152192",
+      "name": "Sisi Carini",
+      "count": 1
+    },
+    {
+      "id": "165796",
+      "name": "ilse dorine",
+      "count": 1
+    },
+    {
+      "id": "165910",
+      "name": "LGNA",
+      "count": 1
+    },
+    {
+      "id": "165800",
+      "name": "Christoph Cham",
+      "count": 1
+    },
+    {
+      "id": "124615",
+      "name": "Steve Kennedy",
+      "count": 1
+    },
     {
       "id": "106567",
       "name": "PunkFunkLove",

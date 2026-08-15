@@ -3,18 +3,8 @@
   "name": "RIZE",
   "upcoming": [
     {
-      "id": "ra:2481852",
-      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
-      "date": "2026-08-11",
-      "start": "2026-08-11T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481852"
-    },
-    {
       "id": "ra:2482085",
-      "title": "[PHANTOM GROUP] KLUBNACHT w JTN",
+      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
       "date": "2026-08-18",
       "start": "2026-08-18T23:00+02:00",
       "venue": "John Doe",
@@ -95,6 +85,16 @@
   ],
   "past": [
     {
+      "id": "ra:2481852",
+      "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
+      "date": "2026-08-11",
+      "start": "2026-08-11T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481852"
+    },
+    {
       "id": "ra:2481847",
       "title": "[PHANTOM GROUP] KLUBNACHT w Ahku / 2LS / TOKOLOSHE / MAR. / Zerra",
       "date": "2026-08-04",
@@ -127,16 +127,6 @@
   ],
   "top_artists": [
     {
-      "id": "168810",
-      "name": "inKKiss",
-      "count": 2
-    },
-    {
-      "id": "127968",
-      "name": "TRANZ",
-      "count": 2
-    },
-    {
       "id": "160452",
       "name": "JTN (1)",
       "count": 2
@@ -147,9 +137,14 @@
       "count": 2
     },
     {
-      "id": "179008",
-      "name": "Y4R4",
-      "count": 1
+      "id": "127968",
+      "name": "TRANZ",
+      "count": 2
+    },
+    {
+      "id": "168810",
+      "name": "inKKiss",
+      "count": 2
     },
     {
       "id": "88845",
@@ -174,6 +169,11 @@
     {
       "id": "42499",
       "name": "Won",
+      "count": 1
+    },
+    {
+      "id": "77901",
+      "name": "Mørris",
       "count": 1
     }
   ]

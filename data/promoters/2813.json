@@ -3,36 +3,6 @@
   "name": "Melkweg",
   "upcoming": [
     {
-      "id": "ra:2490643",
-      "title": "Striptopia - Club Chrome",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490643"
-    },
-    {
-      "id": "ra:2490653",
-      "title": "Pyxls x HD Heaven - CLUB CHROME",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490653"
-    },
-    {
-      "id": "ra:2490645",
-      "title": "BIXARIA + Vrau - CLUB CHROME",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490645"
-    },
-    {
       "id": "ra:2490626",
       "title": "Six Sex PRESENTS",
       "date": "2026-09-04",
@@ -213,6 +183,16 @@
       "url": "https://ra.co/events/2490695"
     },
     {
+      "id": "ra:2511606",
+      "title": "Boys Noize pres. ONES and ZEROS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511606"
+    },
+    {
       "id": "ra:2490671",
       "title": "Blendsworld - ADE SPECIAL",
       "date": "2026-10-24",
@@ -271,9 +251,49 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490656"
+    },
+    {
+      "id": "ra:2490666",
+      "title": "Cassius Club",
+      "date": "2026-11-13",
+      "start": "2026-11-13T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490666"
     }
   ],
   "past": [
+    {
+      "id": "ra:2490645",
+      "title": "BIXARIA + Vrau - CLUB CHROME",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490645"
+    },
+    {
+      "id": "ra:2490643",
+      "title": "Striptopia - Club Chrome",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490643"
+    },
+    {
+      "id": "ra:2490653",
+      "title": "Pyxls x HD Heaven - CLUB CHROME",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490653"
+    },
     {
       "id": "ra:2490639",
       "title": "PON DI PRIDE - CLUB CHROME",
@@ -307,26 +327,6 @@
   ],
   "top_artists": [
     {
-      "id": "125757",
-      "name": "_hiø",
-      "count": 1
-    },
-    {
-      "id": "115619",
-      "name": "XD Erica",
-      "count": 1
-    },
-    {
-      "id": "181564",
-      "name": "FILAIPE",
-      "count": 1
-    },
-    {
-      "id": "93547",
-      "name": "Sly Fox",
-      "count": 1
-    },
-    {
       "id": "160384",
       "name": "Six Sex",
       "count": 1
@@ -354,6 +354,26 @@
     {
       "id": "69880",
       "name": "Niro (1)",
+      "count": 1
+    },
+    {
+      "id": "124747",
+      "name": "San Holo",
+      "count": 1
+    },
+    {
+      "id": "148496",
+      "name": "Gammer",
+      "count": 1
+    },
+    {
+      "id": "150081",
+      "name": "PIRAPUS",
+      "count": 1
+    },
+    {
+      "id": "43663",
+      "name": "Seven Lions",
       "count": 1
     }
   ]

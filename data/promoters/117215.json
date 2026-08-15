@@ -3,36 +3,6 @@
   "name": "Time is the new space",
   "upcoming": [
     {
-      "id": "ra:2489790",
-      "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
-      "date": "2026-08-07",
-      "start": "2026-08-07T21:30+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2489790"
-    },
-    {
-      "id": "ra:2496821",
-      "title": "TIME'S TATTOO SPACE",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2496821"
-    },
-    {
-      "id": "ra:2507139",
-      "title": "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION",
-      "date": "2026-08-13",
-      "start": "2026-08-13T18:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2507139"
-    },
-    {
       "id": "ra:2505069",
       "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
       "date": "2026-08-14",
@@ -53,6 +23,16 @@
       "url": "https://ra.co/events/2490623"
     },
     {
+      "id": "ra:2511264",
+      "title": "VSCO'S BASH",
+      "date": "2026-08-17",
+      "start": "2026-08-17T17:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2511264"
+    },
+    {
       "id": "ra:2506251",
       "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",
       "date": "2026-08-21",
@@ -63,6 +43,16 @@
       "url": "https://ra.co/events/2506251"
     },
     {
+      "id": "ra:2511516",
+      "title": "BRUTUS TAKEOVER AFTERPARTY",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2511516"
+    },
+    {
       "id": "ra:2506056",
       "title": "Het Vreemd (Album Release)",
       "date": "2026-08-29",
@@ -71,9 +61,49 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2506056"
+    },
+    {
+      "id": "ra:2512514",
+      "title": "ONE LAST TIME (BY HURU-HARA)",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512514"
     }
   ],
   "past": [
+    {
+      "id": "ra:2507139",
+      "title": "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION",
+      "date": "2026-08-13",
+      "start": "2026-08-13T18:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2507139"
+    },
+    {
+      "id": "ra:2496821",
+      "title": "TIME'S TATTOO SPACE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2496821"
+    },
+    {
+      "id": "ra:2489790",
+      "title": "Time2Club curated by hiddenbehindmist (Vol. 1)",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2489790"
+    },
     {
       "id": "ra:2496753",
       "title": "HIDDEN BEHIND x TIME Vol. 20",
@@ -102,6 +132,16 @@
       "count": 1
     },
     {
+      "id": "17594",
+      "name": "DD",
+      "count": 1
+    },
+    {
+      "id": "184510",
+      "name": "Droom",
+      "count": 1
+    },
+    {
       "id": "98041",
       "name": "Ofra",
       "count": 1
@@ -112,8 +152,18 @@
       "count": 1
     },
     {
-      "id": "95967",
-      "name": "Borokov Borokov",
+      "id": "138747",
+      "name": "TASHASAN",
+      "count": 1
+    },
+    {
+      "id": "122188",
+      "name": "MIA (MY)",
+      "count": 1
+    },
+    {
+      "id": "103438",
+      "name": "kimmah",
       "count": 1
     }
   ]

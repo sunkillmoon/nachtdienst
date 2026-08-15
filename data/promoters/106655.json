@@ -11,6 +11,16 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2461883"
+    },
+    {
+      "id": "ra:2502544",
+      "title": "Back To Base Eindhoven",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Beursgebouw",
+      "venue_id": "15124",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2502544"
     }
   ],
   "past": [],
@@ -28,6 +38,31 @@
     {
       "id": "169174",
       "name": "Fiene",
+      "count": 1
+    },
+    {
+      "id": "186339",
+      "name": "Olive Anguz",
+      "count": 1
+    },
+    {
+      "id": "134556",
+      "name": "AUTOFLOWER",
+      "count": 1
+    },
+    {
+      "id": "154448",
+      "name": "Freddi",
+      "count": 1
+    },
+    {
+      "id": "133993",
+      "name": "davyboi",
+      "count": 1
+    },
+    {
+      "id": "165697",
+      "name": "Lisa Korver",
       "count": 1
     }
   ]

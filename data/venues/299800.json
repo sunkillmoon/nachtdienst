@@ -1,0 +1,20 @@
+{
+  "id": "299800",
+  "name": "RRC Music — Record Store",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2510482",
+      "title": "Black Josh & Lee Scott — Live In-Store",
+      "date": "2026-09-05",
+      "start": "2026-09-05T16:00+02:00",
+      "venue": "RRC Music — Record Store",
+      "venue_id": "299800",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510482"
+    }
+  ],
+  "past": []
+}

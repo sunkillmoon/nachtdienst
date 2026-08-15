@@ -2,7 +2,8 @@
   "id": "166841",
   "name": "VOX (1)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464413",
       "title": "Knallen op het strand - Early Hardcore, Oldstyle, Early Rave, Oldskool 91/95",
@@ -12,9 +13,7 @@
       "venue_id": "105125",
       "area": "All",
       "url": "https://ra.co/events/2464413"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2489671",
       "title": "Tram 10 - Hard Techno",

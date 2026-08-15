@@ -2,7 +2,8 @@
   "id": "36054",
   "name": "Jensen Interceptor",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492263",
       "title": "SERVE Eurosummer",
@@ -12,9 +13,7 @@
       "venue_id": "269324",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492263"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",

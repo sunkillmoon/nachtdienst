@@ -6,26 +6,6 @@
   "lng": 4.902859,
   "upcoming": [
     {
-      "id": "ra:2456899",
-      "title": "Madam by Night invites: Boogie House",
-      "date": "2026-08-07",
-      "start": "2026-08-07T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456899"
-    },
-    {
-      "id": "ra:2456900",
-      "title": "Madam by Night invites: RAINVILLE invites",
-      "date": "2026-08-08",
-      "start": "2026-08-08T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456900"
-    },
-    {
       "id": "ra:2456902",
       "title": "Madam by Night invites: A Divine Kaos",
       "date": "2026-08-14",
@@ -227,6 +207,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456900",
+      "title": "Madam by Night invites: RAINVILLE invites",
+      "date": "2026-08-08",
+      "start": "2026-08-08T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456900"
+    },
+    {
+      "id": "ra:2456899",
+      "title": "Madam by Night invites: Boogie House",
+      "date": "2026-08-07",
+      "start": "2026-08-07T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456899"
+    },
     {
       "id": "ra:2456898",
       "title": "Madam by Night invites: Kult Funktion",

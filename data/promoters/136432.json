@@ -11,6 +11,16 @@
       "venue_id": "5543",
       "area": "All",
       "url": "https://ra.co/events/2504684"
+    },
+    {
+      "id": "ra:2504699",
+      "title": "Een Nacht Met: Dave Clarke",
+      "date": "2026-11-13",
+      "start": "2026-11-13T21:00+01:00",
+      "venue": "Podium Victorie",
+      "venue_id": "5543",
+      "area": "All",
+      "url": "https://ra.co/events/2504699"
     }
   ],
   "past": [],
@@ -28,6 +38,11 @@
     {
       "id": "2841",
       "name": "Eli Verveine",
+      "count": 1
+    },
+    {
+      "id": "57",
+      "name": "Dave Clarke",
       "count": 1
     }
   ]

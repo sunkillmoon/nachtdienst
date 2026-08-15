@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2493231",
-      "title": "SOTO",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493231"
-    },
-    {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
       "date": "2026-08-23",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2506023"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2493231",
+      "title": "SOTO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493231"
+    }
+  ]
 }

@@ -1,0 +1,40 @@
+{
+  "id": "43438",
+  "name": "Chicago Social Club",
+  "area": "Amsterdam",
+  "lat": 52.364185,
+  "lng": 4.890775,
+  "upcoming": [
+    {
+      "id": "ra:2510263",
+      "title": "Maceo Plex presents Lone Romantic",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510263"
+    },
+    {
+      "id": "ra:2510273",
+      "title": "Ely Oaks & Friends - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510273"
+    },
+    {
+      "id": "ra:2510268",
+      "title": "NTO (3 hours live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510268"
+    }
+  ],
+  "past": []
+}

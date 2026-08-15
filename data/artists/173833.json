@@ -2,7 +2,8 @@
   "id": "173833",
   "name": "emssoleil",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466203",
       "title": "TOFFLER presents Jill-Ann and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466203"
     }
-  ],
-  "past": []
+  ]
 }

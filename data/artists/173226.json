@@ -2,7 +2,8 @@
   "id": "173226",
   "name": "NELLIE",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2445865",
       "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",
@@ -12,9 +13,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445865"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2445862",
       "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",

@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466203",
-      "title": "TOFFLER presents Jill-Ann and friends",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466203"
-    },
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2454703",
       "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",
@@ -22,7 +24,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454703"
+    },
+    {
+      "id": "ra:2466203",
+      "title": "TOFFLER presents Jill-Ann and friends",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466203"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "54784",
   "name": "Splinter (UA)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501499",
       "title": "DJ Frank & unaniem & splinter",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501499"
     }
-  ],
-  "past": []
+  ]
 }

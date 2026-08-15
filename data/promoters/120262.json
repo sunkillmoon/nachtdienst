@@ -1,7 +1,18 @@
 {
   "id": "120262",
   "name": "Tale of Bus",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2512605",
+      "title": "Tale of Bus w/ Sugar Free, Daan Donk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512605"
+    }
+  ],
   "past": [
     {
       "id": "ra:2491852",
@@ -26,6 +37,16 @@
   ],
   "top_artists": [
     {
+      "id": "34388",
+      "name": "Daan Donk",
+      "count": 2
+    },
+    {
+      "id": "42057",
+      "name": "Sugar Free",
+      "count": 1
+    },
+    {
       "id": "111744",
       "name": "Kuba'97",
       "count": 1
@@ -33,11 +54,6 @@
     {
       "id": "169383",
       "name": "Idilay",
-      "count": 1
-    },
-    {
-      "id": "34388",
-      "name": "Daan Donk",
       "count": 1
     },
     {

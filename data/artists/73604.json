@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485024",
-      "title": "RADION invites Justine Perry",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485024"
-    },
-    {
       "id": "ra:2488526",
       "title": "Vault Sessions ADE - TILLATEC",
       "date": "2026-10-22",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2489700"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2485024",
+      "title": "RADION invites Justine Perry",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485024"
+    }
+  ]
 }

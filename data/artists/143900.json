@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485428",
-      "title": "HYPERPRIDE",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2485428"
-    },
-    {
       "id": "ra:2486464",
       "title": "RAUM invites PAX-ROMANA 12HRS",
       "date": "2026-08-22",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2485428",
+      "title": "HYPERPRIDE",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2485428"
+    },
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",

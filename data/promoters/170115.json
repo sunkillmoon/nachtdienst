@@ -3,26 +3,6 @@
   "name": "Sissi's Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2493364",
-      "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493364"
-    },
-    {
-      "id": "ra:2504784",
-      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504784"
-    },
-    {
       "id": "ra:2493371",
       "title": "Sissi's Friday with Doppelgang Invites: DJ Split, Jenny Cara",
       "date": "2026-08-14",
@@ -125,6 +105,26 @@
   ],
   "past": [
     {
+      "id": "ra:2504784",
+      "title": "Sissi's Saturday with D Stone & Coco Coquelicot",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504784"
+    },
+    {
+      "id": "ra:2493364",
+      "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493364"
+    },
+    {
       "id": "ra:2488747",
       "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",
       "date": "2026-07-31",
@@ -147,36 +147,6 @@
   ],
   "top_artists": [
     {
-      "id": "121173",
-      "name": "D Stone",
-      "count": 1
-    },
-    {
-      "id": "141268",
-      "name": "Coco Coquelicot",
-      "count": 1
-    },
-    {
-      "id": "81091",
-      "name": "Doppelgang",
-      "count": 1
-    },
-    {
-      "id": "177457",
-      "name": "DJ Split",
-      "count": 1
-    },
-    {
-      "id": "101890",
-      "name": "Jenny Cara",
-      "count": 1
-    },
-    {
-      "id": "115672",
-      "name": "Richelle Soigni",
-      "count": 1
-    },
-    {
       "id": "118800",
       "name": "Koperblond",
       "count": 1
@@ -194,6 +164,36 @@
     {
       "id": "122188",
       "name": "MIA (MY)",
+      "count": 1
+    },
+    {
+      "id": "158979",
+      "name": "XUNAT",
+      "count": 1
+    },
+    {
+      "id": "155663",
+      "name": "SHUFFA",
+      "count": 1
+    },
+    {
+      "id": "124022",
+      "name": "Becking",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
+    {
+      "id": "90017",
+      "name": "Rich Reason",
+      "count": 1
+    },
+    {
+      "id": "110212",
+      "name": "Larishka",
       "count": 1
     }
   ]

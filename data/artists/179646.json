@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488542",
-      "title": "Mattias El Mansouri • 36framez b2b LYLO",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488542"
-    },
-    {
       "id": "ra:2504306",
       "title": "OBERHAUM: Garden Radio",
       "date": "2026-08-23",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    },
     {
       "id": "ra:2475988",
       "title": "DE DANSVLOER / LYLO",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "venue_id": "50801",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
-    },
-    {
       "id": "ra:2452089",
       "title": "Patio - Summer Closing",
       "date": "2026-09-19",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2473366"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "venue_id": "50801",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
-    },
-    {
       "id": "ra:2465223",
       "title": "Intercell Groningen",
       "date": "2026-09-19",
@@ -22,6 +12,16 @@
       "venue_id": "294777",
       "area": "All",
       "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
     },
     {
       "id": "ra:2470661",
@@ -34,5 +34,16 @@
       "url": "https://ra.co/events/2470661"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    }
+  ]
 }

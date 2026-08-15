@@ -1,0 +1,49 @@
+{
+  "id": "161601",
+  "name": "Amoreamsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112078",
+      "name": "Bennet (DE)",
+      "count": 1
+    },
+    {
+      "id": "64395",
+      "name": "Victor (DE)",
+      "count": 1
+    },
+    {
+      "id": "96823",
+      "name": "Berkan V8",
+      "count": 1
+    },
+    {
+      "id": "111224",
+      "name": "Karina Schneider",
+      "count": 1
+    },
+    {
+      "id": "28135",
+      "name": "Doran",
+      "count": 1
+    },
+    {
+      "id": "82409",
+      "name": "Jasmín",
+      "count": 1
+    }
+  ]
+}

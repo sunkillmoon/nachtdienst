@@ -24,6 +24,16 @@
       "venue_id": "13822",
       "area": "All",
       "url": "https://ra.co/events/2502628"
+    },
+    {
+      "id": "ra:2429216",
+      "title": "Club Looney feat. Dimitri All Night Long",
+      "date": "2026-11-07",
+      "start": "2026-11-07T20:00+01:00",
+      "venue": "Luxor Live",
+      "venue_id": "13822",
+      "area": "All",
+      "url": "https://ra.co/events/2429216"
     }
   ],
   "past": []

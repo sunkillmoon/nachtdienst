@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.561832,
   "lng": 5.092768,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2251187",
       "title": "Daycare Festival",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2251187"
     }
-  ],
-  "past": []
+  ]
 }

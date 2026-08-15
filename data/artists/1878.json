@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
       "id": "ra:2503286",
       "title": "About Us ADE Showcase",
       "date": "2026-10-23",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2503286"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    }
+  ]
 }

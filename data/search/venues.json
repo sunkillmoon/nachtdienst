@@ -88,6 +88,10 @@
     "name": "Bar22"
   },
   {
+    "id": "284845",
+    "name": "Basement (Amsterdam)"
+  },
+  {
     "id": "101766",
     "name": "BASIS"
   },
@@ -100,12 +104,24 @@
     "name": "Bears Amsterdam"
   },
   {
+    "id": "217595",
+    "name": "Benelux BAR"
+  },
+  {
     "id": "288289",
     "name": "Beton-T"
   },
   {
+    "id": "15124",
+    "name": "Beursgebouw"
+  },
+  {
     "id": "220618",
     "name": "Biergarten Eindhoven"
+  },
+  {
+    "id": "4392",
+    "name": "Bimhuis"
   },
   {
     "id": "48317",
@@ -176,8 +192,16 @@
     "name": "Catuabar"
   },
   {
+    "id": "43438",
+    "name": "Chicago Social Club"
+  },
+  {
     "id": "138568",
     "name": "Chin Chin Club"
+  },
+  {
+    "id": "299955",
+    "name": "Chippy Chasers Record Store"
   },
   {
     "id": "157325",
@@ -194,6 +218,10 @@
   {
     "id": "95535",
     "name": "Club Church"
+  },
+  {
+    "id": "299768",
+    "name": "Club FYX"
   },
   {
     "id": "275116",
@@ -232,8 +260,20 @@
     "name": "Cult=us"
   },
   {
+    "id": "299769",
+    "name": "D'n Hiemel"
+  },
+  {
     "id": "248511",
     "name": "Db55"
+  },
+  {
+    "id": "300058",
+    "name": "De Beatfabriek"
+  },
+  {
+    "id": "91806",
+    "name": "De Besturing"
   },
   {
     "id": "269324",
@@ -246,6 +286,10 @@
   {
     "id": "269965",
     "name": "De Hangout"
+  },
+  {
+    "id": "6664",
+    "name": "De Helling"
   },
   {
     "id": "294378",
@@ -284,6 +328,10 @@
     "name": "De Papierfabriek"
   },
   {
+    "id": "289451",
+    "name": "De Perifeer"
+  },
+  {
     "id": "264224",
     "name": "De Roze Tanker"
   },
@@ -304,8 +352,16 @@
     "name": "De Verbroederij"
   },
   {
+    "id": "299669",
+    "name": "De Vleeshal"
+  },
+  {
     "id": "81540",
     "name": "Doka"
+  },
+  {
+    "id": "299770",
+    "name": "dubble"
   },
   {
     "id": "158329",
@@ -376,12 +432,24 @@
     "name": "Hal25"
   },
   {
+    "id": "86588",
+    "name": "Hall of Fame"
+  },
+  {
+    "id": "276162",
+    "name": "Hasta La Vista, Baby"
+  },
+  {
     "id": "154148",
     "name": "Havenpark"
   },
   {
     "id": "208462",
     "name": "Hemkade 48"
+  },
+  {
+    "id": "10953",
+    "name": "Het Burgerweeshuis"
   },
   {
     "id": "278095",
@@ -398,6 +466,10 @@
   {
     "id": "44668",
     "name": "Het Sieraad"
+  },
+  {
+    "id": "299826",
+    "name": "Het Veronica Schip"
   },
   {
     "id": "277782",
@@ -438,6 +510,10 @@
   {
     "id": "215846",
     "name": "Ijburg"
+  },
+  {
+    "id": "203369",
+    "name": "Ijcatcher"
   },
   {
     "id": "188055",
@@ -486,6 +562,10 @@
   {
     "id": "37682",
     "name": "Kashmir Lounge"
+  },
+  {
+    "id": "156080",
+    "name": "Keilecafe"
   },
   {
     "id": "175088",
@@ -568,6 +648,10 @@
     "name": "Manii Beach"
   },
   {
+    "id": "299695",
+    "name": "Marcfait"
+  },
+  {
     "id": "93679",
     "name": "Mediahaven - Minervahaven"
   },
@@ -586,6 +670,10 @@
   {
     "id": "161459",
     "name": "MOB Complex"
+  },
+  {
+    "id": "299605",
+    "name": "Moezeum"
   },
   {
     "id": "129182",
@@ -634,6 +722,10 @@
   {
     "id": "298448",
     "name": "Nine Lives Gallery"
+  },
+  {
+    "id": "97685",
+    "name": "Nobel"
   },
   {
     "id": "158843",
@@ -780,6 +872,10 @@
     "name": "Rotown"
   },
   {
+    "id": "299800",
+    "name": "RRC Music — Record Store"
+  },
+  {
     "id": "223096",
     "name": "Sahara"
   },
@@ -896,8 +992,12 @@
     "name": "TBA - 50:HERTZ HOUSE & TECHNO CLUB"
   },
   {
-    "id": "289639",
-    "name": "TBA - Amsterdam Noord"
+    "id": "23415",
+    "name": "TBA - Amsterdam"
+  },
+  {
+    "id": "300048",
+    "name": "TBA - Amsterdam, Rokin"
   },
   {
     "id": "299085",
@@ -940,6 +1040,14 @@
     "name": "TBA - IYKYK"
   },
   {
+    "id": "299819",
+    "name": "TBA - LBB"
+  },
+  {
+    "id": "299740",
+    "name": "TBA - NL"
+  },
+  {
     "id": "294025",
     "name": "TBA - Ohana Beach Club "
   },
@@ -964,6 +1072,10 @@
     "name": "TBA - Secret Location"
   },
   {
+    "id": "299982",
+    "name": "TBA - secret location"
+  },
+  {
     "id": "296481",
     "name": "TBA - The All Out, Amsterdam"
   },
@@ -976,12 +1088,20 @@
     "name": "TBA - Treehouse NDSM"
   },
   {
+    "id": "164032",
+    "name": "Teatro Munganga"
+  },
+  {
     "id": "223249",
     "name": "The Bulldog Palace"
   },
   {
     "id": "223183",
     "name": "The Flying Dutchman Café"
+  },
+  {
+    "id": "149377",
+    "name": "The Grey Space In The Middle"
   },
   {
     "id": "190657",
@@ -1024,6 +1144,10 @@
     "name": "Toffler"
   },
   {
+    "id": "298204",
+    "name": "Transit"
+  },
+  {
     "id": "131709",
     "name": "Tuinen van West"
   },
@@ -1052,6 +1176,14 @@
     "name": "Vliegbasis Twenthe"
   },
   {
+    "id": "108806",
+    "name": "W Hotel Amsterdam"
+  },
+  {
+    "id": "289449",
+    "name": "Walhalla"
+  },
+  {
     "id": "69321",
     "name": "Warehouse Elementenstraat"
   },
@@ -1066,6 +1198,10 @@
   {
     "id": "296411",
     "name": "Weerstand Roermond"
+  },
+  {
+    "id": "222196",
+    "name": "Westerkerk"
   },
   {
     "id": "60806",

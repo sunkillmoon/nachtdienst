@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2490752",
-      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
-      "date": "2026-08-07",
-      "start": "2026-08-07T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490752"
-    },
-    {
       "id": "ra:2501504",
       "title": "ESTRELLA & PHIA b2b 36framez",
       "date": "2026-08-15",
@@ -65,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490752",
+      "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",
+      "date": "2026-08-07",
+      "start": "2026-08-07T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490752"
+    },
     {
       "id": "ra:2439763",
       "title": "Botanic Festival 2026",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495463",
-      "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
-      "date": "2026-08-09",
-      "start": "2026-08-09T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2495463"
-    },
-    {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
       "date": "2026-08-15",
@@ -22,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
+    },
+    {
+      "id": "ra:2512409",
+      "title": "Thuishaven Nachtshow with Benny Rodrigues",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512409"
     },
     {
       "id": "ra:2375299",
@@ -94,6 +94,16 @@
       "url": "https://ra.co/events/2281919"
     },
     {
+      "id": "ra:2512344",
+      "title": "JOY - The Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512344"
+    },
+    {
       "id": "ra:2496555",
       "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
       "date": "2026-09-19",
@@ -145,6 +155,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495463",
+      "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",
+      "date": "2026-08-09",
+      "start": "2026-08-09T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2495463"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

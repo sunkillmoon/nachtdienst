@@ -3,16 +3,6 @@
   "name": "Yellow House",
   "upcoming": [
     {
-      "id": "ra:2504079",
-      "title": "10AM CLUB",
-      "date": "2026-08-08",
-      "start": "2026-08-08T10:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504079"
-    },
-    {
       "id": "ra:2505828",
       "title": "Echoe's Of The Deep",
       "date": "2026-08-14",
@@ -55,6 +45,16 @@
   ],
   "past": [
     {
+      "id": "ra:2504079",
+      "title": "10AM CLUB",
+      "date": "2026-08-08",
+      "start": "2026-08-08T10:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504079"
+    },
+    {
       "id": "ra:2480522",
       "title": "SINE OFF",
       "date": "2026-07-31",
@@ -76,26 +76,6 @@
     }
   ],
   "top_artists": [
-    {
-      "id": "102911",
-      "name": "Coppola (DE)",
-      "count": 1
-    },
-    {
-      "id": "171954",
-      "name": "Joris van Gelder",
-      "count": 1
-    },
-    {
-      "id": "183068",
-      "name": "DOA (2)",
-      "count": 1
-    },
-    {
-      "id": "171525",
-      "name": "einsteyn",
-      "count": 1
-    },
     {
       "id": "114185",
       "name": "da Graca Brothers",
@@ -124,6 +104,26 @@
     {
       "id": "25912",
       "name": "Julien Simmons",
+      "count": 1
+    },
+    {
+      "id": "182778",
+      "name": "Mallie",
+      "count": 1
+    },
+    {
+      "id": "174234",
+      "name": "Maria Louisa",
+      "count": 1
+    },
+    {
+      "id": "137105",
+      "name": "SOLIT",
+      "count": 1
+    },
+    {
+      "id": "111019",
+      "name": "Portente",
       "count": 1
     }
   ]

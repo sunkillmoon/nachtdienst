@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
-      "id": "ra:2403643",
-      "title": "Paradigm Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T13:00+02:00",
-      "venue": "Paradigm",
-      "venue_id": "50801",
-      "area": "All",
-      "url": "https://ra.co/events/2403643"
-    },
-    {
       "id": "ra:2458125",
       "title": "SPIELRAUM Weekender: Nexus opening",
       "date": "2026-09-11",
@@ -45,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2403643",
+      "title": "Paradigm Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T13:00+02:00",
+      "venue": "Paradigm",
+      "venue_id": "50801",
+      "area": "All",
+      "url": "https://ra.co/events/2403643"
+    },
     {
       "id": "ra:2483651",
       "title": "TAFKAMP INVITES Ben Sims, Pelanoir & Rosati",

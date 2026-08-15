@@ -12,6 +12,16 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493463"
+    },
+    {
+      "id": "ra:2512514",
+      "title": "ONE LAST TIME (BY HURU-HARA)",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2512514"
     }
   ],
   "past": []

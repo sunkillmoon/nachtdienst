@@ -1,7 +1,8 @@
 {
   "id": "174293",
   "name": "BeHærd",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489462",
       "title": "BeHaerd BO.02 - Purposely Connect",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2489462"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "75172",

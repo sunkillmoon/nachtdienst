@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.977439,
   "lng": 5.899937,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2505877",
       "title": "NACHT WACHT FESTIVAL [KARAXHELLER]",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2505877"
     }
-  ],
-  "past": []
+  ]
 }

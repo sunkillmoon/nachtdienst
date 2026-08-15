@@ -6,26 +6,6 @@
   "lng": 5.116801,
   "upcoming": [
     {
-      "id": "ra:2478449",
-      "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2478449"
-    },
-    {
-      "id": "ra:2454597",
-      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2454597"
-    },
-    {
       "id": "ra:2478422",
       "title": "BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY",
       "date": "2026-08-14",
@@ -126,6 +106,16 @@
       "url": "https://ra.co/events/2476052"
     },
     {
+      "id": "ra:2510347",
+      "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2510347"
+    },
+    {
       "id": "ra:2504946",
       "title": "BASIS/ Stan Christ all night long",
       "date": "2026-09-25",
@@ -167,6 +157,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2454597",
+      "title": "BASIS/ Blame The Mono/ Fiene/ Lena/ Sons Of Hidden (live)",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2454597"
+    },
+    {
+      "id": "ra:2478449",
+      "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478449"
+    },
     {
       "id": "ra:2475450",
       "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",

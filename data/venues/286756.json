@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.09,
   "lng": 5.08,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2385640"
     }
-  ],
-  "past": []
+  ]
 }

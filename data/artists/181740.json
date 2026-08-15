@@ -12,6 +12,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504786"
+    },
+    {
+      "id": "ra:2512493",
+      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512493"
     }
   ],
   "past": [

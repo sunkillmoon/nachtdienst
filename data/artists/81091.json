@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2375945",
-      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:30+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2375945"
-    },
-    {
       "id": "ra:2493371",
       "title": "Sissi's Friday with Doppelgang Invites: DJ Split, Jenny Cara",
       "date": "2026-08-14",
@@ -32,6 +22,16 @@
       "venue_id": "269965",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508100"
+    },
+    {
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
     },
     {
       "id": "ra:2376016",
@@ -75,6 +75,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2375945",
+      "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2375945"
+    },
     {
       "id": "ra:2484250",
       "title": "Recovery Sessions: Vol 001",

@@ -3,26 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2488539",
-      "title": "Tom Trago • Carlos Valdes",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488539"
-    },
-    {
-      "id": "ra:2488542",
-      "title": "Mattias El Mansouri • 36framez b2b LYLO",
-      "date": "2026-08-08",
-      "start": "2026-08-08T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488542"
-    },
-    {
       "id": "ra:2488552",
       "title": "Doudou MD • mad miran",
       "date": "2026-08-14",
@@ -91,9 +71,39 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488580"
+    },
+    {
+      "id": "ra:2509095",
+      "title": "Ecclipse",
+      "date": "2026-09-19",
+      "start": "2026-09-19T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509095"
     }
   ],
   "past": [
+    {
+      "id": "ra:2488542",
+      "title": "Mattias El Mansouri • 36framez b2b LYLO",
+      "date": "2026-08-08",
+      "start": "2026-08-08T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488542"
+    },
+    {
+      "id": "ra:2488539",
+      "title": "Tom Trago • Carlos Valdes",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488539"
+    },
     {
       "id": "ra:2502948",
       "title": "BRUTTA: Sally C, BELLA, Benny2, Cathy Grogan",
@@ -147,31 +157,6 @@
   ],
   "top_artists": [
     {
-      "id": "108348",
-      "name": "Mattias El Mansouri",
-      "count": 1
-    },
-    {
-      "id": "148687",
-      "name": "36framez",
-      "count": 1
-    },
-    {
-      "id": "179646",
-      "name": "LYLO (NL)",
-      "count": 1
-    },
-    {
-      "id": "103401",
-      "name": "Doudou MD",
-      "count": 1
-    },
-    {
-      "id": "77346",
-      "name": "mad miran",
-      "count": 1
-    },
-    {
       "id": "25203",
       "name": "Samuel Deep",
       "count": 1
@@ -194,6 +179,31 @@
     {
       "id": "97687",
       "name": "DJ Life",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
+    {
+      "id": "172605",
+      "name": "lizz.e",
+      "count": 1
+    },
+    {
+      "id": "97069",
+      "name": "Flo Massé",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "171280",
+      "name": "SAMEFACES",
       "count": 1
     }
   ]

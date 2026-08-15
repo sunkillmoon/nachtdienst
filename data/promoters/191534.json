@@ -1,0 +1,39 @@
+{
+  "id": "191534",
+  "name": "St. Odes",
+  "upcoming": [
+    {
+      "id": "ra:2503973",
+      "title": "st. odes in amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503973"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "896",
+      "name": "Efdemin",
+      "count": 1
+    },
+    {
+      "id": "63390",
+      "name": "Ben Kaczor",
+      "count": 1
+    },
+    {
+      "id": "102728",
+      "name": "Lb Honne",
+      "count": 1
+    },
+    {
+      "id": "80950",
+      "name": "Yu Su",
+      "count": 1
+    }
+  ]
+}

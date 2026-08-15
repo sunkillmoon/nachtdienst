@@ -1,7 +1,8 @@
 {
   "id": "46029",
   "name": "Paradigm050",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2403643"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "77418",

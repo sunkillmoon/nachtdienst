@@ -14,5 +14,41 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "176126",
+      "name": "Dioo",
+      "count": 1
+    },
+    {
+      "id": "117525",
+      "name": "Prance",
+      "count": 1
+    },
+    {
+      "id": "143174",
+      "name": "Joya Astou",
+      "count": 1
+    },
+    {
+      "id": "114067",
+      "name": "I-RO",
+      "count": 1
+    },
+    {
+      "id": "95948",
+      "name": "Rakans",
+      "count": 1
+    },
+    {
+      "id": "147231",
+      "name": "NATHIFA EFIA",
+      "count": 1
+    },
+    {
+      "id": "123818",
+      "name": "Kurashi Soundsystem",
+      "count": 1
+    }
+  ]
 }

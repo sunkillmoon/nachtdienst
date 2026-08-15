@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2499027",
-      "title": "VIERVIERTEL x ADE presents: Addie Manson, Nothing But Love, Quirin TBA",
+      "title": "VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, Nothing But Love, QUIRIN",
       "date": "2026-10-23",
       "start": "2026-10-23T23:30+02:00",
       "venue": "Bar Rouge",
@@ -28,6 +28,11 @@
     {
       "id": "112340",
       "name": "Quirin (DE)",
+      "count": 1
+    },
+    {
+      "id": "83000",
+      "name": "Yubik",
       "count": 1
     }
   ]

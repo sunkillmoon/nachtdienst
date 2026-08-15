@@ -32,6 +32,16 @@
       "venue_id": "201863",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466280"
+    },
+    {
+      "id": "ra:2510268",
+      "title": "NTO (3 hours live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510268"
     }
   ],
   "past": []

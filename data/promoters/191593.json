@@ -1,7 +1,8 @@
 {
   "id": "191593",
   "name": "TUNES.TNS",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2505000",
       "title": "TUNES",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2505000"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "79979",

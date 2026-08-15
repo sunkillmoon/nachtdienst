@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476120",
-      "title": "Locky curates",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476120"
-    },
-    {
-      "id": "ra:2302716",
-      "title": "Loveland Festival 2026",
-      "date": "2026-08-08",
-      "start": "2026-08-08T12:00+02:00",
-      "venue": "Sloterpark",
-      "venue_id": "6389",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2302716"
-    },
-    {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
       "date": "2026-08-29",
@@ -54,6 +34,16 @@
       "url": "https://ra.co/events/2437421"
     },
     {
+      "id": "ra:2511475",
+      "title": "Rooftop Tapes at W Hotel Amsterdam",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511475"
+    },
+    {
       "id": "ra:2450489",
       "title": "LIEF Festival",
       "date": "2026-09-05",
@@ -62,6 +52,16 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2512344",
+      "title": "JOY - The Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512344"
     },
     {
       "id": "ra:2484681",
@@ -85,6 +85,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2302716",
+      "title": "Loveland Festival 2026",
+      "date": "2026-08-08",
+      "start": "2026-08-08T12:00+02:00",
+      "venue": "Sloterpark",
+      "venue_id": "6389",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2476120",
+      "title": "Locky curates",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476120"
+    },
     {
       "id": "ra:2466195",
       "title": "TOFFLER presents DAF and friends",

@@ -2,7 +2,8 @@
   "id": "53381",
   "name": "PLO Man",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",
@@ -12,9 +13,7 @@
       "venue_id": "50801",
       "area": "All",
       "url": "https://ra.co/events/2403643"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

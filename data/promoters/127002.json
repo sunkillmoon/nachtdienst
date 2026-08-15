@@ -1,7 +1,8 @@
 {
   "id": "127002",
   "name": "Sonic Tonic Collective",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497540",
       "title": "STC #053",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2497540"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "168115",

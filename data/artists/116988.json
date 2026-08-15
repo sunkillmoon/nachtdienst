@@ -2,17 +2,8 @@
   "id": "116988",
   "name": "DJ Frank",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2501499",
-      "title": "DJ Frank & unaniem & splinter",
-      "date": "2026-08-07",
-      "start": "2026-08-07T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501499"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",
@@ -22,7 +13,16 @@
       "venue_id": "6389",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2302716"
+    },
+    {
+      "id": "ra:2501499",
+      "title": "DJ Frank & unaniem & splinter",
+      "date": "2026-08-07",
+      "start": "2026-08-07T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501499"
     }
-  ],
-  "past": []
+  ]
 }

@@ -12,6 +12,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501639"
+    },
+    {
+      "id": "ra:2512605",
+      "title": "Tale of Bus w/ Sugar Free, Daan Donk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512605"
     }
   ],
   "past": [

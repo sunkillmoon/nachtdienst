@@ -1,0 +1,39 @@
+{
+  "id": "97036",
+  "name": "Future Intel",
+  "upcoming": [
+    {
+      "id": "ra:2511466",
+      "title": "Of Paradise X Future Intel X INDEx",
+      "date": "2026-09-25",
+      "start": "2026-09-25T17:00+02:00",
+      "venue": "De Besturing",
+      "venue_id": "91806",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2511466"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "143766",
+      "name": "Hünter",
+      "count": 1
+    },
+    {
+      "id": "179293",
+      "name": "Silent Era",
+      "count": 1
+    },
+    {
+      "id": "66042",
+      "name": "Paul P",
+      "count": 1
+    },
+    {
+      "id": "111586",
+      "name": "Edward J",
+      "count": 1
+    }
+  ]
+}

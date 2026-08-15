@@ -2,7 +2,8 @@
   "id": "25963",
   "name": "Siavash",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2460812",
       "title": "08 AUG - Thuishaven with Eelke Kleijn 10HRS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2460812"
     }
-  ],
-  "past": []
+  ]
 }

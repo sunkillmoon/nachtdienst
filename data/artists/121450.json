@@ -12,6 +12,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500666"
+    },
+    {
+      "id": "ra:2511270",
+      "title": "EYE CONTACT & VIAPHIA",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511270"
     }
   ],
   "past": [

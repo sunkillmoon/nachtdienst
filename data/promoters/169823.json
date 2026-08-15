@@ -1,7 +1,18 @@
 {
   "id": "169823",
   "name": "PSYROM",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2510528",
+      "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510528"
+    }
+  ],
   "past": [
     {
       "id": "ra:2466755",
@@ -15,6 +26,31 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "91680",
+      "name": "Uväll",
+      "count": 1
+    },
+    {
+      "id": "82712",
+      "name": "Deano",
+      "count": 1
+    },
+    {
+      "id": "145740",
+      "name": "BIANKA",
+      "count": 1
+    },
+    {
+      "id": "161870",
+      "name": "Varuna Agosti",
+      "count": 1
+    },
+    {
+      "id": "109242",
+      "name": "Serti",
+      "count": 1
+    },
     {
       "id": "95701",
       "name": "Julie",

@@ -2,7 +2,8 @@
   "id": "124114",
   "name": "DITA (ID)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495565",
       "title": "FERMI presents... Dita & Ezza",
@@ -12,9 +13,7 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495565"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494143",
       "title": "Dita",

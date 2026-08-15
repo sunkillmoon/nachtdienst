@@ -3,16 +3,6 @@
   "name": "Elevation Events",
   "upcoming": [
     {
-      "id": "ra:2385640",
-      "title": "In Het Zand Festival",
-      "date": "2026-08-08",
-      "start": "2026-08-08T14:00+02:00",
-      "venue": "Soia - Strand Oog in Al",
-      "venue_id": "286756",
-      "area": "All",
-      "url": "https://ra.co/events/2385640"
-    },
-    {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
       "date": "2026-08-29",
@@ -23,56 +13,67 @@
       "url": "https://ra.co/events/2385645"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2385640",
+      "title": "In Het Zand Festival",
+      "date": "2026-08-08",
+      "start": "2026-08-08T14:00+02:00",
+      "venue": "Soia - Strand Oog in Al",
+      "venue_id": "286756",
+      "area": "All",
+      "url": "https://ra.co/events/2385640"
+    }
+  ],
   "top_artists": [
     {
-      "id": "621",
-      "name": "Ada",
+      "id": "152684",
+      "name": "Ammé",
       "count": 1
     },
     {
-      "id": "114924",
-      "name": "Ays (NL)",
+      "id": "163944",
+      "name": "ANNASNEL",
       "count": 1
     },
     {
-      "id": "159225",
-      "name": "Benny2",
+      "id": "10446",
+      "name": "Benny Rodrigues",
       "count": 1
     },
     {
-      "id": "96823",
-      "name": "Berkan V8",
+      "id": "171453",
+      "name": "Cici Daze",
       "count": 1
     },
     {
-      "id": "110084",
-      "name": "Eileen (NL)",
+      "id": "81309",
+      "name": "DART",
       "count": 1
     },
     {
-      "id": "151923",
-      "name": "Emvae",
+      "id": "133993",
+      "name": "davyboi",
       "count": 1
     },
     {
-      "id": "145217",
-      "name": "Moxes",
+      "id": "169174",
+      "name": "Fiene",
       "count": 1
     },
     {
-      "id": "7134",
-      "name": "Kennedy",
+      "id": "31673",
+      "name": "franck",
       "count": 1
     },
     {
-      "id": "84899",
-      "name": "Kléo",
+      "id": "124162",
+      "name": "Janis Zielinski",
       "count": 1
     },
     {
-      "id": "58266",
-      "name": "Lucky Done Gone",
+      "id": "127729",
+      "name": "Ollie Lishman",
       "count": 1
     }
   ]

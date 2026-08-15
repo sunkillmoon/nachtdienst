@@ -1,0 +1,20 @@
+{
+  "id": "300058",
+  "name": "De Beatfabriek",
+  "area": "All",
+  "lat": 52.39,
+  "lng": 4.85,
+  "upcoming": [
+    {
+      "id": "ra:2512898",
+      "title": "Kármán VI - Community event",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "De Beatfabriek",
+      "venue_id": "300058",
+      "area": "All",
+      "url": "https://ra.co/events/2512898"
+    }
+  ],
+  "past": []
+}

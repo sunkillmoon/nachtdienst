@@ -6,16 +6,6 @@
   "lng": 4.8743906,
   "upcoming": [
     {
-      "id": "ra:2504079",
-      "title": "10AM CLUB",
-      "date": "2026-08-08",
-      "start": "2026-08-08T10:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504079"
-    },
-    {
       "id": "ra:2505828",
       "title": "Echoe's Of The Deep",
       "date": "2026-08-14",
@@ -57,6 +47,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504079",
+      "title": "10AM CLUB",
+      "date": "2026-08-08",
+      "start": "2026-08-08T10:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504079"
+    },
     {
       "id": "ra:2481029",
       "title": "Queer Aunties presents: Aunties in Amsterdam",
