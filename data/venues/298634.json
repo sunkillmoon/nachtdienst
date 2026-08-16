@@ -25,6 +25,26 @@
       "venue_id": "298634",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500622"
+    },
+    {
+      "id": "ra:2490445",
+      "title": "House of Noa House Party",
+      "date": "2026-07-18",
+      "start": "2026-07-18T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490445"
+    },
+    {
+      "id": "ra:2490438",
+      "title": "House of Noa House Party",
+      "date": "2026-07-17",
+      "start": "2026-07-17T21:30+02:00",
+      "venue": "House of Noa",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490438"
     }
   ]
 }

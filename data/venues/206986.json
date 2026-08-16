@@ -6,16 +6,6 @@
   "lng": 4,
   "upcoming": [
     {
-      "id": "ra:2505069",
-      "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2505069"
-    },
-    {
       "id": "ra:2490623",
       "title": "PAUZE",
       "date": "2026-08-15",
@@ -67,6 +57,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505069",
+      "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505069"
+    },
     {
       "id": "ra:2507139",
       "title": "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION",

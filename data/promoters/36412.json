@@ -3,16 +3,6 @@
   "name": "TOFFLER",
   "upcoming": [
     {
-      "id": "ra:2466204",
-      "title": "TOFFLER presents The Funkmoore Brothers and friends",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466204"
-    },
-    {
       "id": "ra:2466205",
       "title": "TOFFLER presents LOZO and friends",
       "date": "2026-08-15",
@@ -135,6 +125,16 @@
   ],
   "past": [
     {
+      "id": "ra:2466204",
+      "title": "TOFFLER presents The Funkmoore Brothers and friends",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466204"
+    },
+    {
       "id": "ra:2466203",
       "title": "TOFFLER presents Jill-Ann and friends",
       "date": "2026-08-08",
@@ -202,31 +202,6 @@
       "count": 2
     },
     {
-      "id": "139982",
-      "name": "Anderdox",
-      "count": 1
-    },
-    {
-      "id": "156910",
-      "name": "Rayen",
-      "count": 1
-    },
-    {
-      "id": "133080",
-      "name": "Chris Brooks",
-      "count": 1
-    },
-    {
-      "id": "159211",
-      "name": "Wes Colstock",
-      "count": 1
-    },
-    {
-      "id": "26560",
-      "name": "Nick Garcia",
-      "count": 1
-    },
-    {
       "id": "152684",
       "name": "Ammé",
       "count": 1
@@ -244,6 +219,31 @@
     {
       "id": "146324",
       "name": "JÄMO",
+      "count": 1
+    },
+    {
+      "id": "88056",
+      "name": "Boss Priester",
+      "count": 1
+    },
+    {
+      "id": "117119",
+      "name": "Hidde van Wee",
+      "count": 1
+    },
+    {
+      "id": "95034",
+      "name": "DORA",
+      "count": 1
+    },
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
+      "count": 1
+    },
+    {
+      "id": "1378",
+      "name": "Luca Ricci",
       "count": 1
     }
   ]

@@ -3,16 +3,6 @@
   "name": "Garage Noord",
   "upcoming": [
     {
-      "id": "ra:2494099",
-      "title": "Cousin, baby ganoush b2b Nèna, Sandor",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494099"
-    },
-    {
       "id": "ra:2494101",
       "title": "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality",
       "date": "2026-08-15",
@@ -74,6 +64,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2494099",
+      "title": "Cousin, baby ganoush b2b Nèna, Sandor",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494099"
+    },
     {
       "id": "ra:2489462",
       "title": "BeHaerd BO.02 - Purposely Connect",
@@ -177,21 +177,6 @@
       "count": 2
     },
     {
-      "id": "29883",
-      "name": "DJ Storm (2)",
-      "count": 1
-    },
-    {
-      "id": "184623",
-      "name": "lis (5)",
-      "count": 1
-    },
-    {
-      "id": "121901",
-      "name": "mul/ANNA",
-      "count": 1
-    },
-    {
       "id": "147324",
       "name": "smother",
       "count": 1
@@ -204,6 +189,21 @@
     {
       "id": "3764",
       "name": "Luke Hess",
+      "count": 1
+    },
+    {
+      "id": "113051",
+      "name": "Remma",
+      "count": 1
+    },
+    {
+      "id": "86340",
+      "name": "amara",
+      "count": 1
+    },
+    {
+      "id": "155509",
+      "name": "BARROSKINI",
       "count": 1
     }
   ]

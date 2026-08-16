@@ -2,7 +2,8 @@
   "id": "82947",
   "name": "Sandor",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494099",
       "title": "Cousin, baby ganoush b2b Nèna, Sandor",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494099"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",

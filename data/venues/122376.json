@@ -6,16 +6,6 @@
   "lng": 4.902859,
   "upcoming": [
     {
-      "id": "ra:2456902",
-      "title": "Madam by Night invites: A Divine Kaos",
-      "date": "2026-08-14",
-      "start": "2026-08-14T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456902"
-    },
-    {
       "id": "ra:2456907",
       "title": "Madam by Night invites: Casa Très",
       "date": "2026-08-15",
@@ -207,6 +197,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2456902",
+      "title": "Madam by Night invites: A Divine Kaos",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456902"
+    },
     {
       "id": "ra:2456900",
       "title": "Madam by Night invites: RAINVILLE invites",

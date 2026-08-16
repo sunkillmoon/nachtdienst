@@ -1,7 +1,18 @@
 {
   "id": "30480",
   "name": "MODULAR | MUSIC",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2479896",
+      "title": "Modular Maassilo 2026",
+      "date": "2026-11-14",
+      "start": "2026-11-14T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479896"
+    }
+  ],
   "past": [
     {
       "id": "ra:2479892",
@@ -16,13 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "99930",
-      "name": "Bad Boombox",
+      "id": "117642",
+      "name": "Dj Babatr",
       "count": 1
     },
     {
-      "id": "157007",
-      "name": "lizaliza",
+      "id": "127453",
+      "name": "Gyatso",
+      "count": 1
+    },
+    {
+      "id": "73737",
+      "name": "Interplanetary Criminal",
+      "count": 1
+    },
+    {
+      "id": "114563",
+      "name": "LAMMER",
+      "count": 1
+    },
+    {
+      "id": "165697",
+      "name": "Lisa Korver",
+      "count": 1
+    },
+    {
+      "id": "130031",
+      "name": "LORI (NL)",
+      "count": 1
+    },
+    {
+      "id": "95191",
+      "name": "M-High",
+      "count": 1
+    },
+    {
+      "id": "103554",
+      "name": "Miguel De Bois",
+      "count": 1
+    },
+    {
+      "id": "104385",
+      "name": "Milion",
+      "count": 1
+    },
+    {
+      "id": "142130",
+      "name": "SAIDAH",
       "count": 1
     }
   ]

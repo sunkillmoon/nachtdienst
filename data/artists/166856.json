@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2498712",
-      "title": "RDBLCK x DWNTWN at Litterbox",
-      "date": "2026-08-14",
-      "start": "2026-08-14T19:30+02:00",
-      "venue": "Nine Lives Gallery",
-      "venue_id": "298448",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2498712"
-    },
-    {
       "id": "ra:2493470",
       "title": "Sissi's by Closecall x Ghosts of Garage",
       "date": "2026-08-29",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2498712",
+      "title": "RDBLCK x DWNTWN at Litterbox",
+      "date": "2026-08-14",
+      "start": "2026-08-14T19:30+02:00",
+      "venue": "Nine Lives Gallery",
+      "venue_id": "298448",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2498712"
+    },
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",

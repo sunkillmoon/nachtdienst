@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494892",
-      "title": "Liquid Air",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
-      "venue": "Waterhouse Studios",
-      "venue_id": "274196",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494892"
-    },
-    {
       "id": "ra:2494430",
       "title": "The Final Stretch",
       "date": "2026-10-25",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2494430"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2494892",
+      "title": "Liquid Air",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494892"
+    }
+  ]
 }

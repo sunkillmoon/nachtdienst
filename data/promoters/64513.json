@@ -21,6 +21,16 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2506907"
+    },
+    {
+      "id": "ra:2506990",
+      "title": "Boiler Room: Amsterdam",
+      "date": "2026-11-14",
+      "start": "2026-11-14T22:00+01:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506990"
     }
   ],
   "past": [],

@@ -3,14 +3,14 @@
   "name": "Shelter Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2476138",
-      "title": "Luke Alessi (all night)",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
+      "id": "ra:2476140",
+      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
       "venue": "Shelter Amsterdam",
       "venue_id": "124413",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2476138"
+      "url": "https://ra.co/events/2476140"
     },
     {
       "id": "ra:2499921",
@@ -21,16 +21,6 @@
       "venue_id": "215670",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499921"
-    },
-    {
-      "id": "ra:2476140",
-      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476140"
     },
     {
       "id": "ra:2476143",
@@ -185,6 +175,16 @@
   ],
   "past": [
     {
+      "id": "ra:2476138",
+      "title": "Luke Alessi (all night)",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476138"
+    },
+    {
       "id": "ra:2476133",
       "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",
       "date": "2026-08-08",
@@ -247,11 +247,6 @@
   ],
   "top_artists": [
     {
-      "id": "53004",
-      "name": "Laidlaw",
-      "count": 3
-    },
-    {
       "id": "101520",
       "name": "Julian Anthony",
       "count": 3
@@ -259,6 +254,11 @@
     {
       "id": "736",
       "name": "Ryan Elliott",
+      "count": 3
+    },
+    {
+      "id": "53004",
+      "name": "Laidlaw",
       "count": 3
     },
     {

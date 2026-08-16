@@ -22,6 +22,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479678"
+    },
+    {
+      "id": "ra:2490660",
+      "title": "Luminosity pres. Factor B - Theatre of The Mind",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490660"
     }
   ],
   "past": []

@@ -6,16 +6,6 @@
   "lng": 4.888833,
   "upcoming": [
     {
-      "id": "ra:2503446",
-      "title": "Function",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503446"
-    },
-    {
       "id": "ra:2503445",
       "title": "Young, Rich & Balkan",
       "date": "2026-08-15",
@@ -117,6 +107,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503446",
+      "title": "Function",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503446"
+    },
     {
       "id": "ra:2503447",
       "title": "Source",

@@ -6,14 +6,14 @@
   "lng": 4.824222,
   "upcoming": [
     {
-      "id": "ra:2454757",
-      "title": "Get Closer",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
       "venue": "Lofi",
       "venue_id": "168878",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2454757"
+      "url": "https://ra.co/events/2423424"
     },
     {
       "id": "ra:2381846",
@@ -24,16 +24,6 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2381846"
-    },
-    {
-      "id": "ra:2423424",
-      "title": "Ratherlost - 24 Hours",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423424"
     },
     {
       "id": "ra:2458317",
@@ -197,6 +187,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2454757",
+      "title": "Get Closer",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2454757"
+    },
     {
       "id": "ra:2501591",
       "title": "Loveland Festival Official Afterparty (Sun)",

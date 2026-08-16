@@ -41,6 +41,16 @@
       "venue_id": "4902",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479799"
+    },
+    {
+      "id": "ra:2479802",
+      "title": "TiTi All Night Long",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:59+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479802"
     }
   ],
   "past": [
@@ -102,6 +112,11 @@
       "count": 2
     },
     {
+      "id": "89701",
+      "name": "TiTi",
+      "count": 2
+    },
+    {
       "id": "116003",
       "name": "Cloudy",
       "count": 1
@@ -109,11 +124,6 @@
     {
       "id": "134197",
       "name": "Vagabund",
-      "count": 1
-    },
-    {
-      "id": "44868",
-      "name": "Anetha",
       "count": 1
     }
   ]

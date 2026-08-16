@@ -261,6 +261,26 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490666"
+    },
+    {
+      "id": "ra:2409512",
+      "title": "Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg",
+      "date": "2026-11-14",
+      "start": "2026-11-14T22:00+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2409512"
+    },
+    {
+      "id": "ra:2490660",
+      "title": "Luminosity pres. Factor B - Theatre of The Mind",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490660"
     }
   ],
   "past": [

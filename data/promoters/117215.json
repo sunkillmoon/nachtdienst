@@ -3,16 +3,6 @@
   "name": "Time is the new space",
   "upcoming": [
     {
-      "id": "ra:2505069",
-      "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2505069"
-    },
-    {
       "id": "ra:2490623",
       "title": "PAUZE",
       "date": "2026-08-15",
@@ -75,6 +65,16 @@
   ],
   "past": [
     {
+      "id": "ra:2505069",
+      "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505069"
+    },
+    {
       "id": "ra:2507139",
       "title": "TIME'S FOUR YEAR (MINUS ONE) CELEBRATION",
       "date": "2026-08-13",
@@ -117,21 +117,6 @@
   ],
   "top_artists": [
     {
-      "id": "117173",
-      "name": "Ambu Bambu",
-      "count": 1
-    },
-    {
-      "id": "120893",
-      "name": "Conduct Disorder",
-      "count": 1
-    },
-    {
-      "id": "164336",
-      "name": "georg-i",
-      "count": 1
-    },
-    {
       "id": "17594",
       "name": "DD",
       "count": 1
@@ -164,6 +149,21 @@
     {
       "id": "103438",
       "name": "kimmah",
+      "count": 1
+    },
+    {
+      "id": "130557",
+      "name": "North Not South",
+      "count": 1
+    },
+    {
+      "id": "130056",
+      "name": "Cold Hippie",
+      "count": 1
+    },
+    {
+      "id": "95967",
+      "name": "Borokov Borokov",
       "count": 1
     }
   ]

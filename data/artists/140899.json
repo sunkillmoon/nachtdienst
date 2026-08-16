@@ -2,7 +2,8 @@
   "id": "140899",
   "name": "Hanzo Tono",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503792",
       "title": "QUERICO TOKYO in AMS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503792"
     }
-  ],
-  "past": []
+  ]
 }

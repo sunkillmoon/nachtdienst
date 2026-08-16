@@ -1,0 +1,34 @@
+{
+  "id": "180042",
+  "name": "Mixed Grooves",
+  "upcoming": [
+    {
+      "id": "ra:2513884",
+      "title": "NEXT – New Era of Xtraordinary Talents",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:30+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513884"
+    },
+    {
+      "id": "ra:2513887",
+      "title": "Household Funk editie 6 at Veronica Schip",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:30+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513887"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "176673",
+      "name": "Denise Lopes",
+      "count": 1
+    }
+  ]
+}

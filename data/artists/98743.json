@@ -2,7 +2,8 @@
   "id": "98743",
   "name": "The Trip",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2454757",
       "title": "Get Closer",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2454757"
     }
-  ],
-  "past": []
+  ]
 }

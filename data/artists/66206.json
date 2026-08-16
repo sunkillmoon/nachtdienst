@@ -62,6 +62,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2460818",
+      "title": "ADATP presents: Housequake 10 Hours",
+      "date": "2026-11-14",
+      "start": "2026-11-14T13:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460818"
     }
   ],
   "past": [

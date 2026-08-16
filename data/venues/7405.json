@@ -124,6 +124,16 @@
       "venue_id": "7405",
       "area": "All",
       "url": "https://ra.co/events/2499862"
+    },
+    {
+      "id": "ra:2439758",
+      "title": "Emo Night Mainland",
+      "date": "2026-11-14",
+      "start": "2026-11-14T20:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2439758"
     }
   ],
   "past": []

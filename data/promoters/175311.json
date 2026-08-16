@@ -1,0 +1,34 @@
+{
+  "id": "175311",
+  "name": "ADATP Festival",
+  "upcoming": [
+    {
+      "id": "ra:2460818",
+      "title": "ADATP presents: Housequake 10 Hours",
+      "date": "2026-11-14",
+      "start": "2026-11-14T13:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460818"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "76101",
+      "name": "Housequake",
+      "count": 1
+    },
+    {
+      "id": "66206",
+      "name": "ROOG",
+      "count": 1
+    },
+    {
+      "id": "17451",
+      "name": "Erick E",
+      "count": 1
+    }
+  ]
+}

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504698",
-      "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504698"
-    },
-    {
       "id": "ra:2501509",
       "title": "Passion DEEZ & Friends",
       "date": "2026-08-27",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504698",
+      "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504698"
+    },
     {
       "id": "ra:2494140",
       "title": "Passion Deez",

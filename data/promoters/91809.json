@@ -3,16 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2488552",
-      "title": "Doudou MD • mad miran",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488552"
-    },
-    {
       "id": "ra:2488567",
       "title": "Samuel Deep • Cinnaman",
       "date": "2026-08-15",
@@ -84,6 +74,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488552",
+      "title": "Doudou MD • mad miran",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488552"
+    },
     {
       "id": "ra:2488542",
       "title": "Mattias El Mansouri • 36framez b2b LYLO",
@@ -157,16 +157,6 @@
   ],
   "top_artists": [
     {
-      "id": "25203",
-      "name": "Samuel Deep",
-      "count": 1
-    },
-    {
-      "id": "43115",
-      "name": "Cinnaman",
-      "count": 1
-    },
-    {
       "id": "28938",
       "name": "Andy Luff",
       "count": 1
@@ -204,6 +194,16 @@
     {
       "id": "171280",
       "name": "SAMEFACES",
+      "count": 1
+    },
+    {
+      "id": "27408",
+      "name": "Dam Swindle",
+      "count": 1
+    },
+    {
+      "id": "162897",
+      "name": "Cleo Grooves",
       "count": 1
     }
   ]

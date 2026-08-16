@@ -2,7 +2,8 @@
   "id": "110653",
   "name": "Kontronatura",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486672",
       "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2486672"
     }
-  ],
-  "past": []
+  ]
 }

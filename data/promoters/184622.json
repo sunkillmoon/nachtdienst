@@ -26,6 +26,16 @@
   "past": [],
   "top_artists": [
     {
+      "id": "96858",
+      "name": "GENE",
+      "count": 1
+    },
+    {
+      "id": "111488",
+      "name": "Rolmar",
+      "count": 1
+    },
+    {
       "id": "28680",
       "name": "Matteo Gatti",
       "count": 1
@@ -38,16 +48,6 @@
     {
       "id": "180501",
       "name": "Gabriele Peveri",
-      "count": 1
-    },
-    {
-      "id": "96858",
-      "name": "GENE",
-      "count": 1
-    },
-    {
-      "id": "111488",
-      "name": "Rolmar",
       "count": 1
     }
   ]

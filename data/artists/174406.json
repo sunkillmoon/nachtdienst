@@ -2,7 +2,8 @@
   "id": "174406",
   "name": "Divine Kaos",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456902",
       "title": "Madam by Night invites: A Divine Kaos",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456902"
     }
-  ],
-  "past": []
+  ]
 }

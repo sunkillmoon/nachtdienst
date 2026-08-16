@@ -6,16 +6,6 @@
   "lng": 4.8743906,
   "upcoming": [
     {
-      "id": "ra:2505828",
-      "title": "Echoe's Of The Deep",
-      "date": "2026-08-14",
-      "start": "2026-08-14T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505828"
-    },
-    {
       "id": "ra:2505832",
       "title": "Vierkant Rooster",
       "date": "2026-08-21",
@@ -47,6 +37,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505828",
+      "title": "Echoe's Of The Deep",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505828"
+    },
     {
       "id": "ra:2504079",
       "title": "10AM CLUB",

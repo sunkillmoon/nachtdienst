@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2497127",
-      "title": "Melodic Astronaut with Doguez & Augustina Aliaga",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497127"
-    },
-    {
       "id": "ra:2496837",
       "title": "No Sundays Without Techno",
       "date": "2026-08-16",
@@ -85,6 +75,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2497127",
+      "title": "Melodic Astronaut with Doguez & Augustina Aliaga",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497127"
+    },
     {
       "id": "ra:2496834",
       "title": "No Sundays Without Techno",

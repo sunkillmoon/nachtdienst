@@ -2,7 +2,8 @@
   "id": "147863",
   "name": "Doguez",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497127",
       "title": "Melodic Astronaut with Doguez & Augustina Aliaga",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497127"
     }
-  ],
-  "past": []
+  ]
 }

@@ -6,16 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2490449",
-      "title": "OG Records with bullet tooth",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490449"
-    },
-    {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
       "date": "2026-08-15",
@@ -157,6 +147,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490449",
+      "title": "OG Records with bullet tooth",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490449"
+    },
     {
       "id": "ra:2505209",
       "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",

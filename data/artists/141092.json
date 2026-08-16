@@ -2,7 +2,8 @@
   "id": "141092",
   "name": "DJ Possum",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501503",
       "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501503"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494099",
-      "title": "Cousin, baby ganoush b2b Nèna, Sandor",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494099"
-    },
-    {
       "id": "ra:2489575",
       "title": "fruit salad x Epiphany Records",
       "date": "2026-08-30",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2494099",
+      "title": "Cousin, baby ganoush b2b Nèna, Sandor",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494099"
+    },
     {
       "id": "ra:2478274",
       "title": "Weekend002",

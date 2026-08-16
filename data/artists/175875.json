@@ -2,7 +2,8 @@
   "id": "175875",
   "name": "Keykey",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466204",
       "title": "TOFFLER presents The Funkmoore Brothers and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466204"
     }
-  ],
-  "past": []
+  ]
 }

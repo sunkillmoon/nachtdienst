@@ -36,29 +36,14 @@
   "past": [],
   "top_artists": [
     {
-      "id": "130698",
-      "name": "NoXa",
-      "count": 2
-    },
-    {
       "id": "78987",
       "name": "Pavo",
       "count": 2
     },
     {
-      "id": "82835",
-      "name": "Analog Kitchen",
-      "count": 1
-    },
-    {
-      "id": "142702",
-      "name": "Nina Bender",
-      "count": 1
-    },
-    {
-      "id": "149191",
-      "name": "Ruffian",
-      "count": 1
+      "id": "130698",
+      "name": "NoXa",
+      "count": 2
     },
     {
       "id": "154466",
@@ -83,6 +68,21 @@
     {
       "id": "130705",
       "name": "Dj Promo",
+      "count": 1
+    },
+    {
+      "id": "96702",
+      "name": "satronica",
+      "count": 1
+    },
+    {
+      "id": "82835",
+      "name": "Analog Kitchen",
+      "count": 1
+    },
+    {
+      "id": "142702",
+      "name": "Nina Bender",
       "count": 1
     }
   ]

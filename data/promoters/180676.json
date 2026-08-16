@@ -3,16 +3,6 @@
   "name": "OG Records",
   "upcoming": [
     {
-      "id": "ra:2490449",
-      "title": "OG Records with bullet tooth",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490449"
-    },
-    {
       "id": "ra:2480629",
       "title": "Overbruggen x OG - ADE 2026",
       "date": "2026-10-24",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2480629"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2490449",
+      "title": "OG Records with bullet tooth",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490449"
+    }
+  ],
   "top_artists": [
     {
       "id": "129734",

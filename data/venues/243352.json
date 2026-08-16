@@ -6,16 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2501503",
-      "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501503"
-    },
-    {
       "id": "ra:2501504",
       "title": "ESTRELLA & PHIA b2b 36framez",
       "date": "2026-08-15",
@@ -207,6 +197,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501503",
+      "title": "Klub Analog w/ Myles Mac & DJ Possum, Piepotelli",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501503"
+    },
     {
       "id": "ra:2501501",
       "title": "Bubbling Baby",

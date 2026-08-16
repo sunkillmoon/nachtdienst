@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476138",
-      "title": "Luke Alessi (all night)",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476138"
-    },
-    {
       "id": "ra:2479566",
       "title": "Lofi by Tjade",
       "date": "2026-09-12",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2495403"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2476138",
+      "title": "Luke Alessi (all night)",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476138"
+    }
+  ]
 }

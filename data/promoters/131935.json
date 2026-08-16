@@ -1,7 +1,8 @@
 {
   "id": "131935",
   "name": "QUERICO",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503792",
       "title": "QUERICO TOKYO in AMS",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2503792"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "56544",

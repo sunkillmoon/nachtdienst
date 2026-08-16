@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2503792",
-      "title": "QUERICO TOKYO in AMS",
-      "date": "2026-08-14",
-      "start": "2026-08-14T21:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503792"
-    },
-    {
       "id": "ra:2506879",
       "title": "De Binnenstad x Sissi's",
       "date": "2026-09-25",
@@ -22,7 +12,28 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506879"
+    },
+    {
+      "id": "ra:2479896",
+      "title": "Modular Maassilo 2026",
+      "date": "2026-11-14",
+      "start": "2026-11-14T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479896"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2503792",
+      "title": "QUERICO TOKYO in AMS",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503792"
+    }
+  ]
 }

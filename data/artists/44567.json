@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504698",
-      "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",
-      "date": "2026-08-14",
-      "start": "2026-08-14T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504698"
-    },
-    {
       "id": "ra:2451944",
       "title": "BURST presents TLM - ADE 2026",
       "date": "2026-10-23",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504698",
+      "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",
+      "date": "2026-08-14",
+      "start": "2026-08-14T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504698"
+    },
     {
       "id": "ra:2251187",
       "title": "Daycare Festival",

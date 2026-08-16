@@ -6,16 +6,6 @@
   "lng": 4.84,
   "upcoming": [
     {
-      "id": "ra:2503792",
-      "title": "QUERICO TOKYO in AMS",
-      "date": "2026-08-14",
-      "start": "2026-08-14T21:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503792"
-    },
-    {
       "id": "ra:2493234",
       "title": "Scene",
       "date": "2026-08-15",
@@ -107,6 +97,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503792",
+      "title": "QUERICO TOKYO in AMS",
+      "date": "2026-08-14",
+      "start": "2026-08-14T21:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503792"
+    },
     {
       "id": "ra:2492263",
       "title": "SERVE Eurosummer",

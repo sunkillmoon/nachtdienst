@@ -2,7 +2,8 @@
   "id": "118891",
   "name": "LE KACANG",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498712",
       "title": "RDBLCK x DWNTWN at Litterbox",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2498712"
     }
-  ],
-  "past": []
+  ]
 }

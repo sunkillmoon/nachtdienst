@@ -6,16 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2504816",
-      "title": "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504816"
-    },
-    {
       "id": "ra:2504931",
       "title": "Collé All Night Long",
       "date": "2026-08-15",
@@ -197,6 +187,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504816",
+      "title": "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504816"
+    },
     {
       "id": "ra:2500689",
       "title": "Eichenbaum all-night-long",

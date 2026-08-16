@@ -26,11 +26,6 @@
   "past": [],
   "top_artists": [
     {
-      "id": "62077",
-      "name": "Chris Stussy",
-      "count": 1
-    },
-    {
       "id": "6388",
       "name": "&ME",
       "count": 1
@@ -38,6 +33,11 @@
     {
       "id": "5011",
       "name": "Rampa",
+      "count": 1
+    },
+    {
+      "id": "62077",
+      "name": "Chris Stussy",
       "count": 1
     }
   ]

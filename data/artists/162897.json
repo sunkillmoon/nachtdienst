@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466204",
-      "title": "TOFFLER presents The Funkmoore Brothers and friends",
-      "date": "2026-08-14",
-      "start": "2026-08-14T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466204"
-    },
-    {
       "id": "ra:2509095",
       "title": "Ecclipse",
       "date": "2026-09-19",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2509095"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466204",
+      "title": "TOFFLER presents The Funkmoore Brothers and friends",
+      "date": "2026-08-14",
+      "start": "2026-08-14T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466204"
+    }
+  ]
 }

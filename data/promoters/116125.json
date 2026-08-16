@@ -3,16 +3,6 @@
   "name": "hush.",
   "upcoming": [
     {
-      "id": "ra:2442055",
-      "title": "Hush Boatparty",
-      "date": "2026-08-14",
-      "start": "2026-08-14T16:30+02:00",
-      "venue": "Pier 14",
-      "venue_id": "265448",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2442055"
-    },
-    {
       "id": "ra:2426015",
       "title": "Hush at the Beach with Kepler, Boss Priester & More",
       "date": "2026-08-21",
@@ -64,6 +54,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2442055",
+      "title": "Hush Boatparty",
+      "date": "2026-08-14",
+      "start": "2026-08-14T16:30+02:00",
+      "venue": "Pier 14",
+      "venue_id": "265448",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2442055"
+    },
     {
       "id": "ra:2426010",
       "title": "Hush at the Beach with Riordan, Job de Jong & More",

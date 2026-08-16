@@ -26,6 +26,16 @@
   "past": [],
   "top_artists": [
     {
+      "id": "127152",
+      "name": "Fox Stevenson",
+      "count": 1
+    },
+    {
+      "id": "125109",
+      "name": "Mozey",
+      "count": 1
+    },
+    {
       "id": "129499",
       "name": "K Motionz",
       "count": 1
@@ -63,16 +73,6 @@
     {
       "id": "129370",
       "name": "Shockone",
-      "count": 1
-    },
-    {
-      "id": "127152",
-      "name": "Fox Stevenson",
-      "count": 1
-    },
-    {
-      "id": "125109",
-      "name": "Mozey",
       "count": 1
     }
   ]
