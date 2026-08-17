@@ -1,7 +1,8 @@
 {
   "id": "59291",
   "name": "picnic records ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
@@ -23,7 +24,6 @@
       "url": "https://ra.co/events/2499918"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "28938",

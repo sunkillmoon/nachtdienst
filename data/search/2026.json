@@ -742,12 +742,12 @@
   {
     "id": "ra:2395761",
     "date": "2026-09-19",
-    "title": "SOLD OUT We are iT at the beach 2026",
+    "title": "We are iT at the beach 2026",
     "venue": "Beachclub Fuel",
     "venue_id": "105125",
     "area": "All",
     "ra_url": "https://ra.co/events/2395761",
-    "terms": "sold out we are it at the beach 2026 beachclub fuel all jean (3) marcello (2) erick e alexander koning divine albert kim kaos [percep-tion]"
+    "terms": "we are it at the beach 2026 beachclub fuel all jean (3) marcello (2) erick e alexander koning divine albert kim kaos [percep-tion]"
   },
   {
     "id": "ra:2395821",
@@ -3492,12 +3492,12 @@
   {
     "id": "ra:2461530",
     "date": "2026-08-21",
-    "title": "Dissident",
+    "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
     "venue": "TILLATEC",
     "venue_id": "232813",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2461530",
-    "terms": "dissident tillatec amsterdam angelboy diora carly zeng cryptofauna marum spekki webu dissident"
+    "terms": "dissident: spekki webu, cryptofauna, angelboy tillatec amsterdam angelboy diora carly zeng cryptofauna marum spekki webu dissident"
   },
   {
     "id": "ra:2461593",
@@ -12252,12 +12252,12 @@
   {
     "id": "ra:2503308",
     "date": "2026-08-17",
-    "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+    "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
     "venue": "John Doe",
     "venue_id": "109140",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2503308",
-    "terms": "hard mondays amsterdam - hard techno night john doe amsterdam no1else we build events hard mondays amsterdam"
+    "terms": "hard mondays amsterdam - hard techno night with nø1else john doe amsterdam no1else we build events hard mondays amsterdam"
   },
   {
     "id": "ra:2503311",
@@ -14020,6 +14020,16 @@
     "terms": "maastek - official inkom afterparties d'n hiemel all hektek"
   },
   {
+    "id": "ra:2510533",
+    "date": "2026-10-24",
+    "title": "Stil vor Talent ADE Showcase",
+    "venue": "THE OTHER SIDE",
+    "venue_id": "202249",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2510533",
+    "terms": "stil vor talent ade showcase the other side amsterdam oliver koletzki frida darko malive hovr annett gapstream svt - stil vor talent"
+  },
+  {
     "id": "ra:2510574",
     "date": "2026-08-28",
     "title": "Source: The After",
@@ -14838,5 +14848,15 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2513931",
     "terms": "bhae festival noorderlicht café amsterdam bhae"
+  },
+  {
+    "id": "ra:2514034",
+    "date": "2026-10-09",
+    "title": "T-Motion",
+    "venue": "Patronaat",
+    "venue_id": "81532",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2514034",
+    "terms": "t-motion patronaat amsterdam secret cinema alexander koning"
   }
 ]

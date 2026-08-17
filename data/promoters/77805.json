@@ -3,26 +3,6 @@
   "name": "BRET",
   "upcoming": [
     {
-      "id": "ra:2493279",
-      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493279"
-    },
-    {
-      "id": "ra:2499918",
-      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499918"
-    },
-    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -94,6 +74,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2493279",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493279"
+    },
+    {
+      "id": "ra:2499918",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499918"
+    },
     {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",
@@ -197,23 +197,23 @@
       "count": 2
     },
     {
-      "id": "129183",
-      "name": "Schwesta P",
+      "id": "34388",
+      "name": "Daan Donk",
       "count": 1
     },
     {
-      "id": "156339",
-      "name": "FORTUNATA",
+      "id": "137338",
+      "name": "DJ Rino",
       "count": 1
     },
     {
-      "id": "130222",
-      "name": "Anton Jonathan",
+      "id": "131050",
+      "name": "sima k",
       "count": 1
     },
     {
-      "id": "106697",
-      "name": "BAUGRUPPE90",
+      "id": "157228",
+      "name": "Hashashin",
       "count": 1
     }
   ]

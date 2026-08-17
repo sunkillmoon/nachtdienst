@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.365206,
   "lng": 4.885615,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499053",
       "title": "LockeRRoom #42",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499053"
     }
-  ],
-  "past": []
+  ]
 }

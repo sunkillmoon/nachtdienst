@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488567",
-      "title": "Samuel Deep • Cinnaman",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488567"
-    },
-    {
       "id": "ra:2458317",
       "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
       "date": "2026-08-29",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2458317"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2488567",
+      "title": "Samuel Deep • Cinnaman",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488567"
+    }
+  ]
 }

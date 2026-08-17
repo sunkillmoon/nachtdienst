@@ -2,7 +2,8 @@
   "id": "74434",
   "name": "Aurelius",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
     }
-  ],
-  "past": []
+  ]
 }

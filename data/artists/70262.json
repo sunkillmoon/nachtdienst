@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479458",
-      "title": "BASIS/ Gioray [live]/ Identified Patient/ Schacke",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2479458"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2479458",
+      "title": "BASIS/ Gioray [live]/ Identified Patient/ Schacke",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2479458"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",

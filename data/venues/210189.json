@@ -6,16 +6,6 @@
   "lng": 5.0834009,
   "upcoming": [
     {
-      "id": "ra:2506036",
-      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2506036"
-    },
-    {
       "id": "ra:2373343",
       "title": "Het Festival vol. 2",
       "date": "2026-08-29",
@@ -37,6 +27,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2506036",
+      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2506036"
+    },
     {
       "id": "ra:2505068",
       "title": "Playground X Club Coco",

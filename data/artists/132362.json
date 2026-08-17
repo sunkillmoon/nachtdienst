@@ -2,7 +2,8 @@
   "id": "132362",
   "name": "Gioray",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479458",
       "title": "BASIS/ Gioray [live]/ Identified Patient/ Schacke",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2479458"
     }
-  ],
-  "past": []
+  ]
 }

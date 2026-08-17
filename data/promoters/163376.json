@@ -1,7 +1,8 @@
 {
   "id": "163376",
   "name": "casatres",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456907",
       "title": "Madam by Night invites: Casa Très",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2456907"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "164309",

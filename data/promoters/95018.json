@@ -3,16 +3,6 @@
   "name": "Happy Feelings",
   "upcoming": [
     {
-      "id": "ra:2357564",
-      "title": "Happy Feelings - Colorado Charlie",
-      "date": "2026-08-15",
-      "start": "2026-08-15T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2357564"
-    },
-    {
       "id": "ra:2468479",
       "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
       "date": "2026-09-18",
@@ -44,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    },
     {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506036",
-      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2506036"
-    },
-    {
       "id": "ra:2506770",
       "title": "A Funky Wicked Jazz Fest 2026",
       "date": "2026-08-22",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2506770"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2506036",
+      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2506036"
+    }
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2460516",
-      "title": "Discos Movimiento x Pintai",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2460516"
-    },
-    {
       "id": "ra:2471234",
       "title": "Dixon b2b Jimi Jules + Gizem",
       "date": "2026-09-06",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2460516",
+      "title": "Discos Movimiento x Pintai",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2460516"
+    },
     {
       "id": "ra:2453384",
       "title": "Doka Summer Studio x Last Seen",

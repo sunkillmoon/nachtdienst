@@ -1,7 +1,8 @@
 {
   "id": "100332",
   "name": "CLUB.RECORD",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499921",
       "title": "CLUB.RECORD x Shelter Boat Series",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2499921"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "96823",

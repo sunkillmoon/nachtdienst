@@ -2,7 +2,8 @@
   "id": "3512",
   "name": "Nuno dos Santos",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
@@ -12,9 +13,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2469373",
       "title": "PLAYGROUND / Benny Rodrigues, Nuno dos Santos",

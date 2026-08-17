@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.93,
   "lng": 4.48,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478070",
       "title": "Dansplicht Open Air",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2478070"
     }
-  ],
-  "past": []
+  ]
 }

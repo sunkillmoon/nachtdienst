@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2491401",
-      "title": "I-RO, Ozzo, ROD",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2491401"
-    },
-    {
       "id": "ra:2506014",
       "title": "doo-bop, Doktoro, sima k",
       "date": "2026-08-21",
@@ -87,6 +77,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2491401",
+      "title": "I-RO, Ozzo, ROD",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2491401"
+    },
     {
       "id": "ra:2486672",
       "title": "Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran",

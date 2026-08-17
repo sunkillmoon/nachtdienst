@@ -2,7 +2,8 @@
   "id": "77813",
   "name": "oma totem",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2423424",
       "title": "Ratherlost - 24 Hours",
@@ -12,9 +13,7 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423424"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

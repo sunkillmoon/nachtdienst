@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2423448",
-      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
-      "date": "2026-08-15",
-      "start": "2026-08-15T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423448"
-    },
-    {
       "id": "ra:2484813",
       "title": "Last Days Of Summer",
       "date": "2026-08-29",
@@ -65,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2423448",
+      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423448"
+    },
     {
       "id": "ra:2460181",
       "title": "Love Floats",

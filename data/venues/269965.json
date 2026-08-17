@@ -6,16 +6,6 @@
   "lng": 4.58,
   "upcoming": [
     {
-      "id": "ra:2508100",
-      "title": "New Amsterdam Beach takeover",
-      "date": "2026-08-15",
-      "start": "2026-08-15T14:00+02:00",
-      "venue": "De Hangout",
-      "venue_id": "269965",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508100"
-    },
-    {
       "id": "ra:2507172",
       "title": "HOMEGROUND SUMMER CLOSING",
       "date": "2026-09-26",
@@ -26,5 +16,16 @@
       "url": "https://ra.co/events/2507172"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2508100",
+      "title": "New Amsterdam Beach takeover",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "De Hangout",
+      "venue_id": "269965",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508100"
+    }
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501504",
-      "title": "ESTRELLA & PHIA b2b 36framez",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501504"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

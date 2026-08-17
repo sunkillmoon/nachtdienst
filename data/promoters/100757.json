@@ -1,7 +1,8 @@
 {
   "id": "100757",
   "name": "Dansplicht",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478070",
       "title": "Dansplicht Open Air",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2478070"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "131265",

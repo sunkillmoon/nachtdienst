@@ -3,16 +3,6 @@
   "name": "Lofi Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2423424",
-      "title": "Ratherlost - 24 Hours",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423424"
-    },
-    {
       "id": "ra:2458317",
       "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
       "date": "2026-08-29",
@@ -165,6 +155,16 @@
   ],
   "past": [
     {
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423424"
+    },
+    {
       "id": "ra:2454757",
       "title": "Get Closer",
       "date": "2026-08-14",
@@ -267,23 +267,23 @@
       "count": 2
     },
     {
-      "id": "136260",
-      "name": "Beatrice M.",
+      "id": "89167",
+      "name": "A.M. Project",
       "count": 1
     },
     {
-      "id": "64434",
-      "name": "D.Dan",
+      "id": "17316",
+      "name": "Brawther",
       "count": 1
     },
     {
-      "id": "99288",
-      "name": "Decoder",
+      "id": "1513",
+      "name": "Prosumer",
       "count": 1
     },
     {
-      "id": "77720",
-      "name": "DJ Yazi",
+      "id": "37122",
+      "name": "Larry De Kat",
       "count": 1
     }
   ]

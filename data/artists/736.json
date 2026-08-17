@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436230",
-      "title": "De Sessie - Ryan Elliott - Summer Sessions",
-      "date": "2026-08-15",
-      "start": "2026-08-15T19:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2436230"
-    },
-    {
       "id": "ra:2496546",
       "title": "Ryan Elliott b2b Pancratio, Naomi",
       "date": "2026-09-05",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436230",
+      "title": "De Sessie - Ryan Elliott - Summer Sessions",
+      "date": "2026-08-15",
+      "start": "2026-08-15T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436230"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

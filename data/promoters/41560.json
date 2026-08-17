@@ -1,0 +1,44 @@
+{
+  "id": "41560",
+  "name": "SVT - Stil vor Talent",
+  "upcoming": [
+    {
+      "id": "ra:2510533",
+      "title": "Stil vor Talent ADE Showcase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510533"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "694",
+      "name": "Oliver Koletzki",
+      "count": 1
+    },
+    {
+      "id": "110838",
+      "name": "Frida Darko",
+      "count": 1
+    },
+    {
+      "id": "93955",
+      "name": "Malive",
+      "count": 1
+    },
+    {
+      "id": "93233",
+      "name": "HOVR",
+      "count": 1
+    },
+    {
+      "id": "61431",
+      "name": "Annett Gapstream",
+      "count": 1
+    }
+  ]
+}

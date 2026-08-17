@@ -6,16 +6,6 @@
   "lng": 4.902485,
   "upcoming": [
     {
-      "id": "ra:2476140",
-      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476140"
-    },
-    {
       "id": "ra:2476143",
       "title": "Boss Priester b2b Kepler (all night)",
       "date": "2026-08-21",
@@ -167,6 +157,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476140",
+      "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476140"
+    },
     {
       "id": "ra:2476138",
       "title": "Luke Alessi (all night)",

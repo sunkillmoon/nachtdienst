@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2366738",
-      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
-      "date": "2026-08-15",
-      "start": "2026-08-15T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2366738"
-    },
-    {
-      "id": "ra:2506036",
-      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2506036"
-    },
-    {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
       "date": "2026-08-21",
@@ -105,6 +85,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2366738",
+      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2366738"
+    },
+    {
+      "id": "ra:2506036",
+      "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2506036"
+    },
     {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",

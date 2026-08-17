@@ -2,7 +2,8 @@
   "id": "139982",
   "name": "Anderdox",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466205",
       "title": "TOFFLER presents LOZO and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466205"
     }
-  ],
-  "past": []
+  ]
 }

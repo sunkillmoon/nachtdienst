@@ -1,7 +1,8 @@
 {
   "id": "95761",
   "name": "Toy Tonics",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478065",
       "title": "Toy Tonics Boat Jam",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2478065"
     }
   ],
-  "past": [],
   "top_artists": []
 }

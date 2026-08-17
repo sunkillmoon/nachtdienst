@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504931",
-      "title": "Collé All Night Long",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504931"
-    },
-    {
       "id": "ra:2450489",
       "title": "LIEF Festival",
       "date": "2026-09-05",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504931",
+      "title": "Collé All Night Long",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504931"
+    },
     {
       "id": "ra:2359154",
       "title": "Pulse of the Pier",

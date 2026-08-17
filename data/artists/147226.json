@@ -2,7 +2,8 @@
   "id": "147226",
   "name": "Godsendo",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488651",
       "title": "LAGOS IN NL XXL",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488651"
     }
-  ],
-  "past": []
+  ]
 }

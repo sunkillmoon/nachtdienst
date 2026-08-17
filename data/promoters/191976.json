@@ -1,7 +1,8 @@
 {
   "id": "191976",
   "name": "chab",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510136",
       "title": "chabeb",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2510136"
     }
   ],
-  "past": [],
   "top_artists": []
 }

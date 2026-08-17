@@ -6,26 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2502992",
-      "title": "TØXIC ALL NIGHT LONG (MULTI ALL NIGHT LONG)",
-      "date": "2026-08-15",
-      "start": "2026-08-15T22:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502992"
-    },
-    {
-      "id": "ra:2510136",
-      "title": "chabeb",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510136"
-    },
-    {
       "id": "ra:2481979",
       "title": "HONK",
       "date": "2026-08-28",
@@ -187,6 +167,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2502992",
+      "title": "TØXIC ALL NIGHT LONG (MULTI ALL NIGHT LONG)",
+      "date": "2026-08-15",
+      "start": "2026-08-15T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502992"
+    },
+    {
+      "id": "ra:2510136",
+      "title": "chabeb",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510136"
+    },
     {
       "id": "ra:2445698",
       "title": "Dance Valley Festival 2026",

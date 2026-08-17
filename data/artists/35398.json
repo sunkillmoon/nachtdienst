@@ -15,7 +15,7 @@
     },
     {
       "id": "ra:2395761",
-      "title": "SOLD OUT We are iT at the beach 2026",
+      "title": "We are iT at the beach 2026",
       "date": "2026-09-19",
       "start": "2026-09-19T17:00+02:00",
       "venue": "Beachclub Fuel",
@@ -32,6 +32,16 @@
       "venue_id": "4902",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2404225"
+    },
+    {
+      "id": "ra:2514034",
+      "title": "T-Motion",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Patronaat",
+      "venue_id": "81532",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514034"
     },
     {
       "id": "ra:2404224",

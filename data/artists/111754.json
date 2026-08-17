@@ -2,7 +2,8 @@
   "id": "111754",
   "name": "Baptist",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499053",
       "title": "LockeRRoom #42",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499053"
     }
-  ],
-  "past": []
+  ]
 }

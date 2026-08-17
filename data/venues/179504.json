@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.366485,
   "lng": 4.89663,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508436",
       "title": "CLUB FAIR",
@@ -14,9 +15,7 @@
       "venue_id": "179504",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508436"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487894",
       "title": "Gay Disko",

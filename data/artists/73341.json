@@ -2,7 +2,8 @@
   "id": "73341",
   "name": "Schacke",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479458",
       "title": "BASIS/ Gioray [live]/ Identified Patient/ Schacke",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2479458"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478169",
       "title": "WorldPride TILLATEC Invites: Boudica, Howl & Pervert",

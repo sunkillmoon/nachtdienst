@@ -3,18 +3,8 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477393",
-      "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477393"
-    },
-    {
       "id": "ra:2503308",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
       "date": "2026-08-17",
       "start": "2026-08-17T23:00+02:00",
       "venue": "John Doe",
@@ -64,6 +54,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477393",
+      "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477393"
+    },
     {
       "id": "ra:2477391",
       "title": "Amsterdam Techno Sessions",

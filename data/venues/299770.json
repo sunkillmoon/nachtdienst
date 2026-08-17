@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2510261",
-      "title": "afternoon interlude w/ Eric Filipus + riff phraser",
-      "date": "2026-08-15",
-      "start": "2026-08-15T12:00+02:00",
-      "venue": "dubble",
-      "venue_id": "299770",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510261"
-    },
-    {
       "id": "ra:2511599",
       "title": "innerzone w/ jess cohen",
       "date": "2026-08-16",
@@ -46,5 +36,16 @@
       "url": "https://ra.co/events/2512486"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2510261",
+      "title": "afternoon interlude w/ Eric Filipus + riff phraser",
+      "date": "2026-08-15",
+      "start": "2026-08-15T12:00+02:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510261"
+    }
+  ]
 }

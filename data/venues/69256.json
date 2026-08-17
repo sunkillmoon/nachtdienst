@@ -6,16 +6,6 @@
   "lng": 4.891344,
   "upcoming": [
     {
-      "id": "ra:2487479",
-      "title": "3xNYX: POP-UP hosted by Prince JayJay",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2487479"
-    },
-    {
       "id": "ra:2506179",
       "title": "Vrijdag is NYX",
       "date": "2026-08-21",
@@ -117,6 +107,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2487479",
+      "title": "3xNYX: POP-UP hosted by Prince JayJay",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487479"
+    },
     {
       "id": "ra:2506173",
       "title": "Vrijdag is NYX",

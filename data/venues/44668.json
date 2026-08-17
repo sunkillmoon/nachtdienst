@@ -6,16 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2504931",
-      "title": "Collé All Night Long",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504931"
-    },
-    {
       "id": "ra:2507946",
       "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",
       "date": "2026-08-21",
@@ -187,6 +177,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2504931",
+      "title": "Collé All Night Long",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504931"
+    },
     {
       "id": "ra:2504816",
       "title": "Wolvenroedel W/ Ed Noodle - Mona Pirzad - YONDI",

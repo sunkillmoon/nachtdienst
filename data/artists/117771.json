@@ -2,7 +2,8 @@
   "id": "117771",
   "name": "Kevin Lo",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
@@ -12,9 +13,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2366738"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2449012",
       "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",

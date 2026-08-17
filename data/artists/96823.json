@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2499921",
-      "title": "CLUB.RECORD x Shelter Boat Series",
-      "date": "2026-08-15",
-      "start": "2026-08-15T15:00+02:00",
-      "venue": "Klaas Kompaan (Boat)",
-      "venue_id": "215670",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499921"
-    },
-    {
       "id": "ra:2490009",
       "title": "Naked KNIT",
       "date": "2026-08-29",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2499921",
+      "title": "CLUB.RECORD x Shelter Boat Series",
+      "date": "2026-08-15",
+      "start": "2026-08-15T15:00+02:00",
+      "venue": "Klaas Kompaan (Boat)",
+      "venue_id": "215670",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499921"
+    },
     {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",

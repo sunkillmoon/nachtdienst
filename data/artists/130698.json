@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2430402",
-      "title": "Digital Overdose Festival",
-      "date": "2026-08-15",
-      "start": "2026-08-15T14:00+02:00",
-      "venue": "Hal 25",
-      "venue_id": "98505",
-      "area": "All",
-      "url": "https://ra.co/events/2430402"
-    },
-    {
       "id": "ra:2452367",
       "title": "GABBERLAND",
       "date": "2026-10-31",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2452367"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2430402",
+      "title": "Digital Overdose Festival",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Hal 25",
+      "venue_id": "98505",
+      "area": "All",
+      "url": "https://ra.co/events/2430402"
+    }
+  ]
 }

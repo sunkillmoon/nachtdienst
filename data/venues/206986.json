@@ -6,16 +6,6 @@
   "lng": 4,
   "upcoming": [
     {
-      "id": "ra:2490623",
-      "title": "PAUZE",
-      "date": "2026-08-15",
-      "start": "2026-08-15T21:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490623"
-    },
-    {
       "id": "ra:2511264",
       "title": "VSCO'S BASH",
       "date": "2026-08-17",
@@ -57,6 +47,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490623",
+      "title": "PAUZE",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490623"
+    },
     {
       "id": "ra:2505069",
       "title": "TIME ANNIVERSARY – EURODANCE SPECIAL",

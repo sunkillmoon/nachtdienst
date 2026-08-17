@@ -6,16 +6,6 @@
   "lng": 5.697783,
   "upcoming": [
     {
-      "id": "ra:2445602",
-      "title": "Complex Summer with Similar Clouds / Manillo / Maive",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2445602"
-    },
-    {
       "id": "ra:2445604",
       "title": "Complex Summer with The Drift System",
       "date": "2026-08-22",
@@ -127,6 +117,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2445602",
+      "title": "Complex Summer with Similar Clouds / Manillo / Maive",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2445602"
+    },
     {
       "id": "ra:2445599",
       "title": "Complex Summer with Melvin Spix",

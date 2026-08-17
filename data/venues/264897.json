@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2423448",
-      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
-      "date": "2026-08-15",
-      "start": "2026-08-15T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423448"
-    },
-    {
       "id": "ra:2472104",
       "title": "House of Rekids",
       "date": "2026-08-16",
@@ -57,6 +47,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2423448",
+      "title": "Evoque with Ezequiel Arias & Nicolas Rada",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423448"
+    },
     {
       "id": "ra:2492172",
       "title": "Ambrosia Ecstatic Rave at the beach",

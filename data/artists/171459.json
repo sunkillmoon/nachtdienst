@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501504",
-      "title": "ESTRELLA & PHIA b2b 36framez",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501504"
-    },
-    {
       "id": "ra:2505813",
       "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
       "date": "2026-09-05",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501504",
+      "title": "ESTRELLA & PHIA b2b 36framez",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501504"
+    },
     {
       "id": "ra:2490752",
       "title": "MAAT SOUND - Aldonna, Cameron, STORM & ESTRELLA, Maat Sound",

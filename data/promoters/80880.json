@@ -1,7 +1,8 @@
 {
   "id": "80880",
   "name": "Discos Movimiento",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2460516",
       "title": "Discos Movimiento x Pintai",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2460516"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "83367",

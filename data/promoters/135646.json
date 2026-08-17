@@ -3,16 +3,6 @@
   "name": "Sona",
   "upcoming": [
     {
-      "id": "ra:2376005",
-      "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",
-      "date": "2026-08-15",
-      "start": "2026-08-15T13:00+02:00",
-      "venue": "Taets Art and Event Park",
-      "venue_id": "71387",
-      "area": "All",
-      "url": "https://ra.co/events/2376005"
-    },
-    {
       "id": "ra:2441335",
       "title": "Sona presents: &ME and Rampa",
       "date": "2026-09-05",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2441335"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2376005",
+      "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2376005"
+    }
+  ],
   "top_artists": [
     {
       "id": "6388",

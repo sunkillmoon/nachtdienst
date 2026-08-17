@@ -2,7 +2,8 @@
   "id": "23021",
   "name": "Harry McCanna",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476140",
       "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476140"
     }
-  ],
-  "past": []
+  ]
 }

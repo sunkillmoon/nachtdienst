@@ -6,16 +6,6 @@
   "lng": 4.831324,
   "upcoming": [
     {
-      "id": "ra:2376005",
-      "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",
-      "date": "2026-08-15",
-      "start": "2026-08-15T13:00+02:00",
-      "venue": "Taets Art and Event Park",
-      "venue_id": "71387",
-      "area": "All",
-      "url": "https://ra.co/events/2376005"
-    },
-    {
       "id": "ra:2442667",
       "title": "Max Dean & Wavy present: NEXUP [ADE]",
       "date": "2026-10-23",
@@ -26,5 +16,16 @@
       "url": "https://ra.co/events/2442667"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2376005",
+      "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2376005"
+    }
+  ]
 }

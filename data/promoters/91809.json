@@ -3,16 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2488567",
-      "title": "Samuel Deep • Cinnaman",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488567"
-    },
-    {
       "id": "ra:2499013",
       "title": "Tokyo Underground: Avant-garde Art of the Far East",
       "date": "2026-08-19",
@@ -74,6 +64,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488567",
+      "title": "Samuel Deep • Cinnaman",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488567"
+    },
     {
       "id": "ra:2488552",
       "title": "Doudou MD • mad miran",

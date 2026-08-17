@@ -3,16 +3,6 @@
   "name": "Ratherlost",
   "upcoming": [
     {
-      "id": "ra:2423424",
-      "title": "Ratherlost - 24 Hours",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423424"
-    },
-    {
       "id": "ra:2503161",
       "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
       "date": "2026-10-22",
@@ -23,56 +13,67 @@
       "url": "https://ra.co/events/2503161"
     }
   ],
-  "past": [],
-  "top_artists": [
+  "past": [
     {
-      "id": "22644",
-      "name": "Sunju Hargun",
-      "count": 2
-    },
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423424"
+    }
+  ],
+  "top_artists": [
     {
       "id": "126327",
       "name": "Tauceti (FR)",
       "count": 2
     },
     {
-      "id": "136260",
-      "name": "Beatrice M.",
+      "id": "22644",
+      "name": "Sunju Hargun",
+      "count": 2
+    },
+    {
+      "id": "106052",
+      "name": "Loradeniz",
       "count": 1
     },
     {
-      "id": "64434",
-      "name": "D.Dan",
+      "id": "174540",
+      "name": "Out Of Place Artefacts",
       "count": 1
     },
     {
-      "id": "99288",
-      "name": "Decoder",
+      "id": "10751",
+      "name": "Rødhåd",
       "count": 1
     },
     {
-      "id": "77720",
-      "name": "DJ Yazi",
+      "id": "48012",
+      "name": ".VRIL",
       "count": 1
     },
     {
-      "id": "113191",
-      "name": "Faustin (NL)",
+      "id": "68928",
+      "name": "Merve",
       "count": 1
     },
     {
-      "id": "7770",
-      "name": "Garçon",
+      "id": "4035",
+      "name": "Portable",
       "count": 1
     },
     {
-      "id": "55492",
-      "name": "Agonis",
+      "id": "60129",
+      "name": "Altinbas",
       "count": 1
     },
     {
-      "id": "135170",
-      "name": "Innersha",
+      "id": "97299",
+      "name": "Joline Scheffler",
       "count": 1
     }
   ]

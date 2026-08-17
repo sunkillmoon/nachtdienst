@@ -1,7 +1,8 @@
 {
   "id": "129152",
   "name": "Ritmo ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497370",
       "title": "Ritmo",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2497370"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "138137",

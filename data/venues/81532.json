@@ -1,0 +1,20 @@
+{
+  "id": "81532",
+  "name": "Patronaat",
+  "area": "Amsterdam",
+  "lat": 52.382341,
+  "lng": 4.628179,
+  "upcoming": [
+    {
+      "id": "ra:2514034",
+      "title": "T-Motion",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Patronaat",
+      "venue_id": "81532",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514034"
+    }
+  ],
+  "past": []
+}

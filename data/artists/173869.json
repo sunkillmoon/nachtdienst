@@ -2,7 +2,8 @@
   "id": "173869",
   "name": "FHNX",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2330520",
       "title": "RAVING CHARLIE: Hard Techno / Rave ",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330520"
     }
-  ],
-  "past": []
+  ]
 }

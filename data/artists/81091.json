@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2508100",
-      "title": "New Amsterdam Beach takeover",
-      "date": "2026-08-15",
-      "start": "2026-08-15T14:00+02:00",
-      "venue": "De Hangout",
-      "venue_id": "269965",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508100"
-    },
-    {
       "id": "ra:2509402",
       "title": "Momentum in De Vleeshal",
       "date": "2026-08-28",
@@ -65,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2508100",
+      "title": "New Amsterdam Beach takeover",
+      "date": "2026-08-15",
+      "start": "2026-08-15T14:00+02:00",
+      "venue": "De Hangout",
+      "venue_id": "269965",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508100"
+    },
     {
       "id": "ra:2493371",
       "title": "Sissi's Friday with Doppelgang Invites: DJ Split, Jenny Cara",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491401",
-      "title": "I-RO, Ozzo, ROD",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2491401"
-    },
-    {
       "id": "ra:2502651",
       "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
       "date": "2026-09-05",
@@ -54,5 +44,16 @@
       "url": "https://ra.co/events/2473383"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2491401",
+      "title": "I-RO, Ozzo, ROD",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2491401"
+    }
+  ]
 }

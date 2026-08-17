@@ -1,7 +1,8 @@
 {
   "id": "191457",
   "name": "TOXIC ASYLUM",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2502992",
       "title": "TØXIC ALL NIGHT LONG (MULTI ALL NIGHT LONG)",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2502992"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "185029",

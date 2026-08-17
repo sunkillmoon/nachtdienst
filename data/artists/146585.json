@@ -2,7 +2,8 @@
   "id": "146585",
   "name": "ZOËZO",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2478070",
       "title": "Dansplicht Open Air",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2478070"
     }
-  ],
-  "past": []
+  ]
 }

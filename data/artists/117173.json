@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2490623",
-      "title": "PAUZE",
-      "date": "2026-08-15",
-      "start": "2026-08-15T21:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490623"
-    },
-    {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
       "date": "2026-08-22",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490623",
+      "title": "PAUZE",
+      "date": "2026-08-15",
+      "start": "2026-08-15T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490623"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

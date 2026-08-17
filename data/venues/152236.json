@@ -6,16 +6,6 @@
   "lng": 4.291748,
   "upcoming": [
     {
-      "id": "ra:2357564",
-      "title": "Happy Feelings - Colorado Charlie",
-      "date": "2026-08-15",
-      "start": "2026-08-15T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2357564"
-    },
-    {
       "id": "ra:2469467",
       "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
       "date": "2026-08-16",
@@ -137,6 +127,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    },
     {
       "id": "ra:2495463",
       "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",

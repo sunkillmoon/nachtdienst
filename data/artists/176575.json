@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2357564",
-      "title": "Happy Feelings - Colorado Charlie",
-      "date": "2026-08-15",
-      "start": "2026-08-15T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2357564"
-    },
-    {
       "id": "ra:2489646",
       "title": "Club EKKO",
       "date": "2026-09-12",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2357564",
+      "title": "Happy Feelings - Colorado Charlie",
+      "date": "2026-08-15",
+      "start": "2026-08-15T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2357564"
+    },
     {
       "id": "ra:2417587",
       "title": "Blijdorp Festival",

@@ -2,7 +2,8 @@
   "id": "50977",
   "name": "Pelle (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
@@ -23,6 +24,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499918"
     }
-  ],
-  "past": []
+  ]
 }

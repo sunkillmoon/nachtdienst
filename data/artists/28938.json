@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2492294",
+      "title": "Andy Luff • Alexia Glensy",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492294"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
       "date": "2026-08-15",
@@ -23,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499918"
     },
-    {
-      "id": "ra:2492294",
-      "title": "Andy Luff • Alexia Glensy",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492294"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2456711",
       "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",

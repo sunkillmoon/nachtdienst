@@ -3,16 +3,6 @@
   "name": "RavingCharlie",
   "upcoming": [
     {
-      "id": "ra:2330520",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330520"
-    },
-    {
       "id": "ra:2422946",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
       "date": "2026-08-19",
@@ -164,6 +154,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330520",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330520"
+    },
     {
       "id": "ra:2422944",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ 7AZ [CAN] / HYPERSPECTRAL / HRTLESS ANGL",

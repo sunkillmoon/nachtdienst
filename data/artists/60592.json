@@ -2,7 +2,8 @@
   "id": "60592",
   "name": "Telfort",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2460516",
       "title": "Discos Movimiento x Pintai",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2460516"
     }
-  ],
-  "past": []
+  ]
 }

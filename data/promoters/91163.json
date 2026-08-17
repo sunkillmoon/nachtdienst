@@ -1,7 +1,8 @@
 {
   "id": "91163",
   "name": "S.A.S.H",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476140",
       "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2476140"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "42275",

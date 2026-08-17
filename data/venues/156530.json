@@ -6,26 +6,6 @@
   "lng": 4.871839,
   "upcoming": [
     {
-      "id": "ra:2488567",
-      "title": "Samuel Deep • Cinnaman",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488567"
-    },
-    {
-      "id": "ra:2501005",
-      "title": "Canapa-x present: 'Follow The Cat Recordings showcase'",
-      "date": "2026-08-15",
-      "start": "2026-08-15T16:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501005"
-    },
-    {
       "id": "ra:2501054",
       "title": "Canapa-x present: 'OFFSET party by GENE'",
       "date": "2026-08-16",
@@ -107,6 +87,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488567",
+      "title": "Samuel Deep • Cinnaman",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488567"
+    },
+    {
+      "id": "ra:2501005",
+      "title": "Canapa-x present: 'Follow The Cat Recordings showcase'",
+      "date": "2026-08-15",
+      "start": "2026-08-15T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501005"
+    },
     {
       "id": "ra:2488552",
       "title": "Doudou MD • mad miran",

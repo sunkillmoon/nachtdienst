@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": 52.08,
   "lng": 4.31,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511939",
       "title": "In-Store Session with Ilja Kolosovs",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2511939"
     }
-  ],
-  "past": []
+  ]
 }

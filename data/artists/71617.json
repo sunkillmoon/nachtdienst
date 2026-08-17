@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2366738",
-      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
-      "date": "2026-08-15",
-      "start": "2026-08-15T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2366738"
-    },
-    {
       "id": "ra:2450489",
       "title": "LIEF Festival",
       "date": "2026-09-05",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2450489"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2366738",
+      "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",
+      "date": "2026-08-15",
+      "start": "2026-08-15T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2366738"
+    }
+  ]
 }

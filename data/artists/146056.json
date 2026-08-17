@@ -2,7 +2,8 @@
   "id": "146056",
   "name": "Alma Negrot",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487479",
       "title": "3xNYX: POP-UP hosted by Prince JayJay",
@@ -12,9 +13,7 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487479"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2490643",
       "title": "Striptopia - Club Chrome",

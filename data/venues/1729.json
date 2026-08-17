@@ -6,16 +6,6 @@
   "lng": 4.930309,
   "upcoming": [
     {
-      "id": "ra:2330520",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Panama",
-      "venue_id": "1729",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330520"
-    },
-    {
       "id": "ra:2502109",
       "title": "RAVING CHARLIE: Hard Techno / Rave",
       "date": "2026-09-04",
@@ -37,6 +27,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330520",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330520"
+    },
     {
       "id": "ra:2330521",
       "title": "RAVING CHARLIE: Hard Techno / Rave ",

@@ -6,26 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2493279",
-      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493279"
-    },
-    {
-      "id": "ra:2499918",
-      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499918"
-    },
-    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -147,6 +127,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2493279",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493279"
+    },
+    {
+      "id": "ra:2499918",
+      "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499918"
+    },
     {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",

@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2423424",
-      "title": "Ratherlost - 24 Hours",
-      "date": "2026-08-15",
-      "start": "2026-08-15T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423424"
-    },
-    {
       "id": "ra:2461530",
-      "title": "Dissident",
+      "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
       "date": "2026-08-21",
       "start": "2026-08-21T23:59+02:00",
       "venue": "TILLATEC",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2385114"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2423424",
+      "title": "Ratherlost - 24 Hours",
+      "date": "2026-08-15",
+      "start": "2026-08-15T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423424"
+    }
+  ]
 }

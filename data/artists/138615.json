@@ -2,7 +2,8 @@
   "id": "138615",
   "name": "Taco",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497370",
       "title": "Ritmo",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497370"
     }
-  ],
-  "past": []
+  ]
 }
