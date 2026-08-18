@@ -12,6 +12,26 @@
       "venue_id": "131709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2514599",
+      "title": "RADION invites Waxxx Society x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514599"
+    },
+    {
+      "id": "ra:2514444",
+      "title": "RADION invites WAXXX x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514444"
     }
   ],
   "past": [

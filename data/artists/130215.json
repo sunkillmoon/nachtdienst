@@ -2,7 +2,18 @@
   "id": "130215",
   "name": "Jan Koster",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515116",
+      "title": "Golfslag",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515116"
+    }
+  ],
   "past": [
     {
       "id": "ra:2498712",

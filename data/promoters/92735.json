@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2446379",
-      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
       "date": "2026-08-19",
       "start": "2026-08-19T23:00+02:00",
       "venue": "John Doe",
@@ -101,6 +101,36 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503544"
+    },
+    {
+      "id": "ra:2515085",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515085"
+    },
+    {
+      "id": "ra:2515090",
+      "title": "Amsterdam Nights: Hard Techno Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515090"
+    },
+    {
+      "id": "ra:2515096",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515096"
     }
   ],
   "past": [

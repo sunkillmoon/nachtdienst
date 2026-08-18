@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2472104",
-      "title": "House of Rekids",
-      "date": "2026-08-16",
-      "start": "2026-08-16T14:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2472104"
-    },
-    {
       "id": "ra:2508844",
       "title": "Paal69 invites GreenHouse",
       "date": "2026-08-28",
@@ -47,6 +37,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2472104",
+      "title": "House of Rekids",
+      "date": "2026-08-16",
+      "start": "2026-08-16T14:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2472104"
+    },
     {
       "id": "ra:2423448",
       "title": "Evoque with Ezequiel Arias & Nicolas Rada",

@@ -6,6 +6,16 @@
   "lng": 4.93,
   "upcoming": [
     {
+      "id": "ra:2514974",
+      "title": "BassCulture Amsterdam",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514974"
+    },
+    {
       "id": "ra:2477143",
       "title": "30 Years Of Freerange at ADE",
       "date": "2026-10-22",

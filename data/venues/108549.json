@@ -6,14 +6,14 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2483642",
-      "title": "DE REÜNIE & AOS",
-      "date": "2026-08-16",
-      "start": "2026-08-16T15:00+02:00",
+      "id": "ra:2514429",
+      "title": "GABRIEL MUÑOZ B3B LASSE TOP B3B MEES MATTERN - ALL NIGHT (18+)",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2483642"
+      "url": "https://ra.co/events/2514429"
     },
     {
       "id": "ra:2501639",
@@ -46,6 +46,16 @@
       "url": "https://ra.co/events/2492190"
     },
     {
+      "id": "ra:2514430",
+      "title": "ZEEZOUT FESTIVAL - NIGHT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514430"
+    },
+    {
       "id": "ra:2458327",
       "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
       "date": "2026-08-29",
@@ -54,6 +64,26 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458327"
+    },
+    {
+      "id": "ra:2514431",
+      "title": "NOYS",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514431"
+    },
+    {
+      "id": "ra:2514432",
+      "title": "MOXES & EMVAE ALL DAY LONG (18+)",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514432"
     },
     {
       "id": "ra:2505813",
@@ -74,6 +104,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495711"
+    },
+    {
+      "id": "ra:2514434",
+      "title": "LOCKLEAD - ALL DAY LONG",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514434"
     },
     {
       "id": "ra:2488595",
@@ -127,6 +167,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2483642",
+      "title": "DE REÜNIE & AOS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483642"
+    },
     {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",

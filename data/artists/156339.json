@@ -2,7 +2,8 @@
   "id": "156339",
   "name": "FORTUNATA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
     }
-  ],
-  "past": []
+  ]
 }

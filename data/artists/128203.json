@@ -12,6 +12,16 @@
       "venue_id": "6646",
       "area": "All",
       "url": "https://ra.co/events/2375299"
+    },
+    {
+      "id": "ra:2514576",
+      "title": "From the Floor to the Decks - Hiphop special",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514576"
     }
   ],
   "past": []

@@ -3,6 +3,66 @@
   "name": "Paradiso Amsterdam",
   "upcoming": [
     {
+      "id": "ra:2514604",
+      "title": "SOBER in the Garden",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514604"
+    },
+    {
+      "id": "ra:2514566",
+      "title": "Work It, Whack It",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514566"
+    },
+    {
+      "id": "ra:2514579",
+      "title": "20 years of Lucas Benjamin & Nobunaga",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514579"
+    },
+    {
+      "id": "ra:2514568",
+      "title": "Jamrock",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514568"
+    },
+    {
+      "id": "ra:2514571",
+      "title": "Digging Deep into House",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514571"
+    },
+    {
+      "id": "ra:2514576",
+      "title": "From the Floor to the Decks - Hiphop special",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514576"
+    },
+    {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
       "date": "2026-09-04",
@@ -31,6 +91,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2432349"
+    },
+    {
+      "id": "ra:2514613",
+      "title": "The Bausa - ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:30+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514613"
     },
     {
       "id": "ra:2509365",
@@ -73,6 +143,16 @@
       "url": "https://ra.co/events/2499600"
     },
     {
+      "id": "ra:2514616",
+      "title": "Modus - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514616"
+    },
+    {
       "id": "ra:2403392",
       "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
       "date": "2026-10-24",
@@ -81,6 +161,16 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2403392"
+    },
+    {
+      "id": "ra:2514622",
+      "title": "Theta Session - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514622"
     },
     {
       "id": "ra:2403394",
@@ -162,38 +252,38 @@
       "count": 2
     },
     {
-      "id": "115376",
-      "name": "DJ Europarking",
+      "id": "169383",
+      "name": "Idilay",
       "count": 1
     },
     {
-      "id": "117682",
-      "name": "Melis Köke",
+      "id": "36439",
+      "name": "Max Well",
       "count": 1
     },
     {
-      "id": "112928",
-      "name": "Slimfit",
+      "id": "182935",
+      "name": "Nino Henning",
       "count": 1
     },
     {
-      "id": "121450",
-      "name": "YoungWoman",
+      "id": "172755",
+      "name": "Schöne",
       "count": 1
     },
     {
-      "id": "88345",
-      "name": "Effy",
+      "id": "106251",
+      "name": "Wispelturig",
       "count": 1
     },
     {
-      "id": "176854",
-      "name": "Matty Chiabi",
+      "id": "74914",
+      "name": "Kiddy Smile",
       "count": 1
     },
     {
-      "id": "93439",
-      "name": "MALUGI",
+      "id": "121308",
+      "name": "Lucas Benjamin",
       "count": 1
     }
   ]

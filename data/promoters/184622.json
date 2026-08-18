@@ -1,7 +1,8 @@
 {
   "id": "184622",
   "name": "Canapa-x ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501054",
       "title": "Canapa-x present: 'OFFSET party by GENE'",
@@ -11,9 +12,7 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501054"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501005",
       "title": "Canapa-x present: 'Follow The Cat Recordings showcase'",

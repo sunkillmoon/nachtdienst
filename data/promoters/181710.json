@@ -3,24 +3,34 @@
   "name": "Marijn",
   "upcoming": [
     {
-      "id": "ra:2503444",
-      "title": "Favela Events",
-      "date": "2026-08-16",
-      "start": "2026-08-16T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503444"
-    },
-    {
       "id": "ra:2510580",
-      "title": "Source x Weekdays",
+      "title": "Source x Weekdays invite Milan Josef",
       "date": "2026-08-20",
       "start": "2026-08-20T23:00+02:00",
       "venue": "Supperclub",
       "venue_id": "2684",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510580"
+    },
+    {
+      "id": "ra:2514527",
+      "title": "Music Still On",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514527"
+    },
+    {
+      "id": "ra:2514530",
+      "title": "Senses",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514530"
     },
     {
       "id": "ra:2503443",
@@ -104,6 +114,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503444",
+      "title": "Favela Events",
+      "date": "2026-08-16",
+      "start": "2026-08-16T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503444"
+    },
     {
       "id": "ra:2503445",
       "title": "Young, Rich & Balkan",

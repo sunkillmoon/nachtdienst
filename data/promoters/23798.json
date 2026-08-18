@@ -1,0 +1,44 @@
+{
+  "id": "23798",
+  "name": "Waxxx",
+  "upcoming": [
+    {
+      "id": "ra:2514599",
+      "title": "RADION invites Waxxx Society x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514599"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "3500",
+      "name": "Bloody Mary",
+      "count": 1
+    },
+    {
+      "id": "157231",
+      "name": "Mila Haj Kasem",
+      "count": 1
+    },
+    {
+      "id": "79807",
+      "name": "Selene",
+      "count": 1
+    },
+    {
+      "id": "62858",
+      "name": "Shaleen",
+      "count": 1
+    },
+    {
+      "id": "174234",
+      "name": "Maria Louisa",
+      "count": 1
+    }
+  ]
+}

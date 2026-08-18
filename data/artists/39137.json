@@ -2,7 +2,8 @@
   "id": "39137",
   "name": "Flatspot",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493687",
       "title": "Nudge Boatparty",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2493687"
     }
-  ],
-  "past": []
+  ]
 }

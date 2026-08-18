@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2496837",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-16",
-      "start": "2026-08-16T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496837"
-    },
-    {
       "id": "ra:2503308",
       "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
       "date": "2026-08-17",
@@ -37,7 +27,7 @@
     },
     {
       "id": "ra:2446379",
-      "title": "RAVELAND: Hard Groove Night with Mischa Duncan, MelFerdi, Lunøva ",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
       "date": "2026-08-19",
       "start": "2026-08-19T23:00+02:00",
       "venue": "John Doe",
@@ -134,6 +124,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497114"
+    },
+    {
+      "id": "ra:2514137",
+      "title": "TEDER",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514137"
     },
     {
       "id": "ra:2497101",
@@ -286,6 +286,16 @@
       "url": "https://ra.co/events/2503544"
     },
     {
+      "id": "ra:2515085",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515085"
+    },
+    {
       "id": "ra:2482165",
       "title": "[PHANTOM GROUP] KLUBNACHT w KLEØ",
       "date": "2026-10-06",
@@ -364,9 +374,39 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2399776"
+    },
+    {
+      "id": "ra:2515090",
+      "title": "Amsterdam Nights: Hard Techno Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515090"
+    },
+    {
+      "id": "ra:2515096",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515096"
     }
   ],
   "past": [
+    {
+      "id": "ra:2496837",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-16",
+      "start": "2026-08-16T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496837"
+    },
     {
       "id": "ra:2477393",
       "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",

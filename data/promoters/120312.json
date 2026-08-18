@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2507768"
     },
     {
+      "id": "ra:2514291",
+      "title": "PARELS VAN DE STAD: Boogie House STAGE TAKE-OVER",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "venue_id": "61582",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514291"
+    },
+    {
       "id": "ra:2383070",
       "title": "Boogie House ADE 2026 SHOWCASE",
       "date": "2026-10-24",
@@ -21,6 +31,16 @@
       "venue_id": "254524",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2383070"
+    },
+    {
+      "id": "ra:2514292",
+      "title": "JØASE X Boogie House: ADE CLOSING CEREMONY",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514292"
     }
   ],
   "past": [
@@ -69,26 +89,31 @@
     {
       "id": "119481",
       "name": "Kirilski",
-      "count": 5
+      "count": 6
     },
     {
       "id": "137891",
       "name": "Emma Champagne Queen",
-      "count": 4
+      "count": 5
     },
     {
       "id": "138988",
       "name": "Heritage Listed",
-      "count": 3
-    },
-    {
-      "id": "159640",
-      "name": "Pentola",
-      "count": 1
+      "count": 4
     },
     {
       "id": "137908",
       "name": "Pura Pachanga",
+      "count": 2
+    },
+    {
+      "id": "131712",
+      "name": "JØASE",
+      "count": 1
+    },
+    {
+      "id": "159640",
+      "name": "Pentola",
       "count": 1
     },
     {

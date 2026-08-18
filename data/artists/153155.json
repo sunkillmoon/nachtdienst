@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2443517",
-      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
-      "date": "2026-08-16",
-      "start": "2026-08-16T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443517"
-    },
-    {
       "id": "ra:2479246",
       "title": "TOFFLER presents Nacho Scoppa and friends",
       "date": "2026-09-05",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2443517",
+      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443517"
+    },
     {
       "id": "ra:2476138",
       "title": "Luke Alessi (all night)",

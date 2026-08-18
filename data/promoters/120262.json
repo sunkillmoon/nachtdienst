@@ -3,6 +3,16 @@
   "name": "Tale of Bus",
   "upcoming": [
     {
+      "id": "ra:2515131",
+      "title": "Tobana",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515131"
+    },
+    {
       "id": "ra:2512605",
       "title": "Tale of Bus w/ Sugar Free, Daan Donk",
       "date": "2026-09-18",
@@ -40,6 +50,11 @@
       "id": "34388",
       "name": "Daan Donk",
       "count": 2
+    },
+    {
+      "id": "10445",
+      "name": "Makcim",
+      "count": 1
     },
     {
       "id": "42057",

@@ -12,6 +12,16 @@
       "venue_id": "299768",
       "area": "All",
       "url": "https://ra.co/events/2510243"
+    },
+    {
+      "id": "ra:2514292",
+      "title": "JØASE X Boogie House: ADE CLOSING CEREMONY",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514292"
     }
   ],
   "past": [

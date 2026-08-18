@@ -1,0 +1,34 @@
+{
+  "id": "192286",
+  "name": "TEDER",
+  "upcoming": [
+    {
+      "id": "ra:2514137",
+      "title": "TEDER",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514137"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "166256",
+      "name": "Gaya Carmeli",
+      "count": 1
+    },
+    {
+      "id": "171262",
+      "name": "CØPTER",
+      "count": 1
+    },
+    {
+      "id": "170625",
+      "name": "Nettta",
+      "count": 1
+    }
+  ]
+}

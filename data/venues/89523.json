@@ -6,6 +6,16 @@
   "lng": 4.890246,
   "upcoming": [
     {
+      "id": "ra:2514653",
+      "title": "LETS PLAY ON THURSDAY",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514653"
+    },
+    {
       "id": "ra:2510346",
       "title": "Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper",
       "date": "2026-09-05",

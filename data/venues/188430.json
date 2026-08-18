@@ -16,6 +16,16 @@
       "url": "https://ra.co/events/2508749"
     },
     {
+      "id": "ra:2514459",
+      "title": "mr. wix",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514459"
+    },
+    {
       "id": "ra:2489575",
       "title": "fruit salad x Epiphany Records",
       "date": "2026-08-30",
@@ -24,6 +34,46 @@
       "venue_id": "188430",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489575"
+    },
+    {
+      "id": "ra:2514460",
+      "title": "fruit salad x epiphany records",
+      "date": "2026-08-30",
+      "start": "2026-08-30T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514460"
+    },
+    {
+      "id": "ra:2514470",
+      "title": "orlok & habiiibiji (live)",
+      "date": "2026-09-18",
+      "start": "2026-09-18T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514470"
+    },
+    {
+      "id": "ra:2514473",
+      "title": "subbacultcha presents: carla dal forno + ebby [sold out]",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514473"
+    },
+    {
+      "id": "ra:2514477",
+      "title": "kourosh presents: bah bah album listening party",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514477"
     }
   ],
   "past": [

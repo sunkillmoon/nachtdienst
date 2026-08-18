@@ -1,0 +1,59 @@
+{
+  "id": "177812",
+  "name": "Kapsule Events",
+  "upcoming": [
+    {
+      "id": "ra:2511101",
+      "title": "Kapsule presents LIBERO at ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511101"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107058",
+      "name": "Mike Morrisey",
+      "count": 1
+    },
+    {
+      "id": "143558",
+      "name": "Joey London",
+      "count": 1
+    },
+    {
+      "id": "162270",
+      "name": "FIFI FORTE",
+      "count": 1
+    },
+    {
+      "id": "145881",
+      "name": "FIRZA",
+      "count": 1
+    },
+    {
+      "id": "138070",
+      "name": "Dan Costello",
+      "count": 1
+    },
+    {
+      "id": "99141",
+      "name": "KREED.",
+      "count": 1
+    },
+    {
+      "id": "83569",
+      "name": "Sho (UK)",
+      "count": 1
+    },
+    {
+      "id": "146150",
+      "name": "Robin Nicolas",
+      "count": 1
+    }
+  ]
+}

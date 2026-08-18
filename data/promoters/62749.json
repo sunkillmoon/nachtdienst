@@ -53,6 +53,16 @@
       "url": "https://ra.co/events/2512493"
     },
     {
+      "id": "ra:2514599",
+      "title": "RADION invites Waxxx Society x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514599"
+    },
+    {
       "id": "ra:2510264",
       "title": "Chlär All Night Long - Vault Sessions & RADION",
       "date": "2026-09-19",
@@ -232,8 +242,8 @@
       "count": 2
     },
     {
-      "id": "70467",
-      "name": "Mar/us",
+      "id": "157231",
+      "name": "Mila Haj Kasem",
       "count": 2
     }
   ]

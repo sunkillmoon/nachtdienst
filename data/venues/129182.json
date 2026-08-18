@@ -4,7 +4,78 @@
   "area": "Rotterdam",
   "lat": 51.928572,
   "lng": 4.478262,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2514869",
+      "title": "AUNT // DJ Fuckoff, Gyatso & Zena-Rae",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2514869"
+    },
+    {
+      "id": "ra:2514956",
+      "title": "MASH Summer Afterparty",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2514956"
+    },
+    {
+      "id": "ra:2515116",
+      "title": "Golfslag",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515116"
+    },
+    {
+      "id": "ra:2515161",
+      "title": "AUNT // DJ Assault, Flansie & Yentzyz",
+      "date": "2026-09-12",
+      "start": "2026-09-12T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515161"
+    },
+    {
+      "id": "ra:2515014",
+      "title": "Just A Party",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515014"
+    },
+    {
+      "id": "ra:2515157",
+      "title": "Romy White with CVLTURE",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515157"
+    },
+    {
+      "id": "ra:2515133",
+      "title": "Bimbo Beats",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515133"
+    }
+  ],
   "past": [
     {
       "id": "ra:2489890",

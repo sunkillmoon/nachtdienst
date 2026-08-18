@@ -1,0 +1,29 @@
+{
+  "id": "107703",
+  "name": "Astral Records",
+  "upcoming": [
+    {
+      "id": "ra:2493024",
+      "title": "RAVE on RAILS - Sunset Express by Audacious x Astral Records x Melodic Room",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:30+02:00",
+      "venue": "Amsterdam Club Train",
+      "venue_id": "297794",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493024"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "63067",
+      "name": "AMARE",
+      "count": 1
+    },
+    {
+      "id": "22552",
+      "name": "Paul Anthonee",
+      "count": 1
+    }
+  ]
+}

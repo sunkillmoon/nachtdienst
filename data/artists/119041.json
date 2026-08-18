@@ -12,6 +12,16 @@
       "venue_id": "188430",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489575"
+    },
+    {
+      "id": "ra:2514460",
+      "title": "fruit salad x epiphany records",
+      "date": "2026-08-30",
+      "start": "2026-08-30T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514460"
     }
   ],
   "past": [

@@ -208,6 +208,10 @@
     "name": "Cinetol"
   },
   {
+    "id": "276933",
+    "name": "Clink Noord"
+  },
+  {
     "id": "4851",
     "name": "Club 11"
   },
@@ -458,6 +462,10 @@
   {
     "id": "278095",
     "name": "Het Dorp"
+  },
+  {
+    "id": "212668",
+    "name": "Het Groene Veld"
   },
   {
     "id": "19615",
@@ -1028,7 +1036,7 @@
     "name": "TBA - De Baron Van Jutphaas (Partyboat)"
   },
   {
-    "id": "298659",
+    "id": "300240",
     "name": "TBA - De Ruyterkade 14 Amsterdam Central"
   },
   {
@@ -1070,6 +1078,10 @@
   {
     "id": "298458",
     "name": "TBA - private location, tba 48h before the event to all ticket holders"
+  },
+  {
+    "id": "300327",
+    "name": "TBA - Rotterdam Noord"
   },
   {
     "id": "293197",

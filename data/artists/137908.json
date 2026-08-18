@@ -2,7 +2,18 @@
   "id": "137908",
   "name": "Pura Pachanga",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2514291",
+      "title": "PARELS VAN DE STAD: Boogie House STAGE TAKE-OVER",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "venue_id": "61582",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514291"
+    }
+  ],
   "past": [
     {
       "id": "ra:2456899",

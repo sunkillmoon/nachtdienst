@@ -126,6 +126,66 @@
       "url": "https://ra.co/events/2473496"
     },
     {
+      "id": "ra:2473501",
+      "title": "Madam by Night invites: LABELS. presents: Unnamed & Unknown",
+      "date": "2026-10-02",
+      "start": "2026-10-02T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473501"
+    },
+    {
+      "id": "ra:2473502",
+      "title": "Madam by Night invites: Sooze",
+      "date": "2026-10-03",
+      "start": "2026-10-03T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473502"
+    },
+    {
+      "id": "ra:2473504",
+      "title": "Madam by Night invites: RED 87 b2b Project 89 (all night)",
+      "date": "2026-10-09",
+      "start": "2026-10-09T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473504"
+    },
+    {
+      "id": "ra:2473506",
+      "title": "Madam by Night invites: LevyM & Nomis",
+      "date": "2026-10-10",
+      "start": "2026-10-10T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473506"
+    },
+    {
+      "id": "ra:2473507",
+      "title": "Madam by Night invites: OMT Records x Life On Mars",
+      "date": "2026-10-16",
+      "start": "2026-10-16T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473507"
+    },
+    {
+      "id": "ra:2473508",
+      "title": "Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse",
+      "date": "2026-10-17",
+      "start": "2026-10-17T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473508"
+    },
+    {
       "id": "ra:2459376",
       "title": "Madam invites: David Penn & friends",
       "date": "2026-10-21",
@@ -184,6 +244,26 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459394"
+    },
+    {
+      "id": "ra:2473509",
+      "title": "Madam by Night invites: Rooftop Tapes x BoatRiders",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473509"
+    },
+    {
+      "id": "ra:2473510",
+      "title": "Madam by Night: Halloween Special",
+      "date": "2026-10-31",
+      "start": "2026-10-31T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473510"
     }
   ],
   "past": [

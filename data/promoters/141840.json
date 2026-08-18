@@ -1,0 +1,39 @@
+{
+  "id": "141840",
+  "name": "Sooze",
+  "upcoming": [
+    {
+      "id": "ra:2473502",
+      "title": "Madam by Night invites: Sooze",
+      "date": "2026-10-03",
+      "start": "2026-10-03T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473502"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "132539",
+      "name": "BIG-T",
+      "count": 1
+    },
+    {
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 1
+    },
+    {
+      "id": "141553",
+      "name": "TA AM",
+      "count": 1
+    },
+    {
+      "id": "140335",
+      "name": "Yoffi",
+      "count": 1
+    }
+  ]
+}

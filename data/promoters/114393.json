@@ -3,16 +3,6 @@
   "name": "MBG Productions NL",
   "upcoming": [
     {
-      "id": "ra:2476839",
-      "title": "JOY with Luuk van Dijk, Patrick Topping & Jazzy",
-      "date": "2026-08-16",
-      "start": "2026-08-16T17:00+02:00",
-      "venue": "Bronze Beach",
-      "venue_id": "197451",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476839"
-    },
-    {
       "id": "ra:2512344",
       "title": "JOY - The Closing",
       "date": "2026-09-19",
@@ -44,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476839",
+      "title": "JOY with Luuk van Dijk, Patrick Topping & Jazzy",
+      "date": "2026-08-16",
+      "start": "2026-08-16T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476839"
+    },
     {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",

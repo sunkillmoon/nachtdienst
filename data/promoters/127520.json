@@ -1,7 +1,8 @@
 {
   "id": "127520",
   "name": "De Reünie",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
@@ -11,9 +12,7 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483642"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2464040",
       "title": "De Reünie",

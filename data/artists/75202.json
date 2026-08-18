@@ -2,7 +2,8 @@
   "id": "75202",
   "name": "Kendal",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2469467",
       "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2469467"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2469467",
-      "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
-      "date": "2026-08-16",
-      "start": "2026-08-16T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2469467"
-    },
-    {
       "id": "ra:2424479",
       "title": "HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika",
       "date": "2026-10-16",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2469467",
+      "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
+      "date": "2026-08-16",
+      "start": "2026-08-16T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2469467"
+    },
     {
       "id": "ra:2397297",
       "title": "OIWA Beach Festival 2026",

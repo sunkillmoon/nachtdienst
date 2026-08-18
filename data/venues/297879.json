@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 50.85,
   "lng": 5.69,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493687",
       "title": "Nudge Boatparty",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2493687"
     }
-  ],
-  "past": []
+  ]
 }

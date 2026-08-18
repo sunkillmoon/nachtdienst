@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2443517",
-      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
-      "date": "2026-08-16",
-      "start": "2026-08-16T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443517"
-    },
-    {
       "id": "ra:2508882",
       "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
       "date": "2026-10-22",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2443517",
+      "title": "16 AUG - Thuishaven with Gaskin 5HRS",
+      "date": "2026-08-16",
+      "start": "2026-08-16T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443517"
+    },
     {
       "id": "ra:2381114",
       "title": "Stranded Festival 2026",

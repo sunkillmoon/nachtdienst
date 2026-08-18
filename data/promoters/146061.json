@@ -11,23 +11,38 @@
       "venue_id": "108806",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511475"
+    },
+    {
+      "id": "ra:2473509",
+      "title": "Madam by Night invites: Rooftop Tapes x BoatRiders",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473509"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "124216",
+      "name": "FR3ADY",
+      "count": 2
+    },
     {
       "id": "146150",
       "name": "Robin Nicolas",
       "count": 1
     },
     {
-      "id": "124216",
-      "name": "FR3ADY",
+      "id": "171453",
+      "name": "Cici Daze",
       "count": 1
     },
     {
-      "id": "171453",
-      "name": "Cici Daze",
+      "id": "92107",
+      "name": "IMEN",
       "count": 1
     }
   ]

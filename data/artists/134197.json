@@ -2,7 +2,8 @@
   "id": "134197",
   "name": "Vagabund",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2436229",
       "title": "Rotterdam Rave Beach Sessions with Cloudy & friends",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2436229"
     }
-  ],
-  "past": []
+  ]
 }

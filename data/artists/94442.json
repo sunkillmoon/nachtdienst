@@ -32,6 +32,16 @@
       "venue_id": "223096",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2495421"
+    },
+    {
+      "id": "ra:2514445",
+      "title": "FRENZY x SHOCKWERK",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514445"
     }
   ],
   "past": [

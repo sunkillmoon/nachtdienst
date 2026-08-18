@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2496837",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-16",
-      "start": "2026-08-16T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496837"
-    },
-    {
       "id": "ra:2497112",
       "title": "UNDERCORE - Peak Time - Hard Techno",
       "date": "2026-08-21",
@@ -75,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2496837",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-16",
+      "start": "2026-08-16T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496837"
+    },
     {
       "id": "ra:2497127",
       "title": "Melodic Astronaut with Doguez & Augustina Aliaga",

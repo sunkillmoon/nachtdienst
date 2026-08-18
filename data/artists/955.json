@@ -2,7 +2,8 @@
   "id": "955",
   "name": "Mathias Kaden",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2472104",
       "title": "House of Rekids",
@@ -12,9 +13,7 @@
       "venue_id": "264897",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2472104"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

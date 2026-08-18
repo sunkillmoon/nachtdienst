@@ -6,6 +6,56 @@
   "lng": 4.883945,
   "upcoming": [
     {
+      "id": "ra:2514566",
+      "title": "Work It, Whack It",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514566"
+    },
+    {
+      "id": "ra:2514579",
+      "title": "20 years of Lucas Benjamin & Nobunaga",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514579"
+    },
+    {
+      "id": "ra:2514568",
+      "title": "Jamrock",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514568"
+    },
+    {
+      "id": "ra:2514571",
+      "title": "Digging Deep into House",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514571"
+    },
+    {
+      "id": "ra:2514576",
+      "title": "From the Floor to the Decks - Hiphop special",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514576"
+    },
+    {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
       "date": "2026-09-04",
