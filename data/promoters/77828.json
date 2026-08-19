@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "160",
+      "name": "Chris Liebing",
+      "count": 1
+    },
+    {
+      "id": "1886",
+      "name": "Len Faki",
+      "count": 1
+    },
+    {
+      "id": "73401",
+      "name": "Colin Benders",
+      "count": 1
+    },
+    {
+      "id": "9311",
+      "name": "DVS1",
+      "count": 1
+    },
+    {
+      "id": "27357",
+      "name": "FJAAK",
+      "count": 1
+    },
+    {
+      "id": "99463",
+      "name": "Kaufmann",
+      "count": 1
+    },
+    {
+      "id": "34565",
+      "name": "Luna Ludmila",
+      "count": 1
+    },
+    {
+      "id": "736",
+      "name": "Ryan Elliott",
+      "count": 1
+    },
+    {
+      "id": "21320",
+      "name": "Ceri",
+      "count": 1
+    },
+    {
+      "id": "1879",
+      "name": "DJ Deep",
+      "count": 1
+    }
+  ]
 }

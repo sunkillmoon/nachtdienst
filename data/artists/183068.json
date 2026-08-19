@@ -2,7 +2,18 @@
   "id": "183068",
   "name": "DOA (2)",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515654",
+      "title": "Happy Feelings Groningen - Graanfabriek W/ Tonno Disko & More",
+      "date": "2026-10-10",
+      "start": "2026-10-10T18:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2515654"
+    }
+  ],
   "past": [
     {
       "id": "ra:2505828",

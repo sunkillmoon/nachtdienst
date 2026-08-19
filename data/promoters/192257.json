@@ -14,5 +14,21 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "87975",
+      "name": "Mitch Oliver",
+      "count": 1
+    },
+    {
+      "id": "171935",
+      "name": "[ares]",
+      "count": 1
+    },
+    {
+      "id": "165800",
+      "name": "Christoph Cham",
+      "count": 1
+    }
+  ]
 }

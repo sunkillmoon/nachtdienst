@@ -6,14 +6,14 @@
   "lng": 4,
   "upcoming": [
     {
-      "id": "ra:2511264",
-      "title": "VSCO'S BASH",
-      "date": "2026-08-17",
-      "start": "2026-08-17T17:00+02:00",
+      "id": "ra:2515543",
+      "title": "HAARLEM HARDCORE",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:30+02:00",
       "venue": "Time is the new space",
       "venue_id": "206986",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2511264"
+      "url": "https://ra.co/events/2515543"
     },
     {
       "id": "ra:2511516",
@@ -47,6 +47,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2511264",
+      "title": "VSCO'S BASH",
+      "date": "2026-08-17",
+      "start": "2026-08-17T17:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2511264"
+    },
     {
       "id": "ra:2490623",
       "title": "PAUZE",

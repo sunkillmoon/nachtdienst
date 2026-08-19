@@ -12,6 +12,16 @@
       "venue_id": "144150",
       "area": "All",
       "url": "https://ra.co/events/2492783"
+    },
+    {
+      "id": "ra:2511867",
+      "title": "minimal • vision / the first glimpse",
+      "date": "2026-09-26",
+      "start": "2026-09-26T18:00+02:00",
+      "venue": "Ijcatcher",
+      "venue_id": "203369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511867"
     }
   ],
   "past": []

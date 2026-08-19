@@ -2,7 +2,18 @@
   "id": "109899",
   "name": "Boyos Soundsystem",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515640",
+      "title": "Boyos Wonderland",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515640"
+    }
+  ],
   "past": [
     {
       "id": "ra:2433142",

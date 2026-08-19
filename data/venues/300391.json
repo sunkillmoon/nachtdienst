@@ -1,0 +1,20 @@
+{
+  "id": "300391",
+  "name": "WTC Rooftop 11th Floor",
+  "area": "Amsterdam",
+  "lat": 52.34,
+  "lng": 4.87,
+  "upcoming": [
+    {
+      "id": "ra:2515780",
+      "title": "Hunkering Indian Summer",
+      "date": "2026-08-22",
+      "start": "2026-08-22T17:00+02:00",
+      "venue": "WTC Rooftop 11th Floor",
+      "venue_id": "300391",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515780"
+    }
+  ],
+  "past": []
+}

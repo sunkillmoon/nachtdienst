@@ -74,6 +74,16 @@
       "venue_id": "187930",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452022"
+    },
+    {
+      "id": "ra:2459004",
+      "title": "HARMONY 2026",
+      "date": "2026-11-17",
+      "start": "2026-11-17T19:00+01:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2459004"
     }
   ],
   "past": []

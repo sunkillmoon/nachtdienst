@@ -3,16 +3,6 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2503308",
-      "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
-      "date": "2026-08-17",
-      "start": "2026-08-17T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503308"
-    },
-    {
       "id": "ra:2477395",
       "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
       "date": "2026-08-20",
@@ -54,6 +44,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503308",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
+      "date": "2026-08-17",
+      "start": "2026-08-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503308"
+    },
     {
       "id": "ra:2477393",
       "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",

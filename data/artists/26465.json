@@ -12,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500221"
+    },
+    {
+      "id": "ra:2455390",
+      "title": "Paradise x Loveland - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455390"
     }
   ],
   "past": []

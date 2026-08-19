@@ -1,0 +1,18 @@
+{
+  "id": "192382",
+  "name": "Tick Fest ",
+  "upcoming": [
+    {
+      "id": "ra:2515601",
+      "title": "Tick Fest",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515601"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

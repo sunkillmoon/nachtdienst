@@ -36,6 +36,26 @@
       "url": "https://ra.co/events/2508259"
     },
     {
+      "id": "ra:2515640",
+      "title": "Boyos Wonderland",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515640"
+    },
+    {
+      "id": "ra:2516106",
+      "title": "VONK x Club Up",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516106"
+    },
+    {
       "id": "ra:2508882",
       "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
       "date": "2026-10-22",
@@ -47,7 +67,7 @@
     },
     {
       "id": "ra:2513204",
-      "title": "That Garage Sound presents Jeremy Sylvester ADE",
+      "title": "That Garage Sound presents: Jeremy Sylvester ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T22:00+02:00",
       "venue": "Club Up",

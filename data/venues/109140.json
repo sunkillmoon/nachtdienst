@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2503308",
-      "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
-      "date": "2026-08-17",
-      "start": "2026-08-17T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503308"
-    },
-    {
       "id": "ra:2482085",
       "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
       "date": "2026-08-18",
@@ -97,7 +87,7 @@
     },
     {
       "id": "ra:2446382",
-      "title": "RAVELAND x 20kHz: Hard Techno & Hard Bounce",
+      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
       "date": "2026-08-26",
       "start": "2026-08-26T23:00+02:00",
       "venue": "John Doe",
@@ -397,6 +387,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503308",
+      "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",
+      "date": "2026-08-17",
+      "start": "2026-08-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503308"
+    },
     {
       "id": "ra:2496837",
       "title": "No Sundays Without Techno",

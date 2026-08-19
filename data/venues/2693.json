@@ -6,16 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2495228",
-      "title": "Cheeky Monday: Natty Lou",
-      "date": "2026-08-17",
-      "start": "2026-08-17T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495228"
-    },
-    {
       "id": "ra:2492900",
       "title": "Techno Tuesday Amsterdam, Dexon, CHAFA, Alix",
       "date": "2026-08-18",
@@ -437,6 +427,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495228",
+      "title": "Cheeky Monday: Natty Lou",
+      "date": "2026-08-17",
+      "start": "2026-08-17T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495228"
+    },
     {
       "id": "ra:2492898",
       "title": "Techno Tuesday Amsterdam, Alexa Strange, Dexon, A.R.T",

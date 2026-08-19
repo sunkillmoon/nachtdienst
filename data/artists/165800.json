@@ -12,6 +12,16 @@
       "venue_id": "299826",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511505"
+    },
+    {
+      "id": "ra:2513931",
+      "title": "BHAE Festival",
+      "date": "2026-09-26",
+      "start": "2026-09-26T15:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513931"
     }
   ],
   "past": [

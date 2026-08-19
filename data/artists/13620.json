@@ -22,6 +22,16 @@
       "venue_id": "129182",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2515161"
+    },
+    {
+      "id": "ra:2515548",
+      "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2515548"
     }
   ],
   "past": []

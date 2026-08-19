@@ -14,5 +14,16 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "153692",
+      "name": "TIDEE",
+      "count": 1
+    },
+    {
+      "id": "147311",
+      "name": "Bart Simple",
+      "count": 1
+    }
+  ]
 }

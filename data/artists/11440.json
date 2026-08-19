@@ -14,16 +14,6 @@
       "url": "https://ra.co/events/2510143"
     },
     {
-      "id": "ra:2481524",
-      "title": "WHATSNEW X Rinse FM - ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T19:00+02:00",
-      "venue": "KIT Royal Tropical Institute",
-      "venue_id": "175088",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481524"
-    },
-    {
       "id": "ra:2498843",
       "title": "ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more",
       "date": "2026-10-24",
@@ -32,6 +22,16 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498843"
+    },
+    {
+      "id": "ra:2481524",
+      "title": "WHATSNEW X Rinse FM - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "KIT Royal Tropical Institute",
+      "venue_id": "175088",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481524"
     }
   ],
   "past": []

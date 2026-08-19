@@ -3,16 +3,6 @@
   "name": "HKTK Events",
   "upcoming": [
     {
-      "id": "ra:2510271",
-      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
-      "date": "2026-08-17",
-      "start": "2026-08-17T22:00+02:00",
-      "venue": "D'n Hiemel",
-      "venue_id": "299769",
-      "area": "All",
-      "url": "https://ra.co/events/2510271"
-    },
-    {
       "id": "ra:2510251",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
       "date": "2026-08-19",
@@ -23,6 +13,17 @@
       "url": "https://ra.co/events/2510251"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2510271",
+      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
+      "date": "2026-08-17",
+      "start": "2026-08-17T22:00+02:00",
+      "venue": "D'n Hiemel",
+      "venue_id": "299769",
+      "area": "All",
+      "url": "https://ra.co/events/2510271"
+    }
+  ],
   "top_artists": []
 }

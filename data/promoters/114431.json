@@ -14,5 +14,11 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "181579",
+      "name": "Symbiotica",
+      "count": 1
+    }
+  ]
 }

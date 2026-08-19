@@ -97,6 +97,11 @@
   ],
   "top_artists": [
     {
+      "id": "31155",
+      "name": "Hot Since 82",
+      "count": 3
+    },
+    {
       "id": "125937",
       "name": "Mau P",
       "count": 2
@@ -127,24 +132,19 @@
       "count": 2
     },
     {
+      "id": "98647",
+      "name": "Manda Moor",
+      "count": 2
+    },
+    {
+      "id": "14022",
+      "name": "Prunk",
+      "count": 2
+    },
+    {
       "id": "109470",
       "name": "Mahmut Orhan",
       "count": 2
-    },
-    {
-      "id": "57871",
-      "name": "CamelPhat",
-      "count": 2
-    },
-    {
-      "id": "23172",
-      "name": "Mind Against",
-      "count": 2
-    },
-    {
-      "id": "95699",
-      "name": "Sosa",
-      "count": 1
     }
   ]
 }

@@ -22,6 +22,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490011"
+    },
+    {
+      "id": "ra:2481562",
+      "title": "Mind Against presents HABITAT x Loveland - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481562"
     }
   ],
   "past": [

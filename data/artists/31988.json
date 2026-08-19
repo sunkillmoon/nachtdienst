@@ -2,7 +2,18 @@
   "id": "31988",
   "name": "Silvahfonk",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515373",
+      "title": "Vibez Recordings presents: Expansions",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515373"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495223",

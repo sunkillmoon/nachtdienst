@@ -127,11 +127,6 @@
   ],
   "top_artists": [
     {
-      "id": "160452",
-      "name": "JTN (1)",
-      "count": 2
-    },
-    {
       "id": "173764",
       "name": "SUKA",
       "count": 2
@@ -144,6 +139,11 @@
     {
       "id": "168810",
       "name": "inKKiss",
+      "count": 2
+    },
+    {
+      "id": "160452",
+      "name": "JTN (1)",
       "count": 2
     },
     {

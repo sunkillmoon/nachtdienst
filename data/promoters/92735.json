@@ -24,7 +24,7 @@
     },
     {
       "id": "ra:2446382",
-      "title": "RAVELAND x 20kHz: Hard Techno & Hard Bounce",
+      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
       "date": "2026-08-26",
       "start": "2026-08-26T23:00+02:00",
       "venue": "John Doe",
@@ -227,6 +227,11 @@
       "count": 1
     },
     {
+      "id": "171823",
+      "name": "BVNNII",
+      "count": 1
+    },
+    {
       "id": "153804",
       "name": "DMS1N3RGY",
       "count": 1
@@ -239,11 +244,6 @@
     {
       "id": "116281",
       "name": "Zaphy",
-      "count": 1
-    },
-    {
-      "id": "143309",
-      "name": "RUL3",
       "count": 1
     }
   ]

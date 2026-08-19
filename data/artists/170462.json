@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2455670",
-      "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
-      "date": "2026-08-17",
-      "start": "2026-08-17T19:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2455670"
-    },
-    {
       "id": "ra:2495357",
       "title": "BAILE DO OUTRO LADO X ONDA COLLECTIVE",
       "date": "2026-08-21",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2455670",
+      "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
+      "date": "2026-08-17",
+      "start": "2026-08-17T19:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455670"
+    },
     {
       "id": "ra:2494173",
       "title": "Baile Trama",

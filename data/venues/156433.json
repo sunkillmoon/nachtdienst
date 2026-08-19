@@ -6,6 +6,26 @@
   "lng": 6.597548,
   "upcoming": [
     {
+      "id": "ra:2515958",
+      "title": "Technorth X Kade Collectief",
+      "date": "2026-08-28",
+      "start": "2026-08-28T16:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2515958"
+    },
+    {
+      "id": "ra:2515654",
+      "title": "Happy Feelings Groningen - Graanfabriek W/ Tonno Disko & More",
+      "date": "2026-10-10",
+      "start": "2026-10-10T18:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2515654"
+    },
+    {
       "id": "ra:2404224",
       "title": "The Original Warehouse Rave 89/05",
       "date": "2026-10-17",

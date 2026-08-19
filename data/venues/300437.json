@@ -1,0 +1,20 @@
+{
+  "id": "300437",
+  "name": "Whitehouse",
+  "area": "The Hague",
+  "lat": 52.12,
+  "lng": 4.29,
+  "upcoming": [
+    {
+      "id": "ra:2516127",
+      "title": "Club Roto x Whitehouse Scheveningen",
+      "date": "2026-09-05",
+      "start": "2026-09-05T20:00+02:00",
+      "venue": "Whitehouse",
+      "venue_id": "300437",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2516127"
+    }
+  ],
+  "past": []
+}

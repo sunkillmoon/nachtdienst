@@ -1,0 +1,24 @@
+{
+  "id": "190822",
+  "name": "Lynnic & ItsArius",
+  "upcoming": [
+    {
+      "id": "ra:2493542",
+      "title": "Lynnic & ItsArius - SOMEWHERE TOUR 2026",
+      "date": "2026-11-17",
+      "start": "2026-11-17T19:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493542"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "177207",
+      "name": "Lynnic",
+      "count": 1
+    }
+  ]
+}

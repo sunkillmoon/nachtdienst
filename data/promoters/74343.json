@@ -83,6 +83,16 @@
       "url": "https://ra.co/events/2504956"
     },
     {
+      "id": "ra:2515414",
+      "title": "Rødhåd x Speedy J",
+      "date": "2026-09-30",
+      "start": "2026-09-30T20:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515414"
+    },
+    {
       "id": "ra:2432349",
       "title": "MALUGI - ADE",
       "date": "2026-10-21",
@@ -237,13 +247,18 @@
   ],
   "top_artists": [
     {
+      "id": "1703",
+      "name": "Speedy J",
+      "count": 3
+    },
+    {
       "id": "130751",
       "name": "Lola Edo",
       "count": 2
     },
     {
-      "id": "1703",
-      "name": "Speedy J",
+      "id": "10751",
+      "name": "Rødhåd",
       "count": 2
     },
     {
@@ -279,11 +294,6 @@
     {
       "id": "74914",
       "name": "Kiddy Smile",
-      "count": 1
-    },
-    {
-      "id": "121308",
-      "name": "Lucas Benjamin",
       "count": 1
     }
   ]

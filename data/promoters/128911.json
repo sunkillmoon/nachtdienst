@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "39771",
+      "name": "Barbara Tucker",
+      "count": 1
+    },
+    {
+      "id": "69989",
+      "name": "Bustin' Loose",
+      "count": 1
+    },
+    {
+      "id": "144164",
+      "name": "Crystal Touch",
+      "count": 1
+    },
+    {
+      "id": "122841",
+      "name": "Dan Cluskey",
+      "count": 1
+    },
+    {
+      "id": "165693",
+      "name": "Georgie Porgie",
+      "count": 1
+    },
+    {
+      "id": "96754",
+      "name": "Javier Anxiety",
+      "count": 1
+    },
+    {
+      "id": "113451",
+      "name": "Magnolia_",
+      "count": 1
+    },
+    {
+      "id": "15812",
+      "name": "Marcel Vogel",
+      "count": 1
+    },
+    {
+      "id": "138364",
+      "name": "Monsieur Van Pratt",
+      "count": 1
+    },
+    {
+      "id": "145543",
+      "name": "Old as Funk",
+      "count": 1
+    }
+  ]
 }

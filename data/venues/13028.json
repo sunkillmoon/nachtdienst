@@ -6,6 +6,16 @@
   "lng": 4.865688,
   "upcoming": [
     {
+      "id": "ra:2515373",
+      "title": "Vibez Recordings presents: Expansions",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515373"
+    },
+    {
       "id": "ra:2493000",
       "title": "Anacalypto & Friends",
       "date": "2026-09-05",
@@ -26,6 +36,46 @@
       "url": "https://ra.co/events/2484091"
     },
     {
+      "id": "ra:2515374",
+      "title": "Lucid Recordings presents - Rhythmism",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515374"
+    },
+    {
+      "id": "ra:2515932",
+      "title": "Rhythmism",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515932"
+    },
+    {
+      "id": "ra:2515382",
+      "title": "Midsummer Night's Dream",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515382"
+    },
+    {
+      "id": "ra:2515384",
+      "title": "Cat in the bag - Jungle sessions",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515384"
+    },
+    {
       "id": "ra:2496717",
       "title": "Tare invites",
       "date": "2026-10-03",
@@ -34,6 +84,16 @@
       "venue_id": "13028",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496717"
+    },
+    {
+      "id": "ra:2515385",
+      "title": "99db",
+      "date": "2026-10-09",
+      "start": "2026-10-09T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515385"
     }
   ],
   "past": []
