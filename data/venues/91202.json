@@ -106,6 +106,16 @@
       "url": "https://ra.co/events/2504760"
     },
     {
+      "id": "ra:2516918",
+      "title": "Frenzy x shockwerk",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516918"
+    },
+    {
       "id": "ra:2514445",
       "title": "FRENZY x SHOCKWERK",
       "date": "2026-09-26",
@@ -126,6 +136,16 @@
       "url": "https://ra.co/events/2514446"
     },
     {
+      "id": "ra:2516927",
+      "title": "Ypnotika x PVC",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516927"
+    },
+    {
       "id": "ra:2514447",
       "title": "YPNOTIKA x PVC",
       "date": "2026-10-03",
@@ -144,6 +164,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494196"
+    },
+    {
+      "id": "ra:2516922",
+      "title": "BomBlastic - The Next Chapter",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516922"
     },
     {
       "id": "ra:2514448",
@@ -224,6 +254,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491349"
+    },
+    {
+      "id": "ra:2517061",
+      "title": "Wasteland Halloween Ball",
+      "date": "2026-10-31",
+      "start": "2026-10-31T21:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517061"
     }
   ],
   "past": [

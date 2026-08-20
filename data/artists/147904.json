@@ -12,6 +12,16 @@
       "venue_id": "2763",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500167"
+    },
+    {
+      "id": "ra:2325394",
+      "title": "Herr Zimmerman 20 Years Party in Rotterdam - Special Guest: Klaudia Gawlas (DE)",
+      "date": "2026-11-07",
+      "start": "2026-11-07T20:00+01:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2325394"
     }
   ],
   "past": []

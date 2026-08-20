@@ -137,7 +137,7 @@
     "venue_id": "25197",
     "area": "Rotterdam",
     "ra_url": "https://ra.co/events/2325394",
-    "terms": "herr zimmerman 20 years party in rotterdam - special guest: klaudia gawlas (de) now&wow rotterdam klaudia gawlas fraulein z tanzman herr zimmerman"
+    "terms": "herr zimmerman 20 years party in rotterdam - special guest: klaudia gawlas (de) now&wow rotterdam klaudia gawlas fraulein z tanzman rein (nl) herr zimmerman"
   },
   {
     "id": "ra:2329764",
@@ -4192,12 +4192,12 @@
   {
     "id": "ra:2466462",
     "date": "2026-10-26",
-    "title": "ADE Closing Party",
+    "title": "ADE Closing Party - The Loft",
     "venue": "The Loft Amsterdam",
     "venue_id": "190657",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2466462",
-    "terms": "ade closing party the loft amsterdam amsterdam a'dam the loft"
+    "terms": "ade closing party - the loft the loft amsterdam amsterdam a'dam the loft"
   },
   {
     "id": "ra:2466510",
@@ -5747,7 +5747,7 @@
     "venue_id": "190418",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2475090",
-    "terms": "audio obscura ade with patrick mason [b2b] spfdj & more rawfactory amsterdam patrick mason spfdj anetha mischluft tjade audio obscura amsterdam dance event"
+    "terms": "audio obscura ade with patrick mason [b2b] spfdj & more rawfactory amsterdam patrick mason spfdj anetha mischluft bella claxton tjade kara okay olivia lensen schwesta p justin jay julie desire audio obscura amsterdam dance event"
   },
   {
     "id": "ra:2475096",
@@ -7382,12 +7382,12 @@
   {
     "id": "ra:2482088",
     "date": "2026-08-25",
-    "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+    "title": "[PHANTOM GROUP] KLUBNACHT w SUKA / LOUKKI / MINOR FIGURES / SAINTY / STVN / X_O FOREST",
     "venue": "John Doe",
     "venue_id": "109140",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2482088",
-    "terms": "[phantom group] klubnacht w suka john doe amsterdam kleo stvn suka rize"
+    "terms": "[phantom group] klubnacht w suka / loukki / minor figures / sainty / stvn / x_o forest john doe amsterdam stvn (2) suka rize"
   },
   {
     "id": "ra:2482113",
@@ -11057,7 +11057,7 @@
     "venue_id": "109140",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2497112",
-    "terms": "undercore - peak time - hard techno john doe amsterdam alex sharp undrgrnd amsterdam"
+    "terms": "undercore - peak time - hard techno john doe amsterdam alex sharp crisco undrgrnd amsterdam"
   },
   {
     "id": "ra:2497114",
@@ -11717,7 +11717,7 @@
     "venue_id": "48317",
     "area": "Rotterdam",
     "ra_url": "https://ra.co/events/2500769",
-    "terms": "360 degrees: jayda g, danou p & love transmission bird rotterdam jayda g danou p bird rotterdam"
+    "terms": "360 degrees: jayda g, danou p & love transmission bird rotterdam jayda g danou p ays (nl) kuriosa bird rotterdam"
   },
   {
     "id": "ra:2500787",
@@ -11827,7 +11827,7 @@
     "venue_id": "199902",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2501108",
-    "terms": "the pink room toekomstmuziek amsterdam vanell karmon dan jergovic"
+    "terms": "the pink room toekomstmuziek amsterdam initials vanell karmon dan jergovic"
   },
   {
     "id": "ra:2501248",
@@ -12277,7 +12277,7 @@
     "venue_id": "158843",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2503158",
-    "terms": "bordello a parigi - ade noorderlicht café amsterdam amsterdam dance event bordello a parigi"
+    "terms": "bordello a parigi - ade noorderlicht café amsterdam alden tyrell budino daniel monaco john noseda nunzio borino amsterdam dance event bordello a parigi"
   },
   {
     "id": "ra:2503161",
@@ -13610,6 +13610,16 @@
     "terms": "raving charlie: hard techno / rave nachbar amsterdam ravingcharlie"
   },
   {
+    "id": "ra:2507710",
+    "date": "2026-11-18",
+    "title": "RAVING CHARLIE: Hard Techno / Rave",
+    "venue": "nachbar",
+    "venue_id": "243352",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2507710",
+    "terms": "raving charlie: hard techno / rave nachbar amsterdam ravingcharlie"
+  },
+  {
     "id": "ra:2507742",
     "date": "2026-08-29",
     "title": "TILT x Syntax Error",
@@ -13702,12 +13712,12 @@
   {
     "id": "ra:2508405",
     "date": "2026-09-04",
-    "title": "2/3 with Rat Section, Macrosoft, Servicekit",
+    "title": "2/3 with Rat Section, DJH, Macrosoft, Servicekit",
     "venue": "ISOamsterdam",
     "venue_id": "160195",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2508405",
-    "terms": "2/3 with rat section, macrosoft, servicekit isoamsterdam amsterdam rat section macrosoft klub krai"
+    "terms": "2/3 with rat section, djh, macrosoft, servicekit isoamsterdam amsterdam rat section dj heroin macrosoft klub krai"
   },
   {
     "id": "ra:2508436",
@@ -15580,6 +15590,16 @@
     "terms": "rødhåd x speedy j paradiso amsterdam rødhåd speedy j paradiso amsterdam"
   },
   {
+    "id": "ra:2515534",
+    "date": "2026-10-25",
+    "title": "Ciranda Sundays x Doka Studio with Mendel - secret guest [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2515534",
+    "terms": "ciranda sundays x doka studio with mendel - secret guest [ade] doka amsterdam mendel doka amsterdam"
+  },
+  {
     "id": "ra:2515543",
     "date": "2026-08-20",
     "title": "HAARLEM HARDCORE",
@@ -15708,5 +15728,505 @@
     "area": "The Hague",
     "ra_url": "https://ra.co/events/2516127",
     "terms": "club roto x whitehouse scheveningen whitehouse the hague benny rodrigues jesse maas stef davidse club roto"
+  },
+  {
+    "id": "ra:2516362",
+    "date": "2026-10-24",
+    "title": "Deep Dish ADE Boat Party",
+    "venue": "Oceandiva Original",
+    "venue_id": "292161",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2516362",
+    "terms": "deep dish ade boat party oceandiva original all deep dish sebastien leger ezequiel arias khen kamilo sanclemente soundfleet by oceandiva"
+  },
+  {
+    "id": "ra:2516383",
+    "date": "2026-09-12",
+    "title": "Bennet, D'Julz, JUAAN, Shanne",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516383",
+    "terms": "bennet, d'julz, juaan, shanne bret amsterdam bennet d'julz juaan shanne bret"
+  },
+  {
+    "id": "ra:2516396",
+    "date": "2026-09-13",
+    "title": "Locklead All Day Long",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516396",
+    "terms": "locklead all day long bret amsterdam locklead bret"
+  },
+  {
+    "id": "ra:2516402",
+    "date": "2026-09-05",
+    "title": "Moxes & Emvae All Day Long",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516402",
+    "terms": "moxes & emvae all day long bret amsterdam moxes emvae bret"
+  },
+  {
+    "id": "ra:2516406",
+    "date": "2026-09-04",
+    "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516406",
+    "terms": "doka studio with moody mehran - kyra khaldi doka amsterdam moody mehran kyra khaldi doka amsterdam"
+  },
+  {
+    "id": "ra:2516407",
+    "date": "2026-09-04",
+    "title": "NOYS CLUB NIGHT",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516407",
+    "terms": "noys club night bret amsterdam bret"
+  },
+  {
+    "id": "ra:2516415",
+    "date": "2026-09-11",
+    "title": "Chunky",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516415",
+    "terms": "chunky bret amsterdam bret"
+  },
+  {
+    "id": "ra:2516420",
+    "date": "2026-09-18",
+    "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516420",
+    "terms": "lola - dam swindle, midas field, merel helderman, bibi seck, drabes bret amsterdam midas field dam swindle merel helderman drabes bret"
+  },
+  {
+    "id": "ra:2516457",
+    "date": "2026-08-21",
+    "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516457",
+    "terms": "gabriel muñoz b2b lasse top b2b mees mattern - all night long bret amsterdam gabriel muñoz lasse top mees mattern bret"
+  },
+  {
+    "id": "ra:2516460",
+    "date": "2026-10-16",
+    "title": "UOTJ: Junglism 3 (Fluor)",
+    "venue": "Fluor",
+    "venue_id": "108756",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2516460",
+    "terms": "uotj: junglism 3 (fluor) fluor all jungle kitten events"
+  },
+  {
+    "id": "ra:2516466",
+    "date": "2026-10-30",
+    "title": "UOTJ: Junglism 4: HALLOWEEN EDITION",
+    "venue": "Willemeen",
+    "venue_id": "70008",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2516466",
+    "terms": "uotj: junglism 4: halloween edition willemeen all jungle kitten events"
+  },
+  {
+    "id": "ra:2516479",
+    "date": "2026-09-20",
+    "title": "NTS Amsterdam",
+    "venue": "Garage Noord",
+    "venue_id": "137474",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516479",
+    "terms": "nts amsterdam garage noord amsterdam amil raja dare balogun jespfur mankiyan rotational rozaly himera dj shahmaran toff youth nts radio"
+  },
+  {
+    "id": "ra:2516522",
+    "date": "2026-09-05",
+    "title": "PERREO31",
+    "venue": "Garage Noord",
+    "venue_id": "137474",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516522",
+    "terms": "perreo31 garage noord amsterdam"
+  },
+  {
+    "id": "ra:2516523",
+    "date": "2026-08-22",
+    "title": "OPEN DECKS",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516523",
+    "terms": "open decks time is the new space rotterdam time is the new space"
+  },
+  {
+    "id": "ra:2516542",
+    "date": "2026-09-05",
+    "title": "BOUND45",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516542",
+    "terms": "bound45 time is the new space rotterdam time is the new space"
+  },
+  {
+    "id": "ra:2516546",
+    "date": "2026-10-21",
+    "title": "ADE Q-Techno Night",
+    "venue": "Q-Factory",
+    "venue_id": "107352",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516546",
+    "terms": "ade q-techno night q-factory amsterdam joyhauser alan fitzpatrick a*s*y*s (2) t78 luna lucci yozé karla blum bermio daniel plainview q-factory"
+  },
+  {
+    "id": "ra:2516563",
+    "date": "2026-09-12",
+    "title": "BASIS x Smeerboel After/ Anna Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols",
+    "venue": "BASIS",
+    "venue_id": "101766",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2516563",
+    "terms": "basis x smeerboel after/ anna nymphaea/ dart b2b kyle starkey/ jessie dols basis utrecht dart kyle starkey jessie dols elevation events"
+  },
+  {
+    "id": "ra:2516571",
+    "date": "2026-08-20",
+    "title": "Wherever AMSTERDAM: Andrea Lombardo, DJanu, JP Hernandez, Muhab, Mr.Miyagi, Olito, Rivaud",
+    "venue": "Huis van Iemand Anders",
+    "venue_id": "141942",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516571",
+    "terms": "wherever amsterdam: andrea lombardo, djanu, jp hernandez, muhab, mr.miyagi, olito, rivaud huis van iemand anders amsterdam andrea lombardo wherever"
+  },
+  {
+    "id": "ra:2516575",
+    "date": "2026-10-21",
+    "title": "Live Coding Sessions x Doka Culture [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516575",
+    "terms": "live coding sessions x doka culture [ade] doka amsterdam myna jobi doka amsterdam"
+  },
+  {
+    "id": "ra:2516579",
+    "date": "2026-10-22",
+    "title": "United Identities x Doka Studio [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516579",
+    "terms": "united identities x doka studio [ade] doka amsterdam anz conrad soundsystem carista le kacang scalio united identities doka amsterdam"
+  },
+  {
+    "id": "ra:2516585",
+    "date": "2026-10-24",
+    "title": "Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516585",
+    "terms": "kiosk radio x the lot radio x doka culture live stream [ade] doka amsterdam doka amsterdam"
+  },
+  {
+    "id": "ra:2516586",
+    "date": "2026-09-04",
+    "title": "4444.TIME",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516586",
+    "terms": "4444.time time is the new space rotterdam snufkin time is the new space"
+  },
+  {
+    "id": "ra:2516589",
+    "date": "2026-10-24",
+    "title": "Kiosk Radio x The Lot Radio x Doka Studio [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516589",
+    "terms": "kiosk radio x the lot radio x doka studio [ade] doka amsterdam livwutang orpheu the wizard lloyd (2) babyschön the lot radio doka amsterdam kiosk radio"
+  },
+  {
+    "id": "ra:2516605",
+    "date": "2026-10-23",
+    "title": "Cooking with Palms Trax x Doka Studio [ADE]",
+    "venue": "Doka",
+    "venue_id": "81540",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516605",
+    "terms": "cooking with palms trax x doka studio [ade] doka amsterdam palms trax doka amsterdam"
+  },
+  {
+    "id": "ra:2516608",
+    "date": "2026-09-03",
+    "title": "LEWCY ALBUM RELEASE – SLINGE",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516608",
+    "terms": "lewcy album release – slinge time is the new space rotterdam time is the new space"
+  },
+  {
+    "id": "ra:2516652",
+    "date": "2026-10-21",
+    "title": "FULL CYCLE: Immersive Live Concerts ADE Serie",
+    "venue": "THE OTHER SIDE",
+    "venue_id": "202249",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516652",
+    "terms": "full cycle: immersive live concerts ade serie the other side amsterdam theothersideams"
+  },
+  {
+    "id": "ra:2516669",
+    "date": "2026-10-22",
+    "title": "FULL CYCLE - Immersive Live Concerts ADE Serie",
+    "venue": "THE OTHER SIDE",
+    "venue_id": "202249",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516669",
+    "terms": "full cycle - immersive live concerts ade serie the other side amsterdam theothersideams"
+  },
+  {
+    "id": "ra:2516675",
+    "date": "2026-10-21",
+    "title": "Lobster Invites - Free ADE Event",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516675",
+    "terms": "lobster invites - free ade event bret amsterdam lobster (nl) mella dee samuel deep kyra khaldi bret"
+  },
+  {
+    "id": "ra:2516683",
+    "date": "2026-10-22",
+    "title": "SLACKER x BRET - ADE",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516683",
+    "terms": "slacker x bret - ade bret amsterdam seth troxler tiga gaiser marc houle olive f rio tashan sindicato del baile tom trago bret"
+  },
+  {
+    "id": "ra:2516691",
+    "date": "2026-09-11",
+    "title": "STANDARD DEVIATION X SAYYAD STATION",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516691",
+    "terms": "standard deviation x sayyad station time is the new space rotterdam time is the new space"
+  },
+  {
+    "id": "ra:2516693",
+    "date": "2026-10-23",
+    "title": "Ogazón invites Freddy K & Rene Wise - ADE",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516693",
+    "terms": "ogazón invites freddy k & rene wise - ade bret amsterdam freddy k ogazón rene wise bret"
+  },
+  {
+    "id": "ra:2516695",
+    "date": "2026-10-25",
+    "title": "Bubble House x ADE",
+    "venue": "Het Dorp",
+    "venue_id": "278095",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516695",
+    "terms": "bubble house x ade het dorp amsterdam bubble house follow the dopamine"
+  },
+  {
+    "id": "ra:2516698",
+    "date": "2026-10-23",
+    "title": "Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends",
+    "venue": "Canvas",
+    "venue_id": "12591",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516698",
+    "terms": "djoon paris x canvas nights [ade] w/ afshin - kapela & friends canvas amsterdam afshin kapela djoon"
+  },
+  {
+    "id": "ra:2516700",
+    "date": "2026-10-23",
+    "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516700",
+    "terms": "anz, sherelle & mallaury x bret - ade bret amsterdam anz sherelle mallaury bret"
+  },
+  {
+    "id": "ra:2516701",
+    "date": "2026-10-24",
+    "title": "Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends",
+    "venue": "Canvas",
+    "venue_id": "12591",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516701",
+    "terms": "djoon paris x canvas nights [ade] with young pulse & friends canvas amsterdam young pulse djoon"
+  },
+  {
+    "id": "ra:2516702",
+    "date": "2026-09-12",
+    "title": "TWOFOLD",
+    "venue": "Time is the new space",
+    "venue_id": "206986",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2516702",
+    "terms": "twofold time is the new space rotterdam oceanic pureistix time is the new space"
+  },
+  {
+    "id": "ra:2516705",
+    "date": "2026-10-24",
+    "title": "DAYCARE - ADE",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516705",
+    "terms": "daycare - ade bret amsterdam bastienne shaleen mahabe phara tommy four seven bret"
+  },
+  {
+    "id": "ra:2516707",
+    "date": "2026-08-28",
+    "title": "Bubble House x Club Up",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516707",
+    "terms": "bubble house x club up club up amsterdam san proper munay bubble house follow the dopamine"
+  },
+  {
+    "id": "ra:2516785",
+    "date": "2026-10-23",
+    "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó",
+    "venue": "The Loft Amsterdam",
+    "venue_id": "190657",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516785",
+    "terms": "the loft presents: hunee b2b stella zekri b2b suze ijó the loft amsterdam amsterdam a'dam the loft"
+  },
+  {
+    "id": "ra:2516799",
+    "date": "2026-10-24",
+    "title": "THE LOFT presents: Franky Rizardo",
+    "venue": "The Loft Amsterdam",
+    "venue_id": "190657",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516799",
+    "terms": "the loft presents: franky rizardo the loft amsterdam amsterdam a'dam the loft"
+  },
+  {
+    "id": "ra:2516879",
+    "date": "2026-10-21",
+    "title": "Swan Lake Remixed for ADE",
+    "venue": "GASHOUDER",
+    "venue_id": "187930",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516879",
+    "terms": "swan lake remixed for ade gashouder amsterdam gashouder"
+  },
+  {
+    "id": "ra:2516915",
+    "date": "2026-10-22",
+    "title": "AADE: with Aili & Orson x TUKAN",
+    "venue": "OT301",
+    "venue_id": "13028",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516915",
+    "terms": "aade: with aili & orson x tukan ot301 amsterdam aili"
+  },
+  {
+    "id": "ra:2516918",
+    "date": "2026-09-26",
+    "title": "Frenzy x shockwerk",
+    "venue": "RADION",
+    "venue_id": "91202",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516918",
+    "terms": "frenzy x shockwerk radion amsterdam beau didier comrade winston daichi wada hermetica laure croft spikey lee slin the lady machine tino machauer frenzy shockwerk"
+  },
+  {
+    "id": "ra:2516922",
+    "date": "2026-10-17",
+    "title": "BomBlastic - The Next Chapter",
+    "venue": "RADION",
+    "venue_id": "91202",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516922",
+    "terms": "bomblastic - the next chapter radion amsterdam"
+  },
+  {
+    "id": "ra:2516927",
+    "date": "2026-10-03",
+    "title": "Ypnotika x PVC",
+    "venue": "RADION",
+    "venue_id": "91202",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516927",
+    "terms": "ypnotika x pvc radion amsterdam takaaki itoh vera grace denise rabe sploofi r/d/v ypnotika"
+  },
+  {
+    "id": "ra:2516944",
+    "date": "2026-08-29",
+    "title": "ZAZU Beach Closing",
+    "venue": "Whitehouse",
+    "venue_id": "300437",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2516944",
+    "terms": "zazu beach closing whitehouse the hague da capo enoo napa van zand piero farho isa roos zazu"
+  },
+  {
+    "id": "ra:2516969",
+    "date": "2026-10-03",
+    "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516969",
+    "terms": "sissi's saturday: boris coelman invites suchi sissi's amsterdam amsterdam boris coelman suchi sissi's amsterdam"
+  },
+  {
+    "id": "ra:2516994",
+    "date": "2026-10-22",
+    "title": "SYNCHRONY (ADE 2026)",
+    "venue": "Prik Amsterdam",
+    "venue_id": "300591",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2516994",
+    "terms": "synchrony (ade 2026) prik amsterdam amsterdam deep dip"
+  },
+  {
+    "id": "ra:2517024",
+    "date": "2026-08-28",
+    "title": "Sandunga Clubnight",
+    "venue": "De Fik Garden",
+    "venue_id": "269324",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2517024",
+    "terms": "sandunga clubnight de fik garden amsterdam lidia lo niklas becher uriblanch sandunga events"
+  },
+  {
+    "id": "ra:2517061",
+    "date": "2026-10-31",
+    "title": "Wasteland Halloween Ball",
+    "venue": "RADION",
+    "venue_id": "91202",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2517061",
+    "terms": "wasteland halloween ball radion amsterdam"
   }
 ]

@@ -3,6 +3,16 @@
   "name": "ZAZU",
   "upcoming": [
     {
+      "id": "ra:2516944",
+      "title": "ZAZU Beach Closing",
+      "date": "2026-08-29",
+      "start": "2026-08-29T19:00+02:00",
+      "venue": "Whitehouse",
+      "venue_id": "300437",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2516944"
+    },
+    {
       "id": "ra:2479661",
       "title": "ZAZU presents: SOLÈY by Francis Mercier",
       "date": "2026-10-24",
@@ -18,11 +28,26 @@
     {
       "id": "45501",
       "name": "Da Capo",
-      "count": 1
+      "count": 2
     },
     {
       "id": "77181",
       "name": "Enoo Napa",
+      "count": 2
+    },
+    {
+      "id": "139338",
+      "name": "Van Zand",
+      "count": 2
+    },
+    {
+      "id": "151932",
+      "name": "Piero Farho",
+      "count": 1
+    },
+    {
+      "id": "165423",
+      "name": "Isa Roos",
       "count": 1
     },
     {
@@ -48,21 +73,6 @@
     {
       "id": "178559",
       "name": "Samm (BE)",
-      "count": 1
-    },
-    {
-      "id": "178505",
-      "name": "AJNA",
-      "count": 1
-    },
-    {
-      "id": "139338",
-      "name": "Van Zand",
-      "count": 1
-    },
-    {
-      "id": "98611",
-      "name": "DJ BREYTH",
       "count": 1
     }
   ]

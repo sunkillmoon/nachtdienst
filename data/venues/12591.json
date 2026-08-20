@@ -1,0 +1,30 @@
+{
+  "id": "12591",
+  "name": "Canvas",
+  "area": "Amsterdam",
+  "lat": 52.353711,
+  "lng": 4.911916,
+  "upcoming": [
+    {
+      "id": "ra:2516698",
+      "title": "Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516698"
+    },
+    {
+      "id": "ra:2516701",
+      "title": "Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516701"
+    }
+  ],
+  "past": []
+}

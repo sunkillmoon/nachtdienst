@@ -12,6 +12,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2516700",
+      "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516700"
     }
   ],
   "past": [

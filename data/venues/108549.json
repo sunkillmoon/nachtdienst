@@ -6,6 +6,16 @@
   "lng": 4.837281,
   "upcoming": [
     {
+      "id": "ra:2516457",
+      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516457"
+    },
+    {
       "id": "ra:2514429",
       "title": "GABRIEL MUÑOZ B3B LASSE TOP B3B MEES MATTERN - ALL NIGHT (18+)",
       "date": "2026-08-21",
@@ -66,6 +76,16 @@
       "url": "https://ra.co/events/2458327"
     },
     {
+      "id": "ra:2516407",
+      "title": "NOYS CLUB NIGHT",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516407"
+    },
+    {
       "id": "ra:2514431",
       "title": "NOYS",
       "date": "2026-09-04",
@@ -76,14 +96,14 @@
       "url": "https://ra.co/events/2514431"
     },
     {
-      "id": "ra:2514432",
-      "title": "MOXES & EMVAE ALL DAY LONG (18+)",
+      "id": "ra:2516402",
+      "title": "Moxes & Emvae All Day Long",
       "date": "2026-09-05",
       "start": "2026-09-05T13:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514432"
+      "url": "https://ra.co/events/2516402"
     },
     {
       "id": "ra:2505813",
@@ -96,6 +116,16 @@
       "url": "https://ra.co/events/2505813"
     },
     {
+      "id": "ra:2514432",
+      "title": "MOXES & EMVAE ALL DAY LONG (18+)",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514432"
+    },
+    {
       "id": "ra:2495711",
       "title": "DKMNTL at BRET",
       "date": "2026-09-06",
@@ -104,6 +134,36 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495711"
+    },
+    {
+      "id": "ra:2516415",
+      "title": "Chunky",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516415"
+    },
+    {
+      "id": "ra:2516383",
+      "title": "Bennet, D'Julz, JUAAN, Shanne",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516383"
+    },
+    {
+      "id": "ra:2516396",
+      "title": "Locklead All Day Long",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516396"
     },
     {
       "id": "ra:2514434",
@@ -116,14 +176,14 @@
       "url": "https://ra.co/events/2514434"
     },
     {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
+      "url": "https://ra.co/events/2516420"
     },
     {
       "id": "ra:2495691",
@@ -136,6 +196,16 @@
       "url": "https://ra.co/events/2495691"
     },
     {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
+    },
+    {
       "id": "ra:2498896",
       "title": "SPADES 12 HOURS",
       "date": "2026-09-19",
@@ -144,6 +214,36 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498896"
+    },
+    {
+      "id": "ra:2516675",
+      "title": "Lobster Invites - Free ADE Event",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516675"
+    },
+    {
+      "id": "ra:2516683",
+      "title": "SLACKER x BRET - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516683"
+    },
+    {
+      "id": "ra:2516693",
+      "title": "Ogazón invites Freddy K & Rene Wise - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T08:30+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516693"
     },
     {
       "id": "ra:2505049",
@@ -156,6 +256,16 @@
       "url": "https://ra.co/events/2505049"
     },
     {
+      "id": "ra:2516700",
+      "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516700"
+    },
+    {
       "id": "ra:2469603",
       "title": "VBX - BRET - ADE 24.10",
       "date": "2026-10-23",
@@ -164,6 +274,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469603"
+    },
+    {
+      "id": "ra:2516705",
+      "title": "DAYCARE - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516705"
     }
   ],
   "past": [

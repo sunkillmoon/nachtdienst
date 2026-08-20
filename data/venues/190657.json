@@ -46,8 +46,28 @@
       "url": "https://ra.co/events/2466456"
     },
     {
+      "id": "ra:2516785",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516785"
+    },
+    {
+      "id": "ra:2516799",
+      "title": "THE LOFT presents: Franky Rizardo",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516799"
+    },
+    {
       "id": "ra:2466462",
-      "title": "ADE Closing Party",
+      "title": "ADE Closing Party - The Loft",
       "date": "2026-10-26",
       "start": "2026-10-26T15:00+01:00",
       "venue": "The Loft Amsterdam",

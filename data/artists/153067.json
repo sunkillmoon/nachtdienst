@@ -2,7 +2,18 @@
   "id": "153067",
   "name": "Shanne",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2516383",
+      "title": "Bennet, D'Julz, JUAAN, Shanne",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516383"
+    }
+  ],
   "past": [
     {
       "id": "ra:2456711",

@@ -1,0 +1,28 @@
+{
+  "id": "168512",
+  "name": "Jungle Kitten Events",
+  "upcoming": [
+    {
+      "id": "ra:2516460",
+      "title": "UOTJ: Junglism 3 (Fluor)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Fluor",
+      "venue_id": "108756",
+      "area": "All",
+      "url": "https://ra.co/events/2516460"
+    },
+    {
+      "id": "ra:2516466",
+      "title": "UOTJ: Junglism 4: HALLOWEEN EDITION",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Willemeen",
+      "venue_id": "70008",
+      "area": "All",
+      "url": "https://ra.co/events/2516466"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

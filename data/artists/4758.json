@@ -12,6 +12,16 @@
       "venue_id": "278095",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502648"
+    },
+    {
+      "id": "ra:2503158",
+      "title": "Bordello A Parigi - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503158"
     }
   ],
   "past": []

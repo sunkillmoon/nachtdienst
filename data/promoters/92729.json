@@ -3,6 +3,16 @@
   "name": "Doka Amsterdam",
   "upcoming": [
     {
+      "id": "ra:2516406",
+      "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516406"
+    },
+    {
       "id": "ra:2500884",
       "title": "Doka Studio with Colored Craig - Fais Le Beau",
       "date": "2026-09-05",
@@ -71,6 +81,66 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500899"
+    },
+    {
+      "id": "ra:2516575",
+      "title": "Live Coding Sessions x Doka Culture [ADE]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516575"
+    },
+    {
+      "id": "ra:2516579",
+      "title": "United Identities x Doka Studio [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516579"
+    },
+    {
+      "id": "ra:2516605",
+      "title": "Cooking with Palms Trax x Doka Studio [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516605"
+    },
+    {
+      "id": "ra:2516585",
+      "title": "Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516585"
+    },
+    {
+      "id": "ra:2516589",
+      "title": "Kiosk Radio x The Lot Radio x Doka Studio [ADE]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516589"
+    },
+    {
+      "id": "ra:2515534",
+      "title": "Ciranda Sundays x Doka Studio with Mendel - secret guest [ADE]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515534"
     }
   ],
   "past": [
@@ -127,6 +197,21 @@
   ],
   "top_artists": [
     {
+      "id": "28482",
+      "name": "Mendel",
+      "count": 2
+    },
+    {
+      "id": "44567",
+      "name": "Moody Mehran",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
       "id": "98382",
       "name": "Colored Craig",
       "count": 1
@@ -152,11 +237,6 @@
       "count": 1
     },
     {
-      "id": "28482",
-      "name": "Mendel",
-      "count": 1
-    },
-    {
       "id": "42057",
       "name": "Sugar Free",
       "count": 1
@@ -164,16 +244,6 @@
     {
       "id": "34388",
       "name": "Daan Donk",
-      "count": 1
-    },
-    {
-      "id": "24930",
-      "name": "De Sluwe Vos",
-      "count": 1
-    },
-    {
-      "id": "42033",
-      "name": "Theo Kottis",
       "count": 1
     }
   ]

@@ -1,0 +1,44 @@
+{
+  "id": "186823",
+  "name": "Soundfleet by Oceandiva",
+  "upcoming": [
+    {
+      "id": "ra:2516362",
+      "title": "Deep Dish ADE Boat Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Oceandiva Original",
+      "venue_id": "292161",
+      "area": "All",
+      "url": "https://ra.co/events/2516362"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "28",
+      "name": "Deep Dish",
+      "count": 1
+    },
+    {
+      "id": "924",
+      "name": "Sebastien Leger",
+      "count": 1
+    },
+    {
+      "id": "80427",
+      "name": "Ezequiel Arias",
+      "count": 1
+    },
+    {
+      "id": "52556",
+      "name": "Khen",
+      "count": 1
+    },
+    {
+      "id": "122270",
+      "name": "Kamilo Sanclemente",
+      "count": 1
+    }
+  ]
+}

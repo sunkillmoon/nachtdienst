@@ -1,0 +1,64 @@
+{
+  "id": "60863",
+  "name": "Q-Factory",
+  "upcoming": [
+    {
+      "id": "ra:2516546",
+      "title": "ADE Q-Techno Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516546"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "32277",
+      "name": "Joyhauser",
+      "count": 1
+    },
+    {
+      "id": "7777",
+      "name": "Alan Fitzpatrick",
+      "count": 1
+    },
+    {
+      "id": "146895",
+      "name": "A*S*Y*S (2)",
+      "count": 1
+    },
+    {
+      "id": "87971",
+      "name": "T78",
+      "count": 1
+    },
+    {
+      "id": "107933",
+      "name": "Luna Lucci",
+      "count": 1
+    },
+    {
+      "id": "125624",
+      "name": "YOZÉ",
+      "count": 1
+    },
+    {
+      "id": "117242",
+      "name": "Karla Blum",
+      "count": 1
+    },
+    {
+      "id": "164051",
+      "name": "Bermio",
+      "count": 1
+    },
+    {
+      "id": "177833",
+      "name": "Daniel Plainview",
+      "count": 1
+    }
+  ]
+}

@@ -3,18 +3,8 @@
   "name": "RIZE",
   "upcoming": [
     {
-      "id": "ra:2482085",
-      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
-      "date": "2026-08-18",
-      "start": "2026-08-18T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2482085"
-    },
-    {
       "id": "ra:2482088",
-      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA / LOUKKI / MINOR FIGURES / SAINTY / STVN / X_O FOREST",
       "date": "2026-08-25",
       "start": "2026-08-25T23:00+02:00",
       "venue": "John Doe",
@@ -85,6 +75,16 @@
   ],
   "past": [
     {
+      "id": "ra:2482085",
+      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
+      "date": "2026-08-18",
+      "start": "2026-08-18T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482085"
+    },
+    {
       "id": "ra:2481852",
       "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",
       "date": "2026-08-11",
@@ -127,6 +127,11 @@
   ],
   "top_artists": [
     {
+      "id": "185468",
+      "name": "STVN (2)",
+      "count": 2
+    },
+    {
       "id": "173764",
       "name": "SUKA",
       "count": 2
@@ -147,16 +152,6 @@
       "count": 2
     },
     {
-      "id": "88845",
-      "name": "Kleo",
-      "count": 1
-    },
-    {
-      "id": "62406",
-      "name": "STVN",
-      "count": 1
-    },
-    {
       "id": "154196",
       "name": "Jøel",
       "count": 1
@@ -174,6 +169,11 @@
     {
       "id": "77901",
       "name": "Mørris",
+      "count": 1
+    },
+    {
+      "id": "139206",
+      "name": "BIØNIC BAMBI",
       "count": 1
     }
   ]

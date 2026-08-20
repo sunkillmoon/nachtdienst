@@ -14,5 +14,31 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "5469",
+      "name": "Alden Tyrell",
+      "count": 1
+    },
+    {
+      "id": "60056",
+      "name": "Budino",
+      "count": 1
+    },
+    {
+      "id": "92434",
+      "name": "Daniel Monaco",
+      "count": 1
+    },
+    {
+      "id": "114903",
+      "name": "John Noseda",
+      "count": 1
+    },
+    {
+      "id": "4758",
+      "name": "Nunzio Borino",
+      "count": 1
+    }
+  ]
 }

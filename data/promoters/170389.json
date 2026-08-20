@@ -1,0 +1,39 @@
+{
+  "id": "170389",
+  "name": "Bubble House",
+  "upcoming": [
+    {
+      "id": "ra:2516707",
+      "title": "Bubble House x Club Up",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516707"
+    },
+    {
+      "id": "ra:2516695",
+      "title": "Bubble House x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516695"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "10142",
+      "name": "San Proper",
+      "count": 1
+    },
+    {
+      "id": "168200",
+      "name": "Munay",
+      "count": 1
+    }
+  ]
+}

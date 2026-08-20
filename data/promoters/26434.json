@@ -1,0 +1,64 @@
+{
+  "id": "26434",
+  "name": "NTS Radio",
+  "upcoming": [
+    {
+      "id": "ra:2516479",
+      "title": "NTS Amsterdam",
+      "date": "2026-09-20",
+      "start": "2026-09-20T16:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516479"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183376",
+      "name": "amil raja",
+      "count": 1
+    },
+    {
+      "id": "106941",
+      "name": "dare balogun",
+      "count": 1
+    },
+    {
+      "id": "118929",
+      "name": "Jespfur",
+      "count": 1
+    },
+    {
+      "id": "104201",
+      "name": "Mankiyan",
+      "count": 1
+    },
+    {
+      "id": "169786",
+      "name": "Rotational",
+      "count": 1
+    },
+    {
+      "id": "111965",
+      "name": "Rozaly",
+      "count": 1
+    },
+    {
+      "id": "135650",
+      "name": "Himera",
+      "count": 1
+    },
+    {
+      "id": "118880",
+      "name": "DJ Shahmaran",
+      "count": 1
+    },
+    {
+      "id": "180915",
+      "name": "Toff Youth",
+      "count": 1
+    }
+  ]
+}

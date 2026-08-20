@@ -33,6 +33,16 @@
       "url": "https://ra.co/events/2511516"
     },
     {
+      "id": "ra:2516523",
+      "title": "OPEN DECKS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516523"
+    },
+    {
       "id": "ra:2506056",
       "title": "Het Vreemd (Album Release)",
       "date": "2026-08-29",
@@ -51,6 +61,56 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512514"
+    },
+    {
+      "id": "ra:2516608",
+      "title": "LEWCY ALBUM RELEASE – SLINGE",
+      "date": "2026-09-03",
+      "start": "2026-09-03T19:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516608"
+    },
+    {
+      "id": "ra:2516586",
+      "title": "4444.TIME",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516586"
+    },
+    {
+      "id": "ra:2516542",
+      "title": "BOUND45",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516542"
+    },
+    {
+      "id": "ra:2516691",
+      "title": "STANDARD DEVIATION X SAYYAD STATION",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516691"
+    },
+    {
+      "id": "ra:2516702",
+      "title": "TWOFOLD",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516702"
     }
   ],
   "past": [
@@ -172,8 +232,8 @@
       "count": 1
     },
     {
-      "id": "95967",
-      "name": "Borokov Borokov",
+      "id": "92389",
+      "name": "Snufkin",
       "count": 1
     }
   ]

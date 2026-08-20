@@ -22,6 +22,16 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500891"
+    },
+    {
+      "id": "ra:2515534",
+      "title": "Ciranda Sundays x Doka Studio with Mendel - secret guest [ADE]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515534"
     }
   ],
   "past": []

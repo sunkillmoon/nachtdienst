@@ -11,8 +11,44 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499622"
+    },
+    {
+      "id": "ra:2516579",
+      "title": "United Identities x Doka Studio [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516579"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "81577",
+      "name": "Anz",
+      "count": 1
+    },
+    {
+      "id": "130367",
+      "name": "Conrad Soundsystem",
+      "count": 1
+    },
+    {
+      "id": "73940",
+      "name": "CARISTA",
+      "count": 1
+    },
+    {
+      "id": "118891",
+      "name": "LE KACANG",
+      "count": 1
+    },
+    {
+      "id": "148158",
+      "name": "Scalio",
+      "count": 1
+    }
+  ]
 }

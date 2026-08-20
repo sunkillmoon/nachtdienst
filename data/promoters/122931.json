@@ -1,0 +1,44 @@
+{
+  "id": "122931",
+  "name": "Ypnotika",
+  "upcoming": [
+    {
+      "id": "ra:2516927",
+      "title": "Ypnotika x PVC",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516927"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "23098",
+      "name": "Takaaki Itoh",
+      "count": 1
+    },
+    {
+      "id": "103034",
+      "name": "Vera Grace",
+      "count": 1
+    },
+    {
+      "id": "41195",
+      "name": "Denise Rabe",
+      "count": 1
+    },
+    {
+      "id": "106754",
+      "name": "Sploofi",
+      "count": 1
+    },
+    {
+      "id": "108005",
+      "name": "R/D/V",
+      "count": 1
+    }
+  ]
+}

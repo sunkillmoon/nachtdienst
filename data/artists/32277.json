@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2516546",
+      "title": "ADE Q-Techno Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516546"
+    },
+    {
       "id": "ra:2503464",
       "title": "ADE Train Sunrise Express - IAM Productions",
       "date": "2026-10-24",

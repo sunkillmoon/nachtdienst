@@ -197,24 +197,19 @@
   ],
   "top_artists": [
     {
-      "id": "116203",
-      "name": "Mischa Duncan",
+      "id": "103744",
+      "name": "Robin Hastings",
       "count": 2
     },
     {
-      "id": "103744",
-      "name": "Robin Hastings",
+      "id": "116203",
+      "name": "Mischa Duncan",
       "count": 2
     },
     {
       "id": "173226",
       "name": "NELLIE",
       "count": 2
-    },
-    {
-      "id": "134954",
-      "name": "MelFerdi",
-      "count": 1
     },
     {
       "id": "136176",
@@ -244,6 +239,11 @@
     {
       "id": "116281",
       "name": "Zaphy",
+      "count": 1
+    },
+    {
+      "id": "143309",
+      "name": "RUL3",
       "count": 1
     }
   ]

@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2516579",
+      "title": "United Identities x Doka Studio [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516579"
+    },
+    {
       "id": "ra:2470624",
       "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2516700",
+      "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516700"
     }
   ],
   "past": [

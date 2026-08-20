@@ -1,0 +1,24 @@
+{
+  "id": "162017",
+  "name": "Wherever",
+  "upcoming": [
+    {
+      "id": "ra:2516571",
+      "title": "Wherever AMSTERDAM: Andrea Lombardo, DJanu, JP Hernandez, Muhab, Mr.Miyagi, Olito, Rivaud",
+      "date": "2026-08-20",
+      "start": "2026-08-20T19:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516571"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "8464",
+      "name": "Andrea Lombardo",
+      "count": 1
+    }
+  ]
+}

@@ -24,14 +24,14 @@
       "url": "https://ra.co/events/2468479"
     },
     {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
+      "url": "https://ra.co/events/2516420"
     },
     {
       "id": "ra:2495691",
@@ -42,6 +42,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495691"
+    },
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
     },
     {
       "id": "ra:2491639",

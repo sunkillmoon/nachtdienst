@@ -2,7 +2,18 @@
   "id": "118880",
   "name": "DJ Shahmaran",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2516479",
+      "title": "NTS Amsterdam",
+      "date": "2026-09-20",
+      "start": "2026-09-20T16:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516479"
+    }
+  ],
   "past": [
     {
       "id": "ra:2486672",

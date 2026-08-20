@@ -32,6 +32,16 @@
       "venue_id": "108756",
       "area": "All",
       "url": "https://ra.co/events/2415305"
+    },
+    {
+      "id": "ra:2516705",
+      "title": "DAYCARE - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516705"
     }
   ],
   "past": [

@@ -24,6 +24,16 @@
       "venue_id": "278095",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502648"
+    },
+    {
+      "id": "ra:2516695",
+      "title": "Bubble House x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516695"
     }
   ],
   "past": [

@@ -11,6 +11,16 @@
       "venue_id": "286760",
       "area": "All",
       "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2516563",
+      "title": "BASIS x Smeerboel After/ Anna Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:30+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2516563"
     }
   ],
   "past": [
@@ -26,6 +36,11 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "81309",
+      "name": "DART",
+      "count": 2
+    },
     {
       "id": "152684",
       "name": "Ammé",
@@ -44,11 +59,6 @@
     {
       "id": "171453",
       "name": "Cici Daze",
-      "count": 1
-    },
-    {
-      "id": "81309",
-      "name": "DART",
       "count": 1
     },
     {

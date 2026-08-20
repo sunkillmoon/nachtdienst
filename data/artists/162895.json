@@ -2,7 +2,18 @@
   "id": "162895",
   "name": "Mees Mattern",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2516457",
+      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516457"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495463",

@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2482085",
-      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
-      "date": "2026-08-18",
-      "start": "2026-08-18T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2482085"
-    },
-    {
       "id": "ra:2446379",
       "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
       "date": "2026-08-19",
@@ -77,7 +67,7 @@
     },
     {
       "id": "ra:2482088",
-      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA",
+      "title": "[PHANTOM GROUP] KLUBNACHT w SUKA / LOUKKI / MINOR FIGURES / SAINTY / STVN / X_O FOREST",
       "date": "2026-08-25",
       "start": "2026-08-25T23:00+02:00",
       "venue": "John Doe",
@@ -387,6 +377,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2482085",
+      "title": "[PHANTOM GROUP] KLUBNACHT w JTN / D3LVIN / LUNØVA / SMELTBOTER / TALEM / YMØRΔ ",
+      "date": "2026-08-18",
+      "start": "2026-08-18T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482085"
+    },
     {
       "id": "ra:2503308",
       "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",

@@ -14,6 +14,16 @@
       "venue_id": "108756",
       "area": "All",
       "url": "https://ra.co/events/2415305"
+    },
+    {
+      "id": "ra:2516460",
+      "title": "UOTJ: Junglism 3 (Fluor)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Fluor",
+      "venue_id": "108756",
+      "area": "All",
+      "url": "https://ra.co/events/2516460"
     }
   ],
   "past": []

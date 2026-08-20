@@ -56,6 +56,16 @@
       "url": "https://ra.co/events/2433282"
     },
     {
+      "id": "ra:2516652",
+      "title": "FULL CYCLE: Immersive Live Concerts ADE Serie",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516652"
+    },
+    {
       "id": "ra:2506976",
       "title": "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn",
       "date": "2026-10-21",
@@ -64,6 +74,16 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506976"
+    },
+    {
+      "id": "ra:2516669",
+      "title": "FULL CYCLE - Immersive Live Concerts ADE Serie",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516669"
     },
     {
       "id": "ra:2469400",

@@ -14,6 +14,16 @@
       "venue_id": "70008",
       "area": "All",
       "url": "https://ra.co/events/2463764"
+    },
+    {
+      "id": "ra:2516466",
+      "title": "UOTJ: Junglism 4: HALLOWEEN EDITION",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Willemeen",
+      "venue_id": "70008",
+      "area": "All",
+      "url": "https://ra.co/events/2516466"
     }
   ],
   "past": []
