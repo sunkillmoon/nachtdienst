@@ -57,11 +57,6 @@
   ],
   "top_artists": [
     {
-      "id": "119412",
-      "name": "Cyberboy",
-      "count": 1
-    },
-    {
       "id": "171459",
       "name": "ESTRELLA",
       "count": 1
@@ -74,6 +69,11 @@
     {
       "id": "2928",
       "name": "Aron Friedman",
+      "count": 1
+    },
+    {
+      "id": "119412",
+      "name": "Cyberboy",
       "count": 1
     }
   ]

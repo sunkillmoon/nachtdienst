@@ -1,0 +1,24 @@
+{
+  "id": "173970",
+  "name": "D'EAUPE",
+  "upcoming": [
+    {
+      "id": "ra:2517584",
+      "title": "Shermanology presents D'EAUPE Rotterdam",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Sahara",
+      "venue_id": "223096",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2517584"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "102417",
+      "name": "Shermanology",
+      "count": 1
+    }
+  ]
+}

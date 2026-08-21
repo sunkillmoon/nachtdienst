@@ -6,16 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2422946",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
-      "date": "2026-08-19",
-      "start": "2026-08-19T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422946"
-    },
-    {
       "id": "ra:2501505",
       "title": "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois",
       "date": "2026-08-20",
@@ -156,6 +146,16 @@
       "url": "https://ra.co/events/2507679"
     },
     {
+      "id": "ra:2517413",
+      "title": "20 Years of Permanent Vacation at ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517413"
+    },
+    {
       "id": "ra:2507684",
       "title": "RAVING CHARLIE: Hard Techno / Rave",
       "date": "2026-10-28",
@@ -197,6 +197,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2422946",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422946"
+    },
     {
       "id": "ra:2501504",
       "title": "ESTRELLA & PHIA b2b 36framez",

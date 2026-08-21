@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2516707"
     },
     {
+      "id": "ra:2517489",
+      "title": "Opening Onderhans x Bubble House",
+      "date": "2026-10-01",
+      "start": "2026-10-01T22:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517489"
+    },
+    {
       "id": "ra:2516695",
       "title": "Bubble House x ADE",
       "date": "2026-10-25",
@@ -26,13 +36,18 @@
   "past": [],
   "top_artists": [
     {
+      "id": "168200",
+      "name": "Munay",
+      "count": 2
+    },
+    {
       "id": "10142",
       "name": "San Proper",
       "count": 1
     },
     {
-      "id": "168200",
-      "name": "Munay",
+      "id": "12712",
+      "name": "Wouter S",
       "count": 1
     }
   ]

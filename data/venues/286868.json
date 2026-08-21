@@ -1,0 +1,20 @@
+{
+  "id": "286868",
+  "name": "Fixy",
+  "area": "All",
+  "lat": 53.22,
+  "lng": 6.57,
+  "upcoming": [
+    {
+      "id": "ra:2517684",
+      "title": "Hulla by night Sam Hofman & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Fixy",
+      "venue_id": "286868",
+      "area": "All",
+      "url": "https://ra.co/events/2517684"
+    }
+  ],
+  "past": []
+}

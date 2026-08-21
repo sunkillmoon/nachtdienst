@@ -3,16 +3,6 @@
   "name": "Hektek",
   "upcoming": [
     {
-      "id": "ra:2510251",
-      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
-      "date": "2026-08-19",
-      "start": "2026-08-19T22:00+02:00",
-      "venue": "D'n Hiemel",
-      "venue_id": "299769",
-      "area": "All",
-      "url": "https://ra.co/events/2510251"
-    },
-    {
       "id": "ra:2510532",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
       "date": "2026-08-21",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2510251",
+      "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
+      "date": "2026-08-19",
+      "start": "2026-08-19T22:00+02:00",
+      "venue": "D'n Hiemel",
+      "venue_id": "299769",
+      "area": "All",
+      "url": "https://ra.co/events/2510251"
+    },
     {
       "id": "ra:2510271",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",

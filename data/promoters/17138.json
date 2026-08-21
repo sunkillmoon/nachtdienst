@@ -11,6 +11,16 @@
       "venue_id": "2763",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499130"
+    },
+    {
+      "id": "ra:2517444",
+      "title": "Movement Recordings ADE XXX Showcase - hosted by B>It & Rapture",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "50:Hertz House & Techno Club (Rembrandt Square)",
+      "venue_id": "300625",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517444"
     }
   ],
   "past": [],
@@ -18,22 +28,27 @@
     {
       "id": "6504",
       "name": "Aubrey Fry",
-      "count": 1
+      "count": 2
     },
     {
       "id": "16691",
       "name": "Tash",
-      "count": 1
+      "count": 2
     },
     {
       "id": "103375",
       "name": "W&DY",
-      "count": 1
+      "count": 2
     },
     {
       "id": "83165",
       "name": "Miss Dominguez",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "51520",
+      "name": "Weird Sounding Dude",
+      "count": 2
     },
     {
       "id": "169880",
@@ -51,8 +66,13 @@
       "count": 1
     },
     {
-      "id": "51520",
-      "name": "Weird Sounding Dude",
+      "id": "16389",
+      "name": "Gai Barone",
+      "count": 1
+    },
+    {
+      "id": "53057",
+      "name": "Hicky & Kalo",
       "count": 1
     }
   ]

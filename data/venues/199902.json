@@ -16,6 +16,16 @@
       "url": "https://ra.co/events/2515601"
     },
     {
+      "id": "ra:2518116",
+      "title": "TICKFEST",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518116"
+    },
+    {
       "id": "ra:2462831",
       "title": "Plastilina Mosh",
       "date": "2026-08-29",
@@ -106,16 +116,6 @@
       "url": "https://ra.co/events/2485446"
     },
     {
-      "id": "ra:2514874",
-      "title": "30th ADE: Only Mistakes - Kikko INVITES",
-      "date": "2026-10-25",
-      "start": "2026-10-25T18:00+01:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514874"
-    },
-    {
       "id": "ra:2511101",
       "title": "Kapsule presents LIBERO at ADE",
       "date": "2026-10-25",
@@ -124,6 +124,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511101"
+    },
+    {
+      "id": "ra:2514874",
+      "title": "30th ADE: Only Mistakes - Kikko INVITES",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514874"
     }
   ],
   "past": [

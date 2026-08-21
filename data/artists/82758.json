@@ -12,6 +12,16 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2517573",
+      "title": "NOXA x ADATB presents: Francis Mercier",
+      "date": "2026-09-12",
+      "start": "2026-09-12T17:00+02:00",
+      "venue": "Later Aan Zee",
+      "venue_id": "189039",
+      "area": "All",
+      "url": "https://ra.co/events/2517573"
     }
   ],
   "past": [

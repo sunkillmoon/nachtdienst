@@ -6,16 +6,6 @@
   "lng": 4.871839,
   "upcoming": [
     {
-      "id": "ra:2499013",
-      "title": "Tokyo Underground: Avant-garde Art of the Far East",
-      "date": "2026-08-19",
-      "start": "2026-08-19T20:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499013"
-    },
-    {
       "id": "ra:2492294",
       "title": "Andy Luff • Alexia Glensy",
       "date": "2026-08-21",
@@ -77,6 +67,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2499013",
+      "title": "Tokyo Underground: Avant-garde Art of the Far East",
+      "date": "2026-08-19",
+      "start": "2026-08-19T20:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499013"
+    },
     {
       "id": "ra:2501054",
       "title": "Canapa-x present: 'OFFSET party by GENE'",

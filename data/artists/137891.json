@@ -34,16 +34,6 @@
       "url": "https://ra.co/events/2511200"
     },
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
       "id": "ra:2514291",
       "title": "PARELS VAN DE STAD: Boogie House STAGE TAKE-OVER",
       "date": "2026-09-12",
@@ -52,6 +42,16 @@
       "venue_id": "61582",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514291"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
     },
     {
       "id": "ra:2357574",

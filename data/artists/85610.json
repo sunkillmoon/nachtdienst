@@ -12,6 +12,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479678"
+    },
+    {
+      "id": "ra:2517444",
+      "title": "Movement Recordings ADE XXX Showcase - hosted by B>It & Rapture",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "50:Hertz House & Techno Club (Rembrandt Square)",
+      "venue_id": "300625",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517444"
     }
   ],
   "past": []

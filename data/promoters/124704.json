@@ -34,7 +34,7 @@
     },
     {
       "id": "ra:2484549",
-      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz",
+      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT)",
       "date": "2026-08-30",
       "start": "2026-08-30T17:00+02:00",
       "venue": "Colorado Charlie",
@@ -71,6 +71,26 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2501541"
+    },
+    {
+      "id": "ra:2515715",
+      "title": "Colorado Charlie - Season Closing Day 1",
+      "date": "2026-09-25",
+      "start": "2026-09-25T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515715"
+    },
+    {
+      "id": "ra:2515716",
+      "title": "Colorado Charlie - Season Closing Day 2",
+      "date": "2026-09-26",
+      "start": "2026-09-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515716"
     }
   ],
   "past": [
@@ -159,6 +179,11 @@
     {
       "id": "565",
       "name": "Michel de Hey",
+      "count": 3
+    },
+    {
+      "id": "146174",
+      "name": "Daughter In Law",
       "count": 2
     },
     {
@@ -199,11 +224,6 @@
     {
       "id": "115051",
       "name": "Locky",
-      "count": 1
-    },
-    {
-      "id": "29282",
-      "name": "Lauren Lo Sung",
       "count": 1
     }
   ]

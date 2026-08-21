@@ -12,6 +12,16 @@
       "venue_id": "222814",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503117"
+    },
+    {
+      "id": "ra:2517607",
+      "title": "Apontow Akyi, Joey Daniel, Rooléh",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517607"
     }
   ],
   "past": [

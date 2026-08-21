@@ -72,6 +72,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2517556",
+      "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2517556"
     }
   ],
   "past": [

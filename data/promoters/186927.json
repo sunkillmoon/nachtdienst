@@ -23,6 +23,16 @@
       "url": "https://ra.co/events/2449895"
     },
     {
+      "id": "ra:2515482",
+      "title": "GASHOUDER presents: Eric Prydz",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515482"
+    },
+    {
       "id": "ra:2464117",
       "title": "GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out]",
       "date": "2026-10-22",
@@ -106,6 +116,11 @@
       "count": 1
     },
     {
+      "id": "805",
+      "name": "Eric Prydz",
+      "count": 1
+    },
+    {
       "id": "64166",
       "name": "I Hate Models",
       "count": 1
@@ -128,11 +143,6 @@
     {
       "id": "92059",
       "name": "BASHKKA",
-      "count": 1
-    },
-    {
-      "id": "736",
-      "name": "Ryan Elliott",
       "count": 1
     }
   ]

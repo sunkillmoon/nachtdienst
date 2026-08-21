@@ -1,7 +1,18 @@
 {
   "id": "187971",
   "name": "Baron Collective",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2517618",
+      "title": "Baron Collective",
+      "date": "2026-09-26",
+      "start": "2026-09-26T15:00+02:00",
+      "venue": "Baron Van Jutphaas",
+      "venue_id": "300653",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517618"
+    }
+  ],
   "past": [
     {
       "id": "ra:2454666",

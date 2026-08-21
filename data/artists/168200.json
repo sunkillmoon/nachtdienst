@@ -12,6 +12,16 @@
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516707"
+    },
+    {
+      "id": "ra:2517489",
+      "title": "Opening Onderhans x Bubble House",
+      "date": "2026-10-01",
+      "start": "2026-10-01T22:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517489"
     }
   ],
   "past": []

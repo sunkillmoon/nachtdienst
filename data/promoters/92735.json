@@ -3,18 +3,8 @@
   "name": "Amsterdam Nights",
   "upcoming": [
     {
-      "id": "ra:2446379",
-      "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
-      "date": "2026-08-19",
-      "start": "2026-08-19T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2446379"
-    },
-    {
       "id": "ra:2438871",
-      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [COL]",
+      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
       "date": "2026-08-22",
       "start": "2026-08-22T23:00+02:00",
       "venue": "John Doe",
@@ -134,6 +124,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2446379",
+      "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446379"
+    },
     {
       "id": "ra:2445865",
       "title": "RAVELAND: Hypnotic Techno & Hard Groove with Uma Scheffer [ARG], NELLIE & Trick",

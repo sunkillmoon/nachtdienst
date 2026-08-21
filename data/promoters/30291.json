@@ -97,6 +97,41 @@
   ],
   "top_artists": [
     {
+      "id": "12135",
+      "name": "Velasco",
+      "count": 1
+    },
+    {
+      "id": "136641",
+      "name": "Tommy Chikara",
+      "count": 1
+    },
+    {
+      "id": "96633",
+      "name": "THC",
+      "count": 1
+    },
+    {
+      "id": "112933",
+      "name": "PHIA",
+      "count": 1
+    },
+    {
+      "id": "20254",
+      "name": "Nosedrip",
+      "count": 1
+    },
+    {
+      "id": "102386",
+      "name": "dj sweet6teen",
+      "count": 1
+    },
+    {
+      "id": "177457",
+      "name": "DJ Split",
+      "count": 1
+    },
+    {
       "id": "36505",
       "name": "Shanti Celeste",
       "count": 1
@@ -109,41 +144,6 @@
     {
       "id": "103401",
       "name": "Doudou MD",
-      "count": 1
-    },
-    {
-      "id": "51119",
-      "name": "Jennifer Loveless",
-      "count": 1
-    },
-    {
-      "id": "118862",
-      "name": "A For Alpha",
-      "count": 1
-    },
-    {
-      "id": "75509",
-      "name": "Paquita Gordon",
-      "count": 1
-    },
-    {
-      "id": "14293",
-      "name": "Marco Shuttle",
-      "count": 1
-    },
-    {
-      "id": "2924",
-      "name": "Frank Haag",
-      "count": 1
-    },
-    {
-      "id": "15134",
-      "name": "Francesco Del Garda",
-      "count": 1
-    },
-    {
-      "id": "110832",
-      "name": "E.LINA",
       "count": 1
     }
   ]

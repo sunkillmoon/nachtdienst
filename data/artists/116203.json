@@ -2,7 +2,8 @@
   "id": "116203",
   "name": "Mischa Duncan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2446379",
       "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",
@@ -12,9 +13,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2446379"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2444418",
       "title": "RAVELAND: Hard Groove & Hard Techno w/ Mischa Duncan, DJaygo & Qhaki ",

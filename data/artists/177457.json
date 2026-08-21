@@ -2,7 +2,18 @@
   "id": "177457",
   "name": "DJ Split",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2505220",
+      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505220"
+    }
+  ],
   "past": [
     {
       "id": "ra:2493371",

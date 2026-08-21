@@ -2,7 +2,18 @@
   "id": "96447",
   "name": "SOSA (UK)",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515716",
+      "title": "Colorado Charlie - Season Closing Day 2",
+      "date": "2026-09-26",
+      "start": "2026-09-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515716"
+    }
+  ],
   "past": [
     {
       "id": "ra:2466518",

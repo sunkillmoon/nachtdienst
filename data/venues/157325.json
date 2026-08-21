@@ -6,6 +6,16 @@
   "lng": 4.906672,
   "upcoming": [
     {
+      "id": "ra:2517478",
+      "title": "BUTZEMAN'S DEN",
+      "date": "2026-08-28",
+      "start": "2026-08-28T19:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517478"
+    },
+    {
       "id": "ra:2473131",
       "title": "Lamb",
       "date": "2026-09-01",
@@ -26,6 +36,56 @@
       "url": "https://ra.co/events/2473133"
     },
     {
+      "id": "ra:2517488",
+      "title": "Concrete Vehicles",
+      "date": "2026-09-15",
+      "start": "2026-09-15T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517488"
+    },
+    {
+      "id": "ra:2517491",
+      "title": "Detente Group",
+      "date": "2026-09-17",
+      "start": "2026-09-17T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517491"
+    },
+    {
+      "id": "ra:2517495",
+      "title": "Too Martian",
+      "date": "2026-09-18",
+      "start": "2026-09-18T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517495"
+    },
+    {
+      "id": "ra:2517498",
+      "title": "GB",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517498"
+    },
+    {
+      "id": "ra:2517499",
+      "title": "HALLOWS + Orus Boris + Grauzone DJ team",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517499"
+    },
+    {
       "id": "ra:2489851",
       "title": "Shadowfall Festival 2026",
       "date": "2026-09-26",
@@ -36,6 +96,16 @@
       "url": "https://ra.co/events/2489851"
     },
     {
+      "id": "ra:2517501",
+      "title": "AFAR",
+      "date": "2026-09-30",
+      "start": "2026-09-30T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517501"
+    },
+    {
       "id": "ra:2473141",
       "title": "Deep Forest",
       "date": "2026-10-06",
@@ -44,6 +114,26 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473141"
+    },
+    {
+      "id": "ra:2517503",
+      "title": "The Homesick",
+      "date": "2026-10-08",
+      "start": "2026-10-08T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517503"
+    },
+    {
+      "id": "ra:2517504",
+      "title": "Roomer",
+      "date": "2026-10-14",
+      "start": "2026-10-14T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517504"
     },
     {
       "id": "ra:2445909",
@@ -64,6 +154,16 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473142"
+    },
+    {
+      "id": "ra:2517507",
+      "title": "$quib + Chris Olsen",
+      "date": "2026-10-19",
+      "start": "2026-10-19T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517507"
     },
     {
       "id": "ra:2473145",
@@ -96,6 +196,16 @@
       "url": "https://ra.co/events/2473147"
     },
     {
+      "id": "ra:2517508",
+      "title": "MGNA Crrrta",
+      "date": "2026-11-02",
+      "start": "2026-11-02T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517508"
+    },
+    {
       "id": "ra:2445912",
       "title": "Loveth Besamoh + I Love You Honey Bunny",
       "date": "2026-11-08",
@@ -106,8 +216,18 @@
       "url": "https://ra.co/events/2445912"
     },
     {
+      "id": "ra:2517486",
+      "title": "Dagmar Zuniga",
+      "date": "2026-11-09",
+      "start": "2026-11-09T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517486"
+    },
+    {
       "id": "ra:2493542",
-      "title": "Lynnic & ItsArius - SOMEWHERE TOUR 2026",
+      "title": "Lynnic & ItsArius - SOMEWHERE TOUR 2026 - Amsterdam SOLD OUT",
       "date": "2026-11-17",
       "start": "2026-11-17T19:00+01:00",
       "venue": "Cinetol",

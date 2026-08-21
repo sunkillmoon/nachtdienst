@@ -1,0 +1,20 @@
+{
+  "id": "90993",
+  "name": "News Cafe",
+  "area": "All",
+  "lat": 53.218291,
+  "lng": 6.566474,
+  "upcoming": [
+    {
+      "id": "ra:2517690",
+      "title": "Hulla by night GP uit G & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "News Cafe",
+      "venue_id": "90993",
+      "area": "All",
+      "url": "https://ra.co/events/2517690"
+    }
+  ],
+  "past": []
+}

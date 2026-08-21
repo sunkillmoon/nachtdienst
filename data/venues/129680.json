@@ -1,0 +1,20 @@
+{
+  "id": "129680",
+  "name": "Cut Throat",
+  "area": "Amsterdam",
+  "lat": 52.374345,
+  "lng": 4.896026,
+  "upcoming": [
+    {
+      "id": "ra:2518049",
+      "title": "Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Cut Throat",
+      "venue_id": "129680",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518049"
+    }
+  ],
+  "past": []
+}

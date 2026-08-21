@@ -1,7 +1,8 @@
 {
   "id": "191980",
   "name": "HKTK Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510251",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
@@ -11,9 +12,7 @@
       "venue_id": "299769",
       "area": "All",
       "url": "https://ra.co/events/2510251"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2510271",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",

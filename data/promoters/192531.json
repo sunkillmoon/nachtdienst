@@ -1,0 +1,34 @@
+{
+  "id": "192531",
+  "name": "A Day At ",
+  "upcoming": [
+    {
+      "id": "ra:2517573",
+      "title": "NOXA x ADATB presents: Francis Mercier",
+      "date": "2026-09-12",
+      "start": "2026-09-12T17:00+02:00",
+      "venue": "Later Aan Zee",
+      "venue_id": "189039",
+      "area": "All",
+      "url": "https://ra.co/events/2517573"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "93180",
+      "name": "Francis Mercier",
+      "count": 1
+    },
+    {
+      "id": "151965",
+      "name": "LevyM",
+      "count": 1
+    },
+    {
+      "id": "82758",
+      "name": "Collé",
+      "count": 1
+    }
+  ]
+}

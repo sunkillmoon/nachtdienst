@@ -14,6 +14,16 @@
       "venue_id": "287886",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484813"
+    },
+    {
+      "id": "ra:2517473",
+      "title": "Love House at the Beach",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Manii Beach",
+      "venue_id": "287886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517473"
     }
   ],
   "past": [

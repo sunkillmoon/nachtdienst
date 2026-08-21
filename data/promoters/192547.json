@@ -1,0 +1,24 @@
+{
+  "id": "192547",
+  "name": "5AM ",
+  "upcoming": [
+    {
+      "id": "ra:2517699",
+      "title": "Mr. Belt & Wezol at Nxt Museum ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517699"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "148315",
+      "name": "Mr. Belt & Wezol",
+      "count": 1
+    }
+  ]
+}

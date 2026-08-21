@@ -2,7 +2,18 @@
   "id": "118963",
   "name": "Wodda",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2517605",
+      "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517605"
+    }
+  ],
   "past": [
     {
       "id": "ra:2474154",

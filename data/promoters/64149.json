@@ -137,24 +137,19 @@
   ],
   "top_artists": [
     {
-      "id": "99004",
-      "name": "Marco Ramos",
+      "id": "131240",
+      "name": "NO1ELSE",
       "count": 6
     },
     {
-      "id": "131240",
-      "name": "NO1ELSE",
+      "id": "99004",
+      "name": "Marco Ramos",
       "count": 6
     },
     {
       "id": "89568",
       "name": "No Intellectual Property",
       "count": 2
-    },
-    {
-      "id": "158939",
-      "name": "QV (1)",
-      "count": 1
     },
     {
       "id": "21842",
@@ -164,6 +159,11 @@
     {
       "id": "20903",
       "name": "TWR72",
+      "count": 1
+    },
+    {
+      "id": "158939",
+      "name": "QV (1)",
       "count": 1
     }
   ]

@@ -3,16 +3,6 @@
   "name": "RavingCharlie",
   "upcoming": [
     {
-      "id": "ra:2422946",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
-      "date": "2026-08-19",
-      "start": "2026-08-19T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422946"
-    },
-    {
       "id": "ra:2423000",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
       "date": "2026-08-21",
@@ -164,6 +154,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2422946",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ SHU [CN] / AEZARYA [DE] / STYC",
+      "date": "2026-08-19",
+      "start": "2026-08-19T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422946"
+    },
     {
       "id": "ra:2330520",
       "title": "RAVING CHARLIE: Hard Techno / Rave ",

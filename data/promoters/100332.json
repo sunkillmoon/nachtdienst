@@ -1,7 +1,18 @@
 {
   "id": "100332",
   "name": "CLUB.RECORD",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2466456",
+      "title": "CLUB.RECORD - The Loft",
+      "date": "2026-10-22",
+      "start": "2026-10-23T06:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466456"
+    }
+  ],
   "past": [
     {
       "id": "ra:2499921",
@@ -15,6 +26,26 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "85915",
+      "name": "Chloé Caillet",
+      "count": 1
+    },
+    {
+      "id": "121173",
+      "name": "D Stone",
+      "count": 1
+    },
+    {
+      "id": "110268",
+      "name": "Naomi (Berlin)",
+      "count": 1
+    },
+    {
+      "id": "736",
+      "name": "Ryan Elliott",
+      "count": 1
+    },
     {
       "id": "96823",
       "name": "Berkan V8",

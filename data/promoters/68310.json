@@ -14,5 +14,41 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "88740",
+      "name": "Because of Art",
+      "count": 1
+    },
+    {
+      "id": "80427",
+      "name": "Ezequiel Arias",
+      "count": 1
+    },
+    {
+      "id": "59",
+      "name": "Jody Wisternoff",
+      "count": 1
+    },
+    {
+      "id": "77132",
+      "name": "Nicky Elisabeth",
+      "count": 1
+    },
+    {
+      "id": "10680",
+      "name": "Martin Roth",
+      "count": 1
+    },
+    {
+      "id": "80953",
+      "name": "Kasper Koman",
+      "count": 1
+    },
+    {
+      "id": "121926",
+      "name": "Kloyd",
+      "count": 1
+    }
+  ]
 }
