@@ -157,16 +157,6 @@
   ],
   "top_artists": [
     {
-      "id": "118800",
-      "name": "Koperblond",
-      "count": 1
-    },
-    {
-      "id": "159225",
-      "name": "Benny2",
-      "count": 1
-    },
-    {
       "id": "138747",
       "name": "TASHASAN",
       "count": 1
@@ -204,6 +194,16 @@
     {
       "id": "110212",
       "name": "Larishka",
+      "count": 1
+    },
+    {
+      "id": "29768",
+      "name": "Chunky",
+      "count": 1
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
       "count": 1
     }
   ]

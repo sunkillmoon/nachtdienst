@@ -100,6 +100,10 @@
     "name": "Basement (Amsterdam)"
   },
   {
+    "id": "300776",
+    "name": "Basement-Amsterdam"
+  },
+  {
     "id": "101766",
     "name": "BASIS"
   },
@@ -186,6 +190,10 @@
   {
     "id": "256406",
     "name": "Brutus"
+  },
+  {
+    "id": "300749",
+    "name": "Cafe Ollie"
   },
   {
     "id": "52605",
@@ -322,6 +330,10 @@
   {
     "id": "49761",
     "name": "De Kromhouthal"
+  },
+  {
+    "id": "300763",
+    "name": "De Lange Adem"
   },
   {
     "id": "80434",
@@ -952,6 +964,10 @@
     "name": "Scoutinglandgoed Zeewolde"
   },
   {
+    "id": "300706",
+    "name": "Senang - Hoek van Holland"
+  },
+  {
     "id": "124413",
     "name": "Shelter Amsterdam"
   },
@@ -962,6 +978,10 @@
   {
     "id": "255755",
     "name": "SISSI'S Amsterdam"
+  },
+  {
+    "id": "300731",
+    "name": "Situ"
   },
   {
     "id": "138553",
@@ -1048,6 +1068,10 @@
     "name": "TBA"
   },
   {
+    "id": "196832",
+    "name": "TBA"
+  },
+  {
     "id": "299272",
     "name": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland"
   },
@@ -1100,6 +1124,10 @@
     "name": "TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam"
   },
   {
+    "id": "300735",
+    "name": "TBA - Inter-city "
+  },
+  {
     "id": "291414",
     "name": "TBA - IYKYK"
   },
@@ -1146,6 +1174,10 @@
   {
     "id": "296481",
     "name": "TBA - The All Out, Amsterdam"
+  },
+  {
+    "id": "299587",
+    "name": "TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday)"
   },
   {
     "id": "296970",

@@ -3,16 +3,6 @@
   "name": "Marijn",
   "upcoming": [
     {
-      "id": "ra:2510580",
-      "title": "Source x Weekdays invite Milan Josef",
-      "date": "2026-08-20",
-      "start": "2026-08-20T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510580"
-    },
-    {
       "id": "ra:2514527",
       "title": "Music Still On",
       "date": "2026-08-21",
@@ -83,8 +73,18 @@
       "url": "https://ra.co/events/2505867"
     },
     {
+      "id": "ra:2518555",
+      "title": "Vidafina",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518555"
+    },
+    {
       "id": "ra:2505868",
-      "title": "Senses",
+      "title": "Supper's House x SixtyTwo",
       "date": "2026-09-05",
       "start": "2026-09-05T23:00+02:00",
       "venue": "Supperclub",
@@ -103,17 +103,117 @@
       "url": "https://ra.co/events/2505870"
     },
     {
+      "id": "ra:2518552",
+      "title": "Parels van de Stad: De After",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518552"
+    },
+    {
       "id": "ra:2505871",
-      "title": "Young, Rich & Balkan",
+      "title": "Parels van de Stad: De After",
       "date": "2026-09-13",
       "start": "2026-09-13T23:00+02:00",
       "venue": "Supperclub",
       "venue_id": "2684",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505871"
+    },
+    {
+      "id": "ra:2518568",
+      "title": "Source",
+      "date": "2026-09-17",
+      "start": "2026-09-17T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518568"
+    },
+    {
+      "id": "ra:2518737",
+      "title": "The Circo",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518737"
+    },
+    {
+      "id": "ra:2518561",
+      "title": "Favela Events",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518561"
+    },
+    {
+      "id": "ra:2518736",
+      "title": "Source",
+      "date": "2026-09-24",
+      "start": "2026-09-24T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518736"
+    },
+    {
+      "id": "ra:2518572",
+      "title": "PINK",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518572"
+    },
+    {
+      "id": "ra:2518573",
+      "title": "Supper's House x Heatwave",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518573"
+    },
+    {
+      "id": "ra:2518739",
+      "title": "Source",
+      "date": "2026-10-01",
+      "start": "2026-10-01T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518739"
+    },
+    {
+      "id": "ra:2518738",
+      "title": "Synced x SV Event",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518738"
     }
   ],
   "past": [
+    {
+      "id": "ra:2510580",
+      "title": "Source x Weekdays invite Milan Josef",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510580"
+    },
     {
       "id": "ra:2503444",
       "title": "Favela Events",

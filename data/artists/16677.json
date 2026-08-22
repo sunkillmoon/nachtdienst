@@ -2,7 +2,18 @@
   "id": "16677",
   "name": "Melé",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2494078",
+      "title": "Defected ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494078"
+    }
+  ],
   "past": [
     {
       "id": "ra:2488832",

@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2477395",
-      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
-      "date": "2026-08-20",
-      "start": "2026-08-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477395"
-    },
-    {
       "id": "ra:2497112",
       "title": "UNDERCORE - Peak Time - Hard Techno",
       "date": "2026-08-21",
@@ -156,6 +146,16 @@
       "url": "https://ra.co/events/2464345"
     },
     {
+      "id": "ra:2518280",
+      "title": "Stuck in a Loop with Leo Cardi (CHI), Triart (TUR)",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518280"
+    },
+    {
       "id": "ra:2482190",
       "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss",
       "date": "2026-09-08",
@@ -276,6 +276,26 @@
       "url": "https://ra.co/events/2482165"
     },
     {
+      "id": "ra:2518466",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-07",
+      "start": "2026-10-07T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518466"
+    },
+    {
+      "id": "ra:2518468",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-14",
+      "start": "2026-10-14T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518468"
+    },
+    {
       "id": "ra:2508072",
       "title": "ADE 2026 Opening - JHONATAN OSPINA x House Mag Showcase",
       "date": "2026-10-21",
@@ -346,6 +366,16 @@
       "url": "https://ra.co/events/2399776"
     },
     {
+      "id": "ra:2518471",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518471"
+    },
+    {
       "id": "ra:2515090",
       "title": "Amsterdam Nights: Hard Techno Halloween",
       "date": "2026-10-31",
@@ -367,6 +397,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
+    },
     {
       "id": "ra:2446379",
       "title": "RAVELAND: Hard Groove Night with Mischa Duncan & MelFerdi",

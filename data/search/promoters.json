@@ -240,6 +240,10 @@
     "name": "Basement Amsterdam"
   },
   {
+    "id": "84312",
+    "name": "Basement Love"
+  },
+  {
     "id": "60173",
     "name": "Basic Grooves"
   },
@@ -334,6 +338,10 @@
   {
     "id": "189726",
     "name": "BREAKGLASS"
+  },
+  {
+    "id": "177002",
+    "name": "Breakin Science"
   },
   {
     "id": "77805",
@@ -592,6 +600,10 @@
     "name": "Drift om te dansen"
   },
   {
+    "id": "189709",
+    "name": "Drum & Bass Weekender"
+  },
+  {
     "id": "180512",
     "name": "Drum ‘n Babes"
   },
@@ -792,6 +804,14 @@
     "name": "Goddess of Queens Music"
   },
   {
+    "id": "146369",
+    "name": "Groove Room"
+  },
+  {
+    "id": "178635",
+    "name": "GrooveTime"
+  },
+  {
     "id": "108372",
     "name": "Guerrilla"
   },
@@ -870,6 +890,10 @@
   {
     "id": "191980",
     "name": "HKTK Events"
+  },
+  {
+    "id": "98474",
+    "name": "Home Again"
   },
   {
     "id": "187473",
@@ -954,6 +978,10 @@
   {
     "id": "147381",
     "name": "Interdependence"
+  },
+  {
+    "id": "167717",
+    "name": "Intergalactic FM"
   },
   {
     "id": "29616",
@@ -1776,6 +1804,10 @@
     "name": "Sissi's Amsterdam"
   },
   {
+    "id": "182337",
+    "name": "SITU"
+  },
+  {
     "id": "130731",
     "name": "Skatecafe Karin & Yvonne"
   },
@@ -1818,6 +1850,10 @@
   {
     "id": "56814",
     "name": "Soul Express"
+  },
+  {
+    "id": "71244",
+    "name": "Sound Metaphors"
   },
   {
     "id": "172397",
@@ -2036,6 +2072,10 @@
     "name": "Time is the new space"
   },
   {
+    "id": "192603",
+    "name": "Time waves"
+  },
+  {
     "id": "135456",
     "name": "TMPL MUSIC"
   },
@@ -2242,6 +2282,10 @@
   {
     "id": "167946",
     "name": "ZERØBPM"
+  },
+  {
+    "id": "96717",
+    "name": "ZIJ festival"
   },
   {
     "id": "190933",

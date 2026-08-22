@@ -1,7 +1,18 @@
 {
   "id": "190818",
   "name": "Connection art event ",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2518307",
+      "title": "Connection art",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518307"
+    }
+  ],
   "past": [
     {
       "id": "ra:2493507",
@@ -18,7 +29,7 @@
     {
       "id": "107543",
       "name": "Polli Panda",
-      "count": 1
+      "count": 2
     },
     {
       "id": "172543",

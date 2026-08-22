@@ -12,6 +12,16 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2406946",
+      "title": "Agents Of Time - all night long",
+      "date": "2026-11-20",
+      "start": "2026-11-20T23:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2406946"
     }
   ],
   "past": []

@@ -107,21 +107,6 @@
   ],
   "top_artists": [
     {
-      "id": "175054",
-      "name": "doo-bop",
-      "count": 1
-    },
-    {
-      "id": "85044",
-      "name": "Doktoro",
-      "count": 1
-    },
-    {
-      "id": "131050",
-      "name": "sima k",
-      "count": 1
-    },
-    {
       "id": "143160",
       "name": "Alírio",
       "count": 1
@@ -154,6 +139,21 @@
     {
       "id": "15648",
       "name": "Erika",
+      "count": 1
+    },
+    {
+      "id": "15714",
+      "name": "BMG",
+      "count": 1
+    },
+    {
+      "id": "3596",
+      "name": "Serge",
+      "count": 1
+    },
+    {
+      "id": "123497",
+      "name": "jannah",
       "count": 1
     }
   ]

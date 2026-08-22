@@ -1,6 +1,6 @@
 {
   "id": "62077",
-  "name": "Chris Stussy",
+  "name": "Chris Stassy",
   "socials": {},
   "upcoming": [
     {
@@ -12,6 +12,16 @@
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2463250",
+      "title": "No Art ADE Festival 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Taets Art & Event Park",
+      "venue_id": "79979",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2463250"
     }
   ],
   "past": [

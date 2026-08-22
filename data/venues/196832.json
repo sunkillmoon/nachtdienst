@@ -1,0 +1,20 @@
+{
+  "id": "196832",
+  "name": "TBA",
+  "area": "Rotterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2518489",
+      "title": "15 YR anniversary TOFFLER at de Onderzeebootloods",
+      "date": "2026-11-14",
+      "start": "2026-11-14T15:00+01:00",
+      "venue": "TBA",
+      "venue_id": "196832",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2518489"
+    }
+  ],
+  "past": []
+}

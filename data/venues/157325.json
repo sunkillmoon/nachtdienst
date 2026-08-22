@@ -234,6 +234,16 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493542"
+    },
+    {
+      "id": "ra:2473149",
+      "title": "Faux Real",
+      "date": "2026-11-20",
+      "start": "2026-11-20T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473149"
     }
   ],
   "past": [

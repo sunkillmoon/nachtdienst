@@ -103,6 +103,36 @@
       "url": "https://ra.co/events/2515085"
     },
     {
+      "id": "ra:2518466",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-07",
+      "start": "2026-10-07T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518466"
+    },
+    {
+      "id": "ra:2518468",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-14",
+      "start": "2026-10-14T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518468"
+    },
+    {
+      "id": "ra:2518471",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518471"
+    },
+    {
       "id": "ra:2515090",
       "title": "Amsterdam Nights: Hard Techno Halloween",
       "date": "2026-10-31",

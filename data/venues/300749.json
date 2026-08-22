@@ -1,0 +1,20 @@
+{
+  "id": "300749",
+  "name": "Cafe Ollie",
+  "area": "Rotterdam",
+  "lat": 51.93,
+  "lng": 4.47,
+  "upcoming": [
+    {
+      "id": "ra:2518463",
+      "title": "side quest",
+      "date": "2026-08-22",
+      "start": "2026-08-22T19:00+02:00",
+      "venue": "Cafe Ollie",
+      "venue_id": "300749",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2518463"
+    }
+  ],
+  "past": []
+}

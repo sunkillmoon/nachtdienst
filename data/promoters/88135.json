@@ -3,16 +3,6 @@
   "name": "Amsterdam Techno Sessions",
   "upcoming": [
     {
-      "id": "ra:2477395",
-      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
-      "date": "2026-08-20",
-      "start": "2026-08-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477395"
-    },
-    {
       "id": "ra:2477399",
       "title": "Amsterdam Techno Sessions",
       "date": "2026-08-27",
@@ -24,6 +14,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
+    },
     {
       "id": "ra:2477393",
       "title": "Amsterdam Techno Sessions w/ TWR72 (OOM Records - Float Records - Hayes)",

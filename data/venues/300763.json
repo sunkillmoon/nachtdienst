@@ -1,0 +1,20 @@
+{
+  "id": "300763",
+  "name": "De Lange Adem",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2518581",
+      "title": "Soirée of Butoh",
+      "date": "2026-10-04",
+      "start": "2026-10-04T20:00+02:00",
+      "venue": "De Lange Adem",
+      "venue_id": "300763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518581"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "96717",
+  "name": "ZIJ festival",
+  "upcoming": [
+    {
+      "id": "ra:2518599",
+      "title": "WHO LOVES THE SUN (ADE DAY PARTY)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "Prik Amsterdam",
+      "venue_id": "300591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518599"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "178472",
+      "name": "CARSA",
+      "count": 1
+    },
+    {
+      "id": "122882",
+      "name": "INFAME (MX)",
+      "count": 1
+    },
+    {
+      "id": "14991",
+      "name": "Jorick Croes",
+      "count": 1
+    },
+    {
+      "id": "148232",
+      "name": "Sandra Silver",
+      "count": 1
+    },
+    {
+      "id": "148145",
+      "name": "SEVEN77",
+      "count": 1
+    },
+    {
+      "id": "113772",
+      "name": "Tato (2)",
+      "count": 1
+    }
+  ]
+}

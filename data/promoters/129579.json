@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2484813"
     },
     {
+      "id": "ra:2518373",
+      "title": "Le Petit Paradis",
+      "date": "2026-09-05",
+      "start": "2026-09-05T15:00+02:00",
+      "venue": "Senang - Hoek van Holland",
+      "venue_id": "300706",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2518373"
+    },
+    {
       "id": "ra:2426450",
       "title": "Ritter Butzke & Casa ADE Cruise",
       "date": "2026-10-23",
@@ -69,12 +79,12 @@
     {
       "id": "107694",
       "name": "Cris-H",
-      "count": 6
+      "count": 7
     },
     {
       "id": "2672",
       "name": "Paul Sparkes",
-      "count": 2
+      "count": 3
     },
     {
       "id": "165125",
@@ -85,6 +95,16 @@
       "id": "171531",
       "name": "Tumzz",
       "count": 2
+    },
+    {
+      "id": "5881",
+      "name": "Francesco Pico",
+      "count": 1
+    },
+    {
+      "id": "137487",
+      "name": "MC PPholl",
+      "count": 1
     },
     {
       "id": "1707",
@@ -104,16 +124,6 @@
     {
       "id": "48613",
       "name": "Solvane",
-      "count": 1
-    },
-    {
-      "id": "33436",
-      "name": "Markus Klee",
-      "count": 1
-    },
-    {
-      "id": "172449",
-      "name": "Malouna",
       "count": 1
     }
   ]

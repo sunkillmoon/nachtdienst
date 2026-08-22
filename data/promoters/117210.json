@@ -67,26 +67,6 @@
   ],
   "top_artists": [
     {
-      "id": "124488",
-      "name": "General C'mamane",
-      "count": 1
-    },
-    {
-      "id": "84859",
-      "name": "Karyendasoul",
-      "count": 1
-    },
-    {
-      "id": "148808",
-      "name": "Lerato Tsotetsi",
-      "count": 1
-    },
-    {
-      "id": "108638",
-      "name": "Meedy",
-      "count": 1
-    },
-    {
       "id": "99598",
       "name": "Que DJ",
       "count": 1
@@ -114,6 +94,26 @@
     {
       "id": "96551",
       "name": "Yasmin Gardezi",
+      "count": 1
+    },
+    {
+      "id": "113818",
+      "name": "angelboy",
+      "count": 1
+    },
+    {
+      "id": "143900",
+      "name": "Lara Renner",
+      "count": 1
+    },
+    {
+      "id": "124488",
+      "name": "General C'mamane",
+      "count": 1
+    },
+    {
+      "id": "84859",
+      "name": "Karyendasoul",
       "count": 1
     }
   ]

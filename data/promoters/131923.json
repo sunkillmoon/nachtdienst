@@ -242,11 +242,6 @@
       "count": 2
     },
     {
-      "id": "148333",
-      "name": "SWAGGER",
-      "count": 1
-    },
-    {
       "id": "129156",
       "name": "Kuzio",
       "count": 1
@@ -274,6 +269,11 @@
     {
       "id": "176932",
       "name": "AEZARYA",
+      "count": 1
+    },
+    {
+      "id": "148333",
+      "name": "SWAGGER",
       "count": 1
     }
   ]

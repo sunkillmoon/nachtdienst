@@ -1,7 +1,8 @@
 {
   "id": "162017",
   "name": "Wherever",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516571",
       "title": "Wherever AMSTERDAM: Andrea Lombardo, DJanu, JP Hernandez, Muhab, Mr.Miyagi, Olito, Rivaud",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2516571"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "8464",

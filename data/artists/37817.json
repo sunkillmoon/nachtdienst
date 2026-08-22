@@ -2,7 +2,18 @@
   "id": "37817",
   "name": "Alci",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2463250",
+      "title": "No Art ADE Festival 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Taets Art & Event Park",
+      "venue_id": "79979",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2463250"
+    }
+  ],
   "past": [
     {
       "id": "ra:2320346",

@@ -3,16 +3,6 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477395",
-      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
-      "date": "2026-08-20",
-      "start": "2026-08-20T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477395"
-    },
-    {
       "id": "ra:2503311",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
       "date": "2026-08-24",
@@ -44,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2477395",
+      "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
+      "date": "2026-08-20",
+      "start": "2026-08-20T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477395"
+    },
     {
       "id": "ra:2503308",
       "title": "Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE",

@@ -1,0 +1,69 @@
+{
+  "id": "189709",
+  "name": "Drum & Bass Weekender",
+  "upcoming": [
+    {
+      "id": "ra:2508740",
+      "title": "Drum & Bass Weekender Amsterdam 2026",
+      "date": "2026-11-20",
+      "start": "2026-11-20T21:00+01:00",
+      "venue": "TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday)",
+      "venue_id": "299587",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508740"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "123708",
+      "name": "A.M.C.",
+      "count": 1
+    },
+    {
+      "id": "79337",
+      "name": "BassLayerz",
+      "count": 1
+    },
+    {
+      "id": "148010",
+      "name": "Macky Gee",
+      "count": 1
+    },
+    {
+      "id": "12214",
+      "name": "Serum",
+      "count": 1
+    },
+    {
+      "id": "79222",
+      "name": "Voltage",
+      "count": 1
+    },
+    {
+      "id": "139270",
+      "name": "Basstripper",
+      "count": 1
+    },
+    {
+      "id": "62686",
+      "name": "BCee",
+      "count": 1
+    },
+    {
+      "id": "79397",
+      "name": "Benny L",
+      "count": 1
+    },
+    {
+      "id": "82734",
+      "name": "Bryan Gee",
+      "count": 1
+    },
+    {
+      "id": "11446",
+      "name": "Dillinja",
+      "count": 1
+    }
+  ]
+}

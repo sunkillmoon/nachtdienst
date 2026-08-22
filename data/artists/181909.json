@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2514653",
-      "title": "LETS PLAY ON THURSDAY",
-      "date": "2026-08-20",
-      "start": "2026-08-20T20:00+02:00",
-      "venue": "Veronica Schip",
-      "venue_id": "89523",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514653"
-    },
-    {
       "id": "ra:2514658",
       "title": "Progressive Friday",
       "date": "2026-08-21",
@@ -22,7 +12,28 @@
       "venue_id": "276933",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514658"
+    },
+    {
+      "id": "ra:2518271",
+      "title": "Progressive Friday",
+      "date": "2026-08-28",
+      "start": "2026-08-28T15:00+02:00",
+      "venue": "Clink Noord",
+      "venue_id": "276933",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518271"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2514653",
+      "title": "LETS PLAY ON THURSDAY",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514653"
+    }
+  ]
 }

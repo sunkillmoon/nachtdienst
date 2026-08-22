@@ -77,11 +77,6 @@
   ],
   "top_artists": [
     {
-      "id": "114185",
-      "name": "da Graca Brothers",
-      "count": 1
-    },
-    {
       "id": "183490",
       "name": "Sonan",
       "count": 1
@@ -124,6 +119,11 @@
     {
       "id": "111019",
       "name": "Portente",
+      "count": 1
+    },
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
       "count": 1
     }
   ]

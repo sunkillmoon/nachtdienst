@@ -14,6 +14,16 @@
       "venue_id": "300591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516994"
+    },
+    {
+      "id": "ra:2518599",
+      "title": "WHO LOVES THE SUN (ADE DAY PARTY)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "Prik Amsterdam",
+      "venue_id": "300591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518599"
     }
   ],
   "past": []

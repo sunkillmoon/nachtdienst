@@ -1,0 +1,30 @@
+{
+  "id": "300776",
+  "name": "Basement-Amsterdam",
+  "area": "All",
+  "lat": 52.36,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2518707",
+      "title": "In the Kitchen by D-Rachid",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2518707"
+    },
+    {
+      "id": "ra:2518710",
+      "title": "In the Kitchen by D-Rachid",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2518710"
+    }
+  ],
+  "past": []
+}

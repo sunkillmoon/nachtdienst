@@ -6,16 +6,6 @@
   "lng": 4.890246,
   "upcoming": [
     {
-      "id": "ra:2514653",
-      "title": "LETS PLAY ON THURSDAY",
-      "date": "2026-08-20",
-      "start": "2026-08-20T20:00+02:00",
-      "venue": "Veronica Schip",
-      "venue_id": "89523",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514653"
-    },
-    {
       "id": "ra:2517390",
       "title": "WKND – TECHNO",
       "date": "2026-08-21",
@@ -96,5 +86,16 @@
       "url": "https://ra.co/events/2502005"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2514653",
+      "title": "LETS PLAY ON THURSDAY",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514653"
+    }
+  ]
 }

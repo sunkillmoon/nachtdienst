@@ -12,6 +12,16 @@
       "venue_id": "221828",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503247"
+    },
+    {
+      "id": "ra:2518373",
+      "title": "Le Petit Paradis",
+      "date": "2026-09-05",
+      "start": "2026-09-05T15:00+02:00",
+      "venue": "Senang - Hoek van Holland",
+      "venue_id": "300706",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2518373"
     }
   ],
   "past": [

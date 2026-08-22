@@ -57,16 +57,6 @@
   ],
   "top_artists": [
     {
-      "id": "151923",
-      "name": "Emvae",
-      "count": 1
-    },
-    {
-      "id": "145217",
-      "name": "Moxes",
-      "count": 1
-    },
-    {
       "id": "94318",
       "name": "Alex Ranzino",
       "count": 1
@@ -89,6 +79,16 @@
     {
       "id": "42186",
       "name": "Philou Louzolo",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
       "count": 1
     }
   ]

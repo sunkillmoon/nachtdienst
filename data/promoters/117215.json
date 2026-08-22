@@ -3,16 +3,6 @@
   "name": "Time is the new space",
   "upcoming": [
     {
-      "id": "ra:2515543",
-      "title": "HAARLEM HARDCORE",
-      "date": "2026-08-20",
-      "start": "2026-08-20T20:30+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2515543"
-    },
-    {
       "id": "ra:2506251",
       "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",
       "date": "2026-08-21",
@@ -115,6 +105,16 @@
   ],
   "past": [
     {
+      "id": "ra:2515543",
+      "title": "HAARLEM HARDCORE",
+      "date": "2026-08-20",
+      "start": "2026-08-20T20:30+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515543"
+    },
+    {
       "id": "ra:2511264",
       "title": "VSCO'S BASH",
       "date": "2026-08-17",
@@ -187,16 +187,6 @@
   ],
   "top_artists": [
     {
-      "id": "17594",
-      "name": "DD",
-      "count": 1
-    },
-    {
-      "id": "184510",
-      "name": "Droom",
-      "count": 1
-    },
-    {
       "id": "98041",
       "name": "Ofra",
       "count": 1
@@ -234,6 +224,16 @@
     {
       "id": "92389",
       "name": "Snufkin",
+      "count": 1
+    },
+    {
+      "id": "44752",
+      "name": "Oceanic",
+      "count": 1
+    },
+    {
+      "id": "131973",
+      "name": "Pureistix",
       "count": 1
     }
   ]

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501505",
-      "title": "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois",
-      "date": "2026-08-20",
-      "start": "2026-08-20T22:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501505"
-    },
-    {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
       "date": "2026-08-23",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501505",
+      "title": "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois",
+      "date": "2026-08-20",
+      "start": "2026-08-20T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501505"
+    },
     {
       "id": "ra:2505209",
       "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",

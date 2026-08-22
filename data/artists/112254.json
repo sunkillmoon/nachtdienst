@@ -2,7 +2,18 @@
   "id": "112254",
   "name": "TASSERY",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2513934",
+      "title": "BASIS/ TASSERY All Night Long",
+      "date": "2026-11-20",
+      "start": "2026-11-20T23:00+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2513934"
+    }
+  ],
   "past": [
     {
       "id": "ra:2400580",

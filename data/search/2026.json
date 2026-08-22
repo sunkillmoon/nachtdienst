@@ -1120,6 +1120,16 @@
     "terms": "palet mini festival lofi amsterdam girls don't sync bebe bad tins bella (nl) boris coelman daws eycee kinetiks lucky done gone lylo (nl) rob manga"
   },
   {
+    "id": "ra:2406946",
+    "date": "2026-11-20",
+    "title": "Agents Of Time - all night long",
+    "venue": "Lofi",
+    "venue_id": "168878",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2406946",
+    "terms": "agents of time - all night long lofi amsterdam agents of time lofi amsterdam"
+  },
+  {
     "id": "ra:2407157",
     "date": "2026-09-18",
     "title": "80's Verantwoord",
@@ -3667,7 +3677,7 @@
     "venue_id": "79979",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2463250",
-    "terms": "no art ade festival 2026 taets art & event park amsterdam no art noartmusic"
+    "terms": "no art ade festival 2026 taets art & event park amsterdam anotr chris stassy halfpint job jobse rooléh saoirse alci aline umber brunello hannecart hunee mateo dufour moxie no art noartmusic"
   },
   {
     "id": "ra:2463764",
@@ -5088,6 +5098,16 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2473147",
     "terms": "velocity made good cinetol amsterdam velocity made good"
+  },
+  {
+    "id": "ra:2473149",
+    "date": "2026-11-20",
+    "title": "Faux Real",
+    "venue": "Cinetol",
+    "venue_id": "157325",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2473149",
+    "terms": "faux real cinetol amsterdam"
   },
   {
     "id": "ra:2473169",
@@ -9600,6 +9620,16 @@
     "terms": "club night laak the hague club laak"
   },
   {
+    "id": "ra:2491478",
+    "date": "2026-11-20",
+    "title": "Club Night",
+    "venue": "Laak",
+    "venue_id": "265527",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2491478",
+    "terms": "club night laak the hague club laak"
+  },
+  {
     "id": "ra:2491494",
     "date": "2026-10-02",
     "title": "Club Night",
@@ -10227,7 +10257,7 @@
     "venue_id": "109027",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2494078",
-    "terms": "defected ade thuishaven amsterdam twomindstalking"
+    "terms": "defected ade thuishaven amsterdam joëlla jackson makèz melé ranger trucco ruze sam divine tsha twomindstalking"
   },
   {
     "id": "ra:2494092",
@@ -12817,7 +12847,7 @@
     "venue_id": "108549",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2505049",
-    "terms": "mano le tough pres. maeve x ade bret amsterdam mano le tough maeve"
+    "terms": "mano le tough pres. maeve x ade bret amsterdam mano le tough bret maeve"
   },
   {
     "id": "ra:2505068",
@@ -12942,12 +12972,12 @@
   {
     "id": "ra:2505868",
     "date": "2026-09-05",
-    "title": "Senses",
+    "title": "Supper's House x SixtyTwo",
     "venue": "Supperclub",
     "venue_id": "2684",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2505868",
-    "terms": "senses supperclub amsterdam marijn"
+    "terms": "supper's house x sixtytwo supperclub amsterdam marijn"
   },
   {
     "id": "ra:2505870",
@@ -12962,12 +12992,12 @@
   {
     "id": "ra:2505871",
     "date": "2026-09-13",
-    "title": "Young, Rich & Balkan",
+    "title": "Parels van de Stad: De After",
     "venue": "Supperclub",
     "venue_id": "2684",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2505871",
-    "terms": "young, rich & balkan supperclub amsterdam marijn"
+    "terms": "parels van de stad: de after supperclub amsterdam marijn"
   },
   {
     "id": "ra:2505877",
@@ -13748,6 +13778,16 @@
     "area": "Eindhoven",
     "ra_url": "https://ra.co/events/2508737",
     "terms": "stook - eindhoven's biggest blockparty biergarten eindhoven eindhoven biergarten eindhoven"
+  },
+  {
+    "id": "ra:2508740",
+    "date": "2026-11-20",
+    "title": "Drum & Bass Weekender Amsterdam 2026",
+    "venue": "TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday)",
+    "venue_id": "299587",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2508740",
+    "terms": "drum & bass weekender amsterdam 2026 tba - the other side (friday) - warehouse elementenstraat (saturday) amsterdam a.m.c. basslayerz macky gee serum voltage basstripper bcee benny l bryan gee dillinja disrupta logan d majistrate a-sides jay bee kara (3) katalyst evil b vs b live mc gq grima & azza ic3 harry shotta carasel phantom b-line tnt (1) breakin science drum & bass weekender"
   },
   {
     "id": "ra:2508749",
@@ -14720,6 +14760,16 @@
     "terms": "no barrier nobel all"
   },
   {
+    "id": "ra:2512470",
+    "date": "2026-11-20",
+    "title": "Only 10's",
+    "venue": "Nobel",
+    "venue_id": "97685",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2512470",
+    "terms": "only 10's nobel all"
+  },
+  {
     "id": "ra:2512482",
     "date": "2026-08-22",
     "title": "afternoon interlude with Nèna",
@@ -14968,6 +15018,16 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2513931",
     "terms": "bhae festival noorderlicht café amsterdam mitch oliver [ares] christoph cham bhae"
+  },
+  {
+    "id": "ra:2513934",
+    "date": "2026-11-20",
+    "title": "BASIS/ TASSERY All Night Long",
+    "venue": "BASIS",
+    "venue_id": "101766",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2513934",
+    "terms": "basis/ tassery all night long basis utrecht tassery"
   },
   {
     "id": "ra:2514034",
@@ -15682,22 +15742,22 @@
   {
     "id": "ra:2515715",
     "date": "2026-09-25",
-    "title": "Colorado Charlie - Season Closing Day 1",
+    "title": "Colorado Charlie - Season Closing Day 1 (SOLD OUT)",
     "venue": "Colorado Charlie",
     "venue_id": "152236",
     "area": "The Hague",
     "ra_url": "https://ra.co/events/2515715",
-    "terms": "colorado charlie - season closing day 1 colorado charlie the hague ammé emma 2000 m-high omar+ coloradocharlienl"
+    "terms": "colorado charlie - season closing day 1 (sold out) colorado charlie the hague ammé emma 2000 m-high omar+ coloradocharlienl"
   },
   {
     "id": "ra:2515716",
     "date": "2026-09-26",
-    "title": "Colorado Charlie - Season Closing Day 2",
+    "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
     "venue": "Colorado Charlie",
     "venue_id": "152236",
     "area": "The Hague",
     "ra_url": "https://ra.co/events/2515716",
-    "terms": "colorado charlie - season closing day 2 colorado charlie the hague daughter in law job de jong michel de hey li-yu sosa (uk) coloradocharlienl"
+    "terms": "colorado charlie - season closing day 2 (sold out) colorado charlie the hague daughter in law job de jong michel de hey li-yu sosa (uk) coloradocharlienl"
   },
   {
     "id": "ra:2515780",
@@ -16567,7 +16627,7 @@
     "venue_id": "124413",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2517610",
-    "terms": "doppelgang birthday session shelter amsterdam amsterdam budino doppelgang bennet sandrien 36framez shelter amsterdam"
+    "terms": "doppelgang birthday session shelter amsterdam amsterdam budino doppelgang bennet (de) sandrien 36framez shelter amsterdam"
   },
   {
     "id": "ra:2517612",
@@ -16658,5 +16718,305 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2518116",
     "terms": "tickfest toekomstmuziek amsterdam"
+  },
+  {
+    "id": "ra:2518257",
+    "date": "2026-09-26",
+    "title": "Paal Closing",
+    "venue": "Paal69",
+    "venue_id": "264897",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518257",
+    "terms": "paal closing paal69 amsterdam sander kleinenberg alexander koning lucien foort roog marcello (2)"
+  },
+  {
+    "id": "ra:2518271",
+    "date": "2026-08-28",
+    "title": "Progressive Friday",
+    "venue": "Clink Noord",
+    "venue_id": "276933",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518271",
+    "terms": "progressive friday clink noord amsterdam pablon"
+  },
+  {
+    "id": "ra:2518280",
+    "date": "2026-09-05",
+    "title": "Stuck in a Loop with Leo Cardi (CHI), Triart (TUR)",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518280",
+    "terms": "stuck in a loop with leo cardi (chi), triart (tur) john doe amsterdam leo cardi triart bastiaan jtmusic"
+  },
+  {
+    "id": "ra:2518295",
+    "date": "2026-08-29",
+    "title": "HIT THE SITU",
+    "venue": "Situ",
+    "venue_id": "300731",
+    "area": "Eindhoven",
+    "ra_url": "https://ra.co/events/2518295",
+    "terms": "hit the situ situ eindhoven situ"
+  },
+  {
+    "id": "ra:2518303",
+    "date": "2026-10-24",
+    "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+    "venue": "TILLATEC",
+    "venue_id": "232813",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518303",
+    "terms": "home again x sound metaphors x basement love fundraiser tillatec amsterdam sound metaphors basement love home again tillatec"
+  },
+  {
+    "id": "ra:2518307",
+    "date": "2026-09-04",
+    "title": "Connection art",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518307",
+    "terms": "connection art sissi's amsterdam amsterdam polli panda connection art event "
+  },
+  {
+    "id": "ra:2518339",
+    "date": "2026-09-26",
+    "title": "Intergalactic FM presents Disco Fetish XXL",
+    "venue": "TBA - Inter-city ",
+    "venue_id": "300735",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2518339",
+    "terms": "intergalactic fm presents disco fetish xxl tba - inter-city  the hague alden tyrell fred ventura i-f luca dell'orso dynamic d ian martin esther dune droom marsman intergalactic fm"
+  },
+  {
+    "id": "ra:2518373",
+    "date": "2026-09-05",
+    "title": "Le Petit Paradis",
+    "venue": "Senang - Hoek van Holland",
+    "venue_id": "300706",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2518373",
+    "terms": "le petit paradis senang - hoek van holland the hague paul sparkes cris-h francesco pico mc ppholl casa productions (nl)"
+  },
+  {
+    "id": "ra:2518378",
+    "date": "2026-10-23",
+    "title": "HOUSE152 & Friends / ADE edition",
+    "venue": "TBA",
+    "venue_id": "203299",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518378",
+    "terms": "house152 & friends / ade edition tba amsterdam"
+  },
+  {
+    "id": "ra:2518463",
+    "date": "2026-08-22",
+    "title": "side quest",
+    "venue": "Cafe Ollie",
+    "venue_id": "300749",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2518463",
+    "terms": "side quest cafe ollie rotterdam nomads time waves"
+  },
+  {
+    "id": "ra:2518466",
+    "date": "2026-10-07",
+    "title": "RAVELAND: Hard Techno & Hard Bounce",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518466",
+    "terms": "raveland: hard techno & hard bounce john doe amsterdam amsterdam nights"
+  },
+  {
+    "id": "ra:2518468",
+    "date": "2026-10-14",
+    "title": "RAVELAND: Hard Techno & Hard Bounce",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518468",
+    "terms": "raveland: hard techno & hard bounce john doe amsterdam amsterdam nights"
+  },
+  {
+    "id": "ra:2518471",
+    "date": "2026-10-28",
+    "title": "RAVELAND: Hard Techno Rave",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518471",
+    "terms": "raveland: hard techno rave john doe amsterdam amsterdam nights"
+  },
+  {
+    "id": "ra:2518489",
+    "date": "2026-11-14",
+    "title": "15 YR anniversary TOFFLER at de Onderzeebootloods",
+    "venue": "TBA",
+    "venue_id": "196832",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2518489",
+    "terms": "15 yr anniversary toffler at de onderzeebootloods tba rotterdam toffler"
+  },
+  {
+    "id": "ra:2518493",
+    "date": "2026-08-22",
+    "title": "Huis van Iemand Anders - FREE ENTRY",
+    "venue": "Huis van Iemand Anders",
+    "venue_id": "141942",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518493",
+    "terms": "huis van iemand anders - free entry huis van iemand anders amsterdam effy b ray slyther"
+  },
+  {
+    "id": "ra:2518552",
+    "date": "2026-09-12",
+    "title": "Parels van de Stad: De After",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518552",
+    "terms": "parels van de stad: de after supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518555",
+    "date": "2026-09-04",
+    "title": "Vidafina",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518555",
+    "terms": "vidafina supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518561",
+    "date": "2026-09-19",
+    "title": "Favela Events",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518561",
+    "terms": "favela events supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518568",
+    "date": "2026-09-17",
+    "title": "Source",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518568",
+    "terms": "source supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518572",
+    "date": "2026-09-25",
+    "title": "PINK",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518572",
+    "terms": "pink supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518573",
+    "date": "2026-09-26",
+    "title": "Supper's House x Heatwave",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518573",
+    "terms": "supper's house x heatwave supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518581",
+    "date": "2026-10-04",
+    "title": "Soirée of Butoh",
+    "venue": "De Lange Adem",
+    "venue_id": "300763",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518581",
+    "terms": "soirée of butoh de lange adem amsterdam pause interlude"
+  },
+  {
+    "id": "ra:2518599",
+    "date": "2026-10-23",
+    "title": "WHO LOVES THE SUN (ADE DAY PARTY)",
+    "venue": "Prik Amsterdam",
+    "venue_id": "300591",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518599",
+    "terms": "who loves the sun (ade day party) prik amsterdam amsterdam carsa infame (mx) jorick croes sandra silver seven77 tato (2) zij festival groove room groovetime"
+  },
+  {
+    "id": "ra:2518707",
+    "date": "2026-08-28",
+    "title": "In the Kitchen by D-Rachid",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2518707",
+    "terms": "in the kitchen by d-rachid basement-amsterdam all basement amsterdam"
+  },
+  {
+    "id": "ra:2518710",
+    "date": "2026-09-04",
+    "title": "In the Kitchen by D-Rachid",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2518710",
+    "terms": "in the kitchen by d-rachid basement-amsterdam all basement amsterdam"
+  },
+  {
+    "id": "ra:2518718",
+    "date": "2026-10-23",
+    "title": "Nora En Pure pres. Purified Amsterdam (ADE Boat Party)",
+    "venue": "Oceandiva Original",
+    "venue_id": "292161",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2518718",
+    "terms": "nora en pure pres. purified amsterdam (ade boat party) oceandiva original all nora en pure the garden... soundfleet by oceandiva"
+  },
+  {
+    "id": "ra:2518736",
+    "date": "2026-09-24",
+    "title": "Source",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518736",
+    "terms": "source supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518737",
+    "date": "2026-09-18",
+    "title": "The Circo",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518737",
+    "terms": "the circo supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518738",
+    "date": "2026-10-03",
+    "title": "Synced x SV Event",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518738",
+    "terms": "synced x sv event supperclub amsterdam marijn"
+  },
+  {
+    "id": "ra:2518739",
+    "date": "2026-10-01",
+    "title": "Source",
+    "venue": "Supperclub",
+    "venue_id": "2684",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2518739",
+    "terms": "source supperclub amsterdam marijn"
   }
 ]

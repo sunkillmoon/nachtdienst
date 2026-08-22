@@ -2,7 +2,18 @@
   "id": "48170",
   "name": "Marsman",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2518339",
+      "title": "Intergalactic FM presents Disco Fetish XXL",
+      "date": "2026-09-26",
+      "start": "2026-09-26T20:00+02:00",
+      "venue": "TBA - Inter-city ",
+      "venue_id": "300735",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2518339"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495209",

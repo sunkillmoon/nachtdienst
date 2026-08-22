@@ -207,31 +207,6 @@
   ],
   "top_artists": [
     {
-      "id": "168582",
-      "name": "YAS (9)",
-      "count": 1
-    },
-    {
-      "id": "170462",
-      "name": "Pedro da Mata",
-      "count": 1
-    },
-    {
-      "id": "170661",
-      "name": "Not Yet (2)",
-      "count": 1
-    },
-    {
-      "id": "177252",
-      "name": "AAlva",
-      "count": 1
-    },
-    {
-      "id": "176673",
-      "name": "Denise Lopes",
-      "count": 1
-    },
-    {
       "id": "122185",
       "name": "LAMSI",
       "count": 1
@@ -254,6 +229,31 @@
     {
       "id": "86340",
       "name": "amara",
+      "count": 1
+    },
+    {
+      "id": "163073",
+      "name": "awhlkuhn",
+      "count": 1
+    },
+    {
+      "id": "147968",
+      "name": "Styn",
+      "count": 1
+    },
+    {
+      "id": "159481",
+      "name": "T.NO",
+      "count": 1
+    },
+    {
+      "id": "156309",
+      "name": "Jackie Jr.",
+      "count": 1
+    },
+    {
+      "id": "121450",
+      "name": "YoungWoman",
       "count": 1
     }
   ]

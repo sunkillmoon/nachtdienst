@@ -2,7 +2,8 @@
   "id": "158939",
   "name": "QV (1)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477395",
       "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477395"
     }
-  ],
-  "past": []
+  ]
 }

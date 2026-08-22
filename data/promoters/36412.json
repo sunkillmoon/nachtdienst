@@ -111,6 +111,16 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2500811"
+    },
+    {
+      "id": "ra:2518489",
+      "title": "15 YR anniversary TOFFLER at de Onderzeebootloods",
+      "date": "2026-11-14",
+      "start": "2026-11-14T15:00+01:00",
+      "venue": "TBA",
+      "venue_id": "196832",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2518489"
     }
   ],
   "past": [
@@ -202,16 +212,6 @@
       "count": 2
     },
     {
-      "id": "152684",
-      "name": "Ammé",
-      "count": 1
-    },
-    {
-      "id": "146150",
-      "name": "Robin Nicolas",
-      "count": 1
-    },
-    {
       "id": "133993",
       "name": "davyboi",
       "count": 1
@@ -244,6 +244,16 @@
     {
       "id": "1378",
       "name": "Luca Ricci",
+      "count": 1
+    },
+    {
+      "id": "159124",
+      "name": "Rob Stillekens",
+      "count": 1
+    },
+    {
+      "id": "153155",
+      "name": "Capron",
       "count": 1
     }
   ]

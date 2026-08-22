@@ -144,6 +144,16 @@
       "venue_id": "97685",
       "area": "All",
       "url": "https://ra.co/events/2512467"
+    },
+    {
+      "id": "ra:2512470",
+      "title": "Only 10's",
+      "date": "2026-11-20",
+      "start": "2026-11-20T23:30+01:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512470"
     }
   ],
   "past": []

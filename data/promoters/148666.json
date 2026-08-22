@@ -1,7 +1,18 @@
 {
   "id": "148666",
   "name": "JTMusic",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2518280",
+      "title": "Stuck in a Loop with Leo Cardi (CHI), Triart (TUR)",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518280"
+    }
+  ],
   "past": [
     {
       "id": "ra:2492701",
@@ -15,6 +26,21 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "166919",
+      "name": "Leo Cardi",
+      "count": 1
+    },
+    {
+      "id": "89921",
+      "name": "Triart",
+      "count": 1
+    },
+    {
+      "id": "186213",
+      "name": "Bastiaan",
+      "count": 1
+    },
     {
       "id": "167683",
       "name": "ANGEL-V",

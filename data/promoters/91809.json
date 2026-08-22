@@ -157,16 +157,6 @@
   ],
   "top_artists": [
     {
-      "id": "28938",
-      "name": "Andy Luff",
-      "count": 1
-    },
-    {
-      "id": "103146",
-      "name": "Alexia Glensy",
-      "count": 1
-    },
-    {
       "id": "97687",
       "name": "DJ Life",
       "count": 1
@@ -204,6 +194,16 @@
     {
       "id": "162897",
       "name": "Cleo Grooves",
+      "count": 1
+    },
+    {
+      "id": "186988",
+      "name": "Lex Valverde",
+      "count": 1
+    },
+    {
+      "id": "105271",
+      "name": "Cybersex",
       "count": 1
     }
   ]
