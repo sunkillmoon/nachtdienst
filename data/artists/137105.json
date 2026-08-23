@@ -2,7 +2,8 @@
   "id": "137105",
   "name": "SOLIT",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501506",
       "title": "Solit b2b Nathan Homan",
@@ -12,9 +13,7 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501506"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2480519",
       "title": "Portente Invites",

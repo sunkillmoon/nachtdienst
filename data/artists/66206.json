@@ -54,6 +54,26 @@
       "url": "https://ra.co/events/2518257"
     },
     {
+      "id": "ra:2518976",
+      "title": "History of House Tilburg",
+      "date": "2026-10-02",
+      "start": "2026-10-02T20:00+02:00",
+      "venue": "De Heuvel Gallery",
+      "venue_id": "116512",
+      "area": "All",
+      "url": "https://ra.co/events/2518976"
+    },
+    {
+      "id": "ra:2518978",
+      "title": "History of House Groningen",
+      "date": "2026-10-16",
+      "start": "2026-10-16T21:00+02:00",
+      "venue": "Simplon",
+      "venue_id": "14873",
+      "area": "All",
+      "url": "https://ra.co/events/2518978"
+    },
+    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",

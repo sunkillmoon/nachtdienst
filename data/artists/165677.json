@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516457",
-      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
-      "date": "2026-08-21",
-      "start": "2026-08-21T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516457"
-    },
-    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2516457",
+      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516457"
+    },
     {
       "id": "ra:2454703",
       "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",

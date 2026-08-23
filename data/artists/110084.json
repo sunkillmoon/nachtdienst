@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2375299",
-      "title": "Lowlands 2026",
-      "date": "2026-08-21",
-      "start": "2026-08-21T10:00+02:00",
-      "venue": "Lowlands Festival Site",
-      "venue_id": "6646",
-      "area": "All",
-      "url": "https://ra.co/events/2375299"
-    },
-    {
       "id": "ra:2506044",
       "title": "ONTZET! - Wolter Wolthers X Onder de Pannen",
       "date": "2026-08-28",
@@ -85,6 +75,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2375299",
+      "title": "Lowlands 2026",
+      "date": "2026-08-21",
+      "start": "2026-08-21T10:00+02:00",
+      "venue": "Lowlands Festival Site",
+      "venue_id": "6646",
+      "area": "All",
+      "url": "https://ra.co/events/2375299"
+    },
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",

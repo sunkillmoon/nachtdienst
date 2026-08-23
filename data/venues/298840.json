@@ -1,0 +1,20 @@
+{
+  "id": "298840",
+  "name": "TBA - Matilo Park",
+  "area": "Rotterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2502546",
+      "title": "Back To Base Fall Festival",
+      "date": "2026-11-21",
+      "start": "2026-11-21T15:00+01:00",
+      "venue": "TBA - Matilo Park",
+      "venue_id": "298840",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2502546"
+    }
+  ],
+  "past": []
+}

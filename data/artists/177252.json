@@ -2,7 +2,8 @@
   "id": "177252",
   "name": "AAlva",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495357",
       "title": "BAILE DO OUTRO LADO X ONDA COLLECTIVE",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495357"
     }
-  ],
-  "past": []
+  ]
 }

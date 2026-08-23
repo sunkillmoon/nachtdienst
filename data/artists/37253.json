@@ -12,6 +12,16 @@
       "venue_id": "299587",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508740"
+    },
+    {
+      "id": "ra:2477799",
+      "title": "SUNANDBASS Recordings Amsterdam",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477799"
     }
   ],
   "past": []

@@ -2,7 +2,8 @@
   "id": "148333",
   "name": "SWAGGER",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2423000",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423000"
     }
-  ],
-  "past": []
+  ]
 }

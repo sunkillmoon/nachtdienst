@@ -2,7 +2,8 @@
   "id": "120104",
   "name": "GoodMostlyBad",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508749",
       "title": "murmur; The KrayZone invites GoodMostlyBad",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508749"
     }
-  ],
-  "past": []
+  ]
 }

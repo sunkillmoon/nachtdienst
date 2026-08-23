@@ -6,16 +6,6 @@
   "lng": 4.843713,
   "upcoming": [
     {
-      "id": "ra:2461530",
-      "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:59+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2461530"
-    },
-    {
       "id": "ra:2498106",
       "title": "ARMAT X REFORMA",
       "date": "2026-08-22",
@@ -147,6 +137,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2461530",
+      "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2461530"
+    },
     {
       "id": "ra:2460516",
       "title": "Discos Movimiento x Pintai",

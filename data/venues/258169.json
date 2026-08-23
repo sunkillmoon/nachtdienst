@@ -1,0 +1,20 @@
+{
+  "id": "258169",
+  "name": "Meet Berlage",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2518968",
+      "title": "KE-RIKO x ALEX B-DAY BASH",
+      "date": "2026-08-29",
+      "start": "2026-08-29T16:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518968"
+    }
+  ],
+  "past": []
+}

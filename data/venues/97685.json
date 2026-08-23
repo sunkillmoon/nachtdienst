@@ -154,6 +154,16 @@
       "venue_id": "97685",
       "area": "All",
       "url": "https://ra.co/events/2512470"
+    },
+    {
+      "id": "ra:2512473",
+      "title": "Fiesta Macumba",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:30+01:00",
+      "venue": "Nobel",
+      "venue_id": "97685",
+      "area": "All",
+      "url": "https://ra.co/events/2512473"
     }
   ],
   "past": []

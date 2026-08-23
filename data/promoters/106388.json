@@ -1,7 +1,8 @@
 {
   "id": "106388",
   "name": "Dissident",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2461530"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "113818",

@@ -1,0 +1,39 @@
+{
+  "id": "192395",
+  "name": "KOMPLOTT",
+  "upcoming": [
+    {
+      "id": "ra:2515754",
+      "title": "KOMPLOTT",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:00+01:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515754"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "176209",
+      "name": "SANTØS",
+      "count": 1
+    },
+    {
+      "id": "64325",
+      "name": "Ben Techy",
+      "count": 1
+    },
+    {
+      "id": "129915",
+      "name": "Rudaki",
+      "count": 1
+    },
+    {
+      "id": "165044",
+      "name": "Divasi",
+      "count": 1
+    }
+  ]
+}

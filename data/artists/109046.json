@@ -42,6 +42,16 @@
       "venue_id": "277115",
       "area": "All",
       "url": "https://ra.co/events/2479118"
+    },
+    {
+      "id": "ra:2474210",
+      "title": "Soenda Indoor Werkspoorkathedraal 2026",
+      "date": "2026-11-21",
+      "start": "2026-11-21T13:30+01:00",
+      "venue": "Werkspoorkathedraal",
+      "venue_id": "267871",
+      "area": "All",
+      "url": "https://ra.co/events/2474210"
     }
   ],
   "past": [

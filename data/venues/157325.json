@@ -244,6 +244,16 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473149"
+    },
+    {
+      "id": "ra:2517480",
+      "title": "@",
+      "date": "2026-11-21",
+      "start": "2026-11-21T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517480"
     }
   ],
   "past": [

@@ -2,7 +2,8 @@
   "id": "102124",
   "name": "Usatov",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456910",
       "title": "Madam by Night invites: Dive Deep Melodic Nights Vol. V",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456910"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "16587",
   "name": "Ben UFO",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
@@ -12,9 +13,7 @@
       "venue_id": "6646",
       "area": "All",
       "url": "https://ra.co/events/2375299"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

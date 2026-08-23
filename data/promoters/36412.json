@@ -3,16 +3,6 @@
   "name": "TOFFLER",
   "upcoming": [
     {
-      "id": "ra:2466207",
-      "title": "TOFFLER presents LEYO and friends",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466207"
-    },
-    {
       "id": "ra:2466211",
       "title": "TOFFLER x Maas Afterparty",
       "date": "2026-08-22",
@@ -125,6 +115,16 @@
   ],
   "past": [
     {
+      "id": "ra:2466207",
+      "title": "TOFFLER presents LEYO and friends",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466207"
+    },
+    {
       "id": "ra:2466205",
       "title": "TOFFLER presents LOZO and friends",
       "date": "2026-08-15",
@@ -212,16 +212,6 @@
       "count": 2
     },
     {
-      "id": "133993",
-      "name": "davyboi",
-      "count": 1
-    },
-    {
-      "id": "146324",
-      "name": "JÄMO",
-      "count": 1
-    },
-    {
       "id": "88056",
       "name": "Boss Priester",
       "count": 1
@@ -254,6 +244,16 @@
     {
       "id": "153155",
       "name": "Capron",
+      "count": 1
+    },
+    {
+      "id": "157230",
+      "name": "Cher Semain",
+      "count": 1
+    },
+    {
+      "id": "136249",
+      "name": "RAMØN",
       "count": 1
     }
   ]

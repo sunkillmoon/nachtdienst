@@ -6,16 +6,6 @@
   "lng": 4.927931,
   "upcoming": [
     {
-      "id": "ra:2508749",
-      "title": "murmur; The KrayZone invites GoodMostlyBad",
-      "date": "2026-08-21",
-      "start": "2026-08-21T18:00+02:00",
-      "venue": "murmur",
-      "venue_id": "188430",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508749"
-    },
-    {
       "id": "ra:2514459",
       "title": "mr. wix",
       "date": "2026-08-28",
@@ -87,6 +77,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2508749",
+      "title": "murmur; The KrayZone invites GoodMostlyBad",
+      "date": "2026-08-21",
+      "start": "2026-08-21T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508749"
+    },
     {
       "id": "ra:2492544",
       "title": "Kurumbu presents Naya Beat",

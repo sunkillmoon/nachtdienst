@@ -2,7 +2,8 @@
   "id": "110734",
   "name": "DIORA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
@@ -12,9 +13,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2461530"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2497317",
       "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.439604,
   "lng": 5.768219,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2375299"
     }
-  ],
-  "past": []
+  ]
 }

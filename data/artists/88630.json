@@ -2,7 +2,8 @@
   "id": "88630",
   "name": "Eastern Distributor",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489049",
       "title": "HYPERWAVES invites Flux Collective",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489049"
     }
-  ],
-  "past": []
+  ]
 }

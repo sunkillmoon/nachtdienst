@@ -253,16 +253,6 @@
       "url": "https://ra.co/events/2420673"
     },
     {
-      "id": "ra:2502429",
-      "title": "Audio Obscura ADE x Bad Boombox Invites",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:30+02:00",
-      "venue": "RAWFACTORY",
-      "venue_id": "190418",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502429"
-    },
-    {
       "id": "ra:2517699",
       "title": "Mr. Belt & Wezol at Nxt Museum ADE",
       "date": "2026-10-23",
@@ -271,6 +261,16 @@
       "venue_id": "203427",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517699"
+    },
+    {
+      "id": "ra:2502429",
+      "title": "Audio Obscura ADE x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
     },
     {
       "id": "ra:2375140",

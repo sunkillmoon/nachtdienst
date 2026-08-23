@@ -2,7 +2,8 @@
   "id": "181974",
   "name": "Gian Grassi",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514658",
       "title": "Progressive Friday",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514658"
     }
-  ],
-  "past": []
+  ]
 }

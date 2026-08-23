@@ -2,7 +2,8 @@
   "id": "83875",
   "name": "Cryptofauna",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2461530"
     }
-  ],
-  "past": []
+  ]
 }

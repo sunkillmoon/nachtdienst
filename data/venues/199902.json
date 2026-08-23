@@ -6,26 +6,6 @@
   "lng": 4.875716,
   "upcoming": [
     {
-      "id": "ra:2515601",
-      "title": "Tick Fest",
-      "date": "2026-08-21",
-      "start": "2026-08-21T21:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515601"
-    },
-    {
-      "id": "ra:2518116",
-      "title": "TICKFEST",
-      "date": "2026-08-21",
-      "start": "2026-08-21T21:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2518116"
-    },
-    {
       "id": "ra:2462831",
       "title": "Plastilina Mosh",
       "date": "2026-08-29",
@@ -137,6 +117,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2515601",
+      "title": "Tick Fest",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515601"
+    },
+    {
+      "id": "ra:2518116",
+      "title": "TICKFEST",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518116"
+    },
     {
       "id": "ra:2455670",
       "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",

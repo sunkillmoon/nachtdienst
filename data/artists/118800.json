@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2493384",
-      "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493384"
-    },
-    {
       "id": "ra:2512651",
       "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
       "date": "2026-09-04",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2493384",
+      "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493384"
+    },
     {
       "id": "ra:2397297",
       "title": "OIWA Beach Festival 2026",

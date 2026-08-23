@@ -2,7 +2,8 @@
   "id": "164212",
   "name": "Zeyvers",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2423000",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
@@ -12,9 +13,7 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2423000"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2330518",
       "title": "RAVING CHARLIE: Hard Techno / Rave ",

@@ -6,16 +6,6 @@
   "lng": 4.902485,
   "upcoming": [
     {
-      "id": "ra:2476143",
-      "title": "Boss Priester b2b Kepler (all night)",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476143"
-    },
-    {
       "id": "ra:2476144",
       "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
       "date": "2026-08-22",
@@ -197,6 +187,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476143",
+      "title": "Boss Priester b2b Kepler (all night)",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476143"
+    },
     {
       "id": "ra:2476140",
       "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",

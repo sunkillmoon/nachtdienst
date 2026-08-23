@@ -281,6 +281,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490660"
+    },
+    {
+      "id": "ra:2490651",
+      "title": "JACK SHORE - ALL NIGHT - IN THE MIDDLE",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490651"
     }
   ],
   "past": [

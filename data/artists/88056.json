@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2426015",
-      "title": "Hush at the Beach with Kepler, Boss Priester & More",
-      "date": "2026-08-21",
-      "start": "2026-08-21T20:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2426015"
-    },
-    {
-      "id": "ra:2476143",
-      "title": "Boss Priester b2b Kepler (all night)",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476143"
-    },
-    {
       "id": "ra:2466215",
       "title": "TOFFLER presents Boss Priester and friends",
       "date": "2026-08-28",
@@ -74,5 +54,26 @@
       "url": "https://ra.co/events/2501967"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Boss Priester & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
+    },
+    {
+      "id": "ra:2476143",
+      "title": "Boss Priester b2b Kepler (all night)",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476143"
+    }
+  ]
 }

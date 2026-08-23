@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2375299",
-      "title": "Lowlands 2026",
-      "date": "2026-08-21",
-      "start": "2026-08-21T10:00+02:00",
-      "venue": "Lowlands Festival Site",
-      "venue_id": "6646",
-      "area": "All",
-      "url": "https://ra.co/events/2375299"
-    },
-    {
       "id": "ra:2470624",
       "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
       "date": "2026-10-23",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2375299",
+      "title": "Lowlands 2026",
+      "date": "2026-08-21",
+      "start": "2026-08-21T10:00+02:00",
+      "venue": "Lowlands Festival Site",
+      "venue_id": "6646",
+      "area": "All",
+      "url": "https://ra.co/events/2375299"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

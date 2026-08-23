@@ -1,7 +1,8 @@
 {
   "id": "172024",
   "name": "Kray Atief",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508749",
       "title": "murmur; The KrayZone invites GoodMostlyBad",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2508749"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "120104",

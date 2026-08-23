@@ -3,16 +3,6 @@
   "name": "Dark Session",
   "upcoming": [
     {
-      "id": "ra:2437906",
-      "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",
-      "date": "2026-08-22",
-      "start": "2026-08-22T14:00+02:00",
-      "venue": "H7 Warehouse",
-      "venue_id": "66507",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2437906"
-    },
-    {
       "id": "ra:2490634",
       "title": "Dark Session: H7 AFTERPARTY // AMSTERDAM (BOILER ROOM)",
       "date": "2026-08-22",
@@ -21,6 +11,16 @@
       "venue_id": "66507",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490634"
+    },
+    {
+      "id": "ra:2437906",
+      "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2437906"
     },
     {
       "id": "ra:2490622",
@@ -35,6 +35,21 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "166202",
+      "name": "KAKI (GE)",
+      "count": 1
+    },
+    {
+      "id": "166703",
+      "name": "LIEKS",
+      "count": 1
+    },
+    {
+      "id": "129283",
+      "name": "Nyctonian",
+      "count": 1
+    },
     {
       "id": "137079",
       "name": "BLNK",
@@ -53,21 +68,6 @@
     {
       "id": "144671",
       "name": "KRUELTY",
-      "count": 1
-    },
-    {
-      "id": "166202",
-      "name": "KAKI (GE)",
-      "count": 1
-    },
-    {
-      "id": "166703",
-      "name": "LIEKS",
-      "count": 1
-    },
-    {
-      "id": "129283",
-      "name": "Nyctonian",
       "count": 1
     }
   ]

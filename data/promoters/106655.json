@@ -21,18 +21,28 @@
       "venue_id": "15124",
       "area": "Eindhoven",
       "url": "https://ra.co/events/2502544"
+    },
+    {
+      "id": "ra:2502546",
+      "title": "Back To Base Fall Festival",
+      "date": "2026-11-21",
+      "start": "2026-11-21T15:00+01:00",
+      "venue": "TBA - Matilo Park",
+      "venue_id": "298840",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2502546"
     }
   ],
   "past": [],
   "top_artists": [
     {
-      "id": "76574",
-      "name": "Daria Kolosova",
-      "count": 1
-    },
-    {
       "id": "134039",
       "name": "Eva Vrijdag",
+      "count": 2
+    },
+    {
+      "id": "76574",
+      "name": "Daria Kolosova",
       "count": 1
     },
     {
@@ -63,6 +73,16 @@
     {
       "id": "165697",
       "name": "Lisa Korver",
+      "count": 1
+    },
+    {
+      "id": "129734",
+      "name": "Diffrent",
+      "count": 1
+    },
+    {
+      "id": "170185",
+      "name": "S3PPA",
       "count": 1
     }
   ]

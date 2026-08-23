@@ -11,6 +11,36 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477399"
+    },
+    {
+      "id": "ra:2519115",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-03",
+      "start": "2026-09-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519115"
+    },
+    {
+      "id": "ra:2519116",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-10",
+      "start": "2026-09-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519116"
+    },
+    {
+      "id": "ra:2519117",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-17",
+      "start": "2026-09-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519117"
     }
   ],
   "past": [
@@ -79,7 +109,7 @@
     {
       "id": "99004",
       "name": "Marco Ramos",
-      "count": 6
+      "count": 9
     },
     {
       "id": "89568",

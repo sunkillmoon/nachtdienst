@@ -11,6 +11,16 @@
       "venue_id": "299587",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508740"
+    },
+    {
+      "id": "ra:2477799",
+      "title": "SUNANDBASS Recordings Amsterdam",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477799"
     }
   ],
   "past": [],
@@ -18,52 +28,52 @@
     {
       "id": "123708",
       "name": "A.M.C.",
-      "count": 1
+      "count": 2
     },
     {
       "id": "79337",
       "name": "BassLayerz",
-      "count": 1
+      "count": 2
     },
     {
       "id": "148010",
       "name": "Macky Gee",
-      "count": 1
-    },
-    {
-      "id": "12214",
-      "name": "Serum",
-      "count": 1
-    },
-    {
-      "id": "79222",
-      "name": "Voltage",
-      "count": 1
+      "count": 2
     },
     {
       "id": "139270",
       "name": "Basstripper",
-      "count": 1
+      "count": 2
     },
     {
       "id": "62686",
       "name": "BCee",
-      "count": 1
-    },
-    {
-      "id": "79397",
-      "name": "Benny L",
-      "count": 1
+      "count": 2
     },
     {
       "id": "82734",
       "name": "Bryan Gee",
-      "count": 1
+      "count": 2
     },
     {
       "id": "11446",
       "name": "Dillinja",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "79368",
+      "name": "Logan D",
+      "count": 2
+    },
+    {
+      "id": "37253",
+      "name": "A-Sides",
+      "count": 2
+    },
+    {
+      "id": "222",
+      "name": "Katalyst",
+      "count": 2
     }
   ]
 }

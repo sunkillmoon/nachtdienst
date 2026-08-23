@@ -2,7 +2,8 @@
   "id": "28938",
   "name": "Andy Luff",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492294",
       "title": "Andy Luff • Alexia Glensy",
@@ -12,9 +13,7 @@
       "venue_id": "156530",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492294"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",

@@ -2,7 +2,8 @@
   "id": "162895",
   "name": "Mees Mattern",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516457",
       "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
@@ -12,9 +13,7 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516457"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495463",
       "title": "Colorado Charlie with Benny Rodrigues B3B Dennis Quin B3B Michel de Hey & more (SOLD OUT)",

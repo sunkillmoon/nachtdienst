@@ -6,16 +6,6 @@
   "lng": 4.888833,
   "upcoming": [
     {
-      "id": "ra:2514527",
-      "title": "Music Still On",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514527"
-    },
-    {
       "id": "ra:2514530",
       "title": "Senses",
       "date": "2026-08-22",
@@ -197,6 +187,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2514527",
+      "title": "Music Still On",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514527"
+    },
     {
       "id": "ra:2510580",
       "title": "Source x Weekdays invite Milan Josef",

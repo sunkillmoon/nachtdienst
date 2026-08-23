@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2497112",
-      "title": "UNDERCORE - Peak Time - Hard Techno",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497112"
-    },
-    {
       "id": "ra:2438871",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
       "date": "2026-08-22",
@@ -136,6 +126,16 @@
       "url": "https://ra.co/events/2503536"
     },
     {
+      "id": "ra:2519115",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-03",
+      "start": "2026-09-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519115"
+    },
+    {
       "id": "ra:2464345",
       "title": "John Doe CLUB presents: Mosher",
       "date": "2026-09-04",
@@ -176,6 +176,16 @@
       "url": "https://ra.co/events/2503537"
     },
     {
+      "id": "ra:2519116",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-10",
+      "start": "2026-09-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519116"
+    },
+    {
       "id": "ra:2503218",
       "title": "Amsterdam Nights: Hard Techno Rave",
       "date": "2026-09-12",
@@ -204,6 +214,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503539"
+    },
+    {
+      "id": "ra:2519117",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-17",
+      "start": "2026-09-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519117"
     },
     {
       "id": "ra:2482194",
@@ -397,6 +417,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2497112",
+      "title": "UNDERCORE - Peak Time - Hard Techno",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497112"
+    },
     {
       "id": "ra:2477395",
       "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",

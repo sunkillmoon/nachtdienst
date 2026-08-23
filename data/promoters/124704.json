@@ -3,16 +3,6 @@
   "name": "ColoradoCharlieNL",
   "upcoming": [
     {
-      "id": "ra:2486365",
-      "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
-      "date": "2026-08-21",
-      "start": "2026-08-21T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2486365"
-    },
-    {
       "id": "ra:2470472",
       "title": "Colorado Charlie with Jan Blomqvist, Helsloot, Sinca",
       "date": "2026-08-22",
@@ -94,6 +84,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2486365",
+      "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
+      "date": "2026-08-21",
+      "start": "2026-08-21T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2486365"
+    },
     {
       "id": "ra:2469467",
       "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",
@@ -187,21 +187,6 @@
       "count": 2
     },
     {
-      "id": "30429",
-      "name": "Jan Blomqvist",
-      "count": 1
-    },
-    {
-      "id": "115530",
-      "name": "Helsloot",
-      "count": 1
-    },
-    {
-      "id": "105462",
-      "name": "Sinca",
-      "count": 1
-    },
-    {
       "id": "153969",
       "name": "Luke Dean_",
       "count": 1
@@ -224,6 +209,21 @@
     {
       "id": "119843",
       "name": "Mika Heggemann",
+      "count": 1
+    },
+    {
+      "id": "186339",
+      "name": "Olive Anguz",
+      "count": 1
+    },
+    {
+      "id": "17453",
+      "name": "Franky Rizardo",
+      "count": 1
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
       "count": 1
     }
   ]

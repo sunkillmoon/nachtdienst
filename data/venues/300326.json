@@ -1,0 +1,20 @@
+{
+  "id": "300326",
+  "name": "TBA - Rotterdam Noord",
+  "area": "Utrecht",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2515196",
+      "title": "NACHTVORM",
+      "date": "2026-11-21",
+      "start": "2026-11-21T22:00+01:00",
+      "venue": "TBA - Rotterdam Noord",
+      "venue_id": "300326",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2515196"
+    }
+  ],
+  "past": []
+}

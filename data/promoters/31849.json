@@ -3,16 +3,6 @@
   "name": "Club NYX",
   "upcoming": [
     {
-      "id": "ra:2506179",
-      "title": "Vrijdag is NYX",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "Club NYX",
-      "venue_id": "69256",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506179"
-    },
-    {
       "id": "ra:2487494",
       "title": "3xNYX: Burn the House Down",
       "date": "2026-08-22",
@@ -105,6 +95,16 @@
   ],
   "past": [
     {
+      "id": "ra:2506179",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506179"
+    },
+    {
       "id": "ra:2487479",
       "title": "3xNYX: POP-UP hosted by Prince JayJay",
       "date": "2026-08-15",
@@ -177,16 +177,6 @@
       "count": 3
     },
     {
-      "id": "137891",
-      "name": "Emma Champagne Queen",
-      "count": 2
-    },
-    {
-      "id": "185245",
-      "name": "The Groovejet",
-      "count": 2
-    },
-    {
       "id": "186374",
       "name": "Aiscream",
       "count": 2
@@ -199,6 +189,16 @@
     {
       "id": "186385",
       "name": "Jordy Jordos",
+      "count": 2
+    },
+    {
+      "id": "137891",
+      "name": "Emma Champagne Queen",
+      "count": 2
+    },
+    {
+      "id": "185245",
+      "name": "The Groovejet",
       "count": 2
     },
     {

@@ -1,0 +1,20 @@
+{
+  "id": "14873",
+  "name": "Simplon",
+  "area": "All",
+  "lat": 53.22455,
+  "lng": 6.564174,
+  "upcoming": [
+    {
+      "id": "ra:2518978",
+      "title": "History of House Groningen",
+      "date": "2026-10-16",
+      "start": "2026-10-16T21:00+02:00",
+      "venue": "Simplon",
+      "venue_id": "14873",
+      "area": "All",
+      "url": "https://ra.co/events/2518978"
+    }
+  ],
+  "past": []
+}

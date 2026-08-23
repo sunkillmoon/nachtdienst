@@ -1,0 +1,24 @@
+{
+  "id": "130692",
+  "name": "Marian Abraham",
+  "upcoming": [
+    {
+      "id": "ra:2519039",
+      "title": "Another Halloween #4",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519039"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "135651",
+      "name": "TEKNA",
+      "count": 1
+    }
+  ]
+}

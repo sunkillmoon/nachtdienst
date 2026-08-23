@@ -1,7 +1,8 @@
 {
   "id": "131844",
   "name": "Dive Deep",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456910",
       "title": "Madam by Night invites: Dive Deep Melodic Nights Vol. V",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2456910"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "99244",

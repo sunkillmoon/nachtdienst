@@ -2,7 +2,8 @@
   "id": "172543",
   "name": "Abiba Sokoto",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",
@@ -12,9 +13,7 @@
       "venue_id": "6646",
       "area": "All",
       "url": "https://ra.co/events/2375299"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488747",
       "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",

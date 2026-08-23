@@ -6,16 +6,6 @@
   "lng": 4.2893,
   "upcoming": [
     {
-      "id": "ra:2426015",
-      "title": "Hush at the Beach with Kepler, Boss Priester & More",
-      "date": "2026-08-21",
-      "start": "2026-08-21T20:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2426015"
-    },
-    {
       "id": "ra:2436412",
       "title": "Give Soul at the Beach - August",
       "date": "2026-08-23",
@@ -47,6 +37,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2426015",
+      "title": "Hush at the Beach with Kepler, Boss Priester & More",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2426015"
+    },
     {
       "id": "ra:2436229",
       "title": "Rotterdam Rave Beach Sessions with Cloudy & friends",

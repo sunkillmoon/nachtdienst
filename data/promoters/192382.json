@@ -1,7 +1,8 @@
 {
   "id": "192382",
   "name": "Tick Fest ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515601",
       "title": "Tick Fest",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2515601"
     }
   ],
-  "past": [],
   "top_artists": []
 }

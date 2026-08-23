@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2495725",
-      "title": "SEASON OPENING",
-      "date": "2026-08-21",
-      "start": "2026-08-21T22:00+02:00",
-      "venue": "ANTIA",
-      "venue_id": "285993",
-      "area": "All",
-      "url": "https://ra.co/events/2495725"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -65,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495725",
+      "title": "SEASON OPENING",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2495725"
+    },
     {
       "id": "ra:2443220",
       "title": "De Zomervloot - Emvae All Day Long",

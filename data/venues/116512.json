@@ -1,0 +1,20 @@
+{
+  "id": "116512",
+  "name": "De Heuvel Gallery",
+  "area": "All",
+  "lat": 51.559096,
+  "lng": 5.090516,
+  "upcoming": [
+    {
+      "id": "ra:2518976",
+      "title": "History of House Tilburg",
+      "date": "2026-10-02",
+      "start": "2026-10-02T20:00+02:00",
+      "venue": "De Heuvel Gallery",
+      "venue_id": "116512",
+      "area": "All",
+      "url": "https://ra.co/events/2518976"
+    }
+  ],
+  "past": []
+}

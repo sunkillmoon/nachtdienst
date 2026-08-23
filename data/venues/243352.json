@@ -6,16 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2501506",
-      "title": "Solit b2b Nathan Homan",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501506"
-    },
-    {
       "id": "ra:2501507",
       "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",
       "date": "2026-08-22",
@@ -187,6 +177,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501506",
+      "title": "Solit b2b Nathan Homan",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501506"
+    },
     {
       "id": "ra:2501505",
       "title": "Elevate w/ Siimon b2b PVDS, IZLI b2b Lamique and Anini b2b Mees Javois",

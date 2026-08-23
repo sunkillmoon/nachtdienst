@@ -3,16 +3,6 @@
   "name": "Madam Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2456910",
-      "title": "Madam by Night invites: Dive Deep Melodic Nights Vol. V",
-      "date": "2026-08-21",
-      "start": "2026-08-21T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456910"
-    },
-    {
       "id": "ra:2456912",
       "title": "Madam by Night invites: Milan Fernandes b2b Overhoff, Frequency George, LUME",
       "date": "2026-08-22",
@@ -271,9 +261,29 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473510"
+    },
+    {
+      "id": "ra:2475901",
+      "title": "Madam by Night invites: Ginton",
+      "date": "2026-11-21",
+      "start": "2026-11-21T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475901"
     }
   ],
   "past": [
+    {
+      "id": "ra:2456910",
+      "title": "Madam by Night invites: Dive Deep Melodic Nights Vol. V",
+      "date": "2026-08-21",
+      "start": "2026-08-21T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456910"
+    },
     {
       "id": "ra:2456907",
       "title": "Madam by Night invites: Casa Très",

@@ -2,7 +2,18 @@
   "id": "170850",
   "name": "Mia Banks",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2406276",
+      "title": "Mia's HOUSE of DISCO",
+      "date": "2026-11-21",
+      "start": "2026-11-21T20:00+01:00",
+      "venue": "Luxor Live",
+      "venue_id": "13822",
+      "area": "All",
+      "url": "https://ra.co/events/2406276"
+    }
+  ],
   "past": [
     {
       "id": "ra:2492154",

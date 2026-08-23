@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501506",
-      "title": "Solit b2b Nathan Homan",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501506"
-    },
-    {
       "id": "ra:2496555",
       "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
       "date": "2026-09-19",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501506",
+      "title": "Solit b2b Nathan Homan",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501506"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

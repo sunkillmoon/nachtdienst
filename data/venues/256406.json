@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.91,
   "lng": 4.43,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506251",
       "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2506251"
     }
-  ],
-  "past": []
+  ]
 }

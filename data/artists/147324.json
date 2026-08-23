@@ -2,7 +2,8 @@
   "id": "147324",
   "name": "smother",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494102",
       "title": "co-curation by smother: smother, DJ MELL G, tba",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494102"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453528",
       "title": "Planet Angels",

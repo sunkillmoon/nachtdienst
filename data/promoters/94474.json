@@ -3,16 +3,6 @@
   "name": "Garage Noord",
   "upcoming": [
     {
-      "id": "ra:2494102",
-      "title": "co-curation by smother: smother, DJ MELL G, tba",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494102"
-    },
-    {
       "id": "ra:2494104",
       "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",
       "date": "2026-08-22",
@@ -54,6 +44,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2494102",
+      "title": "co-curation by smother: smother, DJ MELL G, tba",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494102"
+    },
     {
       "id": "ra:2494101",
       "title": "DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality",
@@ -157,11 +157,6 @@
   ],
   "top_artists": [
     {
-      "id": "106207",
-      "name": "Sarkawt Hamad",
-      "count": 2
-    },
-    {
       "id": "14996",
       "name": "Amz",
       "count": 2
@@ -177,14 +172,9 @@
       "count": 2
     },
     {
-      "id": "3764",
-      "name": "Luke Hess",
-      "count": 1
-    },
-    {
-      "id": "113051",
-      "name": "Remma",
-      "count": 1
+      "id": "106207",
+      "name": "Sarkawt Hamad",
+      "count": 2
     },
     {
       "id": "86340",
@@ -204,6 +194,16 @@
     {
       "id": "120627",
       "name": "Garnett",
+      "count": 1
+    },
+    {
+      "id": "70865",
+      "name": "Han",
+      "count": 1
+    },
+    {
+      "id": "82892",
+      "name": "Jay Mitta",
       "count": 1
     }
   ]

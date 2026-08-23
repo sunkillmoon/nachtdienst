@@ -324,6 +324,10 @@
     "name": "De Helling"
   },
   {
+    "id": "116512",
+    "name": "De Heuvel Gallery"
+  },
+  {
     "id": "294378",
     "name": "De Kerktuin"
   },
@@ -458,6 +462,10 @@
   {
     "id": "156433",
     "name": "Graanfabriek"
+  },
+  {
+    "id": "83923",
+    "name": "Grand Café Heineken Hoek"
   },
   {
     "id": "66507",
@@ -706,6 +714,10 @@
   {
     "id": "93679",
     "name": "Mediahaven - Minervahaven"
+  },
+  {
+    "id": "258169",
+    "name": "Meet Berlage"
   },
   {
     "id": "2693",
@@ -976,6 +988,10 @@
     "name": "Shunter"
   },
   {
+    "id": "14873",
+    "name": "Simplon"
+  },
+  {
     "id": "255755",
     "name": "SISSI'S Amsterdam"
   },
@@ -1136,6 +1152,14 @@
     "name": "TBA - LBB"
   },
   {
+    "id": "298840",
+    "name": "TBA - Matilo Park"
+  },
+  {
+    "id": "281754",
+    "name": "TBA - Möllerwerf Hengelo"
+  },
+  {
     "id": "299740",
     "name": "TBA - NL"
   },
@@ -1150,6 +1174,10 @@
   {
     "id": "298458",
     "name": "TBA - private location, tba 48h before the event to all ticket holders"
+  },
+  {
+    "id": "300326",
+    "name": "TBA - Rotterdam Noord"
   },
   {
     "id": "300327",
@@ -1190,6 +1218,10 @@
   {
     "id": "164032",
     "name": "Teatro Munganga"
+  },
+  {
+    "id": "300801",
+    "name": "The Bassment"
   },
   {
     "id": "223249",
@@ -1298,6 +1330,10 @@
   {
     "id": "296411",
     "name": "Weerstand Roermond"
+  },
+  {
+    "id": "267871",
+    "name": "Werkspoorkathedraal"
   },
   {
     "id": "222196",

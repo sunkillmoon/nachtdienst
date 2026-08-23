@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506014",
-      "title": "doo-bop, Doktoro, sima k",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2506014"
-    },
-    {
       "id": "ra:2501639",
       "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
       "date": "2026-08-22",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2501639"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2506014",
+      "title": "doo-bop, Doktoro, sima k",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506014"
+    }
+  ]
 }

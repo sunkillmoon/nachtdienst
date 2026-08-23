@@ -2,7 +2,8 @@
   "id": "85044",
   "name": "Doktoro",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506014",
       "title": "doo-bop, Doktoro, sima k",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2506014"
     }
-  ],
-  "past": []
+  ]
 }

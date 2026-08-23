@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2511516",
-      "title": "BRUTUS TAKEOVER AFTERPARTY",
-      "date": "2026-08-21",
-      "start": "2026-08-21T22:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2511516"
-    },
-    {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
       "date": "2026-09-26",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2518339"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2511516",
+      "title": "BRUTUS TAKEOVER AFTERPARTY",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2511516"
+    }
+  ]
 }

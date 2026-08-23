@@ -54,6 +54,16 @@
       "venue_id": "206210",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473393"
+    },
+    {
+      "id": "ra:2359018",
+      "title": "KRAFT Premium Pounding Techno 21st of November 2026",
+      "date": "2026-11-21",
+      "start": "2026-11-21T16:00+01:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2359018"
     }
   ],
   "past": [

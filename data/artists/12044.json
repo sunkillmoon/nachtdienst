@@ -2,7 +2,8 @@
   "id": "12044",
   "name": "Turne",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506179",
       "title": "Vrijdag is NYX",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506179"
     }
-  ],
-  "past": []
+  ]
 }

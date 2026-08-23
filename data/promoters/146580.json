@@ -3,16 +3,6 @@
   "name": "Export",
   "upcoming": [
     {
-      "id": "ra:2506014",
-      "title": "doo-bop, Doktoro, sima k",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2506014"
-    },
-    {
       "id": "ra:2501667",
       "title": "POING FESTIVAL after hours",
       "date": "2026-08-22",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2506014",
+      "title": "doo-bop, Doktoro, sima k",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506014"
+    },
     {
       "id": "ra:2491401",
       "title": "I-RO, Ozzo, ROD",
@@ -107,31 +107,6 @@
   ],
   "top_artists": [
     {
-      "id": "143160",
-      "name": "Alírio",
-      "count": 1
-    },
-    {
-      "id": "40349",
-      "name": "Faustin",
-      "count": 1
-    },
-    {
-      "id": "103438",
-      "name": "kimmah",
-      "count": 1
-    },
-    {
-      "id": "77263",
-      "name": "Nene H",
-      "count": 1
-    },
-    {
-      "id": "112928",
-      "name": "Slimfit",
-      "count": 1
-    },
-    {
       "id": "34874",
       "name": "Ectomorph",
       "count": 1
@@ -154,6 +129,31 @@
     {
       "id": "123497",
       "name": "jannah",
+      "count": 1
+    },
+    {
+      "id": "94318",
+      "name": "Alex Ranzino",
+      "count": 1
+    },
+    {
+      "id": "147969",
+      "name": "Helmond Lang",
+      "count": 1
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 1
+    },
+    {
+      "id": "148266",
+      "name": "Sunnysoposted",
+      "count": 1
+    },
+    {
+      "id": "148687",
+      "name": "36framez",
       "count": 1
     }
   ]

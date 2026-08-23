@@ -6,16 +6,6 @@
   "lng": 4.8425825,
   "upcoming": [
     {
-      "id": "ra:2493384",
-      "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493384"
-    },
-    {
       "id": "ra:2493459",
       "title": "Sissi's Saturday by Naked Records with Dennis Quin & Shanne",
       "date": "2026-08-22",
@@ -127,6 +117,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2493384",
+      "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493384"
+    },
     {
       "id": "ra:2493380",
       "title": "Sissi's x Kurashi: Kurashi 4Y Anniversary block party",

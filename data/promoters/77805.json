@@ -3,16 +3,6 @@
   "name": "BRET",
   "upcoming": [
     {
-      "id": "ra:2516457",
-      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
-      "date": "2026-08-21",
-      "start": "2026-08-21T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516457"
-    },
-    {
       "id": "ra:2501639",
       "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
       "date": "2026-08-22",
@@ -205,6 +195,16 @@
   ],
   "past": [
     {
+      "id": "ra:2516457",
+      "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
+      "date": "2026-08-21",
+      "start": "2026-08-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516457"
+    },
+    {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",
       "date": "2026-08-16",
@@ -352,8 +352,8 @@
       "count": 2
     },
     {
-      "id": "165677",
-      "name": "Gabriel Muñoz",
+      "id": "157228",
+      "name": "Hashashin",
       "count": 1
     }
   ]

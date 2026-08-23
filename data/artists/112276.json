@@ -2,7 +2,8 @@
   "id": "112276",
   "name": "Sem Jacobs",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486365",
       "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2486365"
     }
-  ],
-  "past": []
+  ]
 }

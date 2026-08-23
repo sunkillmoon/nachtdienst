@@ -6,16 +6,6 @@
   "lng": 4.890246,
   "upcoming": [
     {
-      "id": "ra:2517390",
-      "title": "WKND – TECHNO",
-      "date": "2026-08-21",
-      "start": "2026-08-21T20:00+02:00",
-      "venue": "Veronica Schip",
-      "venue_id": "89523",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517390"
-    },
-    {
       "id": "ra:2517391",
       "title": "SPINNING SILVER",
       "date": "2026-08-22",
@@ -87,6 +77,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517390",
+      "title": "WKND – TECHNO",
+      "date": "2026-08-21",
+      "start": "2026-08-21T20:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517390"
+    },
     {
       "id": "ra:2514653",
       "title": "LETS PLAY ON THURSDAY",

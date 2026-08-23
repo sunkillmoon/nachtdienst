@@ -6,16 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2423000",
-      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2423000"
-    },
-    {
       "id": "ra:2495232",
       "title": "Cheeky Monday: Ray Keith",
       "date": "2026-08-24",
@@ -414,9 +404,29 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490660"
+    },
+    {
+      "id": "ra:2490651",
+      "title": "JACK SHORE - ALL NIGHT - IN THE MIDDLE",
+      "date": "2026-11-21",
+      "start": "2026-11-21T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490651"
     }
   ],
   "past": [
+    {
+      "id": "ra:2423000",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2423000"
+    },
     {
       "id": "ra:2492900",
       "title": "Techno Tuesday Amsterdam, Dexon, CHAFA, Alix",

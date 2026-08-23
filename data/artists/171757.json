@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2478412",
-      "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
-      "date": "2026-08-21",
-      "start": "2026-08-21T23:00+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2478412"
-    },
-    {
       "id": "ra:2514783",
       "title": "20kHz SPECTRA x DuysteR",
       "date": "2026-09-04",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2514783"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2478412",
+      "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
+      "date": "2026-08-21",
+      "start": "2026-08-21T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2478412"
+    }
+  ]
 }

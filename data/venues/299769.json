@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 50.85,
   "lng": 5.69,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510532",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
@@ -14,9 +15,7 @@
       "venue_id": "299769",
       "area": "All",
       "url": "https://ra.co/events/2510532"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2510251",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",
