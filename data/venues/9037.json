@@ -6,16 +6,6 @@
   "lng": 4.474325,
   "upcoming": [
     {
-      "id": "ra:2466211",
-      "title": "TOFFLER x Maas Afterparty",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466211"
-    },
-    {
       "id": "ra:2466215",
       "title": "TOFFLER presents Boss Priester and friends",
       "date": "2026-08-28",
@@ -147,6 +137,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466211",
+      "title": "TOFFLER x Maas Afterparty",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466211"
+    },
     {
       "id": "ra:2466207",
       "title": "TOFFLER presents LEYO and friends",

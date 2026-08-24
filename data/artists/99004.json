@@ -42,6 +42,66 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519117"
+    },
+    {
+      "id": "ra:2519119",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-24",
+      "start": "2026-09-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519119"
+    },
+    {
+      "id": "ra:2519120",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-01",
+      "start": "2026-10-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519120"
+    },
+    {
+      "id": "ra:2519121",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-08",
+      "start": "2026-10-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519121"
+    },
+    {
+      "id": "ra:2519122",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-15",
+      "start": "2026-10-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519122"
+    },
+    {
+      "id": "ra:2519124",
+      "title": "Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519124"
+    },
+    {
+      "id": "ra:2519125",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-29",
+      "start": "2026-10-29T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519125"
     }
   ],
   "past": [

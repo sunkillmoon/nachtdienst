@@ -6,16 +6,6 @@
   "lng": 4.888833,
   "upcoming": [
     {
-      "id": "ra:2514530",
-      "title": "Senses",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Supperclub",
-      "venue_id": "2684",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514530"
-    },
-    {
       "id": "ra:2503443",
       "title": "SOURCE",
       "date": "2026-08-27",
@@ -187,6 +177,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2514530",
+      "title": "Senses",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514530"
+    },
     {
       "id": "ra:2514527",
       "title": "Music Still On",

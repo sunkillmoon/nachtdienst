@@ -6,16 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2390196",
-      "title": "komm schon Alter - Das Mini Festival",
-      "date": "2026-08-22",
-      "start": "2026-08-22T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2390196"
-    },
-    {
       "id": "ra:2500221",
       "title": "VYBZ Festival",
       "date": "2026-08-23",
@@ -174,9 +164,29 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2404228"
+    },
+    {
+      "id": "ra:2510454",
+      "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
+      "date": "2026-11-22",
+      "start": "2026-11-22T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510454"
     }
   ],
   "past": [
+    {
+      "id": "ra:2390196",
+      "title": "komm schon Alter - Das Mini Festival",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2390196"
+    },
     {
       "id": "ra:2443517",
       "title": "16 AUG - Thuishaven with Gaskin 5HRS",

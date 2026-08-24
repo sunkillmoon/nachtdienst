@@ -2,7 +2,8 @@
   "id": "97687",
   "name": "DJ Life",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492123",
       "title": "DJ Life • Moxes • lizz.e",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492123"
     }
-  ],
-  "past": []
+  ]
 }

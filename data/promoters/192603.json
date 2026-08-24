@@ -1,7 +1,8 @@
 {
   "id": "192603",
   "name": "Time waves",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518463",
       "title": "side quest",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2518463"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "163595",

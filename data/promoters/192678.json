@@ -1,0 +1,29 @@
+{
+  "id": "192678",
+  "name": "Inner Circle Events",
+  "upcoming": [
+    {
+      "id": "ra:2519169",
+      "title": "The Inner Circle of: Sinister Souls",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:00+01:00",
+      "venue": "Waalhalla",
+      "venue_id": "24919",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2519169"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "128314",
+      "name": "Sinister Souls",
+      "count": 1
+    },
+    {
+      "id": "131421",
+      "name": "Badlokk",
+      "count": 1
+    }
+  ]
+}

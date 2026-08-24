@@ -6,16 +6,6 @@
   "lng": 4.84,
   "upcoming": [
     {
-      "id": "ra:2493235",
-      "title": "UGARYTM IN THE GARDEN",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493235"
-    },
-    {
       "id": "ra:2517808",
       "title": "OBERHAUM x De Fik Garden",
       "date": "2026-08-27",
@@ -97,6 +87,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2493235",
+      "title": "UGARYTM IN THE GARDEN",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493235"
+    },
     {
       "id": "ra:2489049",
       "title": "HYPERWAVES invites Flux Collective",

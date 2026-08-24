@@ -2,7 +2,8 @@
   "id": "95855",
   "name": "Nèna",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512482",
       "title": "afternoon interlude with Nèna",
@@ -12,9 +13,7 @@
       "venue_id": "299770",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512482"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494099",
       "title": "Cousin, baby ganoush b2b Nèna, Sandor",

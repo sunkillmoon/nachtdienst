@@ -1,0 +1,20 @@
+{
+  "id": "300861",
+  "name": "Eivissa Boat",
+  "area": "Nijmegen",
+  "lat": 51.85,
+  "lng": 5.87,
+  "upcoming": [
+    {
+      "id": "ra:2519263",
+      "title": "Housequake 'All Boat Long'",
+      "date": "2026-10-10",
+      "start": "2026-10-10T20:00+02:00",
+      "venue": "Eivissa Boat",
+      "venue_id": "300861",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2519263"
+    }
+  ],
+  "past": []
+}

@@ -2,7 +2,8 @@
   "id": "137491",
   "name": "ZOBAYDA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
@@ -12,9 +13,7 @@
       "venue_id": "294145",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466330"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2459288",
       "title": "Zeedyke Sloterdyke Edition",

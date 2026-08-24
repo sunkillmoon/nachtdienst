@@ -1,7 +1,8 @@
 {
   "id": "166728",
   "name": "Piuma",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507269",
       "title": "Piuma at BAR40 w/​ Helena Renedo, GC (Live), DHN",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2507269"
     }
   ],
-  "past": [],
   "top_artists": []
 }

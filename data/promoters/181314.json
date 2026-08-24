@@ -1,7 +1,8 @@
 {
   "id": "181314",
   "name": "Stupid Crew",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507306",
       "title": "Stupid Session 19 - Thirty Years of Adi-J",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2507306"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "177025",

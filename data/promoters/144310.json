@@ -1,7 +1,8 @@
 {
   "id": "144310",
   "name": "Higher Ground Experience ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503390",
       "title": "Higher Ground Experience",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2503390"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "121702",

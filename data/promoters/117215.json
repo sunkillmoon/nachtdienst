@@ -3,16 +3,6 @@
   "name": "Time is the new space",
   "upcoming": [
     {
-      "id": "ra:2516523",
-      "title": "OPEN DECKS",
-      "date": "2026-08-22",
-      "start": "2026-08-22T21:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2516523"
-    },
-    {
       "id": "ra:2506056",
       "title": "Het Vreemd (Album Release)",
       "date": "2026-08-29",
@@ -84,6 +74,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2516523",
+      "title": "OPEN DECKS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516523"
+    },
     {
       "id": "ra:2506251",
       "title": "Brutus TAKEOVER – Forever Transformer X Time is the new space X HIDDEN BEHIND",

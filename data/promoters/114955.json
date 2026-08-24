@@ -1,7 +1,8 @@
 {
   "id": "114955",
   "name": "POING CLUB",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2466330"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "117173",

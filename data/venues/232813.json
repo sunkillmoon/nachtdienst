@@ -6,16 +6,6 @@
   "lng": 4.843713,
   "upcoming": [
     {
-      "id": "ra:2498106",
-      "title": "ARMAT X REFORMA",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498106"
-    },
-    {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
       "date": "2026-08-23",
@@ -137,6 +127,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2498106",
+      "title": "ARMAT X REFORMA",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498106"
+    },
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",

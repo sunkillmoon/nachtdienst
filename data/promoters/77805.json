@@ -3,16 +3,6 @@
   "name": "BRET",
   "upcoming": [
     {
-      "id": "ra:2501639",
-      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
-      "date": "2026-08-22",
-      "start": "2026-08-22T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501639"
-    },
-    {
       "id": "ra:2512446",
       "title": "AURA - Hashashin ALL DAY LONG",
       "date": "2026-08-23",
@@ -195,6 +185,16 @@
   ],
   "past": [
     {
+      "id": "ra:2501639",
+      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501639"
+    },
+    {
       "id": "ra:2516457",
       "title": "Gabriel Muñoz b2b Lasse Top b2b Mees Mattern - All Night Long",
       "date": "2026-08-21",
@@ -352,8 +352,8 @@
       "count": 2
     },
     {
-      "id": "157228",
-      "name": "Hashashin",
+      "id": "535",
+      "name": "Eddie Richards",
       "count": 1
     }
   ]

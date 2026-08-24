@@ -1,7 +1,8 @@
 {
   "id": "191983",
   "name": "Hektek",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510586",
       "title": "MAASTEK X LBB",
@@ -11,9 +12,7 @@
       "venue_id": "299819",
       "area": "All",
       "url": "https://ra.co/events/2510586"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2510532",
       "title": "MAASTEK - OFFICIAL INKOM AFTERPARTIES",

@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507306",
       "title": "Stupid Session 19 - Thirty Years of Adi-J",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507306"
     }
-  ],
-  "past": []
+  ]
 }

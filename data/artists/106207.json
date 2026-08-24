@@ -2,7 +2,8 @@
   "id": "106207",
   "name": "Sarkawt Hamad",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494104",
       "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",
@@ -12,9 +13,7 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494104"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2464912",
       "title": "Dekmantel At Night - Sunday",

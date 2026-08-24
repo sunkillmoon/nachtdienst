@@ -2,7 +2,8 @@
   "id": "118488",
   "name": "Izak Jules",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476144",
       "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
@@ -12,9 +13,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476144"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2456711",
       "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",

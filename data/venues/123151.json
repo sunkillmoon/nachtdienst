@@ -6,16 +6,6 @@
   "lng": 4.903119,
   "upcoming": [
     {
-      "id": "ra:2509416",
-      "title": "SOBER in the garden",
-      "date": "2026-08-22",
-      "start": "2026-08-22T13:00+02:00",
-      "venue": "Paradiso Noord / Tolhuistuin",
-      "venue_id": "123151",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2509416"
-    },
-    {
       "id": "ra:2504306",
       "title": "OBERHAUM: Garden Radio",
       "date": "2026-08-23",
@@ -27,6 +17,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2509416",
+      "title": "SOBER in the garden",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Paradiso Noord / Tolhuistuin",
+      "venue_id": "123151",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509416"
+    },
     {
       "id": "ra:2479505",
       "title": "HTRK",

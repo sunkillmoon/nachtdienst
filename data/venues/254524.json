@@ -6,6 +6,16 @@
   "lng": 4.89,
   "upcoming": [
     {
+      "id": "ra:2519354",
+      "title": "TUKTUK RADIO x Boogie House: TAKE-OVER OF Loop51",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519354"
+    },
+    {
       "id": "ra:2383070",
       "title": "Boogie House ADE 2026 SHOWCASE",
       "date": "2026-10-24",

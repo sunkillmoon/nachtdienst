@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373015",
-      "title": "Lost Frequencies - Open Air (3 Hour Set)",
-      "date": "2026-08-22",
-      "start": "2026-08-22T14:00+02:00",
-      "venue": "Evoluon",
-      "venue_id": "82319",
-      "area": "Eindhoven",
-      "url": "https://ra.co/events/2373015"
-    },
-    {
       "id": "ra:2516944",
       "title": "ZAZU Beach Closing",
       "date": "2026-08-29",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2473491"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2373015",
+      "title": "Lost Frequencies - Open Air (3 Hour Set)",
+      "date": "2026-08-22",
+      "start": "2026-08-22T14:00+02:00",
+      "venue": "Evoluon",
+      "venue_id": "82319",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2373015"
+    }
+  ]
 }

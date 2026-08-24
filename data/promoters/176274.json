@@ -1,7 +1,8 @@
 {
   "id": "176274",
   "name": "Het Concept",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2467051",
       "title": "Het Concept // House & UK Garage",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2467051"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "173826",

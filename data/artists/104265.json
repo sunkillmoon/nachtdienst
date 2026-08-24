@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466330",
-      "title": "POING FESTIVAL",
-      "date": "2026-08-22",
-      "start": "2026-08-22T12:00+02:00",
-      "venue": "Shunter",
-      "venue_id": "294145",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466330"
-    },
-    {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
       "date": "2026-09-04",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466330",
+      "title": "POING FESTIVAL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466330"
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

@@ -2,7 +2,8 @@
   "id": "24079",
   "name": "Tijana T",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2486464",
       "title": "RAUM invites PAX-ROMANA 12HRS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2486464"
     }
-  ],
-  "past": []
+  ]
 }

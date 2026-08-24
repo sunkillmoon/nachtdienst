@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466211",
-      "title": "TOFFLER x Maas Afterparty",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466211"
-    },
-    {
       "id": "ra:2481531",
       "title": "UNMUTE X Rinse FM X Back:beat",
       "date": "2026-09-06",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466211",
+      "title": "TOFFLER x Maas Afterparty",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466211"
+    },
     {
       "id": "ra:2507880",
       "title": "JÄMO + WAXX OFF + La Lani [S44 X CRITICAL FEELING TAKEOVER]",

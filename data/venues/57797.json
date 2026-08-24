@@ -1,0 +1,20 @@
+{
+  "id": "57797",
+  "name": "Acu",
+  "area": "Utrecht",
+  "lat": 52.095041,
+  "lng": 5.121962,
+  "upcoming": [
+    {
+      "id": "ra:2519203",
+      "title": "Bankra Bike Sounds",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Acu",
+      "venue_id": "57797",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519203"
+    }
+  ],
+  "past": []
+}

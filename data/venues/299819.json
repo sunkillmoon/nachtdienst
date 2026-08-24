@@ -4,7 +4,8 @@
   "area": "All",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510586",
       "title": "MAASTEK X LBB",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2510586"
     }
-  ],
-  "past": []
+  ]
 }

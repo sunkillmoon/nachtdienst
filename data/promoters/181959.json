@@ -1,7 +1,8 @@
 {
   "id": "181959",
   "name": "Frunz",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498106",
       "title": "ARMAT X REFORMA",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2498106"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "145755",

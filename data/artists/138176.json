@@ -2,7 +2,8 @@
   "id": "138176",
   "name": "Julien Fuentes",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476144",
       "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476144"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "192401",
   "name": "Hunkering B.V.",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515780",
       "title": "Hunkering Indian Summer",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2515780"
     }
   ],
-  "past": [],
   "top_artists": []
 }

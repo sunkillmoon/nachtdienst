@@ -21,6 +21,46 @@
       "venue_id": "300776",
       "area": "All",
       "url": "https://ra.co/events/2518710"
+    },
+    {
+      "id": "ra:2519306",
+      "title": "ADE x Showcase Kokolores",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519306"
+    },
+    {
+      "id": "ra:2519315",
+      "title": "ADE x HouseU Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519315"
+    },
+    {
+      "id": "ra:2519312",
+      "title": "ADE x STARGUARDZ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519312"
+    },
+    {
+      "id": "ra:2519308",
+      "title": "ADE x Only 4DJS",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519308"
     }
   ],
   "past": [
@@ -35,5 +75,56 @@
       "url": "https://ra.co/events/2511853"
     }
   ],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "51231",
+      "name": "Black Legend",
+      "count": 1
+    },
+    {
+      "id": "4193",
+      "name": "Charlie Brown",
+      "count": 1
+    },
+    {
+      "id": "104658",
+      "name": "Claudius",
+      "count": 1
+    },
+    {
+      "id": "140301",
+      "name": "Dirk Schot",
+      "count": 1
+    },
+    {
+      "id": "106108",
+      "name": "heSAWyou",
+      "count": 1
+    },
+    {
+      "id": "154218",
+      "name": "Maex",
+      "count": 1
+    },
+    {
+      "id": "16379",
+      "name": "Angelo Ferreri",
+      "count": 1
+    },
+    {
+      "id": "54569",
+      "name": "Mattei & Omich",
+      "count": 1
+    },
+    {
+      "id": "66206",
+      "name": "ROOG",
+      "count": 1
+    },
+    {
+      "id": "17451",
+      "name": "Erick E",
+      "count": 1
+    }
+  ]
 }

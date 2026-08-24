@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2503117",
-      "title": "Valtifest",
-      "date": "2026-08-22",
-      "start": "2026-08-22T13:00+02:00",
-      "venue": "Kaap Amsterdam",
-      "venue_id": "222814",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503117"
+      "id": "ra:2324563",
+      "title": "Outdoor Stereo 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Julianapark Hoorn",
+      "venue_id": "33038",
+      "area": "All",
+      "url": "https://ra.co/events/2324563"
     },
     {
       "id": "ra:2517607",
@@ -25,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2503117",
+      "title": "Valtifest",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503117"
+    },
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",

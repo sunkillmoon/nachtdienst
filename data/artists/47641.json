@@ -1,0 +1,28 @@
+{
+  "id": "47641",
+  "name": "Hardsoul",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2519301",
+      "title": "30PM.CLUB Hilversum",
+      "date": "2026-09-18",
+      "start": "2026-09-18T19:00+02:00",
+      "venue": "Club Rex",
+      "venue_id": "24882",
+      "area": "All",
+      "url": "https://ra.co/events/2519301"
+    },
+    {
+      "id": "ra:2519324",
+      "title": "ROOG - ALL NIGHT LONG",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00+01:00",
+      "venue": "Poppodium Volt",
+      "venue_id": "15801",
+      "area": "All",
+      "url": "https://ra.co/events/2519324"
+    }
+  ],
+  "past": []
+}

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466330",
-      "title": "POING FESTIVAL",
-      "date": "2026-08-22",
-      "start": "2026-08-22T12:00+02:00",
-      "venue": "Shunter",
-      "venue_id": "294145",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466330"
-    },
-    {
       "id": "ra:2502651",
       "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
       "date": "2026-09-05",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466330",
+      "title": "POING FESTIVAL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T12:00+02:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466330"
+    },
     {
       "id": "ra:2494096",
       "title": "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire",

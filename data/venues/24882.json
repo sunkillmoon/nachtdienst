@@ -1,0 +1,20 @@
+{
+  "id": "24882",
+  "name": "Club Rex",
+  "area": "All",
+  "lat": 52.225677,
+  "lng": 5.178045,
+  "upcoming": [
+    {
+      "id": "ra:2519301",
+      "title": "30PM.CLUB Hilversum",
+      "date": "2026-09-18",
+      "start": "2026-09-18T19:00+02:00",
+      "venue": "Club Rex",
+      "venue_id": "24882",
+      "area": "All",
+      "url": "https://ra.co/events/2519301"
+    }
+  ],
+  "past": []
+}

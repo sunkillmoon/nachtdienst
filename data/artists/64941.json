@@ -2,7 +2,8 @@
   "id": "64941",
   "name": "The Ghost",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476144",
       "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
@@ -12,9 +13,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476144"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2381526",
       "title": "The Ghost x BRET",

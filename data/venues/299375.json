@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.37,
   "lng": 4.9,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514478",
       "title": "House of Noa House Party",
@@ -14,9 +15,7 @@
       "venue_id": "299375",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514478"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2514475",
       "title": "House of Noa House Party",

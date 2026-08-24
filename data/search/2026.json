@@ -127,7 +127,7 @@
     "venue_id": "33038",
     "area": "All",
     "ra_url": "https://ra.co/events/2324563",
-    "terms": "outdoor stereo 2026 julianapark hoorn all housequake roog erick e"
+    "terms": "outdoor stereo 2026 julianapark hoorn all housequake roog erick e sunnery james & ryan marciano gregor salto aat (nl) dennis quin joey daniel rooléh major conspiracy the darkraver korsakoff da mouth of madness uzi (soulmeka) vince ruthless paul elstak stanley tomma leroy rey menace pascal morais"
   },
   {
     "id": "ra:2325394",
@@ -11347,7 +11347,7 @@
     "venue_id": "269324",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2498366",
-    "terms": "east techno collective - halloween warehouse de fik garden amsterdam east collective"
+    "terms": "east techno collective - halloween warehouse de fik garden amsterdam jayzo east collective"
   },
   {
     "id": "ra:2498430",
@@ -12847,7 +12847,7 @@
     "venue_id": "199902",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2504882",
-    "terms": "break protocol #2 toekomstmuziek amsterdam btwn ntwrx low-d daniel englisch let’s break protocol"
+    "terms": "break protocol #2 toekomstmuziek amsterdam btwn ntwrx low-d maus daniel englisch let’s break protocol"
   },
   {
     "id": "ra:2504901",
@@ -14220,6 +14220,16 @@
     "terms": "audioholics ade pacific amsterdam amsterdam mariano mellino amsterdam dance event watt events"
   },
   {
+    "id": "ra:2510454",
+    "date": "2026-11-22",
+    "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
+    "venue": "Thuishaven",
+    "venue_id": "109027",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2510454",
+    "terms": "thuishaven with x club. / dart / newtone / freddi thuishaven amsterdam x club. dart newtone freddi sophia violet schwesta p olivia lensen s3ppa thuishaven"
+  },
+  {
     "id": "ra:2510482",
     "date": "2026-09-05",
     "title": "Black Josh & Lee Scott — Live In-Store",
@@ -15157,7 +15167,7 @@
     "venue_id": "1729",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2514292",
-    "terms": "jøase x boogie house: ade closing ceremony panama amsterdam jøase boogie house"
+    "terms": "jøase x boogie house: ade closing ceremony panama amsterdam jøase kirilski heritage listed boogie house"
   },
   {
     "id": "ra:2514393",
@@ -17238,5 +17248,235 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2519117",
     "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519119",
+    "date": "2026-09-24",
+    "title": "Amsterdam Techno Sessions",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519119",
+    "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519120",
+    "date": "2026-10-01",
+    "title": "Amsterdam Techno Sessions",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519120",
+    "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519121",
+    "date": "2026-10-08",
+    "title": "Amsterdam Techno Sessions",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519121",
+    "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519122",
+    "date": "2026-10-15",
+    "title": "Amsterdam Techno Sessions",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519122",
+    "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519124",
+    "date": "2026-10-22",
+    "title": "Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519124",
+    "terms": "amsterdam techno sessions x paradox music (fr) ade showcase john doe amsterdam a.l.a.e chich dj dextro electric rescue industrialyzer marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519125",
+    "date": "2026-10-29",
+    "title": "Amsterdam Techno Sessions",
+    "venue": "John Doe",
+    "venue_id": "109140",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519125",
+    "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
+  },
+  {
+    "id": "ra:2519169",
+    "date": "2026-11-14",
+    "title": "The Inner Circle of: Sinister Souls",
+    "venue": "Waalhalla",
+    "venue_id": "24919",
+    "area": "Nijmegen",
+    "ra_url": "https://ra.co/events/2519169",
+    "terms": "the inner circle of: sinister souls waalhalla nijmegen sinister souls badlokk inner circle events"
+  },
+  {
+    "id": "ra:2519203",
+    "date": "2026-08-29",
+    "title": "Bankra Bike Sounds",
+    "venue": "Acu",
+    "venue_id": "57797",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2519203",
+    "terms": "bankra bike sounds acu utrecht"
+  },
+  {
+    "id": "ra:2519249",
+    "date": "2026-10-24",
+    "title": "Techno Therapy x Herbivox: ADE Saturday",
+    "venue": "Waterhouse Studios",
+    "venue_id": "274196",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519249",
+    "terms": "techno therapy x herbivox: ade saturday waterhouse studios amsterdam herbivox"
+  },
+  {
+    "id": "ra:2519256",
+    "date": "2026-09-13",
+    "title": "Moya: The Beach Edition",
+    "venue": "Millers Beach",
+    "venue_id": "300860",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2519256",
+    "terms": "moya: the beach edition millers beach the hague housequake roog erick e"
+  },
+  {
+    "id": "ra:2519258",
+    "date": "2026-09-25",
+    "title": "Housequake & Friends",
+    "venue": "Podium Victorie",
+    "venue_id": "5543",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519258",
+    "terms": "housequake & friends podium victorie all housequake roog erick e divine kaos kim kaos divine"
+  },
+  {
+    "id": "ra:2519263",
+    "date": "2026-10-10",
+    "title": "Housequake 'All Boat Long'",
+    "venue": "Eivissa Boat",
+    "venue_id": "300861",
+    "area": "Nijmegen",
+    "ra_url": "https://ra.co/events/2519263",
+    "terms": "housequake 'all boat long' eivissa boat nijmegen housequake roog erick e"
+  },
+  {
+    "id": "ra:2519268",
+    "date": "2026-08-29",
+    "title": "MUST welcomes Housequake",
+    "venue": "Grand Hotel Amrâth Kurhaus",
+    "venue_id": "300865",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2519268",
+    "terms": "must welcomes housequake grand hotel amrâth kurhaus the hague housequake roog erick e capron"
+  },
+  {
+    "id": "ra:2519269",
+    "date": "2026-09-19",
+    "title": "Subs&Dubs X Carmela Collective presents Elijah Minnelli live",
+    "venue": "Filth",
+    "venue_id": "281424",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519269",
+    "terms": "subs&dubs x carmela collective presents elijah minnelli live filth amsterdam elijah minnelli delfuturo kray atief ukab radio hinter"
+  },
+  {
+    "id": "ra:2519271",
+    "date": "2026-11-07",
+    "title": "History of House Breda",
+    "venue": "Mezz",
+    "venue_id": "7405",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519271",
+    "terms": "history of house breda mezz all housequake roog erick e funkerman"
+  },
+  {
+    "id": "ra:2519301",
+    "date": "2026-09-18",
+    "title": "30PM.CLUB Hilversum",
+    "venue": "Club Rex",
+    "venue_id": "24882",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519301",
+    "terms": "30pm.club hilversum club rex all roog hardsoul housequake"
+  },
+  {
+    "id": "ra:2519306",
+    "date": "2026-10-21",
+    "title": "ADE x Showcase Kokolores",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519306",
+    "terms": "ade x showcase kokolores basement-amsterdam all black legend charlie brown claudius dirk schot hesawyou maex basement amsterdam"
+  },
+  {
+    "id": "ra:2519308",
+    "date": "2026-10-25",
+    "title": "ADE x Only 4DJS",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519308",
+    "terms": "ade x only 4djs basement-amsterdam all richard earnshaw steve taylor basement amsterdam"
+  },
+  {
+    "id": "ra:2519310",
+    "date": "2026-09-26",
+    "title": "The Reboot",
+    "venue": "Bij Broere",
+    "venue_id": "300873",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519310",
+    "terms": "the reboot bij broere all roog"
+  },
+  {
+    "id": "ra:2519312",
+    "date": "2026-10-24",
+    "title": "ADE x STARGUARDZ",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519312",
+    "terms": "ade x starguardz basement-amsterdam all erick e basement amsterdam"
+  },
+  {
+    "id": "ra:2519315",
+    "date": "2026-10-23",
+    "title": "ADE x HouseU Amsterdam",
+    "venue": "Basement-Amsterdam",
+    "venue_id": "300776",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519315",
+    "terms": "ade x houseu amsterdam basement-amsterdam all angelo ferreri mattei & omich roog basement amsterdam"
+  },
+  {
+    "id": "ra:2519324",
+    "date": "2026-10-30",
+    "title": "ROOG - ALL NIGHT LONG",
+    "venue": "Poppodium Volt",
+    "venue_id": "15801",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519324",
+    "terms": "roog - all night long poppodium volt all roog hardsoul"
+  },
+  {
+    "id": "ra:2519354",
+    "date": "2026-09-04",
+    "title": "TUKTUK RADIO x Boogie House: TAKE-OVER OF Loop51",
+    "venue": "Loop51",
+    "venue_id": "254524",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519354",
+    "terms": "tuktuk radio x boogie house: take-over of loop51 loop51 amsterdam kirilski boogie house"
   }
 ]

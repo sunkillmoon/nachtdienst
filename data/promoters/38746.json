@@ -26,8 +26,8 @@
   "past": [],
   "top_artists": [
     {
-      "id": "55005",
-      "name": "Karim Soliman",
+      "id": "6454",
+      "name": "DAF",
       "count": 2
     },
     {
@@ -36,24 +36,14 @@
       "count": 2
     },
     {
+      "id": "55005",
+      "name": "Karim Soliman",
+      "count": 2
+    },
+    {
       "id": "146113",
       "name": "Stefan Meser",
       "count": 2
-    },
-    {
-      "id": "6454",
-      "name": "DAF",
-      "count": 2
-    },
-    {
-      "id": "163734",
-      "name": "Nigel Hey",
-      "count": 1
-    },
-    {
-      "id": "102981",
-      "name": "Tommy Phillips",
-      "count": 1
     },
     {
       "id": "110515",
@@ -73,6 +63,16 @@
     {
       "id": "151452",
       "name": "KELLAR",
+      "count": 1
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "137079",
+      "name": "BLNK",
       "count": 1
     }
   ]

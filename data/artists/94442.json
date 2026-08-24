@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2498106",
-      "title": "ARMAT X REFORMA",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498106"
-    },
-    {
       "id": "ra:2487497",
       "title": "3xNYX: In the Mix",
       "date": "2026-08-29",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2498106",
+      "title": "ARMAT X REFORMA",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498106"
+    },
     {
       "id": "ra:2433222",
       "title": "RADION invites GEGEN",

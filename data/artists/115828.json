@@ -2,7 +2,8 @@
   "id": "115828",
   "name": "Rob Manga",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506770",
       "title": "A Funky Wicked Jazz Fest 2026",
@@ -12,9 +13,7 @@
       "venue_id": "158843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506770"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2489606",
       "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",

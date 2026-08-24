@@ -1,7 +1,8 @@
 {
   "id": "73506",
   "name": "Chasing the Hihat Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2390196",
       "title": "komm schon Alter - Das Mini Festival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2390196"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "95575",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506770",
-      "title": "A Funky Wicked Jazz Fest 2026",
-      "date": "2026-08-22",
-      "start": "2026-08-22T13:00+02:00",
-      "venue": "Noorderlicht Café",
-      "venue_id": "158843",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506770"
-    },
-    {
       "id": "ra:2514579",
       "title": "20 years of Lucas Benjamin & Nobunaga",
       "date": "2026-08-27",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2514579"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2506770",
+      "title": "A Funky Wicked Jazz Fest 2026",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506770"
+    }
+  ]
 }

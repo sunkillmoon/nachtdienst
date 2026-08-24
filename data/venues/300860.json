@@ -1,0 +1,20 @@
+{
+  "id": "300860",
+  "name": "Millers Beach",
+  "area": "The Hague",
+  "lat": -33.71,
+  "lng": 18.44,
+  "upcoming": [
+    {
+      "id": "ra:2519256",
+      "title": "Moya: The Beach Edition",
+      "date": "2026-09-13",
+      "start": "2026-09-13T18:00+02:00",
+      "venue": "Millers Beach",
+      "venue_id": "300860",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519256"
+    }
+  ],
+  "past": []
+}

@@ -6,16 +6,6 @@
   "lng": 4.890246,
   "upcoming": [
     {
-      "id": "ra:2517391",
-      "title": "SPINNING SILVER",
-      "date": "2026-08-22",
-      "start": "2026-08-22T20:00+02:00",
-      "venue": "Veronica Schip",
-      "venue_id": "89523",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517391"
-    },
-    {
       "id": "ra:2510346",
       "title": "Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper",
       "date": "2026-09-05",
@@ -77,6 +67,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517391",
+      "title": "SPINNING SILVER",
+      "date": "2026-08-22",
+      "start": "2026-08-22T20:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517391"
+    },
     {
       "id": "ra:2517390",
       "title": "WKND – TECHNO",

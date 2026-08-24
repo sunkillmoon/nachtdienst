@@ -6,16 +6,6 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2501507",
-      "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501507"
-    },
-    {
       "id": "ra:2422949",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / ENVISION / INSKYI / VANITY FAIR",
       "date": "2026-08-26",
@@ -177,6 +167,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501507",
+      "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501507"
+    },
     {
       "id": "ra:2501506",
       "title": "Solit b2b Nathan Homan",

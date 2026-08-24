@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.93,
   "lng": 4.47,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518463",
       "title": "side quest",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2518463"
     }
-  ],
-  "past": []
+  ]
 }

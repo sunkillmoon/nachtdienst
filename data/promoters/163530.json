@@ -1,7 +1,8 @@
 {
   "id": "163530",
   "name": "Labyrinth Belgium",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2373015",
       "title": "Lost Frequencies - Open Air (3 Hour Set)",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2373015"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "182179",

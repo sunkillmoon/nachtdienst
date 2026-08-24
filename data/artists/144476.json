@@ -2,7 +2,8 @@
   "id": "144476",
   "name": "LUME",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2456912",
       "title": "Madam by Night invites: Milan Fernandes b2b Overhoff, Frequency George, LUME",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456912"
     }
-  ],
-  "past": []
+  ]
 }

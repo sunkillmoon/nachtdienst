@@ -11,6 +11,16 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498340"
+    },
+    {
+      "id": "ra:2519249",
+      "title": "Techno Therapy x Herbivox: ADE Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519249"
     }
   ],
   "past": [],

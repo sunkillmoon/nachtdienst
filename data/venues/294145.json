@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466330",
       "title": "POING FESTIVAL",
@@ -14,9 +15,7 @@
       "venue_id": "294145",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466330"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478274",
       "title": "Weekend002",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476144",
-      "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476144"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2481524"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2476144",
+      "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476144"
+    }
+  ]
 }

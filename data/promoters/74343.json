@@ -3,16 +3,6 @@
   "name": "Paradiso Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2514604",
-      "title": "SOBER in the Garden",
-      "date": "2026-08-22",
-      "start": "2026-08-22T13:00+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514604"
-    },
-    {
       "id": "ra:2514566",
       "title": "Work It, Whack It",
       "date": "2026-08-26",
@@ -194,6 +184,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2514604",
+      "title": "SOBER in the Garden",
+      "date": "2026-08-22",
+      "start": "2026-08-22T13:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514604"
+    },
     {
       "id": "ra:2479505",
       "title": "HTRK",

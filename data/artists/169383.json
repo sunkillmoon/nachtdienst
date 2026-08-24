@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2490674",
+      "title": "Vault Sessions & Friends ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490674"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2509416",
       "title": "SOBER in the garden",
       "date": "2026-08-22",
@@ -23,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514604"
     },
-    {
-      "id": "ra:2490674",
-      "title": "Vault Sessions & Friends ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T12:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490674"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2491852",
       "title": "Tale of Bus afterhours w/ Kuba '97, Idilay & Daan Donk",

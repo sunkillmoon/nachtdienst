@@ -1,7 +1,8 @@
 {
   "id": "182087",
   "name": "ANTIA",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506889",
       "title": "CLUB NIGHT",
@@ -11,9 +12,7 @@
       "venue_id": "285993",
       "area": "All",
       "url": "https://ra.co/events/2506889"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495725",
       "title": "SEASON OPENING",

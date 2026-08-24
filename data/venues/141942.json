@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.357454,
   "lng": 4.899154,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518493",
       "title": "Huis van Iemand Anders - FREE ENTRY",
@@ -14,9 +15,7 @@
       "venue_id": "141942",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518493"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2516571",
       "title": "Wherever AMSTERDAM: Andrea Lombardo, DJanu, JP Hernandez, Muhab, Mr.Miyagi, Olito, Rivaud",

@@ -2,7 +2,8 @@
   "id": "164355",
   "name": "Kartwheel",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2390196",
       "title": "komm schon Alter - Das Mini Festival",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2390196"
     }
-  ],
-  "past": []
+  ]
 }

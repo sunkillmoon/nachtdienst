@@ -3,15 +3,17 @@
   "name": "Dark Session",
   "upcoming": [
     {
-      "id": "ra:2490634",
-      "title": "Dark Session: H7 AFTERPARTY // AMSTERDAM (BOILER ROOM)",
-      "date": "2026-08-22",
-      "start": "2026-08-23T00:00+02:00",
-      "venue": "H7 Warehouse",
-      "venue_id": "66507",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490634"
-    },
+      "id": "ra:2490622",
+      "title": "AFTER DARK // ROTTERDAM",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490622"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2437906",
       "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",
@@ -23,17 +25,16 @@
       "url": "https://ra.co/events/2437906"
     },
     {
-      "id": "ra:2490622",
-      "title": "AFTER DARK // ROTTERDAM",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Now&Wow",
-      "venue_id": "25197",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490622"
+      "id": "ra:2490634",
+      "title": "Dark Session: H7 AFTERPARTY // AMSTERDAM (BOILER ROOM)",
+      "date": "2026-08-22",
+      "start": "2026-08-23T00:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490634"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "166202",

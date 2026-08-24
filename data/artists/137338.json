@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501639",
-      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
-      "date": "2026-08-22",
-      "start": "2026-08-22T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501639"
-    },
-    {
       "id": "ra:2494370",
       "title": "The sound of Belgium",
       "date": "2026-10-23",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2494430"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2501639",
+      "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501639"
+    }
+  ]
 }

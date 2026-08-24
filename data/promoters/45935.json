@@ -111,6 +111,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2441295"
+    },
+    {
+      "id": "ra:2510454",
+      "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
+      "date": "2026-11-22",
+      "start": "2026-11-22T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510454"
     }
   ],
   "past": [
@@ -217,6 +227,11 @@
       "count": 3
     },
     {
+      "id": "129183",
+      "name": "Schwesta P",
+      "count": 3
+    },
+    {
       "id": "110515",
       "name": "AAT (NL)",
       "count": 2
@@ -232,28 +247,23 @@
       "count": 2
     },
     {
+      "id": "138418",
+      "name": "Sophia Violet",
+      "count": 2
+    },
+    {
+      "id": "159427",
+      "name": "OLIVIA LENSEN",
+      "count": 2
+    },
+    {
       "id": "101454",
       "name": "Bella Claxton",
       "count": 2
     },
     {
-      "id": "102180",
-      "name": "Papa Nugs",
-      "count": 2
-    },
-    {
-      "id": "179646",
-      "name": "LYLO (NL)",
-      "count": 2
-    },
-    {
-      "id": "42186",
-      "name": "Philou Louzolo",
-      "count": 2
-    },
-    {
-      "id": "129183",
-      "name": "Schwesta P",
+      "id": "134978",
+      "name": "NewTone",
       "count": 2
     }
   ]

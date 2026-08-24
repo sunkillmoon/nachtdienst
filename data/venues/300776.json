@@ -24,6 +24,46 @@
       "venue_id": "300776",
       "area": "All",
       "url": "https://ra.co/events/2518710"
+    },
+    {
+      "id": "ra:2519306",
+      "title": "ADE x Showcase Kokolores",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519306"
+    },
+    {
+      "id": "ra:2519315",
+      "title": "ADE x HouseU Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519315"
+    },
+    {
+      "id": "ra:2519312",
+      "title": "ADE x STARGUARDZ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519312"
+    },
+    {
+      "id": "ra:2519308",
+      "title": "ADE x Only 4DJS",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519308"
     }
   ],
   "past": []

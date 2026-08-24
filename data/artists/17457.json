@@ -12,6 +12,16 @@
       "venue_id": "2081",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2519271",
+      "title": "History of House Breda",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2519271"
     }
   ],
   "past": []

@@ -6,16 +6,6 @@
   "lng": 4.850118,
   "upcoming": [
     {
-      "id": "ra:2517517",
-      "title": "YOUNG BOY DANCING GROUP",
-      "date": "2026-08-22",
-      "start": "2026-08-22T20:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517517"
-    },
-    {
       "id": "ra:2491420",
       "title": "New Era ISO session 2",
       "date": "2026-08-29",
@@ -47,6 +37,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517517",
+      "title": "YOUNG BOY DANCING GROUP",
+      "date": "2026-08-22",
+      "start": "2026-08-22T20:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517517"
+    },
     {
       "id": "ra:2464904",
       "title": "Dekmantel At Night - Sunday",

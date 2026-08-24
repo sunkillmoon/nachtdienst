@@ -6,16 +6,6 @@
   "lng": 5.114475,
   "upcoming": [
     {
-      "id": "ra:2488650",
-      "title": "Musical Rave",
-      "date": "2026-08-22",
-      "start": "2026-08-22T22:30+02:00",
-      "venue": "EKKO",
-      "venue_id": "4842",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2488650"
-    },
-    {
       "id": "ra:2514755",
       "title": "Diep In De Groef",
       "date": "2026-08-28",
@@ -57,6 +47,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2488650",
+      "title": "Musical Rave",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:30+02:00",
+      "venue": "EKKO",
+      "venue_id": "4842",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2488650"
+    },
     {
       "id": "ra:2488649",
       "title": "PERRX",

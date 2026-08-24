@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504935",
-      "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2504935"
-    },
-    {
       "id": "ra:2425634",
       "title": "Claydrum presents KRUELTY / Samuel Moriero / XRTN / Freya",
       "date": "2026-09-18",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2425634"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2504935",
+      "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2504935"
+    }
+  ]
 }

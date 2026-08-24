@@ -2,7 +2,8 @@
   "id": "136176",
   "name": "Insolence",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2438871",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2438871"
     }
-  ],
-  "past": []
+  ]
 }

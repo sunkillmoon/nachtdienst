@@ -2,7 +2,8 @@
   "id": "2356",
   "name": "Henry Saiz",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500787",
       "title": "Sunset Boat Party with Henry Saiz, Clay Van Dijk & Tom Pavicich b2b Gaspar Torres",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500787"
     }
-  ],
-  "past": []
+  ]
 }

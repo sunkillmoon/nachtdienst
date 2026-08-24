@@ -2,7 +2,8 @@
   "id": "119220",
   "name": "Corren Cavini",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476119",
       "title": "Common_Ground: Corren Cavini All Night Long",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476119"
     }
-  ],
-  "past": []
+  ]
 }

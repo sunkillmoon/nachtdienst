@@ -1,7 +1,8 @@
 {
   "id": "95033",
   "name": "Wicked Jazz Sounds",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506770",
       "title": "A Funky Wicked Jazz Fest 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2506770"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "121053",

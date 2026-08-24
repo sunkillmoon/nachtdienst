@@ -6,16 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2476119",
-      "title": "Common_Ground: Corren Cavini All Night Long",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476119"
-    },
-    {
       "id": "ra:2504901",
       "title": "Ninsa b2b Vero",
       "date": "2026-08-29",
@@ -177,6 +167,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2476119",
+      "title": "Common_Ground: Corren Cavini All Night Long",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476119"
+    },
     {
       "id": "ra:2507946",
       "title": "Aan = Aan W/ Authentiek Recept - Send More - Nudes Persianlove",

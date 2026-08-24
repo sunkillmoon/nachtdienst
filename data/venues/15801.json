@@ -1,0 +1,20 @@
+{
+  "id": "15801",
+  "name": "Poppodium Volt",
+  "area": "All",
+  "lat": 51.001003,
+  "lng": 5.871998,
+  "upcoming": [
+    {
+      "id": "ra:2519324",
+      "title": "ROOG - ALL NIGHT LONG",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00+01:00",
+      "venue": "Poppodium Volt",
+      "venue_id": "15801",
+      "area": "All",
+      "url": "https://ra.co/events/2519324"
+    }
+  ],
+  "past": []
+}

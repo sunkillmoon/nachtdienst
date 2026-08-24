@@ -2,7 +2,8 @@
   "id": "173829",
   "name": "Baker (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2467051",
       "title": "Het Concept // House & UK Garage",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2467051"
     }
-  ],
-  "past": []
+  ]
 }

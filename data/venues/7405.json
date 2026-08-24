@@ -6,16 +6,6 @@
   "lng": 4.779139,
   "upcoming": [
     {
-      "id": "ra:2379306",
-      "title": "BGP Hardcore - The Underground XL",
-      "date": "2026-08-22",
-      "start": "2026-08-22T21:00+02:00",
-      "venue": "Mezz",
-      "venue_id": "7405",
-      "area": "All",
-      "url": "https://ra.co/events/2379306"
-    },
-    {
       "id": "ra:2429014",
       "title": "40UP",
       "date": "2026-08-28",
@@ -126,6 +116,16 @@
       "url": "https://ra.co/events/2499862"
     },
     {
+      "id": "ra:2519271",
+      "title": "History of House Breda",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2519271"
+    },
+    {
       "id": "ra:2439758",
       "title": "Emo Night Mainland",
       "date": "2026-11-14",
@@ -136,5 +136,16 @@
       "url": "https://ra.co/events/2439758"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2379306",
+      "title": "BGP Hardcore - The Underground XL",
+      "date": "2026-08-22",
+      "start": "2026-08-22T21:00+02:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2379306"
+    }
+  ]
 }

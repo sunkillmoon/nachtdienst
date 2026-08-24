@@ -1,7 +1,8 @@
 {
   "id": "192052",
   "name": "IMPREZA",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516011",
       "title": "ТУСОВКА В СТИЛЕ 2000х ГОДОВ - РОТТЕРДАМ",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2516011"
     }
   ],
-  "past": [],
   "top_artists": []
 }

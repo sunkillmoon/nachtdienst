@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.34,
   "lng": 4.87,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515780",
       "title": "Hunkering Indian Summer",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515780"
     }
-  ],
-  "past": []
+  ]
 }

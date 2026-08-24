@@ -3,16 +3,6 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2492123",
-      "title": "DJ Life • Moxes • lizz.e",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492123"
-    },
-    {
       "id": "ra:2488594",
       "title": "Flo Masse • Kyra Khaldi • Same Faces",
       "date": "2026-08-28",
@@ -44,6 +34,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2492123",
+      "title": "DJ Life • Moxes • lizz.e",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492123"
+    },
     {
       "id": "ra:2492294",
       "title": "Andy Luff • Alexia Glensy",

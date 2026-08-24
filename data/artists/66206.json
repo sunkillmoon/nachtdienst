@@ -34,6 +34,16 @@
       "url": "https://ra.co/events/2324563"
     },
     {
+      "id": "ra:2519268",
+      "title": "MUST welcomes Housequake",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Grand Hotel Amrâth Kurhaus",
+      "venue_id": "300865",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519268"
+    },
+    {
       "id": "ra:2281919",
       "title": "A Day at the Park Festival 2026",
       "date": "2026-09-12",
@@ -42,6 +52,36 @@
       "venue_id": "89597",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2519256",
+      "title": "Moya: The Beach Edition",
+      "date": "2026-09-13",
+      "start": "2026-09-13T18:00+02:00",
+      "venue": "Millers Beach",
+      "venue_id": "300860",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519256"
+    },
+    {
+      "id": "ra:2519301",
+      "title": "30PM.CLUB Hilversum",
+      "date": "2026-09-18",
+      "start": "2026-09-18T19:00+02:00",
+      "venue": "Club Rex",
+      "venue_id": "24882",
+      "area": "All",
+      "url": "https://ra.co/events/2519301"
+    },
+    {
+      "id": "ra:2519258",
+      "title": "Housequake & Friends",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Podium Victorie",
+      "venue_id": "5543",
+      "area": "All",
+      "url": "https://ra.co/events/2519258"
     },
     {
       "id": "ra:2518257",
@@ -54,6 +94,16 @@
       "url": "https://ra.co/events/2518257"
     },
     {
+      "id": "ra:2519310",
+      "title": "The Reboot",
+      "date": "2026-09-26",
+      "start": "2026-09-26T20:00+02:00",
+      "venue": "Bij Broere",
+      "venue_id": "300873",
+      "area": "All",
+      "url": "https://ra.co/events/2519310"
+    },
+    {
       "id": "ra:2518976",
       "title": "History of House Tilburg",
       "date": "2026-10-02",
@@ -62,6 +112,16 @@
       "venue_id": "116512",
       "area": "All",
       "url": "https://ra.co/events/2518976"
+    },
+    {
+      "id": "ra:2519263",
+      "title": "Housequake 'All Boat Long'",
+      "date": "2026-10-10",
+      "start": "2026-10-10T20:00+02:00",
+      "venue": "Eivissa Boat",
+      "venue_id": "300861",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2519263"
     },
     {
       "id": "ra:2518978",
@@ -92,6 +152,36 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2519315",
+      "title": "ADE x HouseU Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519315"
+    },
+    {
+      "id": "ra:2519324",
+      "title": "ROOG - ALL NIGHT LONG",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00+01:00",
+      "venue": "Poppodium Volt",
+      "venue_id": "15801",
+      "area": "All",
+      "url": "https://ra.co/events/2519324"
+    },
+    {
+      "id": "ra:2519271",
+      "title": "History of House Breda",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Mezz",
+      "venue_id": "7405",
+      "area": "All",
+      "url": "https://ra.co/events/2519271"
     },
     {
       "id": "ra:2460818",

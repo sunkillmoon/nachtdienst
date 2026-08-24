@@ -2,7 +2,8 @@
   "id": "15867",
   "name": "Remy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503117",
       "title": "Valtifest",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503117"
     }
-  ],
-  "past": []
+  ]
 }

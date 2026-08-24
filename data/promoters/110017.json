@@ -1,7 +1,8 @@
 {
   "id": "110017",
   "name": "Multifest Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503117",
       "title": "Valtifest",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2503117"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "15867",

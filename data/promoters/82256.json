@@ -1,7 +1,8 @@
 {
   "id": "82256",
   "name": "Likeminded worldwide",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501639",
       "title": "LIKEMINDED - Daan Donk, DJ Rino, sima k",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2501639"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "34388",

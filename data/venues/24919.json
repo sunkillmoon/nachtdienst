@@ -1,0 +1,20 @@
+{
+  "id": "24919",
+  "name": "Waalhalla",
+  "area": "Nijmegen",
+  "lat": 51.854658,
+  "lng": 5.843119,
+  "upcoming": [
+    {
+      "id": "ra:2519169",
+      "title": "The Inner Circle of: Sinister Souls",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:00+01:00",
+      "venue": "Waalhalla",
+      "venue_id": "24919",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2519169"
+    }
+  ],
+  "past": []
+}

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501667",
-      "title": "POING FESTIVAL after hours",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2501667"
-    },
-    {
       "id": "ra:2490626",
       "title": "Six Sex PRESENTS",
       "date": "2026-09-04",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2490626"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2501667",
+      "title": "POING FESTIVAL after hours",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2501667"
+    }
+  ]
 }

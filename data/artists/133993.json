@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466211",
-      "title": "TOFFLER x Maas Afterparty",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2466211"
-    },
-    {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
       "date": "2026-08-29",
@@ -75,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2466211",
+      "title": "TOFFLER x Maas Afterparty",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2466211"
+    },
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",

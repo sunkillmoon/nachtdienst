@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2438871",
-      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2438871"
-    },
-    {
       "id": "ra:2496841",
       "title": "No Sundays Without Techno",
       "date": "2026-08-23",
@@ -246,6 +236,16 @@
       "url": "https://ra.co/events/2503543"
     },
     {
+      "id": "ra:2519119",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-24",
+      "start": "2026-09-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519119"
+    },
+    {
       "id": "ra:2503220",
       "title": "Amsterdam Nights: Hard Techno Rave",
       "date": "2026-09-26",
@@ -274,6 +274,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503544"
+    },
+    {
+      "id": "ra:2519120",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-01",
+      "start": "2026-10-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519120"
     },
     {
       "id": "ra:2515085",
@@ -306,6 +316,16 @@
       "url": "https://ra.co/events/2518466"
     },
     {
+      "id": "ra:2519121",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-08",
+      "start": "2026-10-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519121"
+    },
+    {
       "id": "ra:2518468",
       "title": "RAVELAND: Hard Techno & Hard Bounce",
       "date": "2026-10-14",
@@ -314,6 +334,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518468"
+    },
+    {
+      "id": "ra:2519122",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-15",
+      "start": "2026-10-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519122"
     },
     {
       "id": "ra:2508072",
@@ -334,6 +364,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489447"
+    },
+    {
+      "id": "ra:2519124",
+      "title": "Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519124"
     },
     {
       "id": "ra:2507148",
@@ -396,6 +436,16 @@
       "url": "https://ra.co/events/2518471"
     },
     {
+      "id": "ra:2519125",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-29",
+      "start": "2026-10-29T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519125"
+    },
+    {
       "id": "ra:2515090",
       "title": "Amsterdam Nights: Hard Techno Halloween",
       "date": "2026-10-31",
@@ -417,6 +467,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2438871",
+      "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2438871"
+    },
     {
       "id": "ra:2497112",
       "title": "UNDERCORE - Peak Time - Hard Techno",

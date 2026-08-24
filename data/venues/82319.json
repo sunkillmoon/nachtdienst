@@ -4,7 +4,8 @@
   "area": "Eindhoven",
   "lat": 51.443603,
   "lng": 5.446692,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2373015",
       "title": "Lost Frequencies - Open Air (3 Hour Set)",
@@ -15,6 +16,5 @@
       "area": "Eindhoven",
       "url": "https://ra.co/events/2373015"
     }
-  ],
-  "past": []
+  ]
 }

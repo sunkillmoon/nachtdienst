@@ -12,6 +12,16 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2498366",
+      "title": "EAST Techno Collective - Halloween Warehouse",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498366"
     }
   ],
   "past": [

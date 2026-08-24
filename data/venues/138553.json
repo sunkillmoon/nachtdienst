@@ -6,16 +6,6 @@
   "lng": 4.925604,
   "upcoming": [
     {
-      "id": "ra:2511266",
-      "title": "NOLANDS",
-      "date": "2026-08-22",
-      "start": "2026-08-22T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511266"
-    },
-    {
       "id": "ra:2488611",
       "title": "AZÚCAR INVITES THE HERD",
       "date": "2026-08-28",
@@ -187,6 +177,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2511266",
+      "title": "NOLANDS",
+      "date": "2026-08-22",
+      "start": "2026-08-22T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511266"
+    },
     {
       "id": "ra:2495357",
       "title": "BAILE DO OUTRO LADO X ONDA COLLECTIVE",

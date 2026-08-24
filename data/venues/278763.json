@@ -6,16 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2501667",
-      "title": "POING FESTIVAL after hours",
-      "date": "2026-08-22",
-      "start": "2026-08-22T23:59+02:00",
-      "venue": "export",
-      "venue_id": "278763",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2501667"
-    },
-    {
       "id": "ra:2492189",
       "title": "Interdimensional Transmissions x Clone Records",
       "date": "2026-08-28",
@@ -67,6 +57,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501667",
+      "title": "POING FESTIVAL after hours",
+      "date": "2026-08-22",
+      "start": "2026-08-22T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2501667"
+    },
     {
       "id": "ra:2506014",
       "title": "doo-bop, Doktoro, sima k",

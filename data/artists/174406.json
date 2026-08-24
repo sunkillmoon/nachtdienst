@@ -2,7 +2,18 @@
   "id": "174406",
   "name": "Divine Kaos",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519258",
+      "title": "Housequake & Friends",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Podium Victorie",
+      "venue_id": "5543",
+      "area": "All",
+      "url": "https://ra.co/events/2519258"
+    }
+  ],
   "past": [
     {
       "id": "ra:2456902",
