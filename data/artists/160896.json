@@ -2,7 +2,8 @@
   "id": "160896",
   "name": "Montse",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
@@ -12,9 +13,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506023"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2493231",
       "title": "SOTO",

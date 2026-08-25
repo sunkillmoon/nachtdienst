@@ -36,11 +36,6 @@
   "past": [],
   "top_artists": [
     {
-      "id": "171453",
-      "name": "Cici Daze",
-      "count": 2
-    },
-    {
       "id": "89315",
       "name": "Remy Unger",
       "count": 2
@@ -53,6 +48,11 @@
     {
       "id": "66206",
       "name": "ROOG",
+      "count": 1
+    },
+    {
+      "id": "171453",
+      "name": "Cici Daze",
       "count": 1
     },
     {

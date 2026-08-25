@@ -1,0 +1,20 @@
+{
+  "id": "293181",
+  "name": "TBA - Undertone Studio",
+  "area": "The Hague",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2519717",
+      "title": "Tone Zone Leiden #5",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "TBA - Undertone Studio",
+      "venue_id": "293181",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519717"
+    }
+  ],
+  "past": []
+}

@@ -1,7 +1,18 @@
 {
   "id": "127248",
   "name": "Festival Downtown",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519856",
+      "title": "Festival Downtown",
+      "date": "2026-09-11",
+      "start": "2026-09-11T14:00+02:00",
+      "venue": "Rotterdam Centre",
+      "venue_id": "140769",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2519856"
+    }
+  ],
   "past": [
     {
       "id": "ra:2498712",
@@ -16,33 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "173203",
-      "name": "Yucky",
+      "id": "154128",
+      "name": "Poppa Jax",
       "count": 1
     },
     {
-      "id": "130215",
-      "name": "Jan Koster",
+      "id": "138129",
+      "name": "Franky Sticks",
       "count": 1
     },
     {
-      "id": "118891",
-      "name": "LE KACANG",
+      "id": "92594",
+      "name": "RITCHRD",
       "count": 1
     },
     {
-      "id": "116918",
-      "name": "CHALÉ",
+      "id": "185192",
+      "name": "River (2)",
       "count": 1
     },
     {
-      "id": "158606",
-      "name": "ROMSY",
+      "id": "17621",
+      "name": "DJ Spinn",
       "count": 1
     },
     {
-      "id": "166856",
-      "name": "Itz3bby",
+      "id": "112928",
+      "name": "Slimfit",
+      "count": 1
+    },
+    {
+      "id": "175064",
+      "name": "Jolani Jhones",
+      "count": 1
+    },
+    {
+      "id": "148920",
+      "name": "CHAMOS",
+      "count": 1
+    },
+    {
+      "id": "131385",
+      "name": "Kizzy",
+      "count": 1
+    },
+    {
+      "id": "176560",
+      "name": "INEZGANE RECORDS",
       "count": 1
     }
   ]

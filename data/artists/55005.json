@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436412",
-      "title": "Give Soul at the Beach - August",
-      "date": "2026-08-23",
-      "start": "2026-08-23T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2436412"
-    },
-    {
       "id": "ra:2436427",
       "title": "Glow in the Dark 'Halloween Special' 2026",
       "date": "2026-10-31",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2436427"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2436412",
+      "title": "Give Soul at the Beach - August",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436412"
+    }
+  ]
 }

@@ -737,7 +737,7 @@
     "venue_id": "248592",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2394012",
-    "terms": "resonant - ade 2026 zum barbarossa amsterdam ruud vanden paul nolan and(w)y tom one scarlett (us) cris-h elevate zero music"
+    "terms": "resonant - ade 2026 zum barbarossa amsterdam tom one and(w)y cris-h scarlett (us) paul nolan ruud vanden elevate zero music"
   },
   {
     "id": "ra:2395176",
@@ -1492,12 +1492,12 @@
   {
     "id": "ra:2422949",
     "date": "2026-08-26",
-    "title": "RAVING CHARLIE: Hard Techno / Rave w/ BRIZZIA / ENVISION / INSKYI / VANITY FAIR",
+    "title": "RAVING CHARLIE: Hard Techno / Rave ",
     "venue": "nachbar",
     "venue_id": "243352",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2422949",
-    "terms": "raving charlie: hard techno / rave w/ brizzia / envision / inskyi / vanity fair nachbar amsterdam ravingcharlie"
+    "terms": "raving charlie: hard techno / rave  nachbar amsterdam ravingcharlie"
   },
   {
     "id": "ra:2422966",
@@ -2697,7 +2697,7 @@
     "venue_id": "109027",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2451241",
-    "terms": "13 sep - thuishaven with menesix 10hrs thuishaven amsterdam menesix thuishaven"
+    "terms": "13 sep - thuishaven with menesix 10hrs thuishaven amsterdam menesix kellie allen lauren lo sung thuishaven"
   },
   {
     "id": "ra:2451874",
@@ -6627,7 +6627,7 @@
     "venue_id": "175707",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2479117",
-    "terms": "love on the rocks - ade 2026 - klaproos klaproos amsterdam alexia glensy bashkka cassy fais le beau giammarco orsini melody ra+re pancratio paramida peach satoshi tomiie simone de kunovich volkan akin vuur hungry4"
+    "terms": "love on the rocks - ade 2026 - klaproos klaproos amsterdam alexia glensy bashkka cassy fais le beau giammarco orsini melody ra+re pancratio paramida peach satoshi tomiie simone de kunovich volkan akin vuur hungry4 love on the rocks"
   },
   {
     "id": "ra:2479118",
@@ -7887,7 +7887,7 @@
     "venue_id": "290812",
     "area": "All",
     "ra_url": "https://ra.co/events/2484681",
-    "terms": "we are back - indoor festival popei all cici daze kim kaos backtogether ame"
+    "terms": "we are back - indoor festival popei all kim kaos backtogether ame"
   },
   {
     "id": "ra:2484688",
@@ -7927,7 +7927,7 @@
     "venue_id": "287886",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2484813",
-    "terms": "last days of summer manii beach amsterdam cris-h paul sparkes casa productions (nl)"
+    "terms": "last days of summer manii beach amsterdam anthony pappa cris-h paul sparkes casa productions (nl)"
   },
   {
     "id": "ra:2485021",
@@ -15027,7 +15027,7 @@
     "venue_id": "277782",
     "area": "The Hague",
     "ra_url": "https://ra.co/events/2513257",
-    "terms": "hito draait om hito scheveningen the hague hito scheveningen"
+    "terms": "hito draait om hito scheveningen the hague gerd janson marcel dettmann valody jannah hito scheveningen"
   },
   {
     "id": "ra:2513275",
@@ -15537,7 +15537,7 @@
     "venue_id": "52605",
     "area": "Nijmegen",
     "ra_url": "https://ra.co/events/2514783",
-    "terms": "20khz spectra x duyster café de plak nijmegen bvnnii kevn 20khz"
+    "terms": "20khz spectra x duyster café de plak nijmegen axiver bvnnii kevn 20khz"
   },
   {
     "id": "ra:2514869",
@@ -15557,7 +15557,7 @@
     "venue_id": "199902",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2514874",
-    "terms": "30th ade: only mistakes - kikko invites toekomstmuziek amsterdam kikko trivela"
+    "terms": "30th ade: only mistakes - kikko invites toekomstmuziek amsterdam kikko only mistakes"
   },
   {
     "id": "ra:2514956",
@@ -17310,6 +17310,16 @@
     "terms": "amsterdam techno sessions john doe amsterdam marco ramos we build events amsterdam techno sessions"
   },
   {
+    "id": "ra:2519157",
+    "date": "2026-10-02",
+    "title": "EAST Techno Collective",
+    "venue": "Melkweg",
+    "venue_id": "2693",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519157",
+    "terms": "east techno collective melkweg amsterdam east collective"
+  },
+  {
     "id": "ra:2519169",
     "date": "2026-11-14",
     "title": "The Inner Circle of: Sinister Souls",
@@ -17337,7 +17347,7 @@
     "venue_id": "274196",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2519249",
-    "terms": "techno therapy x herbivox: ade saturday waterhouse studios amsterdam herbivox"
+    "terms": "techno therapy x herbivox: ade saturday waterhouse studios amsterdam techno therapy herbivox"
   },
   {
     "id": "ra:2519256",
@@ -17371,7 +17381,7 @@
   },
   {
     "id": "ra:2519268",
-    "date": "2026-08-29",
+    "date": "2026-10-31",
     "title": "MUST welcomes Housequake",
     "venue": "Grand Hotel Amrâth Kurhaus",
     "venue_id": "300865",
@@ -17384,7 +17394,7 @@
     "date": "2026-09-19",
     "title": "Subs&Dubs X Carmela Collective presents Elijah Minnelli live",
     "venue": "Filth",
-    "venue_id": "281424",
+    "venue_id": "300898",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2519269",
     "terms": "subs&dubs x carmela collective presents elijah minnelli live filth amsterdam elijah minnelli delfuturo kray atief ukab radio hinter"
@@ -17478,5 +17488,305 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2519354",
     "terms": "tuktuk radio x boogie house: take-over of loop51 loop51 amsterdam kirilski boogie house"
+  },
+  {
+    "id": "ra:2519487",
+    "date": "2026-09-19",
+    "title": "Zenda - The Afrohouse & House experience",
+    "venue": "MeWe Amsterdam",
+    "venue_id": "283202",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519487",
+    "terms": "zenda - the afrohouse & house experience mewe amsterdam amsterdam zenda"
+  },
+  {
+    "id": "ra:2519501",
+    "date": "2026-08-28",
+    "title": "Mold x Steppin' Ground Soundsystem",
+    "venue": "Burnside Skatepark & Café",
+    "venue_id": "300888",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2519501",
+    "terms": "mold x steppin' ground soundsystem burnside skatepark & café all"
+  },
+  {
+    "id": "ra:2519528",
+    "date": "2026-09-18",
+    "title": "DEEP TISSUE X Yellow House - COMMUNITY GATHERING",
+    "venue": "Yellow House",
+    "venue_id": "200290",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519528",
+    "terms": "deep tissue x yellow house - community gathering yellow house amsterdam saladiaga deep tissue"
+  },
+  {
+    "id": "ra:2519529",
+    "date": "2026-10-24",
+    "title": "Baile da Galecta ADE",
+    "venue": "Benelux BAR",
+    "venue_id": "217595",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519529",
+    "terms": "baile da galecta ade benelux bar amsterdam galecta"
+  },
+  {
+    "id": "ra:2519553",
+    "date": "2026-09-25",
+    "title": "Watergate x Den Haag",
+    "venue": "Laak",
+    "venue_id": "265527",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2519553",
+    "terms": "watergate x den haag laak the hague koperblond devree watergate x dh"
+  },
+  {
+    "id": "ra:2519559",
+    "date": "2026-09-04",
+    "title": "Sissi's Friday with lizz.e, Papa Nugs, Polli Panda b2b Wesgood",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519559",
+    "terms": "sissi's friday with lizz.e, papa nugs, polli panda b2b wesgood sissi's amsterdam amsterdam papa nugs lizz.e polli panda sissi's amsterdam"
+  },
+  {
+    "id": "ra:2519563",
+    "date": "2026-09-11",
+    "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519563",
+    "terms": "sissi's friday with kim april, anil aras & jangala sissi's amsterdam amsterdam anil aras kim april sissi's amsterdam"
+  },
+  {
+    "id": "ra:2519567",
+    "date": "2026-10-02",
+    "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519567",
+    "terms": "sissi's friday with sway, mowgli & ays sissi's amsterdam amsterdam ays (nl) mowgli (nl) sissi's amsterdam"
+  },
+  {
+    "id": "ra:2519571",
+    "date": "2026-10-17",
+    "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
+    "venue": "SISSI'S Amsterdam",
+    "venue_id": "255755",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519571",
+    "terms": "sissi's saturday with kyra khaldi invites cozi sissi's amsterdam amsterdam kyra khaldi cozi sissi's amsterdam"
+  },
+  {
+    "id": "ra:2519607",
+    "date": "2026-09-04",
+    "title": "Peder Mannerfelt, Parrish Smith, Keynu (Live), Juli Chaos",
+    "venue": "Garage Noord",
+    "venue_id": "137474",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519607",
+    "terms": "peder mannerfelt, parrish smith, keynu (live), juli chaos garage noord amsterdam peder mannerfelt parrish smith garage noord"
+  },
+  {
+    "id": "ra:2519669",
+    "date": "2026-09-19",
+    "title": "Before Noon Club",
+    "venue": "Nio House Amsterdam",
+    "venue_id": "300905",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519669",
+    "terms": "before noon club nio house amsterdam amsterdam lost paradise music events weez"
+  },
+  {
+    "id": "ra:2519717",
+    "date": "2026-09-25",
+    "title": "Tone Zone Leiden #5",
+    "venue": "TBA - Undertone Studio",
+    "venue_id": "293181",
+    "area": "The Hague",
+    "ra_url": "https://ra.co/events/2519717",
+    "terms": "tone zone leiden #5 tba - undertone studio the hague undertone"
+  },
+  {
+    "id": "ra:2519739",
+    "date": "2026-09-12",
+    "title": "FLUID // BADSISTA • CEM • Guenter Råler • Nala Brown",
+    "venue": "WAS.",
+    "venue_id": "137365",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2519739",
+    "terms": "fluid // badsista • cem • guenter råler • nala brown was. utrecht badsista cem guenter råler nala brown was."
+  },
+  {
+    "id": "ra:2519758",
+    "date": "2026-08-29",
+    "title": "Tobis Afterhours W/ Kaje B2B Chiara - Meraki - Leon Row",
+    "venue": "Het Sieraad",
+    "venue_id": "44668",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519758",
+    "terms": "tobis afterhours w/ kaje b2b chiara - meraki - leon row het sieraad amsterdam het sieraad - by night"
+  },
+  {
+    "id": "ra:2519765",
+    "date": "2026-11-07",
+    "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
+    "venue": "WAS.",
+    "venue_id": "137365",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2519765",
+    "terms": "was. x le guess who? // eris drew b2b octo octa • hervé • jannah was. utrecht eris drew octo octa hervé jannah le guess who? was."
+  },
+  {
+    "id": "ra:2519779",
+    "date": "2026-09-11",
+    "title": "CHUNKY",
+    "venue": "BRET",
+    "venue_id": "108549",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519779",
+    "terms": "chunky bret amsterdam bret"
+  },
+  {
+    "id": "ra:2519856",
+    "date": "2026-09-11",
+    "title": "Festival Downtown",
+    "venue": "Rotterdam Centre",
+    "venue_id": "140769",
+    "area": "Rotterdam",
+    "ra_url": "https://ra.co/events/2519856",
+    "terms": "festival downtown rotterdam centre rotterdam poppa jax franky sticks ritchrd river (2) dj spinn slimfit jolani jhones chamos kizzy inezgane records another taste kalima neue grafik s!rene shinshan salazar kurashi soundsystem nala brown bianca oblivion y u qt megan jane galecta (2) de schuurman rotational mendel festival downtown"
+  },
+  {
+    "id": "ra:2519880",
+    "date": "2026-10-23",
+    "title": "Festifest ADE",
+    "venue": "Het Dorp",
+    "venue_id": "278095",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519880",
+    "terms": "festifest ade het dorp amsterdam bella (nl) demi riquisimo evi (1) galleria europa fabrizio mammarella giulia gutterer shmlss sound metaphors djs festifest"
+  },
+  {
+    "id": "ra:2519979",
+    "date": "2026-10-31",
+    "title": "BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE",
+    "venue": "BASIS",
+    "venue_id": "101766",
+    "area": "Utrecht",
+    "ra_url": "https://ra.co/events/2519979",
+    "terms": "basis/ eargasm god/ hitmiløw/ innsane/ mot!ve basis utrecht eargasm god hitmiløw"
+  },
+  {
+    "id": "ra:2519986",
+    "date": "2026-10-22",
+    "title": "Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition",
+    "venue": "Noorderlicht Café",
+    "venue_id": "158843",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2519986",
+    "terms": "isolate x rummel x from dusk till dawn - ade 26 edition noorderlicht café amsterdam isolate  from dusk till dawn rummel "
+  },
+  {
+    "id": "ra:2520021",
+    "date": "2026-08-29",
+    "title": "BOUNCE",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520021",
+    "terms": "bounce club up amsterdam"
+  },
+  {
+    "id": "ra:2520022",
+    "date": "2026-09-05",
+    "title": "BELLAKEO DISTRICT",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520022",
+    "terms": "bellakeo district club up amsterdam"
+  },
+  {
+    "id": "ra:2520024",
+    "date": "2026-09-11",
+    "title": "COLLIDE",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520024",
+    "terms": "collide club up amsterdam"
+  },
+  {
+    "id": "ra:2520025",
+    "date": "2026-09-17",
+    "title": "KOOPAVOND",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520025",
+    "terms": "koopavond club up amsterdam"
+  },
+  {
+    "id": "ra:2520027",
+    "date": "2026-09-25",
+    "title": "SKINNYJEANS",
+    "venue": "Club Up",
+    "venue_id": "38637",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520027",
+    "terms": "skinnyjeans club up amsterdam"
+  },
+  {
+    "id": "ra:2520164",
+    "date": "2026-10-21",
+    "title": "Showcase Kokolores x ADE",
+    "venue": "Grand Café Heineken Hoek",
+    "venue_id": "83923",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520164",
+    "terms": "showcase kokolores x ade grand café heineken hoek amsterdam black legend charlie brown claudius dirk schot hesawyou maex basement amsterdam"
+  },
+  {
+    "id": "ra:2520167",
+    "date": "2026-10-23",
+    "title": "HouseU Amsterdam x ADE",
+    "venue": "Grand Café Heineken Hoek",
+    "venue_id": "83923",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520167",
+    "terms": "houseu amsterdam x ade grand café heineken hoek amsterdam angelo ferreri mattei & omich roog basement amsterdam"
+  },
+  {
+    "id": "ra:2520170",
+    "date": "2026-10-24",
+    "title": "STARGUARDZ x ADE",
+    "venue": "Grand Café Heineken Hoek",
+    "venue_id": "83923",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520170",
+    "terms": "starguardz x ade grand café heineken hoek amsterdam erick e basement amsterdam"
+  },
+  {
+    "id": "ra:2520175",
+    "date": "2026-10-24",
+    "title": "Only 4DJS x ADE",
+    "venue": "Grand Café Heineken Hoek",
+    "venue_id": "83923",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2520175",
+    "terms": "only 4djs x ade grand café heineken hoek amsterdam richard earnshaw steve taylor basement amsterdam"
+  },
+  {
+    "id": "ra:2520204",
+    "date": "2026-09-12",
+    "title": "Lahvoid Vol.02",
+    "venue": "O.J.V. Koornbeurs",
+    "venue_id": "101378",
+    "area": "All",
+    "ra_url": "https://ra.co/events/2520204",
+    "terms": "lahvoid vol.02 o.j.v. koornbeurs all rul3 jotis lahvoid"
   }
 ]

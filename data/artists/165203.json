@@ -2,7 +2,8 @@
   "id": "165203",
   "name": "Uksimo",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504306",
       "title": "OBERHAUM: Garden Radio",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504306"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "192711",
+  "name": "Watergate x DH",
+  "upcoming": [
+    {
+      "id": "ra:2519553",
+      "title": "Watergate x Den Haag",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519553"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "118800",
+      "name": "Koperblond",
+      "count": 1
+    },
+    {
+      "id": "85384",
+      "name": "DEVREE",
+      "count": 1
+    }
+  ]
+}

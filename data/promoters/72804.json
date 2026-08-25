@@ -1,7 +1,28 @@
 {
   "id": "72804",
   "name": "WAS.",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519739",
+      "title": "FLUID // BADSISTA • CEM • Guenter Råler • Nala Brown",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "WAS.",
+      "venue_id": "137365",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519739"
+    },
+    {
+      "id": "ra:2519765",
+      "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "WAS.",
+      "venue_id": "137365",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519765"
+    }
+  ],
   "past": [
     {
       "id": "ra:2357461",
@@ -16,6 +37,46 @@
   ],
   "top_artists": [
     {
+      "id": "86024",
+      "name": "BADSISTA",
+      "count": 1
+    },
+    {
+      "id": "63999",
+      "name": "CEM",
+      "count": 1
+    },
+    {
+      "id": "112160",
+      "name": "Guenter Råler",
+      "count": 1
+    },
+    {
+      "id": "86526",
+      "name": "Nala Brown",
+      "count": 1
+    },
+    {
+      "id": "64056",
+      "name": "Eris Drew",
+      "count": 1
+    },
+    {
+      "id": "35622",
+      "name": "Octo Octa",
+      "count": 1
+    },
+    {
+      "id": "140652",
+      "name": "Hervé",
+      "count": 1
+    },
+    {
+      "id": "123497",
+      "name": "jannah",
+      "count": 1
+    },
+    {
       "id": "92059",
       "name": "BASHKKA",
       "count": 1
@@ -23,46 +84,6 @@
     {
       "id": "87803",
       "name": "OK Williams",
-      "count": 1
-    },
-    {
-      "id": "117642",
-      "name": "Dj Babatr",
-      "count": 1
-    },
-    {
-      "id": "109046",
-      "name": "Benwal",
-      "count": 1
-    },
-    {
-      "id": "2949",
-      "name": "Carlos Valdes",
-      "count": 1
-    },
-    {
-      "id": "73940",
-      "name": "CARISTA",
-      "count": 1
-    },
-    {
-      "id": "92199",
-      "name": "Jyoty",
-      "count": 1
-    },
-    {
-      "id": "165704",
-      "name": "dirtydms",
-      "count": 1
-    },
-    {
-      "id": "147969",
-      "name": "Helmond Lang",
-      "count": 1
-    },
-    {
-      "id": "75878",
-      "name": "Fafi Abdel Nour",
       "count": 1
     }
   ]

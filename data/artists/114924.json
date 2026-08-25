@@ -32,6 +32,16 @@
       "venue_id": "48317",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2500769"
+    },
+    {
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519567"
     }
   ],
   "past": [

@@ -3,16 +3,6 @@
   "name": "Garage Noord",
   "upcoming": [
     {
-      "id": "ra:2508099",
-      "title": "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst",
-      "date": "2026-08-23",
-      "start": "2026-08-23T18:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508099"
-    },
-    {
       "id": "ra:2494107",
       "title": "DJ Marcelle (all night) + bar40 hosted by awhlkuhn",
       "date": "2026-08-28",
@@ -31,9 +21,29 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494108"
+    },
+    {
+      "id": "ra:2519607",
+      "title": "Peder Mannerfelt, Parrish Smith, Keynu (Live), Juli Chaos",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519607"
     }
   ],
   "past": [
+    {
+      "id": "ra:2508099",
+      "title": "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508099"
+    },
     {
       "id": "ra:2494104",
       "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",
@@ -177,6 +187,16 @@
       "count": 2
     },
     {
+      "id": "57605",
+      "name": "Peder Mannerfelt",
+      "count": 1
+    },
+    {
+      "id": "51713",
+      "name": "Parrish Smith",
+      "count": 1
+    },
+    {
       "id": "86340",
       "name": "amara",
       "count": 1
@@ -194,16 +214,6 @@
     {
       "id": "120627",
       "name": "Garnett",
-      "count": 1
-    },
-    {
-      "id": "70865",
-      "name": "Han",
-      "count": 1
-    },
-    {
-      "id": "82892",
-      "name": "Jay Mitta",
       "count": 1
     }
   ]

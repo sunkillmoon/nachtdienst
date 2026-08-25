@@ -23,6 +23,26 @@
       "url": "https://ra.co/events/2493470"
     },
     {
+      "id": "ra:2519559",
+      "title": "Sissi's Friday with lizz.e, Papa Nugs, Polli Panda b2b Wesgood",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519559"
+    },
+    {
+      "id": "ra:2519563",
+      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519563"
+    },
+    {
       "id": "ra:2493526",
       "title": "Sissi's Blockparty with Moody Mehran (all day)",
       "date": "2026-09-19",
@@ -53,6 +73,16 @@
       "url": "https://ra.co/events/2498694"
     },
     {
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519567"
+    },
+    {
       "id": "ra:2516969",
       "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
       "date": "2026-10-03",
@@ -61,6 +91,16 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516969"
+    },
+    {
+      "id": "ra:2519571",
+      "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519571"
     },
     {
       "id": "ra:2504927",
@@ -157,6 +197,11 @@
   ],
   "top_artists": [
     {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 2
+    },
+    {
       "id": "138747",
       "name": "TASHASAN",
       "count": 1
@@ -199,11 +244,6 @@
     {
       "id": "29768",
       "name": "Chunky",
-      "count": 1
-    },
-    {
-      "id": "77557",
-      "name": "Easttown",
       "count": 1
     }
   ]

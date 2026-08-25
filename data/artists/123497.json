@@ -34,6 +34,16 @@
       "url": "https://ra.co/events/2402447"
     },
     {
+      "id": "ra:2513257",
+      "title": "hito draait om",
+      "date": "2026-10-04",
+      "start": "2026-10-04T15:00+02:00",
+      "venue": "Hito Scheveningen",
+      "venue_id": "277782",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2513257"
+    },
+    {
       "id": "ra:2490011",
       "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
       "date": "2026-10-24",
@@ -42,6 +52,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490011"
+    },
+    {
+      "id": "ra:2519765",
+      "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "WAS.",
+      "venue_id": "137365",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519765"
     }
   ],
   "past": []

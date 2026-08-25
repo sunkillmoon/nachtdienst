@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.383339,
   "lng": 4.903119,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504306",
       "title": "OBERHAUM: Garden Radio",
@@ -14,9 +15,7 @@
       "venue_id": "123151",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504306"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2509416",
       "title": "SOBER in the garden",

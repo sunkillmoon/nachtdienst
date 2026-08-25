@@ -1,0 +1,24 @@
+{
+  "id": "184224",
+  "name": "DEEP TISSUE",
+  "upcoming": [
+    {
+      "id": "ra:2519528",
+      "title": "DEEP TISSUE X Yellow House - COMMUNITY GATHERING",
+      "date": "2026-09-18",
+      "start": "2026-09-18T17:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519528"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "147379",
+      "name": "Saladiaga",
+      "count": 1
+    }
+  ]
+}

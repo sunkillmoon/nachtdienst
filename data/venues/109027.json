@@ -6,16 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2500221",
-      "title": "VYBZ Festival",
-      "date": "2026-08-23",
-      "start": "2026-08-23T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500221"
-    },
-    {
       "id": "ra:2464177",
       "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
       "date": "2026-08-30",
@@ -177,6 +167,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2500221",
+      "title": "VYBZ Festival",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500221"
+    },
     {
       "id": "ra:2390196",
       "title": "komm schon Alter - Das Mini Festival",

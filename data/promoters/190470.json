@@ -1,0 +1,69 @@
+{
+  "id": "190470",
+  "name": "Love On The Rocks",
+  "upcoming": [
+    {
+      "id": "ra:2479117",
+      "title": "Love On The Rocks - ADE 2026 - Klaproos",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479117"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "103146",
+      "name": "Alexia Glensy",
+      "count": 1
+    },
+    {
+      "id": "92059",
+      "name": "BASHKKA",
+      "count": 1
+    },
+    {
+      "id": "752",
+      "name": "Cassy",
+      "count": 1
+    },
+    {
+      "id": "90391",
+      "name": "Fais Le Beau",
+      "count": 1
+    },
+    {
+      "id": "39963",
+      "name": "Giammarco Orsini",
+      "count": 1
+    },
+    {
+      "id": "103738",
+      "name": "Melody RA+RE",
+      "count": 1
+    },
+    {
+      "id": "70230",
+      "name": "Pancratio",
+      "count": 1
+    },
+    {
+      "id": "17993",
+      "name": "PARAMIDA",
+      "count": 1
+    },
+    {
+      "id": "64679",
+      "name": "Peach",
+      "count": 1
+    },
+    {
+      "id": "158",
+      "name": "Satoshi Tomiie",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "192749",
+  "name": "Lahvoid",
+  "upcoming": [
+    {
+      "id": "ra:2520204",
+      "title": "Lahvoid Vol.02",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "O.J.V. Koornbeurs",
+      "venue_id": "101378",
+      "area": "All",
+      "url": "https://ra.co/events/2520204"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "143309",
+      "name": "RUL3",
+      "count": 1
+    },
+    {
+      "id": "139606",
+      "name": "JOTIS",
+      "count": 1
+    }
+  ]
+}

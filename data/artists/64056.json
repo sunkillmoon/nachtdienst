@@ -42,6 +42,16 @@
       "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473373"
+    },
+    {
+      "id": "ra:2519765",
+      "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "WAS.",
+      "venue_id": "137365",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519765"
     }
   ],
   "past": [

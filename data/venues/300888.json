@@ -1,0 +1,20 @@
+{
+  "id": "300888",
+  "name": "Burnside Skatepark & Café",
+  "area": "All",
+  "lat": 52.25,
+  "lng": 6.17,
+  "upcoming": [
+    {
+      "id": "ra:2519501",
+      "title": "Mold x Steppin' Ground Soundsystem",
+      "date": "2026-08-28",
+      "start": "2026-08-28T18:00+02:00",
+      "venue": "Burnside Skatepark & Café",
+      "venue_id": "300888",
+      "area": "All",
+      "url": "https://ra.co/events/2519501"
+    }
+  ],
+  "past": []
+}

@@ -34,16 +34,6 @@
       "url": "https://ra.co/events/2324563"
     },
     {
-      "id": "ra:2519268",
-      "title": "MUST welcomes Housequake",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Grand Hotel Amrâth Kurhaus",
-      "venue_id": "300865",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2519268"
-    },
-    {
       "id": "ra:2281919",
       "title": "A Day at the Park Festival 2026",
       "date": "2026-09-12",
@@ -132,6 +122,26 @@
       "venue_id": "300776",
       "area": "All",
       "url": "https://ra.co/events/2519312"
+    },
+    {
+      "id": "ra:2520170",
+      "title": "STARGUARDZ x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520170"
+    },
+    {
+      "id": "ra:2519268",
+      "title": "MUST welcomes Housequake",
+      "date": "2026-10-31",
+      "start": "2026-10-31T20:30+01:00",
+      "venue": "Grand Hotel Amrâth Kurhaus",
+      "venue_id": "300865",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519268"
     },
     {
       "id": "ra:2404228",

@@ -1,0 +1,18 @@
+{
+  "id": "117050",
+  "name": "Lost Paradise Music Events",
+  "upcoming": [
+    {
+      "id": "ra:2519669",
+      "title": "Before Noon Club",
+      "date": "2026-09-19",
+      "start": "2026-09-19T11:00+02:00",
+      "venue": "Nio House Amsterdam",
+      "venue_id": "300905",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519669"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

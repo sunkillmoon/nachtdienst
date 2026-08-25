@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2496841",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-23",
-      "start": "2026-08-23T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496841"
-    },
-    {
       "id": "ra:2497101",
       "title": "No Sundays Without Techno",
       "date": "2026-08-30",
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2496841",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-23",
+      "start": "2026-08-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496841"
+    },
     {
       "id": "ra:2497112",
       "title": "UNDERCORE - Peak Time - Hard Techno",

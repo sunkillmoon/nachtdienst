@@ -12,6 +12,16 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2399040"
+    },
+    {
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519567"
     }
   ],
   "past": []

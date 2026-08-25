@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519487",
+      "title": "Zenda - The Afrohouse & House experience",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "MeWe Amsterdam",
+      "venue_id": "283202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519487"
+    }
+  ],
   "past": [
     {
       "id": "ra:2481713",

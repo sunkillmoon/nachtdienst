@@ -33,6 +33,16 @@
       "url": "https://ra.co/events/2519306"
     },
     {
+      "id": "ra:2520164",
+      "title": "Showcase Kokolores x ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520164"
+    },
+    {
       "id": "ra:2519315",
       "title": "ADE x HouseU Amsterdam",
       "date": "2026-10-23",
@@ -43,6 +53,26 @@
       "url": "https://ra.co/events/2519315"
     },
     {
+      "id": "ra:2520167",
+      "title": "HouseU Amsterdam x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520167"
+    },
+    {
+      "id": "ra:2520175",
+      "title": "Only 4DJS x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520175"
+    },
+    {
       "id": "ra:2519312",
       "title": "ADE x STARGUARDZ",
       "date": "2026-10-24",
@@ -51,6 +81,16 @@
       "venue_id": "300776",
       "area": "All",
       "url": "https://ra.co/events/2519312"
+    },
+    {
+      "id": "ra:2520170",
+      "title": "STARGUARDZ x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520170"
     },
     {
       "id": "ra:2519308",
@@ -79,52 +119,52 @@
     {
       "id": "51231",
       "name": "Black Legend",
-      "count": 1
+      "count": 2
     },
     {
       "id": "4193",
       "name": "Charlie Brown",
-      "count": 1
+      "count": 2
     },
     {
       "id": "104658",
       "name": "Claudius",
-      "count": 1
+      "count": 2
     },
     {
       "id": "140301",
       "name": "Dirk Schot",
-      "count": 1
+      "count": 2
     },
     {
       "id": "106108",
       "name": "heSAWyou",
-      "count": 1
+      "count": 2
     },
     {
       "id": "154218",
       "name": "Maex",
-      "count": 1
+      "count": 2
     },
     {
       "id": "16379",
       "name": "Angelo Ferreri",
-      "count": 1
+      "count": 2
     },
     {
       "id": "54569",
       "name": "Mattei & Omich",
-      "count": 1
+      "count": 2
     },
     {
       "id": "66206",
       "name": "ROOG",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "17451",
-      "name": "Erick E",
-      "count": 1
+      "id": "21726",
+      "name": "Richard Earnshaw",
+      "count": 2
     }
   ]
 }

@@ -12,6 +12,16 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502651"
+    },
+    {
+      "id": "ra:2519856",
+      "title": "Festival Downtown",
+      "date": "2026-09-11",
+      "start": "2026-09-11T14:00+02:00",
+      "venue": "Rotterdam Centre",
+      "venue_id": "140769",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2519856"
     }
   ],
   "past": [

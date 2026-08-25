@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436412",
-      "title": "Give Soul at the Beach - August",
-      "date": "2026-08-23",
-      "start": "2026-08-23T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2436412"
-    },
-    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -105,6 +95,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436412",
+      "title": "Give Soul at the Beach - August",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436412"
+    },
     {
       "id": "ra:2493364",
       "title": "Sissi's Friday with Job de Jong, NIV, INA & Fanny",

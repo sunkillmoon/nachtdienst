@@ -6,16 +6,6 @@
   "lng": 4.843713,
   "upcoming": [
     {
-      "id": "ra:2506023",
-      "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
-      "date": "2026-08-23",
-      "start": "2026-08-23T13:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506023"
-    },
-    {
       "id": "ra:2498987",
       "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
       "date": "2026-08-28",
@@ -127,6 +117,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2506023",
+      "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
+      "date": "2026-08-23",
+      "start": "2026-08-23T13:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506023"
+    },
     {
       "id": "ra:2498106",
       "title": "ARMAT X REFORMA",

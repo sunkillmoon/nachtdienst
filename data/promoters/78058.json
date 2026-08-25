@@ -1,0 +1,59 @@
+{
+  "id": "78058",
+  "name": "Festifest",
+  "upcoming": [
+    {
+      "id": "ra:2519880",
+      "title": "Festifest ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519880"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "93138",
+      "name": "BELLA (NL)",
+      "count": 1
+    },
+    {
+      "id": "90020",
+      "name": "Demi Riquisimo",
+      "count": 1
+    },
+    {
+      "id": "141593",
+      "name": "Evi (1)",
+      "count": 1
+    },
+    {
+      "id": "175795",
+      "name": "Galleria Europa",
+      "count": 1
+    },
+    {
+      "id": "6147",
+      "name": "Fabrizio Mammarella",
+      "count": 1
+    },
+    {
+      "id": "97527",
+      "name": "Giulia Gutterer",
+      "count": 1
+    },
+    {
+      "id": "28626",
+      "name": "SHMLSS",
+      "count": 1
+    },
+    {
+      "id": "68560",
+      "name": "Sound Metaphors Djs",
+      "count": 1
+    }
+  ]
+}

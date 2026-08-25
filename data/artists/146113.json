@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436412",
-      "title": "Give Soul at the Beach - August",
-      "date": "2026-08-23",
-      "start": "2026-08-23T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2436412"
-    },
-    {
       "id": "ra:2517556",
       "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
       "date": "2026-10-30",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436412",
+      "title": "Give Soul at the Beach - August",
+      "date": "2026-08-23",
+      "start": "2026-08-23T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2436412"
+    },
     {
       "id": "ra:2438726",
       "title": "Puur Festival 2026",

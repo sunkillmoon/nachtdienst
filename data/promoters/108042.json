@@ -1,7 +1,8 @@
 {
   "id": "108042",
   "name": "VYBZ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500221",
       "title": "VYBZ Festival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2500221"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "26465",

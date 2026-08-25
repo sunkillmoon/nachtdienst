@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2496841",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-23",
-      "start": "2026-08-23T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496841"
-    },
-    {
       "id": "ra:2503311",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
       "date": "2026-08-24",
@@ -467,6 +457,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2496841",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-23",
+      "start": "2026-08-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496841"
+    },
     {
       "id": "ra:2438871",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",

@@ -2,7 +2,8 @@
   "id": "115630",
   "name": "Dylan Fogarty",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506023"
     }
-  ],
-  "past": []
+  ]
 }
