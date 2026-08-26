@@ -83,6 +83,36 @@
       "url": "https://ra.co/events/2500899"
     },
     {
+      "id": "ra:2520627",
+      "title": "Doka Studio with Vladimir Ivkovic - Intergalactic Gary",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520627"
+    },
+    {
+      "id": "ra:2520630",
+      "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520630"
+    },
+    {
+      "id": "ra:2520634",
+      "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
+      "date": "2026-09-27",
+      "start": "2026-09-27T19:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520634"
+    },
+    {
       "id": "ra:2516575",
       "title": "Live Coding Sessions x Doka Culture [ADE]",
       "date": "2026-10-21",

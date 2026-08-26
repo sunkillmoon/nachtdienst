@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520692"
+    },
+    {
       "id": "ra:2487480",
       "title": "TOFFLER presents jWave, Jesse Maas",
       "date": "2026-09-19",

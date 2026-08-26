@@ -12,6 +12,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452089"
+    },
+    {
+      "id": "ra:2511535",
+      "title": "SLPFNK X THE OTHERSIDE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511535"
     }
   ],
   "past": [

@@ -1,0 +1,44 @@
+{
+  "id": "47581",
+  "name": "Get Physical Music",
+  "upcoming": [
+    {
+      "id": "ra:2490629",
+      "title": "Get Physical! - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490629"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "62118",
+      "name": "CIOZ",
+      "count": 1
+    },
+    {
+      "id": "115530",
+      "name": "Helsloot",
+      "count": 1
+    },
+    {
+      "id": "12398",
+      "name": "Monkey Safari",
+      "count": 1
+    },
+    {
+      "id": "67631",
+      "name": "Yulia Niko",
+      "count": 1
+    },
+    {
+      "id": "88265",
+      "name": "Rockin Moroccin",
+      "count": 1
+    }
+  ]
+}

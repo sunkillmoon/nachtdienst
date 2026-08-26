@@ -2,7 +2,18 @@
   "id": "83883",
   "name": "Polly F",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2520615",
+      "title": "Surgeon, Talismann, Polly F",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520615"
+    }
+  ],
   "past": [
     {
       "id": "ra:2440421",

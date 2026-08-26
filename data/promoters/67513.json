@@ -21,6 +21,76 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458327"
+    },
+    {
+      "id": "ra:2511535",
+      "title": "SLPFNK X THE OTHERSIDE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511535"
+    },
+    {
+      "id": "ra:2511499",
+      "title": "SLPFNK X SWEELY CURATES | ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511499"
+    },
+    {
+      "id": "ra:2511517",
+      "title": "SLPFNK X DUNGEON FUNK ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511517"
+    },
+    {
+      "id": "ra:2511545",
+      "title": "SLPFNK X Yoyaku ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T08:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511545"
+    },
+    {
+      "id": "ra:2511554",
+      "title": "SLPFNK - LEVENSLANG ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511554"
+    },
+    {
+      "id": "ra:2511625",
+      "title": "SLPFNK ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511625"
+    },
+    {
+      "id": "ra:2511591",
+      "title": "SLPFNK - BRET ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511591"
     }
   ],
   "past": [
@@ -37,6 +107,31 @@
   ],
   "top_artists": [
     {
+      "id": "25203",
+      "name": "Samuel Deep",
+      "count": 3
+    },
+    {
+      "id": "37122",
+      "name": "Larry De Kat",
+      "count": 2
+    },
+    {
+      "id": "60770",
+      "name": "Nathalie Seres",
+      "count": 2
+    },
+    {
+      "id": "5957",
+      "name": "Sonja Moonear",
+      "count": 2
+    },
+    {
+      "id": "38951",
+      "name": "Volkan Akin",
+      "count": 2
+    },
+    {
       "id": "89167",
       "name": "A.M. Project",
       "count": 1
@@ -52,21 +147,6 @@
       "count": 1
     },
     {
-      "id": "37122",
-      "name": "Larry De Kat",
-      "count": 1
-    },
-    {
-      "id": "60770",
-      "name": "Nathalie Seres",
-      "count": 1
-    },
-    {
-      "id": "25203",
-      "name": "Samuel Deep",
-      "count": 1
-    },
-    {
       "id": "10446",
       "name": "Benny Rodrigues",
       "count": 1
@@ -74,16 +154,6 @@
     {
       "id": "82251",
       "name": "Sanja",
-      "count": 1
-    },
-    {
-      "id": "5957",
-      "name": "Sonja Moonear",
-      "count": 1
-    },
-    {
-      "id": "27262",
-      "name": "Tristan da Cunha",
       "count": 1
     }
   ]

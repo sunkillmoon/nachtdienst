@@ -3,6 +3,16 @@
   "name": "E&A Events",
   "upcoming": [
     {
+      "id": "ra:2520846",
+      "title": "TIKTAK ADE AMSTERDAM",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520846"
+    },
+    {
       "id": "ra:2479277",
       "title": "HALŌ ADE 2026",
       "date": "2026-10-25",
@@ -14,5 +24,11 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "79065",
+      "name": "Maqossa",
+      "count": 1
+    }
+  ]
 }

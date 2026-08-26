@@ -12,6 +12,26 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458317"
+    },
+    {
+      "id": "ra:2520630",
+      "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520630"
+    },
+    {
+      "id": "ra:2511545",
+      "title": "SLPFNK X Yoyaku ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T08:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511545"
     }
   ],
   "past": []

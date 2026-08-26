@@ -1,0 +1,49 @@
+{
+  "id": "165486",
+  "name": "Interfering Grounds",
+  "upcoming": [
+    {
+      "id": "ra:2520732",
+      "title": "Interfering Grounds x Futura Artists",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520732"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "75445",
+      "name": "upsammy",
+      "count": 1
+    },
+    {
+      "id": "106236",
+      "name": "Rosa",
+      "count": 1
+    },
+    {
+      "id": "47250",
+      "name": "Lena Willikens",
+      "count": 1
+    },
+    {
+      "id": "60056",
+      "name": "Budino",
+      "count": 1
+    },
+    {
+      "id": "97442",
+      "name": "Camille Maria",
+      "count": 1
+    },
+    {
+      "id": "149256",
+      "name": "Crisp Sandwich",
+      "count": 1
+    }
+  ]
+}

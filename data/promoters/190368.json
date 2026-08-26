@@ -14,5 +14,31 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "51672",
+      "name": "Jaap Ligthart",
+      "count": 1
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 1
+    },
+    {
+      "id": "180140",
+      "name": "L:NQ",
+      "count": 1
+    },
+    {
+      "id": "2634",
+      "name": "Pedro Mercado",
+      "count": 1
+    },
+    {
+      "id": "149536",
+      "name": "RELO4D",
+      "count": 1
+    }
+  ]
 }

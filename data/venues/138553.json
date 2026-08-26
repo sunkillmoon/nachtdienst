@@ -26,6 +26,16 @@
       "url": "https://ra.co/events/2511269"
     },
     {
+      "id": "ra:2520391",
+      "title": "Super-Sonic Jam w/ Radiohop",
+      "date": "2026-09-03",
+      "start": "2026-09-03T18:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520391"
+    },
+    {
       "id": "ra:2511270",
       "title": "EYE CONTACT & VIAPHIA",
       "date": "2026-09-04",
@@ -44,6 +54,16 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499764"
+    },
+    {
+      "id": "ra:2520585",
+      "title": "SPINNING ANGELS",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520585"
     },
     {
       "id": "ra:2511275",
@@ -86,16 +106,6 @@
       "url": "https://ra.co/events/2511297"
     },
     {
-      "id": "ra:2510418",
-      "title": "het veld: The Second Transmission",
-      "date": "2026-10-02",
-      "start": "2026-10-02T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510418"
-    },
-    {
       "id": "ra:2511302",
       "title": "HET VELD: THE SECOND TRANSMISSION",
       "date": "2026-10-02",
@@ -114,6 +124,26 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2400214"
+    },
+    {
+      "id": "ra:2510418",
+      "title": "het veld: The Second Transmission",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510418"
+    },
+    {
+      "id": "ra:2520395",
+      "title": "YUSU 6 YEARS",
+      "date": "2026-10-10",
+      "start": "2026-10-10T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520395"
     },
     {
       "id": "ra:2473192",
@@ -156,6 +186,26 @@
       "url": "https://ra.co/events/2511306"
     },
     {
+      "id": "ra:2520396",
+      "title": "ADE | PATTA X KEEP HUSH W/ TBA",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520396"
+    },
+    {
+      "id": "ra:2520399",
+      "title": "FSTM ADE Take Over",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520399"
+    },
+    {
       "id": "ra:2493209",
       "title": "Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy",
       "date": "2026-10-29",
@@ -174,6 +224,16 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2400216"
+    },
+    {
+      "id": "ra:2520400",
+      "title": "WEIRDO FEST",
+      "date": "2026-11-21",
+      "start": "2026-11-21T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520400"
     }
   ],
   "past": [

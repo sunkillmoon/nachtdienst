@@ -1,0 +1,64 @@
+{
+  "id": "113689",
+  "name": "THE OTHER SIDE",
+  "upcoming": [
+    {
+      "id": "ra:2511535",
+      "title": "SLPFNK X THE OTHERSIDE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511535"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107075",
+      "name": "Beste Hira",
+      "count": 1
+    },
+    {
+      "id": "169383",
+      "name": "Idilay",
+      "count": 1
+    },
+    {
+      "id": "118668",
+      "name": "Kyra Khaldi",
+      "count": 1
+    },
+    {
+      "id": "106052",
+      "name": "Loradeniz",
+      "count": 1
+    },
+    {
+      "id": "136641",
+      "name": "Tommy Chikara",
+      "count": 1
+    },
+    {
+      "id": "135405",
+      "name": "DJ Spence",
+      "count": 1
+    },
+    {
+      "id": "53381",
+      "name": "PLO Man",
+      "count": 1
+    },
+    {
+      "id": "69798",
+      "name": "TAFKAMP",
+      "count": 1
+    },
+    {
+      "id": "25203",
+      "name": "Samuel Deep",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "187961",
+  "name": "friendsandfriends",
+  "upcoming": [
+    {
+      "id": "ra:2520840",
+      "title": "friends. THE FACE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Nido Cocktailbar",
+      "venue_id": "301028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520840"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "61978",
+      "name": "Amber (NL)",
+      "count": 1
+    },
+    {
+      "id": "52451",
+      "name": "Marvin Aloys",
+      "count": 1
+    },
+    {
+      "id": "127455",
+      "name": "RIØ (DE)",
+      "count": 1
+    },
+    {
+      "id": "134218",
+      "name": "Roxy Nox",
+      "count": 1
+    },
+    {
+      "id": "183438",
+      "name": "YEPIK",
+      "count": 1
+    }
+  ]
+}

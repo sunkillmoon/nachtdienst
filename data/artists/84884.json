@@ -15,13 +15,23 @@
     },
     {
       "id": "ra:2490543",
-      "title": "Afra invites",
+      "title": "Afra invites Steve Rachmad & Queen Saba",
       "date": "2026-09-19",
       "start": "2026-09-19T23:59+02:00",
       "venue": "PIP Den Haag",
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2490543"
+    },
+    {
+      "id": "ra:2520622",
+      "title": "ADE - RAUM invites Clone Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520622"
     }
   ],
   "past": [

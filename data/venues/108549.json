@@ -96,16 +96,6 @@
       "url": "https://ra.co/events/2495711"
     },
     {
-      "id": "ra:2516415",
-      "title": "Chunky",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516415"
-    },
-    {
       "id": "ra:2519779",
       "title": "CHUNKY",
       "date": "2026-09-11",
@@ -114,6 +104,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519779"
+    },
+    {
+      "id": "ra:2516415",
+      "title": "Chunky",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516415"
     },
     {
       "id": "ra:2516383",
@@ -264,6 +264,16 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516705"
+    },
+    {
+      "id": "ra:2511591",
+      "title": "SLPFNK - BRET ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511591"
     }
   ],
   "past": [

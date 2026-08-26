@@ -2,7 +2,18 @@
   "id": "24398",
   "name": "David Gtronic",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519779",
+      "title": "CHUNKY",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519779"
+    }
+  ],
   "past": [
     {
       "id": "ra:2456711",

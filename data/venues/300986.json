@@ -1,0 +1,20 @@
+{
+  "id": "300986",
+  "name": "Bar Shaffy",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2520331",
+      "title": "PHAT TRAX & Bar Shaffy present: Amsterdam Takeover",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Bar Shaffy",
+      "venue_id": "300986",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520331"
+    }
+  ],
+  "past": []
+}

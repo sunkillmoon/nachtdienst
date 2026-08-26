@@ -1,0 +1,64 @@
+{
+  "id": "189591",
+  "name": "Chunky",
+  "upcoming": [
+    {
+      "id": "ra:2519779",
+      "title": "CHUNKY",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519779"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "86981",
+      "name": "BILA",
+      "count": 1
+    },
+    {
+      "id": "101810",
+      "name": "Constratti",
+      "count": 1
+    },
+    {
+      "id": "21076",
+      "name": "Cristi Cons",
+      "count": 1
+    },
+    {
+      "id": "24398",
+      "name": "David Gtronic",
+      "count": 1
+    },
+    {
+      "id": "110030",
+      "name": "Marlie",
+      "count": 1
+    },
+    {
+      "id": "98659",
+      "name": "Mihai Pol",
+      "count": 1
+    },
+    {
+      "id": "82541",
+      "name": "mink",
+      "count": 1
+    },
+    {
+      "id": "32165",
+      "name": "Sepp",
+      "count": 1
+    },
+    {
+      "id": "17097",
+      "name": "Vlad Caia",
+      "count": 1
+    }
+  ]
+}

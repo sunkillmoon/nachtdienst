@@ -163,6 +163,16 @@
       "url": "https://ra.co/events/2479597"
     },
     {
+      "id": "ra:2511517",
+      "title": "SLPFNK X DUNGEON FUNK ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511517"
+    },
+    {
       "id": "ra:2479598",
       "title": "Brighter Days x Life and Death",
       "date": "2026-10-24",
@@ -302,6 +312,11 @@
       "count": 3
     },
     {
+      "id": "37122",
+      "name": "Larry De Kat",
+      "count": 2
+    },
+    {
       "id": "68513",
       "name": "Jhobei",
       "count": 2
@@ -329,11 +344,6 @@
     {
       "id": "6467",
       "name": "Cinthie",
-      "count": 2
-    },
-    {
-      "id": "17805",
-      "name": "DJ Tennis",
       "count": 2
     }
   ]

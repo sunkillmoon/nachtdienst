@@ -1,0 +1,49 @@
+{
+  "id": "49884",
+  "name": "MOOD",
+  "upcoming": [
+    {
+      "id": "ra:2520825",
+      "title": "MOOD & Friends",
+      "date": "2026-09-19",
+      "start": "2026-09-19T15:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520825"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84444",
+      "name": "Caim",
+      "count": 1
+    },
+    {
+      "id": "16980",
+      "name": "Jaime Frias",
+      "count": 1
+    },
+    {
+      "id": "76302",
+      "name": "Joris Zwetsloot",
+      "count": 1
+    },
+    {
+      "id": "28413",
+      "name": "Erik Sebastiaan",
+      "count": 1
+    },
+    {
+      "id": "171142",
+      "name": "Fieldhouse",
+      "count": 1
+    },
+    {
+      "id": "89355",
+      "name": "Yubu",
+      "count": 1
+    }
+  ]
+}

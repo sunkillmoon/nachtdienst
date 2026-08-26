@@ -6,16 +6,6 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2495232",
-      "title": "Cheeky Monday: Ray Keith",
-      "date": "2026-08-24",
-      "start": "2026-08-24T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495232"
-    },
-    {
       "id": "ra:2492902",
       "title": "Techno Tuesday Amsterdam, 25 August has been moved to Wednesday 26 August",
       "date": "2026-08-25",
@@ -427,6 +417,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2495232",
+      "title": "Cheeky Monday: Ray Keith",
+      "date": "2026-08-24",
+      "start": "2026-08-24T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495232"
+    },
     {
       "id": "ra:2423000",
       "title": "RAVING CHARLIE: Hard Techno / Rave w/ BLACK [JP] / SWAGGER [JP]",

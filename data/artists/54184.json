@@ -32,6 +32,16 @@
       "venue_id": "277115",
       "area": "All",
       "url": "https://ra.co/events/2479114"
+    },
+    {
+      "id": "ra:2520399",
+      "title": "FSTM ADE Take Over",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520399"
     }
   ],
   "past": [

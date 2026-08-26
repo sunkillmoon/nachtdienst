@@ -6,16 +6,6 @@
   "lng": 4.897596,
   "upcoming": [
     {
-      "id": "ra:2503311",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-08-24",
-      "start": "2026-08-24T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503311"
-    },
-    {
       "id": "ra:2482088",
       "title": "[PHANTOM GROUP] KLUBNACHT w SUKA / LOUKKI / MINOR FIGURES / SAINTY / STVN / X_O FOREST",
       "date": "2026-08-25",
@@ -47,7 +37,7 @@
     },
     {
       "id": "ra:2497114",
-      "title": "CODE 303 x UNDRGRND",
+      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
       "date": "2026-08-28",
       "start": "2026-08-28T23:00+02:00",
       "venue": "John Doe",
@@ -446,6 +436,26 @@
       "url": "https://ra.co/events/2515090"
     },
     {
+      "id": "ra:2521088",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-04",
+      "start": "2026-11-04T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521088"
+    },
+    {
+      "id": "ra:2521093",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-11",
+      "start": "2026-11-11T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521093"
+    },
+    {
       "id": "ra:2515096",
       "title": "Amsterdam Nights: Hard Techno Rave",
       "date": "2026-11-14",
@@ -454,9 +464,29 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515096"
+    },
+    {
+      "id": "ra:2521099",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-18",
+      "start": "2026-11-18T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521099"
     }
   ],
   "past": [
+    {
+      "id": "ra:2503311",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-24",
+      "start": "2026-08-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503311"
+    },
     {
       "id": "ra:2496841",
       "title": "No Sundays Without Techno",

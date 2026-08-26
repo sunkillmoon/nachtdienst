@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2446382"
     },
     {
+      "id": "ra:2497114",
+      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497114"
+    },
+    {
       "id": "ra:2503536",
       "title": "RAVELAND: Hard Techno & Hard Bounce",
       "date": "2026-09-02",
@@ -133,6 +143,26 @@
       "url": "https://ra.co/events/2515090"
     },
     {
+      "id": "ra:2521088",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-04",
+      "start": "2026-11-04T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521088"
+    },
+    {
+      "id": "ra:2521093",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-11",
+      "start": "2026-11-11T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521093"
+    },
+    {
       "id": "ra:2515096",
       "title": "Amsterdam Nights: Hard Techno Rave",
       "date": "2026-11-14",
@@ -141,6 +171,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515096"
+    },
+    {
+      "id": "ra:2521099",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-11-18",
+      "start": "2026-11-18T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521099"
     }
   ],
   "past": [
@@ -227,6 +267,11 @@
   ],
   "top_artists": [
     {
+      "id": "106568",
+      "name": "Paroxyzm",
+      "count": 2
+    },
+    {
       "id": "103744",
       "name": "Robin Hastings",
       "count": 2
@@ -247,6 +292,16 @@
       "count": 1
     },
     {
+      "id": "177139",
+      "name": "SASHE (2)",
+      "count": 1
+    },
+    {
+      "id": "109360",
+      "name": "saskia laval",
+      "count": 1
+    },
+    {
       "id": "153804",
       "name": "DMS1N3RGY",
       "count": 1
@@ -259,21 +314,6 @@
     {
       "id": "116281",
       "name": "Zaphy",
-      "count": 1
-    },
-    {
-      "id": "143309",
-      "name": "RUL3",
-      "count": 1
-    },
-    {
-      "id": "181033",
-      "name": "BEZMEZH",
-      "count": 1
-    },
-    {
-      "id": "63868",
-      "name": "Nina de Koning",
       "count": 1
     }
   ]

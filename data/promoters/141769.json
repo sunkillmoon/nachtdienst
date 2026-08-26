@@ -63,6 +63,66 @@
       "url": "https://ra.co/events/2499729"
     },
     {
+      "id": "ra:2520611",
+      "title": "Mama Snake, Roza Terenzi, Rey Colino",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520611"
+    },
+    {
+      "id": "ra:2520614",
+      "title": "Leon Vynehall, Yu Su, Marie K",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520614"
+    },
+    {
+      "id": "ra:2520615",
+      "title": "Surgeon, Talismann, Polly F",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520615"
+    },
+    {
+      "id": "ra:2520618",
+      "title": "CCL (All Night Long)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520618"
+    },
+    {
+      "id": "ra:2520620",
+      "title": "Steve Bicknell, Stephanie Sykes, Cinnaman",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520620"
+    },
+    {
+      "id": "ra:2520622",
+      "title": "ADE - RAUM invites Clone Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520622"
+    },
+    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -167,6 +227,21 @@
       "count": 2
     },
     {
+      "id": "3596",
+      "name": "Serge",
+      "count": 2
+    },
+    {
+      "id": "83883",
+      "name": "Polly F",
+      "count": 2
+    },
+    {
+      "id": "84884",
+      "name": "Afra",
+      "count": 2
+    },
+    {
       "id": "92059",
       "name": "BASHKKA",
       "count": 2
@@ -189,21 +264,6 @@
     {
       "id": "86820",
       "name": "Audrey Danza",
-      "count": 1
-    },
-    {
-      "id": "426",
-      "name": "Ben Sims",
-      "count": 1
-    },
-    {
-      "id": "93471",
-      "name": "Bitter Babe",
-      "count": 1
-    },
-    {
-      "id": "54184",
-      "name": "Blasha & Allatt",
       "count": 1
     }
   ]

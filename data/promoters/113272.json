@@ -11,6 +11,36 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505836"
+    },
+    {
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520692"
+    },
+    {
+      "id": "ra:2520736",
+      "title": "Sem Jacobs (Exclusive Extended Set) + Kassko",
+      "date": "2026-09-05",
+      "start": "2026-09-05T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520736"
+    },
+    {
+      "id": "ra:2520902",
+      "title": "Two Five Two",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520902"
     }
   ],
   "past": [
@@ -87,43 +117,43 @@
       "count": 1
     },
     {
-      "id": "140660",
-      "name": "Benoît",
+      "id": "173113",
+      "name": "Ben Horton",
       "count": 1
     },
     {
-      "id": "164342",
-      "name": "Jordino",
+      "id": "153155",
+      "name": "Capron",
       "count": 1
     },
     {
-      "id": "25912",
-      "name": "Julien Simmons",
+      "id": "146150",
+      "name": "Robin Nicolas",
       "count": 1
     },
     {
-      "id": "182778",
-      "name": "Mallie",
+      "id": "116982",
+      "name": "Sozef",
       "count": 1
     },
     {
-      "id": "174234",
-      "name": "Maria Louisa",
+      "id": "112276",
+      "name": "Sem Jacobs",
       "count": 1
     },
     {
-      "id": "137105",
-      "name": "SOLIT",
+      "id": "58518",
+      "name": "Be Lion",
       "count": 1
     },
     {
-      "id": "111019",
-      "name": "Portente",
+      "id": "149434",
+      "name": "Sanne Dammers",
       "count": 1
     },
     {
-      "id": "120088",
-      "name": "Micky Hurts",
+      "id": "173724",
+      "name": "Hris East",
       "count": 1
     }
   ]

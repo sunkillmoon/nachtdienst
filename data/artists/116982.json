@@ -2,7 +2,18 @@
   "id": "116982",
   "name": "Sozef",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520692"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485555",

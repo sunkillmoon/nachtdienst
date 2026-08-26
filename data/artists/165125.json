@@ -12,6 +12,16 @@
       "venue_id": "275591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2502005",
+      "title": "ORIGINS x Deep Echoes pres. ALL HANDS ON DECK",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502005"
     }
   ],
   "past": [

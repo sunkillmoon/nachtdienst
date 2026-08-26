@@ -2,7 +2,18 @@
   "id": "102183",
   "name": "Neska",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2520622",
+      "title": "ADE - RAUM invites Clone Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520622"
+    }
+  ],
   "past": [
     {
       "id": "ra:2458255",

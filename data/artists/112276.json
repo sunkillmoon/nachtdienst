@@ -2,7 +2,18 @@
   "id": "112276",
   "name": "Sem Jacobs",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2520736",
+      "title": "Sem Jacobs (Exclusive Extended Set) + Kassko",
+      "date": "2026-09-05",
+      "start": "2026-09-05T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520736"
+    }
+  ],
   "past": [
     {
       "id": "ra:2486365",

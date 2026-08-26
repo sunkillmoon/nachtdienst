@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2497114",
-      "title": "CODE 303 x UNDRGRND",
+      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
       "date": "2026-08-28",
       "start": "2026-08-28T23:00+02:00",
       "venue": "John Doe",
@@ -172,6 +172,21 @@
       "count": 12
     },
     {
+      "id": "106568",
+      "name": "Paroxyzm",
+      "count": 1
+    },
+    {
+      "id": "177139",
+      "name": "SASHE (2)",
+      "count": 1
+    },
+    {
+      "id": "109360",
+      "name": "saskia laval",
+      "count": 1
+    },
+    {
       "id": "117500",
       "name": "JHONATAN OSPINA",
       "count": 1
@@ -199,21 +214,6 @@
     {
       "id": "100260",
       "name": "Darksidevinyl",
-      "count": 1
-    },
-    {
-      "id": "176945",
-      "name": "Slimflo",
-      "count": 1
-    },
-    {
-      "id": "182197",
-      "name": "Lilin",
-      "count": 1
-    },
-    {
-      "id": "34115",
-      "name": "Dunkel",
       "count": 1
     }
   ]

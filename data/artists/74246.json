@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2520611",
+      "title": "Mama Snake, Roza Terenzi, Rey Colino",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520611"
+    },
+    {
       "id": "ra:2494370",
       "title": "The sound of Belgium",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "86709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2520399",
+      "title": "FSTM ADE Take Over",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520399"
     }
   ],
   "past": [

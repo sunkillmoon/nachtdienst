@@ -1,0 +1,59 @@
+{
+  "id": "54908",
+  "name": "Yoyaku",
+  "upcoming": [
+    {
+      "id": "ra:2511545",
+      "title": "SLPFNK X Yoyaku ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T08:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511545"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "18958",
+      "name": "Alexander Skancke",
+      "count": 1
+    },
+    {
+      "id": "78445",
+      "name": "DJ Senc",
+      "count": 1
+    },
+    {
+      "id": "46539",
+      "name": "Mari.te",
+      "count": 1
+    },
+    {
+      "id": "571",
+      "name": "Magda",
+      "count": 1
+    },
+    {
+      "id": "50867",
+      "name": "Moopie",
+      "count": 1
+    },
+    {
+      "id": "60770",
+      "name": "Nathalie Seres",
+      "count": 1
+    },
+    {
+      "id": "3111",
+      "name": "Tomoki Tamura",
+      "count": 1
+    },
+    {
+      "id": "36342",
+      "name": "Zeina",
+      "count": 1
+    }
+  ]
+}

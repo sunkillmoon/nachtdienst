@@ -127,16 +127,6 @@
   ],
   "top_artists": [
     {
-      "id": "185468",
-      "name": "STVN (2)",
-      "count": 2
-    },
-    {
-      "id": "173764",
-      "name": "SUKA",
-      "count": 2
-    },
-    {
       "id": "127968",
       "name": "TRANZ",
       "count": 2
@@ -147,8 +137,18 @@
       "count": 2
     },
     {
+      "id": "185468",
+      "name": "STVN (2)",
+      "count": 2
+    },
+    {
       "id": "160452",
       "name": "JTN (1)",
+      "count": 2
+    },
+    {
+      "id": "173764",
+      "name": "SUKA",
       "count": 2
     },
     {

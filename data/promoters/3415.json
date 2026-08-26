@@ -1,0 +1,59 @@
+{
+  "id": "3415",
+  "name": "Clone",
+  "upcoming": [
+    {
+      "id": "ra:2520622",
+      "title": "ADE - RAUM invites Clone Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520622"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84884",
+      "name": "Afra",
+      "count": 1
+    },
+    {
+      "id": "40059",
+      "name": "Detroit In Effect",
+      "count": 1
+    },
+    {
+      "id": "57483",
+      "name": "L.F.T.",
+      "count": 1
+    },
+    {
+      "id": "14462",
+      "name": "Neel",
+      "count": 1
+    },
+    {
+      "id": "102183",
+      "name": "Neska",
+      "count": 1
+    },
+    {
+      "id": "175281",
+      "name": "Ottagone",
+      "count": 1
+    },
+    {
+      "id": "3596",
+      "name": "Serge",
+      "count": 1
+    },
+    {
+      "id": "76328",
+      "name": "Tau Ceti",
+      "count": 1
+    }
+  ]
+}
