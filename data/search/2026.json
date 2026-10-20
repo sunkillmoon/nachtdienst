@@ -1177,7 +1177,7 @@
     "venue_id": "2683",
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2407995",
-    "terms": "theory x ade showcase w/ timo maas, sezer uysal & many more  escape amsterdam sezer uysal timo maas james harcourt aladag ozbek viia baime lampetee emanate faith utku amsterdam dance event theoryxmusic"
+    "terms": "theory x ade showcase w/ timo maas, sezer uysal & many more  escape amsterdam sezer uysal timo maas james harcourt aladag ozbek viia baime lampetee emanate faith utku desaint (dk) amsterdam dance event theoryxmusic"
   },
   {
     "id": "ra:2408142",
@@ -19440,6 +19440,16 @@
     "terms": "amsterdam dance event - indeep'n'dance record store – crate digging – meet & greet indeep'n'dance records amsterdam dexon ado estray indeep'n'dance records"
   },
   {
+    "id": "ra:2531461",
+    "date": "2026-10-24",
+    "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
+    "venue": "InDeep'n'Dance Records",
+    "venue_id": "4395",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2531461",
+    "terms": "amsterdam dance event - indeep'n'dance record store – crate digging – meet & greet indeep'n'dance records amsterdam indeep'n'dance records"
+  },
+  {
     "id": "ra:2531462",
     "date": "2026-10-25",
     "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
@@ -23280,6 +23290,16 @@
     "terms": "electric escape & ambrozic productions present: converge chin chin club amsterdam code black lny tnz odium somna rinaly electric escape"
   },
   {
+    "id": "ra:2556616",
+    "date": "2026-10-22",
+    "title": "B'fast2night & Explore - ADE showcase",
+    "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+    "venue_id": "304488",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2556616",
+    "terms": "b'fast2night & explore - ade showcase 50:hertz house & techno club rembrandt square amsterdam eran hersh amethy soofnic hyus aphelion.art"
+  },
+  {
     "id": "ra:2556678",
     "date": "2026-10-20",
     "title": "[PHANTOM GROUP] ADE OPENING",
@@ -24938,6 +24958,16 @@
     "area": "Amsterdam",
     "ra_url": "https://ra.co/events/2563950",
     "terms": "lclub presents: ade 2026 onder hans amsterdam affani alex arnout hector moralez lclub"
+  },
+  {
+    "id": "ra:2563960",
+    "date": "2026-10-23",
+    "title": "Basshaus / DOME SESSION 001",
+    "venue": "TBA",
+    "venue_id": "203299",
+    "area": "Amsterdam",
+    "ra_url": "https://ra.co/events/2563960",
+    "terms": "basshaus / dome session 001 tba amsterdam antigoni decadance basshaus basshauss"
   },
   {
     "id": "ra:2563972",
