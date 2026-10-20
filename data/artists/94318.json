@@ -2,7 +2,8 @@
   "id": "94318",
   "name": "Alex Ranzino",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490009",
       "title": "Naked KNIT",
@@ -12,9 +13,7 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490009"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487320",
       "title": "SEASON FINALE",

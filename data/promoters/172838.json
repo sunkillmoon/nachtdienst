@@ -1,7 +1,8 @@
 {
   "id": "172838",
   "name": "00:13",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2342711",
       "title": "Daft Funk Live",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2342711"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "120119",

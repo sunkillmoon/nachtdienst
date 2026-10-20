@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.925462,
   "lng": 4.475427,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495441",
       "title": "Music is the Answer Back at Reverse",
@@ -14,9 +15,7 @@
       "venue_id": "165440",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2495441"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2516011",
       "title": "ТУСОВКА В СТИЛЕ 2000х ГОДОВ - РОТТЕРДАМ",

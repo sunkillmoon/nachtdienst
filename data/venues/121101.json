@@ -1,0 +1,31 @@
+{
+  "id": "121101",
+  "name": "Oedipus Brewery",
+  "area": "Amsterdam",
+  "lat": 52.383546,
+  "lng": 4.921234,
+  "upcoming": [
+    {
+      "id": "ra:2565476",
+      "title": "Oedipus x VATG: Dig. Make. Drink. Dance",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Oedipus Brewery",
+      "venue_id": "121101",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565476"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2477581",
+      "title": "Pacific Ondergronds & KRUISPUNT free party #4 at Oedipus Brouwerij",
+      "date": "2026-07-18",
+      "start": "2026-07-18T21:00+02:00",
+      "venue": "Oedipus Brewery",
+      "venue_id": null,
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477581"
+    }
+  ]
+}

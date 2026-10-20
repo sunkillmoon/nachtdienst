@@ -1,7 +1,8 @@
 {
   "id": "110204",
   "name": "Like It Love It",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501891",
       "title": "Cirque Du Rave Is Coming",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2501891"
     }
   ],
-  "past": [],
   "top_artists": []
 }

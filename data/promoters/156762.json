@@ -1,0 +1,39 @@
+{
+  "id": "156762",
+  "name": "Elias Mazian",
+  "upcoming": [
+    {
+      "id": "ra:2529465",
+      "title": "Private Hearts Club ADE '26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Café Soleil Amsterdam",
+      "venue_id": "277577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529465"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "20125",
+      "name": "Fantastic Man",
+      "count": 1
+    },
+    {
+      "id": "14698",
+      "name": "Tornado Wallace",
+      "count": 1
+    },
+    {
+      "id": "34062",
+      "name": "Elias Mazian",
+      "count": 1
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
+      "count": 1
+    }
+  ]
+}

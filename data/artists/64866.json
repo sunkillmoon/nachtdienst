@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2395821",
-      "title": "Wooferland festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Spaarnwoude (Deelplan Houtrak)",
-      "venue_id": "2081",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2395821"
-    },
-    {
       "id": "ra:2404228",
       "title": "Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026",
       "date": "2026-11-07",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
     {
       "id": "ra:2392340",
       "title": "SOLD OUT Summer of Love Festival 2026",

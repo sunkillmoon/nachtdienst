@@ -2,7 +2,28 @@
   "id": "25912",
   "name": "Julien Simmons",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
+      "id": "ra:2550753",
+      "title": "Resident Night Yellow House ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550753"
+    }
+  ],
   "past": [
     {
       "id": "ra:2420618",

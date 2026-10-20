@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2513204",
+      "title": "That Garage Sound x Ghosts of Garage - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513204"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493470",
       "title": "Sissi's by Closecall x Ghosts of Garage",
       "date": "2026-08-29",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493470"
     }
-  ],
-  "past": []
+  ]
 }

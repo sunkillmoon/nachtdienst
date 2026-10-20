@@ -2,7 +2,8 @@
   "id": "95034",
   "name": "DORA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466215",
       "title": "TOFFLER presents Boss Priester and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466215"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "184858",
   "name": "Traffic Jam Mosquito",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506079",
       "title": "3xNYX hosted by Abby OMG",
@@ -12,9 +13,7 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506079"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487470",
       "title": "Rave in the Park",

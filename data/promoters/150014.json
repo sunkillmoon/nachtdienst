@@ -1,0 +1,24 @@
+{
+  "id": "150014",
+  "name": "Golestan",
+  "upcoming": [
+    {
+      "id": "ra:2554123",
+      "title": "Golestan - presents Daniele Baldelli (all night long)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Café De Plak",
+      "venue_id": "52605",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2554123"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "3570",
+      "name": "Daniele Baldelli",
+      "count": 1
+    }
+  ]
+}

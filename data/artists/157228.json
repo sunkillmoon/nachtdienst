@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2380229",
-      "title": "Cluster Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Kabelfabriek",
-      "venue_id": "286230",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2380229"
-    },
-    {
-      "id": "ra:2500670",
-      "title": "RADION Season Opener",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500670"
-    },
-    {
       "id": "ra:2489700",
       "title": "AURA ADE Special with Hayes Collective",
       "date": "2026-10-23",
@@ -35,6 +15,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
+    {
+      "id": "ra:2380229",
+      "title": "Cluster Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Kabelfabriek",
+      "venue_id": "286230",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2380229"
+    },
     {
       "id": "ra:2512446",
       "title": "AURA - Hashashin ALL DAY LONG",

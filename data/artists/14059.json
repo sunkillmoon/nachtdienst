@@ -2,7 +2,8 @@
   "id": "14059",
   "name": "Charlton",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496717",
       "title": "Tare invites",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496717"
     }
-  ],
-  "past": []
+  ]
 }

@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2452252"
     },
     {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
+    },
+    {
       "id": "ra:2489846",
       "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
       "date": "2026-10-26",
@@ -25,6 +35,21 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "71178",
+      "name": "Lumiere",
+      "count": 3
+    },
+    {
+      "id": "14812",
+      "name": "Binh",
+      "count": 2
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 2
+    },
     {
       "id": "188",
       "name": "Jeff Mills",
@@ -51,23 +76,13 @@
       "count": 1
     },
     {
-      "id": "14812",
-      "name": "Binh",
-      "count": 1
-    },
-    {
       "id": "93539",
       "name": "Quelza",
       "count": 1
     },
     {
-      "id": "86500",
-      "name": "Gabrielle Kwarteng",
-      "count": 1
-    },
-    {
-      "id": "71178",
-      "name": "Lumiere",
+      "id": "55225",
+      "name": "Mathame",
       "count": 1
     }
   ]

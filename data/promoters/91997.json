@@ -1,0 +1,49 @@
+{
+  "id": "91997",
+  "name": "Lab54",
+  "upcoming": [
+    {
+      "id": "ra:2539626",
+      "title": "Overbruggen x Lab54 - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539626"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107677",
+      "name": "Amy Os",
+      "count": 1
+    },
+    {
+      "id": "88056",
+      "name": "Boss Priester",
+      "count": 1
+    },
+    {
+      "id": "56571",
+      "name": "Kepler",
+      "count": 1
+    },
+    {
+      "id": "65929",
+      "name": "Dennis Quin",
+      "count": 1
+    },
+    {
+      "id": "175420",
+      "name": "Nafe Smallz",
+      "count": 1
+    },
+    {
+      "id": "94324",
+      "name": "Robbie Doherty",
+      "count": 1
+    }
+  ]
+}

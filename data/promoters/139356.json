@@ -1,0 +1,39 @@
+{
+  "id": "139356",
+  "name": "212 - 575",
+  "upcoming": [
+    {
+      "id": "ra:2556031",
+      "title": "DDW Closing 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Royaal",
+      "venue_id": "124620",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2556031"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4619",
+      "name": "Sandrien",
+      "count": 1
+    },
+    {
+      "id": "82994",
+      "name": "Kessler",
+      "count": 1
+    },
+    {
+      "id": "57269",
+      "name": "TITIA",
+      "count": 1
+    },
+    {
+      "id": "132362",
+      "name": "Gioray",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "77248",
   "name": "Debit",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
@@ -12,9 +13,7 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495259",
       "title": "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026",

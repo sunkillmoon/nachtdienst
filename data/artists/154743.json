@@ -2,7 +2,18 @@
   "id": "154743",
   "name": "Chess",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2521715",
+      "title": "Toffler presents Chess and friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2521715"
+    }
+  ],
   "past": [
     {
       "id": "ra:2437618",

@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2407995",
-      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "title": "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More ",
       "date": "2026-10-21",
       "start": "2026-10-21T22:00+02:00",
       "venue": "Escape",
       "venue_id": "2683",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2407995"
+    },
+    {
+      "id": "ra:2538403",
+      "title": "Urge To Dance x Reconsider: ADE '26 Showcase",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538403"
     }
   ],
   "past": []

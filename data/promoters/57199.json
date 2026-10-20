@@ -1,0 +1,59 @@
+{
+  "id": "57199",
+  "name": "iCulturemusic",
+  "upcoming": [
+    {
+      "id": "ra:2558817",
+      "title": "ADE 2026 - iCulture x Mirrorball with Mousse T., Terry Hunter & Mr V",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Vic's Bar",
+      "venue_id": "276679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558817"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "22744",
+      "name": "Mousse T.",
+      "count": 1
+    },
+    {
+      "id": "33379",
+      "name": "Terry Hunter",
+      "count": 1
+    },
+    {
+      "id": "7573",
+      "name": "Mr. V",
+      "count": 1
+    },
+    {
+      "id": "21726",
+      "name": "Richard Earnshaw",
+      "count": 1
+    },
+    {
+      "id": "112237",
+      "name": "Romeo Louisa",
+      "count": 1
+    },
+    {
+      "id": "24583",
+      "name": "Steve Taylor",
+      "count": 1
+    },
+    {
+      "id": "13517",
+      "name": "Sophie Lloyd",
+      "count": 1
+    },
+    {
+      "id": "58911",
+      "name": "Bongo Ben",
+      "count": 1
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -13,10 +13,20 @@
       "url": "https://ra.co/events/2494370"
     },
     {
-      "id": "ra:2516589",
-      "title": "Kiosk Radio x The Lot Radio x Doka Studio [ADE]",
+      "id": "ra:2563194",
+      "title": "Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO",
       "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563194"
+    },
+    {
+      "id": "ra:2516589",
+      "title": "Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",

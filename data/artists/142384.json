@@ -2,7 +2,8 @@
   "id": "142384",
   "name": "Mees Javois",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515014",
       "title": "Just A Party",
@@ -12,9 +13,7 @@
       "venue_id": "129182",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2515014"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2558569",
+      "title": "Fluid Funk Label Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Cafe Restaurant De Bazel",
+      "venue_id": "304975",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558569"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2500769",
       "title": "360 Degrees: Jayda G, Danou P & Love Transmission",
       "date": "2026-09-25",
@@ -12,9 +24,7 @@
       "venue_id": "48317",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2500769"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2373339",
       "title": "18 JUL - Thuishaven with Michel de Hey 10HRS",

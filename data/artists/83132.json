@@ -2,7 +2,8 @@
   "id": "83132",
   "name": "Jasper Pol",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481353",
       "title": "Spectra Summer Escapade",
@@ -23,6 +24,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490009"
     }
-  ],
-  "past": []
+  ]
 }

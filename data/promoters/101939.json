@@ -1,0 +1,39 @@
+{
+  "id": "101939",
+  "name": "TraTraTrax",
+  "upcoming": [
+    {
+      "id": "ra:2532950",
+      "title": "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532950"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "72669",
+      "name": "Verraco",
+      "count": 1
+    },
+    {
+      "id": "18524",
+      "name": "Pariah",
+      "count": 1
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 1
+    },
+    {
+      "id": "74853",
+      "name": "Jesse G",
+      "count": 1
+    }
+  ]
+}

@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2520164",
+      "title": "Showcase Kokolores x ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520164"
+    },
+    {
       "id": "ra:2519306",
       "title": "ADE x Showcase Kokolores",
       "date": "2026-10-21",
@@ -14,14 +24,14 @@
       "url": "https://ra.co/events/2519306"
     },
     {
-      "id": "ra:2520164",
-      "title": "Showcase Kokolores x ADE",
-      "date": "2026-10-21",
-      "start": "2026-10-21T20:00+02:00",
-      "venue": "Grand Café Heineken Hoek",
-      "venue_id": "83923",
+      "id": "ra:2518049",
+      "title": "Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Cut Throat",
+      "venue_id": "129680",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520164"
+      "url": "https://ra.co/events/2518049"
     }
   ],
   "past": []

@@ -2,16 +2,17 @@
   "id": "110141",
   "name": "Annebel",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2489575",
-      "title": "fruit salad x Epiphany Records",
-      "date": "2026-08-30",
-      "start": "2026-08-30T18:00+02:00",
-      "venue": "murmur",
-      "venue_id": "188430",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2489575"
+      "id": "ra:2512190",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
+      "date": "2026-10-09",
+      "start": "2026-10-09T21:00+02:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2512190"
     },
     {
       "id": "ra:2309929",
@@ -24,15 +25,14 @@
       "url": "https://ra.co/events/2309929"
     },
     {
-      "id": "ra:2512190",
-      "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
-      "date": "2026-10-09",
-      "start": "2026-10-09T21:00+02:00",
-      "venue": "Hall of Fame",
-      "venue_id": "86588",
-      "area": "All",
-      "url": "https://ra.co/events/2512190"
+      "id": "ra:2489575",
+      "title": "fruit salad x Epiphany Records",
+      "date": "2026-08-30",
+      "start": "2026-08-30T18:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489575"
     }
-  ],
-  "past": []
+  ]
 }

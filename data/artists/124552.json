@@ -2,7 +2,8 @@
   "id": "124552",
   "name": "Upper90",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2470297",
       "title": "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2470297"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2431383",
       "title": "Happy Feelings Festival Groningen 2026 W/ Gotu Jim, Benny Rodrigues, Rozie",

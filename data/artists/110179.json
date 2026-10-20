@@ -2,7 +2,8 @@
   "id": "110179",
   "name": "Bohm",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515548",
       "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2515548"
     }
-  ],
-  "past": []
+  ]
 }

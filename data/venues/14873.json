@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53.22455,
   "lng": 6.564174,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518978",
       "title": "History of House Groningen",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2518978"
     }
-  ],
-  "past": []
+  ]
 }

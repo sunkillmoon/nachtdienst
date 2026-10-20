@@ -4,6 +4,58 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2529438",
+      "title": "Becking presents: DAMSKO GARAGE w/ JOE HUNT & GENTLEMENS CLUB (LAST TICKETS)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529438"
+    },
+    {
+      "id": "ra:2527782",
+      "title": "Re'Mind invites DJ Q & Douvelle19 - ADE edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527782"
+    },
+    {
+      "id": "ra:2553215",
+      "title": "Vato Gonzalez presents Dirty House",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553215"
+    },
+    {
+      "id": "ra:2514292",
+      "title": "JØASE x Boogie House x CLBHUIS: ADE ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514292"
+    },
+    {
+      "id": "ra:2551822",
+      "title": "GET TO IT X JANGALA",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551822"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493470",
       "title": "Sissi's by Closecall x Ghosts of Garage",
       "date": "2026-08-29",
@@ -12,9 +64,7 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493470"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2461593",
       "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",

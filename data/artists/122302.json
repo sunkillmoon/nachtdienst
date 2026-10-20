@@ -2,7 +2,18 @@
   "id": "122302",
   "name": "OG Karin",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2502004",
+      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502004"
+    },
     {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
@@ -13,18 +24,6 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
     },
-    {
-      "id": "ra:2502004",
-      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
-      "date": "2026-09-19",
-      "start": "2026-09-19T22:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2502004"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2477184",
       "title": "PAMELA invites Dalson Superstore",

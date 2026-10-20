@@ -1,7 +1,18 @@
 {
   "id": "78874",
   "name": "Subcultuur (NL)",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559890",
+      "title": "Subcultuur Arnhem - De Zoetenlab",
+      "date": "2026-11-06",
+      "start": "2026-11-06T18:00+01:00",
+      "venue": "De Zoeten Laboratorium",
+      "venue_id": "305105",
+      "area": "All",
+      "url": "https://ra.co/events/2559890"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485525",
@@ -26,6 +37,11 @@
   ],
   "top_artists": [
     {
+      "id": "104385",
+      "name": "Milion",
+      "count": 2
+    },
+    {
       "id": "182573",
       "name": "Dean Turnley",
       "count": 2
@@ -41,38 +57,33 @@
       "count": 2
     },
     {
-      "id": "110084",
-      "name": "Eileen (NL)",
+      "id": "73940",
+      "name": "CARISTA",
       "count": 1
     },
     {
-      "id": "103554",
-      "name": "Miguel De Bois",
+      "id": "59414",
+      "name": "Luuk van Dijk",
       "count": 1
     },
     {
-      "id": "104385",
-      "name": "Milion",
+      "id": "121173",
+      "name": "D Stone",
       "count": 1
     },
     {
-      "id": "168607",
-      "name": "Deejay Abstract",
+      "id": "119338",
+      "name": "Helena Lauwaert",
       "count": 1
     },
     {
-      "id": "113604",
-      "name": "Carlos Willengton",
+      "id": "112553",
+      "name": "THELMA",
       "count": 1
     },
     {
-      "id": "113984",
-      "name": "Lysah",
-      "count": 1
-    },
-    {
-      "id": "95363",
-      "name": "Sentinel Island Disco",
+      "id": "50379",
+      "name": "Locklead",
       "count": 1
     }
   ]

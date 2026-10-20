@@ -1,8 +1,20 @@
 {
   "id": "127084",
-  "name": "Taylor Taylor",
+  "name": "Taylor Taylor (NL)",
   "socials": {},
   "upcoming": [
+    {
+      "id": "ra:2519249",
+      "title": "Techno Therapy x Herbivox: ADE Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519249"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2498340",
       "title": "Entity + Herbivox presents OVERGROW",
@@ -12,9 +24,7 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498340"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2497317",
       "title": "Zwart Goud × Lex Eco In-Store: World Pride Takeover",

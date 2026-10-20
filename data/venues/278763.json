@@ -6,34 +6,66 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2492189",
-      "title": "Interdimensional Transmissions x Clone Records",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2556996",
+      "title": "Nomads Invite: Jolene & Bobby Martin",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
       "venue": "export",
       "venue_id": "278763",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2492189"
+      "url": "https://ra.co/events/2556996"
     },
     {
-      "id": "ra:2498952",
-      "title": "IN TUNE ~~",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2561496",
+      "title": "HALLOW'S EVE: haunted soirée",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "export",
       "venue_id": "278763",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2498952"
+      "url": "https://ra.co/events/2561496"
     },
     {
-      "id": "ra:2512183",
-      "title": "Krackfree Soundsystem 10year Anniversary Event - Rotterdam",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2561510",
+      "title": "PAUZE",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
       "venue": "export",
       "venue_id": "278763",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2512183"
+      "url": "https://ra.co/events/2561510"
+    },
+    {
+      "id": "ra:2561205",
+      "title": "Fantastic Man, Jeff Solo",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:59+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561205"
+    },
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2485596",
+      "title": "Kult Funktion - Rotterdam Pride",
+      "date": "2026-09-26",
+      "start": "2026-09-26T22:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2485596"
     },
     {
       "id": "ra:2511267",
@@ -46,17 +78,35 @@
       "url": "https://ra.co/events/2511267"
     },
     {
-      "id": "ra:2485596",
-      "title": "Kult Funktion - Rotterdam Pride",
-      "date": "2026-09-26",
-      "start": "2026-09-26T22:00+02:00",
+      "id": "ra:2512183",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Rotterdam",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
       "venue": "export",
       "venue_id": "278763",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2485596"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2512183"
+    },
+    {
+      "id": "ra:2498952",
+      "title": "IN TUNE ~~",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2498952"
+    },
+    {
+      "id": "ra:2492189",
+      "title": "Interdimensional Transmissions x Clone Records",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2492189"
+    },
     {
       "id": "ra:2501667",
       "title": "POING FESTIVAL after hours",

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.696164,
   "lng": 5.298812,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492783",
       "title": "SIMPLICITY",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2492783"
     }
-  ],
-  "past": []
+  ]
 }

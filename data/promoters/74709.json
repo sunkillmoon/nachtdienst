@@ -6,7 +6,7 @@
       "id": "ra:2519986",
       "title": "Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition",
       "date": "2026-10-22",
-      "start": "2026-10-22T22:00+02:00",
+      "start": "2026-10-22T21:00+02:00",
       "venue": "Noorderlicht Café",
       "venue_id": "158843",
       "area": "Amsterdam",
@@ -14,5 +14,51 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "113539",
+      "name": "Agustin Giri",
+      "count": 1
+    },
+    {
+      "id": "30202",
+      "name": "Alican",
+      "count": 1
+    },
+    {
+      "id": "83210",
+      "name": "Argia",
+      "count": 1
+    },
+    {
+      "id": "110021",
+      "name": "Djolee",
+      "count": 1
+    },
+    {
+      "id": "170072",
+      "name": "Esli",
+      "count": 1
+    },
+    {
+      "id": "88805",
+      "name": "Gespona",
+      "count": 1
+    },
+    {
+      "id": "30115",
+      "name": "Murat Uncuoglu",
+      "count": 1
+    },
+    {
+      "id": "111103",
+      "name": "Last Men On Earth",
+      "count": 1
+    },
+    {
+      "id": "74191",
+      "name": "Phil Monday",
+      "count": 1
+    }
+  ]
 }

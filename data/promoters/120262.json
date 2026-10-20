@@ -3,6 +3,38 @@
   "name": "Tale of Bus",
   "upcoming": [
     {
+      "id": "ra:2537607",
+      "title": "Tale of Bus ADE - Instore",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537607"
+    },
+    {
+      "id": "ra:2537595",
+      "title": "Tale of Bus ADE - 4 year anniversary",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537595"
+    },
+    {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512605",
       "title": "Tale of Bus w/ Sugar Free, Daan Donk",
       "date": "2026-09-18",
@@ -11,9 +43,7 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512605"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2515131",
       "title": "Tobana",
@@ -49,41 +79,51 @@
     {
       "id": "34388",
       "name": "Daan Donk",
-      "count": 2
-    },
-    {
-      "id": "42057",
-      "name": "Sugar Free",
-      "count": 1
-    },
-    {
-      "id": "111744",
-      "name": "Kuba'97",
-      "count": 1
-    },
-    {
-      "id": "169383",
-      "name": "Idilay",
-      "count": 1
+      "count": 3
     },
     {
       "id": "161876",
       "name": "Lazystep",
-      "count": 1
+      "count": 2
     },
     {
       "id": "93746",
       "name": "Hannecart",
+      "count": 2
+    },
+    {
+      "id": "169383",
+      "name": "Idilay",
+      "count": 2
+    },
+    {
+      "id": "36342",
+      "name": "Zeina",
       "count": 1
     },
     {
-      "id": "131102",
-      "name": "Santiago Guilá",
+      "id": "131050",
+      "name": "sima k",
       "count": 1
     },
     {
-      "id": "10445",
-      "name": "Makcim",
+      "id": "90",
+      "name": "Craig Richards",
+      "count": 1
+    },
+    {
+      "id": "38180",
+      "name": "Emilio Arias",
+      "count": 1
+    },
+    {
+      "id": "111620",
+      "name": "Lolo Batten",
+      "count": 1
+    },
+    {
+      "id": "110100",
+      "name": "Ranma Entero",
       "count": 1
     }
   ]

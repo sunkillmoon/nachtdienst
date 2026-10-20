@@ -1,0 +1,28 @@
+{
+  "id": "151597",
+  "name": "Han Litz",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540556",
+      "title": "From Amsterdam with Love  ADE30",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540556"
+    },
+    {
+      "id": "ra:2540631",
+      "title": "CQTD presents Closing Brunch Chez Mr Watson",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540631"
+    }
+  ],
+  "past": []
+}

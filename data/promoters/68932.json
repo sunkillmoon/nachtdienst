@@ -3,64 +3,26 @@
   "name": "PIP Den Haag",
   "upcoming": [
     {
-      "id": "ra:2399040",
-      "title": "PIP Season Opening",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
+      "id": "ra:2534119",
+      "title": "PIP HALLOWEEN II",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
       "venue": "PIP Den Haag",
       "venue_id": "30689",
       "area": "The Hague",
-      "url": "https://ra.co/events/2399040"
-    },
+      "url": "https://ra.co/events/2534119"
+    }
+  ],
+  "past": [
     {
-      "id": "ra:2399043",
-      "title": "PIP presents Wildcard",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:59+02:00",
+      "id": "ra:2506097",
+      "title": "PIP presents PARISH",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:59+02:00",
       "venue": "PIP Den Haag",
       "venue_id": "30689",
       "area": "The Hague",
-      "url": "https://ra.co/events/2399043"
-    },
-    {
-      "id": "ra:2402447",
-      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2402447"
-    },
-    {
-      "id": "ra:2490543",
-      "title": "Afra invites Steve Rachmad & Queen Saba",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2490543"
-    },
-    {
-      "id": "ra:2438473",
-      "title": "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2438473"
-    },
-    {
-      "id": "ra:2399032",
-      "title": "PIP meets Stingray 313 / mul/ANNA / KI/IP",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2399032"
+      "url": "https://ra.co/events/2506097"
     },
     {
       "id": "ra:2402455",
@@ -73,17 +35,65 @@
       "url": "https://ra.co/events/2402455"
     },
     {
-      "id": "ra:2506097",
-      "title": "PIP presents PARISH",
-      "date": "2026-10-17",
-      "start": "2026-10-17T23:59+02:00",
+      "id": "ra:2399032",
+      "title": "PIP meets Stingray 313 / mul/ANNA / KI/IP",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:59+02:00",
       "venue": "PIP Den Haag",
       "venue_id": "30689",
       "area": "The Hague",
-      "url": "https://ra.co/events/2506097"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2399032"
+    },
+    {
+      "id": "ra:2438473",
+      "title": "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2438473"
+    },
+    {
+      "id": "ra:2490543",
+      "title": "Afra invites Steve Rachmad & Queen Saba",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2490543"
+    },
+    {
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
+    },
+    {
+      "id": "ra:2399043",
+      "title": "PIP presents Wildcard",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399043"
+    },
+    {
+      "id": "ra:2399040",
+      "title": "PIP Season Opening",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399040"
+    },
     {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",
@@ -107,53 +117,53 @@
   ],
   "top_artists": [
     {
-      "id": "54907",
-      "name": "Kamma",
+      "id": "172881",
+      "name": "Boudi",
       "count": 1
     },
     {
-      "id": "137301",
-      "name": "Malou (NL)",
+      "id": "61634",
+      "name": "brAque",
       "count": 1
     },
     {
-      "id": "110072",
-      "name": "Mowgli (NL)",
+      "id": "52490",
+      "name": "DJ VamPire",
       "count": 1
     },
     {
-      "id": "110084",
-      "name": "Eileen (NL)",
+      "id": "68088",
+      "name": "Falhaber",
       "count": 1
     },
     {
-      "id": "9083",
-      "name": "David Vunk",
+      "id": "174243",
+      "name": "Ascha",
       "count": 1
     },
     {
-      "id": "81091",
-      "name": "Doppelgang",
+      "id": "164508",
+      "name": "Auryn",
       "count": 1
     },
     {
-      "id": "123497",
-      "name": "jannah",
+      "id": "145175",
+      "name": "Bouk Liúw",
       "count": 1
     },
     {
-      "id": "84884",
-      "name": "Afra",
+      "id": "105168",
+      "name": "De Schuurman",
       "count": 1
     },
     {
-      "id": "665",
-      "name": "Steve Rachmad",
+      "id": "95008",
+      "name": "DJ Tracksuit",
       "count": 1
     },
     {
-      "id": "143969",
-      "name": "Queen Saba",
+      "id": "11831",
+      "name": "Jan van Kampen",
       "count": 1
     }
   ]

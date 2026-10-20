@@ -1,0 +1,34 @@
+{
+  "id": "90402",
+  "name": "The MUDD Show",
+  "upcoming": [
+    {
+      "id": "ra:2563419",
+      "title": "Kwartier x themuddshow x el tony mate",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Kwartier",
+      "venue_id": "305466",
+      "area": "All",
+      "url": "https://ra.co/events/2563419"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "46335",
+      "name": "Demuja",
+      "count": 1
+    },
+    {
+      "id": "3434",
+      "name": "Subb-an",
+      "count": 1
+    },
+    {
+      "id": "111224",
+      "name": "Karina Schneider",
+      "count": 1
+    }
+  ]
+}

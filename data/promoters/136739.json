@@ -1,0 +1,54 @@
+{
+  "id": "136739",
+  "name": "Moxy Muzik",
+  "upcoming": [
+    {
+      "id": "ra:2546414",
+      "title": "MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Jimmy Woo",
+      "venue_id": "2766",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546414"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4144",
+      "name": "Darius Syrossian",
+      "count": 1
+    },
+    {
+      "id": "101384",
+      "name": "Fleur Shore",
+      "count": 1
+    },
+    {
+      "id": "41111",
+      "name": "George Smeddles",
+      "count": 1
+    },
+    {
+      "id": "136325",
+      "name": "Murphy's Law",
+      "count": 1
+    },
+    {
+      "id": "154161",
+      "name": "Miruna Ghica",
+      "count": 1
+    },
+    {
+      "id": "52451",
+      "name": "Marvin Aloys",
+      "count": 1
+    },
+    {
+      "id": "45296",
+      "name": "MRCL",
+      "count": 1
+    }
+  ]
+}

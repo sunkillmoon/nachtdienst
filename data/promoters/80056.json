@@ -1,0 +1,39 @@
+{
+  "id": "80056",
+  "name": "Yomo Records",
+  "upcoming": [
+    {
+      "id": "ra:2537547",
+      "title": "Yomo Records 10 Yrs Celebration",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537547"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "389",
+      "name": "Mike Koglin",
+      "count": 1
+    },
+    {
+      "id": "53831",
+      "name": "MoodFreak",
+      "count": 1
+    },
+    {
+      "id": "158833",
+      "name": "Forty Cats",
+      "count": 1
+    },
+    {
+      "id": "165722",
+      "name": "Rikken",
+      "count": 1
+    }
+  ]
+}

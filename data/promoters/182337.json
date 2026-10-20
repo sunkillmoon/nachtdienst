@@ -1,7 +1,8 @@
 {
   "id": "182337",
   "name": "SITU",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518295",
       "title": "HIT THE SITU",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2518295"
     }
   ],
-  "past": [],
   "top_artists": []
 }

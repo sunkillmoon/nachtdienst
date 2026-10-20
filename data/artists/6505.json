@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2324563",
-      "title": "Outdoor Stereo 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T14:00+02:00",
-      "venue": "Julianapark Hoorn",
-      "venue_id": "33038",
-      "area": "All",
-      "url": "https://ra.co/events/2324563"
+      "id": "ra:2521580",
+      "title": "E1 ADE: DXNBY, Jay de Lys & Joey Daniel",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521580"
     },
+    {
+      "id": "ra:2557981",
+      "title": "RAPSODIA x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557981"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2517607",
       "title": "Apontow Akyi, Joey Daniel, Rooléh",
@@ -22,9 +34,17 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517607"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2324563",
+      "title": "Outdoor Stereo 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Julianapark Hoorn",
+      "venue_id": "33038",
+      "area": "All",
+      "url": "https://ra.co/events/2324563"
+    },
     {
       "id": "ra:2503117",
       "title": "Valtifest",

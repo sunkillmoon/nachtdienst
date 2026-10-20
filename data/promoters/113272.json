@@ -3,24 +3,66 @@
   "name": "Yellow House",
   "upcoming": [
     {
-      "id": "ra:2505836",
-      "title": "NO SUITS - Thank You For Dancing",
-      "date": "2026-08-28",
-      "start": "2026-08-28T21:00+02:00",
+      "id": "ra:2550797",
+      "title": "ENSL presents: Futurismo Tropical",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
       "venue": "Yellow House",
       "venue_id": "200290",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2505836"
+      "url": "https://ra.co/events/2550797"
     },
     {
-      "id": "ra:2520692",
-      "title": "Yellow House 5 September",
-      "date": "2026-09-04",
-      "start": "2026-09-04T21:00+02:00",
+      "id": "ra:2550753",
+      "title": "Resident Night Yellow House ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
       "venue": "Yellow House",
       "venue_id": "200290",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520692"
+      "url": "https://ra.co/events/2550753"
+    },
+    {
+      "id": "ra:2561356",
+      "title": "Five30 Halloween Special",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561356"
+    },
+    {
+      "id": "ra:2564426",
+      "title": "Micky Hurts: Fire Burning Release party",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564426"
+    },
+    {
+      "id": "ra:2564434",
+      "title": "ANNASNEL invites",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564434"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2520902",
+      "title": "Two Five Two",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520902"
     },
     {
       "id": "ra:2520736",
@@ -33,17 +75,25 @@
       "url": "https://ra.co/events/2520736"
     },
     {
-      "id": "ra:2520902",
-      "title": "Two Five Two",
-      "date": "2026-09-11",
-      "start": "2026-09-11T21:00+02:00",
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
       "venue": "Yellow House",
       "venue_id": "200290",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520902"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2520692"
+    },
+    {
+      "id": "ra:2505836",
+      "title": "NO SUITS - Thank You For Dancing",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505836"
+    },
     {
       "id": "ra:2505834",
       "title": "SV Events",
@@ -107,53 +157,53 @@
   ],
   "top_artists": [
     {
-      "id": "183490",
-      "name": "Sonan",
+      "id": "25912",
+      "name": "Julien Simmons",
+      "count": 2
+    },
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
+      "count": 2
+    },
+    {
+      "id": "4417",
+      "name": "Francesco Tristano",
       "count": 1
     },
     {
-      "id": "165700",
-      "name": "LUMINE",
+      "id": "9451",
+      "name": "Guti",
       "count": 1
     },
     {
-      "id": "173113",
-      "name": "Ben Horton",
+      "id": "4709",
+      "name": "Ion Ludwig",
       "count": 1
     },
     {
-      "id": "153155",
-      "name": "Capron",
+      "id": "7097",
+      "name": "Argenis Brito",
       "count": 1
     },
     {
-      "id": "146150",
-      "name": "Robin Nicolas",
+      "id": "11634",
+      "name": "Jonny Rock",
       "count": 1
     },
     {
-      "id": "116982",
-      "name": "Sozef",
+      "id": "7773",
+      "name": "Andrea Fiorito",
       "count": 1
     },
     {
-      "id": "112276",
-      "name": "Sem Jacobs",
+      "id": "69491",
+      "name": "Fell Reis",
       "count": 1
     },
     {
-      "id": "58518",
-      "name": "Be Lion",
-      "count": 1
-    },
-    {
-      "id": "149434",
-      "name": "Sanne Dammers",
-      "count": 1
-    },
-    {
-      "id": "173724",
-      "name": "Hris East",
+      "id": "18369",
+      "name": "Manoman",
       "count": 1
     }
   ]

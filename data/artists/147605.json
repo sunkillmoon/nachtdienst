@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2531230",
+      "title": "Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531230"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2514754",
       "title": " KRUISPUNT 3 JAAR",
       "date": "2026-09-12",
@@ -12,9 +24,7 @@
       "venue_id": "212668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514754"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494096",
       "title": "Akanbi, Joya Astou, Kevin Jamiro + bar40 hosted by Firewire",

@@ -1,0 +1,89 @@
+{
+  "id": "95507",
+  "name": "olivaamsterdam",
+  "upcoming": [
+    {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    },
+    {
+      "id": "ra:2525141",
+      "title": "Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525141"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112277",
+      "name": "AATMA",
+      "count": 1
+    },
+    {
+      "id": "74242",
+      "name": "Ae:ther",
+      "count": 1
+    },
+    {
+      "id": "188249",
+      "name": "ANSWER (IN)",
+      "count": 1
+    },
+    {
+      "id": "152895",
+      "name": "Bullzeye",
+      "count": 1
+    },
+    {
+      "id": "4144",
+      "name": "Darius Syrossian",
+      "count": 1
+    },
+    {
+      "id": "187977",
+      "name": "DON ROHO",
+      "count": 1
+    },
+    {
+      "id": "76211",
+      "name": "Iglesias",
+      "count": 1
+    },
+    {
+      "id": "25912",
+      "name": "Julien Simmons",
+      "count": 1
+    },
+    {
+      "id": "64303",
+      "name": "Mitch de Klein",
+      "count": 1
+    },
+    {
+      "id": "105299",
+      "name": "RSquared",
+      "count": 1
+    }
+  ]
+}

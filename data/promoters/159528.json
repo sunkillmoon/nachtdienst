@@ -1,0 +1,24 @@
+{
+  "id": "159528",
+  "name": "DANCAE",
+  "upcoming": [
+    {
+      "id": "ra:2545963",
+      "title": "DANCÆ × Chlär",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545963"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81367",
+      "name": "Chlär",
+      "count": 1
+    }
+  ]
+}

@@ -3,6 +3,18 @@
   "name": "Discosabotage",
   "upcoming": [
     {
+      "id": "ra:2538004",
+      "title": "Canapa-x invite Discosabotage records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538004"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2499299",
       "title": "Discosabotage & 2lovers present Onur Özer  - daytime",
       "date": "2026-09-05",
@@ -21,9 +33,7 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499676"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2475528",
       "title": "Discosabotage summer issue 25.07.26",
@@ -39,12 +49,37 @@
     {
       "id": "153812",
       "name": "Luval",
-      "count": 2
+      "count": 3
     },
     {
       "id": "146378",
       "name": "Matteo Racheli",
       "count": 2
+    },
+    {
+      "id": "68080",
+      "name": "Mariiin",
+      "count": 1
+    },
+    {
+      "id": "178531",
+      "name": "Runy",
+      "count": 1
+    },
+    {
+      "id": "154325",
+      "name": "Miko",
+      "count": 1
+    },
+    {
+      "id": "137171",
+      "name": "Two Opposites",
+      "count": 1
+    },
+    {
+      "id": "92340",
+      "name": "atomo",
+      "count": 1
     },
     {
       "id": "798",
@@ -59,21 +94,6 @@
     {
       "id": "55106",
       "name": "Alex Pastor",
-      "count": 1
-    },
-    {
-      "id": "176038",
-      "name": "Truman",
-      "count": 1
-    },
-    {
-      "id": "137171",
-      "name": "Two Opposites",
-      "count": 1
-    },
-    {
-      "id": "92340",
-      "name": "atomo",
       "count": 1
     }
   ]

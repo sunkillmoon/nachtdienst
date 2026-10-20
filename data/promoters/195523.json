@@ -1,0 +1,38 @@
+{
+  "id": "195523",
+  "name": "White Flow",
+  "upcoming": [
+    {
+      "id": "ra:2555526",
+      "title": "Dante's HiFi+ × W Amsterdam × White Flow",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555526"
+    },
+    {
+      "id": "ra:2555565",
+      "title": "Dante's HiFi+ × W Amsterdam × White Flow",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555565"
+    },
+    {
+      "id": "ra:2555570",
+      "title": "Dante's HiFi+ × W Amsterdam × White Flow",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555570"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

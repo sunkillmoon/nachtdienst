@@ -3,16 +3,6 @@
   "name": "Kaap Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2462927",
-      "title": "Tim Green all day long",
-      "date": "2026-10-10",
-      "start": "2026-10-10T17:00+02:00",
-      "venue": "Kaap Amsterdam",
-      "venue_id": "222814",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462927"
-    },
-    {
       "id": "ra:2467254",
       "title": "Moments",
       "date": "2026-10-22",
@@ -43,13 +33,19 @@
       "url": "https://ra.co/events/2510405"
     }
   ],
-  "past": [],
-  "top_artists": [
+  "past": [
     {
-      "id": "2144",
-      "name": "Tim Green",
-      "count": 1
-    },
+      "id": "ra:2462927",
+      "title": "Tim Green all day long",
+      "date": "2026-10-10",
+      "start": "2026-10-10T17:00+02:00",
+      "venue": "Kaap Amsterdam",
+      "venue_id": "222814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462927"
+    }
+  ],
+  "top_artists": [
     {
       "id": "16289",
       "name": "Guy Mantzur",
@@ -93,6 +89,11 @@
     {
       "id": "75348",
       "name": "DJ Zombi",
+      "count": 1
+    },
+    {
+      "id": "37483",
+      "name": "Dimitri Kneppers",
       "count": 1
     }
   ]

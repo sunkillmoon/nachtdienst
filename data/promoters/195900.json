@@ -1,0 +1,29 @@
+{
+  "id": "195900",
+  "name": "Maicol ",
+  "upcoming": [
+    {
+      "id": "ra:2559125",
+      "title": "Controlled",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Nido Cocktailbar",
+      "venue_id": "301028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559125"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "168506",
+      "name": "Mitsu",
+      "count": 1
+    },
+    {
+      "id": "29936",
+      "name": "Justin Jay",
+      "count": 1
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2497456",
-      "title": "RA25: Amsterdam - Greenhouse Sessions live",
+      "title": "RA25: Amsterdam - Greenhouse Sessions live (Free entry)",
       "date": "2026-10-22",
       "start": "2026-10-22T12:00+02:00",
       "venue": "San Francisco",
@@ -14,5 +14,51 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "97258",
+      "name": "Coco Maria",
+      "count": 1
+    },
+    {
+      "id": "13075",
+      "name": "Antal",
+      "count": 1
+    },
+    {
+      "id": "107217",
+      "name": "Introspekt",
+      "count": 1
+    },
+    {
+      "id": "126759",
+      "name": "Thakzin",
+      "count": 1
+    },
+    {
+      "id": "44350",
+      "name": "Konduku",
+      "count": 1
+    },
+    {
+      "id": "145125",
+      "name": "Zack Fox",
+      "count": 1
+    },
+    {
+      "id": "92059",
+      "name": "BASHKKA",
+      "count": 1
+    },
+    {
+      "id": "34683",
+      "name": "Nicolas Lutz",
+      "count": 1
+    },
+    {
+      "id": "1515",
+      "name": "Marcel Dettmann",
+      "count": 1
+    }
+  ]
 }

@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506079",
-      "title": "3xNYX hosted by Abby OMG",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2543225",
+      "title": "Vrijdag is NYX: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506079"
+      "url": "https://ra.co/events/2543225"
     },
+    {
+      "id": "ra:2545756",
+      "title": "3xNYX hosted by Gwen Dalin",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545756"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2506125",
       "title": "3xNYX: Burn the House Down",
@@ -22,9 +34,17 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506125"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2506079",
+      "title": "3xNYX hosted by Abby OMG",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506079"
+    },
     {
       "id": "ra:2487475",
       "title": "3xNYX: WORLD PRIDE",

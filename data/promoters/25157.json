@@ -3,6 +3,26 @@
   "name": "Chicago Social Club",
   "upcoming": [
     {
+      "id": "ra:2534381",
+      "title": "1001Tracklists x DJ Lovers Club pres. Open Channel ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534381"
+    },
+    {
+      "id": "ra:2526230",
+      "title": "Dirty Workz 20 Years",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526230"
+    },
+    {
       "id": "ra:2510263",
       "title": "Maceo Plex presents Lone Romantic",
       "date": "2026-10-22",
@@ -23,6 +43,16 @@
       "url": "https://ra.co/events/2510273"
     },
     {
+      "id": "ra:2534234",
+      "title": "Panteros666 & Friends ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534234"
+    },
+    {
       "id": "ra:2510268",
       "title": "NTO (3 hours live)",
       "date": "2026-10-24",
@@ -31,6 +61,16 @@
       "venue_id": "43438",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510268"
+    },
+    {
+      "id": "ra:2534241",
+      "title": "Aaron Hibell PRESENTS ALL TIME HIGH ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534241"
     },
     {
       "id": "ra:2520666",
@@ -46,6 +86,41 @@
   "past": [],
   "top_artists": [
     {
+      "id": "112204",
+      "name": "MPH (1)",
+      "count": 1
+    },
+    {
+      "id": "124402",
+      "name": "camoufly",
+      "count": 1
+    },
+    {
+      "id": "78990",
+      "name": "Coone",
+      "count": 1
+    },
+    {
+      "id": "54125",
+      "name": "Da Tweekaz",
+      "count": 1
+    },
+    {
+      "id": "3253",
+      "name": "Mish",
+      "count": 1
+    },
+    {
+      "id": "55098",
+      "name": "Solstice",
+      "count": 1
+    },
+    {
+      "id": "116974",
+      "name": "The Purge",
+      "count": 1
+    },
+    {
       "id": "18948",
       "name": "Maceo Plex",
       "count": 1
@@ -58,36 +133,6 @@
     {
       "id": "176412",
       "name": "Mack Loenz",
-      "count": 1
-    },
-    {
-      "id": "27204",
-      "name": "Raxon",
-      "count": 1
-    },
-    {
-      "id": "165083",
-      "name": "Ely Oaks",
-      "count": 1
-    },
-    {
-      "id": "7290",
-      "name": "NTO",
-      "count": 1
-    },
-    {
-      "id": "102570",
-      "name": "Hedda Stenberg",
-      "count": 1
-    },
-    {
-      "id": "114634",
-      "name": "Susan Right",
-      "count": 1
-    },
-    {
-      "id": "118202",
-      "name": "Ninsa",
       "count": 1
     }
   ]

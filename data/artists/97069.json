@@ -2,7 +2,18 @@
   "id": "97069",
   "name": "Flo Massé",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2479803",
+      "title": "maalstroom - Open Air",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Pier 15, Breda",
+      "venue_id": "177641",
+      "area": "All",
+      "url": "https://ra.co/events/2479803"
+    },
     {
       "id": "ra:2488594",
       "title": "Flo Masse • Kyra Khaldi • Same Faces",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2488594"
     },
-    {
-      "id": "ra:2479803",
-      "title": "maalstroom - Open Air",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Pier 15, Breda",
-      "venue_id": "177641",
-      "area": "All",
-      "url": "https://ra.co/events/2479803"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

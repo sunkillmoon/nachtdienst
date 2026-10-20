@@ -1,0 +1,54 @@
+{
+  "id": "81983",
+  "name": "Fold Theory",
+  "upcoming": [
+    {
+      "id": "ra:2527704",
+      "title": "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527704"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "131943",
+      "name": "De León",
+      "count": 1
+    },
+    {
+      "id": "144224",
+      "name": "JFK (USA)",
+      "count": 1
+    },
+    {
+      "id": "9362",
+      "name": "T.Linder",
+      "count": 1
+    },
+    {
+      "id": "30330",
+      "name": "Detune",
+      "count": 1
+    },
+    {
+      "id": "9553",
+      "name": "Neil V",
+      "count": 1
+    },
+    {
+      "id": "61034",
+      "name": "DJ Roach",
+      "count": 1
+    },
+    {
+      "id": "66383",
+      "name": "Eric Ross",
+      "count": 1
+    }
+  ]
+}

@@ -6,54 +6,24 @@
   "lng": 4.92572,
   "upcoming": [
     {
-      "id": "ra:2494107",
-      "title": "DJ Marcelle (all night) + bar40 hosted by awhlkuhn",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:30+02:00",
+      "id": "ra:2531230",
+      "title": "Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
       "venue": "Garage Noord",
       "venue_id": "137474",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2494107"
+      "url": "https://ra.co/events/2531230"
     },
     {
-      "id": "ra:2494108",
-      "title": "BBBwithluv welcomes Body Is A Miracle",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:30+02:00",
+      "id": "ra:2550927",
+      "title": "Sandbox Selects // ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
       "venue": "Garage Noord",
       "venue_id": "137474",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2494108"
-    },
-    {
-      "id": "ra:2519607",
-      "title": "Peder Mannerfelt, Parrish Smith, Keynu (Live), Juli Chaos",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519607"
-    },
-    {
-      "id": "ra:2516522",
-      "title": "PERREO31",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516522"
-    },
-    {
-      "id": "ra:2516479",
-      "title": "NTS Amsterdam",
-      "date": "2026-09-20",
-      "start": "2026-09-20T16:30+02:00",
-      "venue": "Garage Noord",
-      "venue_id": "137474",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516479"
+      "url": "https://ra.co/events/2550927"
     },
     {
       "id": "ra:2520732",
@@ -66,17 +36,147 @@
       "url": "https://ra.co/events/2520732"
     },
     {
+      "id": "ra:2539712",
+      "title": "Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539712"
+    },
+    {
+      "id": "ra:2539715",
+      "title": "GN does a party with Nyege Nyege & Trackwork",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539715"
+    },
+    {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494430"
+    },
+    {
+      "id": "ra:2558745",
+      "title": "HALLOWEEN GOTH NIGHT BY SPACEBUNKER",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558745"
+    },
+    {
+      "id": "ra:2539716",
+      "title": "co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539716"
+    },
+    {
+      "id": "ra:2539717",
+      "title": "Kumata x New World Dysorder",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539717"
+    },
+    {
+      "id": "ra:2558103",
+      "title": "Kumata x New World Dysorder Amsterdam",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558103"
+    },
+    {
+      "id": "ra:2548256",
+      "title": "Loukeman",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548256"
+    },
+    {
+      "id": "ra:2563627",
+      "title": "Tempo Marauders 2 year anniversary",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563627"
     }
   ],
   "past": [
+    {
+      "id": "ra:2516479",
+      "title": "NTS Amsterdam",
+      "date": "2026-09-20",
+      "start": "2026-09-20T16:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516479"
+    },
+    {
+      "id": "ra:2516522",
+      "title": "PERREO31",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516522"
+    },
+    {
+      "id": "ra:2519607",
+      "title": "Peder Mannerfelt, Parrish Smith, Keynu (Live), Juli Chaos",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519607"
+    },
+    {
+      "id": "ra:2494108",
+      "title": "BBBwithluv welcomes Body Is A Miracle",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494108"
+    },
+    {
+      "id": "ra:2494107",
+      "title": "DJ Marcelle (all night) + bar40 hosted by awhlkuhn",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:30+02:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494107"
+    },
     {
       "id": "ra:2508099",
       "title": "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst",

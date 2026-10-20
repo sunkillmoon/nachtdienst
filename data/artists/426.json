@@ -2,7 +2,18 @@
   "id": "426",
   "name": "Ben Sims",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2429035",
+      "title": "De Fusie feat. Ben Sims + Kameliia",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Luxor Live",
+      "venue_id": "13822",
+      "area": "All",
+      "url": "https://ra.co/events/2429035"
+    },
     {
       "id": "ra:2458125",
       "title": "SPIELRAUM Weekender: Nexus opening",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458125"
     },
-    {
-      "id": "ra:2429035",
-      "title": "De Fusie feat. Ben Sims + Kameliia",
-      "date": "2026-09-12",
-      "start": "2026-09-12T21:00+02:00",
-      "venue": "Luxor Live",
-      "venue_id": "13822",
-      "area": "All",
-      "url": "https://ra.co/events/2429035"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

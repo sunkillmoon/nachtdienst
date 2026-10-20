@@ -1,0 +1,20 @@
+{
+  "id": "174231",
+  "name": "Muziekcentrum Enschede",
+  "area": "All",
+  "lat": 52.222162,
+  "lng": 6.896019,
+  "upcoming": [
+    {
+      "id": "ra:2541042",
+      "title": "Basic Grooves",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Muziekcentrum Enschede",
+      "venue_id": "174231",
+      "area": "All",
+      "url": "https://ra.co/events/2541042"
+    }
+  ],
+  "past": []
+}

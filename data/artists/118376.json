@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2466448",
+      "title": "PIV - The Loft [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466448"
+    },
+    {
       "id": "ra:2494078",
       "title": "Defected ADE",
       "date": "2026-10-22",
@@ -12,6 +22,26 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494078"
+    },
+    {
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     }
   ],
   "past": [

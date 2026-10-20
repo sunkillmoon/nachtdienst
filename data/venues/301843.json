@@ -1,0 +1,30 @@
+{
+  "id": "301843",
+  "name": "Eighty-Four Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.93,
+  "upcoming": [
+    {
+      "id": "ra:2529487",
+      "title": "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Eighty-Four Amsterdam",
+      "venue_id": "301843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529487"
+    },
+    {
+      "id": "ra:2529489",
+      "title": "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Eighty-Four Amsterdam",
+      "venue_id": "301843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529489"
+    }
+  ],
+  "past": []
+}

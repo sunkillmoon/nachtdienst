@@ -2,7 +2,8 @@
   "id": "181499",
   "name": "Ellis Vay",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512295",
       "title": "WOOF! takes over Akhnaton",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512295"
     }
-  ],
-  "past": []
+  ]
 }

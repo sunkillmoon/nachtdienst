@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.15731,
   "lng": 5.34218,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
     }
-  ],
-  "past": []
+  ]
 }

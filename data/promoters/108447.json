@@ -1,0 +1,69 @@
+{
+  "id": "108447",
+  "name": "Urge To Dance",
+  "upcoming": [
+    {
+      "id": "ra:2538403",
+      "title": "Urge To Dance x Reconsider: ADE '26 Showcase",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538403"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "76562",
+      "name": "Baime",
+      "count": 1
+    },
+    {
+      "id": "106762",
+      "name": "CENKK",
+      "count": 1
+    },
+    {
+      "id": "182843",
+      "name": "derderwandert",
+      "count": 1
+    },
+    {
+      "id": "120916",
+      "name": "Felix E",
+      "count": 1
+    },
+    {
+      "id": "50250",
+      "name": "Jepe",
+      "count": 1
+    },
+    {
+      "id": "168210",
+      "name": "Krembo",
+      "count": 1
+    },
+    {
+      "id": "35814",
+      "name": "Liza",
+      "count": 1
+    },
+    {
+      "id": "90490",
+      "name": "Michael Ritter",
+      "count": 1
+    },
+    {
+      "id": "115293",
+      "name": "nataša",
+      "count": 1
+    },
+    {
+      "id": "74411",
+      "name": "Sahar",
+      "count": 1
+    }
+  ]
+}

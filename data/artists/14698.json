@@ -1,0 +1,38 @@
+{
+  "id": "14698",
+  "name": "Tornado Wallace",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2523021",
+      "title": "On The Rocks with Tornado Wallace (ADE Special)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523021"
+    },
+    {
+      "id": "ra:2545097",
+      "title": "Field Notes Family Affair",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545097"
+    },
+    {
+      "id": "ra:2529465",
+      "title": "Private Hearts Club ADE '26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Café Soleil Amsterdam",
+      "venue_id": "277577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529465"
+    }
+  ],
+  "past": []
+}

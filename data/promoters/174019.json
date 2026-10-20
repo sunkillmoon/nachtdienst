@@ -1,17 +1,8 @@
 {
   "id": "174019",
   "name": "Motiv.NL",
-  "upcoming": [
-    {
-      "id": "ra:2502638",
-      "title": "Motiv with Olive Anguz, Burnr & More",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:59+02:00",
-      "venue": "TivoliVredenburg",
-      "venue_id": "88445",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2502638"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2442065",
       "title": "Motiv - Lisa Korver (Extended set) & More",
@@ -21,18 +12,27 @@
       "venue_id": "88445",
       "area": "Utrecht",
       "url": "https://ra.co/events/2442065"
+    },
+    {
+      "id": "ra:2502638",
+      "title": "Motiv with Olive Anguz, Burnr & More",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502638"
     }
   ],
-  "past": [],
   "top_artists": [
-    {
-      "id": "186339",
-      "name": "Olive Anguz",
-      "count": 1
-    },
     {
       "id": "165697",
       "name": "Lisa Korver",
+      "count": 1
+    },
+    {
+      "id": "186339",
+      "name": "Olive Anguz",
       "count": 1
     }
   ]

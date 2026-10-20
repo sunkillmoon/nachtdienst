@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2480645",
+      "title": "ADE - HRMNY W/ Rose Ringed & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480645"
+    },
+    {
+      "id": "ra:2561047",
+      "title": "Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T20:00+01:00",
+      "venue": "Anna Church Amstelveen B.V.",
+      "venue_id": "258171",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561047"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2411139",
       "title": "HRMNY with Rose Ringed 5hrs at the beach",
       "date": "2026-08-29",
@@ -13,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2411139"
     },
-    {
-      "id": "ra:2480645",
-      "title": "ADE - HRMNY W/ Rose Ringed & More",
-      "date": "2026-10-23",
-      "start": "2026-10-23T17:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2480645"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2390196",
       "title": "komm schon Alter - Das Mini Festival",

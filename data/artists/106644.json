@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2520907",
-      "title": "NOVA:|| by Cincity & Philou Louzolo",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2520907"
+      "id": "ra:2474432",
+      "title": "DGTL ADE Shimza & Co",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474432"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2490633",
+      "title": "Cincity [all night long]",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490633"
     },
     {
       "id": "ra:2496550",
@@ -24,25 +36,14 @@
       "url": "https://ra.co/events/2496550"
     },
     {
-      "id": "ra:2490633",
-      "title": "Cincity [all night long]",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490633"
-    },
-    {
-      "id": "ra:2474432",
-      "title": "DGTL ADE Shimza & Co",
-      "date": "2026-10-24",
-      "start": "2026-10-24T14:00+02:00",
-      "venue": "NDSM Scheepsbouwloods",
-      "venue_id": "81634",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2474432"
+      "id": "ra:2520907",
+      "title": "NOVA:|| by Cincity & Philou Louzolo",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2520907"
     }
-  ],
-  "past": []
+  ]
 }

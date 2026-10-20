@@ -1,0 +1,20 @@
+{
+  "id": "302751",
+  "name": "Rijnbar",
+  "area": "Amsterdam",
+  "lat": 52.35,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2537381",
+      "title": "ADE 12-hour party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Rijnbar",
+      "venue_id": "302751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537381"
+    }
+  ],
+  "past": []
+}

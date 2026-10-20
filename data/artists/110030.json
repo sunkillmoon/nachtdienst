@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2519779",
-      "title": "CHUNKY",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519779"
-    },
-    {
       "id": "ra:2502427",
       "title": "Audio Obscura ADE x Thusday House Night",
       "date": "2026-10-22",
@@ -32,9 +22,29 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473476"
+    },
+    {
+      "id": "ra:2479433",
+      "title": "DGTL ADE FUSE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479433"
     }
   ],
   "past": [
+    {
+      "id": "ra:2519779",
+      "title": "CHUNKY",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519779"
+    },
     {
       "id": "ra:2476140",
       "title": "Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers",

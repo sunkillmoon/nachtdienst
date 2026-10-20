@@ -4,34 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
-      "id": "ra:2481410",
-      "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:59+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2481410"
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504927"
     },
     {
       "id": "ra:2482113",
@@ -55,7 +35,7 @@
     },
     {
       "id": "ra:2470661",
-      "title": "ADE - Agrio Club x Rapid Trax",
+      "title": "ADE - Agrio Club x Rapid Trax [sold out]",
       "date": "2026-10-24",
       "start": "2026-10-24T23:59+02:00",
       "venue": "Lofi",
@@ -85,6 +65,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2481410",
+      "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2481410"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2357564",
       "title": "Happy Feelings - Colorado Charlie",

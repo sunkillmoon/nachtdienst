@@ -1,0 +1,28 @@
+{
+  "id": "181802",
+  "name": "DAN:EZ",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2490237",
+      "title": "AEVUM",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:00+02:00",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490237"
+    },
+    {
+      "id": "ra:2564254",
+      "title": "Melodic Beats x Beats & Spritz",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Spritz Bar Amsterdam",
+      "venue_id": "305608",
+      "area": "All",
+      "url": "https://ra.co/events/2564254"
+    }
+  ],
+  "past": []
+}

@@ -8,10 +8,20 @@
       "title": "Intercell x fumi Invites - ADE By Day",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473393"
+    },
+    {
+      "id": "ra:2529551",
+      "title": "240KM/H - ADE Takeover",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529551"
     }
   ],
   "past": []

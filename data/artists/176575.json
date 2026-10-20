@@ -2,7 +2,8 @@
   "id": "176575",
   "name": "KINETIKS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489646",
       "title": "Club EKKO",
@@ -12,9 +13,7 @@
       "venue_id": "4842",
       "area": "Utrecht",
       "url": "https://ra.co/events/2489646"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2357564",
       "title": "Happy Feelings - Colorado Charlie",

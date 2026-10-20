@@ -14,6 +14,36 @@
       "venue_id": "107352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516546"
+    },
+    {
+      "id": "ra:2546719",
+      "title": "The Phatty Factory presents, Fresh Phatty Records showcase / CODE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546719"
+    },
+    {
+      "id": "ra:2528533",
+      "title": "ADE - Four Decades of Detroit Techno Vol. 1 - Pre-Release Event",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528533"
+    },
+    {
+      "id": "ra:2552947",
+      "title": "Checkmate Sessions",
+      "date": "2026-11-05",
+      "start": "2026-11-05T19:00+01:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552947"
     }
   ],
   "past": []

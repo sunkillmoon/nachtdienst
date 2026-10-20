@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2414839",
-      "title": "Olivier Weiter b2b Miss Melera",
-      "date": "2026-09-12",
-      "start": "2026-09-12T15:00+02:00",
-      "venue": "Ijland",
-      "venue_id": "188055",
+      "id": "ra:2534262",
+      "title": "Olivier Weiter & Miss Melera 5 hours ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2414839"
+      "url": "https://ra.co/events/2534262"
     },
     {
       "id": "ra:2484443",
@@ -22,9 +22,29 @@
       "venue_id": "275591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484443"
+    },
+    {
+      "id": "ra:2561047",
+      "title": "Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T20:00+01:00",
+      "venue": "Anna Church Amstelveen B.V.",
+      "venue_id": "258171",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561047"
     }
   ],
   "past": [
+    {
+      "id": "ra:2414839",
+      "title": "Olivier Weiter b2b Miss Melera",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414839"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

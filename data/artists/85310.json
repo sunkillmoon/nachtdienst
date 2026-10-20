@@ -2,7 +2,18 @@
   "id": "85310",
   "name": "MMIV",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2538823",
+      "title": "Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV ",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538823"
+    }
+  ],
   "past": [
     {
       "id": "ra:2470216",

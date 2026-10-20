@@ -6,14 +6,64 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2559127",
+      "title": "Agency Mixer 2026 with Oceanic, Manami, Zeynep, Sarkawt Hamad",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559127"
+    },
+    {
       "id": "ra:2497456",
-      "title": "RA25: Amsterdam - Greenhouse Sessions live",
+      "title": "RA25: Amsterdam - Greenhouse Sessions live (Free entry)",
       "date": "2026-10-22",
       "start": "2026-10-22T12:00+02:00",
       "venue": "San Francisco",
       "venue_id": "250599",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497456"
+    },
+    {
+      "id": "ra:2559138",
+      "title": "Victor & Friends with Lea Occhi, Muallem, NIKS, Victor",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559138"
+    },
+    {
+      "id": "ra:2559147",
+      "title": "Recess & The New Originals",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559147"
+    },
+    {
+      "id": "ra:2545097",
+      "title": "Field Notes Family Affair",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545097"
+    },
+    {
+      "id": "ra:2559154",
+      "title": "Cometa 'Coco' Nostra",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559154"
     }
   ],
   "past": [

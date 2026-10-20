@@ -2,7 +2,8 @@
   "id": "96633",
   "name": "THC",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2505220",
       "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
@@ -12,9 +13,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505220"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

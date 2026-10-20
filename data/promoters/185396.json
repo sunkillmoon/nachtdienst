@@ -1,7 +1,8 @@
 {
   "id": "185396",
   "name": "TRANSITION",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2421033",
       "title": "BCCO x TRANSITION",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2421033"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "121129",

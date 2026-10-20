@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2548462",
+      "title": "Oliver Heldens",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548462"
+    },
+    {
+      "id": "ra:2553841",
+      "title": "50:HERTZ CLUB TRAIN X Eats Everything",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553841"
+    },
+    {
       "id": "ra:2470624",
       "title": "DJ Bone presents: FURTHER x Homeless Homies ADE 2026",
       "date": "2026-10-23",

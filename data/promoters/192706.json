@@ -1,7 +1,8 @@
 {
   "id": "192706",
   "name": "Zenda",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519487",
       "title": "Zenda - The Afrohouse & House experience",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2519487"
     }
   ],
-  "past": [],
   "top_artists": []
 }

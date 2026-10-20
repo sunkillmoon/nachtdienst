@@ -4,46 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
-    },
-    {
-      "id": "ra:2502004",
-      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
-      "date": "2026-09-19",
-      "start": "2026-09-19T22:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2502004"
-    },
-    {
-      "id": "ra:2517610",
-      "title": "Doppelgang Birthday Session",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517610"
-    },
-    {
-      "id": "ra:2485729",
-      "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2485729"
-    },
-    {
       "id": "ra:2495403",
       "title": "ZeeZout ADE - Saturday Daytime",
       "date": "2026-10-24",
@@ -65,6 +25,46 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2485729",
+      "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2485729"
+    },
+    {
+      "id": "ra:2517610",
+      "title": "Doppelgang Birthday Session",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517610"
+    },
+    {
+      "id": "ra:2502004",
+      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502004"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

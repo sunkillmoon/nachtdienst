@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2465233",
-      "title": "Intercell Papierfabriek",
-      "date": "2026-10-03",
-      "start": "2026-10-03T13:00+02:00",
-      "venue": "De Papierfabriek",
-      "venue_id": "280996",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2465233"
+      "id": "ra:2466451",
+      "title": "20 Years Of The WHP - The Loft [SOLD OUT]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466451"
     },
     {
       "id": "ra:2297501",
@@ -28,13 +28,23 @@
       "title": "Intercell x Skin On Skin Invites - ADE By Day",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473385"
     }
   ],
   "past": [
+    {
+      "id": "ra:2465233",
+      "title": "Intercell Papierfabriek",
+      "date": "2026-10-03",
+      "start": "2026-10-03T13:00+02:00",
+      "venue": "De Papierfabriek",
+      "venue_id": "280996",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2465233"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",

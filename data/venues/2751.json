@@ -1,0 +1,20 @@
+{
+  "id": "2751",
+  "name": "Desmet Studios",
+  "area": "Amsterdam",
+  "lat": 52.366977,
+  "lng": 4.909779,
+  "upcoming": [
+    {
+      "id": "ra:2563336",
+      "title": "Panteros666 & friends",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Desmet Studios",
+      "venue_id": "2751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563336"
+    }
+  ],
+  "past": []
+}

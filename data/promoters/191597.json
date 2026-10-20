@@ -16,8 +16,28 @@
   "past": [],
   "top_artists": [
     {
+      "id": "752",
+      "name": "Cassy",
+      "count": 1
+    },
+    {
+      "id": "2949",
+      "name": "Carlos Valdes",
+      "count": 1
+    },
+    {
+      "id": "141490",
+      "name": "Luke Alessi",
+      "count": 1
+    },
+    {
       "id": "2565",
       "name": "Mano Le Tough",
+      "count": 1
+    },
+    {
+      "id": "18634",
+      "name": "The Drifter",
       "count": 1
     }
   ]

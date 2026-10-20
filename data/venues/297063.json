@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.34,
   "lng": 4.88,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489520",
       "title": "Robot Koch: Live",
@@ -14,9 +15,7 @@
       "venue_id": "297063",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489520"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487665",
       "title": "Afterhours Tea House",

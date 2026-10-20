@@ -1,0 +1,39 @@
+{
+  "id": "194124",
+  "name": "Joost",
+  "upcoming": [
+    {
+      "id": "ra:2538480",
+      "title": "Crater 6: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2538480"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "20183",
+      "name": "Black Sun Empire",
+      "count": 1
+    },
+    {
+      "id": "146443",
+      "name": "Merikan",
+      "count": 1
+    },
+    {
+      "id": "12235",
+      "name": "Original Sin",
+      "count": 1
+    },
+    {
+      "id": "58532",
+      "name": "Kookaburra",
+      "count": 1
+    }
+  ]
+}

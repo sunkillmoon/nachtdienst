@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2564663",
+      "title": "Richie Hawtin - POP_UP Stage",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564663"
     },
     {
       "id": "ra:2516693",
@@ -25,16 +25,36 @@
     },
     {
       "id": "ra:2494410",
-      "title": "Second Wind",
+      "title": "Breakfast Club ADE: Second Wind",
       "date": "2026-10-25",
       "start": "2026-10-25T09:00+01:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494410"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
     }
   ],
   "past": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2363397",
       "title": "Het Systeem",

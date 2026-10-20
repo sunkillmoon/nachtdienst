@@ -1,0 +1,29 @@
+{
+  "id": "193664",
+  "name": "Citric Collective",
+  "upcoming": [
+    {
+      "id": "ra:2563949",
+      "title": "CITRIC x Dak Coffee Roasters - free entry",
+      "date": "2026-10-24",
+      "start": "2026-10-24T10:00+02:00",
+      "venue": "Dak Showroom by Dak Coffee Roasters",
+      "venue_id": "305561",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563949"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "190525",
+      "name": "Djali",
+      "count": 1
+    },
+    {
+      "id": "121995",
+      "name": "Oma Kata",
+      "count": 1
+    }
+  ]
+}

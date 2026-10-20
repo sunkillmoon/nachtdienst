@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 52.12,
   "lng": 5.05,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2465233",
       "title": "Intercell Papierfabriek",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2465233"
     }
-  ],
-  "past": []
+  ]
 }

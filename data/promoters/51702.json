@@ -1,0 +1,49 @@
+{
+  "id": "51702",
+  "name": "Anywherelse Events",
+  "upcoming": [
+    {
+      "id": "ra:2531887",
+      "title": "Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 [ SOLD OUT ]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531887"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "45088",
+      "name": "Bedouin",
+      "count": 1
+    },
+    {
+      "id": "38246",
+      "name": "Baron",
+      "count": 1
+    },
+    {
+      "id": "67229",
+      "name": "Birds of Mind",
+      "count": 1
+    },
+    {
+      "id": "82758",
+      "name": "Collé",
+      "count": 1
+    },
+    {
+      "id": "37366",
+      "name": "Dorian Craft",
+      "count": 1
+    },
+    {
+      "id": "88265",
+      "name": "Rockin Moroccin",
+      "count": 1
+    }
+  ]
+}

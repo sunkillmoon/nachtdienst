@@ -1,0 +1,28 @@
+{
+  "id": "84767",
+  "name": "Oscar Rosmano",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2544634",
+      "title": "UND3RT3MPL3 x Musique de Lune present Pole Folder",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544634"
+    },
+    {
+      "id": "ra:2544640",
+      "title": "UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544640"
+    }
+  ],
+  "past": []
+}

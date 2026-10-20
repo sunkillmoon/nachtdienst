@@ -1,0 +1,34 @@
+{
+  "id": "195908",
+  "name": "Amsterdam Vinyl Club",
+  "upcoming": [
+    {
+      "id": "ra:2560071",
+      "title": "Amsterdam Vinyl Club x Wanakam- ADE opening night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560071"
+    },
+    {
+      "id": "ra:2560573",
+      "title": "Amsterdam Vinyl Club X Wanakam- opening night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560573"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "70322",
+      "name": "dHET",
+      "count": 2
+    }
+  ]
+}

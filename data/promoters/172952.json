@@ -1,7 +1,8 @@
 {
   "id": "172952",
   "name": "Radio Hinter",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519269",
       "title": "Subs&Dubs X Carmela Collective presents Elijah Minnelli live",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2519269"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "141015",

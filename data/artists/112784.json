@@ -2,7 +2,28 @@
   "id": "112784",
   "name": "Azucy",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2553523",
+      "title": "Killacutz & FURTHER Record Fair [Free Entry]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Frict Amsterdam",
+      "venue_id": "304428",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553523"
+    },
+    {
+      "id": "ra:2559079",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 5)",
+      "date": "2026-10-24",
+      "start": "2026-10-25T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559079"
+    }
+  ],
   "past": [
     {
       "id": "ra:2454376",

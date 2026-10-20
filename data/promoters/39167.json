@@ -9,7 +9,7 @@
       "start": "2026-10-21T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479104"
     },
     {
@@ -19,7 +19,7 @@
       "start": "2026-10-22T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479106"
     },
     {
@@ -29,7 +29,7 @@
       "start": "2026-10-23T15:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479108"
     },
     {
@@ -39,7 +39,7 @@
       "start": "2026-10-23T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479113"
     },
     {
@@ -49,7 +49,7 @@
       "start": "2026-10-24T13:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479114"
     },
     {
@@ -59,7 +59,7 @@
       "start": "2026-10-24T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479116"
     },
     {
@@ -69,7 +69,7 @@
       "start": "2026-10-25T14:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479118"
     },
     {
@@ -79,7 +79,7 @@
       "start": "2026-10-25T23:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479148"
     }
   ],
@@ -96,8 +96,8 @@
       "count": 1
     },
     {
-      "id": "131275",
-      "name": "FUMI",
+      "id": "131776",
+      "name": "fumi (DE)",
       "count": 1
     },
     {

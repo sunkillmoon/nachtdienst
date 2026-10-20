@@ -2,7 +2,8 @@
   "id": "60334",
   "name": "Kolter",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2458433",
       "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458433"
     }
-  ],
-  "past": []
+  ]
 }

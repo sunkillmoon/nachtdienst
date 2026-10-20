@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
+      "id": "ra:2442667",
+      "title": "Max Dean & Wavy present: NEXUP [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
       "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "url": "https://ra.co/events/2442667"
     },
+    {
+      "id": "ra:2473476",
+      "title": "24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473476"
+    },
+    {
+      "id": "ra:2479433",
+      "title": "DGTL ADE FUSE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479433"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2437294",
       "title": "Smeerboel Festival 2026",
@@ -24,17 +46,15 @@
       "url": "https://ra.co/events/2437294"
     },
     {
-      "id": "ra:2473476",
-      "title": "24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473476"
-    }
-  ],
-  "past": [
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2460452",
       "title": "Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT)",

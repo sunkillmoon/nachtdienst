@@ -3,6 +3,28 @@
   "name": "JTMusic",
   "upcoming": [
     {
+      "id": "ra:2545080",
+      "title": "AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545080"
+    },
+    {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518280",
       "title": "Stuck in a Loop with Leo Cardi (CHI), Triart (TUR)",
       "date": "2026-09-05",
@@ -11,9 +33,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518280"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2492701",
       "title": "Stuck in a Loop - PRIDE EDITION - with ANGEL-V (MEX), Joris Turenhout",
@@ -27,33 +47,53 @@
   ],
   "top_artists": [
     {
-      "id": "166919",
-      "name": "Leo Cardi",
-      "count": 1
-    },
-    {
-      "id": "89921",
-      "name": "Triart",
-      "count": 1
-    },
-    {
-      "id": "186213",
-      "name": "Bastiaan",
-      "count": 1
-    },
-    {
-      "id": "167683",
-      "name": "ANGEL-V",
-      "count": 1
-    },
-    {
       "id": "109907",
       "name": "Joris Turenhout",
+      "count": 3
+    },
+    {
+      "id": "3875",
+      "name": "Carlo Lio",
       "count": 1
     },
     {
-      "id": "180284",
-      "name": "BOOM BOOM MANCINI",
+      "id": "97984",
+      "name": "Carabetta",
+      "count": 1
+    },
+    {
+      "id": "77074",
+      "name": "Donnerstag (1)",
+      "count": 1
+    },
+    {
+      "id": "40198",
+      "name": "Juheun",
+      "count": 1
+    },
+    {
+      "id": "58580",
+      "name": "Michelle Sparks",
+      "count": 1
+    },
+    {
+      "id": "21599",
+      "name": "Juliet Fox",
+      "count": 1
+    },
+    {
+      "id": "32277",
+      "name": "Joyhauser",
+      "count": 1
+    },
+    {
+      "id": "134095",
+      "name": "VE/RA",
+      "count": 1
+    },
+    {
+      "id": "3250",
+      "name": "Nakadia",
       "count": 1
     }
   ]

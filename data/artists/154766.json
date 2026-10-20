@@ -2,7 +2,8 @@
   "id": "154766",
   "name": "hababy maroc",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506087",
       "title": "3xNYX: Bootylicious",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506087"
     }
-  ],
-  "past": []
+  ]
 }

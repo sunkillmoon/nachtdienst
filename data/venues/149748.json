@@ -1,0 +1,20 @@
+{
+  "id": "149748",
+  "name": "Concerto Recordstore",
+  "area": "Amsterdam",
+  "lat": 52.36347,
+  "lng": 4.898236,
+  "upcoming": [
+    {
+      "id": "ra:2563893",
+      "title": "THE ELECTRONIC MUSIC BOOK - LAUNCH",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Concerto Recordstore",
+      "venue_id": "149748",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563893"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "277578",
+  "name": "Hard Rock Cafe Amsterdam",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2558570",
+      "title": "MBG in Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Hard Rock Cafe Amsterdam",
+      "venue_id": "277578",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558570"
+    }
+  ],
+  "past": []
+}

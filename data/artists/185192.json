@@ -2,7 +2,8 @@
   "id": "185192",
   "name": "River (2)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519856",
       "title": "Festival Downtown",
@@ -12,9 +13,7 @@
       "venue_id": "140769",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2519856"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462878",
       "title": "ROOTED X BOUNCE THAT BOOTY",

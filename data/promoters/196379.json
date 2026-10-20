@@ -1,0 +1,29 @@
+{
+  "id": "196379",
+  "name": "trip recordings",
+  "upcoming": [
+    {
+      "id": "ra:2565573",
+      "title": "трип listening",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "The Social Hub Amsterdam City",
+      "venue_id": "258174",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565573"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "9097",
+      "name": "Nina Kraviz",
+      "count": 1
+    },
+    {
+      "id": "167591",
+      "name": "Dog on Acid",
+      "count": 1
+    }
+  ]
+}

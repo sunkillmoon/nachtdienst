@@ -2,7 +2,8 @@
   "id": "144269",
   "name": "Eridu",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2412218",
       "title": "Complex presents Armand Van Helden",
@@ -12,9 +13,7 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2412218"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2354081",
       "title": "Complex Festival 2026 with Paul Kalkbrenner, Kölsch, Chris Stussy, Winson, MALUGI & many more",

@@ -1,0 +1,28 @@
+{
+  "id": "175014",
+  "name": "Static Bloom (DE)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2547786",
+      "title": "Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "The Hoxton Amsterdam",
+      "venue_id": "303860",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547786"
+    },
+    {
+      "id": "ra:2520840",
+      "title": "friends. THE FACE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Nido Cocktailbar",
+      "venue_id": "301028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520840"
+    }
+  ],
+  "past": []
+}

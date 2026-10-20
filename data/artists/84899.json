@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2470639",
+      "title": "ADE - Rush Hour [sold out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470639"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -12,9 +24,7 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",

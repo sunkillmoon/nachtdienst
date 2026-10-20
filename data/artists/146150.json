@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2511475",
-      "title": "Rooftop Tapes at W Hotel Amsterdam",
-      "date": "2026-08-30",
-      "start": "2026-08-30T16:00+02:00",
-      "venue": "W Hotel Amsterdam",
-      "venue_id": "108806",
+      "id": "ra:2511101",
+      "title": "Kapsule presents LIBERO at ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511475"
+      "url": "https://ra.co/events/2511101"
     },
+    {
+      "id": "ra:2538539",
+      "title": "Madam by Night invites: Robin Nicolas",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538539"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2520692",
       "title": "Yellow House 5 September",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2520692"
     },
     {
-      "id": "ra:2511101",
-      "title": "Kapsule presents LIBERO at ADE",
-      "date": "2026-10-25",
-      "start": "2026-10-25T18:00+01:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
+      "id": "ra:2511475",
+      "title": "Rooftop Tapes at W Hotel Amsterdam",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511101"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2511475"
+    },
     {
       "id": "ra:2466207",
       "title": "TOFFLER presents LEYO and friends",

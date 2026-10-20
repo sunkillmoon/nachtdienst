@@ -2,7 +2,8 @@
   "id": "106320",
   "name": "KALTBLUME",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504760",
       "title": "GRÜV",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504760"
     }
-  ],
-  "past": []
+  ]
 }

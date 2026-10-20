@@ -1,0 +1,40 @@
+{
+  "id": "300232",
+  "name": "ingang",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2534097",
+      "title": "PODD x Omen Wapta x Ute",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534097"
+    },
+    {
+      "id": "ra:2547887",
+      "title": "giegling at ingang - ade",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547887"
+    },
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
+  "past": []
+}

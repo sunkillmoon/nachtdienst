@@ -1,0 +1,34 @@
+{
+  "id": "84234",
+  "name": "Analog Kitchen",
+  "upcoming": [
+    {
+      "id": "ra:2558063",
+      "title": "Analog Kitchen presents 'How we play live'  //ADE 4D Sound with Live Performances Only",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558063"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "82835",
+      "name": "Analog Kitchen",
+      "count": 1
+    },
+    {
+      "id": "107590",
+      "name": "Jelle Bolijn",
+      "count": 1
+    },
+    {
+      "id": "139139",
+      "name": "Sinesaw",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "62551",
+  "name": "4DSOUND",
+  "upcoming": [
+    {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2527209",
+      "title": "Currents - Configuration I - Rrose, Liza Kuzyakova, Hugo Lioret, Andreas Tegnander",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527209"
+    },
+    {
+      "id": "ra:2527306",
+      "title": "Currents - Configuration III - nthng, Loek Frey, Casimir Geelhoed",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527306"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "28755",
+      "name": "Rrose",
+      "count": 2
+    },
+    {
+      "id": "61548",
+      "name": "nthng",
+      "count": 2
+    },
+    {
+      "id": "29846",
+      "name": "Wata Igarashi",
+      "count": 1
+    },
+    {
+      "id": "34952",
+      "name": "Nadia Struiwigh",
+      "count": 1
+    },
+    {
+      "id": "100521",
+      "name": "OK EG",
+      "count": 1
+    },
+    {
+      "id": "111421",
+      "name": "State OFFF",
+      "count": 1
+    },
+    {
+      "id": "90759",
+      "name": "Zohar",
+      "count": 1
+    },
+    {
+      "id": "108103",
+      "name": "Loek Frey",
+      "count": 1
+    }
+  ]
+}

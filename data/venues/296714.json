@@ -4,7 +4,8 @@
   "area": "Eindhoven",
   "lat": 51.47,
   "lng": 5.41,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484671",
       "title": "WE ARE BACK - Outdoor Festival",
@@ -15,6 +16,5 @@
       "area": "Eindhoven",
       "url": "https://ra.co/events/2484671"
     }
-  ],
-  "past": []
+  ]
 }

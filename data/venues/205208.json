@@ -6,14 +6,24 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2498352",
-      "title": "GALEJ",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
+      "id": "ra:2524480",
+      "title": "RAVING CHARLIE: Hard Techno / Rave [ADE Special]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
       "venue": "De Sering",
       "venue_id": "205208",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2498352"
+      "url": "https://ra.co/events/2524480"
+    },
+    {
+      "id": "ra:2528765",
+      "title": "DC Salas & Magma invite - Amsterdam Dance Event",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528765"
     },
     {
       "id": "ra:2489337",
@@ -34,7 +44,38 @@
       "venue_id": "205208",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489338"
+    },
+    {
+      "id": "ra:2559807",
+      "title": "De Sering's Community Halloween Bash",
+      "date": "2026-10-30",
+      "start": "2026-10-30T22:00+01:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559807"
+    },
+    {
+      "id": "ra:2560040",
+      "title": "ONDA FORTE",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560040"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2498352",
+      "title": "GALEJ",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498352"
+    }
+  ]
 }

@@ -2,7 +2,18 @@
   "id": "138273",
   "name": "BENZA",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2534614",
+      "title": "IMPULSE CØNTROL ADE // BENZA, JSPRV35, + MORE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534614"
+    }
+  ],
   "past": [
     {
       "id": "ra:2453266",

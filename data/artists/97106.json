@@ -2,7 +2,8 @@
   "id": "97106",
   "name": "Deborah X",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520745",
       "title": "ZORA",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2520745"
     }
-  ],
-  "past": []
+  ]
 }

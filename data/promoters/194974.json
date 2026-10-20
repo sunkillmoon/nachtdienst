@@ -1,0 +1,24 @@
+{
+  "id": "194974",
+  "name": "Laura Jayne",
+  "upcoming": [
+    {
+      "id": "ra:2550800",
+      "title": "substance",
+      "date": "2026-11-07",
+      "start": "2026-11-07T19:30+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2550800"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "111063",
+      "name": "JF.HECTOR",
+      "count": 1
+    }
+  ]
+}

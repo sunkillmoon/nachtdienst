@@ -1,0 +1,28 @@
+{
+  "id": "75104",
+  "name": "Shosho",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2553365",
+      "title": "House of Cake Pop-Up Event - 30th Anniversary Edition",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Cafe De Vlieger",
+      "venue_id": "304418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553365"
+    },
+    {
+      "id": "ra:2560169",
+      "title": "Feestgedruis ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560169"
+    }
+  ],
+  "past": []
+}

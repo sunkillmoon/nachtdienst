@@ -1,0 +1,28 @@
+{
+  "id": "85889",
+  "name": "Bobby.",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
+    }
+  ],
+  "past": []
+}

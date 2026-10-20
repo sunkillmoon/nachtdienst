@@ -1,0 +1,99 @@
+{
+  "id": "135904",
+  "name": "Be Your Own",
+  "upcoming": [
+    {
+      "id": "ra:2559479",
+      "title": "APERITIVO LEONE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559479"
+    },
+    {
+      "id": "ra:2560692",
+      "title": "Confianza Club ADE special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560692"
+    },
+    {
+      "id": "ra:2560690",
+      "title": "Confianza Club ADE special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560690"
+    },
+    {
+      "id": "ra:2563648",
+      "title": "ADE w. Deep House Bucharest & BeYourOwnLabel",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563648"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84362",
+      "name": "Nau Leone",
+      "count": 3
+    },
+    {
+      "id": "177728",
+      "name": "De Santis",
+      "count": 2
+    },
+    {
+      "id": "157780",
+      "name": "Oxbin",
+      "count": 2
+    },
+    {
+      "id": "170469",
+      "name": "ANTO ZAGU",
+      "count": 2
+    },
+    {
+      "id": "59277",
+      "name": "Music P",
+      "count": 1
+    },
+    {
+      "id": "43190",
+      "name": "David Calo",
+      "count": 1
+    },
+    {
+      "id": "132055",
+      "name": "Kloos",
+      "count": 1
+    },
+    {
+      "id": "170369",
+      "name": "CARMESEGUER",
+      "count": 1
+    },
+    {
+      "id": "136581",
+      "name": "Cintia",
+      "count": 1
+    },
+    {
+      "id": "68603",
+      "name": "Bross",
+      "count": 1
+    }
+  ]
+}

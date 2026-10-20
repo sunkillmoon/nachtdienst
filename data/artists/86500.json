@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2511270",
-      "title": "EYE CONTACT & VIAPHIA",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511270"
+      "url": "https://ra.co/events/2504927"
     },
     {
       "id": "ra:2452252",
@@ -22,9 +22,39 @@
       "venue_id": "264128",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452252"
+    },
+    {
+      "id": "ra:2532950",
+      "title": "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532950"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
   "past": [
+    {
+      "id": "ra:2511270",
+      "title": "EYE CONTACT & VIAPHIA",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511270"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",

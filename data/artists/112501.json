@@ -2,7 +2,8 @@
   "id": "112501",
   "name": "Gin & Tonic",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504684",
       "title": "The Voyage - an Ambient Journey with Gin & Tonic",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2504684"
     }
-  ],
-  "past": []
+  ]
 }

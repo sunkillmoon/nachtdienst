@@ -4,28 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
-      "id": "ra:2496559",
-      "title": "Archie Hamilton, DXNBY, Jhobei",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496559"
-    },
-    {
       "id": "ra:2469789",
-      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "title": "ADE - Shanti Celeste Curates VBX",
       "date": "2026-10-22",
       "start": "2026-10-22T20:00+02:00",
       "venue": "Skatecafe",
@@ -52,7 +32,58 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481524"
+    },
+    {
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531359"
+    },
+    {
+      "id": "ra:2517635",
+      "title": "A For Alpha, Jan Koster, SOLIT",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517635"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2496559",
+      "title": "Archie Hamilton, DXNBY, Jhobei",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496559"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "303017",
+  "name": "Centrale Markthal",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.87,
+  "upcoming": [
+    {
+      "id": "ra:2539981",
+      "title": "Elias Mazian (live) x EINDER",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Centrale Markthal",
+      "venue_id": "303017",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539981"
+    }
+  ],
+  "past": []
+}

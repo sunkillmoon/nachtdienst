@@ -2,7 +2,8 @@
   "id": "32165",
   "name": "Sepp",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519779",
       "title": "CHUNKY",
@@ -12,9 +13,7 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519779"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2456711",
       "title": "RESTART Events 002 - Sepp'S BIRTHDAY BASH",

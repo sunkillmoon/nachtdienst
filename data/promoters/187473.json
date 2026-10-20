@@ -1,7 +1,8 @@
 {
   "id": "187473",
   "name": "HOMEGROUND",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507172",
       "title": "HOMEGROUND SUMMER CLOSING",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2507172"
     }
   ],
-  "past": [],
   "top_artists": []
 }

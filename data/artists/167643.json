@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2507405",
-      "title": "LOOSE MONKEY TAKEOVER",
+      "title": "LOOSE MONKEY TAKEOVER AT Blend XL",
       "date": "2026-10-23",
       "start": "2026-10-23T17:00+02:00",
       "venue": "Blend XL",
@@ -22,6 +22,16 @@
       "venue_id": "224568",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493052"
+    },
+    {
+      "id": "ra:2527632",
+      "title": "CHICAGO MEETS AMSTERDAM X ADE 26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam",
+      "venue_id": "302814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527632"
     }
   ],
   "past": []

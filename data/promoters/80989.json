@@ -1,0 +1,64 @@
+{
+  "id": "80989",
+  "name": "adpeventworld",
+  "upcoming": [
+    {
+      "id": "ra:2534664",
+      "title": "Snatch! Records ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534664"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "3174",
+      "name": "Riva Starr",
+      "count": 1
+    },
+    {
+      "id": "8028",
+      "name": "Andrea Oliva",
+      "count": 1
+    },
+    {
+      "id": "773",
+      "name": "Radio Slave",
+      "count": 1
+    },
+    {
+      "id": "6467",
+      "name": "Cinthie",
+      "count": 1
+    },
+    {
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 1
+    },
+    {
+      "id": "100987",
+      "name": "Confidential Recipe",
+      "count": 1
+    },
+    {
+      "id": "50552",
+      "name": "The Checkup",
+      "count": 1
+    },
+    {
+      "id": "180667",
+      "name": "Mike The Connector",
+      "count": 1
+    },
+    {
+      "id": "107929",
+      "name": "Khadija (DE)",
+      "count": 1
+    }
+  ]
+}

@@ -2,16 +2,17 @@
   "id": "13620",
   "name": "DJ Assault",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2507235",
-      "title": "RADION presents: DJ Assault",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507235"
+      "id": "ra:2515548",
+      "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2515548"
     },
     {
       "id": "ra:2515161",
@@ -24,15 +25,14 @@
       "url": "https://ra.co/events/2515161"
     },
     {
-      "id": "ra:2515548",
-      "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2515548"
+      "id": "ra:2507235",
+      "title": "RADION presents: DJ Assault",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507235"
     }
-  ],
-  "past": []
+  ]
 }

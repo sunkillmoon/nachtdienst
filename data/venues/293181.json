@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519717",
       "title": "Tone Zone Leiden #5",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2519717"
     }
-  ],
-  "past": []
+  ]
 }

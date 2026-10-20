@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2524193",
+      "title": "Discovery Sessions: The Bulldog Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524193"
+    },
+    {
       "id": "ra:2508882",
       "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
       "date": "2026-10-22",

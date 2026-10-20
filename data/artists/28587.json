@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2395821",
-      "title": "Wooferland festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Spaarnwoude (Deelplan Houtrak)",
-      "venue_id": "2081",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2395821"
-    },
-    {
-      "id": "ra:2484671",
-      "title": "WE ARE BACK - Outdoor Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "De Mispelhoef",
-      "venue_id": "296714",
-      "area": "Eindhoven",
-      "url": "https://ra.co/events/2484671"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -42,7 +22,58 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2531688",
+      "title": "FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam",
+      "venue_id": "302107",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531688"
+    },
+    {
+      "id": "ra:2552878",
+      "title": "HOUSEYOUNITE PRESENTS DROP & CONNECT x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552878"
+    },
+    {
+      "id": "ra:2564854",
+      "title": "Houseyounite Drop&Connect",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564854"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
+    },
+    {
+      "id": "ra:2484671",
+      "title": "WE ARE BACK - Outdoor Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "De Mispelhoef",
+      "venue_id": "296714",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2484671"
+    }
+  ]
 }

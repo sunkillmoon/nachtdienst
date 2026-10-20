@@ -1,0 +1,64 @@
+{
+  "id": "130789",
+  "name": "BPitch / We Are Not Alone",
+  "upcoming": [
+    {
+      "id": "ra:2531389",
+      "title": "Vinylism x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531389"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84884",
+      "name": "Afra",
+      "count": 1
+    },
+    {
+      "id": "3596",
+      "name": "Serge",
+      "count": 1
+    },
+    {
+      "id": "617",
+      "name": "Ellen Allien",
+      "count": 1
+    },
+    {
+      "id": "25436",
+      "name": "Freddy K",
+      "count": 1
+    },
+    {
+      "id": "189928",
+      "name": "GHSTLN",
+      "count": 1
+    },
+    {
+      "id": "103810",
+      "name": "Laure Croft",
+      "count": 1
+    },
+    {
+      "id": "77263",
+      "name": "Nene H",
+      "count": 1
+    },
+    {
+      "id": "51713",
+      "name": "Parrish Smith",
+      "count": 1
+    },
+    {
+      "id": "78330",
+      "name": "The Lady Machine",
+      "count": 1
+    }
+  ]
+}

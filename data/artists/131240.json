@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2524672",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-10-26",
+      "start": "2026-10-26T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524672"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2503313",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
       "date": "2026-08-31",
@@ -12,9 +24,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503313"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2503311",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",

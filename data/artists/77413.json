@@ -2,7 +2,8 @@
   "id": "77413",
   "name": "Narciss",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2485729",
       "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2485729"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",

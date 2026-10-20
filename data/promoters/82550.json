@@ -1,0 +1,69 @@
+{
+  "id": "82550",
+  "name": "Nous'klaer Audio",
+  "upcoming": [
+    {
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "60129",
+      "name": "Altinbas",
+      "count": 1
+    },
+    {
+      "id": "57043",
+      "name": "Andy Garvey",
+      "count": 1
+    },
+    {
+      "id": "165704",
+      "name": "dirtydms",
+      "count": 1
+    },
+    {
+      "id": "80532",
+      "name": "Eversines",
+      "count": 1
+    },
+    {
+      "id": "116675",
+      "name": "Marie K (1)",
+      "count": 1
+    },
+    {
+      "id": "108348",
+      "name": "Mattias El Mansouri",
+      "count": 1
+    },
+    {
+      "id": "92599",
+      "name": "Meetsysteem",
+      "count": 1
+    },
+    {
+      "id": "86526",
+      "name": "Nala Brown",
+      "count": 1
+    },
+    {
+      "id": "144078",
+      "name": "Nikos (live)",
+      "count": 1
+    },
+    {
+      "id": "44750",
+      "name": "Oberman",
+      "count": 1
+    }
+  ]
+}

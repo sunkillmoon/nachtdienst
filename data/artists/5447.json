@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2469608",
-      "title": "Apollonia curates VBX - Shelter - ADE 25.10",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
       "date": "2026-10-25",
       "start": "2026-10-25T23:00+01:00",
       "venue": "Shelter Amsterdam",
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469608"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
   "past": []

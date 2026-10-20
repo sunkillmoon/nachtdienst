@@ -2,7 +2,8 @@
   "id": "3512",
   "name": "Nuno dos Santos",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517808",
       "title": "OBERHAUM x De Fik Garden",
@@ -12,9 +13,7 @@
       "venue_id": "269324",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517808"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",

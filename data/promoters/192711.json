@@ -1,7 +1,8 @@
 {
   "id": "192711",
   "name": "Watergate x DH",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519553",
       "title": "Watergate x Den Haag",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2519553"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "118800",

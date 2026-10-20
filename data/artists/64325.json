@@ -4,14 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2550970",
+      "title": "VERKNIPT ADE Special Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550970"
+    },
+    {
+      "id": "ra:2530940",
+      "title": "BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2530940"
     },
     {
       "id": "ra:2515754",
@@ -24,5 +34,16 @@
       "url": "https://ra.co/events/2515754"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    }
+  ]
 }

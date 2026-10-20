@@ -1,7 +1,8 @@
 {
   "id": "56396",
   "name": "Subbacultcha",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510200",
       "title": "Joanne Joanne Robertson + S*an D. Henry-Smith",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2510200"
     }
   ],
-  "past": [],
   "top_artists": []
 }

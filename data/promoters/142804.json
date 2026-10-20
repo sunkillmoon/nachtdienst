@@ -1,0 +1,79 @@
+{
+  "id": "142804",
+  "name": "AAA Events",
+  "upcoming": [
+    {
+      "id": "ra:2539668",
+      "title": "Chasing Dreams ADE Charity Fundraiser",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Café Restaurant De Kroon",
+      "venue_id": "139683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539668"
+    },
+    {
+      "id": "ra:2539901",
+      "title": "AAA Events presents High Voltage x Critical Sounds Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Tequila Club | Amsterdam",
+      "venue_id": "299754",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539901"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "188925",
+      "name": "BLR (NL)",
+      "count": 2
+    },
+    {
+      "id": "188922",
+      "name": "Boro",
+      "count": 1
+    },
+    {
+      "id": "94142",
+      "name": "C-systems",
+      "count": 1
+    },
+    {
+      "id": "188924",
+      "name": "Hel:Brg",
+      "count": 1
+    },
+    {
+      "id": "142754",
+      "name": "Sago",
+      "count": 1
+    },
+    {
+      "id": "170599",
+      "name": "Somna",
+      "count": 1
+    },
+    {
+      "id": "188923",
+      "name": "Rinaly",
+      "count": 1
+    },
+    {
+      "id": "188921",
+      "name": "Xijaro & Pitch",
+      "count": 1
+    },
+    {
+      "id": "150555",
+      "name": "Allen Watts",
+      "count": 1
+    },
+    {
+      "id": "126505",
+      "name": "Steve Dekay",
+      "count": 1
+    }
+  ]
+}

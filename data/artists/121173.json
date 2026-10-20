@@ -15,7 +15,7 @@
     },
     {
       "id": "ra:2466456",
-      "title": "CLUB.RECORD - The Loft",
+      "title": "CLUB.RECORD - The Loft [SOLD OUT]",
       "date": "2026-10-22",
       "start": "2026-10-23T06:00+02:00",
       "venue": "The Loft Amsterdam",
@@ -42,6 +42,16 @@
       "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473398"
+    },
+    {
+      "id": "ra:2559890",
+      "title": "Subcultuur Arnhem - De Zoetenlab",
+      "date": "2026-11-06",
+      "start": "2026-11-06T18:00+01:00",
+      "venue": "De Zoeten Laboratorium",
+      "venue_id": "305105",
+      "area": "All",
+      "url": "https://ra.co/events/2559890"
     }
   ],
   "past": [

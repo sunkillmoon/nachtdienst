@@ -1,0 +1,20 @@
+{
+  "id": "301631",
+  "name": "De Waagh",
+  "area": "Nijmegen",
+  "lat": 51.85,
+  "lng": 5.86,
+  "upcoming": [
+    {
+      "id": "ra:2528621",
+      "title": "Doe Maar Lekker Disco w Mia's HOUSE of DISCO",
+      "date": "2026-11-07",
+      "start": "2026-11-07T20:00+01:00",
+      "venue": "De Waagh",
+      "venue_id": "301631",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2528621"
+    }
+  ],
+  "past": []
+}

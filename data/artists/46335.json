@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2563419",
+      "title": "Kwartier x themuddshow x el tony mate",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Kwartier",
+      "venue_id": "305466",
+      "area": "All",
+      "url": "https://ra.co/events/2563419"
+    },
+    {
       "id": "ra:2507687",
-      "title": "Berg Audio",
+      "title": "Berg Audio • ADE 2026",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
       "venue": "Noorderlicht Café",

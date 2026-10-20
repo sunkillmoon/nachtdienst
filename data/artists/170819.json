@@ -2,7 +2,8 @@
   "id": "170819",
   "name": "Dynamic D",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
@@ -13,6 +14,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
     }
-  ],
-  "past": []
+  ]
 }

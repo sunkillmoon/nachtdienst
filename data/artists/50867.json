@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458125",
-      "title": "SPIELRAUM Weekender: Nexus opening",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458125"
-    },
-    {
       "id": "ra:2511545",
       "title": "SLPFNK X Yoyaku ADE",
       "date": "2026-10-24",
@@ -32,9 +22,29 @@
       "venue_id": "19615",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495403"
+    },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
     }
   ],
   "past": [
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
+    },
     {
       "id": "ra:2493279",
       "title": "Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz ",

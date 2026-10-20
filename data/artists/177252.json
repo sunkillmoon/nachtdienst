@@ -2,7 +2,28 @@
   "id": "177252",
   "name": "AAlva",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2563062",
+      "title": "GINGA: Beats & Bites - ADE Arts & Culture - FREE ENTRY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563062"
+    },
+    {
+      "id": "ra:2560040",
+      "title": "ONDA FORTE",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560040"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495357",

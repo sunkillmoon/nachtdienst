@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": 52.405638,
   "lng": 4.545286,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2471234",
+      "title": "Dixon b2b Jimi Jules + Gizem",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471234"
+    },
     {
       "id": "ra:2449033",
       "title": "Brighter Days at the Beach",
@@ -15,18 +26,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449033"
     },
-    {
-      "id": "ra:2471234",
-      "title": "Dixon b2b Jimi Jules + Gizem",
-      "date": "2026-09-06",
-      "start": "2026-09-06T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2471234"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2329951",
       "title": "Chris Stussy at the beach [sold out]",

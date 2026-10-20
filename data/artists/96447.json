@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2502535",
+      "title": "Paco Osuna x Now Here ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502535"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2515716",
       "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
       "date": "2026-09-26",
@@ -12,9 +24,7 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2515716"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",

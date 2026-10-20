@@ -22,6 +22,26 @@
       "venue_id": "221843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2552753",
+      "title": "Central Prøject x ANTIA",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2552753"
+    },
+    {
+      "id": "ra:2554926",
+      "title": "ooze",
+      "date": "2026-11-07",
+      "start": "2026-11-07T14:00+01:00",
+      "venue": "TBA - noord",
+      "venue_id": "304538",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554926"
     }
   ],
   "past": [

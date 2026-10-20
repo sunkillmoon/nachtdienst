@@ -1,0 +1,59 @@
+{
+  "id": "170784",
+  "name": "7TS",
+  "upcoming": [
+    {
+      "id": "ra:2544563",
+      "title": "Megarave",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544563"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120166",
+      "name": "Art of Fighters",
+      "count": 1
+    },
+    {
+      "id": "154466",
+      "name": "Buzz Fuzz",
+      "count": 1
+    },
+    {
+      "id": "158560",
+      "name": "Endymion",
+      "count": 1
+    },
+    {
+      "id": "104578",
+      "name": "Lunatic",
+      "count": 1
+    },
+    {
+      "id": "143358",
+      "name": "Neophyte",
+      "count": 1
+    },
+    {
+      "id": "130704",
+      "name": "Ophidian",
+      "count": 1
+    },
+    {
+      "id": "129098",
+      "name": "Panic",
+      "count": 1
+    },
+    {
+      "id": "149191",
+      "name": "Ruffian",
+      "count": 1
+    }
+  ]
+}

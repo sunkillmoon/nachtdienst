@@ -4,6 +4,58 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2508882",
+      "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508882"
+    },
+    {
+      "id": "ra:2538090",
+      "title": "House of Chic x GYM: ABV LDN",
+      "date": "2026-10-22",
+      "start": "2026-10-23T02:00+02:00",
+      "venue": "Beatfabriek",
+      "venue_id": "302827",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538090"
+    },
+    {
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563972"
+    },
+    {
+      "id": "ra:2549212",
+      "title": "ACCUSED BY ACA - ADE Showcase (DAY TIME)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:30+02:00",
+      "venue": "TBA - AMSTERDAM BARBER COMPANY",
+      "venue_id": "303991",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549212"
+    },
+    {
+      "id": "ra:2564426",
+      "title": "Micky Hurts: Fire Burning Release party",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564426"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2395821",
       "title": "Wooferland festival 2026",
       "date": "2026-08-29",
@@ -23,18 +75,6 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2466212"
     },
-    {
-      "id": "ra:2508882",
-      "title": "ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508882"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2480522",
       "title": "SINE OFF",

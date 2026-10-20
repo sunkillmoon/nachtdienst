@@ -1,0 +1,20 @@
+{
+  "id": "143827",
+  "name": "W139",
+  "area": "Amsterdam",
+  "lat": 52.373698,
+  "lng": 4.896004,
+  "upcoming": [
+    {
+      "id": "ra:2561238",
+      "title": "A Soft Guide to Chill",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "W139",
+      "venue_id": "143827",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561238"
+    }
+  ],
+  "past": []
+}

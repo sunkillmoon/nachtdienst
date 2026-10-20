@@ -1,0 +1,39 @@
+{
+  "id": "195209",
+  "name": "vulgednl",
+  "upcoming": [
+    {
+      "id": "ra:2552070",
+      "title": "BULLDOG x VULGED",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552070"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "109902",
+      "name": "Beau Didier",
+      "count": 1
+    },
+    {
+      "id": "110285",
+      "name": "Flits",
+      "count": 1
+    },
+    {
+      "id": "109901",
+      "name": "Isaiah (NL)",
+      "count": 1
+    },
+    {
+      "id": "170047",
+      "name": "Lasse",
+      "count": 1
+    }
+  ]
+}

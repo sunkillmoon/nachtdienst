@@ -1,0 +1,28 @@
+{
+  "id": "105292",
+  "name": "LESSSS",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2529524",
+      "title": "Together Alone x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529524"
+    },
+    {
+      "id": "ra:2560120",
+      "title": "annie's ADE weekender",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560120"
+    }
+  ],
+  "past": []
+}

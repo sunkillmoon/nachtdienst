@@ -10,8 +10,18 @@
       "start": "2026-10-21T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479104"
+    },
+    {
+      "id": "ra:2529551",
+      "title": "240KM/H - ADE Takeover",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529551"
     }
   ],
   "past": []

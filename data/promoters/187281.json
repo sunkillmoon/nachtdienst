@@ -1,7 +1,8 @@
 {
   "id": "187281",
   "name": "Phono Lake Festival",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2434861",
       "title": "Phono Lake Festival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2434861"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "58874",

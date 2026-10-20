@@ -1,0 +1,34 @@
+{
+  "id": "140327",
+  "name": "Musicoterapia Records",
+  "upcoming": [
+    {
+      "id": "ra:2558502",
+      "title": "ORIGAMI SESSIONS · ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Smokey Club",
+      "venue_id": "272336",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558502"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "124096",
+      "name": "Redfern",
+      "count": 1
+    },
+    {
+      "id": "92847",
+      "name": "Rods Franchin",
+      "count": 1
+    },
+    {
+      "id": "83654",
+      "name": "Leandro Da Silva",
+      "count": 1
+    }
+  ]
+}

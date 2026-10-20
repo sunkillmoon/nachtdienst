@@ -1,0 +1,59 @@
+{
+  "id": "105081",
+  "name": "SVET",
+  "upcoming": [
+    {
+      "id": "ra:2536346",
+      "title": "SVET visual show",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536346"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81387",
+      "name": "8KAYS",
+      "count": 1
+    },
+    {
+      "id": "10007",
+      "name": "Spartaque",
+      "count": 1
+    },
+    {
+      "id": "89659",
+      "name": "Axel Haube",
+      "count": 1
+    },
+    {
+      "id": "174483",
+      "name": "Che Boy",
+      "count": 1
+    },
+    {
+      "id": "84707",
+      "name": "Human Rias",
+      "count": 1
+    },
+    {
+      "id": "188732",
+      "name": "KOLE AUDRO",
+      "count": 1
+    },
+    {
+      "id": "74889",
+      "name": "Philip Ackowsky",
+      "count": 1
+    },
+    {
+      "id": "115896",
+      "name": "SOROUSH",
+      "count": 1
+    }
+  ]
+}

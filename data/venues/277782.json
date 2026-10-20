@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2513257",
       "title": "hito draait om",
@@ -14,9 +15,7 @@
       "venue_id": "277782",
       "area": "The Hague",
       "url": "https://ra.co/events/2513257"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2490471",
       "title": "PURE at hito",

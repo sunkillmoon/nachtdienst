@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    },
+    {
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531359"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -13,6 +35,5 @@
       "area": "All",
       "url": "https://ra.co/events/2373930"
     }
-  ],
-  "past": []
+  ]
 }

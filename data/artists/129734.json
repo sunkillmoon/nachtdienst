@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
-    },
-    {
       "id": "ra:2506887",
       "title": "De Binnenstad x TNT Records",
       "date": "2026-10-22",
@@ -54,5 +44,16 @@
       "url": "https://ra.co/events/2502546"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    }
+  ]
 }

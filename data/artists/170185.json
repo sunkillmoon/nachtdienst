@@ -4,28 +4,28 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544904"
     },
     {
-      "id": "ra:2281919",
-      "title": "A Day at the Park Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Kralingse Bos",
-      "venue_id": "89597",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2281919"
+      "id": "ra:2528602",
+      "title": "BaseYRD ADE Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528602"
     },
     {
       "id": "ra:2470661",
-      "title": "ADE - Agrio Club x Rapid Trax",
+      "title": "ADE - Agrio Club x Rapid Trax [sold out]",
       "date": "2026-10-24",
       "start": "2026-10-24T23:59+02:00",
       "venue": "Lofi",
@@ -55,6 +55,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
     {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",

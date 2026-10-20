@@ -3,36 +3,6 @@
   "name": "De Binnenstad",
   "upcoming": [
     {
-      "id": "ra:2443232",
-      "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
-      "date": "2026-08-30",
-      "start": "2026-08-30T16:30+02:00",
-      "venue": "Ijburg",
-      "venue_id": "215846",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443232"
-    },
-    {
-      "id": "ra:2443238",
-      "title": "De Zomervloot - Zomerclosing",
-      "date": "2026-09-13",
-      "start": "2026-09-13T16:30+02:00",
-      "venue": "Ijburg",
-      "venue_id": "215846",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443238"
-    },
-    {
-      "id": "ra:2506879",
-      "title": "De Binnenstad x Sissi's",
-      "date": "2026-09-25",
-      "start": "2026-09-25T22:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506879"
-    },
-    {
       "id": "ra:2506887",
       "title": "De Binnenstad x TNT Records",
       "date": "2026-10-22",
@@ -54,7 +24,7 @@
     },
     {
       "id": "ra:2506898",
-      "title": "De Binnenstad x Southern Fried Records",
+      "title": "De Binnenstad x SUPERSTRINGS Invites",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "Ijver",
@@ -64,6 +34,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    },
+    {
+      "id": "ra:2443238",
+      "title": "De Zomervloot - Zomerclosing",
+      "date": "2026-09-13",
+      "start": "2026-09-13T16:30+02:00",
+      "venue": "Ijburg",
+      "venue_id": "215846",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443238"
+    },
+    {
+      "id": "ra:2443232",
+      "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:30+02:00",
+      "venue": "Ijburg",
+      "venue_id": "215846",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443232"
+    },
     {
       "id": "ra:2443220",
       "title": "De Zomervloot - Emvae All Day Long",
@@ -107,31 +107,6 @@
       "count": 2
     },
     {
-      "id": "75878",
-      "name": "Fafi Abdel Nour",
-      "count": 1
-    },
-    {
-      "id": "77557",
-      "name": "Easttown",
-      "count": 1
-    },
-    {
-      "id": "178273",
-      "name": "Rumi Jill",
-      "count": 1
-    },
-    {
-      "id": "127453",
-      "name": "Gyatso",
-      "count": 1
-    },
-    {
-      "id": "108064",
-      "name": "Spacer Woman",
-      "count": 1
-    },
-    {
       "id": "129734",
       "name": "Diffrent",
       "count": 1
@@ -144,6 +119,31 @@
     {
       "id": "154448",
       "name": "Freddi",
+      "count": 1
+    },
+    {
+      "id": "159427",
+      "name": "OLIVIA LENSEN",
+      "count": 1
+    },
+    {
+      "id": "129183",
+      "name": "Schwesta P",
+      "count": 1
+    },
+    {
+      "id": "155663",
+      "name": "SHUFFA",
+      "count": 1
+    },
+    {
+      "id": "67599",
+      "name": "Tarik",
+      "count": 1
+    },
+    {
+      "id": "182572",
+      "name": "Sam Hofman",
       "count": 1
     }
   ]

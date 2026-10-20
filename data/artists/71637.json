@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2520611",
       "title": "Mama Snake, Roza Terenzi, Rey Colino",
       "date": "2026-10-03",
@@ -12,9 +24,7 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520611"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

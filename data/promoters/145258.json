@@ -1,7 +1,8 @@
 {
   "id": "145258",
   "name": "NAR",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2373343",
       "title": "Het Festival vol. 2",
@@ -21,9 +22,7 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2378523"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2505068",
       "title": "Playground X Club Coco",

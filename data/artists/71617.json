@@ -2,7 +2,8 @@
   "id": "71617",
   "name": "St. David",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2450489",
       "title": "LIEF Festival",
@@ -12,9 +13,7 @@
       "venue_id": "12609",
       "area": "Utrecht",
       "url": "https://ra.co/events/2450489"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",

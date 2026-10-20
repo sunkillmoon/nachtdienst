@@ -2,7 +2,8 @@
   "id": "67393",
   "name": "Carla dal Forno",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514473",
       "title": "subbacultcha presents: carla dal forno + ebby [sold out]",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514473"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "276260",
+  "name": "Jekkah",
+  "area": "All",
+  "lat": 52.31,
+  "lng": 4.95,
+  "upcoming": [
+    {
+      "id": "ra:2535497",
+      "title": "Faces Of Afro House X Les Gout Int",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Jekkah",
+      "venue_id": "276260",
+      "area": "All",
+      "url": "https://ra.co/events/2535497"
+    }
+  ],
+  "past": []
+}

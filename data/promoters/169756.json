@@ -1,7 +1,18 @@
 {
   "id": "169756",
   "name": "Mala Junta",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2531405",
+      "title": "TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531405"
+    }
+  ],
   "past": [
     {
       "id": "ra:2440419",

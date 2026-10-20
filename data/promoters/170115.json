@@ -3,84 +3,66 @@
   "name": "Sissi's Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2493463",
-      "title": "Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493463"
+      "url": "https://ra.co/events/2504927"
     },
     {
-      "id": "ra:2493470",
-      "title": "Sissi's by Closecall x Ghosts of Garage",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
+      "id": "ra:2524451",
+      "title": "Sissi's ADE Friday with Bronka x Kurashi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493470"
+      "url": "https://ra.co/events/2524451"
     },
     {
-      "id": "ra:2519559",
-      "title": "Sissi's Friday with lizz.e, Papa Nugs, Polli Panda b2b Wesgood",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519559"
+      "url": "https://ra.co/events/2531359"
     },
     {
-      "id": "ra:2519563",
-      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
+      "id": "ra:2535059",
+      "title": "Club Tineke Halloween - SISSI'S Amsterdam",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519563"
+      "url": "https://ra.co/events/2535059"
     },
     {
-      "id": "ra:2493526",
-      "title": "Sissi's Blockparty with Moody Mehran (all day)",
-      "date": "2026-09-19",
-      "start": "2026-09-19T18:00+02:00",
+      "id": "ra:2541951",
+      "title": "Sissi's Halloween by Slimradio",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493526"
-    },
+      "url": "https://ra.co/events/2541951"
+    }
+  ],
+  "past": [
     {
-      "id": "ra:2506879",
-      "title": "De Binnenstad x Sissi's",
-      "date": "2026-09-25",
-      "start": "2026-09-25T22:00+02:00",
+      "id": "ra:2519571",
+      "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506879"
-    },
-    {
-      "id": "ra:2498694",
-      "title": "Sissi's Blockparty with Benny Rodrigues & LYLO",
-      "date": "2026-09-26",
-      "start": "2026-09-26T18:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498694"
-    },
-    {
-      "id": "ra:2519567",
-      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519567"
+      "url": "https://ra.co/events/2519571"
     },
     {
       "id": "ra:2516969",
@@ -93,27 +75,85 @@
       "url": "https://ra.co/events/2516969"
     },
     {
-      "id": "ra:2519571",
-      "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
-      "date": "2026-10-17",
-      "start": "2026-10-17T23:00+02:00",
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519571"
+      "url": "https://ra.co/events/2519567"
     },
     {
-      "id": "ra:2504927",
-      "title": "PALET ADE Special",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:00+02:00",
+      "id": "ra:2498694",
+      "title": "Sissi's Blockparty with Benny Rodrigues & LYLO",
+      "date": "2026-09-26",
+      "start": "2026-09-26T18:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504927"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2498694"
+    },
+    {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    },
+    {
+      "id": "ra:2493526",
+      "title": "Sissi's Blockparty with Moody Mehran (all day)",
+      "date": "2026-09-19",
+      "start": "2026-09-19T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493526"
+    },
+    {
+      "id": "ra:2519563",
+      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519563"
+    },
+    {
+      "id": "ra:2519559",
+      "title": "Sissi's Friday with lizz.e, Papa Nugs, Polli Panda b2b Wesgood",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519559"
+    },
+    {
+      "id": "ra:2493470",
+      "title": "Sissi's by Closecall x Ghosts of Garage",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493470"
+    },
+    {
+      "id": "ra:2493463",
+      "title": "Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493463"
+    },
     {
       "id": "ra:2493459",
       "title": "Sissi's Saturday by Naked Records with Dennis Quin & Shanne",
@@ -197,53 +237,53 @@
   ],
   "top_artists": [
     {
+      "id": "159225",
+      "name": "Benny2",
+      "count": 2
+    },
+    {
+      "id": "109346",
+      "name": "Boris Coelman",
+      "count": 2
+    },
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 2
+    },
+    {
       "id": "107543",
       "name": "Polli Panda",
       "count": 2
     },
     {
-      "id": "138747",
-      "name": "TASHASAN",
+      "id": "182924",
+      "name": "Cathy Grogan",
       "count": 1
     },
     {
-      "id": "122188",
-      "name": "MIA (MY)",
+      "id": "88224",
+      "name": "Scarlett O'Malley",
       "count": 1
     },
     {
-      "id": "158979",
-      "name": "XUNAT",
+      "id": "91200",
+      "name": "DJ SWISHA",
       "count": 1
     },
     {
-      "id": "155663",
-      "name": "SHUFFA",
+      "id": "122680",
+      "name": "Eileen",
       "count": 1
     },
     {
-      "id": "124022",
-      "name": "Becking",
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
       "count": 1
     },
     {
-      "id": "166856",
-      "name": "Itz3bby",
-      "count": 1
-    },
-    {
-      "id": "90017",
-      "name": "Rich Reason",
-      "count": 1
-    },
-    {
-      "id": "110212",
-      "name": "Larishka",
-      "count": 1
-    },
-    {
-      "id": "29768",
-      "name": "Chunky",
+      "id": "134978",
+      "name": "NewTone",
       "count": 1
     }
   ]

@@ -12,6 +12,16 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2559154",
+      "title": "Cometa 'Coco' Nostra",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559154"
     }
   ],
   "past": [

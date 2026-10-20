@@ -1,0 +1,39 @@
+{
+  "id": "108861",
+  "name": "Keyi Magazine",
+  "upcoming": [
+    {
+      "id": "ra:2544566",
+      "title": "NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition",
+      "date": "2026-10-22",
+      "start": "2026-10-23T02:00+02:00",
+      "venue": "What Is Happening Here Gallery",
+      "venue_id": "266780",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544566"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "160",
+      "name": "Chris Liebing",
+      "count": 1
+    },
+    {
+      "id": "103151",
+      "name": "David Castellani",
+      "count": 1
+    },
+    {
+      "id": "83090",
+      "name": "Berlin Bunny",
+      "count": 1
+    },
+    {
+      "id": "97548",
+      "name": "Eyesdice",
+      "count": 1
+    }
+  ]
+}

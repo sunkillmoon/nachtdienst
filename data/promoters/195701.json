@@ -1,0 +1,54 @@
+{
+  "id": "195701",
+  "name": "RAPSODIA.exp",
+  "upcoming": [
+    {
+      "id": "ra:2557981",
+      "title": "RAPSODIA x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557981"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "6505",
+      "name": "Joey Daniel",
+      "count": 1
+    },
+    {
+      "id": "2265",
+      "name": "Reboot",
+      "count": 1
+    },
+    {
+      "id": "9548",
+      "name": "Leyo",
+      "count": 1
+    },
+    {
+      "id": "144498",
+      "name": "Milo Passier",
+      "count": 1
+    },
+    {
+      "id": "132863",
+      "name": "Random Memory",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "157230",
+      "name": "Cher Semain",
+      "count": 1
+    }
+  ]
+}

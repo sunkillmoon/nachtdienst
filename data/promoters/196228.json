@@ -1,0 +1,39 @@
+{
+  "id": "196228",
+  "name": "WORKROOM",
+  "upcoming": [
+    {
+      "id": "ra:2563912",
+      "title": "Friends of WORKROOM",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "SHU",
+      "venue_id": "248548",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563912"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "69676",
+      "name": "Corey James",
+      "count": 1
+    },
+    {
+      "id": "67566",
+      "name": "Stadiumx",
+      "count": 1
+    },
+    {
+      "id": "172587",
+      "name": "HIISAK",
+      "count": 1
+    },
+    {
+      "id": "183434",
+      "name": "Artur Bredo",
+      "count": 1
+    }
+  ]
+}

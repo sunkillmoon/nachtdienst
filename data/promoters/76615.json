@@ -1,0 +1,29 @@
+{
+  "id": "76615",
+  "name": "Rebirth Records (IT)",
+  "upcoming": [
+    {
+      "id": "ra:2536557",
+      "title": "20 Years of Rebirth Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536557"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "2776",
+      "name": "Shield",
+      "count": 1
+    },
+    {
+      "id": "22289",
+      "name": "Chromatic Filters",
+      "count": 1
+    }
+  ]
+}

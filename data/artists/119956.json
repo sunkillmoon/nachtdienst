@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516918",
-      "title": "Frenzy x shockwerk",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516918"
-    },
+      "url": "https://ra.co/events/2493047"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2514445",
       "title": "FRENZY x SHOCKWERK",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2514445"
     },
     {
-      "id": "ra:2493047",
-      "title": "Disturbia x Soundcora - ADE 2026",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2516918",
+      "title": "Frenzy x shockwerk",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493047"
+      "url": "https://ra.co/events/2516918"
     }
-  ],
-  "past": []
+  ]
 }

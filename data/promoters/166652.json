@@ -1,0 +1,49 @@
+{
+  "id": "166652",
+  "name": "Klub Analog",
+  "upcoming": [
+    {
+      "id": "ra:2536435",
+      "title": "ADE: Klub Analog x Benelux",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536435"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "90391",
+      "name": "Fais Le Beau",
+      "count": 1
+    },
+    {
+      "id": "3111",
+      "name": "Tomoki Tamura",
+      "count": 1
+    },
+    {
+      "id": "161870",
+      "name": "Varuna Agosti",
+      "count": 1
+    },
+    {
+      "id": "136636",
+      "name": "PIKE",
+      "count": 1
+    },
+    {
+      "id": "165203",
+      "name": "Uksimo",
+      "count": 1
+    },
+    {
+      "id": "136417",
+      "name": "Shana",
+      "count": 1
+    }
+  ]
+}

@@ -6,104 +6,24 @@
   "lng": 4.883658,
   "upcoming": [
     {
-      "id": "ra:2516707",
-      "title": "Bubble House x Club Up",
-      "date": "2026-08-28",
-      "start": "2026-08-28T22:00+02:00",
+      "id": "ra:2527782",
+      "title": "Re'Mind invites DJ Q & Douvelle19 - ADE edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
       "venue": "Club Up",
       "venue_id": "38637",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516707"
+      "url": "https://ra.co/events/2527782"
     },
     {
-      "id": "ra:2520021",
-      "title": "BOUNCE",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2556055",
+      "title": "KOOKOO RECORDS ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
       "venue": "Club Up",
       "venue_id": "38637",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520021"
-    },
-    {
-      "id": "ra:2507122",
-      "title": "EAST Techno Collective",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507122"
-    },
-    {
-      "id": "ra:2520022",
-      "title": "BELLAKEO DISTRICT",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520022"
-    },
-    {
-      "id": "ra:2520024",
-      "title": "COLLIDE",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520024"
-    },
-    {
-      "id": "ra:2508259",
-      "title": "ONDA FORTE with DJ BRUM",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2508259"
-    },
-    {
-      "id": "ra:2520025",
-      "title": "KOOPAVOND",
-      "date": "2026-09-17",
-      "start": "2026-09-17T21:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520025"
-    },
-    {
-      "id": "ra:2515640",
-      "title": "Boyos Wonderland",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515640"
-    },
-    {
-      "id": "ra:2516106",
-      "title": "VONK x Club Up",
-      "date": "2026-09-19",
-      "start": "2026-09-19T22:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516106"
-    },
-    {
-      "id": "ra:2520027",
-      "title": "SKINNYJEANS",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520027"
+      "url": "https://ra.co/events/2556055"
     },
     {
       "id": "ra:2508882",
@@ -116,17 +36,137 @@
       "url": "https://ra.co/events/2508882"
     },
     {
+      "id": "ra:2551458",
+      "title": "FH Agency × CoverMyAss pres. Club Up",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551458"
+    },
+    {
       "id": "ra:2513204",
-      "title": "That Garage Sound presents: Jeremy Sylvester ADE",
+      "title": "That Garage Sound x Ghosts of Garage - ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T22:00+02:00",
       "venue": "Club Up",
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2513204"
+    },
+    {
+      "id": "ra:2553288",
+      "title": "Break-Out 4 Breakfast",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553288"
     }
   ],
   "past": [
+    {
+      "id": "ra:2520027",
+      "title": "SKINNYJEANS",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520027"
+    },
+    {
+      "id": "ra:2516106",
+      "title": "VONK x Club Up",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516106"
+    },
+    {
+      "id": "ra:2515640",
+      "title": "Boyos Wonderland",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515640"
+    },
+    {
+      "id": "ra:2520025",
+      "title": "KOOPAVOND",
+      "date": "2026-09-17",
+      "start": "2026-09-17T21:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520025"
+    },
+    {
+      "id": "ra:2508259",
+      "title": "ONDA FORTE with DJ BRUM",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2508259"
+    },
+    {
+      "id": "ra:2520024",
+      "title": "COLLIDE",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520024"
+    },
+    {
+      "id": "ra:2520022",
+      "title": "BELLAKEO DISTRICT",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520022"
+    },
+    {
+      "id": "ra:2507122",
+      "title": "EAST Techno Collective",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507122"
+    },
+    {
+      "id": "ra:2520021",
+      "title": "BOUNCE",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520021"
+    },
+    {
+      "id": "ra:2516707",
+      "title": "Bubble House x Club Up",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516707"
+    },
     {
       "id": "ra:2467051",
       "title": "Het Concept // House & UK Garage",

@@ -1,0 +1,44 @@
+{
+  "id": "118925",
+  "name": "Club.Hacienda",
+  "upcoming": [
+    {
+      "id": "ra:2562522",
+      "title": "Club Hacienda × STRAAL (ADE)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562522"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "119467",
+      "name": "Boyos (1)",
+      "count": 1
+    },
+    {
+      "id": "27408",
+      "name": "Dam Swindle",
+      "count": 1
+    },
+    {
+      "id": "152684",
+      "name": "Ammé",
+      "count": 1
+    },
+    {
+      "id": "171453",
+      "name": "Cici Daze",
+      "count": 1
+    },
+    {
+      "id": "163944",
+      "name": "ANNASNEL",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "105802",
   "name": "Charmaine",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500891",
       "title": "Ciranda Sundays x Doka Studio with Charmaine - Mendel ",
@@ -12,9 +13,7 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500891"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

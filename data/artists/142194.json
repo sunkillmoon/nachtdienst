@@ -2,7 +2,18 @@
   "id": "142194",
   "name": "BADBOX",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2545882",
+      "title": "Claps Records Official Label Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "The Bulldog Hotel",
+      "venue_id": "125886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545882"
+    }
+  ],
   "past": [
     {
       "id": "ra:2401511",

@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2558918",
+      "title": "Mannequin Records X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558918"
+    },
+    {
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511306"
+    },
+    {
+      "id": "ra:2523599",
+      "title": "Intergalactic FM presents Acid Bunker",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2523599"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
       "date": "2026-09-26",
@@ -12,9 +44,7 @@
       "venue_id": "300735",
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495209",
       "title": "Fluff Disco",

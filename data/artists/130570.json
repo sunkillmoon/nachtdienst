@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2543602",
+      "title": "Cheeky Monday: Onderhans",
+      "date": "2026-10-26",
+      "start": "2026-10-26T21:00+01:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543602"
+    },
+    {
+      "id": "ra:2565419",
+      "title": "Cheeky Monday: Pythius",
+      "date": "2026-11-02",
+      "start": "2026-11-02T23:00+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565419"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2490217",
       "title": "For The Rhythm presents: Fort Riddim Vol. 1",
       "date": "2026-09-19",
@@ -12,9 +34,7 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490217"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495232",
       "title": "Cheeky Monday: Ray Keith",

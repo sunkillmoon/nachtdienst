@@ -1,0 +1,69 @@
+{
+  "id": "149197",
+  "name": "Marginalia",
+  "upcoming": [
+    {
+      "id": "ra:2523924",
+      "title": "Marginalia x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523924"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "114282",
+      "name": "Alicia Hahn",
+      "count": 1
+    },
+    {
+      "id": "163041",
+      "name": "Alessio Cristiano",
+      "count": 1
+    },
+    {
+      "id": "61756",
+      "name": "Ben Eidani",
+      "count": 1
+    },
+    {
+      "id": "80985",
+      "name": "Beswerda",
+      "count": 1
+    },
+    {
+      "id": "83269",
+      "name": "Ede",
+      "count": 1
+    },
+    {
+      "id": "74587",
+      "name": "ELIF",
+      "count": 1
+    },
+    {
+      "id": "161697",
+      "name": "FAE (3)",
+      "count": 1
+    },
+    {
+      "id": "160548",
+      "name": "Jamin",
+      "count": 1
+    },
+    {
+      "id": "101284",
+      "name": "Jonas Fritz",
+      "count": 1
+    },
+    {
+      "id": "179153",
+      "name": "Liminal MX",
+      "count": 1
+    }
+  ]
+}

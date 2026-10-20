@@ -1,0 +1,24 @@
+{
+  "id": "195550",
+  "name": "Shiro K Janzen",
+  "upcoming": [
+    {
+      "id": "ra:2556045",
+      "title": "PURBA-001",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556045"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "186679",
+      "name": "Peak w/ Vic",
+      "count": 1
+    }
+  ]
+}

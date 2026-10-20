@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2478437",
-      "title": "ECHOVERSE",
+      "title": "[CANCELLED] ECHOVERSE",
       "date": "2026-10-23",
       "start": "2026-10-23T17:00+02:00",
       "venue": "TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam",
@@ -15,11 +15,11 @@
     },
     {
       "id": "ra:2474780",
-      "title": "BRM Agency & Barbur Room pres. ADE Friday Night Showcase",
+      "title": "BRM Agency X Barbur Room ADE Showcase",
       "date": "2026-10-23",
       "start": "2026-10-23T23:59+02:00",
-      "venue": "TBA - 50:HERTZ HOUSE & TECHNO CLUB",
-      "venue_id": "296995",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2474780"
     },
@@ -27,7 +27,7 @@
       "id": "ra:2478382",
       "title": "Daydreaming & EQUINOX PRESENT CONNEXION",
       "date": "2026-10-25",
-      "start": "2026-10-25T22:00+01:00",
+      "start": "2026-10-25T21:30+01:00",
       "venue": "Club Baggerbeest",
       "venue_id": "258176",
       "area": "Amsterdam",

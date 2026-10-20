@@ -1,0 +1,99 @@
+{
+  "id": "195161",
+  "name": "FH Agency",
+  "upcoming": [
+    {
+      "id": "ra:2551455",
+      "title": "BCB Family × FH Agency × CoverMyAss",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551455"
+    },
+    {
+      "id": "ra:2551458",
+      "title": "FH Agency × CoverMyAss pres. Club Up",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551458"
+    },
+    {
+      "id": "ra:2551460",
+      "title": "Techno Boat with Space 92, Svetec & more — 2 Floors",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA - EIVISSA",
+      "venue_id": "303920",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551460"
+    },
+    {
+      "id": "ra:2551461",
+      "title": "CMA × FH Agency pres. — ADE Closing",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551461"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "105050",
+      "name": "Daniella da Silva",
+      "count": 2
+    },
+    {
+      "id": "151546",
+      "name": "KNTRLVRLST",
+      "count": 2
+    },
+    {
+      "id": "58202",
+      "name": "Svetec",
+      "count": 2
+    },
+    {
+      "id": "109907",
+      "name": "Joris Turenhout",
+      "count": 2
+    },
+    {
+      "id": "119713",
+      "name": "Ben Dust",
+      "count": 2
+    },
+    {
+      "id": "106091",
+      "name": "ASLO",
+      "count": 2
+    },
+    {
+      "id": "168465",
+      "name": "I AM WOLV",
+      "count": 2
+    },
+    {
+      "id": "103763",
+      "name": "Trancemaster Krause",
+      "count": 1
+    },
+    {
+      "id": "126118",
+      "name": "Bitschu Batschu",
+      "count": 1
+    },
+    {
+      "id": "152728",
+      "name": "HOTBOI2300",
+      "count": 1
+    }
+  ]
+}

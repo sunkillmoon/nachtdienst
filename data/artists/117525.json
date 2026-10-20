@@ -4,14 +4,46 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2502651",
-      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
+      "id": "ra:2536525",
+      "title": "Arsenal Mikebe | Prance & Ike Melchizedek",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Bimhuis",
+      "venue_id": "4392",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536525"
+    },
+    {
+      "id": "ra:2490674",
+      "title": "Vault Sessions & Friends ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490674"
+    },
+    {
+      "id": "ra:2544907",
+      "title": "RADION Invites: Fever Dream x Patchwork Family",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544907"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2499721",
+      "title": "CARISTA, ROD, Prance",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
       "venue": "CLUB RAUM",
       "venue_id": "219522",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2502651"
+      "url": "https://ra.co/events/2499721"
     },
     {
       "id": "ra:2515014",
@@ -24,27 +56,15 @@
       "url": "https://ra.co/events/2515014"
     },
     {
-      "id": "ra:2499721",
-      "title": "CARISTA, ROD, Prance",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
+      "id": "ra:2502651",
+      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
       "venue": "CLUB RAUM",
       "venue_id": "219522",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2499721"
+      "url": "https://ra.co/events/2502651"
     },
-    {
-      "id": "ra:2490674",
-      "title": "Vault Sessions & Friends ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T12:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490674"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",

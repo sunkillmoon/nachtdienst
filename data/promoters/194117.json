@@ -1,0 +1,49 @@
+{
+  "id": "194117",
+  "name": "Ode Events",
+  "upcoming": [
+    {
+      "id": "ra:2538429",
+      "title": "Edo presents Ode",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538429"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "146188",
+      "name": "2HOT2PLAY",
+      "count": 1
+    },
+    {
+      "id": "181819",
+      "name": "BOY&GIRL",
+      "count": 1
+    },
+    {
+      "id": "184902",
+      "name": "Edo (NL)",
+      "count": 1
+    },
+    {
+      "id": "146638",
+      "name": "L.zwo",
+      "count": 1
+    },
+    {
+      "id": "165700",
+      "name": "LUMINE",
+      "count": 1
+    },
+    {
+      "id": "188657",
+      "name": "Shugz",
+      "count": 1
+    }
+  ]
+}

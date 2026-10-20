@@ -2,7 +2,8 @@
   "id": "126214",
   "name": "Gate 9",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517612",
       "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517612"
     }
-  ],
-  "past": []
+  ]
 }

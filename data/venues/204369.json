@@ -6,8 +6,18 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2560039",
+      "title": "UML Records - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560039"
+    },
+    {
       "id": "ra:2507405",
-      "title": "LOOSE MONKEY TAKEOVER",
+      "title": "LOOSE MONKEY TAKEOVER AT Blend XL",
       "date": "2026-10-23",
       "start": "2026-10-23T17:00+02:00",
       "venue": "Blend XL",
@@ -34,6 +44,16 @@
       "venue_id": "204369",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2482781"
+    },
+    {
+      "id": "ra:2551524",
+      "title": "True House Tribute to DJ Romain",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551524"
     }
   ],
   "past": []

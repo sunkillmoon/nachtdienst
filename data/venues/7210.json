@@ -1,0 +1,40 @@
+{
+  "id": "7210",
+  "name": "Studio/K",
+  "area": "Amsterdam",
+  "lat": 52.365238,
+  "lng": 4.936032,
+  "upcoming": [
+    {
+      "id": "ra:2561278",
+      "title": "ADE: VIRA, Clubnight & Film Funk",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561278"
+    },
+    {
+      "id": "ra:2539019",
+      "title": "ONDA FORTE - ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539019"
+    },
+    {
+      "id": "ra:2563062",
+      "title": "GINGA: Beats & Bites - ADE Arts & Culture - FREE ENTRY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563062"
+    }
+  ],
+  "past": []
+}

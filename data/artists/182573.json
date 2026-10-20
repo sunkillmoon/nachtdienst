@@ -2,7 +2,18 @@
   "id": "182573",
   "name": "Dean Turnley",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
+    },
     {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
@@ -13,18 +24,6 @@
       "area": "All",
       "url": "https://ra.co/events/2373930"
     },
-    {
-      "id": "ra:2464177",
-      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
-      "date": "2026-08-30",
-      "start": "2026-08-30T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464177"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2251187",
       "title": "Daycare Festival",

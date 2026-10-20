@@ -2,7 +2,8 @@
   "id": "129093",
   "name": "Libere",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510346",
       "title": "Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510346"
     }
-  ],
-  "past": []
+  ]
 }

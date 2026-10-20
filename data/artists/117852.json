@@ -2,7 +2,8 @@
   "id": "117852",
   "name": "XRTN",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2425634",
       "title": "Claydrum presents KRUELTY / Samuel Moriero / XRTN / Freya",
@@ -12,9 +13,7 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2425634"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2504935",
       "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",

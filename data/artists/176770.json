@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2523446",
+      "title": "3xNYX: HALLOQUEEN",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523446"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506079",
       "title": "3xNYX hosted by Abby OMG",
       "date": "2026-09-05",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506079"
     }
-  ],
-  "past": []
+  ]
 }

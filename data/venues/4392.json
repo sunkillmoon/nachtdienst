@@ -6,6 +6,38 @@
   "lng": 4.912829,
   "upcoming": [
     {
+      "id": "ra:2522984",
+      "title": "RADIOHOP - Tomoki Sanders",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:30+02:00",
+      "venue": "Bimhuis",
+      "venue_id": "4392",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522984"
+    },
+    {
+      "id": "ra:2536525",
+      "title": "Arsenal Mikebe | Prance & Ike Melchizedek",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Bimhuis",
+      "venue_id": "4392",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536525"
+    },
+    {
+      "id": "ra:2536529",
+      "title": "Brass Rave Unit - MANOLO",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:30+02:00",
+      "venue": "Bimhuis",
+      "venue_id": "4392",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536529"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2510200",
       "title": "Joanne Joanne Robertson + S*an D. Henry-Smith",
       "date": "2026-09-03",
@@ -15,6 +47,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510200"
     }
-  ],
-  "past": []
+  ]
 }

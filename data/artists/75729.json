@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
+      "url": "https://ra.co/events/2553496"
     },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
@@ -22,9 +34,17 @@
       "venue_id": "161459",
       "area": "All",
       "url": "https://ra.co/events/2309929"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

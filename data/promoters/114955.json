@@ -1,7 +1,18 @@
 {
   "id": "114955",
   "name": "POING CLUB",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
   "past": [
     {
       "id": "ra:2466330",
@@ -16,53 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "117173",
-      "name": "Ambu Bambu",
-      "count": 1
-    },
-    {
-      "id": "104265",
-      "name": "AMORAL",
-      "count": 1
-    },
-    {
       "id": "173673",
       "name": "Candy Coup",
+      "count": 2
+    },
+    {
+      "id": "137491",
+      "name": "ZOBAYDA",
+      "count": 2
+    },
+    {
+      "id": "40041",
+      "name": "CAIN",
       "count": 1
     },
     {
-      "id": "86255",
-      "name": "Chippy Nonstop",
+      "id": "113030",
+      "name": "CyberFairy777",
       "count": 1
     },
     {
-      "id": "87795",
-      "name": "Coffintexts",
+      "id": "110734",
+      "name": "DIORA",
       "count": 1
     },
     {
-      "id": "56880",
-      "name": "Epiphany",
+      "id": "113191",
+      "name": "Faustin (NL)",
       "count": 1
     },
     {
-      "id": "149712",
-      "name": "Jo FLM",
+      "id": "138220",
+      "name": "fka phaedra",
       "count": 1
     },
     {
-      "id": "143174",
-      "name": "Joya Astou",
+      "id": "113952",
+      "name": "Glabra",
       "count": 1
     },
     {
-      "id": "136708",
-      "name": "justin case",
+      "id": "105174",
+      "name": "Nelly (NL)",
       "count": 1
     },
     {
-      "id": "95124",
-      "name": "Miss Jay (RO)",
+      "id": "124094",
+      "name": "RICO RICA",
       "count": 1
     }
   ]

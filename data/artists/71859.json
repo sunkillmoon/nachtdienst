@@ -2,7 +2,8 @@
   "id": "71859",
   "name": "Le Hutin",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473482",
       "title": "Madam by Night invites: Basics Recording",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473482"
     }
-  ],
-  "past": []
+  ]
 }

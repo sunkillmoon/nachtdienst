@@ -2,7 +2,28 @@
   "id": "41111",
   "name": "George Smeddles",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2546414",
+      "title": "MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Jimmy Woo",
+      "venue_id": "2766",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546414"
+    },
+    {
+      "id": "ra:2556692",
+      "title": "WAVY At The Church",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556692"
+    }
+  ],
   "past": [
     {
       "id": "ra:2443517",

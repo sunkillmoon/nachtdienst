@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2479148",
+      "title": "Awakenings ADE - Prophecy by Prospa",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479148"
+    },
+    {
+      "id": "ra:2560507",
+      "title": "Prospa & WAVY present: Prophecy",
+      "date": "2026-10-26",
+      "start": "2026-10-26T08:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560507"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
@@ -12,17 +34,6 @@
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
-    },
-    {
-      "id": "ra:2479148",
-      "title": "Awakenings ADE - Prophecy by Prospa",
-      "date": "2026-10-25",
-      "start": "2026-10-25T23:00+01:00",
-      "venue": "Sugarfactory",
-      "venue_id": "277115",
-      "area": "All",
-      "url": "https://ra.co/events/2479148"
     }
-  ],
-  "past": []
+  ]
 }

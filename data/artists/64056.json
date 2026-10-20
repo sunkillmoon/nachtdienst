@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
-    },
-    {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
       "id": "ra:2495393",
       "title": "ZeeZout ADE - Friday Daytime",
       "date": "2026-10-23",
@@ -54,6 +34,16 @@
       "url": "https://ra.co/events/2520399"
     },
     {
+      "id": "ra:2442143",
+      "title": "Le Guess Who? 2026",
+      "date": "2026-11-05",
+      "start": "2026-11-05T17:00+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442143"
+    },
+    {
       "id": "ra:2519765",
       "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
       "date": "2026-11-07",
@@ -62,9 +52,39 @@
       "venue_id": "137365",
       "area": "Utrecht",
       "url": "https://ra.co/events/2519765"
+    },
+    {
+      "id": "ra:2543903",
+      "title": "ketia curates (bday bash): day party ",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543903"
     }
   ],
   "past": [
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2440428",
       "title": "BASHKKA present INVIGORATE A.M",

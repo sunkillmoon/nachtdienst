@@ -2,7 +2,18 @@
   "id": "103744",
   "name": "Robin Hastings",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2515090",
+      "title": "Amsterdam Nights: Hard Techno Halloween w/ Kento [BE], Robin Hastings [CL], PINELOPI [Gr]",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515090"
+    }
+  ],
   "past": [
     {
       "id": "ra:2438868",

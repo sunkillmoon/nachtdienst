@@ -1,0 +1,38 @@
+{
+  "id": "151724",
+  "name": "LeBagig",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563972"
+    },
+    {
+      "id": "ra:2521590",
+      "title": "Toffler presents J4SCO and friends",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2521590"
+    },
+    {
+      "id": "ra:2561496",
+      "title": "HALLOW'S EVE: haunted soirée",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561496"
+    }
+  ],
+  "past": []
+}

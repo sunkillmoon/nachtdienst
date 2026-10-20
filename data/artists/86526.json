@@ -4,14 +4,36 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    },
+    {
+      "id": "ra:2557857",
+      "title": "M0RN1NG 4FT3R",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "301377",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557857"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2519739",
+      "title": "FLUID // BADSISTA • CEM • Guenter Råler • Nala Brown",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "WAS.",
+      "venue_id": "137365",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2519739"
     },
     {
       "id": "ra:2519856",
@@ -24,17 +46,15 @@
       "url": "https://ra.co/events/2519856"
     },
     {
-      "id": "ra:2519739",
-      "title": "FLUID // BADSISTA • CEM • Guenter Råler • Nala Brown",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "WAS.",
-      "venue_id": "137365",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2519739"
-    }
-  ],
-  "past": [
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

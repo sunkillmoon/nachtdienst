@@ -15,13 +15,23 @@
     },
     {
       "id": "ra:2494395",
-      "title": "Runner's High",
+      "title": "Breakfast Club ADE: Runner's High",
       "date": "2026-10-24",
       "start": "2026-10-24T09:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494395"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
   "past": []

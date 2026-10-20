@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2555456",
+      "title": "Motie ADE: Helios x Young Marco feat. Johnny Nash (opening night)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555456"
+    },
+    {
       "id": "ra:2297501",
       "title": "Into the Woods ADE 2026",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "159079",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2527480",
+      "title": "Ewan McVicar presents Club Knuckles ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527480"
     }
   ],
   "past": [

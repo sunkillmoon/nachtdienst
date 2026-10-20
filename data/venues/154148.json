@@ -24,6 +24,16 @@
       "venue_id": "154148",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466154"
+    },
+    {
+      "id": "ra:2543998",
+      "title": "HE.SHE.THEY. X Dockyard Festival X Mystic Garden ADE 2026: Stage Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543998"
     }
   ],
   "past": []

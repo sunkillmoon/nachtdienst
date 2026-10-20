@@ -2,7 +2,8 @@
   "id": "97611",
   "name": "askmelater",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517515",
       "title": "kantarion sound x murmur blockparty",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517515"
     }
-  ],
-  "past": []
+  ]
 }

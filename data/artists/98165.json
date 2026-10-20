@@ -4,23 +4,13 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505865",
-      "title": "Boiler Room: Maastricht - Friday",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2505865"
-    },
-    {
       "id": "ra:2479113",
       "title": "Awakenings ADE - Friday Sessions",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479113"
     },
     {
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505865",
+      "title": "Boiler Room: Maastricht - Friday",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
+      "area": "All",
+      "url": "https://ra.co/events/2505865"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

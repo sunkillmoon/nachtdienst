@@ -1,0 +1,39 @@
+{
+  "id": "163265",
+  "name": "Kenziexperience",
+  "upcoming": [
+    {
+      "id": "ra:2547220",
+      "title": "KENZi by Day - ADE Edition",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547220"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "171213",
+      "name": "De La Noise",
+      "count": 1
+    },
+    {
+      "id": "169014",
+      "name": "KARKÂDÉ",
+      "count": 1
+    },
+    {
+      "id": "55465",
+      "name": "NAAK",
+      "count": 1
+    },
+    {
+      "id": "115896",
+      "name": "SOROUSH",
+      "count": 1
+    }
+  ]
+}

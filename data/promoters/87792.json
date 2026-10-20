@@ -1,0 +1,39 @@
+{
+  "id": "87792",
+  "name": "Eastern Margins",
+  "upcoming": [
+    {
+      "id": "ra:2524079",
+      "title": "Eastern Margins x Natural Mind with The Twins, Minna-no-Kimochi, Mechatok & Torus",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524079"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "144005",
+      "name": "Minna-no-Kimochi",
+      "count": 1
+    },
+    {
+      "id": "66360",
+      "name": "Mechatok",
+      "count": 1
+    },
+    {
+      "id": "162947",
+      "name": "The Twins (waitareyoutwins)",
+      "count": 1
+    },
+    {
+      "id": "48628",
+      "name": "Torus",
+      "count": 1
+    }
+  ]
+}

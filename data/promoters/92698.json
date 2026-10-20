@@ -17,8 +17,8 @@
       "title": "RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room",
       "date": "2026-10-24",
       "start": "2026-10-24T17:30+02:00",
-      "venue": "Amsterdam Club Train",
-      "venue_id": "297794",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493024"
     }
@@ -26,23 +26,23 @@
   "past": [],
   "top_artists": [
     {
-      "id": "111493",
-      "name": "Almost Human (DJ)",
-      "count": 1
-    },
-    {
-      "id": "107694",
-      "name": "Cris-H",
-      "count": 1
-    },
-    {
       "id": "1765",
       "name": "Darin Epsilon",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "32758",
-      "name": "Emanate",
+      "id": "100407",
+      "name": "Joshlane",
+      "count": 2
+    },
+    {
+      "id": "132612",
+      "name": "OIBAF",
+      "count": 2
+    },
+    {
+      "id": "36038",
+      "name": "EdOne",
       "count": 1
     },
     {
@@ -51,28 +51,28 @@
       "count": 1
     },
     {
-      "id": "100407",
-      "name": "Joshlane",
-      "count": 1
-    },
-    {
-      "id": "165125",
-      "name": "KARINSMATIC",
-      "count": 1
-    },
-    {
-      "id": "162318",
-      "name": "Min the Universe",
-      "count": 1
-    },
-    {
-      "id": "132612",
-      "name": "OIBAF",
+      "id": "32322",
+      "name": "Miss Melera",
       "count": 1
     },
     {
       "id": "3521",
       "name": "Olivier Weiter",
+      "count": 1
+    },
+    {
+      "id": "5617",
+      "name": "Sezer Uysal",
+      "count": 1
+    },
+    {
+      "id": "111493",
+      "name": "Almost Human (DJ)",
+      "count": 1
+    },
+    {
+      "id": "79749",
+      "name": "Althoff",
       "count": 1
     }
   ]

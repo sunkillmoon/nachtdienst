@@ -3,126 +3,6 @@
   "name": "Amsterdam Nights",
   "upcoming": [
     {
-      "id": "ra:2446382",
-      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
-      "date": "2026-08-26",
-      "start": "2026-08-26T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2446382"
-    },
-    {
-      "id": "ra:2497114",
-      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497114"
-    },
-    {
-      "id": "ra:2503536",
-      "title": "RAVELAND: Hard Techno & Hard Bounce",
-      "date": "2026-09-02",
-      "start": "2026-09-02T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503536"
-    },
-    {
-      "id": "ra:2503537",
-      "title": "RAVELAND: Hard Techno & Hard Bounce",
-      "date": "2026-09-09",
-      "start": "2026-09-09T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503537"
-    },
-    {
-      "id": "ra:2503218",
-      "title": "Amsterdam Nights: Hard Techno Rave",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503218"
-    },
-    {
-      "id": "ra:2503539",
-      "title": "RAVELAND: Hard Techno & Hard Bounce",
-      "date": "2026-09-16",
-      "start": "2026-09-16T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503539"
-    },
-    {
-      "id": "ra:2503543",
-      "title": "RAVELAND: Hard Techno Rave",
-      "date": "2026-09-23",
-      "start": "2026-09-23T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503543"
-    },
-    {
-      "id": "ra:2503220",
-      "title": "Amsterdam Nights: Hard Techno Rave",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503220"
-    },
-    {
-      "id": "ra:2503544",
-      "title": "RAVELAND: Hard Techno Rave",
-      "date": "2026-09-30",
-      "start": "2026-09-30T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503544"
-    },
-    {
-      "id": "ra:2515085",
-      "title": "Amsterdam Nights: Hard Techno Rave",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515085"
-    },
-    {
-      "id": "ra:2518466",
-      "title": "RAVELAND: Hard Techno & Hard Bounce",
-      "date": "2026-10-07",
-      "start": "2026-10-07T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2518466"
-    },
-    {
-      "id": "ra:2518468",
-      "title": "RAVELAND: Hard Techno & Hard Bounce",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2518468"
-    },
-    {
       "id": "ra:2518471",
       "title": "RAVELAND: Hard Techno Rave",
       "date": "2026-10-28",
@@ -134,7 +14,7 @@
     },
     {
       "id": "ra:2515090",
-      "title": "Amsterdam Nights: Hard Techno Halloween",
+      "title": "Amsterdam Nights: Hard Techno Halloween w/ Kento [BE], Robin Hastings [CL], PINELOPI [Gr]",
       "date": "2026-10-31",
       "start": "2026-10-31T23:00+01:00",
       "venue": "John Doe",
@@ -184,6 +64,126 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2518468",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-14",
+      "start": "2026-10-14T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518468"
+    },
+    {
+      "id": "ra:2518466",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-10-07",
+      "start": "2026-10-07T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518466"
+    },
+    {
+      "id": "ra:2515085",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515085"
+    },
+    {
+      "id": "ra:2503544",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-09-30",
+      "start": "2026-09-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503544"
+    },
+    {
+      "id": "ra:2503220",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503220"
+    },
+    {
+      "id": "ra:2503543",
+      "title": "RAVELAND: Hard Techno Rave",
+      "date": "2026-09-23",
+      "start": "2026-09-23T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503543"
+    },
+    {
+      "id": "ra:2503539",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-16",
+      "start": "2026-09-16T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503539"
+    },
+    {
+      "id": "ra:2503218",
+      "title": "Amsterdam Nights: Hard Techno Rave",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503218"
+    },
+    {
+      "id": "ra:2503537",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-09",
+      "start": "2026-09-09T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503537"
+    },
+    {
+      "id": "ra:2503536",
+      "title": "RAVELAND: Hard Techno & Hard Bounce",
+      "date": "2026-09-02",
+      "start": "2026-09-02T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503536"
+    },
+    {
+      "id": "ra:2497114",
+      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497114"
+    },
+    {
+      "id": "ra:2446382",
+      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446382"
+    },
     {
       "id": "ra:2438871",
       "title": "Amsterdam Nights: Hard Techno Rave w/ Insolence [BE], Mark Wildman [AUS], Maez [ECU]",
@@ -267,13 +267,13 @@
   ],
   "top_artists": [
     {
-      "id": "106568",
-      "name": "Paroxyzm",
-      "count": 2
-    },
-    {
       "id": "103744",
       "name": "Robin Hastings",
+      "count": 3
+    },
+    {
+      "id": "97003",
+      "name": "Djaygo T",
       "count": 2
     },
     {
@@ -282,23 +282,28 @@
       "count": 2
     },
     {
+      "id": "106568",
+      "name": "Paroxyzm",
+      "count": 2
+    },
+    {
       "id": "173226",
       "name": "NELLIE",
       "count": 2
     },
     {
-      "id": "171823",
-      "name": "BVNNII",
+      "id": "97786",
+      "name": "Kento",
       "count": 1
     },
     {
-      "id": "177139",
-      "name": "SASHE (2)",
+      "id": "115726",
+      "name": "PINELOPI",
       "count": 1
     },
     {
-      "id": "109360",
-      "name": "saskia laval",
+      "id": "164633",
+      "name": "ADRIELY",
       "count": 1
     },
     {
@@ -309,11 +314,6 @@
     {
       "id": "95957",
       "name": "Divain",
-      "count": 1
-    },
-    {
-      "id": "116281",
-      "name": "Zaphy",
       "count": 1
     }
   ]

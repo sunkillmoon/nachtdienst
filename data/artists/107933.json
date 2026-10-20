@@ -12,6 +12,26 @@
       "venue_id": "107352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516546"
+    },
+    {
+      "id": "ra:2542745",
+      "title": "PRODUCHERTZ ADE POP-UP SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T10:00+02:00",
+      "venue": "Ruimte 59.61",
+      "venue_id": "303324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542745"
+    },
+    {
+      "id": "ra:2564808",
+      "title": "PCR.fm Family Meeting",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Five Bells Amsterdam",
+      "venue_id": "305635",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564808"
     }
   ],
   "past": []

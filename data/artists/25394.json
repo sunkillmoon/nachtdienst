@@ -1,0 +1,28 @@
+{
+  "id": "25394",
+  "name": "Laolu",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2526324",
+      "title": "SONA presents: Reznik [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526324"
+    },
+    {
+      "id": "ra:2540311",
+      "title": "ADE 26: Melodic Deep - Ten Years In Motion Club Train",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540311"
+    }
+  ],
+  "past": []
+}

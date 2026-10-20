@@ -3,6 +3,48 @@
   "name": "100% KATOEN",
   "upcoming": [
     {
+      "id": "ra:2554749",
+      "title": "Strength in Sound",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554749"
+    },
+    {
+      "id": "ra:2554759",
+      "title": "100% SJATOEN",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554759"
+    },
+    {
+      "id": "ra:2555370",
+      "title": "What's up with vintage samplers",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555370"
+    },
+    {
+      "id": "ra:2554760",
+      "title": "100% KATOEN",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554760"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506085",
       "title": "100% KATOEN",
       "date": "2026-08-27",
@@ -11,9 +53,7 @@
       "venue_id": "124046",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506085"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2506082",
       "title": "100% KATOEN",
@@ -57,23 +97,53 @@
   ],
   "top_artists": [
     {
-      "id": "171459",
-      "name": "ESTRELLA",
-      "count": 1
-    },
-    {
-      "id": "90332",
-      "name": "Fenna Fiction",
-      "count": 1
+      "id": "119412",
+      "name": "Cyberboy",
+      "count": 2
     },
     {
       "id": "2928",
       "name": "Aron Friedman",
+      "count": 2
+    },
+    {
+      "id": "117771",
+      "name": "Kevin Lo",
       "count": 1
     },
     {
-      "id": "119412",
-      "name": "Cyberboy",
+      "id": "148455",
+      "name": "Maria Cue",
+      "count": 1
+    },
+    {
+      "id": "141111",
+      "name": "Pelanoir",
+      "count": 1
+    },
+    {
+      "id": "109242",
+      "name": "Serti",
+      "count": 1
+    },
+    {
+      "id": "52161",
+      "name": "Joost Nicolai",
+      "count": 1
+    },
+    {
+      "id": "18449",
+      "name": "RAAF",
+      "count": 1
+    },
+    {
+      "id": "6426",
+      "name": "Sven Prinsen",
+      "count": 1
+    },
+    {
+      "id": "80862",
+      "name": "Tom Kraan",
       "count": 1
     }
   ]

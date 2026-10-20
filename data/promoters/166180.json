@@ -1,7 +1,8 @@
 {
   "id": "166180",
   "name": "Radio Tornado",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504015",
       "title": "Disco Negroni by Radio Tornado",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2504015"
     }
   ],
-  "past": [],
   "top_artists": []
 }

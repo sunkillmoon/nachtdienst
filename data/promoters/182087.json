@@ -1,7 +1,68 @@
 {
   "id": "182087",
   "name": "ANTIA",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2553739",
+      "title": "ANTIA x TR.EAT YOUR GIRL RIGHT",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2553739"
+    },
+    {
+      "id": "ra:2553740",
+      "title": "INDUSTRIAL NIGHT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2553740"
+    },
+    {
+      "id": "ra:2564753",
+      "title": "ANTIA OPEN DECKS",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564753"
+    },
+    {
+      "id": "ra:2564762",
+      "title": "HALLOWEEN: Ball of the (un)dead",
+      "date": "2026-10-31",
+      "start": "2026-10-31T21:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564762"
+    },
+    {
+      "id": "ra:2564769",
+      "title": "CLUB NIGHT",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564769"
+    },
+    {
+      "id": "ra:2564772",
+      "title": "MUSEUMNACHT x ANTIA (afterparty)",
+      "date": "2026-11-06",
+      "start": "2026-11-07T00:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564772"
+    }
+  ],
   "past": [
     {
       "id": "ra:2506889",
@@ -56,6 +117,41 @@
   ],
   "top_artists": [
     {
+      "id": "168607",
+      "name": "Deejay Abstract",
+      "count": 1
+    },
+    {
+      "id": "84492",
+      "name": "Brecc",
+      "count": 1
+    },
+    {
+      "id": "124453",
+      "name": "Anvari",
+      "count": 1
+    },
+    {
+      "id": "134039",
+      "name": "Eva Vrijdag",
+      "count": 1
+    },
+    {
+      "id": "79547",
+      "name": "Property",
+      "count": 1
+    },
+    {
+      "id": "113051",
+      "name": "Remma",
+      "count": 1
+    },
+    {
+      "id": "150798",
+      "name": "Leen (NL)",
+      "count": 1
+    },
+    {
       "id": "94318",
       "name": "Alex Ranzino",
       "count": 1
@@ -68,26 +164,6 @@
     {
       "id": "132883",
       "name": "ILKA",
-      "count": 1
-    },
-    {
-      "id": "121760",
-      "name": "Luca van Oss",
-      "count": 1
-    },
-    {
-      "id": "42186",
-      "name": "Philou Louzolo",
-      "count": 1
-    },
-    {
-      "id": "151923",
-      "name": "Emvae",
-      "count": 1
-    },
-    {
-      "id": "145217",
-      "name": "Moxes",
       "count": 1
     }
   ]

@@ -1,0 +1,79 @@
+{
+  "id": "194244",
+  "name": "MINDGAME Records",
+  "upcoming": [
+    {
+      "id": "ra:2556882",
+      "title": "ADE Cruise - MINDGAME x Techno & Chill: Birds of Mind, AMÉMÉ, Moojo, Mont Rouge, Meloko & More ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Eivissa Ship",
+      "venue_id": "304713",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556882"
+    },
+    {
+      "id": "ra:2540071",
+      "title": "MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540071"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "67229",
+      "name": "Birds of Mind",
+      "count": 2
+    },
+    {
+      "id": "188919",
+      "name": "KWEN",
+      "count": 2
+    },
+    {
+      "id": "98085",
+      "name": "AMÉMÉ",
+      "count": 1
+    },
+    {
+      "id": "149742",
+      "name": "Amour Propre",
+      "count": 1
+    },
+    {
+      "id": "88116",
+      "name": "Moojo",
+      "count": 1
+    },
+    {
+      "id": "46280",
+      "name": "Melokolektiv",
+      "count": 1
+    },
+    {
+      "id": "129665",
+      "name": "Mont Rouge",
+      "count": 1
+    },
+    {
+      "id": "92107",
+      "name": "IMEN",
+      "count": 1
+    },
+    {
+      "id": "50868",
+      "name": "Konvex & the Shadow",
+      "count": 1
+    },
+    {
+      "id": "48367",
+      "name": "Lehar",
+      "count": 1
+    }
+  ]
+}

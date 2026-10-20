@@ -3,6 +3,16 @@
   "name": "5AM ",
   "upcoming": [
     {
+      "id": "ra:2542940",
+      "title": "ATARASHI ADE with DJ Tennis, Saraga & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Fosbury & Sons Church",
+      "venue_id": "305448",
+      "area": "All",
+      "url": "https://ra.co/events/2542940"
+    },
+    {
       "id": "ra:2517699",
       "title": "Mr. Belt & Wezol at Nxt Museum ADE",
       "date": "2026-10-23",
@@ -15,6 +25,26 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "17805",
+      "name": "DJ Tennis",
+      "count": 1
+    },
+    {
+      "id": "68941",
+      "name": "Saraga",
+      "count": 1
+    },
+    {
+      "id": "81776",
+      "name": "II FACES",
+      "count": 1
+    },
+    {
+      "id": "93841",
+      "name": "Ramyen",
+      "count": 1
+    },
     {
       "id": "148315",
       "name": "Mr. Belt & Wezol",

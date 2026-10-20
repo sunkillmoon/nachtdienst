@@ -1,0 +1,30 @@
+{
+  "id": "303153",
+  "name": "Basement Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2550544",
+      "title": "Fleur Shore presents: Undergrowth x PILOT x LabelWorx",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550544"
+    },
+    {
+      "id": "ra:2544276",
+      "title": "RAW CUTS: ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544276"
+    }
+  ],
+  "past": []
+}

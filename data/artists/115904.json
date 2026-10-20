@@ -1,0 +1,38 @@
+{
+  "id": "115904",
+  "name": "Silva Bumpa",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
+    },
+    {
+      "id": "ra:2558507",
+      "title": "Silva Bumpa ADE Pre-party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558507"
+    },
+    {
+      "id": "ra:2539803",
+      "title": "Silva Bumpa - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539803"
+    }
+  ],
+  "past": []
+}

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2523413",
+      "title": "Club Roto - Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523413"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2487480",
       "title": "TOFFLER presents jWave, Jesse Maas",
       "date": "2026-09-19",
@@ -13,6 +25,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2487480"
     }
-  ],
-  "past": []
+  ]
 }

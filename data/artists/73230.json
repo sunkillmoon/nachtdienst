@@ -2,7 +2,18 @@
   "id": "73230",
   "name": "Pascal Benjamin",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2560279",
+      "title": "GOT.DRIP: Leitmotiv Records invites Pascal Benjamin",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560279"
+    }
+  ],
   "past": [
     {
       "id": "ra:2476114",

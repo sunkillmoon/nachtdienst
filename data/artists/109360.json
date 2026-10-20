@@ -2,7 +2,8 @@
   "id": "109360",
   "name": "saskia laval",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497114",
       "title": "RAVEGROUND - Hard Techno & Hard Bounce",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497114"
     }
-  ],
-  "past": []
+  ]
 }

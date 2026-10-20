@@ -11,6 +11,16 @@
       "venue_id": "221843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2551396",
+      "title": "THE GRAND FINALE: TILLATEC Closing Weekender",
+      "date": "2026-11-06",
+      "start": "2026-11-06T20:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551396"
     }
   ],
   "past": [
@@ -47,6 +57,11 @@
       "count": 1
     },
     {
+      "id": "166126",
+      "name": "Seif Bedour",
+      "count": 1
+    },
+    {
       "id": "68928",
       "name": "Merve",
       "count": 1
@@ -69,11 +84,6 @@
     {
       "id": "83115",
       "name": "GiGi FM",
-      "count": 1
-    },
-    {
-      "id": "70323",
-      "name": "Fadi Mohem",
       "count": 1
     }
   ]

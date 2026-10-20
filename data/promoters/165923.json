@@ -3,6 +3,18 @@
   "name": "KNIT",
   "upcoming": [
     {
+      "id": "ra:2551396",
+      "title": "THE GRAND FINALE: TILLATEC Closing Weekender",
+      "date": "2026-11-06",
+      "start": "2026-11-06T20:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551396"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2490009",
       "title": "Naked KNIT",
       "date": "2026-08-29",
@@ -11,9 +23,7 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490009"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462151",
       "title": "TILLATEC invites: KNIT + VESELKA",
@@ -40,21 +50,6 @@
       "id": "185357",
       "name": "Gian Battista",
       "count": 2
-    },
-    {
-      "id": "96823",
-      "name": "Berkan V8",
-      "count": 1
-    },
-    {
-      "id": "83132",
-      "name": "Jasper Pol",
-      "count": 1
-    },
-    {
-      "id": "94318",
-      "name": "Alex Ranzino",
-      "count": 1
     },
     {
       "id": "73940",
@@ -84,6 +79,21 @@
     {
       "id": "143900",
       "name": "Lara Renner",
+      "count": 1
+    },
+    {
+      "id": "70435",
+      "name": "MCMLXXXV",
+      "count": 1
+    },
+    {
+      "id": "77413",
+      "name": "Narciss",
+      "count": 1
+    },
+    {
+      "id": "96082",
+      "name": "Slim Soledad",
       "count": 1
     }
   ]

@@ -4,33 +4,13 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2452089",
-      "title": "Patio - Summer Closing",
-      "date": "2026-09-19",
-      "start": "2026-09-19T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2452089"
-    },
-    {
-      "id": "ra:2510528",
-      "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510528"
-    },
-    {
       "id": "ra:2479114",
       "title": "Awakenings ADE - Joris Voorn presents Trip To Galaxy",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479114"
     },
     {
@@ -45,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2510528",
+      "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510528"
+    },
+    {
+      "id": "ra:2452089",
+      "title": "Patio - Summer Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452089"
+    },
     {
       "id": "ra:2453266",
       "title": "Vault Sessions x In.di.go x Symbole WKNDR | DAY | De Fik Garden",

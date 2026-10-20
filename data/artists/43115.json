@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2560571",
+      "title": "ADE: CLUB LAB x DJ Mag: JAEL, Cinnaman, ARMANA KHAN, Té de Gember, VKANG, Valentina",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560571"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2520620",
       "title": "Steve Bicknell, Stephanie Sykes, Cinnaman",
       "date": "2026-10-17",
@@ -12,9 +24,7 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520620"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

@@ -1,0 +1,50 @@
+{
+  "id": "305126",
+  "name": "GOT.Drip Streetwear & Records",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.87,
+  "upcoming": [
+    {
+      "id": "ra:2560240",
+      "title": "GOT.DRIP. invites Bass Archipelago",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560240"
+    },
+    {
+      "id": "ra:2560257",
+      "title": "ESTRELLA invites friends at GOT.DRIP",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560257"
+    },
+    {
+      "id": "ra:2560276",
+      "title": "GOT.DRIP invites 4am Network",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560276"
+    },
+    {
+      "id": "ra:2560279",
+      "title": "GOT.DRIP: Leitmotiv Records invites Pascal Benjamin",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560279"
+    }
+  ],
+  "past": []
+}

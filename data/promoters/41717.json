@@ -1,7 +1,18 @@
 {
   "id": "41717",
   "name": "Draaimolen",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2480350",
       "title": "Draaimolen Opening Concert 2026",
@@ -12,18 +23,6 @@
       "area": "All",
       "url": "https://ra.co/events/2480350"
     },
-    {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2453191",
       "title": "Holy Pink 2026",
@@ -40,21 +39,6 @@
       "id": "4619",
       "name": "Sandrien",
       "count": 2
-    },
-    {
-      "id": "896",
-      "name": "Efdemin",
-      "count": 1
-    },
-    {
-      "id": "83115",
-      "name": "GiGi FM",
-      "count": 1
-    },
-    {
-      "id": "2063",
-      "name": "Legowelt",
-      "count": 1
     },
     {
       "id": "98411",
@@ -84,6 +68,21 @@
     {
       "id": "7770",
       "name": "Garçon",
+      "count": 1
+    },
+    {
+      "id": "60129",
+      "name": "Altinbas",
+      "count": 1
+    },
+    {
+      "id": "104265",
+      "name": "AMORAL",
+      "count": 1
+    },
+    {
+      "id": "82409",
+      "name": "Jasmín",
       "count": 1
     }
   ]

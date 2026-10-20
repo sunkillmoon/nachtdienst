@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2539019",
+      "title": "ONDA FORTE - ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539019"
+    },
+    {
+      "id": "ra:2556792",
+      "title": "Honeymoon - ADE - Launch Edition 'FREE ENTRY'",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Belushi's Amsterdam",
+      "venue_id": "304709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556792"
+    },
+    {
+      "id": "ra:2560040",
+      "title": "ONDA FORTE",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560040"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2508259",
       "title": "ONDA FORTE with DJ BRUM",
       "date": "2026-09-12",
@@ -12,9 +44,7 @@
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508259"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495357",
       "title": "BAILE DO OUTRO LADO X ONDA COLLECTIVE",

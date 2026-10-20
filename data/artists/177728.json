@@ -1,0 +1,28 @@
+{
+  "id": "177728",
+  "name": "De Santis",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559479",
+      "title": "APERITIVO LEONE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559479"
+    },
+    {
+      "id": "ra:2560692",
+      "title": "Confianza Club ADE special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560692"
+    }
+  ],
+  "past": []
+}

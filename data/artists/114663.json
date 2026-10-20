@@ -2,7 +2,18 @@
   "id": "114663",
   "name": "LAMALICE",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2534152",
+      "title": "HORS-SOL x Sentaku - ADE : Sugar Free, Forest & Jolly, LAMALICE, Lastvuska, Massaï & Ill Spleen",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Hasta La Vista, Baby",
+      "venue_id": "276162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534152"
+    }
+  ],
   "past": [
     {
       "id": "ra:2403643",

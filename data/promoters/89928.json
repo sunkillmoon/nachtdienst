@@ -1,0 +1,44 @@
+{
+  "id": "89928",
+  "name": "Electric Escape",
+  "upcoming": [
+    {
+      "id": "ra:2556457",
+      "title": "Electric Escape & Ambrozic Productions present: Converge",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556457"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "78983",
+      "name": "Code Black",
+      "count": 1
+    },
+    {
+      "id": "79113",
+      "name": "LNY TNZ",
+      "count": 1
+    },
+    {
+      "id": "164042",
+      "name": "Odium",
+      "count": 1
+    },
+    {
+      "id": "170599",
+      "name": "Somna",
+      "count": 1
+    },
+    {
+      "id": "188923",
+      "name": "Rinaly",
+      "count": 1
+    }
+  ]
+}

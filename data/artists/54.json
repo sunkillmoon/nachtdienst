@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2557523",
+      "title": "One Day Forever × Tech Me In (ADE 2026)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "MeWe Amsterdam",
+      "venue_id": "283202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557523"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518257",
       "title": "Paal Closing",
       "date": "2026-09-26",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518257"
     }
-  ],
-  "past": []
+  ]
 }

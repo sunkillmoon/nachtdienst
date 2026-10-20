@@ -13,6 +13,36 @@
       "url": "https://ra.co/events/2442143"
     },
     {
+      "id": "ra:2559196",
+      "title": "Le Guess Who - Conjunto Media Luna",
+      "date": "2026-11-06",
+      "start": "2026-11-06T17:00+01:00",
+      "venue": "Kapitaal",
+      "venue_id": "83910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2559196"
+    },
+    {
+      "id": "ra:2559219",
+      "title": "Le Guess Who - Conjunto Media Luna",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:30+01:00",
+      "venue": "Acu",
+      "venue_id": "57797",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2559219"
+    },
+    {
+      "id": "ra:2544750",
+      "title": "24 HOUR DUB",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2544750"
+    },
+    {
       "id": "ra:2519765",
       "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
       "date": "2026-11-07",
@@ -26,54 +56,54 @@
   "past": [],
   "top_artists": [
     {
-      "id": "186106",
-      "name": "Los Thuthanaka",
-      "count": 2
-    },
-    {
       "id": "153737",
       "name": "Aba Shanti-I",
-      "count": 1
+      "count": 2
     },
     {
       "id": "99036",
       "name": "Azu Tiwaline",
-      "count": 1
+      "count": 2
     },
     {
       "id": "73940",
       "name": "CARISTA",
-      "count": 1
+      "count": 2
     },
     {
       "id": "119098",
       "name": "Chinnamasta",
-      "count": 1
+      "count": 2
     },
     {
       "id": "107217",
       "name": "Introspekt",
-      "count": 1
+      "count": 2
     },
     {
       "id": "84708",
       "name": "Kelman Duran",
-      "count": 1
+      "count": 2
     },
     {
       "id": "12599",
       "name": "Mad Professor",
-      "count": 1
+      "count": 2
     },
     {
       "id": "104009",
       "name": "ojoo",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "58206",
-      "name": "Sa Pa",
-      "count": 1
+      "id": "18624",
+      "name": "The Scientist",
+      "count": 2
+    },
+    {
+      "id": "67275",
+      "name": "Seekersinternational",
+      "count": 2
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "id": "166894",
+  "name": "DopamineWIFI",
+  "upcoming": [
+    {
+      "id": "ra:2563336",
+      "title": "Panteros666 & friends",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Desmet Studios",
+      "venue_id": "2751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563336"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "25066",
+      "name": "Panteros666",
+      "count": 1
+    },
+    {
+      "id": "118224",
+      "name": "DURDENHAUER",
+      "count": 1
+    },
+    {
+      "id": "137913",
+      "name": "Kichta",
+      "count": 1
+    },
+    {
+      "id": "159757",
+      "name": "JOKESONYOU",
+      "count": 1
+    },
+    {
+      "id": "119913",
+      "name": "Cody Wong",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "115022",
+  "name": "My Other Side of The Moon",
+  "upcoming": [
+    {
+      "id": "ra:2558850",
+      "title": "Afro House Summit - ADE 2026 by My Other Side of The Moon & Vibora",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Luminair Amsterdam",
+      "venue_id": "276440",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558850"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "116144",
+      "name": "Idd Aziz",
+      "count": 1
+    },
+    {
+      "id": "89208",
+      "name": "Eran Hersh",
+      "count": 1
+    },
+    {
+      "id": "126120",
+      "name": "Atmos Blaq",
+      "count": 1
+    },
+    {
+      "id": "129943",
+      "name": "AUGUSTE",
+      "count": 1
+    },
+    {
+      "id": "146849",
+      "name": "LOUDR",
+      "count": 1
+    },
+    {
+      "id": "151932",
+      "name": "Piero Farho",
+      "count": 1
+    }
+  ]
+}

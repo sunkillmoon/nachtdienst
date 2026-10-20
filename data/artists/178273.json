@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506879",
       "title": "De Binnenstad x Sissi's",
       "date": "2026-09-25",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506879"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.909392,
   "lng": 4.435732,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512181",
       "title": "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512181"
     }
-  ],
-  "past": []
+  ]
 }

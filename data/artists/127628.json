@@ -1,0 +1,28 @@
+{
+  "id": "127628",
+  "name": "Dizo",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2549789",
+      "title": "Origins presents Brussels Bounce League (ADE F2F Showcase)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "TBA - 50:Hertz House & Techno Club Rembrandt Square",
+      "venue_id": "304052",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549789"
+    },
+    {
+      "id": "ra:2523047",
+      "title": "RELO4D invites : The Illumi'Naughties",
+      "date": "2026-10-23",
+      "start": "2026-10-24T04:00+02:00",
+      "venue": "TBA - 50:Hertz - House & Techno café",
+      "venue_id": "301269",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523047"
+    }
+  ],
+  "past": []
+}

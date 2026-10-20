@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
       "id": "ra:2476171",
       "title": "VERKNIPT ADE Special Sunday",
       "date": "2026-10-25",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",

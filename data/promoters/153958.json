@@ -1,0 +1,34 @@
+{
+  "id": "153958",
+  "name": "BBTCOR",
+  "upcoming": [
+    {
+      "id": "ra:2561238",
+      "title": "A Soft Guide to Chill",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "W139",
+      "venue_id": "143827",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561238"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "168419",
+      "name": "LNR (UK)",
+      "count": 1
+    },
+    {
+      "id": "146745",
+      "name": "Gizem Öz",
+      "count": 1
+    },
+    {
+      "id": "167301",
+      "name": "Sarah Saleh",
+      "count": 1
+    }
+  ]
+}

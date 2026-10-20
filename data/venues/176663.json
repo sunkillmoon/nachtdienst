@@ -1,0 +1,30 @@
+{
+  "id": "176663",
+  "name": "Koepelkerk",
+  "area": "Amsterdam",
+  "lat": 52.37773,
+  "lng": 4.894885,
+  "upcoming": [
+    {
+      "id": "ra:2557119",
+      "title": "SUB ZERO PROJECT – AMSTERDAM (NL)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Koepelkerk",
+      "venue_id": "176663",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557119"
+    },
+    {
+      "id": "ra:2553438",
+      "title": "Korolova PRESENT CAPTIVE SOUL - AMSTERDAM (NL)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Koepelkerk",
+      "venue_id": "176663",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553438"
+    }
+  ],
+  "past": []
+}

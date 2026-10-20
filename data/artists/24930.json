@@ -4,44 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2509402",
-      "title": "Momentum in De Vleeshal",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "De Vleeshal",
-      "venue_id": "299669",
+      "id": "ra:2517622",
+      "title": "Boris Coelman, De Sluwe Vos, Merel Helderman",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509402"
-    },
-    {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    },
-    {
-      "id": "ra:2500899",
-      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500899"
-    },
-    {
-      "id": "ra:2490652",
-      "title": "Toffler presents Chris Gialanze, De Sluwe Vos",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490652"
+      "url": "https://ra.co/events/2517622"
     },
     {
       "id": "ra:2507048",
@@ -55,6 +25,46 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490652",
+      "title": "Toffler presents Chris Gialanze, De Sluwe Vos",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490652"
+    },
+    {
+      "id": "ra:2500899",
+      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500899"
+    },
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
+    },
     {
       "id": "ra:2363397",
       "title": "Het Systeem",

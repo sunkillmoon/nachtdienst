@@ -6,58 +6,8 @@
   "lng": 4.8753577,
   "upcoming": [
     {
-      "id": "ra:2498891",
-      "title": "MITA - Volume 1",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498891"
-    },
-    {
-      "id": "ra:2493683",
-      "title": "Side to Side",
-      "date": "2026-09-12",
-      "start": "2026-09-12T22:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493683"
-    },
-    {
-      "id": "ra:2473511",
-      "title": "Space Society",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473511"
-    },
-    {
-      "id": "ra:2504838",
-      "title": "Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504838"
-    },
-    {
-      "id": "ra:2433282",
-      "title": "Closer presents Miss Melera Mitch de Klein Thysma",
-      "date": "2026-10-03",
-      "start": "2026-10-03T18:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2433282"
-    },
-    {
       "id": "ra:2516652",
-      "title": "FULL CYCLE: Immersive Live Concerts ADE Serie",
+      "title": "FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts]",
       "date": "2026-10-21",
       "start": "2026-10-21T18:00+02:00",
       "venue": "THE OTHER SIDE",
@@ -76,16 +26,6 @@
       "url": "https://ra.co/events/2506976"
     },
     {
-      "id": "ra:2516669",
-      "title": "FULL CYCLE - Immersive Live Concerts ADE Serie",
-      "date": "2026-10-22",
-      "start": "2026-10-22T18:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516669"
-    },
-    {
       "id": "ra:2511535",
       "title": "SLPFNK X THE OTHERSIDE",
       "date": "2026-10-22",
@@ -94,6 +34,16 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511535"
+    },
+    {
+      "id": "ra:2516669",
+      "title": "FULL CYCLE - Immersive Live Concerts ADE Serie",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516669"
     },
     {
       "id": "ra:2469400",
@@ -116,6 +66,16 @@
       "url": "https://ra.co/events/2510533"
     },
     {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
+    },
+    {
       "id": "ra:2512551",
       "title": "Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs",
       "date": "2026-10-25",
@@ -124,9 +84,69 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512551"
+    },
+    {
+      "id": "ra:2564225",
+      "title": "THE OTHER SIDE Of Club 27",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564225"
     }
   ],
   "past": [
+    {
+      "id": "ra:2433282",
+      "title": "Closer presents Miss Melera Mitch de Klein Thysma",
+      "date": "2026-10-03",
+      "start": "2026-10-03T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2433282"
+    },
+    {
+      "id": "ra:2504838",
+      "title": "Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504838"
+    },
+    {
+      "id": "ra:2473511",
+      "title": "Space Society",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473511"
+    },
+    {
+      "id": "ra:2493683",
+      "title": "Side to Side",
+      "date": "2026-09-12",
+      "start": "2026-09-12T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493683"
+    },
+    {
+      "id": "ra:2498891",
+      "title": "MITA - Volume 1",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498891"
+    },
     {
       "id": "ra:2355301",
       "title": "BOPS x KIKI - WorldPride Amsterdam",

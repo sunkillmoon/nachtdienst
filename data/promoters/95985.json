@@ -1,7 +1,18 @@
 {
   "id": "95985",
   "name": "Krackfree Soundsystem",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2512190",
+      "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
+      "date": "2026-10-09",
+      "start": "2026-10-09T21:00+02:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2512190"
+    },
     {
       "id": "ra:2512181",
       "title": "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam",
@@ -21,19 +32,8 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512183"
-    },
-    {
-      "id": "ra:2512190",
-      "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
-      "date": "2026-10-09",
-      "start": "2026-10-09T21:00+02:00",
-      "venue": "Hall of Fame",
-      "venue_id": "86588",
-      "area": "All",
-      "url": "https://ra.co/events/2512190"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "121179",

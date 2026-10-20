@@ -1,7 +1,8 @@
 {
   "id": "191988",
   "name": "Royal Surfclub",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510340",
       "title": "The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Cultuurnacht )",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2510340"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "92578",

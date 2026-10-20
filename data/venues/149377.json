@@ -6,15 +6,17 @@
   "lng": 4.312215,
   "upcoming": [
     {
-      "id": "ra:2510340",
-      "title": "The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Cultuurnacht )",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2544454",
+      "title": "Starving Billionaires",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
       "venue": "The Grey Space In The Middle",
       "venue_id": "149377",
       "area": "The Hague",
-      "url": "https://ra.co/events/2510340"
-    },
+      "url": "https://ra.co/events/2544454"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2517472",
       "title": "The Grey Space presents: Flowers/Ghosts&Echoes + Rengbird",
@@ -24,7 +26,16 @@
       "venue_id": "149377",
       "area": "The Hague",
       "url": "https://ra.co/events/2517472"
+    },
+    {
+      "id": "ra:2510340",
+      "title": "The Grey Space Invites Royal Surfclub ( Hosted by Club Hopping x Cultuurnacht )",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "The Grey Space In The Middle",
+      "venue_id": "149377",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2510340"
     }
-  ],
-  "past": []
+  ]
 }

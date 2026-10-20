@@ -1,0 +1,28 @@
+{
+  "id": "175664",
+  "name": "Isa Castelari",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2539019",
+      "title": "ONDA FORTE - ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539019"
+    },
+    {
+      "id": "ra:2524451",
+      "title": "Sissi's ADE Friday with Bronka x Kurashi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524451"
+    }
+  ],
+  "past": []
+}

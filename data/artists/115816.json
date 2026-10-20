@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2532205",
+      "title": "Rossi.HOME//GRXWN [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532205"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2490556",
       "title": "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
       "date": "2026-09-11",
@@ -13,6 +25,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2490556"
     }
-  ],
-  "past": []
+  ]
 }

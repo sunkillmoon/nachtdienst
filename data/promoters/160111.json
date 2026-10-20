@@ -1,7 +1,8 @@
 {
   "id": "160111",
   "name": "Main Panel",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512257",
       "title": "Gathering",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2512257"
     }
   ],
-  "past": [],
   "top_artists": []
 }

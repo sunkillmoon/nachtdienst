@@ -2,7 +2,8 @@
   "id": "166256",
   "name": "Gaya Carmeli",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514137",
       "title": "TEDER",
@@ -12,9 +13,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514137"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2479449",
       "title": "CODE 303 x UNDRGRND",

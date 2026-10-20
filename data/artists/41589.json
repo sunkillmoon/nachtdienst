@@ -2,7 +2,38 @@
   "id": "41589",
   "name": "Zombies In Miami",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2551014",
+      "title": "Creatures Of The Night — ADE Label Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Bar Theo",
+      "venue_id": "202501",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551014"
+    },
+    {
+      "id": "ra:2530992",
+      "title": "Find Your Own Records ADE Party",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Duke Of Tokyo",
+      "venue_id": "158329",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530992"
+    },
+    {
+      "id": "ra:2451944",
+      "title": "BURST presents TLM - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451944"
+    }
+  ],
   "past": [
     {
       "id": "ra:2480218",

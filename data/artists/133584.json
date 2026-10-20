@@ -22,6 +22,16 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479597"
+    },
+    {
+      "id": "ra:2522546",
+      "title": "FLY Amsterdam ADE - Day Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522546"
     }
   ],
   "past": []

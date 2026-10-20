@@ -12,6 +12,26 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501723"
+    },
+    {
+      "id": "ra:2547610",
+      "title": "ALL ABOARD (CLUB TRAIN)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:30+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547610"
+    },
+    {
+      "id": "ra:2563912",
+      "title": "Friends of WORKROOM",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "SHU",
+      "venue_id": "248548",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563912"
     }
   ],
   "past": []

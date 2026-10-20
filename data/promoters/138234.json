@@ -1,0 +1,39 @@
+{
+  "id": "138234",
+  "name": "Freï",
+  "upcoming": [
+    {
+      "id": "ra:2535070",
+      "title": "Freï: Hallow's Eve 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535070"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107217",
+      "name": "Introspekt",
+      "count": 1
+    },
+    {
+      "id": "80124",
+      "name": "Miley Serious",
+      "count": 1
+    },
+    {
+      "id": "137665",
+      "name": "MALLAURY",
+      "count": 1
+    },
+    {
+      "id": "106848",
+      "name": "bebe bad",
+      "count": 1
+    }
+  ]
+}

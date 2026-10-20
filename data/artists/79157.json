@@ -2,7 +2,8 @@
   "id": "79157",
   "name": "Arthur Robert",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483660",
       "title": "Mindscape - Live set experience",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483660"
     }
-  ],
-  "past": []
+  ]
 }

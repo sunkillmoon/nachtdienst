@@ -7,12 +7,53 @@
       "title": "Animarum Showcase at ADE 2026 - Techno for Your Soul",
       "date": "2026-10-22",
       "start": "2026-10-22T19:00+02:00",
-      "venue": "Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam",
-      "venue_id": "297432",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500510"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "103719",
+      "name": "Patrick Scuro",
+      "count": 1
+    },
+    {
+      "id": "109601",
+      "name": "The Enveloper",
+      "count": 1
+    },
+    {
+      "id": "171945",
+      "name": "SAMDMA",
+      "count": 1
+    },
+    {
+      "id": "155220",
+      "name": "Alena Noctis",
+      "count": 1
+    },
+    {
+      "id": "138545",
+      "name": "Patrik Pagan",
+      "count": 1
+    },
+    {
+      "id": "126754",
+      "name": "Relinquo",
+      "count": 1
+    },
+    {
+      "id": "177963",
+      "name": "Marí Kozlovska",
+      "count": 1
+    },
+    {
+      "id": "177065",
+      "name": "Endica",
+      "count": 1
+    }
+  ]
 }

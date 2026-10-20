@@ -2,7 +2,18 @@
   "id": "121308",
   "name": "Lucas Benjamin",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2520634",
+      "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
+      "date": "2026-09-27",
+      "start": "2026-09-27T19:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520634"
+    },
     {
       "id": "ra:2514579",
       "title": "20 years of Lucas Benjamin & Nobunaga",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514579"
     },
-    {
-      "id": "ra:2520634",
-      "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
-      "date": "2026-09-27",
-      "start": "2026-09-27T19:00+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520634"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2506770",
       "title": "A Funky Wicked Jazz Fest 2026",

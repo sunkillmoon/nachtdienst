@@ -2,7 +2,8 @@
   "id": "17854",
   "name": "Elvi (1)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496559",
       "title": "Archie Hamilton, DXNBY, Jhobei",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496559"
     }
-  ],
-  "past": []
+  ]
 }

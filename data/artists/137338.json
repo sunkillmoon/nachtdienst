@@ -5,7 +5,7 @@
   "upcoming": [
     {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -14,8 +14,18 @@
       "url": "https://ra.co/events/2494370"
     },
     {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    },
+    {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",

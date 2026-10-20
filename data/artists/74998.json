@@ -2,7 +2,8 @@
   "id": "74998",
   "name": "Project89",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473504",
       "title": "Madam by Night invites: RED 87 b2b Project 89 (all night)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473504"
     }
-  ],
-  "past": []
+  ]
 }

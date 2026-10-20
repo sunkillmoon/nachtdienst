@@ -1,0 +1,34 @@
+{
+  "id": "193334",
+  "name": "BaseYRD",
+  "upcoming": [
+    {
+      "id": "ra:2528602",
+      "title": "BaseYRD ADE Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528602"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "170185",
+      "name": "S3PPA",
+      "count": 1
+    },
+    {
+      "id": "165700",
+      "name": "LUMINE",
+      "count": 1
+    },
+    {
+      "id": "134556",
+      "name": "AUTOFLOWER",
+      "count": 1
+    }
+  ]
+}

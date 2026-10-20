@@ -1,0 +1,109 @@
+{
+  "id": "195472",
+  "name": "REDBOX",
+  "upcoming": [
+    {
+      "id": "ra:2563443",
+      "title": "REDBOX pres. House Frequency",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563443"
+    },
+    {
+      "id": "ra:2563462",
+      "title": "REDBOX pres. INTERTRONIKA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563462"
+    },
+    {
+      "id": "ra:2563474",
+      "title": "Redbox presents Mushroom Pulses",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563474"
+    },
+    {
+      "id": "ra:2563477",
+      "title": "Redbox presents House of Redbox",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563477"
+    },
+    {
+      "id": "ra:2563480",
+      "title": "REDBOX pres. The Last Frequency",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563480"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183068",
+      "name": "DOA (2)",
+      "count": 1
+    },
+    {
+      "id": "129592",
+      "name": "Post Effect",
+      "count": 1
+    },
+    {
+      "id": "135083",
+      "name": "Maxi Ventura",
+      "count": 1
+    },
+    {
+      "id": "178682",
+      "name": "MAMA LOVE",
+      "count": 1
+    },
+    {
+      "id": "131050",
+      "name": "sima k",
+      "count": 1
+    },
+    {
+      "id": "122081",
+      "name": "Subliime",
+      "count": 1
+    },
+    {
+      "id": "114185",
+      "name": "da Graca Brothers",
+      "count": 1
+    },
+    {
+      "id": "127455",
+      "name": "RIØ (DE)",
+      "count": 1
+    },
+    {
+      "id": "185779",
+      "name": "Front Room",
+      "count": 1
+    },
+    {
+      "id": "107543",
+      "name": "Polli Panda",
+      "count": 1
+    }
+  ]
+}

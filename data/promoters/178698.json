@@ -1,0 +1,28 @@
+{
+  "id": "178698",
+  "name": "JAZZ.CLUB",
+  "upcoming": [
+    {
+      "id": "ra:2531100",
+      "title": "Jazz Club ADE 26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531100"
+    },
+    {
+      "id": "ra:2562228",
+      "title": "Jazz Club ADE 26 Encore",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Cornerstore",
+      "venue_id": "305333",
+      "area": "All",
+      "url": "https://ra.co/events/2562228"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

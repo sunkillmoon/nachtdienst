@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2554760",
+      "title": "100% KATOEN",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554760"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2385114",
       "title": "PSYLÂN 2026 · Alien Paradise",
       "date": "2026-09-04",
@@ -12,9 +24,7 @@
       "venue_id": "286703",
       "area": "All",
       "url": "https://ra.co/events/2385114"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2509416",
       "title": "SOBER in the garden",

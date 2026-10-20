@@ -1,0 +1,28 @@
+{
+  "id": "212",
+  "name": "H-Foundation",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2469603",
+      "title": "ADE - VBX - SATURDAY DAY ",
+      "date": "2026-10-23",
+      "start": "2026-10-24T07:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469603"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
+    }
+  ],
+  "past": []
+}

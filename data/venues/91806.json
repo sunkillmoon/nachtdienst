@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": 52.63385,
   "lng": 4.777974,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511466",
       "title": "Of Paradise X Future Intel X INDEx",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2511466"
     }
-  ],
-  "past": []
+  ]
 }

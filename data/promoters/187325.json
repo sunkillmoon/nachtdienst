@@ -1,7 +1,8 @@
 {
   "id": "187325",
   "name": "Eros Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495421",
       "title": "Eros Society - Pride Fantasies",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2495421"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "186385",

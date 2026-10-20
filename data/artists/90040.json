@@ -2,7 +2,8 @@
   "id": "90040",
   "name": "Deep Forest",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473141",
       "title": "Deep Forest",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473141"
     }
-  ],
-  "past": []
+  ]
 }

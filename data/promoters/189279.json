@@ -1,7 +1,8 @@
 {
   "id": "189279",
   "name": "Bruno Tozzini de Ciccio",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503803",
       "title": "Versão brasileira ÁLAMO",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2503803"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "184446",

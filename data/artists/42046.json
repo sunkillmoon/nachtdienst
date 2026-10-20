@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
       "id": "ra:2503161",
       "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
       "date": "2026-10-22",
@@ -32,9 +22,29 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
     }
   ],
   "past": [
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

@@ -2,7 +2,18 @@
   "id": "140647",
   "name": "Kristiaan Kiwitz",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559061",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 2)",
+      "date": "2026-10-21",
+      "start": "2026-10-22T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559061"
+    }
+  ],
   "past": [
     {
       "id": "ra:2465186",

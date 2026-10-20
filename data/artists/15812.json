@@ -12,6 +12,16 @@
       "venue_id": "137362",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2509389"
+    },
+    {
+      "id": "ra:2540631",
+      "title": "CQTD presents Closing Brunch Chez Mr Watson",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540631"
     }
   ],
   "past": [

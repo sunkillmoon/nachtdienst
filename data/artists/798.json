@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2499299",
-      "title": "Discosabotage & 2lovers present Onur Özer  - daytime",
-      "date": "2026-09-05",
-      "start": "2026-09-05T13:00+02:00",
-      "venue": "CONTACT",
-      "venue_id": "225039",
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2499299"
+      "url": "https://ra.co/events/2544867"
     },
     {
       "id": "ra:2512551",
@@ -24,5 +24,16 @@
       "url": "https://ra.co/events/2512551"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2499299",
+      "title": "Discosabotage & 2lovers present Onur Özer  - daytime",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "CONTACT",
+      "venue_id": "225039",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499299"
+    }
+  ]
 }

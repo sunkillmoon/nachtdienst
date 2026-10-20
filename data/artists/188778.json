@@ -1,0 +1,38 @@
+{
+  "id": "188778",
+  "name": "Maysa Chahbari",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    },
+    {
+      "id": "ra:2559075",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 4)",
+      "date": "2026-10-23",
+      "start": "2026-10-24T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559075"
+    },
+    {
+      "id": "ra:2546286",
+      "title": "HAUSPLANT x ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Ndsm Theater",
+      "venue_id": "246422",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546286"
+    }
+  ],
+  "past": []
+}

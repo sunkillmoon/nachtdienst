@@ -2,7 +2,8 @@
   "id": "185271",
   "name": "The Heartbreaks",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487497",
       "title": "3xNYX: In the Mix",
@@ -12,9 +13,7 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487497"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2483964",
       "title": "Heated Rivalrave",

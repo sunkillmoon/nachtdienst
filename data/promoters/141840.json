@@ -1,7 +1,8 @@
 {
   "id": "141840",
   "name": "Sooze",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473502",
       "title": "Madam by Night invites: Sooze",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2473502"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "132539",

@@ -1,0 +1,28 @@
+{
+  "id": "25296",
+  "name": "Jose Noventa",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2563645",
+      "title": "SAFE ENOUGH TO CREATE. A forum by Amstel Bleach x FuLi",
+      "date": "2026-10-22",
+      "start": "2026-10-22T10:00+02:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563645"
+    },
+    {
+      "id": "ra:2560169",
+      "title": "Feestgedruis ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560169"
+    }
+  ],
+  "past": []
+}

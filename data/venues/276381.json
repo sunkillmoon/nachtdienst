@@ -1,0 +1,50 @@
+{
+  "id": "276381",
+  "name": "Nicholas Groente & Fruit",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2529930",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529930"
+    },
+    {
+      "id": "ra:2529940",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529940"
+    },
+    {
+      "id": "ra:2529942",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529942"
+    },
+    {
+      "id": "ra:2561039",
+      "title": "Beskar Network & Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561039"
+    }
+  ],
+  "past": []
+}

@@ -10,7 +10,7 @@
       "start": "2026-10-23T15:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479108"
     },
     {
@@ -22,6 +22,26 @@
       "venue_id": "187930",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2447959"
+    },
+    {
+      "id": "ra:2544830",
+      "title": "Audio Obscura ADE at The Loft with Adriatique B2B Cloonee",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544830"
+    },
+    {
+      "id": "ra:2528626",
+      "title": "Cloonee",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528626"
     }
   ],
   "past": []

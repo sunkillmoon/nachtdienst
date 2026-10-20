@@ -6,34 +6,146 @@
   "lng": 4.865688,
   "upcoming": [
     {
-      "id": "ra:2515373",
-      "title": "Vibez Recordings presents: Expansions",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
+      "id": "ra:2532847",
+      "title": "AADE: Subject Sue – EP Release Details In The Dark",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2515373"
+      "url": "https://ra.co/events/2532847"
     },
     {
-      "id": "ra:2493000",
-      "title": "Anacalypto & Friends",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
+      "id": "ra:2516915",
+      "title": "AADE: with Aili & Orson x TUKAN",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493000"
+      "url": "https://ra.co/events/2516915"
     },
     {
-      "id": "ra:2484091",
-      "title": "Alteration vol. 6",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
+      "id": "ra:2553491",
+      "title": "The Noodle Show - Expert Talk & Livejams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2484091"
+      "url": "https://ra.co/events/2553491"
+    },
+    {
+      "id": "ra:2532848",
+      "title": "AADE: Anderworld release event",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532848"
+    },
+    {
+      "id": "ra:2550287",
+      "title": "AADE: Anderworld release event",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550287"
+    },
+    {
+      "id": "ra:2550277",
+      "title": "AADE: ADEV after",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550277"
+    },
+    {
+      "id": "ra:2560971",
+      "title": "PRSPCT Fundraver for Gaza Skate Team",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560971"
+    },
+    {
+      "id": "ra:2563012",
+      "title": "VIS 01 AMS",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563012"
+    },
+    {
+      "id": "ra:2525454",
+      "title": "SYNTHETIC REALITY",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525454"
+    },
+    {
+      "id": "ra:2561784",
+      "title": "Molecular",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561784"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2515385",
+      "title": "99db",
+      "date": "2026-10-09",
+      "start": "2026-10-09T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515385"
+    },
+    {
+      "id": "ra:2496717",
+      "title": "Tare invites",
+      "date": "2026-10-03",
+      "start": "2026-10-03T20:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496717"
+    },
+    {
+      "id": "ra:2515384",
+      "title": "Cat in the bag - Jungle sessions",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515384"
+    },
+    {
+      "id": "ra:2515382",
+      "title": "Midsummer Night's Dream",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515382"
     },
     {
       "id": "ra:2515374",
@@ -56,55 +168,34 @@
       "url": "https://ra.co/events/2515932"
     },
     {
-      "id": "ra:2515382",
-      "title": "Midsummer Night's Dream",
-      "date": "2026-09-25",
-      "start": "2026-09-25T22:00+02:00",
+      "id": "ra:2484091",
+      "title": "Alteration vol. 6",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2515382"
+      "url": "https://ra.co/events/2484091"
     },
     {
-      "id": "ra:2515384",
-      "title": "Cat in the bag - Jungle sessions",
-      "date": "2026-10-02",
-      "start": "2026-10-02T22:00+02:00",
+      "id": "ra:2493000",
+      "title": "Anacalypto & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2515384"
+      "url": "https://ra.co/events/2493000"
     },
     {
-      "id": "ra:2496717",
-      "title": "Tare invites",
-      "date": "2026-10-03",
-      "start": "2026-10-03T20:00+02:00",
+      "id": "ra:2515373",
+      "title": "Vibez Recordings presents: Expansions",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
       "venue": "OT301",
       "venue_id": "13028",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2496717"
-    },
-    {
-      "id": "ra:2515385",
-      "title": "99db",
-      "date": "2026-10-09",
-      "start": "2026-10-09T22:00+02:00",
-      "venue": "OT301",
-      "venue_id": "13028",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515385"
-    },
-    {
-      "id": "ra:2516915",
-      "title": "AADE: with Aili & Orson x TUKAN",
-      "date": "2026-10-22",
-      "start": "2026-10-22T20:00+02:00",
-      "venue": "OT301",
-      "venue_id": "13028",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516915"
+      "url": "https://ra.co/events/2515373"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "143134",
   "name": "KRUISPUNT",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514754",
       "title": " KRUISPUNT 3 JAAR",
@@ -11,9 +12,7 @@
       "venue_id": "212668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514754"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2508099",
       "title": "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst",

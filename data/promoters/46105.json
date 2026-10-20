@@ -1,0 +1,59 @@
+{
+  "id": "46105",
+  "name": "True House",
+  "upcoming": [
+    {
+      "id": "ra:2551521",
+      "title": "True House Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Bar22",
+      "venue_id": "50372",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551521"
+    },
+    {
+      "id": "ra:2551524",
+      "title": "True House Tribute to DJ Romain",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551524"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "52721",
+      "name": "Joel DeMarzo",
+      "count": 2
+    },
+    {
+      "id": "13498",
+      "name": "Doc Link",
+      "count": 2
+    },
+    {
+      "id": "17009",
+      "name": "Sista Stroke",
+      "count": 1
+    },
+    {
+      "id": "15526",
+      "name": "Nonfiction",
+      "count": 1
+    },
+    {
+      "id": "179442",
+      "name": "DJ Dazy",
+      "count": 1
+    },
+    {
+      "id": "39482",
+      "name": "Mike Lachman",
+      "count": 1
+    }
+  ]
+}

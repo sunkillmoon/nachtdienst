@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2544276",
+      "title": "RAW CUTS: ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544276"
+    },
+    {
+      "id": "ra:2523413",
+      "title": "Club Roto - Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523413"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2476146",
       "title": "Jesse Maas curates",
       "date": "2026-08-28",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476146"
     }
-  ],
-  "past": []
+  ]
 }

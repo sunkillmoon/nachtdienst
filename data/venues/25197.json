@@ -6,26 +6,6 @@
   "lng": 4.494994,
   "upcoming": [
     {
-      "id": "ra:2490622",
-      "title": "AFTER DARK // ROTTERDAM",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Now&Wow",
-      "venue_id": "25197",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490622"
-    },
-    {
-      "id": "ra:2471371",
-      "title": "KINK FEST ROTTERDAM (For the first time in Netherlands!)",
-      "date": "2026-10-16",
-      "start": "2026-10-16T22:00+02:00",
-      "venue": "Now&Wow",
-      "venue_id": "25197",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2471371"
-    },
-    {
       "id": "ra:2498108",
       "title": "UPTOWN presents ALISHA (extended set)",
       "date": "2026-11-06",
@@ -46,5 +26,26 @@
       "url": "https://ra.co/events/2325394"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2471371",
+      "title": "KINK FEST ROTTERDAM (For the first time in Netherlands!)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T22:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2471371"
+    },
+    {
+      "id": "ra:2490622",
+      "title": "AFTER DARK // ROTTERDAM",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Now&Wow",
+      "venue_id": "25197",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490622"
+    }
+  ]
 }

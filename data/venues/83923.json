@@ -6,6 +6,16 @@
   "lng": 4.883298,
   "upcoming": [
     {
+      "id": "ra:2529438",
+      "title": "Becking presents: DAMSKO GARAGE w/ JOE HUNT & GENTLEMENS CLUB (LAST TICKETS)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529438"
+    },
+    {
       "id": "ra:2520164",
       "title": "Showcase Kokolores x ADE",
       "date": "2026-10-21",
@@ -16,14 +26,64 @@
       "url": "https://ra.co/events/2520164"
     },
     {
-      "id": "ra:2518880",
-      "title": "HouseU Party Amsterdam ADE",
-      "date": "2026-10-23",
-      "start": "2026-10-23T20:00+02:00",
+      "id": "ra:2525158",
+      "title": "Apuliart x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
       "venue": "Grand Café Heineken Hoek",
       "venue_id": "83923",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2518880"
+      "url": "https://ra.co/events/2525158"
+    },
+    {
+      "id": "ra:2543966",
+      "title": "ApuliArt DJ School ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543966"
+    },
+    {
+      "id": "ra:2525145",
+      "title": "WHO Plays x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525145"
+    },
+    {
+      "id": "ra:2552878",
+      "title": "HOUSEYOUNITE PRESENTS DROP & CONNECT x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552878"
+    },
+    {
+      "id": "ra:2564854",
+      "title": "Houseyounite Drop&Connect",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564854"
+    },
+    {
+      "id": "ra:2552882",
+      "title": "DEEPINTHERHYTHM x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552882"
     },
     {
       "id": "ra:2520167",
@@ -34,6 +94,16 @@
       "venue_id": "83923",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520167"
+    },
+    {
+      "id": "ra:2518880",
+      "title": "HouseU Party Amsterdam ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518880"
     },
     {
       "id": "ra:2520175",
@@ -54,6 +124,16 @@
       "venue_id": "83923",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520170"
+    },
+    {
+      "id": "ra:2552885",
+      "title": "NUM ADE SHOWCASE x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552885"
     }
   ],
   "past": []

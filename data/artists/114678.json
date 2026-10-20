@@ -2,7 +2,8 @@
   "id": "114678",
   "name": "Louis The 4th",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479325",
       "title": "Vault Sessions All Vinyl WKNDR | Afterhours | De Fik Garden",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479325"
     }
-  ],
-  "past": []
+  ]
 }

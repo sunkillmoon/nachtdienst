@@ -1,0 +1,28 @@
+{
+  "id": "74242",
+  "name": "Ae:ther",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
+      "id": "ra:2547491",
+      "title": "RISE MUSIC PROJECT SHOWCASE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547491"
+    }
+  ],
+  "past": []
+}

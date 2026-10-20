@@ -2,7 +2,8 @@
   "id": "145462",
   "name": "Denise Luzzi",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499299",
       "title": "Discosabotage & 2lovers present Onur Özer  - daytime",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499299"
     }
-  ],
-  "past": []
+  ]
 }

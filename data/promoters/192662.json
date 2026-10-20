@@ -1,7 +1,8 @@
 {
   "id": "192662",
   "name": "Steffen Buskens",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518869",
       "title": "Wicked Techno XLR",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2518869"
     }
   ],
-  "past": [],
   "top_artists": []
 }

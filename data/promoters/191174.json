@@ -3,6 +3,18 @@
   "name": "UNTIED",
   "upcoming": [
     {
+      "id": "ra:2531688",
+      "title": "FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam",
+      "venue_id": "302107",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531688"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2499136",
       "title": "UNTIED",
       "date": "2026-10-02",
@@ -13,16 +25,50 @@
       "url": "https://ra.co/events/2499136"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "180357",
       "name": "Drabes",
-      "count": 1
+      "count": 2
     },
     {
       "id": "186286",
       "name": "LIKE61",
+      "count": 2
+    },
+    {
+      "id": "119481",
+      "name": "Kirilski",
+      "count": 1
+    },
+    {
+      "id": "138988",
+      "name": "Heritage Listed",
+      "count": 1
+    },
+    {
+      "id": "139581",
+      "name": "Stijn van der Meer",
+      "count": 1
+    },
+    {
+      "id": "176331",
+      "name": "Josh Byrne (2)",
+      "count": 1
+    },
+    {
+      "id": "147152",
+      "name": "AIS De La Montagne",
+      "count": 1
+    },
+    {
+      "id": "166012",
+      "name": "Midas Field",
+      "count": 1
+    },
+    {
+      "id": "28587",
+      "name": "David Penn",
       "count": 1
     },
     {

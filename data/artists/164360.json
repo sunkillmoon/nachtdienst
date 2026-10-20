@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2421033",
-      "title": "BCCO x TRANSITION",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2491349",
+      "title": "Vault Sessions x Key Vinyl ADE CLOSING",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2421033"
-    },
+      "url": "https://ra.co/events/2491349"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2476052",
       "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2476052"
     },
     {
-      "id": "ra:2491349",
-      "title": "Vault Sessions x Key Vinyl ADE",
-      "date": "2026-10-25",
-      "start": "2026-10-25T23:00+01:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2421033",
+      "title": "BCCO x TRANSITION",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2491349"
+      "url": "https://ra.co/events/2421033"
     }
-  ],
-  "past": []
+  ]
 }

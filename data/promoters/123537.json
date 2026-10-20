@@ -1,7 +1,8 @@
 {
   "id": "123537",
   "name": "Anjunabeats",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2371018",
       "title": "Anjunabeats at Zandvoort beach",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2371018"
     }
   ],
-  "past": [],
   "top_artists": []
 }

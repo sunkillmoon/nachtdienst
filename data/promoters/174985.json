@@ -1,0 +1,49 @@
+{
+  "id": "174985",
+  "name": "Rheinbass",
+  "upcoming": [
+    {
+      "id": "ra:2555861",
+      "title": "AFTEREarly Beats — ADE Special Club",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555861"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "27",
+      "name": "Timo Maas",
+      "count": 1
+    },
+    {
+      "id": "127353",
+      "name": "Ben:Rodd",
+      "count": 1
+    },
+    {
+      "id": "189968",
+      "name": "CORZ",
+      "count": 1
+    },
+    {
+      "id": "178704",
+      "name": "Matteo (IT)",
+      "count": 1
+    },
+    {
+      "id": "169241",
+      "name": "Desyfer",
+      "count": 1
+    },
+    {
+      "id": "74889",
+      "name": "Philip Ackowsky",
+      "count": 1
+    }
+  ]
+}

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2538004",
+      "title": "Canapa-x invite Discosabotage records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538004"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2499299",
       "title": "Discosabotage & 2lovers present Onur Özer  - daytime",
       "date": "2026-09-05",
@@ -12,9 +24,7 @@
       "venue_id": "225039",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499299"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2475528",
       "title": "Discosabotage summer issue 25.07.26",

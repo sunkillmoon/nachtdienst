@@ -1,0 +1,40 @@
+{
+  "id": "194483",
+  "name": "Hearth",
+  "area": "Amsterdam",
+  "lat": 52.358498,
+  "lng": 4.912999,
+  "upcoming": [
+    {
+      "id": "ra:2536557",
+      "title": "20 Years of Rebirth Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536557"
+    },
+    {
+      "id": "ra:2523021",
+      "title": "On The Rocks with Tornado Wallace (ADE Special)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523021"
+    },
+    {
+      "id": "ra:2523037",
+      "title": "On The Rocks with Sassy J (ADE Special)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523037"
+    }
+  ],
+  "past": []
+}

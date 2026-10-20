@@ -2,7 +2,8 @@
   "id": "103438",
   "name": "kimmah",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512514",
       "title": "ONE LAST TIME (BY HURU-HARA)",
@@ -12,9 +13,7 @@
       "venue_id": "206986",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512514"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501667",
       "title": "POING FESTIVAL after hours",

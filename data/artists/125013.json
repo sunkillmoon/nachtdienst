@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2554221",
+      "title": "Vinz Sosa Invites ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554221"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2507742",
       "title": "TILT x Syntax Error",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507742"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2480215",
       "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",

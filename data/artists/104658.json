@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2519306",
-      "title": "ADE x Showcase Kokolores",
-      "date": "2026-10-21",
-      "start": "2026-10-21T20:00+02:00",
-      "venue": "Basement-Amsterdam",
-      "venue_id": "300776",
-      "area": "All",
-      "url": "https://ra.co/events/2519306"
-    },
-    {
       "id": "ra:2520164",
       "title": "Showcase Kokolores x ADE",
       "date": "2026-10-21",
@@ -22,6 +12,16 @@
       "venue_id": "83923",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520164"
+    },
+    {
+      "id": "ra:2519306",
+      "title": "ADE x Showcase Kokolores",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Basement-Amsterdam",
+      "venue_id": "300776",
+      "area": "All",
+      "url": "https://ra.co/events/2519306"
     }
   ],
   "past": []

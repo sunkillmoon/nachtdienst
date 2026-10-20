@@ -1,0 +1,20 @@
+{
+  "id": "124620",
+  "name": "Radio Royaal",
+  "area": "Eindhoven",
+  "lat": 51.448411,
+  "lng": 5.456771,
+  "upcoming": [
+    {
+      "id": "ra:2556031",
+      "title": "DDW Closing 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Royaal",
+      "venue_id": "124620",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2556031"
+    }
+  ],
+  "past": []
+}

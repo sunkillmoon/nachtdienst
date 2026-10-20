@@ -1,0 +1,28 @@
+{
+  "id": "106384",
+  "name": "Michelle Kay",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2534614",
+      "title": "IMPULSE CØNTROL ADE // BENZA, JSPRV35, + MORE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534614"
+    },
+    {
+      "id": "ra:2559064",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 3)",
+      "date": "2026-10-22",
+      "start": "2026-10-23T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559064"
+    }
+  ],
+  "past": []
+}

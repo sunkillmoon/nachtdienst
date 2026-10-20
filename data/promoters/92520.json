@@ -1,0 +1,29 @@
+{
+  "id": "92520",
+  "name": "Giovanni De Feo",
+  "upcoming": [
+    {
+      "id": "ra:2564142",
+      "title": "Quest in Dam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564142"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "116816",
+      "name": "Femalien",
+      "count": 1
+    },
+    {
+      "id": "82981",
+      "name": "DEFEO",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "303096",
+  "name": "Club Royal",
+  "area": "All",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2540596",
+      "title": "ADE: Nachtraaf x 252 - TECHNO & HOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "303096",
+      "area": "All",
+      "url": "https://ra.co/events/2540596"
+    }
+  ],
+  "past": []
+}

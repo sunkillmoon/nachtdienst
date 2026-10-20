@@ -2,7 +2,8 @@
   "id": "22759",
   "name": "Sunil Sharpe",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499729",
       "title": "Marco Shuttle, Sunil Sharpe, Maria Cue",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499729"
     }
-  ],
-  "past": []
+  ]
 }

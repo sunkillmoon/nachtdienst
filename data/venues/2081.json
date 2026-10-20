@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.404615,
   "lng": 4.694549,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2395821",
       "title": "Wooferland festival 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
     }
-  ],
-  "past": []
+  ]
 }

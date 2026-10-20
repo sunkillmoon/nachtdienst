@@ -1,0 +1,54 @@
+{
+  "id": "120718",
+  "name": "FloralNights",
+  "upcoming": [
+    {
+      "id": "ra:2558306",
+      "title": "Floral Nights Showcase at ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558306"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "50747",
+      "name": "Christian Voldstad",
+      "count": 1
+    },
+    {
+      "id": "23784",
+      "name": "Dilby",
+      "count": 1
+    },
+    {
+      "id": "53057",
+      "name": "Hicky & Kalo",
+      "count": 1
+    },
+    {
+      "id": "62351",
+      "name": "Raw Main",
+      "count": 1
+    },
+    {
+      "id": "35180",
+      "name": "Jochem Hamerling",
+      "count": 1
+    },
+    {
+      "id": "68277",
+      "name": "Legit Trip",
+      "count": 1
+    },
+    {
+      "id": "51520",
+      "name": "Weird Sounding Dude",
+      "count": 1
+    }
+  ]
+}

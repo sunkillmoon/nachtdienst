@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504199",
-      "title": "Føler x LINKD x Toekomstmuziek minifestival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T16:00+02:00",
+      "id": "ra:2528602",
+      "title": "BaseYRD ADE Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
       "venue": "Toekomstmuziek",
       "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504199"
+      "url": "https://ra.co/events/2528602"
     },
     {
       "id": "ra:2436427",
@@ -34,5 +34,16 @@
       "url": "https://ra.co/events/2502544"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2504199",
+      "title": "Føler x LINKD x Toekomstmuziek minifestival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T16:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504199"
+    }
+  ]
 }

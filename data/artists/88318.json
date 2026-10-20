@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458125",
-      "title": "SPIELRAUM Weekender: Nexus opening",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458125"
-    },
+      "url": "https://ra.co/events/2511306"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2434861",
       "title": "Phono Lake Festival",
@@ -22,9 +24,17 @@
       "venue_id": "242264",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2434861"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

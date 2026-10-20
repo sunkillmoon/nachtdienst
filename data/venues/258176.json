@@ -16,20 +16,60 @@
       "url": "https://ra.co/events/2466273"
     },
     {
+      "id": "ra:2530845",
+      "title": "Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530845"
+    },
+    {
+      "id": "ra:2558063",
+      "title": "Analog Kitchen presents 'How we play live'  //ADE 4D Sound with Live Performances Only",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558063"
+    },
+    {
+      "id": "ra:2537711",
+      "title": "ALADAG presents MMAATTCCHH - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:30+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537711"
+    },
+    {
       "id": "ra:2481770",
       "title": "Soundvision presents... Loko Meets Gaia Mama ADE 2026",
       "date": "2026-10-23",
-      "start": "2026-10-23T22:30+02:00",
+      "start": "2026-10-23T22:00+02:00",
       "venue": "Club Baggerbeest",
       "venue_id": "258176",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481770"
     },
     {
+      "id": "ra:2540844",
+      "title": "Club Baggerbeest presents: THE TUNEGIRL (live) - ADE SPECIAL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540844"
+    },
+    {
       "id": "ra:2478382",
       "title": "Daydreaming & EQUINOX PRESENT CONNEXION",
       "date": "2026-10-25",
-      "start": "2026-10-25T22:00+01:00",
+      "start": "2026-10-25T21:30+01:00",
       "venue": "Club Baggerbeest",
       "venue_id": "258176",
       "area": "Amsterdam",

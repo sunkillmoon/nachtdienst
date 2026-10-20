@@ -2,7 +2,18 @@
   "id": "153443",
   "name": "Lewis Taylor",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    }
+  ],
   "past": [
     {
       "id": "ra:2443517",

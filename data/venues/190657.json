@@ -16,8 +16,18 @@
       "url": "https://ra.co/events/2480595"
     },
     {
+      "id": "ra:2562136",
+      "title": "THE LOFT presents: Kirollus [All Night] [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562136"
+    },
+    {
       "id": "ra:2466448",
-      "title": "PIV - The Loft",
+      "title": "PIV - The Loft [SOLD OUT]",
       "date": "2026-10-21",
       "start": "2026-10-22T07:00+02:00",
       "venue": "The Loft Amsterdam",
@@ -26,8 +36,18 @@
       "url": "https://ra.co/events/2466448"
     },
     {
+      "id": "ra:2544217",
+      "title": "THE LOFT presents: Marlon Hoffstadt B2B Special Guest",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544217"
+    },
+    {
       "id": "ra:2466451",
-      "title": "20 Years Of The WHP - The Loft",
+      "title": "20 Years Of The WHP - The Loft [SOLD OUT]",
       "date": "2026-10-22",
       "start": "2026-10-22T23:30+02:00",
       "venue": "The Loft Amsterdam",
@@ -37,7 +57,7 @@
     },
     {
       "id": "ra:2466456",
-      "title": "CLUB.RECORD - The Loft",
+      "title": "CLUB.RECORD - The Loft [SOLD OUT]",
       "date": "2026-10-22",
       "start": "2026-10-23T06:00+02:00",
       "venue": "The Loft Amsterdam",
@@ -46,8 +66,28 @@
       "url": "https://ra.co/events/2466456"
     },
     {
+      "id": "ra:2554482",
+      "title": "THE LOFT presents: Sammy Virji B2B Mochakk",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554482"
+    },
+    {
+      "id": "ra:2516768",
+      "title": "The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516768"
+    },
+    {
       "id": "ra:2516785",
-      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó [SOLD OUT]",
       "date": "2026-10-23",
       "start": "2026-10-24T06:30+02:00",
       "venue": "The Loft Amsterdam",
@@ -56,8 +96,18 @@
       "url": "https://ra.co/events/2516785"
     },
     {
+      "id": "ra:2516790",
+      "title": "THE LOFT & Mau P present: Dennis Cruz B2B Mau P [SOLD OUT]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516790"
+    },
+    {
       "id": "ra:2516799",
-      "title": "THE LOFT presents: Franky Rizardo",
+      "title": "THE LOFT presents: Franky Rizardo [SOLD OUT]",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "The Loft Amsterdam",
@@ -66,14 +116,64 @@
       "url": "https://ra.co/events/2516799"
     },
     {
+      "id": "ra:2544830",
+      "title": "Audio Obscura ADE at The Loft with Adriatique B2B Cloonee",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544830"
+    },
+    {
+      "id": "ra:2544835",
+      "title": "Audio Obscura ADE at The Loft with Michael Bibi",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544835"
+    },
+    {
+      "id": "ra:2544838",
+      "title": "Audio Obscura ADE at The Loft x Angels by Cloudy",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544838"
+    },
+    {
+      "id": "ra:2535147",
+      "title": "Más Tiempo by Skepta",
+      "date": "2026-10-25",
+      "start": "2026-10-26T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535147"
+    },
+    {
       "id": "ra:2466462",
-      "title": "ADE Closing Party - The Loft",
+      "title": "Closing Party with TRIP",
       "date": "2026-10-26",
-      "start": "2026-10-26T15:00+01:00",
+      "start": "2026-10-26T14:30+01:00",
       "venue": "The Loft Amsterdam",
       "venue_id": "190657",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466462"
+    },
+    {
+      "id": "ra:2563297",
+      "title": "The Loft Closing Party x Trip Ibiza",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563297"
     }
   ],
   "past": [

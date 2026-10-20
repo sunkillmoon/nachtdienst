@@ -3,98 +3,28 @@
   "name": "RADION ",
   "upcoming": [
     {
-      "id": "ra:2504772",
-      "title": "RADION x ACTA Gathering",
-      "date": "2026-09-04",
-      "start": "2026-09-04T18:00+02:00",
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504772"
+      "url": "https://ra.co/events/2536871"
     },
     {
-      "id": "ra:2500670",
-      "title": "RADION Season Opener",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2544891",
+      "title": "Beyond The Dance Floor: ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:30+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2500670"
-    },
-    {
-      "id": "ra:2507235",
-      "title": "RADION presents: DJ Assault",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507235"
-    },
-    {
-      "id": "ra:2504786",
-      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504786"
-    },
-    {
-      "id": "ra:2512493",
-      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512493"
-    },
-    {
-      "id": "ra:2514599",
-      "title": "RADION invites Waxxx Society x RIOT",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514599"
-    },
-    {
-      "id": "ra:2510264",
-      "title": "Chlär All Night Long - Vault Sessions & RADION",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510264"
-    },
-    {
-      "id": "ra:2504760",
-      "title": "GRÜV",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504760"
-    },
-    {
-      "id": "ra:2494196",
-      "title": "GEGEN AMSTERDAM",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494196"
+      "url": "https://ra.co/events/2544891"
     },
     {
       "id": "ra:2492405",
-      "title": "LNR - ADE edition",
+      "title": "LNR: Local Night RADION - ADE edition",
       "date": "2026-10-22",
       "start": "2026-10-22T23:00+02:00",
       "venue": "RADION",
@@ -131,9 +61,119 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490011"
+    },
+    {
+      "id": "ra:2544907",
+      "title": "RADION Invites: Fever Dream x Patchwork Family",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544907"
+    },
+    {
+      "id": "ra:2559425",
+      "title": "CLUB NIGHT",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559425"
     }
   ],
   "past": [
+    {
+      "id": "ra:2494196",
+      "title": "GEGEN AMSTERDAM",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494196"
+    },
+    {
+      "id": "ra:2504760",
+      "title": "GRÜV",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504760"
+    },
+    {
+      "id": "ra:2510264",
+      "title": "Chlär All Night Long - Vault Sessions & RADION",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510264"
+    },
+    {
+      "id": "ra:2514599",
+      "title": "RADION invites Waxxx Society x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514599"
+    },
+    {
+      "id": "ra:2512493",
+      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512493"
+    },
+    {
+      "id": "ra:2504786",
+      "title": "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504786"
+    },
+    {
+      "id": "ra:2507235",
+      "title": "RADION presents: DJ Assault",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507235"
+    },
+    {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
+    {
+      "id": "ra:2504772",
+      "title": "RADION x ACTA Gathering",
+      "date": "2026-09-04",
+      "start": "2026-09-04T18:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504772"
+    },
     {
       "id": "ra:2433222",
       "title": "RADION invites GEGEN",
@@ -207,8 +247,23 @@
       "count": 3
     },
     {
-      "id": "157228",
-      "name": "Hashashin",
+      "id": "39861",
+      "name": "Nastia",
+      "count": 2
+    },
+    {
+      "id": "109902",
+      "name": "Beau Didier",
+      "count": 2
+    },
+    {
+      "id": "95388",
+      "name": "Elisa Batti",
+      "count": 2
+    },
+    {
+      "id": "64729",
+      "name": "Remco Beekwilder",
       "count": 2
     },
     {
@@ -222,28 +277,13 @@
       "count": 2
     },
     {
-      "id": "31980",
-      "name": "Cleric",
+      "id": "104310",
+      "name": "softchaos",
       "count": 2
     },
     {
-      "id": "181740",
-      "name": "LINDS (NL)",
-      "count": 2
-    },
-    {
-      "id": "90691",
-      "name": "Pink Concrete",
-      "count": 2
-    },
-    {
-      "id": "45935",
-      "name": "Pooja B",
-      "count": 2
-    },
-    {
-      "id": "157231",
-      "name": "Mila Haj Kasem",
+      "id": "157228",
+      "name": "Hashashin",
       "count": 2
     }
   ]

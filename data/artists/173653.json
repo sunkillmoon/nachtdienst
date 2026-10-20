@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2563102",
+      "title": "Atomiser x Hothead",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Dokzaal",
+      "venue_id": "208343",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563102"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2514754",
       "title": " KRUISPUNT 3 JAAR",
       "date": "2026-09-12",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514754"
     }
-  ],
-  "past": []
+  ]
 }

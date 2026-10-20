@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2464416",
-      "title": "Symfora",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
+      "id": "ra:2540311",
+      "title": "ADE 26: Melodic Deep - Ten Years In Motion Club Train",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2464416"
+      "url": "https://ra.co/events/2540311"
     },
     {
       "id": "ra:2490629",
@@ -22,9 +22,29 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490629"
+    },
+    {
+      "id": "ra:2497164",
+      "title": "SLAPPED X CraneSessions • ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T10:00+01:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497164"
     }
   ],
   "past": [
+    {
+      "id": "ra:2464416",
+      "title": "Symfora",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464416"
+    },
     {
       "id": "ra:2501585",
       "title": "The Boutique Dunes of Babylon",

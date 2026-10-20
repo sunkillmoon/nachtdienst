@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2562461",
+      "title": "SESH x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562461"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -12,9 +24,7 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2468316",
       "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco",

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2551874",
+      "title": "MITA ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551874"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2498891",
       "title": "MITA - Volume 1",
       "date": "2026-09-11",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498891"
     }
-  ],
-  "past": []
+  ]
 }

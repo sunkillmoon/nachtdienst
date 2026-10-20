@@ -3,10 +3,20 @@
   "name": "ReSolute",
   "upcoming": [
     {
+      "id": "ra:2532285",
+      "title": "ReSolute ADE w/ Raresh & Cap",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam",
+      "venue_id": "303959",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532285"
+    },
+    {
       "id": "ra:2469610",
-      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY 24.10",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
       "date": "2026-10-24",
-      "start": "2026-10-24T20:00+02:00",
+      "start": "2026-10-24T17:00+02:00",
       "venue": "TBA",
       "venue_id": "203299",
       "area": "Amsterdam",
@@ -14,5 +24,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "1025",
+      "name": "Raresh",
+      "count": 1
+    },
+    {
+      "id": "47387",
+      "name": "Cap",
+      "count": 1
+    },
+    {
+      "id": "46539",
+      "name": "Mari.te",
+      "count": 1
+    },
+    {
+      "id": "39014",
+      "name": "Adi",
+      "count": 1
+    },
+    {
+      "id": "85889",
+      "name": "Bobby.",
+      "count": 1
+    },
+    {
+      "id": "66404",
+      "name": "e/tape",
+      "count": 1
+    },
+    {
+      "id": "44698",
+      "name": "Garrett David",
+      "count": 1
+    },
+    {
+      "id": "11634",
+      "name": "Jonny Rock",
+      "count": 1
+    },
+    {
+      "id": "77417",
+      "name": "Max Sprauer",
+      "count": 1
+    },
+    {
+      "id": "66814",
+      "name": "Mayell",
+      "count": 1
+    }
+  ]
 }

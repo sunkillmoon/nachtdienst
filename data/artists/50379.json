@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2516396",
-      "title": "Locklead All Day Long",
-      "date": "2026-09-13",
-      "start": "2026-09-13T15:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516396"
-    },
-    {
-      "id": "ra:2514434",
-      "title": "LOCKLEAD - ALL DAY LONG",
-      "date": "2026-09-13",
-      "start": "2026-09-13T15:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514434"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -54,6 +24,16 @@
       "url": "https://ra.co/events/2495692"
     },
     {
+      "id": "ra:2532205",
+      "title": "Rossi.HOME//GRXWN [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532205"
+    },
+    {
       "id": "ra:2297501",
       "title": "Into the Woods ADE 2026",
       "date": "2026-10-23",
@@ -62,6 +42,26 @@
       "venue_id": "159079",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2559890",
+      "title": "Subcultuur Arnhem - De Zoetenlab",
+      "date": "2026-11-06",
+      "start": "2026-11-06T18:00+01:00",
+      "venue": "De Zoeten Laboratorium",
+      "venue_id": "305105",
+      "area": "All",
+      "url": "https://ra.co/events/2559890"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     },
     {
       "id": "ra:2513406",
@@ -74,5 +74,36 @@
       "url": "https://ra.co/events/2513406"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2514434",
+      "title": "LOCKLEAD - ALL DAY LONG",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514434"
+    },
+    {
+      "id": "ra:2516396",
+      "title": "Locklead All Day Long",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516396"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    }
+  ]
 }

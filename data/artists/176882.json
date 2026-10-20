@@ -2,7 +2,8 @@
   "id": "176882",
   "name": "daktari",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514393",
       "title": "Ambrosia Rave",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514393"
     }
-  ],
-  "past": []
+  ]
 }

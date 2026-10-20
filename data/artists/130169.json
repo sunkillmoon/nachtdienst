@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2524193",
+      "title": "Discovery Sessions: The Bulldog Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524193"
+    },
+    {
+      "id": "ra:2521580",
+      "title": "E1 ADE: DXNBY, Jay de Lys & Joey Daniel",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521580"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2496559",
       "title": "Archie Hamilton, DXNBY, Jhobei",
       "date": "2026-09-26",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496559"
     }
-  ],
-  "past": []
+  ]
 }

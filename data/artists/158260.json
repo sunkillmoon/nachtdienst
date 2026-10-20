@@ -1,0 +1,38 @@
+{
+  "id": "158260",
+  "name": "James Hurr",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2527280",
+      "title": "Milk & Sugar House Nation ADE Session 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Bar Twenty Two",
+      "venue_id": "224568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527280"
+    },
+    {
+      "id": "ra:2538090",
+      "title": "House of Chic x GYM: ABV LDN",
+      "date": "2026-10-22",
+      "start": "2026-10-23T02:00+02:00",
+      "venue": "Beatfabriek",
+      "venue_id": "302827",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538090"
+    },
+    {
+      "id": "ra:2564850",
+      "title": "Houseyounite X House of Noa",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "House of Noa",
+      "venue_id": "299375",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564850"
+    }
+  ],
+  "past": []
+}

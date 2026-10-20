@@ -2,7 +2,28 @@
   "id": "3",
   "name": "Ferry Corsten",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2534229",
+      "title": "Ferry Corsten & Friends ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534229"
+    },
+    {
+      "id": "ra:2553876",
+      "title": "50:Hertz Club Train X Ferry Corsten",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553876"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485525",

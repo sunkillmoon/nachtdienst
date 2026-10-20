@@ -1,0 +1,44 @@
+{
+  "id": "129887",
+  "name": "Indiskret Berlin",
+  "upcoming": [
+    {
+      "id": "ra:2559990",
+      "title": "Indiskret Berlin ADE Showacase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Feijoa",
+      "venue_id": "84187",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559990"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "117221",
+      "name": "Concentio",
+      "count": 1
+    },
+    {
+      "id": "130246",
+      "name": "Confred",
+      "count": 1
+    },
+    {
+      "id": "115293",
+      "name": "nataša",
+      "count": 1
+    },
+    {
+      "id": "130096",
+      "name": "Pajüh",
+      "count": 1
+    },
+    {
+      "id": "130077",
+      "name": "Rabauke",
+      "count": 1
+    }
+  ]
+}

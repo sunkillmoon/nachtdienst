@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
       "id": "ra:2436427",
       "title": "Glow in the Dark 'Halloween Special' 2026",
       "date": "2026-10-31",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2436427"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    }
+  ]
 }

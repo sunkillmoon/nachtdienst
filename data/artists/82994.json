@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2553491",
+      "title": "The Noodle Show - Expert Talk & Livejams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553491"
+    },
+    {
+      "id": "ra:2556031",
+      "title": "DDW Closing 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Royaal",
+      "venue_id": "124620",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2556031"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512183",
       "title": "Krackfree Soundsystem 10year Anniversary Event - Rotterdam",
       "date": "2026-09-05",
@@ -13,6 +35,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512183"
     }
-  ],
-  "past": []
+  ]
 }

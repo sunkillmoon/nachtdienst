@@ -12,6 +12,16 @@
       "venue_id": "12591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516701"
+    },
+    {
+      "id": "ra:2564589",
+      "title": "Djoon Paris x Canvas Nights [ADE] DISCOVERY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564589"
     }
   ],
   "past": []

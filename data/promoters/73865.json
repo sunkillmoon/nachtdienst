@@ -3,6 +3,18 @@
   "name": "RAW",
   "upcoming": [
     {
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536871"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2504760",
       "title": "GRÜV",
       "date": "2026-09-25",
@@ -13,11 +25,40 @@
       "url": "https://ra.co/events/2504760"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "39861",
       "name": "Nastia",
+      "count": 2
+    },
+    {
+      "id": "103691",
+      "name": "Mac Declos",
+      "count": 1
+    },
+    {
+      "id": "47363",
+      "name": "Kaiser (K S R)",
+      "count": 1
+    },
+    {
+      "id": "109902",
+      "name": "Beau Didier",
+      "count": 1
+    },
+    {
+      "id": "96398",
+      "name": "RUIZ OSC1",
+      "count": 1
+    },
+    {
+      "id": "98268",
+      "name": "Danny Wabbit",
+      "count": 1
+    },
+    {
+      "id": "95388",
+      "name": "Elisa Batti",
       "count": 1
     },
     {

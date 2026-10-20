@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.915786,
   "lng": 4.476446,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494547",
       "title": "Dutch Modular Festival",
@@ -14,9 +15,7 @@
       "venue_id": "55285",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2494547"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487395",
       "title": "Roots & Riddims #2",

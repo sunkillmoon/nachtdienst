@@ -2,7 +2,8 @@
   "id": "92924",
   "name": "Mo Wrights",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520634",
       "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520634"
     }
-  ],
-  "past": []
+  ]
 }

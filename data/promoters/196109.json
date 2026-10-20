@@ -1,0 +1,34 @@
+{
+  "id": "196109",
+  "name": "Club For Life",
+  "upcoming": [
+    {
+      "id": "ra:2563154",
+      "title": "Club For Life At Mandarin Oriental Conservatorium W// Four Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb",
+      "venue_id": "305386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563154"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "164845",
+      "name": "Candelaria",
+      "count": 1
+    },
+    {
+      "id": "91378",
+      "name": "Denis Ago",
+      "count": 1
+    },
+    {
+      "id": "167583",
+      "name": "ESSNCE",
+      "count": 1
+    }
+  ]
+}

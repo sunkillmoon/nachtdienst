@@ -1,0 +1,28 @@
+{
+  "id": "139924",
+  "name": "Mimi (4)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2547887",
+      "title": "giegling at ingang - ade",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547887"
+    },
+    {
+      "id": "ra:2526376",
+      "title": "giegling at Klaproos - ade - SOLD OUT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526376"
+    }
+  ],
+  "past": []
+}

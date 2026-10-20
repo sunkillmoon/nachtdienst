@@ -7,7 +7,7 @@
   "upcoming": [
     {
       "id": "ra:2492381",
-      "title": "One Long Groove",
+      "title": "Breakfast Club ADE: One Long Groove",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Pllek",
@@ -17,7 +17,7 @@
     },
     {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -44,6 +44,16 @@
       "venue_id": "86709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501967"
+    },
+    {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
     }
   ],
   "past": []

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2557961",
+      "title": "House of Chic x Birdcage Radio: The Inner Circle",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Birdcage Radio",
+      "venue_id": "304884",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2557961"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2499737",
       "title": "Uphoria x Roots",
       "date": "2026-09-12",
@@ -13,6 +25,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2499737"
     }
-  ],
-  "past": []
+  ]
 }

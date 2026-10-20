@@ -2,7 +2,8 @@
   "id": "143969",
   "name": "Queen Saba",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490543",
       "title": "Afra invites Steve Rachmad & Queen Saba",
@@ -12,9 +13,7 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2490543"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2480214",
       "title": "Tai Lokun & Queen Saba",

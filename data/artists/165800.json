@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2511505",
-      "title": "Veronica schip",
-      "date": "2026-08-28",
-      "start": "2026-08-28T21:00+02:00",
-      "venue": "Het Veronica Schip",
-      "venue_id": "299826",
+      "id": "ra:2553163",
+      "title": "Disco Inferno: Funk De Nacht",
+      "date": "2026-10-31",
+      "start": "2026-10-31T19:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511505"
-    },
+      "url": "https://ra.co/events/2553163"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2513931",
       "title": "BHAE Festival",
@@ -22,9 +24,17 @@
       "venue_id": "158843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2513931"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2511505",
+      "title": "Veronica schip",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Het Veronica Schip",
+      "venue_id": "299826",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511505"
+    },
     {
       "id": "ra:2477479",
       "title": "TM 4 Year Anniversary",

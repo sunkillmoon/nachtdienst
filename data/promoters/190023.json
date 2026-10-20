@@ -1,0 +1,59 @@
+{
+  "id": "190023",
+  "name": "ACCUSED",
+  "upcoming": [
+    {
+      "id": "ra:2549212",
+      "title": "ACCUSED BY ACA - ADE Showcase (DAY TIME)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:30+02:00",
+      "venue": "TBA - AMSTERDAM BARBER COMPANY",
+      "venue_id": "303991",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549212"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "86081",
+      "name": "Jesse Maas",
+      "count": 1
+    },
+    {
+      "id": "126232",
+      "name": "Stef Davidse",
+      "count": 1
+    },
+    {
+      "id": "136948",
+      "name": "ACA (YU)",
+      "count": 1
+    },
+    {
+      "id": "53713",
+      "name": "Mene",
+      "count": 1
+    },
+    {
+      "id": "153155",
+      "name": "Capron",
+      "count": 1
+    },
+    {
+      "id": "126952",
+      "name": "Lauren Steel",
+      "count": 1
+    },
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
+      "count": 1
+    },
+    {
+      "id": "189545",
+      "name": "Fabian Haneke",
+      "count": 1
+    }
+  ]
+}

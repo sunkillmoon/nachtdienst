@@ -14,5 +14,46 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "15733",
+      "name": "Aera",
+      "count": 1
+    },
+    {
+      "id": "95820",
+      "name": "Auggië",
+      "count": 1
+    },
+    {
+      "id": "136273",
+      "name": "Ander Race",
+      "count": 1
+    },
+    {
+      "id": "106108",
+      "name": "heSAWyou",
+      "count": 1
+    },
+    {
+      "id": "107152",
+      "name": "K.eem",
+      "count": 1
+    },
+    {
+      "id": "121766",
+      "name": "Patrick Serhal",
+      "count": 1
+    },
+    {
+      "id": "84378",
+      "name": "Rick Offen",
+      "count": 1
+    },
+    {
+      "id": "63594",
+      "name": "Severin Su",
+      "count": 1
+    }
+  ]
 }

@@ -1,7 +1,18 @@
 {
   "id": "125685",
   "name": "Pintai Collective",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2523073",
+      "title": "Pintai (ADE)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523073"
+    }
+  ],
   "past": [
     {
       "id": "ra:2460516",
@@ -15,6 +26,36 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 2
+    },
+    {
+      "id": "107326",
+      "name": "Hame (1)",
+      "count": 2
+    },
+    {
+      "id": "111391",
+      "name": "Hafa",
+      "count": 2
+    },
+    {
+      "id": "102728",
+      "name": "Lb Honne",
+      "count": 1
+    },
+    {
+      "id": "83133",
+      "name": "ORION (IT)",
+      "count": 1
+    },
+    {
+      "id": "161156",
+      "name": "frederic (2)",
+      "count": 1
+    },
     {
       "id": "83367",
       "name": "Vera Logdanidi",
@@ -33,36 +74,6 @@
     {
       "id": "60592",
       "name": "Telfort",
-      "count": 1
-    },
-    {
-      "id": "97175",
-      "name": "MNTY",
-      "count": 1
-    },
-    {
-      "id": "110930",
-      "name": "Bluecommand",
-      "count": 1
-    },
-    {
-      "id": "52158",
-      "name": "Martinou",
-      "count": 1
-    },
-    {
-      "id": "111391",
-      "name": "Hafa",
-      "count": 1
-    },
-    {
-      "id": "169785",
-      "name": "Gizem",
-      "count": 1
-    },
-    {
-      "id": "107326",
-      "name": "Hame (1)",
       "count": 1
     }
   ]

@@ -4,56 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516420",
-      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516420"
-    },
-    {
-      "id": "ra:2495691",
-      "title": "Lola x BRET - Midas Field Curates",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495691"
-    },
-    {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
-    },
-    {
-      "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491639"
-    },
-    {
-      "id": "ra:2473502",
-      "title": "Madam by Night invites: Sooze",
-      "date": "2026-10-03",
-      "start": "2026-10-03T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473502"
-    },
-    {
       "id": "ra:2496769",
       "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
       "date": "2026-10-22",
@@ -74,6 +24,26 @@
       "url": "https://ra.co/events/2495676"
     },
     {
+      "id": "ra:2534664",
+      "title": "Snatch! Records ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534664"
+    },
+    {
+      "id": "ra:2531688",
+      "title": "FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam",
+      "venue_id": "302107",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531688"
+    },
+    {
       "id": "ra:2494128",
       "title": "PIV ADE - Ijland",
       "date": "2026-10-23",
@@ -85,6 +55,56 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2473502",
+      "title": "Madam by Night invites: Sooze",
+      "date": "2026-10-03",
+      "start": "2026-10-03T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473502"
+    },
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
+    },
+    {
+      "id": "ra:2495691",
+      "title": "Lola x BRET - Midas Field Curates",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495691"
+    },
+    {
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516420"
+    },
     {
       "id": "ra:2449012",
       "title": "Pride Special W/ Dam Swindle, Daisy Weweh, Laura Meester B2B Midas Field",

@@ -2,7 +2,8 @@
   "id": "95008",
   "name": "DJ Tracksuit",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520630",
       "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
@@ -12,9 +13,7 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520630"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2383086",
       "title": "PIP NON-STOP SUMMER CLOSING (27 HOURS)",

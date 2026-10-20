@@ -1,7 +1,8 @@
 {
   "id": "185485",
   "name": "Mad Music Hub",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462689",
       "title": "Shermanology - Lucien Foort | Soft Landing",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2462689"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "102417",

@@ -1,0 +1,28 @@
+{
+  "id": "184208",
+  "name": "Jessie Marcella",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2536517",
+      "title": "Zwart Goud ADE INSTORES 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536517"
+    },
+    {
+      "id": "ra:2554698",
+      "title": "ALL FEELING NO THEORY - 'Aventurine' Single Launch Party",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554698"
+    }
+  ],
+  "past": []
+}

@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2559057",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 1)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559057"
+    },
+    {
       "id": "ra:2499130",
       "title": "MOOV - ADE Edition",
       "date": "2026-10-23",
@@ -15,11 +25,11 @@
     },
     {
       "id": "ra:2517444",
-      "title": "Movement Recordings ADE XXX Showcase - hosted by B>It & Rapture",
+      "title": "Movement Recordings ADE XXX Showcase",
       "date": "2026-10-24",
       "start": "2026-10-24T19:00+02:00",
-      "venue": "50:Hertz House & Techno Club (Rembrandt Square)",
-      "venue_id": "300625",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517444"
     }

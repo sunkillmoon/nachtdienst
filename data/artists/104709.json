@@ -2,7 +2,18 @@
   "id": "104709",
   "name": "Spray",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2532104",
+      "title": "ZeeZout ADE - Saturday Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532104"
+    }
+  ],
   "past": [
     {
       "id": "ra:2436135",

@@ -1,0 +1,28 @@
+{
+  "id": "113721",
+  "name": "Charmeine",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2513188",
+      "title": "Monkey Project [ADE]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513188"
+    },
+    {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
+    }
+  ],
+  "past": []
+}

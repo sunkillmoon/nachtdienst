@@ -6,7 +6,7 @@
       "id": "ra:2500167",
       "title": "Let Techno Unite ADE 2026",
       "date": "2026-10-21",
-      "start": "2026-10-21T21:00+02:00",
+      "start": "2026-10-21T19:00+02:00",
       "venue": "Akhnaton",
       "venue_id": "2763",
       "area": "Amsterdam",
@@ -15,6 +15,11 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "185115",
+      "name": "AMYMI MUSICA",
+      "count": 1
+    },
     {
       "id": "165316",
       "name": "Noisy Shaun",

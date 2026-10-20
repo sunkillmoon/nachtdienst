@@ -1,0 +1,44 @@
+{
+  "id": "196179",
+  "name": "Kazerne Reigersbos",
+  "upcoming": [
+    {
+      "id": "ra:2557857",
+      "title": "M0RN1NG 4FT3R",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "301377",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557857"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "76150",
+      "name": "Akua",
+      "count": 1
+    },
+    {
+      "id": "22631",
+      "name": "Alberto Tolo",
+      "count": 1
+    },
+    {
+      "id": "70288",
+      "name": "MARRØN",
+      "count": 1
+    },
+    {
+      "id": "86526",
+      "name": "Nala Brown",
+      "count": 1
+    },
+    {
+      "id": "97172",
+      "name": "NIKS",
+      "count": 1
+    }
+  ]
+}

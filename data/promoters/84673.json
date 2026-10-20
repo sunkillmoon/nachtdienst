@@ -1,0 +1,69 @@
+{
+  "id": "84673",
+  "name": "OFFWEEK FESTIVAL",
+  "upcoming": [
+    {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "55225",
+      "name": "Mathame",
+      "count": 1
+    },
+    {
+      "id": "16885",
+      "name": "Fideles",
+      "count": 1
+    },
+    {
+      "id": "113721",
+      "name": "Charmeine",
+      "count": 1
+    },
+    {
+      "id": "139548",
+      "name": "Vaert",
+      "count": 1
+    },
+    {
+      "id": "568",
+      "name": "Miss Kittin",
+      "count": 1
+    },
+    {
+      "id": "34683",
+      "name": "Nicolas Lutz",
+      "count": 1
+    },
+    {
+      "id": "798",
+      "name": "Onur Özer",
+      "count": 1
+    },
+    {
+      "id": "572",
+      "name": "Ivan Smagghe",
+      "count": 1
+    },
+    {
+      "id": "71178",
+      "name": "Lumiere",
+      "count": 1
+    },
+    {
+      "id": "95692",
+      "name": "MALENA",
+      "count": 1
+    }
+  ]
+}

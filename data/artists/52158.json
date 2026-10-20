@@ -2,7 +2,8 @@
   "id": "52158",
   "name": "Martinou",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2483660",
       "title": "Mindscape - Live set experience",
@@ -12,9 +13,7 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2483660"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2460516",
       "title": "Discos Movimiento x Pintai",

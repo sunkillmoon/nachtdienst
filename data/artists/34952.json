@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2516652",
+      "title": "FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516652"
+    },
+    {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
       "id": "ra:2503161",
       "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
       "date": "2026-10-22",
@@ -12,6 +32,26 @@
       "venue_id": "221843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2553491",
+      "title": "The Noodle Show - Expert Talk & Livejams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553491"
+    },
+    {
+      "id": "ra:2527297",
+      "title": "Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527297"
     }
   ],
   "past": []

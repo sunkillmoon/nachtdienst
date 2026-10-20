@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
+      "id": "ra:2516705",
+      "title": "DAYCARE x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516705"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2415305",
+      "title": "Spätkauf Amersfoort",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Fluor",
+      "venue_id": "108756",
       "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "url": "https://ra.co/events/2415305"
     },
     {
       "id": "ra:2330627",
@@ -24,27 +36,15 @@
       "url": "https://ra.co/events/2330627"
     },
     {
-      "id": "ra:2415305",
-      "title": "Spätkauf Amersfoort",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Fluor",
-      "venue_id": "108756",
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
       "area": "All",
-      "url": "https://ra.co/events/2415305"
+      "url": "https://ra.co/events/2373930"
     },
-    {
-      "id": "ra:2516705",
-      "title": "DAYCARE - ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516705"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2505209",
       "title": "DAYCARE - Bastienne X STERAC, Mees Javois, Yamour",

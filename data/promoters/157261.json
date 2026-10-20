@@ -1,7 +1,8 @@
 {
   "id": "157261",
   "name": "Signal NYC",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496555",
       "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2496555"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "145777",

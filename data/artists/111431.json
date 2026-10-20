@@ -2,7 +2,28 @@
   "id": "111431",
   "name": "Soul Mass Transit System",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
+    },
+    {
+      "id": "ra:2544276",
+      "title": "RAW CUTS: ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544276"
+    }
+  ],
   "past": [
     {
       "id": "ra:2512409",

@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2492405",
+      "title": "LNR: Local Night RADION - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2559378",
+      "title": "The Factory Amsterdam with Niall Kelly, Nina de Koning and Y4R4",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Firebird Rooftop",
+      "venue_id": "303965",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559378"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2520902",
       "title": "Two Five Two",
       "date": "2026-09-11",
@@ -12,9 +34,7 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520902"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2481852",
       "title": "[PHANTOM GROUP] KLUBNACHT w inKKiss b2b TRANZ / TRISTAN ALEX / SMELTBOTER / Y4R4 B2B QUINCY",

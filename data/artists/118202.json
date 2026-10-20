@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504901",
-      "title": "Ninsa b2b Vero",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2510268",
+      "title": "NTO (3 hours live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504901"
-    },
+      "url": "https://ra.co/events/2510268"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2450489",
       "title": "LIEF Festival",
@@ -34,15 +36,14 @@
       "url": "https://ra.co/events/2466280"
     },
     {
-      "id": "ra:2510268",
-      "title": "NTO (3 hours live)",
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00+02:00",
-      "venue": "Chicago Social Club",
-      "venue_id": "43438",
+      "id": "ra:2504901",
+      "title": "Ninsa b2b Vero",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2510268"
+      "url": "https://ra.co/events/2504901"
     }
-  ],
-  "past": []
+  ]
 }

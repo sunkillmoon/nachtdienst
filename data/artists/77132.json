@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2485021",
-      "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
-      "date": "2026-09-12",
-      "start": "2026-09-12T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2485021"
-    },
-    {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    },
-    {
       "id": "ra:2499600",
       "title": "Anjunadeep - ADE",
       "date": "2026-10-22",
@@ -45,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2485021",
+      "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
+      "date": "2026-09-12",
+      "start": "2026-09-12T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2485021"
+    },
     {
       "id": "ra:2390196",
       "title": "komm schon Alter - Das Mini Festival",

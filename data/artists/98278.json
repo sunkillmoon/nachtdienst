@@ -2,7 +2,8 @@
   "id": "98278",
   "name": "Special Guest (US)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515374",
       "title": "Lucid Recordings presents - Rhythmism",
@@ -12,17 +13,6 @@
       "venue_id": "13028",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515374"
-    },
-    {
-      "id": "ra:2474444",
-      "title": "DGTL ADE NOVAH & Friends",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
-      "venue": "NDSM Scheepsbouwloods",
-      "venue_id": "81634",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2474444"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "191725",
   "name": "FOR YOU",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2509848",
       "title": "FOR YOU THE SUMMER CLOSING with ALISHA",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2509848"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "64176",

@@ -2,7 +2,8 @@
   "id": "131973",
   "name": "Pureistix",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516702",
       "title": "TWOFOLD",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2516702"
     }
-  ],
-  "past": []
+  ]
 }

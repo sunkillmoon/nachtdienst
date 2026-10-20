@@ -2,17 +2,8 @@
   "id": "176854",
   "name": "Matty Chiabi",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2499764",
-      "title": "ANTÍDOTO",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499764"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504956",
       "title": "Effy presents: Clubgirls",
@@ -22,7 +13,16 @@
       "venue_id": "194493",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504956"
+    },
+    {
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
     }
-  ],
-  "past": []
+  ]
 }

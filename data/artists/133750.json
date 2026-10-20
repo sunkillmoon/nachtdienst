@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2554611",
+      "title": "Club Fair x Overdrive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554611"
+    },
+    {
       "id": "ra:2498843",
       "title": "ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more",
       "date": "2026-10-24",
@@ -22,6 +32,26 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481524"
+    },
+    {
+      "id": "ra:2513204",
+      "title": "That Garage Sound x Ghosts of Garage - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513204"
+    },
+    {
+      "id": "ra:2535059",
+      "title": "Club Tineke Halloween - SISSI'S Amsterdam",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535059"
     }
   ],
   "past": []

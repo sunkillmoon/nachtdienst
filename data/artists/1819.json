@@ -2,17 +2,8 @@
   "id": "1819",
   "name": "The Advent",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2395821",
-      "title": "Wooferland festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Spaarnwoude (Deelplan Houtrak)",
-      "venue_id": "2081",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2395821"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500670",
       "title": "RADION Season Opener",
@@ -22,7 +13,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500670"
+    },
+    {
+      "id": "ra:2395821",
+      "title": "Wooferland festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Spaarnwoude (Deelplan Houtrak)",
+      "venue_id": "2081",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2395821"
     }
-  ],
-  "past": []
+  ]
 }

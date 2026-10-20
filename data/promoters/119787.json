@@ -1,7 +1,8 @@
 {
   "id": "119787",
   "name": "Club Roto",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516127",
       "title": "Club Roto x Whitehouse Scheveningen",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2516127"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "10446",

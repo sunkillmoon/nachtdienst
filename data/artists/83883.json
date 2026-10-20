@@ -2,7 +2,8 @@
   "id": "83883",
   "name": "Polly F",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520615",
       "title": "Surgeon, Talismann, Polly F",
@@ -12,9 +13,7 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520615"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2440421",
       "title": "(SOLD OUT) 12HRS Adonis x SPIELRAUM",

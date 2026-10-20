@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516707",
-      "title": "Bubble House x Club Up",
-      "date": "2026-08-28",
-      "start": "2026-08-28T22:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
+      "id": "ra:2529943",
+      "title": "ZU HAUSE at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516707"
+      "url": "https://ra.co/events/2529943"
     },
+    {
+      "id": "ra:2560169",
+      "title": "Feestgedruis ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560169"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2517489",
       "title": "Opening Onderhans x Bubble House",
@@ -22,7 +34,16 @@
       "venue_id": "275591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517489"
+    },
+    {
+      "id": "ra:2516707",
+      "title": "Bubble House x Club Up",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516707"
     }
-  ],
-  "past": []
+  ]
 }

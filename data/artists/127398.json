@@ -2,7 +2,8 @@
   "id": "127398",
   "name": "Not Related",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520585",
       "title": "SPINNING ANGELS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520585"
     }
-  ],
-  "past": []
+  ]
 }

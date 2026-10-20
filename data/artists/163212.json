@@ -2,7 +2,8 @@
   "id": "163212",
   "name": "CHAFA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507363",
       "title": "Techno Tuesday Amsterdam, CHAFA & Dexon extended sets",
@@ -12,9 +13,7 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507363"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2492900",
       "title": "Techno Tuesday Amsterdam, Dexon, CHAFA, Alix",

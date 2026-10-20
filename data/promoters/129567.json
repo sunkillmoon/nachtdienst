@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2495931",
-      "title": "VM Radio x Synesthesia - ADE",
+      "title": "VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu",
       "date": "2026-10-23",
       "start": "2026-10-23T22:00+02:00",
       "venue": "Generator",
@@ -14,5 +14,46 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "83210",
+      "name": "Argia",
+      "count": 1
+    },
+    {
+      "id": "24735",
+      "name": "Jonathan Kaspar",
+      "count": 1
+    },
+    {
+      "id": "56440",
+      "name": "Nandu",
+      "count": 1
+    },
+    {
+      "id": "127350",
+      "name": "Braketrack",
+      "count": 1
+    },
+    {
+      "id": "126921",
+      "name": "Charles Mingles",
+      "count": 1
+    },
+    {
+      "id": "130411",
+      "name": "Gavino Paglianti",
+      "count": 1
+    },
+    {
+      "id": "126826",
+      "name": "Hightower",
+      "count": 1
+    },
+    {
+      "id": "103135",
+      "name": "Ides of March",
+      "count": 1
+    }
+  ]
 }

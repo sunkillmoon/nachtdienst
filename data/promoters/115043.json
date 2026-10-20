@@ -1,0 +1,54 @@
+{
+  "id": "115043",
+  "name": "Exilium",
+  "upcoming": [
+    {
+      "id": "ra:2545490",
+      "title": "Exilium pres. Alex Stein, Nakadia & Wehbba at ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545490"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "73645",
+      "name": "Alex Stein",
+      "count": 1
+    },
+    {
+      "id": "3250",
+      "name": "Nakadia",
+      "count": 1
+    },
+    {
+      "id": "3095",
+      "name": "Wehbba",
+      "count": 1
+    },
+    {
+      "id": "134295",
+      "name": "Mágafas",
+      "count": 1
+    },
+    {
+      "id": "134522",
+      "name": "Takis DK",
+      "count": 1
+    },
+    {
+      "id": "139525",
+      "name": "Jacko",
+      "count": 1
+    },
+    {
+      "id": "157778",
+      "name": "OBLIVION (2)",
+      "count": 1
+    }
+  ]
+}

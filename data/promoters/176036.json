@@ -3,6 +3,38 @@
   "name": "Killa Cutz Records ",
   "upcoming": [
     {
+      "id": "ra:2530022",
+      "title": "Killacutz invites SWAG Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530022"
+    },
+    {
+      "id": "ra:2527704",
+      "title": "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527704"
+    },
+    {
+      "id": "ra:2553523",
+      "title": "Killacutz & FURTHER Record Fair [Free Entry]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Frict Amsterdam",
+      "venue_id": "304428",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553523"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2492190",
       "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
       "date": "2026-08-28",
@@ -13,16 +45,55 @@
       "url": "https://ra.co/events/2492190"
     }
   ],
-  "past": [],
   "top_artists": [
-    {
-      "id": "535",
-      "name": "Eddie Richards",
-      "count": 1
-    },
     {
       "id": "76338",
       "name": "Herra",
+      "count": 2
+    },
+    {
+      "id": "45233",
+      "name": "Grant Dell",
+      "count": 1
+    },
+    {
+      "id": "3049",
+      "name": "Boris Werner",
+      "count": 1
+    },
+    {
+      "id": "40602",
+      "name": "Adam Collins",
+      "count": 1
+    },
+    {
+      "id": "131943",
+      "name": "De León",
+      "count": 1
+    },
+    {
+      "id": "144224",
+      "name": "JFK (USA)",
+      "count": 1
+    },
+    {
+      "id": "9362",
+      "name": "T.Linder",
+      "count": 1
+    },
+    {
+      "id": "30330",
+      "name": "Detune",
+      "count": 1
+    },
+    {
+      "id": "9553",
+      "name": "Neil V",
+      "count": 1
+    },
+    {
+      "id": "61034",
+      "name": "DJ Roach",
       "count": 1
     }
   ]

@@ -1,0 +1,20 @@
+{
+  "id": "302371",
+  "name": "Papaverweg 46",
+  "area": "Amsterdam",
+  "lat": 52.4,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2534028",
+      "title": "At Home - NOT ADE Edition II",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Papaverweg 46",
+      "venue_id": "302371",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534028"
+    }
+  ],
+  "past": []
+}

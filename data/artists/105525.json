@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2281919",
-      "title": "A Day at the Park Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Kralingse Bos",
-      "venue_id": "89597",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2281919"
+      "id": "ra:2521836",
+      "title": "EMBER ARTISTS x ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521836"
     },
     {
       "id": "ra:2473386",
@@ -24,5 +24,16 @@
       "url": "https://ra.co/events/2473386"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    }
+  ]
 }

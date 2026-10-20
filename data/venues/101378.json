@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.011753,
   "lng": 4.3578,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520204",
       "title": "Lahvoid Vol.02",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2520204"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2481219",
+      "title": "ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Badhuis Amsterdam",
+      "venue_id": "276109",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481219"
+    },
+    {
+      "id": "ra:2507060",
+      "title": "RARA AVIS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507060"
+    },
+    {
+      "id": "ra:2543225",
+      "title": "Vrijdag is NYX: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543225"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506125",
       "title": "3xNYX: Burn the House Down",
       "date": "2026-09-26",
@@ -12,9 +44,7 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506125"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487494",
       "title": "3xNYX: Burn the House Down",

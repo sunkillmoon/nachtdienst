@@ -2,7 +2,8 @@
   "id": "151048",
   "name": "BTWN NTWRX",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504882",
       "title": "BREAK PROTOCOL #2",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504882"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53.218291,
   "lng": 6.566474,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517690",
       "title": "Hulla by night GP uit G & Friends",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2517690"
     }
-  ],
-  "past": []
+  ]
 }

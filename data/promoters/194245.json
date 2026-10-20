@@ -1,0 +1,54 @@
+{
+  "id": "194245",
+  "name": "MULTINOTES",
+  "upcoming": [
+    {
+      "id": "ra:2540071",
+      "title": "MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540071"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "67229",
+      "name": "Birds of Mind",
+      "count": 1
+    },
+    {
+      "id": "48367",
+      "name": "Lehar",
+      "count": 1
+    },
+    {
+      "id": "2878",
+      "name": "Amine K",
+      "count": 1
+    },
+    {
+      "id": "82758",
+      "name": "Collé",
+      "count": 1
+    },
+    {
+      "id": "122393",
+      "name": "Kanykei",
+      "count": 1
+    },
+    {
+      "id": "188919",
+      "name": "KWEN",
+      "count": 1
+    },
+    {
+      "id": "67090",
+      "name": "Nixxie",
+      "count": 1
+    }
+  ]
+}

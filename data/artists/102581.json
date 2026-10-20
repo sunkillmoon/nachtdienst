@@ -2,7 +2,8 @@
   "id": "102581",
   "name": "Ryan Resso",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466662",
       "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466662"
     }
-  ],
-  "past": []
+  ]
 }

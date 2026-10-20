@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2504901",
-      "title": "Ninsa b2b Vero",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2551458",
+      "title": "FH Agency × CoverMyAss pres. Club Up",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504901"
-    },
+      "url": "https://ra.co/events/2551458"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
@@ -22,7 +24,16 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2504901",
+      "title": "Ninsa b2b Vero",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504901"
     }
-  ],
-  "past": []
+  ]
 }

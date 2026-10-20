@@ -1,0 +1,28 @@
+{
+  "id": "106091",
+  "name": "ASLO",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2551458",
+      "title": "FH Agency × CoverMyAss pres. Club Up",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551458"
+    },
+    {
+      "id": "ra:2551460",
+      "title": "Techno Boat with Space 92, Svetec & more — 2 Floors",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA - EIVISSA",
+      "venue_id": "303920",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551460"
+    }
+  ],
+  "past": []
+}

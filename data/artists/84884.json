@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479292",
-      "title": "Vault All Vinyl WKNDR | Night | RADION",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2520622",
+      "title": "ADE - RAUM invites Clone Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2479292"
+      "url": "https://ra.co/events/2520622"
     },
+    {
+      "id": "ra:2531389",
+      "title": "Vinylism x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531389"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2490543",
       "title": "Afra invites Steve Rachmad & Queen Saba",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2490543"
     },
     {
-      "id": "ra:2520622",
-      "title": "ADE - RAUM invites Clone Records",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
+      "id": "ra:2479292",
+      "title": "Vault All Vinyl WKNDR | Night | RADION",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520622"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2479292"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -42,9 +32,29 @@
       "venue_id": "188055",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494128"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
     }
   ],
   "past": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2490449",
       "title": "OG Records with bullet tooth",

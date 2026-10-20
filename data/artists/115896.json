@@ -1,0 +1,38 @@
+{
+  "id": "115896",
+  "name": "SOROUSH",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2536346",
+      "title": "SVET visual show",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536346"
+    },
+    {
+      "id": "ra:2547220",
+      "title": "KENZi by Day - ADE Edition",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547220"
+    },
+    {
+      "id": "ra:2564254",
+      "title": "Melodic Beats x Beats & Spritz",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Spritz Bar Amsterdam",
+      "venue_id": "305608",
+      "area": "All",
+      "url": "https://ra.co/events/2564254"
+    }
+  ],
+  "past": []
+}

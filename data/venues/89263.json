@@ -4,7 +4,8 @@
   "area": "Utrecht",
   "lat": 52.055901,
   "lng": 5.157784,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2309776",
       "title": "Geheime Liefde, HRFST",
@@ -14,9 +15,7 @@
       "venue_id": "89263",
       "area": "Utrecht",
       "url": "https://ra.co/events/2309776"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",

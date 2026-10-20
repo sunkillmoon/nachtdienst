@@ -1,0 +1,28 @@
+{
+  "id": "183434",
+  "name": "Artur Bredo",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2524168",
+      "title": "friends. THE VIEW - ADE - AMSTERDAM",
+      "date": "2026-10-23",
+      "start": "2026-10-24T01:30+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524168"
+    },
+    {
+      "id": "ra:2563912",
+      "title": "Friends of WORKROOM",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "SHU",
+      "venue_id": "248548",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563912"
+    }
+  ],
+  "past": []
+}

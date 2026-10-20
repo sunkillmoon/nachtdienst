@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53.214175,
   "lng": 6.575659,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2393991",
       "title": "Daft Funk Live in Groningen",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2393991"
     }
-  ],
-  "past": []
+  ]
 }

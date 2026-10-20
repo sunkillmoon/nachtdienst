@@ -2,7 +2,8 @@
   "id": "84966",
   "name": "Danytribe",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490680",
       "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490680"
     }
-  ],
-  "past": []
+  ]
 }

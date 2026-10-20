@@ -6,196 +6,6 @@
   "lng": 4.837281,
   "upcoming": [
     {
-      "id": "ra:2492190",
-      "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
-      "date": "2026-08-28",
-      "start": "2026-08-28T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492190"
-    },
-    {
-      "id": "ra:2514430",
-      "title": "ZEEZOUT FESTIVAL - NIGHT",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514430"
-    },
-    {
-      "id": "ra:2458327",
-      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
-      "date": "2026-08-29",
-      "start": "2026-08-30T05:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458327"
-    },
-    {
-      "id": "ra:2516407",
-      "title": "NOYS CLUB NIGHT",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516407"
-    },
-    {
-      "id": "ra:2514431",
-      "title": "NOYS",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514431"
-    },
-    {
-      "id": "ra:2516402",
-      "title": "Moxes & Emvae All Day Long",
-      "date": "2026-09-05",
-      "start": "2026-09-05T13:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516402"
-    },
-    {
-      "id": "ra:2505813",
-      "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:30+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505813"
-    },
-    {
-      "id": "ra:2514432",
-      "title": "MOXES & EMVAE ALL DAY LONG (18+)",
-      "date": "2026-09-05",
-      "start": "2026-09-05T13:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514432"
-    },
-    {
-      "id": "ra:2495711",
-      "title": "DKMNTL at BRET",
-      "date": "2026-09-06",
-      "start": "2026-09-06T14:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495711"
-    },
-    {
-      "id": "ra:2519779",
-      "title": "CHUNKY",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519779"
-    },
-    {
-      "id": "ra:2516415",
-      "title": "Chunky",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516415"
-    },
-    {
-      "id": "ra:2516383",
-      "title": "Bennet, D'Julz, JUAAN, Shanne",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516383"
-    },
-    {
-      "id": "ra:2516396",
-      "title": "Locklead All Day Long",
-      "date": "2026-09-13",
-      "start": "2026-09-13T15:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516396"
-    },
-    {
-      "id": "ra:2514434",
-      "title": "LOCKLEAD - ALL DAY LONG",
-      "date": "2026-09-13",
-      "start": "2026-09-13T15:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514434"
-    },
-    {
-      "id": "ra:2516420",
-      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516420"
-    },
-    {
-      "id": "ra:2495691",
-      "title": "Lola x BRET - Midas Field Curates",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495691"
-    },
-    {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
-      "date": "2026-09-18",
-      "start": "2026-09-18T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
-    },
-    {
-      "id": "ra:2498896",
-      "title": "SPADES 12 HOURS",
-      "date": "2026-09-19",
-      "start": "2026-09-19T20:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498896"
-    },
-    {
-      "id": "ra:2515423",
-      "title": "PILOT - Sidney Charles (5HRS)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515423"
-    },
-    {
       "id": "ra:2516675",
       "title": "Lobster Invites - Free ADE Event",
       "date": "2026-10-21",
@@ -237,7 +47,7 @@
     },
     {
       "id": "ra:2516700",
-      "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+      "title": "Anz, SHERELLE & MALLAURY x BRET x ADE",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "BRET",
@@ -247,7 +57,7 @@
     },
     {
       "id": "ra:2469603",
-      "title": "VBX - BRET - ADE 24.10",
+      "title": "ADE - VBX - SATURDAY DAY ",
       "date": "2026-10-23",
       "start": "2026-10-24T07:00+02:00",
       "venue": "BRET",
@@ -257,13 +67,23 @@
     },
     {
       "id": "ra:2516705",
-      "title": "DAYCARE - ADE",
+      "title": "DAYCARE x ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516705"
+    },
+    {
+      "id": "ra:2528684",
+      "title": "ADE Sunday with Joseph Capriati (SOLD OUT)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528684"
     },
     {
       "id": "ra:2511591",
@@ -274,9 +94,219 @@
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511591"
+    },
+    {
+      "id": "ra:2528626",
+      "title": "Cloonee",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528626"
+    },
+    {
+      "id": "ra:2528690",
+      "title": "FRENZY 7YRS WKNDR",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528690"
     }
   ],
   "past": [
+    {
+      "id": "ra:2515423",
+      "title": "PILOT - Sidney Charles (5HRS)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515423"
+    },
+    {
+      "id": "ra:2498896",
+      "title": "SPADES 12 HOURS",
+      "date": "2026-09-19",
+      "start": "2026-09-19T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498896"
+    },
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488595"
+    },
+    {
+      "id": "ra:2495691",
+      "title": "Lola x BRET - Midas Field Curates",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495691"
+    },
+    {
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
+      "date": "2026-09-18",
+      "start": "2026-09-18T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516420"
+    },
+    {
+      "id": "ra:2514434",
+      "title": "LOCKLEAD - ALL DAY LONG",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514434"
+    },
+    {
+      "id": "ra:2516396",
+      "title": "Locklead All Day Long",
+      "date": "2026-09-13",
+      "start": "2026-09-13T15:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516396"
+    },
+    {
+      "id": "ra:2516383",
+      "title": "Bennet, D'Julz, JUAAN, Shanne",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516383"
+    },
+    {
+      "id": "ra:2516415",
+      "title": "Chunky",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516415"
+    },
+    {
+      "id": "ra:2519779",
+      "title": "CHUNKY",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519779"
+    },
+    {
+      "id": "ra:2495711",
+      "title": "DKMNTL at BRET",
+      "date": "2026-09-06",
+      "start": "2026-09-06T14:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495711"
+    },
+    {
+      "id": "ra:2505813",
+      "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:30+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505813"
+    },
+    {
+      "id": "ra:2514432",
+      "title": "MOXES & EMVAE ALL DAY LONG (18+)",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514432"
+    },
+    {
+      "id": "ra:2516402",
+      "title": "Moxes & Emvae All Day Long",
+      "date": "2026-09-05",
+      "start": "2026-09-05T13:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516402"
+    },
+    {
+      "id": "ra:2514431",
+      "title": "NOYS",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514431"
+    },
+    {
+      "id": "ra:2516407",
+      "title": "NOYS CLUB NIGHT",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516407"
+    },
+    {
+      "id": "ra:2458327",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
+      "date": "2026-08-29",
+      "start": "2026-08-30T05:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458327"
+    },
+    {
+      "id": "ra:2514430",
+      "title": "ZEEZOUT FESTIVAL - NIGHT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514430"
+    },
+    {
+      "id": "ra:2492190",
+      "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492190"
+    },
     {
       "id": "ra:2512446",
       "title": "AURA - Hashashin ALL DAY LONG",

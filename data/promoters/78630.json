@@ -14,5 +14,26 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "4853",
+      "name": "WhoMadeWho",
+      "count": 1
+    },
+    {
+      "id": "113721",
+      "name": "Charmeine",
+      "count": 1
+    },
+    {
+      "id": "161142",
+      "name": "People Like Us (3)",
+      "count": 1
+    },
+    {
+      "id": "110702",
+      "name": "Tripolism",
+      "count": 1
+    }
+  ]
 }

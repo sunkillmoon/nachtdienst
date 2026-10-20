@@ -2,7 +2,28 @@
   "id": "129419",
   "name": "Pythius",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2560971",
+      "title": "PRSPCT Fundraver for Gaza Skate Team",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560971"
+    },
+    {
+      "id": "ra:2565419",
+      "title": "Cheeky Monday: Pythius",
+      "date": "2026-11-02",
+      "start": "2026-11-02T23:00+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565419"
+    }
+  ],
   "past": [
     {
       "id": "ra:2235347",

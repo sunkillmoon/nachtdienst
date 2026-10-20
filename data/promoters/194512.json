@@ -1,0 +1,24 @@
+{
+  "id": "194512",
+  "name": "Antonio Kasabov",
+  "upcoming": [
+    {
+      "id": "ra:2543290",
+      "title": "Dynamikos Invites",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Amstelhaven",
+      "venue_id": "36614",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543290"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183407",
+      "name": "Hagelslag",
+      "count": 1
+    }
+  ]
+}

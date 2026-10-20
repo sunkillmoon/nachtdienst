@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    },
+    {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -15,7 +25,7 @@
     },
     {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",

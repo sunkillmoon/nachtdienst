@@ -2,7 +2,8 @@
   "id": "179076",
   "name": "Debbie Huisman",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512307",
       "title": "Achter de Muren: Debbie Huisman",
@@ -12,9 +13,7 @@
       "venue_id": "289449",
       "area": "All",
       "url": "https://ra.co/events/2512307"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2504306",
       "title": "OBERHAUM: Garden Radio",

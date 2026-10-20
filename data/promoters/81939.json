@@ -3,6 +3,16 @@
   "name": "PRSPCT",
   "upcoming": [
     {
+      "id": "ra:2560971",
+      "title": "PRSPCT Fundraver for Gaza Skate Team",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560971"
+    },
+    {
       "id": "ra:2452367",
       "title": "GABBERLAND",
       "date": "2026-10-31",
@@ -15,6 +25,26 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "63413",
+      "name": "The Outside Agency",
+      "count": 1
+    },
+    {
+      "id": "129419",
+      "name": "Pythius",
+      "count": 1
+    },
+    {
+      "id": "82006",
+      "name": "DOLPHIN",
+      "count": 1
+    },
+    {
+      "id": "74364",
+      "name": "Thrasher",
+      "count": 1
+    },
     {
       "id": "120166",
       "name": "Art of Fighters",

@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
-    },
-    {
-      "id": "ra:2519563",
-      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519563"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -45,7 +25,7 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
@@ -55,6 +35,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2519563",
+      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519563"
+    },
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2438726",
       "title": "Puur Festival 2026",

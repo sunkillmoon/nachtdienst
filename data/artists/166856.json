@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2493470",
-      "title": "Sissi's by Closecall x Ghosts of Garage",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2493470"
-    },
-    {
-      "id": "ra:2515116",
-      "title": "Golfslag",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Mono",
-      "venue_id": "129182",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2515116"
-    },
-    {
       "id": "ra:2297501",
       "title": "Into the Woods ADE 2026",
       "date": "2026-10-23",
@@ -32,6 +12,16 @@
       "venue_id": "159079",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2297501"
+    },
+    {
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511306"
     },
     {
       "id": "ra:2480629",
@@ -45,6 +35,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2515116",
+      "title": "Golfslag",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Mono",
+      "venue_id": "129182",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2515116"
+    },
+    {
+      "id": "ra:2493470",
+      "title": "Sissi's by Closecall x Ghosts of Garage",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493470"
+    },
     {
       "id": "ra:2498712",
       "title": "RDBLCK x DWNTWN at Litterbox",

@@ -1,0 +1,50 @@
+{
+  "id": "304515",
+  "name": "Club Royal",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2563850",
+      "title": "ADE: ROYAL RUSH with Brent Honey, The Funkmoore Brothers",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563850"
+    },
+    {
+      "id": "ra:2554611",
+      "title": "Club Fair x Overdrive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554611"
+    },
+    {
+      "id": "ra:2563852",
+      "title": "ROYAL RUSH × OVERDRIVE - OFFICIAL ADE AFTERPARTY",
+      "date": "2026-10-22",
+      "start": "2026-10-23T05:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563852"
+    },
+    {
+      "id": "ra:2560764",
+      "title": "ADE: Nachtraaf x ENERGY AMSTERDAM: Bouncy Techno Afterparty",
+      "date": "2026-10-23",
+      "start": "2026-10-24T05:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560764"
+    }
+  ],
+  "past": []
+}

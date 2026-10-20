@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516927",
-      "title": "Ypnotika x PVC",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2547669",
+      "title": "Eclectic Limited · 10 Years",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "8sixa",
+      "venue_id": "204048",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516927"
-    },
+      "url": "https://ra.co/events/2547669"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2514447",
       "title": "YPNOTIKA x PVC",
@@ -22,7 +24,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514447"
+    },
+    {
+      "id": "ra:2516927",
+      "title": "Ypnotika x PVC",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516927"
     }
-  ],
-  "past": []
+  ]
 }

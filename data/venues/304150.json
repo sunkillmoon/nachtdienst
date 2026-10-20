@@ -1,0 +1,20 @@
+{
+  "id": "304150",
+  "name": "Paak Nijmegen",
+  "area": "Nijmegen",
+  "lat": 51.84,
+  "lng": 5.86,
+  "upcoming": [
+    {
+      "id": "ra:2550948",
+      "title": "Ben Gomori: Trax On Da Trax Tour (w/ Borish)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Paak Nijmegen",
+      "venue_id": "304150",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2550948"
+    }
+  ],
+  "past": []
+}

@@ -3,14 +3,126 @@
   "name": "Radio Radio",
   "upcoming": [
     {
-      "id": "ra:2488594",
-      "title": "Flo Masse • Kyra Khaldi • Same Faces",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2532185",
+      "title": "Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
       "venue": "Radio Radio",
       "venue_id": "156530",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488594"
+      "url": "https://ra.co/events/2532185"
+    },
+    {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    },
+    {
+      "id": "ra:2532930",
+      "title": "ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532930"
+    },
+    {
+      "id": "ra:2530827",
+      "title": "ADE: Baskèts x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530827"
+    },
+    {
+      "id": "ra:2560571",
+      "title": "ADE: CLUB LAB x DJ Mag: JAEL, Cinnaman, ARMANA KHAN, Té de Gember, VKANG, Valentina",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560571"
+    },
+    {
+      "id": "ra:2532995",
+      "title": "ADE:  Identified Patient b2b mad miran — All Day Long",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532995"
+    },
+    {
+      "id": "ra:2532950",
+      "title": "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532950"
+    },
+    {
+      "id": "ra:2533024",
+      "title": "ADE: LITTLEBIG with Marie Montexier b2b KiNK • George FitzGerald",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533024"
+    },
+    {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
+    },
+    {
+      "id": "ra:2538683",
+      "title": "Moody Mehran • Miguel De Bois",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538683"
+    },
+    {
+      "id": "ra:2538695",
+      "title": "I-F • Intergalactic Gary • Eileen",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538695"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2509095",
+      "title": "Ecclipse",
+      "date": "2026-09-19",
+      "start": "2026-09-19T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509095"
     },
     {
       "id": "ra:2488580",
@@ -23,17 +135,15 @@
       "url": "https://ra.co/events/2488580"
     },
     {
-      "id": "ra:2509095",
-      "title": "Ecclipse",
-      "date": "2026-09-19",
-      "start": "2026-09-19T16:00+02:00",
+      "id": "ra:2488594",
+      "title": "Flo Masse • Kyra Khaldi • Same Faces",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
       "venue": "Radio Radio",
       "venue_id": "156530",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509095"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2488594"
+    },
     {
       "id": "ra:2492123",
       "title": "DJ Life • Moxes • lizz.e",
@@ -157,53 +267,53 @@
   ],
   "top_artists": [
     {
-      "id": "97069",
-      "name": "Flo Massé",
+      "id": "43115",
+      "name": "Cinnaman",
+      "count": 2
+    },
+    {
+      "id": "77346",
+      "name": "mad miran",
+      "count": 2
+    },
+    {
+      "id": "84801",
+      "name": "Bambii",
       "count": 1
     },
     {
-      "id": "118668",
-      "name": "Kyra Khaldi",
+      "id": "79743",
+      "name": "Greg (2)",
       "count": 1
     },
     {
-      "id": "171280",
-      "name": "SAMEFACES",
+      "id": "90784",
+      "name": "Logic1000",
       "count": 1
     },
     {
-      "id": "27408",
-      "name": "Dam Swindle",
+      "id": "80124",
+      "name": "Miley Serious",
       "count": 1
     },
     {
-      "id": "162897",
-      "name": "Cleo Grooves",
+      "id": "1362",
+      "name": "Busy P",
       "count": 1
     },
     {
-      "id": "186988",
-      "name": "Lex Valverde",
+      "id": "993",
+      "name": "Chloé",
       "count": 1
     },
     {
-      "id": "105271",
-      "name": "Cybersex",
+      "id": "118742",
+      "name": "Tatyana Jane",
       "count": 1
     },
     {
-      "id": "105235",
-      "name": "N.R.M",
-      "count": 1
-    },
-    {
-      "id": "118674",
-      "name": "TWIENA",
-      "count": 1
-    },
-    {
-      "id": "168116",
-      "name": "MXV (1)",
+      "id": "53176",
+      "name": "Mad Rey",
       "count": 1
     }
   ]

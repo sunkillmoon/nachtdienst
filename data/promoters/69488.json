@@ -6,7 +6,7 @@
       "id": "ra:2491520",
       "title": "Polifonic & SMIILE ADE 2026",
       "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
+      "start": "2026-10-22T20:00+02:00",
       "venue": "Klaproos",
       "venue_id": "175707",
       "area": "Amsterdam",
@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "30219",
+      "name": "Call Super",
+      "count": 1
+    },
+    {
+      "id": "108161",
+      "name": "Katia Curie",
+      "count": 1
+    },
+    {
+      "id": "85915",
+      "name": "Chloé Caillet",
+      "count": 1
+    },
+    {
+      "id": "48101",
+      "name": "Roi Perez",
+      "count": 1
+    },
+    {
+      "id": "90",
+      "name": "Craig Richards",
+      "count": 1
+    },
+    {
+      "id": "34565",
+      "name": "Luna Ludmila",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 1
+    },
+    {
+      "id": "699",
+      "name": "Jen Cardini",
+      "count": 1
+    },
+    {
+      "id": "103515",
+      "name": "Aldonna",
+      "count": 1
+    },
+    {
+      "id": "106497",
+      "name": "Pascal Moscheni",
+      "count": 1
+    }
+  ]
 }

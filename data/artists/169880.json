@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2537381",
+      "title": "ADE 12-hour party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Rijnbar",
+      "venue_id": "302751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537381"
+    },
+    {
       "id": "ra:2499130",
       "title": "MOOV - ADE Edition",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "2763",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499130"
+    },
+    {
+      "id": "ra:2546058",
+      "title": "The Homeless Trovador by Not Demure & Friends",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546058"
     }
   ],
   "past": []

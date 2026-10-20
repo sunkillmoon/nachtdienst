@@ -2,16 +2,17 @@
   "id": "151965",
   "name": "LevyM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2477038",
-      "title": "Ópalo - 4YR Anniversary",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2473506",
+      "title": "Madam by Night invites: LevyM & Nomis",
+      "date": "2026-10-10",
+      "start": "2026-10-10T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2477038"
+      "url": "https://ra.co/events/2473506"
     },
     {
       "id": "ra:2517573",
@@ -24,17 +25,15 @@
       "url": "https://ra.co/events/2517573"
     },
     {
-      "id": "ra:2473506",
-      "title": "Madam by Night invites: LevyM & Nomis",
-      "date": "2026-10-10",
-      "start": "2026-10-10T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
+      "id": "ra:2477038",
+      "title": "Ópalo - 4YR Anniversary",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2473506"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2477038"
+    },
     {
       "id": "ra:2476013",
       "title": "Ópalo at The Crane",

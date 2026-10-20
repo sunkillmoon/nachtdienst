@@ -1,0 +1,28 @@
+{
+  "id": "79434",
+  "name": "Glowal",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540311",
+      "title": "ADE 26: Melodic Deep - Ten Years In Motion Club Train",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540311"
+    },
+    {
+      "id": "ra:2553438",
+      "title": "Korolova PRESENT CAPTIVE SOUL - AMSTERDAM (NL)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Koepelkerk",
+      "venue_id": "176663",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553438"
+    }
+  ],
+  "past": []
+}

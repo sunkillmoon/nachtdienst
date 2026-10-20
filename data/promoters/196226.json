@@ -1,0 +1,29 @@
+{
+  "id": "196226",
+  "name": "TEMP",
+  "upcoming": [
+    {
+      "id": "ra:2563893",
+      "title": "THE ELECTRONIC MUSIC BOOK - LAUNCH",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Concerto Recordstore",
+      "venue_id": "149748",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563893"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "82758",
+      "name": "Collé",
+      "count": 1
+    },
+    {
+      "id": "12505",
+      "name": "Leon",
+      "count": 1
+    }
+  ]
+}

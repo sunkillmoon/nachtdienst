@@ -1,7 +1,8 @@
 {
   "id": "74959",
   "name": "Nachtparlement",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512317",
       "title": "Perifest 2026",
@@ -11,9 +12,7 @@
       "venue_id": "10953",
       "area": "All",
       "url": "https://ra.co/events/2512317"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2363397",
       "title": "Het Systeem",
@@ -32,48 +31,48 @@
       "count": 2
     },
     {
-      "id": "129501",
-      "name": "Stefanie Egedy",
+      "id": "4619",
+      "name": "Sandrien",
       "count": 1
     },
     {
-      "id": "1703",
-      "name": "Speedy J",
+      "id": "140652",
+      "name": "Hervé",
       "count": 1
     },
     {
-      "id": "161672",
-      "name": "Ryosuke Kiyasu",
+      "id": "18524",
+      "name": "Pariah",
       "count": 1
     },
     {
-      "id": "115066",
-      "name": "Rama (2)",
+      "id": "85061",
+      "name": "Ogazón",
       "count": 1
     },
     {
-      "id": "37152",
-      "name": "Charlemagne Palestine",
+      "id": "95701",
+      "name": "Julie",
       "count": 1
     },
     {
-      "id": "119509",
-      "name": "cadeu",
+      "id": "82409",
+      "name": "Jasmín",
       "count": 1
     },
     {
-      "id": "119726",
-      "name": "silend",
+      "id": "74853",
+      "name": "Jesse G",
       "count": 1
     },
     {
-      "id": "171334",
-      "name": "ece era",
+      "id": "77651",
+      "name": "Rene Wise",
       "count": 1
     },
     {
-      "id": "4032",
-      "name": "Brian Eno",
+      "id": "75445",
+      "name": "upsammy",
       "count": 1
     }
   ]

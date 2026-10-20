@@ -3,6 +3,48 @@
   "name": "Joachim Willemse",
   "upcoming": [
     {
+      "id": "ra:2563850",
+      "title": "ADE: ROYAL RUSH with Brent Honey, The Funkmoore Brothers",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563850"
+    },
+    {
+      "id": "ra:2563852",
+      "title": "ROYAL RUSH × OVERDRIVE - OFFICIAL ADE AFTERPARTY",
+      "date": "2026-10-22",
+      "start": "2026-10-23T05:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563852"
+    },
+    {
+      "id": "ra:2540596",
+      "title": "ADE: Nachtraaf x 252 - TECHNO & HOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "303096",
+      "area": "All",
+      "url": "https://ra.co/events/2540596"
+    },
+    {
+      "id": "ra:2560764",
+      "title": "ADE: Nachtraaf x ENERGY AMSTERDAM: Bouncy Techno Afterparty",
+      "date": "2026-10-23",
+      "start": "2026-10-24T05:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560764"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2510243",
       "title": "JØASE ANL - FREE RAVE",
       "date": "2026-08-29",
@@ -11,9 +53,7 @@
       "venue_id": "299768",
       "area": "All",
       "url": "https://ra.co/events/2510243"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2496598",
       "title": "JØASE ANL - FREE PRIDE RAVE",
@@ -39,7 +79,47 @@
     {
       "id": "131712",
       "name": "JØASE",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "130123",
+      "name": "MØNA",
+      "count": 1
+    },
+    {
+      "id": "138698",
+      "name": "Niall Kelly",
+      "count": 1
+    },
+    {
+      "id": "63868",
+      "name": "Nina de Koning",
+      "count": 1
+    },
+    {
+      "id": "155770",
+      "name": "RawB",
+      "count": 1
+    },
+    {
+      "id": "58518",
+      "name": "Be Lion",
+      "count": 1
+    },
+    {
+      "id": "173724",
+      "name": "Hris East",
+      "count": 1
+    },
+    {
+      "id": "159186",
+      "name": "MIESØ",
+      "count": 1
+    },
+    {
+      "id": "181798",
+      "name": "Kingsmo",
+      "count": 1
     }
   ]
 }

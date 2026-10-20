@@ -1,0 +1,38 @@
+{
+  "id": "66383",
+  "name": "Eric Ross",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2530043",
+      "title": "ADE RECORD SHOW CASE - TECHNO",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "TBA -   STAY TUNED ",
+      "venue_id": "301913",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530043"
+    },
+    {
+      "id": "ra:2527704",
+      "title": "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527704"
+    },
+    {
+      "id": "ra:2543318",
+      "title": "Killacutz INVITES  FOLD THEORY X DETROIT TECHNO MILITIA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543318"
+    }
+  ],
+  "past": []
+}

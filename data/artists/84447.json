@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2494226",
-      "title": "KI/KI's Dirty Thirty",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494226"
-    },
-    {
       "id": "ra:2401347",
       "title": "KI/KI 5 HOURS - ADE 2026",
       "date": "2026-10-22",
@@ -34,5 +24,16 @@
       "url": "https://ra.co/events/2403373"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2494226",
+      "title": "KI/KI's Dirty Thirty",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494226"
+    }
+  ]
 }

@@ -1,7 +1,18 @@
 {
   "id": "192052",
   "name": "IMPREZA",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2552225",
+      "title": "ВОЗВРАЩАЕМСЯ В 2K17 С IMPREZA - ГРОНИНГЕН",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "TBA - Pitchers Bar",
+      "venue_id": "302279",
+      "area": "All",
+      "url": "https://ra.co/events/2552225"
+    }
+  ],
   "past": [
     {
       "id": "ra:2516011",

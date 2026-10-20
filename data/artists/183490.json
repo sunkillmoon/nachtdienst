@@ -2,7 +2,18 @@
   "id": "183490",
   "name": "Sonan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2505836",
       "title": "NO SUITS - Thank You For Dancing",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505836"
     },
-    {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2460482",
       "title": "BUFU presents: Sonan b2b Didier Armeni - All Night Long",

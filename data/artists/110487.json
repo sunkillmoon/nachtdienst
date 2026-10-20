@@ -2,7 +2,8 @@
   "id": "110487",
   "name": "Anacalypto",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493000",
       "title": "Anacalypto & Friends",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493000"
     }
-  ],
-  "past": []
+  ]
 }

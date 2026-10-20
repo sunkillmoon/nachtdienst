@@ -1,0 +1,39 @@
+{
+  "id": "88703",
+  "name": "Modern Agenda",
+  "upcoming": [
+    {
+      "id": "ra:2562407",
+      "title": "LIA Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562407"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "167501",
+      "name": "BlanchEcho",
+      "count": 1
+    },
+    {
+      "id": "172708",
+      "name": "K-VIII",
+      "count": 1
+    },
+    {
+      "id": "125906",
+      "name": "Nadia",
+      "count": 1
+    },
+    {
+      "id": "119289",
+      "name": "Rossa",
+      "count": 1
+    }
+  ]
+}

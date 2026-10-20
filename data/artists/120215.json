@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
-    {
-      "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491639"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -65,7 +35,7 @@
     },
     {
       "id": "ra:2452022",
-      "title": "GASHOUDER presents: Josh Baker",
+      "title": "GASHOUDER presents: Josh Baker [Sold Out]",
       "date": "2026-10-25",
       "start": "2026-10-25T14:30+01:00",
       "venue": "GASHOUDER",
@@ -75,6 +45,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2448066",
       "title": "Colorado Charlie with Marsolo (All Day Long) (SOLD OUT)",

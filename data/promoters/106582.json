@@ -11,6 +11,16 @@
       "venue_id": "71387",
       "area": "All",
       "url": "https://ra.co/events/2442667"
+    },
+    {
+      "id": "ra:2556692",
+      "title": "WAVY At The Church",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556692"
     }
   ],
   "past": [
@@ -27,53 +37,53 @@
   ],
   "top_artists": [
     {
+      "id": "102981",
+      "name": "Tommy Phillips",
+      "count": 3
+    },
+    {
+      "id": "128586",
+      "name": "Joss Dean",
+      "count": 2
+    },
+    {
       "id": "98015",
       "name": "Max Dean",
       "count": 1
     },
     {
+      "id": "153969",
+      "name": "Luke Dean_",
+      "count": 1
+    },
+    {
+      "id": "118815",
+      "name": "Jamback",
+      "count": 1
+    },
+    {
+      "id": "115051",
+      "name": "Locky",
+      "count": 1
+    },
+    {
+      "id": "76335",
+      "name": "Mason Collective",
+      "count": 1
+    },
+    {
+      "id": "41111",
+      "name": "George Smeddles",
+      "count": 1
+    },
+    {
+      "id": "62082",
+      "name": "Riley",
+      "count": 1
+    },
+    {
       "id": "60223",
       "name": "Ben Sterling",
-      "count": 1
-    },
-    {
-      "id": "96447",
-      "name": "SOSA (UK)",
-      "count": 1
-    },
-    {
-      "id": "172891",
-      "name": "Cam Stockman",
-      "count": 1
-    },
-    {
-      "id": "128586",
-      "name": "Joss Dean",
-      "count": 1
-    },
-    {
-      "id": "102981",
-      "name": "Tommy Phillips",
-      "count": 1
-    },
-    {
-      "id": "153028",
-      "name": "Benja (NL)",
-      "count": 1
-    },
-    {
-      "id": "166856",
-      "name": "Itz3bby",
-      "count": 1
-    },
-    {
-      "id": "6505",
-      "name": "Joey Daniel",
-      "count": 1
-    },
-    {
-      "id": "87585",
-      "name": "Ale De Tuglie",
       "count": 1
     }
   ]

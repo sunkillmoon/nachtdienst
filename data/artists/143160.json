@@ -2,7 +2,8 @@
   "id": "143160",
   "name": "Alírio",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490626",
       "title": "Six Sex PRESENTS",
@@ -12,9 +13,7 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490626"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501667",
       "title": "POING FESTIVAL after hours",

@@ -4,6 +4,48 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2552070",
+      "title": "BULLDOG x VULGED",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552070"
+    },
+    {
+      "id": "ra:2492405",
+      "title": "LNR: Local Night RADION - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2533075",
+      "title": "Backspin x Mixmag NL [daytime 2-10pm]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533075"
+    },
+    {
+      "id": "ra:2528841",
+      "title": "Frenzy 7YRS WKNDR",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528841"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2500670",
       "title": "RADION Season Opener",
       "date": "2026-09-05",
@@ -13,18 +55,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500670"
     },
-    {
-      "id": "ra:2492405",
-      "title": "LNR - ADE edition",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492405"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2501507",
       "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",

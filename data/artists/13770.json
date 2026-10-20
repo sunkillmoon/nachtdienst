@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2479106",
+      "title": "Awakenings ADE - Drumcode",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479106"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2448883",
       "title": "Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen",
       "date": "2026-09-25",
@@ -12,17 +24,6 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2448883"
-    },
-    {
-      "id": "ra:2479106",
-      "title": "Awakenings ADE - Drumcode",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "Sugarfactory",
-      "venue_id": "277115",
-      "area": "All",
-      "url": "https://ra.co/events/2479106"
     }
-  ],
-  "past": []
+  ]
 }

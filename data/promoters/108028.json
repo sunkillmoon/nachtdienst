@@ -1,0 +1,34 @@
+{
+  "id": "108028",
+  "name": "Lisergica",
+  "upcoming": [
+    {
+      "id": "ra:2552399",
+      "title": "RPU invites Lisergica: Pentanisia",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "TBA - Secret Location",
+      "venue_id": "200099",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552399"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "116159",
+      "name": "Wendy Bkz",
+      "count": 1
+    },
+    {
+      "id": "113633",
+      "name": "lōrenzo",
+      "count": 1
+    },
+    {
+      "id": "185282",
+      "name": "Todds",
+      "count": 1
+    }
+  ]
+}

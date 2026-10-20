@@ -1,0 +1,50 @@
+{
+  "id": "305510",
+  "name": "a Sense of Place",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2563645",
+      "title": "SAFE ENOUGH TO CREATE. A forum by Amstel Bleach x FuLi",
+      "date": "2026-10-22",
+      "start": "2026-10-22T10:00+02:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563645"
+    },
+    {
+      "id": "ra:2563659",
+      "title": "a Sense of Place presents: Soft Signals",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563659"
+    },
+    {
+      "id": "ra:2563662",
+      "title": "FuLi presents: Infusing Hi-Fidelity Coffee Sessions",
+      "date": "2026-10-24",
+      "start": "2026-10-24T10:00+02:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563662"
+    },
+    {
+      "id": "ra:2563663",
+      "title": "Selectors Sunday - Orbit Wax invites",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563663"
+    }
+  ],
+  "past": []
+}

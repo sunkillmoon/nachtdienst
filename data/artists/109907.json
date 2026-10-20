@@ -4,6 +4,46 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2545080",
+      "title": "AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545080"
+    },
+    {
+      "id": "ra:2551458",
+      "title": "FH Agency × CoverMyAss pres. Club Up",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551458"
+    },
+    {
+      "id": "ra:2551460",
+      "title": "Techno Boat with Space 92, Svetec & more — 2 Floors",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA - EIVISSA",
+      "venue_id": "303920",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551460"
+    },
+    {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    },
+    {
       "id": "ra:2503464",
       "title": "ADE Train Sunrise Express - IAM Productions",
       "date": "2026-10-24",

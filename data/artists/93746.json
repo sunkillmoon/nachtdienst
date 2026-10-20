@@ -4,14 +4,34 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
+      "id": "ra:2537607",
+      "title": "Tale of Bus ADE - Instore",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
+      "url": "https://ra.co/events/2537607"
+    },
+    {
+      "id": "ra:2542850",
+      "title": "Trickpony x Omnibus: ADE Affair with Brennan & Hannecart",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Bar How",
+      "venue_id": "303331",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542850"
+    },
+    {
+      "id": "ra:2469603",
+      "title": "ADE - VBX - SATURDAY DAY ",
+      "date": "2026-10-23",
+      "start": "2026-10-24T07:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469603"
     },
     {
       "id": "ra:2463250",
@@ -35,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
     {
       "id": "ra:2452373",
       "title": "VBX BRET",

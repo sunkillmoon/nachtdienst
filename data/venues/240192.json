@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": 52.07,
   "lng": 4.3,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504015",
       "title": "Disco Negroni by Radio Tornado",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2504015"
     }
-  ],
-  "past": []
+  ]
 }

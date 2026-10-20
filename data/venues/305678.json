@@ -1,0 +1,20 @@
+{
+  "id": "305678",
+  "name": "Liev Coffee & Pastry",
+  "area": "Amsterdam",
+  "lat": 52.35,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2565131",
+      "title": "Techno & Coffee",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Liev Coffee & Pastry",
+      "venue_id": "305678",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565131"
+    }
+  ],
+  "past": []
+}

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2442667",
+      "title": "Max Dean & Wavy present: NEXUP [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2442667"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512344",
       "title": "JOY - The Closing",
       "date": "2026-09-19",
@@ -12,9 +24,7 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512344"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466518",
       "title": "Wavy Summer Festival",

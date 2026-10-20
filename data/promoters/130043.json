@@ -3,6 +3,18 @@
   "name": "Alex Bolano van Hessen",
   "upcoming": [
     {
+      "id": "ra:2561297",
+      "title": "KE-RIKO x ADE 24H Music Marathon - Latin House ADE Closing Party",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561297"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518968",
       "title": "KE-RIKO x ALEX B-DAY BASH",
       "date": "2026-08-29",
@@ -13,6 +25,46 @@
       "url": "https://ra.co/events/2518968"
     }
   ],
-  "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "56600",
+      "name": "Argüello",
+      "count": 1
+    },
+    {
+      "id": "163027",
+      "name": "BRA/DAN",
+      "count": 1
+    },
+    {
+      "id": "51933",
+      "name": "CasaNova",
+      "count": 1
+    },
+    {
+      "id": "10747",
+      "name": "Gandalf",
+      "count": 1
+    },
+    {
+      "id": "177692",
+      "name": "INOFF",
+      "count": 1
+    },
+    {
+      "id": "130243",
+      "name": "Jurgen Booi",
+      "count": 1
+    },
+    {
+      "id": "145247",
+      "name": "Leandro (DE)",
+      "count": 1
+    },
+    {
+      "id": "37717",
+      "name": "Planas",
+      "count": 1
+    }
+  ]
 }

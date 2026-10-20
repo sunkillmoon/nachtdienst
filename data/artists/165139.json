@@ -2,7 +2,8 @@
   "id": "165139",
   "name": "JAY C",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496553",
       "title": "Andrew Azara, Traumer b2b Janeret",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496553"
     }
-  ],
-  "past": []
+  ]
 }

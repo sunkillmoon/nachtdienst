@@ -1,0 +1,38 @@
+{
+  "id": "137442",
+  "name": "Judoc",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2529930",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529930"
+    },
+    {
+      "id": "ra:2529943",
+      "title": "ZU HAUSE at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529943"
+    },
+    {
+      "id": "ra:2562147",
+      "title": "Dirty Disco Showcase with the Dirty Disco Crew & Special Guest DJ's",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562147"
+    }
+  ],
+  "past": []
+}

@@ -1,7 +1,18 @@
 {
   "id": "171783",
   "name": "Studio508amsterdam",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2527116",
+      "title": "Studio 508 x Sound Metaphors & Friends | 2026 CALL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Studio 508",
+      "venue_id": "295898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527116"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495644",
@@ -15,6 +26,31 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "178598",
+      "name": "Adrien (2)",
+      "count": 1
+    },
+    {
+      "id": "11634",
+      "name": "Jonny Rock",
+      "count": 1
+    },
+    {
+      "id": "849",
+      "name": "Optimo (Espacio)",
+      "count": 1
+    },
+    {
+      "id": "115672",
+      "name": "Richelle Soigni",
+      "count": 1
+    },
+    {
+      "id": "68560",
+      "name": "Sound Metaphors Djs",
+      "count": 1
+    },
     {
       "id": "186314",
       "name": "Spiritual Embassy",

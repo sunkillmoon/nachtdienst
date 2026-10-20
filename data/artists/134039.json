@@ -4,24 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2461883",
-      "title": "Back To Base at the Beach - Daria Kolosova",
-      "date": "2026-09-05",
-      "start": "2026-09-05T19:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2461883"
+      "id": "ra:2506898",
+      "title": "De Binnenstad x SUPERSTRINGS Invites",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506898"
     },
     {
-      "id": "ra:2281919",
-      "title": "A Day at the Park Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Kralingse Bos",
-      "venue_id": "89597",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2281919"
+      "id": "ra:2564769",
+      "title": "CLUB NIGHT",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564769"
     },
     {
       "id": "ra:2502546",
@@ -35,6 +35,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2461883",
+      "title": "Back To Base at the Beach - Daria Kolosova",
+      "date": "2026-09-05",
+      "start": "2026-09-05T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2461883"
+    },
     {
       "id": "ra:2485525",
       "title": "Park Kronenburg",

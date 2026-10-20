@@ -3,18 +3,8 @@
   "name": "Breakfast Club Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2434861",
-      "title": "Phono Lake Festival",
-      "date": "2026-09-12",
-      "start": "2026-09-12T13:00+02:00",
-      "venue": "Phono Lake",
-      "venue_id": "242264",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2434861"
-    },
-    {
       "id": "ra:2492381",
-      "title": "One Long Groove",
+      "title": "Breakfast Club ADE: One Long Groove",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Pllek",
@@ -24,7 +14,7 @@
     },
     {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -34,7 +24,7 @@
     },
     {
       "id": "ra:2494395",
-      "title": "Runner's High",
+      "title": "Breakfast Club ADE: Runner's High",
       "date": "2026-10-24",
       "start": "2026-10-24T09:00+02:00",
       "venue": "RADION",
@@ -44,7 +34,7 @@
     },
     {
       "id": "ra:2494410",
-      "title": "Second Wind",
+      "title": "Breakfast Club ADE: Second Wind",
       "date": "2026-10-25",
       "start": "2026-10-25T09:00+01:00",
       "venue": "RADION",
@@ -54,7 +44,7 @@
     },
     {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",
@@ -63,16 +53,27 @@
       "url": "https://ra.co/events/2494430"
     }
   ],
-  "past": [],
-  "top_artists": [
+  "past": [
     {
-      "id": "116675",
-      "name": "Marie K (1)",
-      "count": 3
-    },
+      "id": "ra:2434861",
+      "title": "Phono Lake Festival",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2434861"
+    }
+  ],
+  "top_artists": [
     {
       "id": "71996",
       "name": "Gene On Earth",
+      "count": 3
+    },
+    {
+      "id": "116675",
+      "name": "Marie K (1)",
       "count": 3
     },
     {

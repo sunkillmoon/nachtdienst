@@ -1,0 +1,38 @@
+{
+  "id": "102",
+  "name": "Kenny Dope",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540292",
+      "title": "Vessel presents: Kenny Dope, Todd Terry, Roland Clark, + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540292"
+    },
+    {
+      "id": "ra:2539500",
+      "title": "Vessel presents Kenny Dope & Todd Terry",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539500"
+    },
+    {
+      "id": "ra:2527059",
+      "title": "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527059"
+    }
+  ],
+  "past": []
+}

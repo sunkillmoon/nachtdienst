@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2404225",
-      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
-      "date": "2026-10-03",
-      "start": "2026-10-03T14:00+02:00",
-      "venue": "Maassilo",
-      "venue_id": "4902",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2404225"
-    },
-    {
       "id": "ra:2404228",
       "title": "Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026",
       "date": "2026-11-07",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    },
     {
       "id": "ra:2392340",
       "title": "SOLD OUT Summer of Love Festival 2026",

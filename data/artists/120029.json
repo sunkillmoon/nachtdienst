@@ -1,0 +1,38 @@
+{
+  "id": "120029",
+  "name": "MiNNA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2516701",
+      "title": "Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516701"
+    },
+    {
+      "id": "ra:2551155",
+      "title": "Disco Saves The Day presents: MiNNA & Laura Meester",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551155"
+    },
+    {
+      "id": "ra:2564589",
+      "title": "Djoon Paris x Canvas Nights [ADE] DISCOVERY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564589"
+    }
+  ],
+  "past": []
+}

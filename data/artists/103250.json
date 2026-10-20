@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2560257",
+      "title": "ESTRELLA invites friends at GOT.DRIP",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560257"
+    },
+    {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",

@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2520825",
-      "title": "MOOD & Friends",
-      "date": "2026-09-19",
-      "start": "2026-09-19T15:00+02:00",
-      "venue": "Benelux BAR",
-      "venue_id": "217595",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520825"
-    },
-    {
       "id": "ra:2494410",
-      "title": "Second Wind",
+      "title": "Breakfast Club ADE: Second Wind",
       "date": "2026-10-25",
       "start": "2026-10-25T09:00+01:00",
       "venue": "RADION",
@@ -25,7 +15,7 @@
     },
     {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2520825",
+      "title": "MOOD & Friends",
+      "date": "2026-09-19",
+      "start": "2026-09-19T15:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520825"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

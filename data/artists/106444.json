@@ -4,24 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436233",
-      "title": "Rotterdam Rave Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
-      "venue": "Ahoy Rotterdam",
-      "venue_id": "988",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2436233"
-    },
-    {
-      "id": "ra:2505886",
-      "title": "ROTTERDAM RAVE FESTIVAL",
-      "date": "2026-08-29",
-      "start": "2026-08-29T20:00+02:00",
-      "venue": "Ahoy Rotterdam",
-      "venue_id": "988",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2505886"
+      "id": "ra:2550970",
+      "title": "VERKNIPT ADE Special Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550970"
     },
     {
       "id": "ra:2505903",
@@ -45,6 +35,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436233",
+      "title": "Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436233"
+    },
+    {
+      "id": "ra:2505886",
+      "title": "ROTTERDAM RAVE FESTIVAL",
+      "date": "2026-08-29",
+      "start": "2026-08-29T20:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2505886"
+    },
     {
       "id": "ra:2505877",
       "title": "NACHT WACHT FESTIVAL [KARAXHELLER]",

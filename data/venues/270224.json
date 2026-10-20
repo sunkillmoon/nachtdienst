@@ -1,0 +1,50 @@
+{
+  "id": "270224",
+  "name": "Café Café Bar Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2529463",
+      "title": "Hyperactive World Amsterdam at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529463"
+    },
+    {
+      "id": "ra:2536139",
+      "title": "[CANCELLED] D'EAUPE Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536139"
+    },
+    {
+      "id": "ra:2529524",
+      "title": "Together Alone x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529524"
+    },
+    {
+      "id": "ra:2499556",
+      "title": "Alien Communications x Craigie Knowes ADE with DJ Masda, Reptant & Luna Ludmila",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499556"
+    }
+  ],
+  "past": []
+}

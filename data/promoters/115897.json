@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2485437",
-      "title": "OBSCUUR ADE with Antonym, Jim Jonathan,OnlyWithYou, KLING&KLANG, PartyPi",
+      "title": "OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "Toekomstmuziek",
@@ -14,7 +14,7 @@
     },
     {
       "id": "ra:2485446",
-      "title": "OBSCUUR x Trancecore ADE with DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE, Amøn",
+      "title": "OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "Toekomstmuziek",
@@ -38,6 +38,11 @@
     {
       "id": "104121",
       "name": "KLING&KLANG",
+      "count": 1
+    },
+    {
+      "id": "176750",
+      "name": "Lillie",
       "count": 1
     },
     {
@@ -66,13 +71,8 @@
       "count": 1
     },
     {
-      "id": "102552",
-      "name": "Kø:lab",
-      "count": 1
-    },
-    {
-      "id": "146992",
-      "name": "DJ DRECKISCH",
+      "id": "141485",
+      "name": "zwilling.",
       "count": 1
     }
   ]

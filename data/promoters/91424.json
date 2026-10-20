@@ -1,7 +1,8 @@
 {
   "id": "91424",
   "name": "Unsilenced",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498987",
       "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2498987"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "87138",

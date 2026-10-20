@@ -4,14 +4,34 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479566",
-      "title": "Lofi by Tjade",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2479566"
+      "url": "https://ra.co/events/2544904"
+    },
+    {
+      "id": "ra:2526144",
+      "title": "20 years of The Warehouse Project",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526144"
+    },
+    {
+      "id": "ra:2505049",
+      "title": "Mano Le Tough pres. Maeve x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505049"
     },
     {
       "id": "ra:2495403",
@@ -25,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2479566",
+      "title": "Lofi by Tjade",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479566"
+    },
     {
       "id": "ra:2476138",
       "title": "Luke Alessi (all night)",

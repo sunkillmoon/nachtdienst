@@ -3,32 +3,12 @@
   "name": "Intercell",
   "upcoming": [
     {
-      "id": "ra:2465223",
-      "title": "Intercell Groningen",
-      "date": "2026-09-19",
-      "start": "2026-09-19T13:00+02:00",
-      "venue": "De Toekomst",
-      "venue_id": "294777",
-      "area": "All",
-      "url": "https://ra.co/events/2465223"
-    },
-    {
-      "id": "ra:2465233",
-      "title": "Intercell Papierfabriek",
-      "date": "2026-10-03",
-      "start": "2026-10-03T13:00+02:00",
-      "venue": "De Papierfabriek",
-      "venue_id": "280996",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2465233"
-    },
-    {
       "id": "ra:2473295",
       "title": "Intercell ADE Kickoff | ADE By Day",
       "date": "2026-10-21",
       "start": "2026-10-21T17:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473295"
     },
@@ -41,6 +21,16 @@
       "venue_id": "66507",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473316"
+    },
+    {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
     },
     {
       "id": "ra:2473364",
@@ -67,8 +57,8 @@
       "title": "Intercell x Oscar Mulero Invites | ADE By Night",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473366"
     },
@@ -97,8 +87,8 @@
       "title": "Intercell x Skin On Skin Invites - ADE By Day",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473385"
     },
@@ -127,8 +117,8 @@
       "title": "Intercell x fumi Invites - ADE By Day",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473393"
     },
@@ -155,6 +145,26 @@
   ],
   "past": [
     {
+      "id": "ra:2465233",
+      "title": "Intercell Papierfabriek",
+      "date": "2026-10-03",
+      "start": "2026-10-03T13:00+02:00",
+      "venue": "De Papierfabriek",
+      "venue_id": "280996",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2465233"
+    },
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
+    },
+    {
       "id": "ra:2465506",
       "title": "Intercell Industrial Night",
       "date": "2026-08-01",
@@ -172,48 +182,48 @@
       "count": 2
     },
     {
-      "id": "142130",
-      "name": "SAIDAH",
-      "count": 2
-    },
-    {
       "id": "79470",
       "name": "Skin On Skin",
       "count": 2
     },
     {
-      "id": "103401",
-      "name": "Doudou MD",
+      "id": "142130",
+      "name": "SAIDAH",
+      "count": 2
+    },
+    {
+      "id": "67356",
+      "name": "999999999",
       "count": 1
     },
     {
-      "id": "136611",
-      "name": "Emmz",
+      "id": "93149",
+      "name": "DJ Hyperdrive",
       "count": 1
     },
     {
-      "id": "151923",
-      "name": "Emvae",
+      "id": "103700",
+      "name": "Supergloss",
       "count": 1
     },
     {
-      "id": "145217",
-      "name": "Moxes",
+      "id": "130776",
+      "name": "SAMOH",
       "count": 1
     },
     {
-      "id": "26085",
-      "name": "Job Jobse",
+      "id": "149393",
+      "name": "Yasmin Regisford",
       "count": 1
     },
     {
-      "id": "106354",
-      "name": "Sam Alfred",
+      "id": "56571",
+      "name": "Kepler",
       "count": 1
     },
     {
-      "id": "69666",
-      "name": "Byron Yeates",
+      "id": "133786",
+      "name": "Laura Meester",
       "count": 1
     }
   ]

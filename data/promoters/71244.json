@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "36137",
+      "name": "Bambounou",
+      "count": 1
+    },
+    {
+      "id": "56544",
+      "name": "Black Loops",
+      "count": 1
+    },
+    {
+      "id": "159803",
+      "name": "Blame Anthony",
+      "count": 1
+    },
+    {
+      "id": "128932",
+      "name": "bullet tooth",
+      "count": 1
+    },
+    {
+      "id": "171239",
+      "name": "Butterhands",
+      "count": 1
+    },
+    {
+      "id": "6467",
+      "name": "Cinthie",
+      "count": 1
+    },
+    {
+      "id": "45901",
+      "name": "Dan Shake",
+      "count": 1
+    },
+    {
+      "id": "9083",
+      "name": "David Vunk",
+      "count": 1
+    },
+    {
+      "id": "103401",
+      "name": "Doudou MD",
+      "count": 1
+    },
+    {
+      "id": "81091",
+      "name": "Doppelgang",
+      "count": 1
+    }
+  ]
 }

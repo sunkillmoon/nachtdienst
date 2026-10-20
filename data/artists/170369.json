@@ -1,0 +1,28 @@
+{
+  "id": "170369",
+  "name": "CARMESEGUER",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559482",
+      "title": "APERITIVO LEONE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559482"
+    },
+    {
+      "id": "ra:2560690",
+      "title": "Confianza Club ADE special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560690"
+    }
+  ],
+  "past": []
+}

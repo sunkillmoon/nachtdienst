@@ -12,6 +12,16 @@
       "venue_id": "140102",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2420664"
+    },
+    {
+      "id": "ra:2544838",
+      "title": "Audio Obscura ADE at The Loft x Angels by Cloudy",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544838"
     }
   ],
   "past": [

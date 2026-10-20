@@ -2,17 +2,8 @@
   "id": "98041",
   "name": "Ofra",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2506056",
-      "title": "Het Vreemd (Album Release)",
-      "date": "2026-08-29",
-      "start": "2026-08-29T21:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2506056"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2469432",
       "title": "CLUB CONTACT",
@@ -22,7 +13,16 @@
       "venue_id": "225039",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469432"
+    },
+    {
+      "id": "ra:2506056",
+      "title": "Het Vreemd (Album Release)",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2506056"
     }
-  ],
-  "past": []
+  ]
 }

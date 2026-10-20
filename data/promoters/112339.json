@@ -3,18 +3,8 @@
   "name": "theothersideams",
   "upcoming": [
     {
-      "id": "ra:2466280",
-      "title": "THE OTHER SIDE OPEN AIR 2026",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Houtrijk",
-      "venue_id": "201863",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466280"
-    },
-    {
       "id": "ra:2516652",
-      "title": "FULL CYCLE: Immersive Live Concerts ADE Serie",
+      "title": "FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts]",
       "date": "2026-10-21",
       "start": "2026-10-21T18:00+02:00",
       "venue": "THE OTHER SIDE",
@@ -45,6 +35,16 @@
   ],
   "past": [
     {
+      "id": "ra:2466280",
+      "title": "THE OTHER SIDE OPEN AIR 2026",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Houtrijk",
+      "venue_id": "201863",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466280"
+    },
+    {
       "id": "ra:2481500",
       "title": "F U L L C Y C L E presents: FUSE",
       "date": "2026-07-29",
@@ -57,28 +57,28 @@
   ],
   "top_artists": [
     {
-      "id": "72368",
-      "name": "Sarah Wild",
+      "id": "77826",
+      "name": "Alberta Balsam",
       "count": 1
     },
     {
-      "id": "31589",
-      "name": "Some Chemistry",
+      "id": "99601",
+      "name": "Bastian Benjamin",
       "count": 1
     },
     {
-      "id": "75858",
-      "name": "Genii",
+      "id": "96542",
+      "name": "French II",
       "count": 1
     },
     {
-      "id": "22235",
-      "name": "Noraj Cue",
+      "id": "96492",
+      "name": "Milio",
       "count": 1
     },
     {
-      "id": "118202",
-      "name": "Ninsa",
+      "id": "34952",
+      "name": "Nadia Struiwigh",
       "count": 1
     },
     {

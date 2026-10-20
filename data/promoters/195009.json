@@ -1,0 +1,39 @@
+{
+  "id": "195009",
+  "name": "Perry Gits",
+  "upcoming": [
+    {
+      "id": "ra:2549292",
+      "title": "…",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2549292"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "96127",
+      "name": "Mvcoko",
+      "count": 1
+    },
+    {
+      "id": "125783",
+      "name": "ARAKAZA",
+      "count": 1
+    },
+    {
+      "id": "169933",
+      "name": "Yves B Golden",
+      "count": 1
+    },
+    {
+      "id": "88470",
+      "name": "DRKNGHTS",
+      "count": 1
+    }
+  ]
+}

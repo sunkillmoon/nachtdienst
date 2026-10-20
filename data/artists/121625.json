@@ -12,6 +12,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493544"
+    },
+    {
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559333"
     }
   ],
   "past": []

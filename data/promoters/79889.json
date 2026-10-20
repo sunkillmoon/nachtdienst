@@ -1,7 +1,18 @@
 {
   "id": "79889",
   "name": "HE.SHE.THEY.",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2543998",
+      "title": "HE.SHE.THEY. X Dockyard Festival X Mystic Garden ADE 2026: Stage Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543998"
+    }
+  ],
   "past": [
     {
       "id": "ra:2454376",
@@ -15,6 +26,31 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "66630",
+      "name": "SYREETA",
+      "count": 2
+    },
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "34321",
+      "name": "DJ EZ",
+      "count": 1
+    },
+    {
+      "id": "699",
+      "name": "Jen Cardini",
+      "count": 1
+    },
+    {
+      "id": "107766",
+      "name": "Rayzir",
+      "count": 1
+    },
     {
       "id": "112784",
       "name": "Azucy",
@@ -38,11 +74,6 @@
     {
       "id": "130751",
       "name": "Lola Edo",
-      "count": 1
-    },
-    {
-      "id": "66630",
-      "name": "SYREETA",
       "count": 1
     }
   ]

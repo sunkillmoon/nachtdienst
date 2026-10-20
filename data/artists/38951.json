@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458317",
-      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
-      "date": "2026-08-29",
-      "start": "2026-08-29T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
+      "id": "ra:2535951",
+      "title": "Alci invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Peter de Grote",
+      "venue_id": "302604",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458317"
+      "url": "https://ra.co/events/2535951"
     },
     {
       "id": "ra:2479117",
@@ -32,7 +32,28 @@
       "venue_id": "206210",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511554"
+    },
+    {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2458317",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458317"
+    }
+  ]
 }

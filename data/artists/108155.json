@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2526376",
+      "title": "giegling at Klaproos - ade - SOLD OUT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526376"
+    },
+    {
       "id": "ra:2469608",
-      "title": "Apollonia curates VBX - Shelter - ADE 25.10",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
       "date": "2026-10-25",
       "start": "2026-10-25T23:00+01:00",
       "venue": "Shelter Amsterdam",

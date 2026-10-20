@@ -2,7 +2,8 @@
   "id": "110212",
   "name": "Larishka",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493470",
       "title": "Sissi's by Closecall x Ghosts of Garage",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493470"
     }
-  ],
-  "past": []
+  ]
 }

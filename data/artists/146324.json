@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544904"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2481531",
       "title": "UNMUTE X Rinse FM X Back:beat",
       "date": "2026-09-06",
@@ -12,9 +24,7 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2481531"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466211",
       "title": "TOFFLER x Maas Afterparty",

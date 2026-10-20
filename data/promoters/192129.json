@@ -1,7 +1,8 @@
 {
   "id": "192129",
   "name": "TOKRA COMMUNITY",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511505",
       "title": "Veronica schip",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2511505"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "152192",

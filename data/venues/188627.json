@@ -4,7 +4,48 @@
   "area": "Amsterdam",
   "lat": 52.395403,
   "lng": 4.875843,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2540292",
+      "title": "Vessel presents: Kenny Dope, Todd Terry, Roland Clark, + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540292"
+    },
+    {
+      "id": "ra:2539500",
+      "title": "Vessel presents Kenny Dope & Todd Terry",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539500"
+    },
+    {
+      "id": "ra:2523073",
+      "title": "Pintai (ADE)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523073"
+    },
+    {
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    }
+  ],
   "past": [
     {
       "id": "ra:2497540",

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.39,
   "lng": 4.92,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2403542",
       "title": "Adam & Eve - Pink Beach Edition",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2403542"
     }
-  ],
-  "past": []
+  ]
 }

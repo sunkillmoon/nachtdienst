@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2552070",
+      "title": "BULLDOG x VULGED",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552070"
     },
+    {
+      "id": "ra:2492405",
+      "title": "LNR: Local Night RADION - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559333"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2500670",
       "title": "RADION Season Opener",
@@ -24,17 +46,15 @@
       "url": "https://ra.co/events/2500670"
     },
     {
-      "id": "ra:2492405",
-      "title": "LNR - ADE edition",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492405"
-    }
-  ],
-  "past": [
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",

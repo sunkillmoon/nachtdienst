@@ -4,7 +4,8 @@
   "area": "Eindhoven",
   "lat": 51.45,
   "lng": 5.46,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518295",
       "title": "HIT THE SITU",
@@ -15,6 +16,5 @@
       "area": "Eindhoven",
       "url": "https://ra.co/events/2518295"
     }
-  ],
-  "past": []
+  ]
 }

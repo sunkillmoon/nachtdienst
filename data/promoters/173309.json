@@ -3,6 +3,38 @@
   "name": "Onda Collective",
   "upcoming": [
     {
+      "id": "ra:2539019",
+      "title": "ONDA FORTE - ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539019"
+    },
+    {
+      "id": "ra:2563062",
+      "title": "GINGA: Beats & Bites - ADE Arts & Culture - FREE ENTRY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Studio/K",
+      "venue_id": "7210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563062"
+    },
+    {
+      "id": "ra:2560040",
+      "title": "ONDA FORTE",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560040"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2508259",
       "title": "ONDA FORTE with DJ BRUM",
       "date": "2026-09-12",
@@ -11,9 +43,7 @@
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2508259"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2455670",
       "title": "DEAD FISH - Euro Tour 2026 - Amsterdam",
@@ -29,11 +59,31 @@
     {
       "id": "170462",
       "name": "Pedro da Mata",
-      "count": 2
+      "count": 4
     },
     {
       "id": "170661",
       "name": "Not Yet (2)",
+      "count": 3
+    },
+    {
+      "id": "188288",
+      "name": "Guiz",
+      "count": 2
+    },
+    {
+      "id": "177252",
+      "name": "AAlva",
+      "count": 2
+    },
+    {
+      "id": "175664",
+      "name": "Isa Castelari",
+      "count": 1
+    },
+    {
+      "id": "177025",
+      "name": "Stupid Crew",
       "count": 1
     }
   ]

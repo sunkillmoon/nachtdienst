@@ -1,0 +1,20 @@
+{
+  "id": "122461",
+  "name": "Bar Lunar",
+  "area": "Amsterdam",
+  "lat": 52.366553,
+  "lng": 4.895788,
+  "upcoming": [
+    {
+      "id": "ra:2557466",
+      "title": "ADE 2026 - BNB Showcase 2026 Canadian Take Over - Friday Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Bar Lunar",
+      "venue_id": "122461",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557466"
+    }
+  ],
+  "past": []
+}

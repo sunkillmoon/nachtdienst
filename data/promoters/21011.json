@@ -1,7 +1,18 @@
 {
   "id": "21011",
   "name": "Woodstock69",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2471234",
+      "title": "Dixon b2b Jimi Jules + Gizem",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471234"
+    },
     {
       "id": "ra:2449033",
       "title": "Brighter Days at the Beach",
@@ -12,18 +23,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2449033"
     },
-    {
-      "id": "ra:2471234",
-      "title": "Dixon b2b Jimi Jules + Gizem",
-      "date": "2026-09-06",
-      "start": "2026-09-06T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2471234"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2329951",
       "title": "Chris Stussy at the beach [sold out]",
@@ -46,6 +45,21 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "62077",
+      "name": "Chris Stussy",
+      "count": 1
+    },
+    {
+      "id": "109046",
+      "name": "Benwal",
+      "count": 1
+    },
+    {
+      "id": "97432",
+      "name": "Mathijs Smit",
+      "count": 1
+    },
     {
       "id": "37323",
       "name": "Palms Trax",
@@ -79,21 +93,6 @@
     {
       "id": "169785",
       "name": "Gizem",
-      "count": 1
-    },
-    {
-      "id": "62077",
-      "name": "Chris Stussy",
-      "count": 1
-    },
-    {
-      "id": "109046",
-      "name": "Benwal",
-      "count": 1
-    },
-    {
-      "id": "97432",
-      "name": "Mathijs Smit",
       "count": 1
     }
   ]

@@ -6,6 +6,18 @@
   "lng": 5.0834009,
   "upcoming": [
     {
+      "id": "ra:2537596",
+      "title": "Intergalactic FM",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2537596"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2373343",
       "title": "Het Festival vol. 2",
       "date": "2026-08-29",
@@ -24,9 +36,7 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2378523"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2506036",
       "title": "CLUBNACHT / Another Taste (LIVE) + EILEEN",

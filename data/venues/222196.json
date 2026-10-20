@@ -14,6 +14,26 @@
       "venue_id": "222196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2513188"
+    },
+    {
+      "id": "ra:2526324",
+      "title": "SONA presents: Reznik [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526324"
+    },
+    {
+      "id": "ra:2556692",
+      "title": "WAVY At The Church",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556692"
     }
   ],
   "past": []

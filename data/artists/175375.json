@@ -2,7 +2,8 @@
   "id": "175375",
   "name": "Faris Hababa",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515958",
       "title": "Technorth X Kade Collectief",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2515958"
     }
-  ],
-  "past": []
+  ]
 }

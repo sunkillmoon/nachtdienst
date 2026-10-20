@@ -2,7 +2,28 @@
   "id": "83210",
   "name": "Argia",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519986",
+      "title": "Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519986"
+    },
+    {
+      "id": "ra:2495931",
+      "title": "VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Generator",
+      "venue_id": "124224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495931"
+    }
+  ],
   "past": [
     {
       "id": "ra:2302716",

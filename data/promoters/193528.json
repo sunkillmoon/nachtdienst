@@ -1,0 +1,39 @@
+{
+  "id": "193528",
+  "name": "Find Your Own Records",
+  "upcoming": [
+    {
+      "id": "ra:2530992",
+      "title": "Find Your Own Records ADE Party",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Duke Of Tokyo",
+      "venue_id": "158329",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530992"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "14905",
+      "name": "Alex Arnout",
+      "count": 1
+    },
+    {
+      "id": "76997",
+      "name": "Dee Diggs",
+      "count": 1
+    },
+    {
+      "id": "21320",
+      "name": "Ceri",
+      "count": 1
+    },
+    {
+      "id": "41589",
+      "name": "Zombies In Miami",
+      "count": 1
+    }
+  ]
+}

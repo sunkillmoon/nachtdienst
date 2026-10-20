@@ -2,7 +2,38 @@
   "id": "110734",
   "name": "DIORA",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2519039",
+      "title": "Another Halloween #4",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519039"
+    },
+    {
+      "id": "ra:2558103",
+      "title": "Kumata x New World Dysorder Amsterdam",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558103"
+    },
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
   "past": [
     {
       "id": "ra:2461530",

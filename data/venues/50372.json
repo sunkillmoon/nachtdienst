@@ -6,6 +6,16 @@
   "lng": 4.88563,
   "upcoming": [
     {
+      "id": "ra:2551521",
+      "title": "True House Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Bar22",
+      "venue_id": "50372",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551521"
+    },
+    {
       "id": "ra:2450696",
       "title": "Beenoise Attack at Ade 2026",
       "date": "2026-10-25",

@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479794",
-      "title": "Afterparty Rotterdam Rave Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2479794"
-    },
+      "url": "https://ra.co/events/2436427"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2490622",
       "title": "AFTER DARK // ROTTERDAM",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2490622"
     },
     {
-      "id": "ra:2436427",
-      "title": "Glow in the Dark 'Halloween Special' 2026",
-      "date": "2026-10-31",
-      "start": "2026-10-31T14:00+01:00",
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2436427"
+      "url": "https://ra.co/events/2479794"
     }
-  ],
-  "past": []
+  ]
 }

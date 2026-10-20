@@ -6,6 +6,26 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2552070",
+      "title": "BULLDOG x VULGED",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552070"
+    },
+    {
+      "id": "ra:2524193",
+      "title": "Discovery Sessions: The Bulldog Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524193"
+    },
+    {
       "id": "ra:2503286",
       "title": "About Us ADE Showcase",
       "date": "2026-10-23",
@@ -14,6 +34,46 @@
       "venue_id": "223249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503286"
+    },
+    {
+      "id": "ra:2469037",
+      "title": "The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469037"
+    },
+    {
+      "id": "ra:2531730",
+      "title": "RAGAZZI Records - ADE Label Launch with Trancemaster Krause, snoritz, OnlyWithYou, Shake Daddy",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531730"
+    },
+    {
+      "id": "ra:2538429",
+      "title": "Edo presents Ode",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538429"
+    },
+    {
+      "id": "ra:2547491",
+      "title": "RISE MUSIC PROJECT SHOWCASE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547491"
     }
   ],
   "past": []

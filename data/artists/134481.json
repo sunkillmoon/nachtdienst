@@ -2,7 +2,28 @@
   "id": "134481",
   "name": "Norman Weber",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2522660",
+      "title": "b:wired presents: Bondage-Music x Paracou",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522660"
+    }
+  ],
   "past": [
     {
       "id": "ra:2460812",

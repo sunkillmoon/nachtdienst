@@ -4,28 +4,18 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2452089",
-      "title": "Patio - Summer Closing",
-      "date": "2026-09-19",
-      "start": "2026-09-19T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2452089"
-    },
-    {
       "id": "ra:2473366",
       "title": "Intercell x Oscar Mulero Invites | ADE By Night",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473366"
     },
     {
       "id": "ra:2516705",
-      "title": "DAYCARE - ADE",
+      "title": "DAYCARE x ADE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "BRET",
@@ -35,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2452089",
+      "title": "Patio - Summer Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452089"
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

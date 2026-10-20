@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491494",
-      "title": "Club Night",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491494"
+      "id": "ra:2548811",
+      "title": "ADE: zig~zag.fm deep dive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548811"
     },
+    {
+      "id": "ra:2563012",
+      "title": "VIS 01 AMS",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563012"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2520745",
       "title": "ZORA",
@@ -22,7 +34,16 @@
       "venue_id": "4842",
       "area": "Utrecht",
       "url": "https://ra.co/events/2520745"
+    },
+    {
+      "id": "ra:2491494",
+      "title": "Club Night",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491494"
     }
-  ],
-  "past": []
+  ]
 }

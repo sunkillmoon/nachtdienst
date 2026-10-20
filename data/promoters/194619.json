@@ -1,0 +1,29 @@
+{
+  "id": "194619",
+  "name": "Starving Billionaires ",
+  "upcoming": [
+    {
+      "id": "ra:2544454",
+      "title": "Starving Billionaires",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "The Grey Space In The Middle",
+      "venue_id": "149377",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2544454"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "87227",
+      "name": "Yayoyanoh",
+      "count": 1
+    },
+    {
+      "id": "170642",
+      "name": "Sterea",
+      "count": 1
+    }
+  ]
+}

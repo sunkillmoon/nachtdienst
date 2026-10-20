@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2502651",
-      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
+      "id": "ra:2524451",
+      "title": "Sissi's ADE Friday with Bronka x Kurashi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2502651"
-    },
+      "url": "https://ra.co/events/2524451"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2519856",
       "title": "Festival Downtown",
@@ -22,9 +24,17 @@
       "venue_id": "140769",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2519856"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2502651",
+      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502651"
+    },
     {
       "id": "ra:2478267",
       "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",

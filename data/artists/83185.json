@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
-    {
       "id": "ra:2478046",
       "title": "Audio Obscura ADE x The Moment by WhoMadeWho",
       "date": "2026-10-24",
@@ -30,9 +20,20 @@
       "start": "2026-10-25T14:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479118"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    }
+  ]
 }

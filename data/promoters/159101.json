@@ -1,7 +1,8 @@
 {
   "id": "159101",
   "name": "Klub Krai",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508405",
       "title": "2/3 with Rat Section, DJH, Macrosoft, Servicekit",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2508405"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "109167",

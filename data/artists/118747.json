@@ -2,7 +2,8 @@
   "id": "118747",
   "name": "Julian Fijma",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
@@ -12,9 +13,7 @@
       "venue_id": "286760",
       "area": "All",
       "url": "https://ra.co/events/2385645"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

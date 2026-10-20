@@ -1,0 +1,28 @@
+{
+  "id": "84743",
+  "name": "Anèl",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
+    },
+    {
+      "id": "ra:2553263",
+      "title": "Studio Strip - ADE Special - w/Slimfit B2B Tida Kamra, Yucky, LRRY, Misa & Anel",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam",
+      "venue_id": "303959",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553263"
+    }
+  ],
+  "past": []
+}

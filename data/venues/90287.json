@@ -4,16 +4,17 @@
   "area": "The Hague",
   "lat": 52.117176,
   "lng": 4.2893,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2520907",
-      "title": "NOVA:|| by Cincity & Philou Louzolo",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
+      "id": "ra:2481531",
+      "title": "UNMUTE X Rinse FM X Back:beat",
+      "date": "2026-09-06",
+      "start": "2026-09-06T18:00+02:00",
       "venue": "Boomerang Beach",
       "venue_id": "90287",
       "area": "The Hague",
-      "url": "https://ra.co/events/2520907"
+      "url": "https://ra.co/events/2481531"
     },
     {
       "id": "ra:2461883",
@@ -26,17 +27,15 @@
       "url": "https://ra.co/events/2461883"
     },
     {
-      "id": "ra:2481531",
-      "title": "UNMUTE X Rinse FM X Back:beat",
-      "date": "2026-09-06",
-      "start": "2026-09-06T18:00+02:00",
+      "id": "ra:2520907",
+      "title": "NOVA:|| by Cincity & Philou Louzolo",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
       "venue": "Boomerang Beach",
       "venue_id": "90287",
       "area": "The Hague",
-      "url": "https://ra.co/events/2481531"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2520907"
+    },
     {
       "id": "ra:2436412",
       "title": "Give Soul at the Beach - August",

@@ -1,0 +1,28 @@
+{
+  "id": "106314",
+  "name": "Sibil (1)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2533327",
+      "title": "get—traum x Blast Galaxy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533327"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
+    }
+  ],
+  "past": []
+}

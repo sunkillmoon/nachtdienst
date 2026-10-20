@@ -12,6 +12,16 @@
       "venue_id": "153386",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511499"
+    },
+    {
+      "id": "ra:2535951",
+      "title": "Alci invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Peter de Grote",
+      "venue_id": "302604",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535951"
     }
   ],
   "past": []

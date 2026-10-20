@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2502628",
-      "title": "Hush with Dennis Quin, Maqossa & More",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:59+02:00",
-      "venue": "Luxor Live",
-      "venue_id": "13822",
-      "area": "All",
-      "url": "https://ra.co/events/2502628"
+      "id": "ra:2550452",
+      "title": "Borderline ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Smokey Club",
+      "venue_id": "272336",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550452"
     },
     {
       "id": "ra:2520846",
@@ -25,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2502628",
+      "title": "Hush with Dennis Quin, Maqossa & More",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:59+02:00",
+      "venue": "Luxor Live",
+      "venue_id": "13822",
+      "area": "All",
+      "url": "https://ra.co/events/2502628"
+    },
     {
       "id": "ra:2501248",
       "title": "Loveland Festival Official Afterparty (Sat)",

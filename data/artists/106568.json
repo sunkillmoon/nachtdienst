@@ -2,7 +2,8 @@
   "id": "106568",
   "name": "Paroxyzm",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2497114",
       "title": "RAVEGROUND - Hard Techno & Hard Bounce",
@@ -12,9 +13,7 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2497114"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2445862",
       "title": "RAVELAND: Hard Techno Rave with Paroxyzm [DE], NELLIE & Ludens",

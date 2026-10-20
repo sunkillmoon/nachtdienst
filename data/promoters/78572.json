@@ -1,0 +1,18 @@
+{
+  "id": "78572",
+  "name": "Backstage Miami",
+  "upcoming": [
+    {
+      "id": "ra:2546114",
+      "title": "House Stars",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Bar Twenty Two",
+      "venue_id": "224568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546114"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

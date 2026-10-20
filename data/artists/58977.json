@@ -4,14 +4,34 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2562291",
+      "title": "PARDON 10 YEARS X Very Special",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Very Special",
+      "venue_id": "305342",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562291"
+    },
+    {
       "id": "ra:2473385",
       "title": "Intercell x Skin On Skin Invites - ADE By Day",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473385"
+    },
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
     }
   ],
   "past": [

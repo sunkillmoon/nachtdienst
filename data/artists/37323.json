@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2516605",
+      "title": "Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516605"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
     },
     {
       "id": "ra:2449033",
@@ -24,27 +36,15 @@
       "url": "https://ra.co/events/2449033"
     },
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
     },
-    {
-      "id": "ra:2516605",
-      "title": "Cooking with Palms Trax x Doka Studio [ADE]",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516605"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

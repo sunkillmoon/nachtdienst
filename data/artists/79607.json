@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2525347",
+      "title": "30 Years Bassculture Foundation",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525347"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2514974",
       "title": "BassCulture Amsterdam",
       "date": "2026-08-28",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514974"
     }
-  ],
-  "past": []
+  ]
 }

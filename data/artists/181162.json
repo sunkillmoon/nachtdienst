@@ -2,7 +2,8 @@
   "id": "181162",
   "name": "Ezers",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512898",
       "title": "Kármán VI - Community event",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2512898"
     }
-  ],
-  "past": []
+  ]
 }

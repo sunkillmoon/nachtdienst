@@ -1,0 +1,49 @@
+{
+  "id": "183768",
+  "name": "Find Your Own Sound",
+  "upcoming": [
+    {
+      "id": "ra:2530980",
+      "title": "Electronic Music Producer Meetup & Demo Feedback Session FYOS ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Duke Of Tokyo",
+      "venue_id": "158329",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530980"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "136463",
+      "name": "ARYA (3)",
+      "count": 1
+    },
+    {
+      "id": "120999",
+      "name": "Better Late",
+      "count": 1
+    },
+    {
+      "id": "21320",
+      "name": "Ceri",
+      "count": 1
+    },
+    {
+      "id": "182681",
+      "name": "Fari Mond",
+      "count": 1
+    },
+    {
+      "id": "62411",
+      "name": "Mica (UK)",
+      "count": 1
+    },
+    {
+      "id": "135909",
+      "name": "Urbi",
+      "count": 1
+    }
+  ]
+}

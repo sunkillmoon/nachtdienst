@@ -2,7 +2,18 @@
   "id": "617",
   "name": "Ellen Allien",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2531389",
+      "title": "Vinylism x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531389"
+    }
+  ],
   "past": [
     {
       "id": "ra:2444343",

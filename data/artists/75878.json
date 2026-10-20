@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2443232",
-      "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
-      "date": "2026-08-30",
-      "start": "2026-08-30T16:30+02:00",
-      "venue": "Ijburg",
-      "venue_id": "215846",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2443232"
-    },
-    {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2443232",
+      "title": "De Zomervloot - Fafi Abdel Nour All Day Long",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:30+02:00",
+      "venue": "Ijburg",
+      "venue_id": "215846",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2443232"
+    },
     {
       "id": "ra:2489651",
       "title": "Fafi Abdel Nour, Meena, Nanton",

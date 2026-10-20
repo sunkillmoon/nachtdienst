@@ -1,0 +1,28 @@
+{
+  "id": "120954",
+  "name": "Reflex Blue",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2469608",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469608"
+    },
+    {
+      "id": "ra:2547683",
+      "title": "Traffic JAM Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "The Basement Eindhoven",
+      "venue_id": "231890",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2547683"
+    }
+  ],
+  "past": []
+}

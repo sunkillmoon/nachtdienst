@@ -2,7 +2,8 @@
   "id": "184510",
   "name": "Droom",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
@@ -12,9 +13,7 @@
       "venue_id": "300735",
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2511516",
       "title": "BRUTUS TAKEOVER AFTERPARTY",

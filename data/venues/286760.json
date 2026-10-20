@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.63,
   "lng": 4.75,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385645",
       "title": "Duikboot Festival",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2385645"
     }
-  ],
-  "past": []
+  ]
 }

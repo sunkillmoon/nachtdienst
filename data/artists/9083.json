@@ -4,14 +4,46 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2509402",
-      "title": "Momentum in De Vleeshal",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "De Vleeshal",
-      "venue_id": "299669",
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509402"
+      "url": "https://ra.co/events/2511306"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    },
+    {
+      "id": "ra:2538823",
+      "title": "Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV ",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538823"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
     },
     {
       "id": "ra:2373343",
@@ -24,17 +56,15 @@
       "url": "https://ra.co/events/2373343"
     },
     {
-      "id": "ra:2402447",
-      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2402447"
-    }
-  ],
-  "past": [
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
+    },
     {
       "id": "ra:2488747",
       "title": "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic",

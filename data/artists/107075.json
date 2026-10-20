@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
       "id": "ra:2492405",
-      "title": "LNR - ADE edition",
+      "title": "LNR: Local Night RADION - ADE edition",
       "date": "2026-10-22",
       "start": "2026-10-22T23:00+02:00",
       "venue": "RADION",
@@ -40,11 +30,21 @@
       "start": "2026-10-24T13:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479114"
     }
   ],
   "past": [
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",

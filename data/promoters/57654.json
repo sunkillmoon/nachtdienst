@@ -1,7 +1,8 @@
 {
   "id": "57654",
   "name": "Liquicity",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501961",
       "title": "Liquicity Family Day 2026",
@@ -11,9 +12,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501961"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2235347",
       "title": "Liquicity Festival 2026",
@@ -27,46 +26,6 @@
   ],
   "top_artists": [
     {
-      "id": "133445",
-      "name": "Circadian",
-      "count": 1
-    },
-    {
-      "id": "149727",
-      "name": "Blooom",
-      "count": 1
-    },
-    {
-      "id": "123563",
-      "name": "Kara (UK)",
-      "count": 1
-    },
-    {
-      "id": "6539",
-      "name": "Makoto",
-      "count": 1
-    },
-    {
-      "id": "29551",
-      "name": "Method",
-      "count": 1
-    },
-    {
-      "id": "40893",
-      "name": "Seba",
-      "count": 1
-    },
-    {
-      "id": "82545",
-      "name": "Skepsis",
-      "count": 1
-    },
-    {
-      "id": "125928",
-      "name": "Vanity Roxane",
-      "count": 1
-    },
-    {
       "id": "48550",
       "name": "Netsky",
       "count": 1
@@ -74,6 +33,46 @@
     {
       "id": "79271",
       "name": "Wilkinson",
+      "count": 1
+    },
+    {
+      "id": "62679",
+      "name": "Hybrid Minds",
+      "count": 1
+    },
+    {
+      "id": "344",
+      "name": "Andy C",
+      "count": 1
+    },
+    {
+      "id": "22360",
+      "name": "Shy FX",
+      "count": 1
+    },
+    {
+      "id": "127152",
+      "name": "Fox Stevenson",
+      "count": 1
+    },
+    {
+      "id": "62359",
+      "name": "Koven",
+      "count": 1
+    },
+    {
+      "id": "123708",
+      "name": "A.M.C.",
+      "count": 1
+    },
+    {
+      "id": "175704",
+      "name": "Andromedik",
+      "count": 1
+    },
+    {
+      "id": "8971",
+      "name": "Calibre",
       "count": 1
     }
   ]

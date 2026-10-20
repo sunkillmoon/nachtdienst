@@ -1,0 +1,39 @@
+{
+  "id": "140093",
+  "name": "Deep House Bucharest",
+  "upcoming": [
+    {
+      "id": "ra:2563648",
+      "title": "ADE w. Deep House Bucharest & BeYourOwnLabel",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563648"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "170469",
+      "name": "ANTO ZAGU",
+      "count": 1
+    },
+    {
+      "id": "68603",
+      "name": "Bross",
+      "count": 1
+    },
+    {
+      "id": "105184",
+      "name": "Emotional Tourist",
+      "count": 1
+    },
+    {
+      "id": "84362",
+      "name": "Nau Leone",
+      "count": 1
+    }
+  ]
+}

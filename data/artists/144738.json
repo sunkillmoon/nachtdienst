@@ -2,7 +2,8 @@
   "id": "144738",
   "name": "Julia van Praag",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2488654",
       "title": "Housewarming",
@@ -12,9 +13,7 @@
       "venue_id": "4842",
       "area": "Utrecht",
       "url": "https://ra.co/events/2488654"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2495209",
       "title": "Fluff Disco",

@@ -1,0 +1,20 @@
+{
+  "id": "231890",
+  "name": "The Basement Eindhoven",
+  "area": "Eindhoven",
+  "lat": 51.45,
+  "lng": 5.46,
+  "upcoming": [
+    {
+      "id": "ra:2547683",
+      "title": "Traffic JAM Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "The Basement Eindhoven",
+      "venue_id": "231890",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2547683"
+    }
+  ],
+  "past": []
+}

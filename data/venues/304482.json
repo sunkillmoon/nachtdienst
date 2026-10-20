@@ -1,0 +1,50 @@
+{
+  "id": "304482",
+  "name": "Wanakam",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2560071",
+      "title": "Amsterdam Vinyl Club x Wanakam- ADE opening night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560071"
+    },
+    {
+      "id": "ra:2560573",
+      "title": "Amsterdam Vinyl Club X Wanakam- opening night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560573"
+    },
+    {
+      "id": "ra:2564595",
+      "title": "Pavilion East",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564595"
+    },
+    {
+      "id": "ra:2554292",
+      "title": "KAZI (كازي) X LEVITATE presents: Future Club from The Subcontinent",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554292"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "36990",
+  "name": "Bondage Music",
+  "upcoming": [
+    {
+      "id": "ra:2522660",
+      "title": "b:wired presents: Bondage-Music x Paracou",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522660"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "147613",
+      "name": "Bambi-S",
+      "count": 1
+    },
+    {
+      "id": "6467",
+      "name": "Cinthie",
+      "count": 1
+    },
+    {
+      "id": "89718",
+      "name": "Cristina Lazic",
+      "count": 1
+    },
+    {
+      "id": "117383",
+      "name": "LEENI",
+      "count": 1
+    },
+    {
+      "id": "104557",
+      "name": "Danilo Kupfernagel",
+      "count": 1
+    },
+    {
+      "id": "38176",
+      "name": "Lola Palmer",
+      "count": 1
+    },
+    {
+      "id": "60767",
+      "name": "Lolu Menayed",
+      "count": 1
+    },
+    {
+      "id": "955",
+      "name": "Mathias Kaden",
+      "count": 1
+    },
+    {
+      "id": "8228",
+      "name": "Meat",
+      "count": 1
+    },
+    {
+      "id": "2443",
+      "name": "Mihai Popoviciu",
+      "count": 1
+    }
+  ]
+}

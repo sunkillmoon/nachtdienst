@@ -2,7 +2,8 @@
   "id": "105144",
   "name": "Locus Error",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2476052",
       "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2476052"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",

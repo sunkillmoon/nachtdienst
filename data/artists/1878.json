@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2514034",
-      "title": "T-Motion",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Patronaat",
-      "venue_id": "81532",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514034"
-    },
-    {
       "id": "ra:2503286",
       "title": "About Us ADE Showcase",
       "date": "2026-10-23",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2514034",
+      "title": "T-Motion",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Patronaat",
+      "venue_id": "81532",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514034"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

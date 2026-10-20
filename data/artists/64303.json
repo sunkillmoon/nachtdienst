@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2471398",
-      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2471398"
+      "url": "https://ra.co/events/2525121"
     },
+    {
+      "id": "ra:2518718",
+      "title": "Nora En Pure presents Purified Amsterdam (ADE Boat Party)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Oceandiva Original",
+      "venue_id": "292161",
+      "area": "All",
+      "url": "https://ra.co/events/2518718"
+    },
+    {
+      "id": "ra:2553870",
+      "title": "50:HERTZ CLUB TRAIN X Colyn",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553870"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2473511",
       "title": "Space Society",
@@ -22,7 +44,16 @@
       "venue_id": "202249",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473511"
+    },
+    {
+      "id": "ra:2471398",
+      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471398"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "128167",
   "name": "DJ HÖRDE",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471468",
       "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2471468"
     }
-  ],
-  "past": []
+  ]
 }

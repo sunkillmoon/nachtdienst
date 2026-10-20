@@ -1,0 +1,20 @@
+{
+  "id": "301377",
+  "name": "TBA - Amsterdam",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2557857",
+      "title": "M0RN1NG 4FT3R",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "301377",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557857"
+    }
+  ],
+  "past": []
+}

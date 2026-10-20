@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2539981",
+      "title": "Elias Mazian (live) x EINDER",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Centrale Markthal",
+      "venue_id": "303017",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539981"
+    },
+    {
+      "id": "ra:2529465",
+      "title": "Private Hearts Club ADE '26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Café Soleil Amsterdam",
+      "venue_id": "277577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529465"
+    },
+    {
+      "id": "ra:2533192",
+      "title": "Chaos In The CBD pres. In Dust We Trust",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533192"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
       "date": "2026-08-29",
@@ -12,9 +44,7 @@
       "venue_id": "131709",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2499921",
       "title": "CLUB.RECORD x Shelter Boat Series",

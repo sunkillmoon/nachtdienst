@@ -1,0 +1,59 @@
+{
+  "id": "2676",
+  "name": "Rex Club",
+  "upcoming": [
+    {
+      "id": "ra:2532185",
+      "title": "Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532185"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "84801",
+      "name": "Bambii",
+      "count": 1
+    },
+    {
+      "id": "79743",
+      "name": "Greg (2)",
+      "count": 1
+    },
+    {
+      "id": "90784",
+      "name": "Logic1000",
+      "count": 1
+    },
+    {
+      "id": "80124",
+      "name": "Miley Serious",
+      "count": 1
+    },
+    {
+      "id": "1362",
+      "name": "Busy P",
+      "count": 1
+    },
+    {
+      "id": "993",
+      "name": "Chloé",
+      "count": 1
+    },
+    {
+      "id": "118742",
+      "name": "Tatyana Jane",
+      "count": 1
+    },
+    {
+      "id": "53176",
+      "name": "Mad Rey",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "126778",
+  "name": "Ronce",
+  "upcoming": [
+    {
+      "id": "ra:2545885",
+      "title": "DVS Records Meet & Greet",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "The Bulldog Hotel",
+      "venue_id": "125886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545885"
+    },
+    {
+      "id": "ra:2545882",
+      "title": "Claps Records Official Label Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "The Bulldog Hotel",
+      "venue_id": "125886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545882"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "51231",
+      "name": "Black Legend",
+      "count": 1
+    },
+    {
+      "id": "26162",
+      "name": "Federico Scavo",
+      "count": 1
+    },
+    {
+      "id": "10987",
+      "name": "Luca Guerrieri",
+      "count": 1
+    },
+    {
+      "id": "7573",
+      "name": "Mr. V",
+      "count": 1
+    },
+    {
+      "id": "22801",
+      "name": "Ridney",
+      "count": 1
+    },
+    {
+      "id": "180291",
+      "name": "ASMOT",
+      "count": 1
+    },
+    {
+      "id": "142194",
+      "name": "BADBOX",
+      "count": 1
+    },
+    {
+      "id": "129106",
+      "name": "El Mukuka",
+      "count": 1
+    },
+    {
+      "id": "18601",
+      "name": "Hanna Hais",
+      "count": 1
+    },
+    {
+      "id": "33114",
+      "name": "Jigar",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "146913",
+  "name": "ARMANA KHAN",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2552785",
+      "title": "Baile da Galecta ADE Masterclasses",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552785"
+    },
+    {
+      "id": "ra:2560571",
+      "title": "ADE: CLUB LAB x DJ Mag: JAEL, Cinnaman, ARMANA KHAN, Té de Gember, VKANG, Valentina",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560571"
+    }
+  ],
+  "past": []
+}

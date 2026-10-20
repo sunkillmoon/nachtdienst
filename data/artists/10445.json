@@ -2,7 +2,28 @@
   "id": "10445",
   "name": "Makcim",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2550735",
+      "title": "SAGA x Loop51",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550735"
+    },
+    {
+      "id": "ra:2550865",
+      "title": "SAGA x Loop51",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550865"
+    }
+  ],
   "past": [
     {
       "id": "ra:2515131",

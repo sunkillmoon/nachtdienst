@@ -1,0 +1,84 @@
+{
+  "id": "146360",
+  "name": "Early TIcket",
+  "upcoming": [
+    {
+      "id": "ra:2547522",
+      "title": "POWER AFTER at (AFTERPARTY) ",
+      "date": "2026-10-21",
+      "start": "2026-10-22T05:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547522"
+    },
+    {
+      "id": "ra:2555861",
+      "title": "AFTEREarly Beats — ADE Special Club",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555861"
+    },
+    {
+      "id": "ra:2548618",
+      "title": "Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548618"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "74889",
+      "name": "Philip Ackowsky",
+      "count": 3
+    },
+    {
+      "id": "186918",
+      "name": "Proper Banger",
+      "count": 2
+    },
+    {
+      "id": "188732",
+      "name": "KOLE AUDRO",
+      "count": 1
+    },
+    {
+      "id": "27",
+      "name": "Timo Maas",
+      "count": 1
+    },
+    {
+      "id": "127353",
+      "name": "Ben:Rodd",
+      "count": 1
+    },
+    {
+      "id": "189968",
+      "name": "CORZ",
+      "count": 1
+    },
+    {
+      "id": "178704",
+      "name": "Matteo (IT)",
+      "count": 1
+    },
+    {
+      "id": "169241",
+      "name": "Desyfer",
+      "count": 1
+    },
+    {
+      "id": "182520",
+      "name": "Darah",
+      "count": 1
+    }
+  ]
+}

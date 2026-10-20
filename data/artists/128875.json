@@ -1,0 +1,38 @@
+{
+  "id": "128875",
+  "name": "Hugo Martinez",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2511554",
+      "title": "SLPFNK - LEVENSLANG ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511554"
+    },
+    {
+      "id": "ra:2466462",
+      "title": "Closing Party with TRIP",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466462"
+    },
+    {
+      "id": "ra:2563297",
+      "title": "The Loft Closing Party x Trip Ibiza",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563297"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "134605",
+  "name": "Groove Raiderz",
+  "upcoming": [
+    {
+      "id": "ra:2530845",
+      "title": "Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530845"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "127455",
+      "name": "RIØ (DE)",
+      "count": 1
+    },
+    {
+      "id": "188347",
+      "name": "avely",
+      "count": 1
+    }
+  ]
+}

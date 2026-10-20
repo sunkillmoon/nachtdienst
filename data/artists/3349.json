@@ -2,7 +2,8 @@
   "id": "3349",
   "name": "Dave Huismans",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491613",
       "title": "Delsin: 30 Years Anniversary",
@@ -12,9 +13,7 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491613"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

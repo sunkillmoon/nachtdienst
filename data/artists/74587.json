@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
+      "id": "ra:2523924",
+      "title": "Marginalia x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
+      "url": "https://ra.co/events/2523924"
     },
     {
       "id": "ra:2297501",
@@ -25,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

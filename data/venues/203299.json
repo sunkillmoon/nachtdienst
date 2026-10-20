@@ -6,64 +6,24 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2481979",
-      "title": "HONK",
-      "date": "2026-08-28",
-      "start": "2026-08-28T20:00+02:00",
+      "id": "ra:2558599",
+      "title": "Perigee Vol.003",
+      "date": "2026-10-22",
+      "start": "2026-10-22T11:00+02:00",
       "venue": "TBA",
       "venue_id": "203299",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2481979"
+      "url": "https://ra.co/events/2558599"
     },
     {
-      "id": "ra:2493594",
-      "title": "SevenEight78",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
+      "id": "ra:2564663",
+      "title": "Richie Hawtin - POP_UP Stage",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
       "venue": "TBA",
       "venue_id": "203299",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493594"
-    },
-    {
-      "id": "ra:2490009",
-      "title": "Naked KNIT",
-      "date": "2026-08-29",
-      "start": "2026-08-29T22:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490009"
-    },
-    {
-      "id": "ra:2517694",
-      "title": "Hulla by night Flaire & Friends",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517694"
-    },
-    {
-      "id": "ra:2510528",
-      "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510528"
-    },
-    {
-      "id": "ra:2473473",
-      "title": "The Deep Club - Outdoor Edition",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:30+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473473"
+      "url": "https://ra.co/events/2564663"
     },
     {
       "id": "ra:2501723",
@@ -96,6 +56,26 @@
       "url": "https://ra.co/events/2511875"
     },
     {
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563972"
+    },
+    {
+      "id": "ra:2537953",
+      "title": "SPAGHETTI A MEZZANOTTE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537953"
+    },
+    {
       "id": "ra:2518378",
       "title": "HOUSE152 & Friends / ADE edition",
       "date": "2026-10-23",
@@ -106,14 +86,44 @@
       "url": "https://ra.co/events/2518378"
     },
     {
-      "id": "ra:2406777",
-      "title": "ADE 2026 - Underground Industrial Session",
-      "date": "2026-10-23",
-      "start": "2026-10-23T22:00+02:00",
+      "id": "ra:2565803",
+      "title": "BOAT2",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
       "venue": "TBA",
       "venue_id": "203299",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2406777"
+      "url": "https://ra.co/events/2565803"
+    },
+    {
+      "id": "ra:2565833",
+      "title": "BOAT2",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565833"
+    },
+    {
+      "id": "ra:2531100",
+      "title": "Jazz Club ADE 26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531100"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
     },
     {
       "id": "ra:2511877",
@@ -136,44 +146,14 @@
       "url": "https://ra.co/events/2511879"
     },
     {
-      "id": "ra:2469610",
-      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY 24.10",
-      "date": "2026-10-24",
-      "start": "2026-10-24T20:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2469610"
-    },
-    {
-      "id": "ra:2499556",
-      "title": "Alien Communications x Craigie Knowes ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499556"
-    },
-    {
       "id": "ra:2469614",
-      "title": "Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY 25.10",
+      "title": "Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY DAY",
       "date": "2026-10-25",
       "start": "2026-10-25T13:00+01:00",
       "venue": "TBA",
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469614"
-    },
-    {
-      "id": "ra:2511625",
-      "title": "SLPFNK ADE",
-      "date": "2026-10-25",
-      "start": "2026-10-25T14:00+01:00",
-      "venue": "TBA",
-      "venue_id": "203299",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511625"
     },
     {
       "id": "ra:2511884",
@@ -197,6 +177,66 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2473473",
+      "title": "The Deep Club - Outdoor Edition",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:30+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473473"
+    },
+    {
+      "id": "ra:2510528",
+      "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510528"
+    },
+    {
+      "id": "ra:2517694",
+      "title": "Hulla by night Flaire & Friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517694"
+    },
+    {
+      "id": "ra:2490009",
+      "title": "Naked KNIT",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490009"
+    },
+    {
+      "id": "ra:2493594",
+      "title": "SevenEight78",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493594"
+    },
+    {
+      "id": "ra:2481979",
+      "title": "HONK",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481979"
+    },
     {
       "id": "ra:2502992",
       "title": "TØXIC ALL NIGHT LONG (MULTI ALL NIGHT LONG)",

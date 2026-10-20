@@ -2,7 +2,18 @@
   "id": "175064",
   "name": "Jolani Jhones",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2519856",
+      "title": "Festival Downtown",
+      "date": "2026-09-11",
+      "start": "2026-09-11T14:00+02:00",
+      "venue": "Rotterdam Centre",
+      "venue_id": "140769",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2519856"
+    },
     {
       "id": "ra:2499764",
       "title": "ANTÍDOTO",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499764"
     },
-    {
-      "id": "ra:2519856",
-      "title": "Festival Downtown",
-      "date": "2026-09-11",
-      "start": "2026-09-11T14:00+02:00",
-      "venue": "Rotterdam Centre",
-      "venue_id": "140769",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2519856"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2454703",
       "title": "09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion",

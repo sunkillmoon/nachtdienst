@@ -2,16 +2,17 @@
   "id": "173113",
   "name": "Ben Horton",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2520692",
-      "title": "Yellow House 5 September",
-      "date": "2026-09-04",
-      "start": "2026-09-04T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
+      "id": "ra:2509848",
+      "title": "FOR YOU THE SUMMER CLOSING with ALISHA",
+      "date": "2026-10-03",
+      "start": "2026-10-03T17:00+02:00",
+      "venue": "Marcfait",
+      "venue_id": "299695",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520692"
+      "url": "https://ra.co/events/2509848"
     },
     {
       "id": "ra:2487480",
@@ -24,17 +25,15 @@
       "url": "https://ra.co/events/2487480"
     },
     {
-      "id": "ra:2509848",
-      "title": "FOR YOU THE SUMMER CLOSING with ALISHA",
-      "date": "2026-10-03",
-      "start": "2026-10-03T17:00+02:00",
-      "venue": "Marcfait",
-      "venue_id": "299695",
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509848"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2520692"
+    },
     {
       "id": "ra:2443517",
       "title": "16 AUG - Thuishaven with Gaskin 5HRS",

@@ -1,7 +1,8 @@
 {
   "id": "192255",
   "name": "cult.community",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2513912",
       "title": "Cult.",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2513912"
     }
   ],
-  "past": [],
   "top_artists": []
 }

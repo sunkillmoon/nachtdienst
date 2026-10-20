@@ -2,7 +2,8 @@
   "id": "113818",
   "name": "angelboy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501510",
       "title": "angelboy & Schwesta P",
@@ -12,9 +13,7 @@
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501510"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",

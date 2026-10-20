@@ -1,0 +1,29 @@
+{
+  "id": "172069",
+  "name": "Sketch Music",
+  "upcoming": [
+    {
+      "id": "ra:2538998",
+      "title": "Sketch Music Takeover - ADE Boat Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TBA - Eivissa Event Ship - Danzigerkade 55",
+      "venue_id": "302926",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538998"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "21669",
+      "name": "AnD",
+      "count": 1
+    },
+    {
+      "id": "145065",
+      "name": "HGods",
+      "count": 1
+    }
+  ]
+}

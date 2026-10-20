@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458317",
-      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
-      "date": "2026-08-29",
-      "start": "2026-08-29T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
+      "id": "ra:2511545",
+      "title": "SLPFNK X Yoyaku ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T08:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458317"
-    },
+      "url": "https://ra.co/events/2511545"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2520630",
       "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2520630"
     },
     {
-      "id": "ra:2511545",
-      "title": "SLPFNK X Yoyaku ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T08:00+02:00",
-      "venue": "Klaproos",
-      "venue_id": "175707",
+      "id": "ra:2458317",
+      "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511545"
+      "url": "https://ra.co/events/2458317"
     }
-  ],
-  "past": []
+  ]
 }

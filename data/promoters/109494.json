@@ -1,0 +1,69 @@
+{
+  "id": "109494",
+  "name": "POING",
+  "upcoming": [
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "173673",
+      "name": "Candy Coup",
+      "count": 1
+    },
+    {
+      "id": "40041",
+      "name": "CAIN",
+      "count": 1
+    },
+    {
+      "id": "113030",
+      "name": "CyberFairy777",
+      "count": 1
+    },
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "113191",
+      "name": "Faustin (NL)",
+      "count": 1
+    },
+    {
+      "id": "138220",
+      "name": "fka phaedra",
+      "count": 1
+    },
+    {
+      "id": "113952",
+      "name": "Glabra",
+      "count": 1
+    },
+    {
+      "id": "105174",
+      "name": "Nelly (NL)",
+      "count": 1
+    },
+    {
+      "id": "124094",
+      "name": "RICO RICA",
+      "count": 1
+    },
+    {
+      "id": "139742",
+      "name": "Saint Nia",
+      "count": 1
+    }
+  ]
+}

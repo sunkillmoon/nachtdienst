@@ -2,7 +2,28 @@
   "id": "2356",
   "name": "Henry Saiz",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2545096",
+      "title": "Audioholics ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545096"
+    },
+    {
+      "id": "ra:2510255",
+      "title": "EVOQUE x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510255"
+    }
+  ],
   "past": [
     {
       "id": "ra:2500787",

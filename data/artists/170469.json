@@ -1,0 +1,38 @@
+{
+  "id": "170469",
+  "name": "ANTO ZAGU",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559479",
+      "title": "APERITIVO LEONE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "TBA - Assaggi",
+      "venue_id": "305066",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559479"
+    },
+    {
+      "id": "ra:2552930",
+      "title": "Rooftop Tapes feat. Noire presents: Pete Tong",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "nhow Amsterdam RAI",
+      "venue_id": "248821",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552930"
+    },
+    {
+      "id": "ra:2563648",
+      "title": "ADE w. Deep House Bucharest & BeYourOwnLabel",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563648"
+    }
+  ],
+  "past": []
+}

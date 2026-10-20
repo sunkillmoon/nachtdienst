@@ -2,7 +2,8 @@
   "id": "135960",
   "name": "SOPHOE",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508829",
       "title": "GUMMI",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2508829"
     }
-  ],
-  "past": []
+  ]
 }

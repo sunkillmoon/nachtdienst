@@ -1,0 +1,29 @@
+{
+  "id": "128278",
+  "name": "Atomiser",
+  "upcoming": [
+    {
+      "id": "ra:2563102",
+      "title": "Atomiser x Hothead",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Dokzaal",
+      "venue_id": "208343",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563102"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "155592",
+      "name": "xmal",
+      "count": 1
+    },
+    {
+      "id": "173653",
+      "name": "drum song (dj)",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "74271",
   "name": "Samuelspaniel",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511275",
       "title": "TOURIST TRAP & SEEDLINIK",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511275"
     }
-  ],
-  "past": []
+  ]
 }

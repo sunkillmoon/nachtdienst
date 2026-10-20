@@ -6,6 +6,56 @@
   "lng": 4.92,
   "upcoming": [
     {
+      "id": "ra:2473295",
+      "title": "Intercell ADE Kickoff | ADE By Day",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473295"
+    },
+    {
+      "id": "ra:2491610",
+      "title": "Somov at BAJES - BLOK K (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
+    },
+    {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
+    },
+    {
+      "id": "ra:2545963",
+      "title": "DANCÆ × Chlär",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545963"
+    },
+    {
+      "id": "ra:2473366",
+      "title": "Intercell x Oscar Mulero Invites | ADE By Night",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473366"
+    },
+    {
       "id": "ra:2494330",
       "title": "Avalon Emerson pres. 9000 Dreams",
       "date": "2026-10-23",
@@ -26,6 +76,16 @@
       "url": "https://ra.co/events/2473373"
     },
     {
+      "id": "ra:2473385",
+      "title": "Intercell x Skin On Skin Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473385"
+    },
+    {
       "id": "ra:2473390",
       "title": "Intercell x Yanamaste Invites - ADE By Night",
       "date": "2026-10-24",
@@ -44,6 +104,16 @@
       "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500675"
+    },
+    {
+      "id": "ra:2473393",
+      "title": "Intercell x fumi Invites - ADE By Day",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473393"
     },
     {
       "id": "ra:2473398",

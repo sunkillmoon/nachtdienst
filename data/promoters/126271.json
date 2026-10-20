@@ -1,0 +1,49 @@
+{
+  "id": "126271",
+  "name": "Ruben",
+  "upcoming": [
+    {
+      "id": "ra:2555611",
+      "title": "Lowfriends Showcase ADE REcharge SOLD OUT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555611"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "126826",
+      "name": "Hightower",
+      "count": 1
+    },
+    {
+      "id": "47219",
+      "name": "Rene Engel",
+      "count": 1
+    },
+    {
+      "id": "66302",
+      "name": "Mark Mywords",
+      "count": 1
+    },
+    {
+      "id": "87974",
+      "name": "Casablanca 303",
+      "count": 1
+    },
+    {
+      "id": "117457",
+      "name": "Coralie Llie",
+      "count": 1
+    },
+    {
+      "id": "170475",
+      "name": "Soof",
+      "count": 1
+    }
+  ]
+}

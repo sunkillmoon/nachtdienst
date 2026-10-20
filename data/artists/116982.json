@@ -2,7 +2,8 @@
   "id": "116982",
   "name": "Sozef",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520692",
       "title": "Yellow House 5 September",
@@ -12,9 +13,7 @@
       "venue_id": "200290",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520692"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2485555",
       "title": "Subcultuur Nachtvierdaagse",

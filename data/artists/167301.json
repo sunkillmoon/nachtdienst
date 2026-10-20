@@ -1,0 +1,28 @@
+{
+  "id": "167301",
+  "name": "Sarah Saleh",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2561238",
+      "title": "A Soft Guide to Chill",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "W139",
+      "venue_id": "143827",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561238"
+    },
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
+  "past": []
+}

@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    },
+    {
+      "id": "ra:2564772",
+      "title": "MUSEUMNACHT x ANTIA (afterparty)",
+      "date": "2026-11-06",
+      "start": "2026-11-07T00:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564772"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -12,9 +34,7 @@
       "venue_id": "152676",
       "area": "All",
       "url": "https://ra.co/events/2373930"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494104",
       "title": "Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN",

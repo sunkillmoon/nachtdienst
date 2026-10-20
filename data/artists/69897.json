@@ -2,7 +2,18 @@
   "id": "69897",
   "name": "Tammo Hesselink",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
   "past": [
     {
       "id": "ra:2483329",

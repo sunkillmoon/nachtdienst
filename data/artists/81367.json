@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2545963",
+      "title": "DANCÆ × Chlär",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545963"
+    },
+    {
+      "id": "ra:2539771",
+      "title": "Primal Instinct with Chlär & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539771"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2510264",
       "title": "Chlär All Night Long - Vault Sessions & RADION",
       "date": "2026-09-19",
@@ -12,9 +44,7 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510264"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

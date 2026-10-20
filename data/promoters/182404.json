@@ -1,0 +1,29 @@
+{
+  "id": "182404",
+  "name": "Disco Saves The Day",
+  "upcoming": [
+    {
+      "id": "ra:2551155",
+      "title": "Disco Saves The Day presents: MiNNA & Laura Meester",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551155"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120029",
+      "name": "MiNNA",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    }
+  ]
+}

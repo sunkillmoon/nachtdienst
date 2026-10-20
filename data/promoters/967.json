@@ -26,6 +26,21 @@
   "past": [],
   "top_artists": [
     {
+      "id": "14812",
+      "name": "Binh",
+      "count": 2
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 2
+    },
+    {
+      "id": "71178",
+      "name": "Lumiere",
+      "count": 2
+    },
+    {
       "id": "188",
       "name": "Jeff Mills",
       "count": 1
@@ -51,23 +66,13 @@
       "count": 1
     },
     {
-      "id": "14812",
-      "name": "Binh",
-      "count": 1
-    },
-    {
       "id": "93539",
       "name": "Quelza",
       "count": 1
     },
     {
-      "id": "86500",
-      "name": "Gabrielle Kwarteng",
-      "count": 1
-    },
-    {
-      "id": "71178",
-      "name": "Lumiere",
+      "id": "103146",
+      "name": "Alexia Glensy",
       "count": 1
     }
   ]

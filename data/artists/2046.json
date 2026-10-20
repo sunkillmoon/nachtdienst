@@ -2,7 +2,8 @@
   "id": "2046",
   "name": "Bart Skils",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2448883",
       "title": "Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen",
@@ -12,9 +13,7 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2448883"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501591",
       "title": "Loveland Festival Official Afterparty (Sun)",

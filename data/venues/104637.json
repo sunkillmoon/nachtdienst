@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.92523,
   "lng": 4.475996,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504401",
       "title": "bratty • with charli xcx & other brat coded artists • rotterdam",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2504401"
     }
-  ],
-  "past": []
+  ]
 }

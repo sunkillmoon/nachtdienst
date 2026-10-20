@@ -3,24 +3,24 @@
   "name": "PIV",
   "upcoming": [
     {
-      "id": "ra:2448972",
-      "title": "PIV AT THE BEACH",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2448972"
-    },
-    {
       "id": "ra:2466448",
-      "title": "PIV - The Loft",
+      "title": "PIV - The Loft [SOLD OUT]",
       "date": "2026-10-21",
       "start": "2026-10-22T07:00+02:00",
       "venue": "The Loft Amsterdam",
       "venue_id": "190657",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466448"
+    },
+    {
+      "id": "ra:2563172",
+      "title": "PIV ADE - Masterclass by Dennis Quin",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TBA - A LAB Amsterdam",
+      "venue_id": "305438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563172"
     },
     {
       "id": "ra:2459379",
@@ -55,6 +55,16 @@
   ],
   "past": [
     {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
+    },
+    {
       "id": "ra:2464028",
       "title": "Prunk ALL DAY",
       "date": "2026-08-07",
@@ -69,16 +79,41 @@
     {
       "id": "14022",
       "name": "Prunk",
-      "count": 3
+      "count": 4
     },
     {
-      "id": "110515",
-      "name": "AAT (NL)",
-      "count": 1
+      "id": "155295",
+      "name": "Klaudie",
+      "count": 2
     },
     {
       "id": "94324",
       "name": "Robbie Doherty",
+      "count": 2
+    },
+    {
+      "id": "71704",
+      "name": "Kellie Allen",
+      "count": 1
+    },
+    {
+      "id": "118376",
+      "name": "Ranger Trucco",
+      "count": 1
+    },
+    {
+      "id": "102507",
+      "name": "RUZE",
+      "count": 1
+    },
+    {
+      "id": "71551",
+      "name": "Toman",
+      "count": 1
+    },
+    {
+      "id": "65929",
+      "name": "Dennis Quin",
       "count": 1
     },
     {
@@ -89,31 +124,6 @@
     {
       "id": "90020",
       "name": "Demi Riquisimo",
-      "count": 1
-    },
-    {
-      "id": "117739",
-      "name": "Ella Knight",
-      "count": 1
-    },
-    {
-      "id": "47",
-      "name": "Ian Pooley",
-      "count": 1
-    },
-    {
-      "id": "94638",
-      "name": "Isaac Carter",
-      "count": 1
-    },
-    {
-      "id": "26090",
-      "name": "Anil Aras",
-      "count": 1
-    },
-    {
-      "id": "6467",
-      "name": "Cinthie",
       "count": 1
     }
   ]

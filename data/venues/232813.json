@@ -6,58 +6,8 @@
   "lng": 4.843713,
   "upcoming": [
     {
-      "id": "ra:2498987",
-      "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498987"
-    },
-    {
-      "id": "ra:2507742",
-      "title": "TILT x Syntax Error",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507742"
-    },
-    {
-      "id": "ra:2499622",
-      "title": "United Identities ...IsBurning",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499622"
-    },
-    {
-      "id": "ra:2421033",
-      "title": "BCCO x TRANSITION",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2421033"
-    },
-    {
-      "id": "ra:2505220",
-      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505220"
-    },
-    {
       "id": "ra:2475664",
-      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC",
       "date": "2026-10-21",
       "start": "2026-10-21T23:00+02:00",
       "venue": "TILLATEC",
@@ -86,6 +36,16 @@
       "url": "https://ra.co/events/2488526"
     },
     {
+      "id": "ra:2531389",
+      "title": "Vinylism x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531389"
+    },
+    {
       "id": "ra:2493047",
       "title": "Disturbia x Soundcora - ADE 2026",
       "date": "2026-10-23",
@@ -106,6 +66,16 @@
       "url": "https://ra.co/events/2518303"
     },
     {
+      "id": "ra:2531405",
+      "title": "TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531405"
+    },
+    {
       "id": "ra:2489846",
       "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
       "date": "2026-10-26",
@@ -114,9 +84,69 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489846"
+    },
+    {
+      "id": "ra:2551396",
+      "title": "THE GRAND FINALE: TILLATEC Closing Weekender",
+      "date": "2026-11-06",
+      "start": "2026-11-06T20:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551396"
     }
   ],
   "past": [
+    {
+      "id": "ra:2505220",
+      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505220"
+    },
+    {
+      "id": "ra:2421033",
+      "title": "BCCO x TRANSITION",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2421033"
+    },
+    {
+      "id": "ra:2499622",
+      "title": "United Identities ...IsBurning",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499622"
+    },
+    {
+      "id": "ra:2507742",
+      "title": "TILT x Syntax Error",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507742"
+    },
+    {
+      "id": "ra:2498987",
+      "title": "Unsilenced with livwutang, Mery b2b Malom, skyra (live)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498987"
+    },
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",

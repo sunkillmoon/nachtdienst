@@ -1,0 +1,28 @@
+{
+  "id": "79079",
+  "name": "deep creep",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    },
+    {
+      "id": "ra:2546494",
+      "title": "C001",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2546494"
+    }
+  ],
+  "past": []
+}

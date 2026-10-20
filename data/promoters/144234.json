@@ -1,0 +1,44 @@
+{
+  "id": "144234",
+  "name": "Kumata",
+  "upcoming": [
+    {
+      "id": "ra:2558103",
+      "title": "Kumata x New World Dysorder Amsterdam",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558103"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "110734",
+      "name": "DIORA",
+      "count": 1
+    },
+    {
+      "id": "125783",
+      "name": "ARAKAZA",
+      "count": 1
+    },
+    {
+      "id": "88470",
+      "name": "DRKNGHTS",
+      "count": 1
+    },
+    {
+      "id": "181172",
+      "name": "ELLE FIERCE",
+      "count": 1
+    },
+    {
+      "id": "74286",
+      "name": "Mama Yha Yha",
+      "count": 1
+    }
+  ]
+}

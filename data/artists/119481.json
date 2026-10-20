@@ -4,24 +4,76 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2507768",
-      "title": "RIPE: ART EXHIBITION & LAUNCH PARTY - with CLBHUIS & Boogie House",
-      "date": "2026-08-28",
-      "start": "2026-08-28T19:30+02:00",
-      "venue": "Db55",
-      "venue_id": "248511",
+      "id": "ra:2529438",
+      "title": "Becking presents: DAMSKO GARAGE w/ JOE HUNT & GENTLEMENS CLUB (LAST TICKETS)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507768"
+      "url": "https://ra.co/events/2529438"
     },
     {
-      "id": "ra:2519354",
-      "title": "TUKTUK RADIO x Boogie House: TAKE-OVER OF Loop51",
-      "date": "2026-09-04",
-      "start": "2026-09-04T20:00+02:00",
+      "id": "ra:2564524",
+      "title": "MOJU x Boogie House: Boogie Bike activation",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "Amsterdam Central Station",
+      "venue_id": "137362",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564524"
+    },
+    {
+      "id": "ra:2531688",
+      "title": "FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam",
+      "venue_id": "302107",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531688"
+    },
+    {
+      "id": "ra:2481219",
+      "title": "ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Badhuis Amsterdam",
+      "venue_id": "276109",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481219"
+    },
+    {
+      "id": "ra:2383070",
+      "title": "Boogie House ADE 2026 LISTENING SESSIONS w/ FAZE MAG, CLBHUIS & Tom Novy",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
       "venue": "Loop51",
       "venue_id": "254524",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519354"
+      "url": "https://ra.co/events/2383070"
+    },
+    {
+      "id": "ra:2514292",
+      "title": "JØASE x Boogie House x CLBHUIS: ADE ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T22:00+01:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514292"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2514291",
+      "title": "PARELS VAN DE STAD: Boogie House STAGE TAKE-OVER",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Sportpark Riekerhaven",
+      "venue_id": "61582",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514291"
     },
     {
       "id": "ra:2520902",
@@ -34,27 +86,25 @@
       "url": "https://ra.co/events/2520902"
     },
     {
-      "id": "ra:2514291",
-      "title": "PARELS VAN DE STAD: Boogie House STAGE TAKE-OVER",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Sportpark Riekerhaven",
-      "venue_id": "61582",
+      "id": "ra:2519354",
+      "title": "TUKTUK RADIO x Boogie House: TAKE-OVER OF Loop51",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514291"
+      "url": "https://ra.co/events/2519354"
     },
     {
-      "id": "ra:2514292",
-      "title": "JØASE X Boogie House: ADE CLOSING CEREMONY",
-      "date": "2026-10-25",
-      "start": "2026-10-25T22:00+01:00",
-      "venue": "Panama",
-      "venue_id": "1729",
+      "id": "ra:2507768",
+      "title": "RIPE: ART EXHIBITION & LAUNCH PARTY - with CLBHUIS & Boogie House",
+      "date": "2026-08-28",
+      "start": "2026-08-28T19:30+02:00",
+      "venue": "Db55",
+      "venue_id": "248511",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514292"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2507768"
+    },
     {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",

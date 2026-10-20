@@ -1,0 +1,49 @@
+{
+  "id": "193305",
+  "name": "Transit",
+  "upcoming": [
+    {
+      "id": "ra:2525347",
+      "title": "30 Years Bassculture Foundation",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525347"
+    },
+    {
+      "id": "ra:2528225",
+      "title": "Norteños",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528225"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "158836",
+      "name": "Tom Dubwise",
+      "count": 1
+    },
+    {
+      "id": "79607",
+      "name": "Vette Mette",
+      "count": 1
+    },
+    {
+      "id": "73899",
+      "name": "Gropina",
+      "count": 1
+    },
+    {
+      "id": "186314",
+      "name": "Spiritual Embassy",
+      "count": 1
+    }
+  ]
+}

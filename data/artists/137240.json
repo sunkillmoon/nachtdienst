@@ -4,14 +4,56 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
+      "id": "ra:2479104",
+      "title": "Awakenings ADE - Opening Night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479104"
+    },
+    {
+      "id": "ra:2473393",
+      "title": "Intercell x fumi Invites - ADE By Day",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473393"
+    },
+    {
+      "id": "ra:2559425",
+      "title": "CLUB NIGHT",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559425"
+    },
+    {
+      "id": "ra:2541042",
+      "title": "Basic Grooves",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Muziekcentrum Enschede",
+      "venue_id": "174231",
       "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "url": "https://ra.co/events/2541042"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2421033",
+      "title": "BCCO x TRANSITION",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2421033"
     },
     {
       "id": "ra:2437294",
@@ -24,35 +66,14 @@
       "url": "https://ra.co/events/2437294"
     },
     {
-      "id": "ra:2421033",
-      "title": "BCCO x TRANSITION",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2421033"
-    },
-    {
-      "id": "ra:2479104",
-      "title": "Awakenings ADE - Opening Night",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00+02:00",
-      "venue": "Sugarfactory",
-      "venue_id": "277115",
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
       "area": "All",
-      "url": "https://ra.co/events/2479104"
-    },
-    {
-      "id": "ra:2473393",
-      "title": "Intercell x fumi Invites - ADE By Day",
-      "date": "2026-10-25",
-      "start": "2026-10-25T15:00+01:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473393"
+      "url": "https://ra.co/events/2373930"
     }
-  ],
-  "past": []
+  ]
 }

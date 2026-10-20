@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524505"
+    },
+    {
+      "id": "ra:2561428",
+      "title": "LOCKERROOM #43",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Club Church",
+      "venue_id": "95535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561428"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493594",
       "title": "SevenEight78",
       "date": "2026-08-29",
@@ -12,9 +34,7 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493594"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2474895",
       "title": "EAST Techno Collective",

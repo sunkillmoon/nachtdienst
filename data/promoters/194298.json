@@ -1,0 +1,39 @@
+{
+  "id": "194298",
+  "name": "PWCC",
+  "upcoming": [
+    {
+      "id": "ra:2542112",
+      "title": "PWCC TAKEOVER X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542112"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "39963",
+      "name": "Giammarco Orsini",
+      "count": 1
+    },
+    {
+      "id": "18369",
+      "name": "Manoman",
+      "count": 1
+    },
+    {
+      "id": "96858",
+      "name": "GENE",
+      "count": 1
+    },
+    {
+      "id": "111488",
+      "name": "Rolmar",
+      "count": 1
+    }
+  ]
+}

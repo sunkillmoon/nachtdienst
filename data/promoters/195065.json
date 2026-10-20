@@ -1,0 +1,69 @@
+{
+  "id": "195065",
+  "name": "Borderline",
+  "upcoming": [
+    {
+      "id": "ra:2550452",
+      "title": "Borderline ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Smokey Club",
+      "venue_id": "272336",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550452"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "147497",
+      "name": "Aftersunday",
+      "count": 1
+    },
+    {
+      "id": "38246",
+      "name": "Baron",
+      "count": 1
+    },
+    {
+      "id": "167583",
+      "name": "ESSNCE",
+      "count": 1
+    },
+    {
+      "id": "162237",
+      "name": "Jerry M",
+      "count": 1
+    },
+    {
+      "id": "120291",
+      "name": "Luca Saporito (Audiofly)",
+      "count": 1
+    },
+    {
+      "id": "79065",
+      "name": "Maqossa",
+      "count": 1
+    },
+    {
+      "id": "170157",
+      "name": "Nadrums",
+      "count": 1
+    },
+    {
+      "id": "177309",
+      "name": "NESHOW",
+      "count": 1
+    },
+    {
+      "id": "138504",
+      "name": "Stasi Sanlin",
+      "count": 1
+    },
+    {
+      "id": "157189",
+      "name": "Vanee",
+      "count": 1
+    }
+  ]
+}

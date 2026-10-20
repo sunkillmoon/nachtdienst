@@ -2,7 +2,48 @@
   "id": "66630",
   "name": "SYREETA",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2516768",
+      "title": "The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516768"
+    },
+    {
+      "id": "ra:2466156",
+      "title": "Dockyard Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466156"
+    },
+    {
+      "id": "ra:2466154",
+      "title": "Mystic Garden Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466154"
+    },
+    {
+      "id": "ra:2543998",
+      "title": "HE.SHE.THEY. X Dockyard Festival X Mystic Garden ADE 2026: Stage Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543998"
+    }
+  ],
   "past": [
     {
       "id": "ra:2454376",

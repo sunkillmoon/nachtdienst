@@ -1,0 +1,44 @@
+{
+  "id": "170417",
+  "name": "On The Rocks ",
+  "upcoming": [
+    {
+      "id": "ra:2523021",
+      "title": "On The Rocks with Tornado Wallace (ADE Special)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523021"
+    },
+    {
+      "id": "ra:2523037",
+      "title": "On The Rocks with Sassy J (ADE Special)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Hearth",
+      "venue_id": "194483",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523037"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "167864",
+      "name": "On the Rocks (OTR)",
+      "count": 2
+    },
+    {
+      "id": "14698",
+      "name": "Tornado Wallace",
+      "count": 1
+    },
+    {
+      "id": "58944",
+      "name": "Sassy J",
+      "count": 1
+    }
+  ]
+}

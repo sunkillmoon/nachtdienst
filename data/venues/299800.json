@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.37,
   "lng": 4.9,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510482",
       "title": "Black Josh & Lee Scott — Live In-Store",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510482"
     }
-  ],
-  "past": []
+  ]
 }

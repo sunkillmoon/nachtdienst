@@ -1,7 +1,8 @@
 {
   "id": "156843",
   "name": "Ópalo",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2477038",
       "title": "Ópalo - 4YR Anniversary",
@@ -11,9 +12,7 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2477038"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2476013",
       "title": "Ópalo at The Crane",

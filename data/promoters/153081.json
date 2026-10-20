@@ -1,0 +1,79 @@
+{
+  "id": "153081",
+  "name": "noclubs",
+  "upcoming": [
+    {
+      "id": "ra:2547887",
+      "title": "giegling at ingang - ade",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547887"
+    },
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "7556",
+      "name": "Eduardo de la Calle",
+      "count": 1
+    },
+    {
+      "id": "30893",
+      "name": "Zenker Brothers",
+      "count": 1
+    },
+    {
+      "id": "56340",
+      "name": "Central",
+      "count": 1
+    },
+    {
+      "id": "33295",
+      "name": "Mark Ambrose",
+      "count": 1
+    },
+    {
+      "id": "9016",
+      "name": "Aubrey",
+      "count": 1
+    },
+    {
+      "id": "3684",
+      "name": "Edward",
+      "count": 1
+    },
+    {
+      "id": "12067",
+      "name": "Konstantin",
+      "count": 1
+    },
+    {
+      "id": "148084",
+      "name": "Serenne",
+      "count": 1
+    },
+    {
+      "id": "156152",
+      "name": "Dragana",
+      "count": 1
+    },
+    {
+      "id": "139924",
+      "name": "Mimi (4)",
+      "count": 1
+    }
+  ]
+}

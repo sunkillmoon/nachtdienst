@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2533075",
+      "title": "Backspin x Mixmag NL [daytime 2-10pm]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533075"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2395821",
       "title": "Wooferland festival 2026",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "2081",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2438719",
       "title": "City Of Dance Festival",

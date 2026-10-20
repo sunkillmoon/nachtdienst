@@ -1,7 +1,8 @@
 {
   "id": "103272",
   "name": "Redlof Records",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2464345",
       "title": "John Doe CLUB presents: Mosher",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2464345"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "100027",

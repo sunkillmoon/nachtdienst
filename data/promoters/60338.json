@@ -3,16 +3,117 @@
   "name": "Free Your Mind Festival",
   "upcoming": [
     {
+      "id": "ra:2534185",
+      "title": "Free Your Mind x Teletech ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534185"
+    },
+    {
+      "id": "ra:2534262",
+      "title": "Olivier Weiter & Miss Melera 5 hours ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534262"
+    },
+    {
+      "id": "ra:2534207",
+      "title": "Free Your Mind x Teletech: 4 the People",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534207"
+    },
+    {
+      "id": "ra:2534229",
+      "title": "Ferry Corsten & Friends ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534229"
+    },
+    {
       "id": "ra:2502535",
       "title": "Paco Osuna x Now Here ADE",
       "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
+      "start": "2026-10-24T23:00+02:00",
       "venue": "Escape",
       "venue_id": "2683",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502535"
+    },
+    {
+      "id": "ra:2534223",
+      "title": "KRUELTY B2B Vieze Asbak 3hrs ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534223"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "144671",
+      "name": "KRUELTY",
+      "count": 2
+    },
+    {
+      "id": "133008",
+      "name": "Mad Dog",
+      "count": 2
+    },
+    {
+      "id": "150678",
+      "name": "Vieze Asbak",
+      "count": 2
+    },
+    {
+      "id": "86340",
+      "name": "amara",
+      "count": 1
+    },
+    {
+      "id": "104651",
+      "name": "Azyr",
+      "count": 1
+    },
+    {
+      "id": "86980",
+      "name": "Kander",
+      "count": 1
+    },
+    {
+      "id": "157289",
+      "name": "KIRSTY",
+      "count": 1
+    },
+    {
+      "id": "137592",
+      "name": "KLOFAMA",
+      "count": 1
+    },
+    {
+      "id": "121675",
+      "name": "KLOUD",
+      "count": 1
+    },
+    {
+      "id": "176947",
+      "name": "Lola Cerise",
+      "count": 1
+    }
+  ]
 }

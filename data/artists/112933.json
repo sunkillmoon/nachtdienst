@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505220",
-      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2526144",
+      "title": "20 years of The Warehouse Project",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2505220"
+      "url": "https://ra.co/events/2526144"
     },
     {
       "id": "ra:2495403",
@@ -25,7 +25,7 @@
     },
     {
       "id": "ra:2494410",
-      "title": "Second Wind",
+      "title": "Breakfast Club ADE: Second Wind",
       "date": "2026-10-25",
       "start": "2026-10-25T09:00+01:00",
       "venue": "RADION",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505220",
+      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505220"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

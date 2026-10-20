@@ -4,15 +4,47 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516918",
-      "title": "Frenzy x shockwerk",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
+      "id": "ra:2552070",
+      "title": "BULLDOG x VULGED",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552070"
+    },
+    {
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516918"
+      "url": "https://ra.co/events/2536871"
     },
+    {
+      "id": "ra:2492405",
+      "title": "LNR: Local Night RADION - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492405"
+    },
+    {
+      "id": "ra:2528841",
+      "title": "Frenzy 7YRS WKNDR",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528841"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2514445",
       "title": "FRENZY x SHOCKWERK",
@@ -24,17 +56,15 @@
       "url": "https://ra.co/events/2514445"
     },
     {
-      "id": "ra:2492405",
-      "title": "LNR - ADE edition",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
+      "id": "ra:2516918",
+      "title": "Frenzy x shockwerk",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2492405"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2516918"
+    },
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",

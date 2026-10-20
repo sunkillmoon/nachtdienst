@@ -2,7 +2,18 @@
   "id": "773",
   "name": "Radio Slave",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2534664",
+      "title": "Snatch! Records ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534664"
+    }
+  ],
   "past": [
     {
       "id": "ra:2472104",

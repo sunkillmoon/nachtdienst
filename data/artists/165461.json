@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2516785",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516785"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2496553",
       "title": "Andrew Azara, Traumer b2b Janeret",
       "date": "2026-09-12",
@@ -12,9 +24,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496553"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2436230",
       "title": "De Sessie - Ryan Elliott - Summer Sessions",

@@ -1,0 +1,38 @@
+{
+  "id": "168465",
+  "name": "I AM WOLV",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2551460",
+      "title": "Techno Boat with Space 92, Svetec & more — 2 Floors",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "TBA - EIVISSA",
+      "venue_id": "303920",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551460"
+    },
+    {
+      "id": "ra:2551461",
+      "title": "CMA × FH Agency pres. — ADE Closing",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551461"
+    },
+    {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    }
+  ],
+  "past": []
+}

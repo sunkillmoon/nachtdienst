@@ -1,0 +1,20 @@
+{
+  "id": "302814",
+  "name": "Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2527632",
+      "title": "CHICAGO MEETS AMSTERDAM X ADE 26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam",
+      "venue_id": "302814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527632"
+    }
+  ],
+  "past": []
+}

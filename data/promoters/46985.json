@@ -3,16 +3,6 @@
   "name": "Rinse FM",
   "upcoming": [
     {
-      "id": "ra:2481531",
-      "title": "UNMUTE X Rinse FM X Back:beat",
-      "date": "2026-09-06",
-      "start": "2026-09-06T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2481531"
-    },
-    {
       "id": "ra:2496769",
       "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
       "date": "2026-10-22",
@@ -53,7 +43,18 @@
       "url": "https://ra.co/events/2481524"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481531",
+      "title": "UNMUTE X Rinse FM X Back:beat",
+      "date": "2026-09-06",
+      "start": "2026-09-06T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2481531"
+    }
+  ],
   "top_artists": [
     {
       "id": "82621",

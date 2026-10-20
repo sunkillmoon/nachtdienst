@@ -4,17 +4,37 @@
   "upcoming": [
     {
       "id": "ra:2507405",
-      "title": "LOOSE MONKEY TAKEOVER",
+      "title": "LOOSE MONKEY TAKEOVER AT Blend XL",
       "date": "2026-10-23",
       "start": "2026-10-23T17:00+02:00",
       "venue": "Blend XL",
       "venue_id": "204369",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507405"
+    },
+    {
+      "id": "ra:2527632",
+      "title": "CHICAGO MEETS AMSTERDAM X ADE 26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam",
+      "venue_id": "302814",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527632"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "188171",
+      "name": "MR. SKIN",
+      "count": 2
+    },
+    {
+      "id": "167643",
+      "name": "TWOEF",
+      "count": 2
+    },
     {
       "id": "24393",
       "name": "Toti Coco",
@@ -31,8 +51,23 @@
       "count": 1
     },
     {
-      "id": "167643",
-      "name": "TWOEF",
+      "id": "129482",
+      "name": "ADEZ",
+      "count": 1
+    },
+    {
+      "id": "156951",
+      "name": "Bianchetti",
+      "count": 1
+    },
+    {
+      "id": "28928",
+      "name": "DJ Vivona",
+      "count": 1
+    },
+    {
+      "id": "2162",
+      "name": "Robert Owens",
       "count": 1
     }
   ]

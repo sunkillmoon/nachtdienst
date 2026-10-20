@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531359"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2464177",
       "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
@@ -22,7 +24,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464177"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "56562",
   "name": "Menno de Jong Productions",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2410327",
       "title": "Menno Solo - The Reunion",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2410327"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "1829",

@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2474403",
+      "title": "DGTL ADE Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "NDSM Scheepsbouwloods",
+      "venue_id": "81634",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2474403"
+    },
+    {
+      "id": "ra:2442667",
+      "title": "Max Dean & Wavy present: NEXUP [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2442667"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2500811",
       "title": "TOFFLER presents Locky (3HR set)",
       "date": "2026-10-10",
@@ -13,18 +35,6 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2500811"
     },
-    {
-      "id": "ra:2474403",
-      "title": "DGTL ADE Thursday",
-      "date": "2026-10-22",
-      "start": "2026-10-22T17:00+02:00",
-      "venue": "NDSM Scheepsbouwloods",
-      "venue_id": "81634",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2474403"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2479334",
       "title": "Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT)",

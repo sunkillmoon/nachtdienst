@@ -1,0 +1,24 @@
+{
+  "id": "194868",
+  "name": "Spotlite",
+  "upcoming": [
+    {
+      "id": "ra:2555818",
+      "title": "Juicy Beats Tour - Adriatique",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Joe & the Juice",
+      "venue_id": "304636",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555818"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "8316",
+      "name": "Adriatique",
+      "count": 1
+    }
+  ]
+}

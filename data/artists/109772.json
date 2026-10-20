@@ -2,7 +2,8 @@
   "id": "109772",
   "name": "CHEM:EX",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499737",
       "title": "Uphoria x Roots",
@@ -12,9 +13,7 @@
       "venue_id": "230222",
       "area": "Utrecht",
       "url": "https://ra.co/events/2499737"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488713",
       "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",

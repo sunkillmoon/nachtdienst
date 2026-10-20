@@ -3,6 +3,38 @@
   "name": "Micro Trax",
   "upcoming": [
     {
+      "id": "ra:2552382",
+      "title": "Micro Trax x HED² - Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "HED² Barber",
+      "venue_id": "303964",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552382"
+    },
+    {
+      "id": "ra:2548912",
+      "title": "Micro Trax x HED² - Friday",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "HED² Barber",
+      "venue_id": "303964",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548912"
+    },
+    {
+      "id": "ra:2552383",
+      "title": "Micro Trax x HED² - Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "HED² Barber",
+      "venue_id": "303964",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552383"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2498008",
       "title": "Micro Fest 2026",
       "date": "2026-08-29",
@@ -13,11 +45,25 @@
       "url": "https://ra.co/events/2498008"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "153659",
       "name": "Jesse Watamalejo",
+      "count": 2
+    },
+    {
+      "id": "52697",
+      "name": "C.R.A.C.K.E.N.",
+      "count": 1
+    },
+    {
+      "id": "189950",
+      "name": "Norik Sadiku",
+      "count": 1
+    },
+    {
+      "id": "119103",
+      "name": "Banglasesh",
       "count": 1
     }
   ]

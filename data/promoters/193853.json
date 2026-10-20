@@ -1,0 +1,44 @@
+{
+  "id": "193853",
+  "name": "Dance Division",
+  "upcoming": [
+    {
+      "id": "ra:2539812",
+      "title": "Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539812"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "70262",
+      "name": "Identified Patient",
+      "count": 1
+    },
+    {
+      "id": "106788",
+      "name": "Maara",
+      "count": 1
+    },
+    {
+      "id": "96823",
+      "name": "Berkan V8",
+      "count": 1
+    },
+    {
+      "id": "140652",
+      "name": "Hervé",
+      "count": 1
+    },
+    {
+      "id": "135432",
+      "name": "Jaimy (2)",
+      "count": 1
+    }
+  ]
+}

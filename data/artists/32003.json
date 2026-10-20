@@ -1,0 +1,28 @@
+{
+  "id": "32003",
+  "name": "ME.N.U.",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2522140",
+      "title": "Waterhouse x Garden Of Dreams invites Lehar",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522140"
+    },
+    {
+      "id": "ra:2563519",
+      "title": "Afterhours Halloween Edition",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563519"
+    }
+  ],
+  "past": []
+}

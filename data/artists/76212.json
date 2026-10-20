@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2297501",
+      "title": "Into the Woods ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Ndsm Wharf",
+      "venue_id": "159079",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2297501"
     },
+    {
+      "id": "ra:2561061",
+      "title": "Noorderlicht ADE Special",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561061"
+    },
+    {
+      "id": "ra:2436427",
+      "title": "Glow in the Dark 'Halloween Special' 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436427"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2436233",
       "title": "Rotterdam Rave Festival 2026",
@@ -34,25 +56,14 @@
       "url": "https://ra.co/events/2479794"
     },
     {
-      "id": "ra:2297501",
-      "title": "Into the Woods ADE 2026",
-      "date": "2026-10-23",
-      "start": "2026-10-23T13:00+02:00",
-      "venue": "Ndsm Wharf",
-      "venue_id": "159079",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2297501"
-    },
-    {
-      "id": "ra:2436427",
-      "title": "Glow in the Dark 'Halloween Special' 2026",
-      "date": "2026-10-31",
-      "start": "2026-10-31T14:00+01:00",
-      "venue": "Maassilo",
-      "venue_id": "4902",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2436427"
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
     }
-  ],
-  "past": []
+  ]
 }

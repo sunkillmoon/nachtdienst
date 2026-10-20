@@ -2,7 +2,8 @@
   "id": "102392",
   "name": "fka.m4a",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481410",
       "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2481410"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",

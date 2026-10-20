@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
-      "id": "ra:2491613",
-      "title": "Delsin: 30 Years Anniversary",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491613"
-    },
-    {
-      "id": "ra:2517610",
-      "title": "Doppelgang Birthday Session",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517610"
-    },
-    {
       "id": "ra:2488526",
       "title": "Vault Sessions ADE - TILLATEC",
       "date": "2026-10-22",
@@ -62,9 +32,49 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2556031",
+      "title": "DDW Closing 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Royaal",
+      "venue_id": "124620",
+      "area": "Eindhoven",
+      "url": "https://ra.co/events/2556031"
     }
   ],
   "past": [
+    {
+      "id": "ra:2517610",
+      "title": "Doppelgang Birthday Session",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517610"
+    },
+    {
+      "id": "ra:2491613",
+      "title": "Delsin: 30 Years Anniversary",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491613"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

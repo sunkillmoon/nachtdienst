@@ -6,44 +6,146 @@
   "lng": 4.8425825,
   "upcoming": [
     {
-      "id": "ra:2501268",
-      "title": "Rythym Amsterdam",
-      "date": "2026-08-27",
-      "start": "2026-08-27T22:00+02:00",
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2501268"
+      "url": "https://ra.co/events/2504927"
     },
     {
-      "id": "ra:2502868",
-      "title": "Rythym 2YRS",
-      "date": "2026-08-27",
-      "start": "2026-08-27T22:00+02:00",
+      "id": "ra:2524451",
+      "title": "Sissi's ADE Friday with Bronka x Kurashi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2502868"
+      "url": "https://ra.co/events/2524451"
     },
     {
-      "id": "ra:2493463",
-      "title": "Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493463"
+      "url": "https://ra.co/events/2531359"
     },
     {
-      "id": "ra:2493470",
-      "title": "Sissi's by Closecall x Ghosts of Garage",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
+      "id": "ra:2535059",
+      "title": "Club Tineke Halloween - SISSI'S Amsterdam",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493470"
+      "url": "https://ra.co/events/2535059"
+    },
+    {
+      "id": "ra:2541951",
+      "title": "Sissi's Halloween by Slimradio",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2541951"
+    },
+    {
+      "id": "ra:2559763",
+      "title": "Sissi's Friday w/ KUMO & Tera Kora invites King Doudou",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559763"
+    },
+    {
+      "id": "ra:2563162",
+      "title": "Connection art - Waacking night",
+      "date": "2026-11-07",
+      "start": "2026-11-07T19:30+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563162"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2519571",
+      "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519571"
+    },
+    {
+      "id": "ra:2516969",
+      "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516969"
+    },
+    {
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519567"
+    },
+    {
+      "id": "ra:2498694",
+      "title": "Sissi's Blockparty with Benny Rodrigues & LYLO",
+      "date": "2026-09-26",
+      "start": "2026-09-26T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498694"
+    },
+    {
+      "id": "ra:2506879",
+      "title": "De Binnenstad x Sissi's",
+      "date": "2026-09-25",
+      "start": "2026-09-25T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506879"
+    },
+    {
+      "id": "ra:2493526",
+      "title": "Sissi's Blockparty with Moody Mehran (all day)",
+      "date": "2026-09-19",
+      "start": "2026-09-19T18:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2493526"
+    },
+    {
+      "id": "ra:2519563",
+      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519563"
     },
     {
       "id": "ra:2518307",
@@ -66,87 +168,45 @@
       "url": "https://ra.co/events/2519559"
     },
     {
-      "id": "ra:2519563",
-      "title": "Sissi's Friday with Kim April, Anil Aras & Jangala",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
+      "id": "ra:2493470",
+      "title": "Sissi's by Closecall x Ghosts of Garage",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519563"
+      "url": "https://ra.co/events/2493470"
     },
     {
-      "id": "ra:2493526",
-      "title": "Sissi's Blockparty with Moody Mehran (all day)",
-      "date": "2026-09-19",
-      "start": "2026-09-19T18:00+02:00",
+      "id": "ra:2493463",
+      "title": "Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493526"
+      "url": "https://ra.co/events/2493463"
     },
     {
-      "id": "ra:2506879",
-      "title": "De Binnenstad x Sissi's",
-      "date": "2026-09-25",
-      "start": "2026-09-25T22:00+02:00",
+      "id": "ra:2501268",
+      "title": "Rythym Amsterdam",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506879"
+      "url": "https://ra.co/events/2501268"
     },
     {
-      "id": "ra:2498694",
-      "title": "Sissi's Blockparty with Benny Rodrigues & LYLO",
-      "date": "2026-09-26",
-      "start": "2026-09-26T18:00+02:00",
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2498694"
+      "url": "https://ra.co/events/2502868"
     },
-    {
-      "id": "ra:2519567",
-      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519567"
-    },
-    {
-      "id": "ra:2516969",
-      "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516969"
-    },
-    {
-      "id": "ra:2519571",
-      "title": "Sissi's Saturday with Kyra Khaldi invites COZi",
-      "date": "2026-10-17",
-      "start": "2026-10-17T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519571"
-    },
-    {
-      "id": "ra:2504927",
-      "title": "PALET ADE Special",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504927"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2493459",
       "title": "Sissi's Saturday by Naked Records with Dennis Quin & Shanne",

@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2516698"
     },
     {
+      "id": "ra:2564582",
+      "title": "Djoon Paris x Canvas Nights [ADE] THE Djoon EXPERIENCE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564582"
+    },
+    {
       "id": "ra:2516701",
       "title": "Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends",
       "date": "2026-10-24",
@@ -21,6 +31,16 @@
       "venue_id": "12591",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516701"
+    },
+    {
+      "id": "ra:2564589",
+      "title": "Djoon Paris x Canvas Nights [ADE] DISCOVERY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Canvas",
+      "venue_id": "12591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564589"
     }
   ],
   "past": [],
@@ -28,17 +48,52 @@
     {
       "id": "44716",
       "name": "Afshin",
-      "count": 1
+      "count": 2
     },
     {
       "id": "107077",
       "name": "Kapela",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "46705",
+      "name": "Kid Fonque",
+      "count": 2
+    },
+    {
+      "id": "142444",
+      "name": "Blue Method",
+      "count": 2
+    },
+    {
+      "id": "126759",
+      "name": "Thakzin",
+      "count": 2
+    },
+    {
+      "id": "21571",
+      "name": "Boddhi Satva",
+      "count": 2
     },
     {
       "id": "55806",
       "name": "Young Pulse",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "58369",
+      "name": "Hugo LX",
+      "count": 2
+    },
+    {
+      "id": "19946",
+      "name": "Jamie 3:26",
+      "count": 2
+    },
+    {
+      "id": "120029",
+      "name": "MiNNA",
+      "count": 2
     }
   ]
 }

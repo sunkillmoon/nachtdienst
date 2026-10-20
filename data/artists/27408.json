@@ -4,24 +4,36 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2488580",
-      "title": "Dam Swindle All Night",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
+      "id": "ra:2458430",
+      "title": "DJ-Kicks ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488580"
+      "url": "https://ra.co/events/2458430"
     },
     {
-      "id": "ra:2516420",
-      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
+      "id": "ra:2562522",
+      "title": "Club Hacienda × STRAAL (ADE)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562522"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516420"
+      "url": "https://ra.co/events/2488595"
     },
     {
       "id": "ra:2495691",
@@ -34,27 +46,25 @@
       "url": "https://ra.co/events/2495691"
     },
     {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
+      "url": "https://ra.co/events/2516420"
     },
     {
-      "id": "ra:2458430",
-      "title": "DJ-Kicks ADE",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:00+02:00",
-      "venue": "WestWeelde",
-      "venue_id": "264128",
+      "id": "ra:2488580",
+      "title": "Dam Swindle All Night",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458430"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2488580"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

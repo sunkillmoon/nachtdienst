@@ -1,7 +1,8 @@
 {
   "id": "189934",
   "name": "LIWYN Agency",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481979",
       "title": "HONK",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2481979"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "66206",

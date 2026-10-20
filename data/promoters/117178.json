@@ -1,0 +1,44 @@
+{
+  "id": "117178",
+  "name": "FOCUS Luistersessies",
+  "upcoming": [
+    {
+      "id": "ra:2561293",
+      "title": "Long Play: Het Vreemd - Dutch Underground Synth & Wave (1982-1987)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Koda",
+      "venue_id": "301510",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561293"
+    },
+    {
+      "id": "ra:2561301",
+      "title": "Pitchblack Mixtapes: A Jazz Odyssey",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Koda",
+      "venue_id": "301510",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561301"
+    },
+    {
+      "id": "ra:2558834",
+      "title": "Open Koda",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Koda",
+      "venue_id": "301510",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2558834"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "1311",
+      "name": "Ben Gomori",
+      "count": 1
+    }
+  ]
+}

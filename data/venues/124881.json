@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 51.923689,
   "lng": 4.432139,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
@@ -25,6 +26,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2464483"
     }
-  ],
-  "past": []
+  ]
 }

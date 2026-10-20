@@ -2,7 +2,8 @@
   "id": "128203",
   "name": "WaxFiend",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514576",
       "title": "From the Floor to the Decks - Hiphop special",
@@ -12,9 +13,7 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514576"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

@@ -12,6 +12,26 @@
       "venue_id": "125668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2516785",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516785"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
     }
   ],
   "past": []

@@ -1,0 +1,49 @@
+{
+  "id": "143511",
+  "name": "La Nouba",
+  "upcoming": [
+    {
+      "id": "ra:2536412",
+      "title": "MoBlack Records x La Nouba - ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536412"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "51295",
+      "name": "MoBlack",
+      "count": 1
+    },
+    {
+      "id": "627",
+      "name": "Damian Lazarus",
+      "count": 1
+    },
+    {
+      "id": "105382",
+      "name": "Notre Dame",
+      "count": 1
+    },
+    {
+      "id": "110702",
+      "name": "Tripolism",
+      "count": 1
+    },
+    {
+      "id": "125675",
+      "name": "meera (NO)",
+      "count": 1
+    },
+    {
+      "id": "5286",
+      "name": "Manoo",
+      "count": 1
+    }
+  ]
+}

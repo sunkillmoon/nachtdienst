@@ -1,0 +1,49 @@
+{
+  "id": "186774",
+  "name": "Solis",
+  "upcoming": [
+    {
+      "id": "ra:2481219",
+      "title": "ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Badhuis Amsterdam",
+      "venue_id": "276109",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481219"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "180923",
+      "name": "NoMore",
+      "count": 1
+    },
+    {
+      "id": "178291",
+      "name": "SkyBrothers",
+      "count": 1
+    },
+    {
+      "id": "986",
+      "name": "Tom Novy",
+      "count": 1
+    },
+    {
+      "id": "119481",
+      "name": "Kirilski",
+      "count": 1
+    },
+    {
+      "id": "185245",
+      "name": "The Groovejet",
+      "count": 1
+    },
+    {
+      "id": "137908",
+      "name": "Pura Pachanga",
+      "count": 1
+    }
+  ]
+}

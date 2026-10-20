@@ -2,7 +2,8 @@
   "id": "141464",
   "name": "malix",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496550",
       "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
@@ -12,9 +13,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496550"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",

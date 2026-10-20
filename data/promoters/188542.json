@@ -1,7 +1,8 @@
 {
   "id": "188542",
   "name": "Tacoteca",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2462831",
       "title": "Plastilina Mosh",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2462831"
     }
   ],
-  "past": [],
   "top_artists": []
 }

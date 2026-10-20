@@ -2,7 +2,18 @@
   "id": "14996",
   "name": "Amz",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
+    }
+  ],
   "past": [
     {
       "id": "ra:2464196",

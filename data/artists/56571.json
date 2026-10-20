@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
+    },
+    {
+      "id": "ra:2539626",
+      "title": "Overbruggen x Lab54 - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539626"
+    },
+    {
       "id": "ra:2494128",
       "title": "PIV ADE - Ijland",
       "date": "2026-10-23",
@@ -15,13 +35,23 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     }
   ],
   "past": [

@@ -1,0 +1,28 @@
+{
+  "id": "82574",
+  "name": "Warhaus",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2543037",
+      "title": "Warhaus - i.s.m paradiso",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543037"
+    },
+    {
+      "id": "ra:2547093",
+      "title": "Warhaus - Ha Ha Heartbeats - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547093"
+    }
+  ],
+  "past": []
+}

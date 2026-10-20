@@ -6,126 +6,6 @@
   "lng": 4.911916,
   "upcoming": [
     {
-      "id": "ra:2516406",
-      "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516406"
-    },
-    {
-      "id": "ra:2500884",
-      "title": "Doka Studio with Colored Craig - Fais Le Beau",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500884"
-    },
-    {
-      "id": "ra:2500888",
-      "title": "Polychrome x Doka Studio with Faited - Tanzverbot",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500888"
-    },
-    {
-      "id": "ra:2500890",
-      "title": "Doka Studio with Antal (All night long)",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500890"
-    },
-    {
-      "id": "ra:2500891",
-      "title": "Ciranda Sundays x Doka Studio with Charmaine - Mendel ",
-      "date": "2026-09-13",
-      "start": "2026-09-13T17:00+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500891"
-    },
-    {
-      "id": "ra:2512605",
-      "title": "Tale of Bus w/ Sugar Free, Daan Donk",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512605"
-    },
-    {
-      "id": "ra:2500895",
-      "title": "Likeminded x Doka Studio with TBA",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500895"
-    },
-    {
-      "id": "ra:2500899",
-      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500899"
-    },
-    {
-      "id": "ra:2520627",
-      "title": "Doka Studio with Vladimir Ivkovic - Intergalactic Gary",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520627"
-    },
-    {
-      "id": "ra:2488581",
-      "title": "Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488581"
-    },
-    {
-      "id": "ra:2520630",
-      "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520630"
-    },
-    {
-      "id": "ra:2520634",
-      "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
-      "date": "2026-09-27",
-      "start": "2026-09-27T19:00+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520634"
-    },
-    {
       "id": "ra:2516575",
       "title": "Live Coding Sessions x Doka Culture [ADE]",
       "date": "2026-10-21",
@@ -136,10 +16,20 @@
       "url": "https://ra.co/events/2516575"
     },
     {
+      "id": "ra:2557004",
+      "title": "Doka Culture x Live Coding Sessions",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557004"
+    },
+    {
       "id": "ra:2516579",
       "title": "United Identities x Doka Studio [ADE]",
       "date": "2026-10-22",
-      "start": "2026-10-22T23:59+02:00",
+      "start": "2026-10-22T23:00+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
@@ -147,7 +37,7 @@
     },
     {
       "id": "ra:2516605",
-      "title": "Cooking with Palms Trax x Doka Studio [ADE]",
+      "title": "Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT)",
       "date": "2026-10-23",
       "start": "2026-10-23T23:59+02:00",
       "venue": "Doka",
@@ -166,10 +56,20 @@
       "url": "https://ra.co/events/2516585"
     },
     {
-      "id": "ra:2516589",
-      "title": "Kiosk Radio x The Lot Radio x Doka Studio [ADE]",
+      "id": "ra:2563194",
+      "title": "Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO",
       "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563194"
+    },
+    {
+      "id": "ra:2516589",
+      "title": "Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
@@ -177,16 +77,166 @@
     },
     {
       "id": "ra:2515534",
-      "title": "Ciranda Sundays x Doka Studio with Mendel - secret guest [ADE]",
+      "title": "Ciranda Sundays x Doka Studio with Mendel - Antal [ADE]",
       "date": "2026-10-25",
       "start": "2026-10-25T17:00+01:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515534"
+    },
+    {
+      "id": "ra:2538607",
+      "title": "Doka Studio with Coco Maria - AYS",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538607"
+    },
+    {
+      "id": "ra:2538823",
+      "title": "Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV ",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538823"
+    },
+    {
+      "id": "ra:2560005",
+      "title": "Doka Studio x As The World Turns with Rob Manga - Phil Evans - Markus Sommer - Glenn & Rolf",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560005"
     }
   ],
   "past": [
+    {
+      "id": "ra:2520634",
+      "title": "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin",
+      "date": "2026-09-27",
+      "start": "2026-09-27T19:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520634"
+    },
+    {
+      "id": "ra:2520630",
+      "title": "Doka Studio with DJ Tracksuit - Nathalie Seres",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520630"
+    },
+    {
+      "id": "ra:2488581",
+      "title": "Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488581"
+    },
+    {
+      "id": "ra:2520627",
+      "title": "Doka Studio with Vladimir Ivkovic - Intergalactic Gary",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520627"
+    },
+    {
+      "id": "ra:2500899",
+      "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500899"
+    },
+    {
+      "id": "ra:2500895",
+      "title": "Likeminded x Doka Studio with TBA",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500895"
+    },
+    {
+      "id": "ra:2512605",
+      "title": "Tale of Bus w/ Sugar Free, Daan Donk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512605"
+    },
+    {
+      "id": "ra:2500891",
+      "title": "Ciranda Sundays x Doka Studio with Charmaine - Mendel ",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500891"
+    },
+    {
+      "id": "ra:2500890",
+      "title": "Doka Studio with Antal (All night long)",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500890"
+    },
+    {
+      "id": "ra:2500888",
+      "title": "Polychrome x Doka Studio with Faited - Tanzverbot",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500888"
+    },
+    {
+      "id": "ra:2500884",
+      "title": "Doka Studio with Colored Craig - Fais Le Beau",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500884"
+    },
+    {
+      "id": "ra:2516406",
+      "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516406"
+    },
     {
       "id": "ra:2494389",
       "title": "Kult Funktion Panel - WorldPride",

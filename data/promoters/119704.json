@@ -1,7 +1,8 @@
 {
   "id": "119704",
   "name": "De Weide",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504684",
       "title": "The Voyage - an Ambient Journey with Gin & Tonic",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2504684"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "112501",

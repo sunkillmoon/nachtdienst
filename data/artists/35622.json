@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
       "id": "ra:2492381",
-      "title": "One Long Groove",
+      "title": "Breakfast Club ADE: One Long Groove",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Pllek",
@@ -54,6 +44,16 @@
       "url": "https://ra.co/events/2473373"
     },
     {
+      "id": "ra:2442143",
+      "title": "Le Guess Who? 2026",
+      "date": "2026-11-05",
+      "start": "2026-11-05T17:00+01:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2442143"
+    },
+    {
       "id": "ra:2519765",
       "title": "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah",
       "date": "2026-11-07",
@@ -65,6 +65,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

@@ -1,0 +1,69 @@
+{
+  "id": "11315",
+  "name": "Feestgedruis",
+  "upcoming": [
+    {
+      "id": "ra:2560169",
+      "title": "Feestgedruis ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Supperclub Cruise",
+      "venue_id": "34719",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560169"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4213",
+      "name": "Rodriguez Jr.",
+      "count": 1
+    },
+    {
+      "id": "746",
+      "name": "Gaiser",
+      "count": 1
+    },
+    {
+      "id": "4211",
+      "name": "SIS",
+      "count": 1
+    },
+    {
+      "id": "174139",
+      "name": "Jo.Ke",
+      "count": 1
+    },
+    {
+      "id": "25296",
+      "name": "Jose Noventa",
+      "count": 1
+    },
+    {
+      "id": "15530",
+      "name": "Akira",
+      "count": 1
+    },
+    {
+      "id": "126080",
+      "name": "Lathouwers",
+      "count": 1
+    },
+    {
+      "id": "183768",
+      "name": "Marco Aurelio",
+      "count": 1
+    },
+    {
+      "id": "168200",
+      "name": "Munay",
+      "count": 1
+    },
+    {
+      "id": "181413",
+      "name": "Ode Maen.",
+      "count": 1
+    }
+  ]
+}

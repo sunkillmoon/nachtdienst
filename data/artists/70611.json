@@ -2,7 +2,18 @@
   "id": "70611",
   "name": "CCL",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2520618",
+      "title": "CCL (All Night Long)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520618"
+    },
     {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
@@ -13,18 +24,6 @@
       "area": "All",
       "url": "https://ra.co/events/2309929"
     },
-    {
-      "id": "ra:2520618",
-      "title": "CCL (All Night Long)",
-      "date": "2026-10-16",
-      "start": "2026-10-16T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520618"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

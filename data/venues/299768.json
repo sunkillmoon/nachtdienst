@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.22,
   "lng": 5.96,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510243",
       "title": "JØASE ANL - FREE RAVE",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2510243"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2488123",
       "title": "At The River Festival",
       "date": "2026-08-29",
@@ -23,18 +35,6 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2498952"
     },
-    {
-      "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
-      "date": "2026-10-24",
-      "start": "2026-10-24T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473469"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2478070",
       "title": "Dansplicht Open Air",

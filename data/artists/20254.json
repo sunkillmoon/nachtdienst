@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2494370",
+      "title": "Breakfast Club ADE: The sound of Belgium",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494370"
+    },
+    {
+      "id": "ra:2559154",
+      "title": "Cometa 'Coco' Nostra",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559154"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2505220",
       "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
       "date": "2026-09-19",
@@ -12,17 +34,6 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505220"
-    },
-    {
-      "id": "ra:2494370",
-      "title": "The sound of Belgium",
-      "date": "2026-10-23",
-      "start": "2026-10-23T18:00+02:00",
-      "venue": "Pllek",
-      "venue_id": "86709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494370"
     }
-  ],
-  "past": []
+  ]
 }

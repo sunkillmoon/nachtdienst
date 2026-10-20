@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.382341,
   "lng": 4.628179,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514034",
       "title": "T-Motion",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514034"
     }
-  ],
-  "past": []
+  ]
 }

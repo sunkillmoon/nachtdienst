@@ -1,0 +1,28 @@
+{
+  "id": "188249",
+  "name": "ANSWER (IN)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
+      "id": "ra:2534028",
+      "title": "At Home - NOT ADE Edition II",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Papaverweg 46",
+      "venue_id": "302371",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534028"
+    }
+  ],
+  "past": []
+}

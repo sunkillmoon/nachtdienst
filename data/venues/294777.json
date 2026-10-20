@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53.17,
   "lng": 6.99,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2465223",
       "title": "Intercell Groningen",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2465223"
     }
-  ],
-  "past": []
+  ]
 }

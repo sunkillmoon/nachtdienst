@@ -1,0 +1,28 @@
+{
+  "id": "161970",
+  "name": "Bongoat",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2544907",
+      "title": "RADION Invites: Fever Dream x Patchwork Family",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544907"
+    },
+    {
+      "id": "ra:2563627",
+      "title": "Tempo Marauders 2 year anniversary",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563627"
+    }
+  ],
+  "past": []
+}

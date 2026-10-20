@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2547786",
+      "title": "Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "The Hoxton Amsterdam",
+      "venue_id": "303860",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547786"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2517024",
       "title": "Sandunga Clubnight",
       "date": "2026-08-28",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517024"
     }
-  ],
-  "past": []
+  ]
 }

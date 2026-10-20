@@ -3,14 +3,36 @@
   "name": "hush.",
   "upcoming": [
     {
-      "id": "ra:2437421",
-      "title": "Hush with Rooleh, Easttown & More",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:30+02:00",
-      "venue": "TivoliVredenburg",
-      "venue_id": "88445",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437421"
+      "id": "ra:2502535",
+      "title": "Paco Osuna x Now Here ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502535"
+    },
+    {
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2502625",
+      "title": "Hush with Michel de Hey, AAT & More",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502625"
     },
     {
       "id": "ra:2502628",
@@ -23,27 +45,15 @@
       "url": "https://ra.co/events/2502628"
     },
     {
-      "id": "ra:2502625",
-      "title": "Hush with Michel de Hey, AAT & More",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502625"
+      "id": "ra:2437421",
+      "title": "Hush with Rooleh, Easttown & More",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:30+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437421"
     },
-    {
-      "id": "ra:2502535",
-      "title": "Paco Osuna x Now Here ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
-      "venue": "Escape",
-      "venue_id": "2683",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502535"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2426015",
       "title": "Hush at the Beach with Kepler, Boss Priester & More",
@@ -77,8 +87,8 @@
   ],
   "top_artists": [
     {
-      "id": "110515",
-      "name": "AAT (NL)",
+      "id": "77557",
+      "name": "Easttown",
       "count": 2
     },
     {
@@ -87,43 +97,43 @@
       "count": 2
     },
     {
-      "id": "114297",
-      "name": "Rooléh",
+      "id": "110515",
+      "name": "AAT (NL)",
+      "count": 2
+    },
+    {
+      "id": "2758",
+      "name": "Ilario Alicante",
       "count": 1
     },
     {
-      "id": "77557",
-      "name": "Easttown",
+      "id": "55306",
+      "name": "Melanie Ribbe",
       "count": 1
     },
     {
-      "id": "171453",
-      "name": "Cici Daze",
+      "id": "959",
+      "name": "Paco Osuna",
       "count": 1
     },
     {
-      "id": "65929",
-      "name": "Dennis Quin",
+      "id": "96447",
+      "name": "SOSA (UK)",
       "count": 1
     },
     {
-      "id": "115055",
-      "name": "Kim April",
+      "id": "136891",
+      "name": "Candidate",
       "count": 1
     },
     {
-      "id": "565",
-      "name": "Michel de Hey",
+      "id": "143732",
+      "name": "Ellia Jaya",
       "count": 1
     },
     {
-      "id": "165130",
-      "name": "Simon Kidzoo",
-      "count": 1
-    },
-    {
-      "id": "126833",
-      "name": "Riordan",
+      "id": "153443",
+      "name": "Lewis Taylor",
       "count": 1
     }
   ]

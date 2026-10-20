@@ -1,0 +1,79 @@
+{
+  "id": "135096",
+  "name": "Mixmag Netherlands",
+  "upcoming": [
+    {
+      "id": "ra:2562444",
+      "title": "ELEKTRA x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562444"
+    },
+    {
+      "id": "ra:2562461",
+      "title": "SESH x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562461"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "95413",
+      "name": "Charlie Sparks",
+      "count": 1
+    },
+    {
+      "id": "27659",
+      "name": "Dxpe",
+      "count": 1
+    },
+    {
+      "id": "140581",
+      "name": "Billy Currie",
+      "count": 1
+    },
+    {
+      "id": "48552",
+      "name": "Bassjackers",
+      "count": 1
+    },
+    {
+      "id": "113122",
+      "name": "A.N.I.",
+      "count": 1
+    },
+    {
+      "id": "77028",
+      "name": "DYEN",
+      "count": 1
+    },
+    {
+      "id": "76767",
+      "name": "Merimell",
+      "count": 1
+    },
+    {
+      "id": "25066",
+      "name": "Panteros666",
+      "count": 1
+    },
+    {
+      "id": "134956",
+      "name": "Kirk (US)",
+      "count": 1
+    },
+    {
+      "id": "102814",
+      "name": "Afem Syko",
+      "count": 1
+    }
+  ]
+}

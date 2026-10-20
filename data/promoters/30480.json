@@ -27,6 +27,16 @@
   ],
   "top_artists": [
     {
+      "id": "99930",
+      "name": "Bad Boombox",
+      "count": 1
+    },
+    {
+      "id": "157007",
+      "name": "lizaliza",
+      "count": 1
+    },
+    {
       "id": "117642",
       "name": "Dj Babatr",
       "count": 1
@@ -64,16 +74,6 @@
     {
       "id": "103554",
       "name": "Miguel De Bois",
-      "count": 1
-    },
-    {
-      "id": "104385",
-      "name": "Milion",
-      "count": 1
-    },
-    {
-      "id": "142130",
-      "name": "SAIDAH",
       "count": 1
     }
   ]

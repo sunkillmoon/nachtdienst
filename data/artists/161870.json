@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
+      "id": "ra:2536435",
+      "title": "ADE: Klub Analog x Benelux",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536435"
     },
+    {
+      "id": "ra:2479113",
+      "title": "Awakenings ADE - Friday Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479113"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2510528",
       "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2510528"
     },
     {
-      "id": "ra:2479113",
-      "title": "Awakenings ADE - Friday Sessions",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "Sugarfactory",
-      "venue_id": "277115",
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
       "area": "All",
-      "url": "https://ra.co/events/2479113"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2506023",
       "title": "ANTIDOTE 5 YEAR ANNIVERSARY",

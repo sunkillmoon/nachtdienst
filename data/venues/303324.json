@@ -1,0 +1,20 @@
+{
+  "id": "303324",
+  "name": "Ruimte 59.61",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2542745",
+      "title": "PRODUCHERTZ ADE POP-UP SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T10:00+02:00",
+      "venue": "Ruimte 59.61",
+      "venue_id": "303324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542745"
+    }
+  ],
+  "past": []
+}

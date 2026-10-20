@@ -4,46 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491497",
-      "title": "Club Day & Night (Season opening)",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491497"
-    },
-    {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
-    },
-    {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
-      "id": "ra:2517612",
-      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517612"
-    },
-    {
       "id": "ra:2475090",
       "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
       "date": "2026-10-22",
@@ -84,6 +44,16 @@
       "url": "https://ra.co/events/2514616"
     },
     {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
+    },
+    {
       "id": "ra:2470321",
       "title": "Complex Halloween with Olive Anguz / Rozie / OLIVIA LENSEN",
       "date": "2026-10-30",
@@ -115,6 +85,46 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517612",
+      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517612"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2491497",
+      "title": "Club Day & Night (Season opening)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491497"
+    },
     {
       "id": "ra:2251187",
       "title": "Daycare Festival",

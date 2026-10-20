@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2498952",
       "title": "IN TUNE ~~",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2498952"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2366738",
       "title": "15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT",

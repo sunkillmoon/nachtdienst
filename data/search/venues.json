@@ -4,8 +4,28 @@
     "name": "013 Poppodium"
   },
   {
-    "id": "300625",
-    "name": "50:Hertz House & Techno Club (Rembrandt Square)"
+    "id": "289329",
+    "name": "50 HERTZ"
+  },
+  {
+    "id": "304410",
+    "name": "50:Hertz Club Train"
+  },
+  {
+    "id": "304489",
+    "name": "50:Hertz House & Techno Cafe Rembrandt Square"
+  },
+  {
+    "id": "304488",
+    "name": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square"
+  },
+  {
+    "id": "204048",
+    "name": "8sixa"
+  },
+  {
+    "id": "305510",
+    "name": "a Sense of Place"
   },
   {
     "id": "125668",
@@ -16,8 +36,8 @@
     "name": "Acu"
   },
   {
-    "id": "297432",
-    "name": "Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam"
+    "id": "305031",
+    "name": "ADE Boat Party"
   },
   {
     "id": "140102",
@@ -44,12 +64,20 @@
     "name": "Amsterdam Central Station"
   },
   {
-    "id": "297794",
-    "name": "Amsterdam Club Train"
+    "id": "198243",
+    "name": "Amsterdams Most Wanted"
   },
   {
     "id": "10328",
     "name": "Amsterdamse Bos"
+  },
+  {
+    "id": "125754",
+    "name": "Andaz Hotel / Blue Spoon"
+  },
+  {
+    "id": "258171",
+    "name": "Anna Church Amstelveen B.V."
   },
   {
     "id": "104637",
@@ -64,6 +92,18 @@
     "name": "Aran Irish Pub"
   },
   {
+    "id": "302189",
+    "name": "Arca Bar @ Art'otel Amsterdam"
+  },
+  {
+    "id": "289335",
+    "name": "Art''otel Amsterdam"
+  },
+  {
+    "id": "289333",
+    "name": "Art'otel Amsterdam"
+  },
+  {
     "id": "286760",
     "name": "Asterdplas"
   },
@@ -72,12 +112,36 @@
     "name": "Azorra Beachclub"
   },
   {
+    "id": "222746",
+    "name": "Bacan Amsterdam"
+  },
+  {
+    "id": "276109",
+    "name": "Badhuis Amsterdam"
+  },
+  {
     "id": "242574",
     "name": "Bajes Amsterdam"
   },
   {
+    "id": "305434",
+    "name": "Bar Coco"
+  },
+  {
+    "id": "175903",
+    "name": "Bar Feijoa"
+  },
+  {
     "id": "297258",
     "name": "BAR Goto"
+  },
+  {
+    "id": "303331",
+    "name": "Bar How"
+  },
+  {
+    "id": "122461",
+    "name": "Bar Lunar"
   },
   {
     "id": "248319",
@@ -108,6 +172,10 @@
     "name": "Basement (Amsterdam)"
   },
   {
+    "id": "303153",
+    "name": "Basement Amsterdam"
+  },
+  {
     "id": "300776",
     "name": "Basement-Amsterdam"
   },
@@ -122,6 +190,18 @@
   {
     "id": "141518",
     "name": "Bears Amsterdam"
+  },
+  {
+    "id": "302827",
+    "name": "Beatfabriek"
+  },
+  {
+    "id": "303111",
+    "name": "Beest Boulders Amsterdam"
+  },
+  {
+    "id": "304709",
+    "name": "Belushi's Amsterdam"
   },
   {
     "id": "217595",
@@ -152,16 +232,32 @@
     "name": "BIRD"
   },
   {
+    "id": "304884",
+    "name": "Birdcage Radio"
+  },
+  {
     "id": "2759",
     "name": "Bitterzoet"
+  },
+  {
+    "id": "124535",
+    "name": "Black Gold"
   },
   {
     "id": "153386",
     "name": "Blast Galaxy"
   },
   {
+    "id": "49651",
+    "name": "Blauwe Theehuis"
+  },
+  {
     "id": "204369",
     "name": "Blend XL"
+  },
+  {
+    "id": "304504",
+    "name": "Blue Tomato"
   },
   {
     "id": "298722",
@@ -212,8 +308,36 @@
     "name": "Burnside Skatepark & Café"
   },
   {
+    "id": "83172",
+    "name": "Cafe 't Schuim"
+  },
+  {
+    "id": "305511",
+    "name": "Cafe Blooker"
+  },
+  {
+    "id": "13394",
+    "name": "Cafe De Duivel"
+  },
+  {
+    "id": "304322",
+    "name": "Cafe De Leven"
+  },
+  {
+    "id": "304418",
+    "name": "Cafe De Vlieger"
+  },
+  {
     "id": "300749",
     "name": "Cafe Ollie"
+  },
+  {
+    "id": "304975",
+    "name": "Cafe Restaurant De Bazel"
+  },
+  {
+    "id": "270224",
+    "name": "Café Café Bar Amsterdam"
   },
   {
     "id": "52605",
@@ -224,6 +348,26 @@
     "name": "Café Katoen"
   },
   {
+    "id": "303797",
+    "name": "Café Lux"
+  },
+  {
+    "id": "139683",
+    "name": "Café Restaurant De Kroon"
+  },
+  {
+    "id": "277577",
+    "name": "Café Soleil Amsterdam"
+  },
+  {
+    "id": "303290",
+    "name": "Café Van Zuylen"
+  },
+  {
+    "id": "302381",
+    "name": "Camarat"
+  },
+  {
     "id": "12591",
     "name": "Canvas"
   },
@@ -232,8 +376,20 @@
     "name": "Catuabar"
   },
   {
+    "id": "304861",
+    "name": "Celebratix HQ"
+  },
+  {
+    "id": "303017",
+    "name": "Centrale Markthal"
+  },
+  {
     "id": "43438",
     "name": "Chicago Social Club"
+  },
+  {
+    "id": "305543",
+    "name": "Chillzone Books"
   },
   {
     "id": "138568",
@@ -276,12 +432,32 @@
     "name": "Club NYX"
   },
   {
+    "id": "5983",
+    "name": "CLUB PAARD"
+  },
+  {
+    "id": "302814",
+    "name": "Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam"
+  },
+  {
+    "id": "28322",
+    "name": "Club Prime"
+  },
+  {
     "id": "219522",
     "name": "CLUB RAUM"
   },
   {
     "id": "24882",
     "name": "Club Rex"
+  },
+  {
+    "id": "303096",
+    "name": "Club Royal"
+  },
+  {
+    "id": "304515",
+    "name": "Club Royal"
   },
   {
     "id": "38637",
@@ -296,12 +472,24 @@
     "name": "Complex Maastricht"
   },
   {
+    "id": "149748",
+    "name": "Concerto Recordstore"
+  },
+  {
     "id": "225039",
     "name": "CONTACT"
   },
   {
+    "id": "305333",
+    "name": "Cornerstore"
+  },
+  {
     "id": "141886",
     "name": "Crane Hotel Faralda"
+  },
+  {
+    "id": "30676",
+    "name": "CREA"
   },
   {
     "id": "255373",
@@ -314,6 +502,10 @@
   {
     "id": "299769",
     "name": "D'n Hiemel"
+  },
+  {
+    "id": "305561",
+    "name": "Dak Showroom by Dak Coffee Roasters"
   },
   {
     "id": "7406",
@@ -420,8 +612,24 @@
     "name": "De Vleeshal"
   },
   {
+    "id": "301631",
+    "name": "De Waagh"
+  },
+  {
+    "id": "305105",
+    "name": "De Zoeten Laboratorium"
+  },
+  {
+    "id": "2751",
+    "name": "Desmet Studios"
+  },
+  {
     "id": "81540",
     "name": "Doka"
+  },
+  {
+    "id": "208343",
+    "name": "Dokzaal"
   },
   {
     "id": "299770",
@@ -432,8 +640,16 @@
     "name": "Duke Of Tokyo"
   },
   {
+    "id": "301843",
+    "name": "Eighty-Four Amsterdam"
+  },
+  {
     "id": "300861",
     "name": "Eivissa Boat"
+  },
+  {
+    "id": "304713",
+    "name": "Eivissa Ship"
   },
   {
     "id": "4842",
@@ -452,8 +668,20 @@
     "name": "export"
   },
   {
+    "id": "84187",
+    "name": "Feijoa"
+  },
+  {
     "id": "300898",
     "name": "Filth"
+  },
+  {
+    "id": "303965",
+    "name": "Firebird Rooftop"
+  },
+  {
+    "id": "305635",
+    "name": "Five Bells Amsterdam"
   },
   {
     "id": "286868",
@@ -464,12 +692,28 @@
     "name": "Flevopark"
   },
   {
+    "id": "301709",
+    "name": "Flint Space"
+  },
+  {
     "id": "108756",
     "name": "Fluor"
   },
   {
     "id": "89263",
     "name": "Fort Vechten"
+  },
+  {
+    "id": "305448",
+    "name": "Fosbury & Sons Church"
+  },
+  {
+    "id": "304931",
+    "name": "Fret"
+  },
+  {
+    "id": "304428",
+    "name": "Frict Amsterdam"
   },
   {
     "id": "137474",
@@ -492,6 +736,10 @@
     "name": "got.Drip"
   },
   {
+    "id": "305126",
+    "name": "GOT.Drip Streetwear & Records"
+  },
+  {
     "id": "156433",
     "name": "Graanfabriek"
   },
@@ -502,6 +750,10 @@
   {
     "id": "300865",
     "name": "Grand Hotel Amrâth Kurhaus"
+  },
+  {
+    "id": "305610",
+    "name": "GVB Remise Lekstraat"
   },
   {
     "id": "66507",
@@ -520,6 +772,10 @@
     "name": "Hall of Fame"
   },
   {
+    "id": "277578",
+    "name": "Hard Rock Cafe Amsterdam"
+  },
+  {
     "id": "276162",
     "name": "Hasta La Vista, Baby"
   },
@@ -528,8 +784,20 @@
     "name": "Havenpark"
   },
   {
+    "id": "194483",
+    "name": "Hearth"
+  },
+  {
+    "id": "303964",
+    "name": "HED² Barber"
+  },
+  {
     "id": "208462",
     "name": "Hemkade 48"
+  },
+  {
+    "id": "304398",
+    "name": "Hendrix Amsterdam"
   },
   {
     "id": "10953",
@@ -612,12 +880,28 @@
     "name": "Ijver"
   },
   {
+    "id": "4395",
+    "name": "InDeep'n'Dance Records"
+  },
+  {
+    "id": "300232",
+    "name": "ingang"
+  },
+  {
     "id": "160195",
     "name": "ISOamsterdam"
   },
   {
+    "id": "276260",
+    "name": "Jekkah"
+  },
+  {
     "id": "2766",
     "name": "Jimmy Woo"
+  },
+  {
+    "id": "304636",
+    "name": "Joe & the Juice"
   },
   {
     "id": "109140",
@@ -648,12 +932,24 @@
     "name": "Kadinsky Cafe"
   },
   {
+    "id": "83910",
+    "name": "Kapitaal"
+  },
+  {
     "id": "37682",
     "name": "Kashmir Lounge"
   },
   {
     "id": "156080",
     "name": "Keilecafe"
+  },
+  {
+    "id": "304323",
+    "name": "Kettlehuis"
+  },
+  {
+    "id": "204597",
+    "name": "Killacutz"
   },
   {
     "id": "175088",
@@ -672,6 +968,14 @@
     "name": "Klinkenbergerplas, Oegstgeest"
   },
   {
+    "id": "301510",
+    "name": "Koda"
+  },
+  {
+    "id": "176663",
+    "name": "Koepelkerk"
+  },
+  {
     "id": "89597",
     "name": "Kralingse Bos"
   },
@@ -682,6 +986,18 @@
   {
     "id": "42516",
     "name": "Kronkel"
+  },
+  {
+    "id": "256093",
+    "name": "Krux Brewery"
+  },
+  {
+    "id": "305466",
+    "name": "Kwartier"
+  },
+  {
+    "id": "305032",
+    "name": "Kyas Art Salon"
   },
   {
     "id": "291910",
@@ -704,6 +1020,10 @@
     "name": "Levenslang Amsterdam"
   },
   {
+    "id": "305678",
+    "name": "Liev Coffee & Pastry"
+  },
+  {
     "id": "168878",
     "name": "Lofi"
   },
@@ -712,12 +1032,24 @@
     "name": "Loods 12"
   },
   {
+    "id": "301639",
+    "name": "Loods6"
+  },
+  {
     "id": "254524",
     "name": "Loop51"
   },
   {
+    "id": "303490",
+    "name": "LOU"
+  },
+  {
     "id": "6646",
     "name": "Lowlands Festival Site"
+  },
+  {
+    "id": "276440",
+    "name": "Luminair Amsterdam"
   },
   {
     "id": "13822",
@@ -736,6 +1068,10 @@
     "name": "Madam"
   },
   {
+    "id": "303160",
+    "name": "Madre"
+  },
+  {
     "id": "300175",
     "name": "Mamarazzi"
   },
@@ -748,12 +1084,20 @@
     "name": "Marcfait"
   },
   {
+    "id": "305265",
+    "name": "Margarita's Bar & Kitchen"
+  },
+  {
     "id": "93679",
     "name": "Mediahaven - Minervahaven"
   },
   {
     "id": "258169",
     "name": "Meet Berlage"
+  },
+  {
+    "id": "305134",
+    "name": "Meininger Hotel Ámsterdam City West"
   },
   {
     "id": "2693",
@@ -784,12 +1128,20 @@
     "name": "Mono"
   },
   {
+    "id": "303098",
+    "name": "Mr Watson"
+  },
+  {
     "id": "188430",
     "name": "murmur"
   },
   {
     "id": "114854",
     "name": "Muzentuin Tilburg"
+  },
+  {
+    "id": "174231",
+    "name": "Muziekcentrum Enschede"
   },
   {
     "id": "70763",
@@ -804,6 +1156,14 @@
     "name": "NAR"
   },
   {
+    "id": "302041",
+    "name": "Nazka"
+  },
+  {
+    "id": "303216",
+    "name": "Nazka"
+  },
+  {
     "id": "170010",
     "name": "Ndsm"
   },
@@ -816,6 +1176,10 @@
     "name": "NDSM Scheepsbouwloods"
   },
   {
+    "id": "246422",
+    "name": "Ndsm Theater"
+  },
+  {
     "id": "159079",
     "name": "Ndsm Wharf"
   },
@@ -826,6 +1190,14 @@
   {
     "id": "90993",
     "name": "News Cafe"
+  },
+  {
+    "id": "248821",
+    "name": "nhow Amsterdam RAI"
+  },
+  {
+    "id": "276381",
+    "name": "Nicholas Groente & Fruit"
   },
   {
     "id": "301028",
@@ -856,6 +1228,10 @@
     "name": "Nxt Museum"
   },
   {
+    "id": "303812",
+    "name": "NYX Hotel Amsterdam Rembrandt Square"
+  },
+  {
     "id": "101378",
     "name": "O.J.V. Koornbeurs"
   },
@@ -864,8 +1240,16 @@
     "name": "Oase"
   },
   {
+    "id": "304162",
+    "name": "Oberhaum"
+  },
+  {
     "id": "292161",
     "name": "Oceandiva Original"
+  },
+  {
+    "id": "121101",
+    "name": "Oedipus Brewery"
   },
   {
     "id": "179504",
@@ -874,6 +1258,10 @@
   {
     "id": "275591",
     "name": "Onder Hans"
+  },
+  {
+    "id": "126218",
+    "name": "Oosterbar"
   },
   {
     "id": "128577",
@@ -892,6 +1280,14 @@
     "name": "Oude Kerk"
   },
   {
+    "id": "230693",
+    "name": "Oude Kerk"
+  },
+  {
+    "id": "304150",
+    "name": "Paak Nijmegen"
+  },
+  {
     "id": "264897",
     "name": "Paal69"
   },
@@ -900,8 +1296,16 @@
     "name": "Pacific Amsterdam"
   },
   {
+    "id": "4398",
+    "name": "Pakhuis de Zwijger"
+  },
+  {
     "id": "1729",
     "name": "Panama"
+  },
+  {
+    "id": "302371",
+    "name": "Papaverweg 46"
   },
   {
     "id": "50801",
@@ -930,6 +1334,10 @@
   {
     "id": "81532",
     "name": "Patronaat"
+  },
+  {
+    "id": "302604",
+    "name": "Peter de Grote"
   },
   {
     "id": "242264",
@@ -992,6 +1400,10 @@
     "name": "Radio Radio"
   },
   {
+    "id": "124620",
+    "name": "Radio Royaal"
+  },
+  {
     "id": "91202",
     "name": "RADION"
   },
@@ -1008,8 +1420,16 @@
     "name": "Reverse Rotterdam"
   },
   {
+    "id": "302751",
+    "name": "Rijnbar"
+  },
+  {
     "id": "101595",
     "name": "Roel Langerakpark"
+  },
+  {
+    "id": "124503",
+    "name": "Rokin 75 / The Amsterdam View"
   },
   {
     "id": "9040",
@@ -1022,6 +1442,18 @@
   {
     "id": "299800",
     "name": "RRC Music — Record Store"
+  },
+  {
+    "id": "249416",
+    "name": "Ruby Emma Hotel & Bar"
+  },
+  {
+    "id": "303324",
+    "name": "Ruimte 59.61"
+  },
+  {
+    "id": "74716",
+    "name": "Rush Hour"
   },
   {
     "id": "223096",
@@ -1042,6 +1474,10 @@
   {
     "id": "124413",
     "name": "Shelter Amsterdam"
+  },
+  {
+    "id": "248548",
+    "name": "SHU"
   },
   {
     "id": "294145",
@@ -1068,6 +1504,10 @@
     "name": "Sloterpark"
   },
   {
+    "id": "272336",
+    "name": "Smokey Club"
+  },
+  {
     "id": "286756",
     "name": "Soia - Strand Oog in Al"
   },
@@ -1088,6 +1528,10 @@
     "name": "Sportpark Riekerhaven"
   },
   {
+    "id": "305608",
+    "name": "Spritz Bar Amsterdam"
+  },
+  {
     "id": "5629",
     "name": "Stadsblokken / Groene Rivier"
   },
@@ -1100,12 +1544,24 @@
     "name": "Stadshaven Brouwerij"
   },
   {
+    "id": "304042",
+    "name": "Stoom - Kapitein Anna"
+  },
+  {
+    "id": "304598",
+    "name": "Stopera"
+  },
+  {
     "id": "12609",
     "name": "Strijkviertel"
   },
   {
     "id": "295898",
     "name": "Studio 508"
+  },
+  {
+    "id": "7210",
+    "name": "Studio/K"
   },
   {
     "id": "296104",
@@ -1148,28 +1604,76 @@
     "name": "TBA"
   },
   {
+    "id": "301913",
+    "name": "TBA -   STAY TUNED "
+  },
+  {
+    "id": "305386",
+    "name": "TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb"
+  },
+  {
     "id": "299272",
     "name": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland"
   },
   {
-    "id": "296995",
-    "name": "TBA - 50:HERTZ HOUSE & TECHNO CLUB"
+    "id": "301269",
+    "name": "TBA - 50:Hertz - House & Techno café"
+  },
+  {
+    "id": "304052",
+    "name": "TBA - 50:Hertz House & Techno Club Rembrandt Square"
+  },
+  {
+    "id": "305438",
+    "name": "TBA - A LAB Amsterdam"
   },
   {
     "id": "23415",
     "name": "TBA - Amsterdam"
   },
   {
-    "id": "300048",
-    "name": "TBA - Amsterdam, Rokin"
+    "id": "301377",
+    "name": "TBA - Amsterdam"
+  },
+  {
+    "id": "303991",
+    "name": "TBA - AMSTERDAM BARBER COMPANY"
+  },
+  {
+    "id": "302516",
+    "name": "TBA - Amsterdam Central Station "
+  },
+  {
+    "id": "303803",
+    "name": "TBA - Amsterdam Noord"
+  },
+  {
+    "id": "305372",
+    "name": "TBA - AMSTERDAM Secret Location"
+  },
+  {
+    "id": "305066",
+    "name": "TBA - Assaggi"
+  },
+  {
+    "id": "304270",
+    "name": "TBA - Bar Billie"
   },
   {
     "id": "299085",
     "name": "TBA - Boot 122"
   },
   {
+    "id": "301204",
+    "name": "TBA - Cafe Westerdok"
+  },
+  {
     "id": "296103",
     "name": "TBA - Centraal Station"
+  },
+  {
+    "id": "304193",
+    "name": "TBA - Comedy Café Amsterdam"
   },
   {
     "id": "297834",
@@ -1178,6 +1682,14 @@
   {
     "id": "297623",
     "name": "TBA - De Baron Van Jutphaas (Partyboat)"
+  },
+  {
+    "id": "303853",
+    "name": "TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande"
+  },
+  {
+    "id": "303592",
+    "name": "TBA - De Ruijterkade 14, Amsterdam "
   },
   {
     "id": "300240",
@@ -1192,6 +1704,14 @@
     "name": "TBA - Deventer Outdoor | Molbergsweg 3c "
   },
   {
+    "id": "303920",
+    "name": "TBA - EIVISSA"
+  },
+  {
+    "id": "302926",
+    "name": "TBA - Eivissa Event Ship - Danzigerkade 55"
+  },
+  {
     "id": "288966",
     "name": "TBA - Eve Whitehouse Scheveningen"
   },
@@ -1200,12 +1720,24 @@
     "name": "TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam"
   },
   {
+    "id": "305259",
+    "name": "TBA - Flower Shop"
+  },
+  {
+    "id": "302107",
+    "name": "TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam"
+  },
+  {
     "id": "300735",
     "name": "TBA - Inter-city "
   },
   {
     "id": "291414",
     "name": "TBA - IYKYK"
+  },
+  {
+    "id": "303959",
+    "name": "TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam"
   },
   {
     "id": "299819",
@@ -1220,8 +1752,16 @@
     "name": "TBA - Möllerwerf Hengelo"
   },
   {
+    "id": "304284",
+    "name": "TBA - NDSM Areal"
+  },
+  {
     "id": "299740",
     "name": "TBA - NL"
+  },
+  {
+    "id": "304538",
+    "name": "TBA - noord"
   },
   {
     "id": "294025",
@@ -1230,6 +1770,10 @@
   {
     "id": "293681",
     "name": "TBA - Opstappen bij Adam toren"
+  },
+  {
+    "id": "302279",
+    "name": "TBA - Pitchers Bar"
   },
   {
     "id": "298458",
@@ -1260,6 +1804,10 @@
     "name": "TBA - secret location"
   },
   {
+    "id": "304971",
+    "name": "TBA - STOOM SHIP- Ndsm pier 6, Amsterdam"
+  },
+  {
     "id": "296481",
     "name": "TBA - The All Out, Amsterdam"
   },
@@ -1284,12 +1832,28 @@
     "name": "Teatro Munganga"
   },
   {
+    "id": "231890",
+    "name": "The Basement Eindhoven"
+  },
+  {
     "id": "300801",
     "name": "The Bassment"
   },
   {
+    "id": "125886",
+    "name": "The Bulldog Hotel"
+  },
+  {
     "id": "223249",
     "name": "The Bulldog Palace"
+  },
+  {
+    "id": "302499",
+    "name": "The Cruise Club"
+  },
+  {
+    "id": "305256",
+    "name": "The Dolphins"
   },
   {
     "id": "223183",
@@ -1300,6 +1864,10 @@
     "name": "The Grey Space In The Middle"
   },
   {
+    "id": "303860",
+    "name": "The Hoxton Amsterdam"
+  },
+  {
     "id": "190657",
     "name": "The Loft Amsterdam"
   },
@@ -1308,12 +1876,28 @@
     "name": "THE OTHER SIDE"
   },
   {
+    "id": "258174",
+    "name": "The Social Hub Amsterdam City"
+  },
+  {
     "id": "297063",
     "name": "The Stargate"
   },
   {
+    "id": "303003",
+    "name": "The Stargate"
+  },
+  {
+    "id": "299754",
+    "name": "The Tequila Club | Amsterdam"
+  },
+  {
     "id": "128624",
     "name": "Theater Amsterdam"
+  },
+  {
+    "id": "301958",
+    "name": "Theater de Richel"
   },
   {
     "id": "109027",
@@ -1344,8 +1928,16 @@
     "name": "Transit"
   },
   {
+    "id": "71304",
+    "name": "Tropeninstituut: Koninklijk Instituut Voor de Tropen"
+  },
+  {
     "id": "131709",
     "name": "Tuinen van West"
+  },
+  {
+    "id": "304265",
+    "name": "Ultimate VR Leiden"
   },
   {
     "id": "144150",
@@ -1364,6 +1956,10 @@
     "name": "Veronica Schip"
   },
   {
+    "id": "305342",
+    "name": "Very Special"
+  },
+  {
     "id": "276679",
     "name": "Vic's Bar"
   },
@@ -1372,8 +1968,20 @@
     "name": "Vliegbasis Twenthe"
   },
   {
+    "id": "103242",
+    "name": "Volta"
+  },
+  {
+    "id": "94204",
+    "name": "Vrankrijk"
+  },
+  {
     "id": "108806",
     "name": "W Hotel Amsterdam"
+  },
+  {
+    "id": "143827",
+    "name": "W139"
   },
   {
     "id": "24919",
@@ -1382,6 +1990,10 @@
   {
     "id": "289449",
     "name": "Walhalla"
+  },
+  {
+    "id": "304482",
+    "name": "Wanakam"
   },
   {
     "id": "69321",
@@ -1408,6 +2020,10 @@
     "name": "Werkspoorkathedraal"
   },
   {
+    "id": "304085",
+    "name": "West Indish Huis"
+  },
+  {
     "id": "222196",
     "name": "Westerkerk"
   },
@@ -1420,6 +2036,14 @@
     "name": "WestWeelde"
   },
   {
+    "id": "266780",
+    "name": "What Is Happening Here Gallery"
+  },
+  {
+    "id": "305529",
+    "name": "White Label Coffee - West"
+  },
+  {
     "id": "300437",
     "name": "Whitehouse"
   },
@@ -1430,6 +2054,10 @@
   {
     "id": "169846",
     "name": "Wibar"
+  },
+  {
+    "id": "303297",
+    "name": "Wijnhuis.Amsterdam"
   },
   {
     "id": "70008",

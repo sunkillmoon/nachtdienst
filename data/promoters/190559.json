@@ -7,12 +7,23 @@
       "title": "AEVUM",
       "date": "2026-10-21",
       "start": "2026-10-21T21:00+02:00",
-      "venue": "Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam",
-      "venue_id": "297432",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490237"
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "187397",
+      "name": "SNAJDER",
+      "count": 1
+    },
+    {
+      "id": "181802",
+      "name": "DAN:EZ",
+      "count": 1
+    }
+  ]
 }

@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506011",
-      "title": "I-F - EILEEN - 5 hour sets",
-      "date": "2026-09-25",
-      "start": "2026-09-25T19:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506011"
+      "id": "ra:2537596",
+      "title": "Intergalactic FM",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2537596"
     },
+    {
+      "id": "ra:2538695",
+      "title": "I-F • Intergalactic Gary • Eileen",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538695"
+    },
+    {
+      "id": "ra:2523599",
+      "title": "Intergalactic FM presents Acid Bunker",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2523599"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
@@ -22,9 +44,17 @@
       "venue_id": "300735",
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
+    },
     {
       "id": "ra:2419546",
       "title": "Phono Lake's Second Night At The Lake",

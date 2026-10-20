@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2554611",
+      "title": "Club Fair x Overdrive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554611"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2424479",
       "title": "HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika",
       "date": "2026-10-16",
@@ -12,9 +24,7 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2424479"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2469467",
       "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",

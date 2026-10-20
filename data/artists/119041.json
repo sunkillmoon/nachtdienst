@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2563627",
+      "title": "Tempo Marauders 2 year anniversary",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563627"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2489575",
       "title": "fruit salad x Epiphany Records",
       "date": "2026-08-30",
@@ -22,9 +34,7 @@
       "venue_id": "188430",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514460"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2494099",
       "title": "Cousin, baby ganoush b2b Nèna, Sandor",

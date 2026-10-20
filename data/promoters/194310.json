@@ -1,0 +1,54 @@
+{
+  "id": "194310",
+  "name": "PURE.NIGHTLIVE",
+  "upcoming": [
+    {
+      "id": "ra:2540803",
+      "title": "Caiiro presents: AKHET (ADE) powered by PURE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540803"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "51923",
+      "name": "Ape Drums",
+      "count": 1
+    },
+    {
+      "id": "126497",
+      "name": "AWEN",
+      "count": 1
+    },
+    {
+      "id": "91124",
+      "name": "Caiiro",
+      "count": 1
+    },
+    {
+      "id": "83407",
+      "name": "DJEFF",
+      "count": 1
+    },
+    {
+      "id": "77646",
+      "name": "The Native Project",
+      "count": 1
+    },
+    {
+      "id": "103541",
+      "name": "JANE RYSE",
+      "count": 1
+    },
+    {
+      "id": "12046",
+      "name": "Rancido",
+      "count": 1
+    }
+  ]
+}

@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.25,
   "lng": 6.17,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519501",
       "title": "Mold x Steppin' Ground Soundsystem",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2519501"
     }
-  ],
-  "past": []
+  ]
 }

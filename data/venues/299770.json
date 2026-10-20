@@ -6,6 +6,48 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2548811",
+      "title": "ADE: zig~zag.fm deep dive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548811"
+    },
+    {
+      "id": "ra:2548822",
+      "title": "ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548822"
+    },
+    {
+      "id": "ra:2548835",
+      "title": "ADE: innerzone extended with FBQ, Nelly and Mammo",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548835"
+    },
+    {
+      "id": "ra:2548839",
+      "title": "afternoon interlude: Nico Borgio",
+      "date": "2026-10-31",
+      "start": "2026-10-31T12:00+01:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548839"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512486",
       "title": "afternoon interlude with Stanislawa",
       "date": "2026-08-29",
@@ -14,9 +56,7 @@
       "venue_id": "299770",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512486"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2512482",
       "title": "afternoon interlude with Nèna",

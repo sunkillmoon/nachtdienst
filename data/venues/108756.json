@@ -4,17 +4,8 @@
   "area": "All",
   "lat": 52.160801,
   "lng": 5.379116,
-  "upcoming": [
-    {
-      "id": "ra:2415305",
-      "title": "Spätkauf Amersfoort",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Fluor",
-      "venue_id": "108756",
-      "area": "All",
-      "url": "https://ra.co/events/2415305"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516460",
       "title": "UOTJ: Junglism 3 (Fluor)",
@@ -24,7 +15,16 @@
       "venue_id": "108756",
       "area": "All",
       "url": "https://ra.co/events/2516460"
+    },
+    {
+      "id": "ra:2415305",
+      "title": "Spätkauf Amersfoort",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Fluor",
+      "venue_id": "108756",
+      "area": "All",
+      "url": "https://ra.co/events/2415305"
     }
-  ],
-  "past": []
+  ]
 }

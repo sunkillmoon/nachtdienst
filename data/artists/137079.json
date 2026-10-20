@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479794",
-      "title": "Afterparty Rotterdam Rave Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Maassilo",
-      "venue_id": "4902",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2479794"
+      "id": "ra:2534223",
+      "title": "KRUELTY B2B Vieze Asbak 3hrs ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534223"
     },
     {
       "id": "ra:2436427",
@@ -25,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479794"
+    },
     {
       "id": "ra:2437906",
       "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",

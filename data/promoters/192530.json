@@ -1,0 +1,79 @@
+{
+  "id": "192530",
+  "name": "EMBER ARTISTS",
+  "upcoming": [
+    {
+      "id": "ra:2521836",
+      "title": "EMBER ARTISTS x ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521836"
+    },
+    {
+      "id": "ra:2529524",
+      "title": "Together Alone x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529524"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "102814",
+      "name": "Afem Syko",
+      "count": 1
+    },
+    {
+      "id": "120925",
+      "name": "Bérou",
+      "count": 1
+    },
+    {
+      "id": "120055",
+      "name": "BIIANCO",
+      "count": 1
+    },
+    {
+      "id": "93149",
+      "name": "DJ Hyperdrive",
+      "count": 1
+    },
+    {
+      "id": "118224",
+      "name": "DURDENHAUER",
+      "count": 1
+    },
+    {
+      "id": "105525",
+      "name": "Fenrick",
+      "count": 1
+    },
+    {
+      "id": "134486",
+      "name": "FJUSHA",
+      "count": 1
+    },
+    {
+      "id": "112347",
+      "name": "KTK (DE)",
+      "count": 1
+    },
+    {
+      "id": "146638",
+      "name": "L.zwo",
+      "count": 1
+    },
+    {
+      "id": "107292",
+      "name": "VEL (MA)",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "85909",
   "name": "Chris Gialanze",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490652",
       "title": "Toffler presents Chris Gialanze, De Sluwe Vos",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490652"
     }
-  ],
-  "past": []
+  ]
 }

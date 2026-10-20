@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2402363",
-      "title": "Woods Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T15:00+02:00",
-      "venue": "Hut van Mie Pils",
-      "venue_id": "288378",
-      "area": "All",
-      "url": "https://ra.co/events/2402363"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2470324"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2402363",
+      "title": "Woods Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Hut van Mie Pils",
+      "venue_id": "288378",
+      "area": "All",
+      "url": "https://ra.co/events/2402363"
+    }
+  ]
 }

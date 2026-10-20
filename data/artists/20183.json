@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2538480",
+      "title": "Crater 6: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2538480"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2479976",
       "title": "Black Sun Empire presents: Blackout Rewind",
       "date": "2026-09-04",
@@ -13,6 +25,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2479976"
     }
-  ],
-  "past": []
+  ]
 }

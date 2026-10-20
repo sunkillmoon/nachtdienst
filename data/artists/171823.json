@@ -2,17 +2,8 @@
   "id": "171823",
   "name": "BVNNII",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2446382",
-      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
-      "date": "2026-08-26",
-      "start": "2026-08-26T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2446382"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514783",
       "title": "20kHz SPECTRA x DuysteR",
@@ -22,7 +13,16 @@
       "venue_id": "52605",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2514783"
+    },
+    {
+      "id": "ra:2446382",
+      "title": "RAVELAND x 20kHz: Hard Techno, Groove & Bounce",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2446382"
     }
-  ],
-  "past": []
+  ]
 }

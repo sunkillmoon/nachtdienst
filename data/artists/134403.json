@@ -4,18 +4,18 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2466662",
-      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
-      "date": "2026-09-20",
-      "start": "2026-09-20T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2466662"
+      "url": "https://ra.co/events/2563972"
     },
     {
       "id": "ra:2452022",
-      "title": "GASHOUDER presents: Josh Baker",
+      "title": "GASHOUDER presents: Josh Baker [Sold Out]",
       "date": "2026-10-25",
       "start": "2026-10-25T14:30+01:00",
       "venue": "GASHOUDER",
@@ -24,5 +24,16 @@
       "url": "https://ra.co/events/2452022"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    }
+  ]
 }

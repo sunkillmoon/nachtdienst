@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458433",
-      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
-      "date": "2026-09-06",
-      "start": "2026-09-06T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
+      "id": "ra:2542112",
+      "title": "PWCC TAKEOVER X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2458433"
+      "url": "https://ra.co/events/2542112"
     },
     {
       "id": "ra:2479117",
@@ -22,9 +22,29 @@
       "venue_id": "175707",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479117"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
     }
   ],
   "past": [
+    {
+      "id": "ra:2458433",
+      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
+      "date": "2026-09-06",
+      "start": "2026-09-06T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458433"
+    },
     {
       "id": "ra:2486484",
       "title": "Latebloomers at the Beach with Giammarco Orsini & DJ Tjizza",

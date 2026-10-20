@@ -4,14 +4,66 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2509402",
-      "title": "Momentum in De Vleeshal",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "De Vleeshal",
-      "venue_id": "299669",
+      "id": "ra:2526144",
+      "title": "20 years of The Warehouse Project",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509402"
+      "url": "https://ra.co/events/2526144"
+    },
+    {
+      "id": "ra:2533327",
+      "title": "get—traum x Blast Galaxy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533327"
+    },
+    {
+      "id": "ra:2530827",
+      "title": "ADE: Baskèts x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530827"
+    },
+    {
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495403"
+    },
+    {
+      "id": "ra:2517622",
+      "title": "Boris Coelman, De Sluwe Vos, Merel Helderman",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517622"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
     },
     {
       "id": "ra:2468479",
@@ -24,14 +76,14 @@
       "url": "https://ra.co/events/2468479"
     },
     {
-      "id": "ra:2516420",
-      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
+      "id": "ra:2488595",
+      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516420"
+      "url": "https://ra.co/events/2488595"
     },
     {
       "id": "ra:2495691",
@@ -44,37 +96,25 @@
       "url": "https://ra.co/events/2495691"
     },
     {
-      "id": "ra:2488595",
-      "title": "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES",
+      "id": "ra:2516420",
+      "title": "LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes",
       "date": "2026-09-18",
       "start": "2026-09-18T22:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488595"
+      "url": "https://ra.co/events/2516420"
     },
     {
-      "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2491639"
+      "url": "https://ra.co/events/2509402"
     },
-    {
-      "id": "ra:2495403",
-      "title": "ZeeZout ADE - Saturday Daytime",
-      "date": "2026-10-24",
-      "start": "2026-10-24T14:00+02:00",
-      "venue": "Het Rijk van de Keizer",
-      "venue_id": "19615",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495403"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2454757",
       "title": "Get Closer",

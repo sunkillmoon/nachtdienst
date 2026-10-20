@@ -3,15 +3,27 @@
   "name": "East Collective",
   "upcoming": [
     {
-      "id": "ra:2507122",
-      "title": "EAST Techno Collective",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Club Up",
-      "venue_id": "38637",
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507122"
+      "url": "https://ra.co/events/2524505"
     },
+    {
+      "id": "ra:2498366",
+      "title": "EAST Techno Collective - Halloween Warehouse w/ Manrick Stapez [BCCO]",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498366"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2519157",
       "title": "EAST Techno Collective",
@@ -23,17 +35,15 @@
       "url": "https://ra.co/events/2519157"
     },
     {
-      "id": "ra:2498366",
-      "title": "EAST Techno Collective - Halloween Warehouse",
-      "date": "2026-10-31",
-      "start": "2026-10-31T22:00+01:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
+      "id": "ra:2507122",
+      "title": "EAST Techno Collective",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2498366"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2507122"
+    },
     {
       "id": "ra:2430672",
       "title": "EAST Summer Night Rave",
@@ -59,7 +69,27 @@
     {
       "id": "46830",
       "name": "Jayzo",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "106567",
+      "name": "PunkFunkLove",
+      "count": 1
+    },
+    {
+      "id": "106485",
+      "name": "rebrånded",
+      "count": 1
+    },
+    {
+      "id": "65514",
+      "name": "Xiorro",
+      "count": 1
+    },
+    {
+      "id": "128517",
+      "name": "Manrick Stapez",
+      "count": 1
     },
     {
       "id": "3687",

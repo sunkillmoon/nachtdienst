@@ -2,7 +2,8 @@
   "id": "106905",
   "name": "In Verruf",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2436233",
       "title": "Rotterdam Rave Festival 2026",
@@ -23,6 +24,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479794"
     }
-  ],
-  "past": []
+  ]
 }

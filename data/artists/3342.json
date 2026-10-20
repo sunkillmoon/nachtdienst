@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2536533",
+      "title": "Gia Fu - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536533"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2473473",
       "title": "The Deep Club - Outdoor Edition",
       "date": "2026-09-27",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473473"
     }
-  ],
-  "past": []
+  ]
 }

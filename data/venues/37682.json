@@ -6,6 +6,38 @@
   "lng": 4.863473,
   "upcoming": [
     {
+      "id": "ra:2521051",
+      "title": "Saturo Sounds presents: Amsterdam ADE Pre-Party",
+      "date": "2026-10-21",
+      "start": "2026-10-21T11:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521051"
+    },
+    {
+      "id": "ra:2564142",
+      "title": "Quest in Dam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564142"
+    },
+    {
+      "id": "ra:2562407",
+      "title": "LIA Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Kashmir Lounge",
+      "venue_id": "37682",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562407"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2515821",
       "title": "4 THE LOVE OF HOUSE: DAMMIT",
       "date": "2026-10-10",
@@ -15,18 +47,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515821"
     },
-    {
-      "id": "ra:2521051",
-      "title": "Saturo Sounds presents: Amsterdam ADE Pre-Party",
-      "date": "2026-10-21",
-      "start": "2026-10-21T11:00+02:00",
-      "venue": "Kashmir Lounge",
-      "venue_id": "37682",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2521051"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2494714",
       "title": "Go Cosmic with AnnaM, Be.a.son",

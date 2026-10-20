@@ -3,6 +3,16 @@
   "name": "Bordello A Parigi",
   "upcoming": [
     {
+      "id": "ra:2558918",
+      "title": "Mannequin Records X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558918"
+    },
+    {
       "id": "ra:2503158",
       "title": "Bordello A Parigi - ADE",
       "date": "2026-10-24",
@@ -11,10 +21,30 @@
       "venue_id": "158843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503158"
+    },
+    {
+      "id": "ra:2547450",
+      "title": "CURA Berlin x Parachute Booking - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547450"
     }
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "43918",
+      "name": "Alessandro Adriani",
+      "count": 1
+    },
+    {
+      "id": "48170",
+      "name": "Marsman",
+      "count": 1
+    },
     {
       "id": "5469",
       "name": "Alden Tyrell",
@@ -38,6 +68,21 @@
     {
       "id": "4758",
       "name": "Nunzio Borino",
+      "count": 1
+    },
+    {
+      "id": "85822",
+      "name": "MASCHA",
+      "count": 1
+    },
+    {
+      "id": "63390",
+      "name": "Ben Kaczor",
+      "count": 1
+    },
+    {
+      "id": "143464",
+      "name": "Chloe Battelle",
       "count": 1
     }
   ]

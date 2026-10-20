@@ -6,14 +6,56 @@
   "lng": 4.510269,
   "upcoming": [
     {
-      "id": "ra:2495731",
-      "title": "Wibar Opening Party with Detroit In Effect b2b Serge",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
+      "id": "ra:2555793",
+      "title": "Buurman & Buurman: The Swamp Special",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "Wibar",
       "venue_id": "169846",
       "area": "All",
-      "url": "https://ra.co/events/2495731"
+      "url": "https://ra.co/events/2555793"
+    },
+    {
+      "id": "ra:2542879",
+      "title": "Wibar Halloween - Swamp Special",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2542879"
+    },
+    {
+      "id": "ra:2555814",
+      "title": "HARD VOOR WEINIG",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2555814"
+    },
+    {
+      "id": "ra:2541797",
+      "title": "Hardwired: vinyl only",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2541797"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2495745",
+      "title": "Wibar Invites Narciss",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2495745"
     },
     {
       "id": "ra:2495795",
@@ -26,17 +68,15 @@
       "url": "https://ra.co/events/2495795"
     },
     {
-      "id": "ra:2495745",
-      "title": "Wibar Invites Narciss",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
+      "id": "ra:2495731",
+      "title": "Wibar Opening Party with Detroit In Effect b2b Serge",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
       "venue": "Wibar",
       "venue_id": "169846",
       "area": "All",
-      "url": "https://ra.co/events/2495745"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2495731"
+    },
     {
       "id": "ra:2501581",
       "title": "JØASE ANL @ Wibar - FREE RAVE",

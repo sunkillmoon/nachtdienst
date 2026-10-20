@@ -1,7 +1,8 @@
 {
   "id": "192076",
   "name": "minimal • vision",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511867",
       "title": "minimal • vision / the first glimpse",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2511867"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "153692",

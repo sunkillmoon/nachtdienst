@@ -6,64 +6,24 @@
   "lng": 4.875716,
   "upcoming": [
     {
-      "id": "ra:2462831",
-      "title": "Plastilina Mosh",
-      "date": "2026-08-29",
-      "start": "2026-08-29T17:00+02:00",
+      "id": "ra:2531051",
+      "title": "The Early Shift",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
       "venue": "Toekomstmuziek",
       "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2462831"
+      "url": "https://ra.co/events/2531051"
     },
     {
-      "id": "ra:2504199",
-      "title": "Føler x LINKD x Toekomstmuziek minifestival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T16:00+02:00",
+      "id": "ra:2528602",
+      "title": "BaseYRD ADE Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
       "venue": "Toekomstmuziek",
       "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2504199"
-    },
-    {
-      "id": "ra:2501108",
-      "title": "The Pink Room",
-      "date": "2026-09-11",
-      "start": "2026-09-11T17:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501108"
-    },
-    {
-      "id": "ra:2483261",
-      "title": "Omnibus w/ Bruno Schmidt",
-      "date": "2026-09-11",
-      "start": "2026-09-11T20:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483261"
-    },
-    {
-      "id": "ra:2499136",
-      "title": "UNTIED",
-      "date": "2026-10-02",
-      "start": "2026-10-02T21:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499136"
-    },
-    {
-      "id": "ra:2504882",
-      "title": "BREAK PROTOCOL #2",
-      "date": "2026-10-17",
-      "start": "2026-10-17T20:00+02:00",
-      "venue": "Toekomstmuziek",
-      "venue_id": "199902",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504882"
+      "url": "https://ra.co/events/2528602"
     },
     {
       "id": "ra:2479678",
@@ -77,7 +37,7 @@
     },
     {
       "id": "ra:2485437",
-      "title": "OBSCUUR ADE with Antonym, Jim Jonathan,OnlyWithYou, KLING&KLANG, PartyPi",
+      "title": "OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "Toekomstmuziek",
@@ -87,7 +47,7 @@
     },
     {
       "id": "ra:2485446",
-      "title": "OBSCUUR x Trancecore ADE with DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE, Amøn",
+      "title": "OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE",
       "date": "2026-10-24",
       "start": "2026-10-24T23:00+02:00",
       "venue": "Toekomstmuziek",
@@ -114,9 +74,99 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514874"
+    },
+    {
+      "id": "ra:2553163",
+      "title": "Disco Inferno: Funk De Nacht",
+      "date": "2026-10-31",
+      "start": "2026-10-31T19:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553163"
+    },
+    {
+      "id": "ra:2553756",
+      "title": "LIJN5",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553756"
+    },
+    {
+      "id": "ra:2556045",
+      "title": "PURBA-001",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556045"
     }
   ],
   "past": [
+    {
+      "id": "ra:2504882",
+      "title": "BREAK PROTOCOL #2",
+      "date": "2026-10-17",
+      "start": "2026-10-17T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504882"
+    },
+    {
+      "id": "ra:2499136",
+      "title": "UNTIED",
+      "date": "2026-10-02",
+      "start": "2026-10-02T21:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499136"
+    },
+    {
+      "id": "ra:2483261",
+      "title": "Omnibus w/ Bruno Schmidt",
+      "date": "2026-09-11",
+      "start": "2026-09-11T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483261"
+    },
+    {
+      "id": "ra:2501108",
+      "title": "The Pink Room",
+      "date": "2026-09-11",
+      "start": "2026-09-11T17:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501108"
+    },
+    {
+      "id": "ra:2504199",
+      "title": "Føler x LINKD x Toekomstmuziek minifestival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T16:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504199"
+    },
+    {
+      "id": "ra:2462831",
+      "title": "Plastilina Mosh",
+      "date": "2026-08-29",
+      "start": "2026-08-29T17:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462831"
+    },
     {
       "id": "ra:2515601",
       "title": "Tick Fest",

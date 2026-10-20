@@ -1,7 +1,8 @@
 {
   "id": "192415",
   "name": "Kade Collectief",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2515958",
       "title": "Technorth X Kade Collectief",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2515958"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "175943",

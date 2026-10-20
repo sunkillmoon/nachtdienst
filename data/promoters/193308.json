@@ -1,0 +1,59 @@
+{
+  "id": "193308",
+  "name": "Milk & Sugar Recordings",
+  "upcoming": [
+    {
+      "id": "ra:2527280",
+      "title": "Milk & Sugar House Nation ADE Session 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Bar Twenty Two",
+      "venue_id": "224568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527280"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "39234",
+      "name": "Milk & Sugar",
+      "count": 1
+    },
+    {
+      "id": "158260",
+      "name": "James Hurr",
+      "count": 1
+    },
+    {
+      "id": "27398",
+      "name": "The Cube Guys",
+      "count": 1
+    },
+    {
+      "id": "46460",
+      "name": "Peppe Citarella",
+      "count": 1
+    },
+    {
+      "id": "13162",
+      "name": "Emanuele Esposito",
+      "count": 1
+    },
+    {
+      "id": "54569",
+      "name": "Mattei & Omich",
+      "count": 1
+    },
+    {
+      "id": "136107",
+      "name": "Almared",
+      "count": 1
+    },
+    {
+      "id": "154218",
+      "name": "Maex",
+      "count": 1
+    }
+  ]
+}

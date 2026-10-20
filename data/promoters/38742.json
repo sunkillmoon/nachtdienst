@@ -3,26 +3,6 @@
   "name": "Audio Obscura",
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
-    {
-      "id": "ra:2464483",
-      "title": "Audio Obscura Festival [By Night]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2464483"
-    },
-    {
       "id": "ra:2475090",
       "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
       "date": "2026-10-22",
@@ -81,10 +61,71 @@
       "venue_id": "190418",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511714"
+    },
+    {
+      "id": "ra:2544830",
+      "title": "Audio Obscura ADE at The Loft with Adriatique B2B Cloonee",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544830"
+    },
+    {
+      "id": "ra:2544835",
+      "title": "Audio Obscura ADE at The Loft with Michael Bibi",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544835"
+    },
+    {
+      "id": "ra:2544838",
+      "title": "Audio Obscura ADE at The Loft x Angels by Cloudy",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544838"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2464483",
+      "title": "Audio Obscura Festival [By Night]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2464483"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "92873",
+      "name": "Tjade",
+      "count": 2
+    },
+    {
+      "id": "176831",
+      "name": "IDEMI",
+      "count": 2
+    },
     {
       "id": "83185",
       "name": "DJ Gigola",
@@ -101,38 +142,28 @@
       "count": 2
     },
     {
-      "id": "176831",
-      "name": "IDEMI",
-      "count": 2
-    },
-    {
-      "id": "92873",
-      "name": "Tjade",
-      "count": 2
-    },
-    {
-      "id": "62077",
-      "name": "Chris Stassy",
+      "id": "83908",
+      "name": "Patrick Mason",
       "count": 1
     },
     {
-      "id": "90643",
-      "name": "Prospa",
+      "id": "67103",
+      "name": "SPFDJ",
       "count": 1
     },
     {
-      "id": "9944",
-      "name": "Honey Dijon",
+      "id": "44868",
+      "name": "Anetha",
       "count": 1
     },
     {
-      "id": "55735",
-      "name": "Folamour",
+      "id": "122197",
+      "name": "Mischluft",
       "count": 1
     },
     {
-      "id": "120215",
-      "name": "Marsolo",
+      "id": "101454",
+      "name": "Bella Claxton",
       "count": 1
     }
   ]

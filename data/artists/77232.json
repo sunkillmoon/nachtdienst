@@ -4,14 +4,56 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505865",
-      "title": "Boiler Room: Maastricht - Friday",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
-      "venue": "Complex Maastricht",
-      "venue_id": "120841",
-      "area": "All",
-      "url": "https://ra.co/events/2505865"
+      "id": "ra:2516675",
+      "title": "Lobster Invites - Free ADE Event",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516675"
+    },
+    {
+      "id": "ra:2479113",
+      "title": "Awakenings ADE - Friday Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Sugarfactory",
+      "venue_id": "277115",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479113"
+    },
+    {
+      "id": "ra:2489472",
+      "title": "Vault Sessions x SK_eleven ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489472"
+    },
+    {
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559333"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2402455",
+      "title": "Lobster invites",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402455"
     },
     {
       "id": "ra:2500670",
@@ -24,47 +66,15 @@
       "url": "https://ra.co/events/2500670"
     },
     {
-      "id": "ra:2402455",
-      "title": "Lobster invites",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2402455"
-    },
-    {
-      "id": "ra:2516675",
-      "title": "Lobster Invites - Free ADE Event",
-      "date": "2026-10-21",
-      "start": "2026-10-21T22:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516675"
-    },
-    {
-      "id": "ra:2489472",
-      "title": "Vault Sessions x SK_eleven ADE",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "Blast Galaxy",
-      "venue_id": "153386",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2489472"
-    },
-    {
-      "id": "ra:2479113",
-      "title": "Awakenings ADE - Friday Sessions",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "Sugarfactory",
-      "venue_id": "277115",
+      "id": "ra:2505865",
+      "title": "Boiler Room: Maastricht - Friday",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Complex Maastricht",
+      "venue_id": "120841",
       "area": "All",
-      "url": "https://ra.co/events/2479113"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2505865"
+    },
     {
       "id": "ra:2488592",
       "title": "LOBSTER INVITES MAC DECLOS",

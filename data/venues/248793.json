@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": 52.38,
   "lng": 4.92,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2544001",
+      "title": "Subtone presents 30 Years Of Atjazz",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:00+02:00",
+      "venue": "Loods 12",
+      "venue_id": "248793",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544001"
+    }
+  ],
   "past": [
     {
       "id": "ra:2502172",

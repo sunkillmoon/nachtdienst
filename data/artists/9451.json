@@ -1,0 +1,28 @@
+{
+  "id": "9451",
+  "name": "Guti",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2550797",
+      "title": "ENSL presents: Futurismo Tropical",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550797"
+    },
+    {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
+    }
+  ],
+  "past": []
+}

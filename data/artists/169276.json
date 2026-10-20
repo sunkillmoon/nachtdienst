@@ -2,7 +2,8 @@
   "id": "169276",
   "name": "zondagskind",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496558",
       "title": "10SERIES by Shelter - Hidde van Wee (all night long)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496558"
     }
-  ],
-  "past": []
+  ]
 }

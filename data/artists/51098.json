@@ -1,0 +1,28 @@
+{
+  "id": "51098",
+  "name": "Toru Ikemoto",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540841",
+      "title": "Openings dinner - Arigato Show (ADE special)",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540841"
+    },
+    {
+      "id": "ra:2534097",
+      "title": "PODD x Omen Wapta x Ute",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534097"
+    }
+  ],
+  "past": []
+}

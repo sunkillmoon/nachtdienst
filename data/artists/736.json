@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2496546",
-      "title": "Ryan Elliott b2b Pancratio, Naomi",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496546"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2466456",
-      "title": "CLUB.RECORD - The Loft",
+      "title": "CLUB.RECORD - The Loft [SOLD OUT]",
       "date": "2026-10-22",
       "start": "2026-10-23T06:00+02:00",
       "venue": "The Loft Amsterdam",
@@ -72,9 +62,29 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520399"
+    },
+    {
+      "id": "ra:2533192",
+      "title": "Chaos In The CBD pres. In Dust We Trust",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533192"
     }
   ],
   "past": [
+    {
+      "id": "ra:2496546",
+      "title": "Ryan Elliott b2b Pancratio, Naomi",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496546"
+    },
     {
       "id": "ra:2436230",
       "title": "De Sessie - Ryan Elliott - Summer Sessions",

@@ -1,0 +1,54 @@
+{
+  "id": "137235",
+  "name": "8sixA",
+  "upcoming": [
+    {
+      "id": "ra:2547669",
+      "title": "Eclectic Limited · 10 Years",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "8sixa",
+      "venue_id": "204048",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547669"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "55468",
+      "name": "Salvatore Foglia",
+      "count": 1
+    },
+    {
+      "id": "32978",
+      "name": "Kenny Dahl",
+      "count": 1
+    },
+    {
+      "id": "35175",
+      "name": "DJ Surgeles",
+      "count": 1
+    },
+    {
+      "id": "95388",
+      "name": "Elisa Batti",
+      "count": 1
+    },
+    {
+      "id": "108005",
+      "name": "R/D/V",
+      "count": 1
+    },
+    {
+      "id": "77725",
+      "name": "Roi (ES)",
+      "count": 1
+    },
+    {
+      "id": "152153",
+      "name": "3Points",
+      "count": 1
+    }
+  ]
+}

@@ -6,24 +6,14 @@
   "lng": 4.87756,
   "upcoming": [
     {
-      "id": "ra:2414839",
-      "title": "Olivier Weiter b2b Miss Melera",
-      "date": "2026-09-12",
-      "start": "2026-09-12T15:00+02:00",
+      "id": "ra:2529502",
+      "title": "Crucast X HIGH TEA X Wobbles & Waffles ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:30+02:00",
       "venue": "Ijland",
       "venue_id": "188055",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2414839"
-    },
-    {
-      "id": "ra:2501891",
-      "title": "Cirque Du Rave Is Coming",
-      "date": "2026-10-17",
-      "start": "2026-10-17T23:00+02:00",
-      "venue": "Ijland",
-      "venue_id": "188055",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501891"
+      "url": "https://ra.co/events/2529502"
     },
     {
       "id": "ra:2458425",
@@ -47,16 +37,56 @@
     },
     {
       "id": "ra:2476166",
-      "title": "Happy Feelings ADE - Ijland",
+      "title": "Happy Feelings ADE - Ijland W/ SWIM, Lucky Done Gone ",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
       "venue": "Ijland",
       "venue_id": "188055",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476166"
+    },
+    {
+      "id": "ra:2550272",
+      "title": "ZENZELE PRESENT ADE W/ VANCO, THEMBA, SAFFOU & MANY MORE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T21:00+01:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550272"
+    },
+    {
+      "id": "ra:2539773",
+      "title": "Sona presents: Two and A Half Cats",
+      "date": "2026-10-25",
+      "start": "2026-10-26T07:00+01:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539773"
     }
   ],
   "past": [
+    {
+      "id": "ra:2501891",
+      "title": "Cirque Du Rave Is Coming",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501891"
+    },
+    {
+      "id": "ra:2414839",
+      "title": "Olivier Weiter b2b Miss Melera",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414839"
+    },
     {
       "id": "ra:2478267",
       "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",

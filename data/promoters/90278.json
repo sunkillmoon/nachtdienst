@@ -1,7 +1,8 @@
 {
   "id": "90278",
   "name": "DP&A events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2495441",
       "title": "Music is the Answer Back at Reverse",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2495441"
     }
   ],
-  "past": [],
   "top_artists": []
 }

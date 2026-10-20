@@ -2,7 +2,8 @@
   "id": "8864",
   "name": "Robot Koch",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489520",
       "title": "Robot Koch: Live",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2489520"
     }
-  ],
-  "past": []
+  ]
 }

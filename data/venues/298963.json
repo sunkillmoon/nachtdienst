@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.36,
   "lng": 4.91,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503803",
       "title": "Versão brasileira ÁLAMO",
@@ -14,9 +15,7 @@
       "venue_id": "298963",
       "area": "All",
       "url": "https://ra.co/events/2503803"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2472120",
       "title": "Versão brasileira ÁLAMO",

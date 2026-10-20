@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2532104",
+      "title": "ZeeZout ADE - Saturday Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532104"
+    },
+    {
       "id": "ra:2494410",
-      "title": "Second Wind",
+      "title": "Breakfast Club ADE: Second Wind",
       "date": "2026-10-25",
       "start": "2026-10-25T09:00+01:00",
       "venue": "RADION",

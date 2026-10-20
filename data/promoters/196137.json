@@ -1,0 +1,29 @@
+{
+  "id": "196137",
+  "name": "Plisa",
+  "upcoming": [
+    {
+      "id": "ra:2563012",
+      "title": "VIS 01 AMS",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563012"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "125222",
+      "name": "Bella Hall",
+      "count": 1
+    },
+    {
+      "id": "189719",
+      "name": "Sachiko",
+      "count": 1
+    }
+  ]
+}

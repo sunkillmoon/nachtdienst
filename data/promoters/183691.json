@@ -1,0 +1,59 @@
+{
+  "id": "183691",
+  "name": "Naughty Parrot",
+  "upcoming": [
+    {
+      "id": "ra:2560682",
+      "title": "ADE: Naughty Parrot in the Park",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Blauwe Theehuis",
+      "venue_id": "49651",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560682"
+    },
+    {
+      "id": "ra:2563740",
+      "title": "ADE: Naughty Coffee Sounds x White Label Coffee",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "White Label Coffee - West",
+      "venue_id": "305529",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563740"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "173550",
+      "name": "RIJ.",
+      "count": 2
+    },
+    {
+      "id": "130488",
+      "name": "STYLI",
+      "count": 1
+    },
+    {
+      "id": "153293",
+      "name": "MEERA (UK)",
+      "count": 1
+    },
+    {
+      "id": "96006",
+      "name": "Adam Romo",
+      "count": 1
+    },
+    {
+      "id": "170027",
+      "name": "Ross Whisper",
+      "count": 1
+    },
+    {
+      "id": "139069",
+      "name": "Charlie Delta",
+      "count": 1
+    }
+  ]
+}

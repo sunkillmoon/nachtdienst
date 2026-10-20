@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    },
-    {
       "id": "ra:2474416",
       "title": "DGTL ADE Friday Night",
       "date": "2026-10-23",
@@ -30,11 +20,21 @@
       "start": "2026-10-24T13:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479114"
     }
   ],
   "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

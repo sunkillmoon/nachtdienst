@@ -1,7 +1,8 @@
 {
   "id": "147376",
   "name": "Double Deux",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492783",
       "title": "SIMPLICITY",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2492783"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "172605",

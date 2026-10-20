@@ -1,7 +1,8 @@
 {
   "id": "108201",
   "name": "TILT.label",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507742",
       "title": "TILT x Syntax Error",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2507742"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "6877",

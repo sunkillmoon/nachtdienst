@@ -6,44 +6,14 @@
   "lng": 5.08,
   "upcoming": [
     {
-      "id": "ra:2499162",
-      "title": "CYBERLESQUE",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2544750",
+      "title": "24 HOUR DUB",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
       "venue": "KABUL à GoGo",
       "venue_id": "230222",
       "area": "Utrecht",
-      "url": "https://ra.co/events/2499162"
-    },
-    {
-      "id": "ra:2499737",
-      "title": "Uphoria x Roots",
-      "date": "2026-09-12",
-      "start": "2026-09-12T21:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2499737"
-    },
-    {
-      "id": "ra:2502004",
-      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
-      "date": "2026-09-19",
-      "start": "2026-09-19T22:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2502004"
-    },
-    {
-      "id": "ra:2511168",
-      "title": "N-R-G x Hypa with Sam Girling (UK)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "KABUL à GoGo",
-      "venue_id": "230222",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2511168"
+      "url": "https://ra.co/events/2544750"
     },
     {
       "id": "ra:2492384",
@@ -57,6 +27,46 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2511168",
+      "title": "N-R-G x Hypa with Sam Girling (UK)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2511168"
+    },
+    {
+      "id": "ra:2502004",
+      "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2502004"
+    },
+    {
+      "id": "ra:2499737",
+      "title": "Uphoria x Roots",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2499737"
+    },
+    {
+      "id": "ra:2499162",
+      "title": "CYBERLESQUE",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "KABUL à GoGo",
+      "venue_id": "230222",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2499162"
+    },
     {
       "id": "ra:2489006",
       "title": "Go Cosmic x Danscafé Teatro KABUL à GoGo",

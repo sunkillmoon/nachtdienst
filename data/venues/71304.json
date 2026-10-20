@@ -1,0 +1,20 @@
+{
+  "id": "71304",
+  "name": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+  "area": "Amsterdam",
+  "lat": 52.362471,
+  "lng": 4.920308,
+  "upcoming": [
+    {
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544904"
+    }
+  ],
+  "past": []
+}

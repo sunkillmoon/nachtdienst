@@ -2,7 +2,8 @@
   "id": "33410",
   "name": "Jovonn",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2434861",
       "title": "Phono Lake Festival",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2434861"
     }
-  ],
-  "past": []
+  ]
 }

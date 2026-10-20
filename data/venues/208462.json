@@ -6,6 +6,16 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2534207",
+      "title": "Free Your Mind x Teletech: 4 the People",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534207"
+    },
+    {
       "id": "ra:2449265",
       "title": "Pegassi All Day - ADE",
       "date": "2026-10-23",
@@ -24,6 +34,16 @@
       "venue_id": "208462",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492762"
+    },
+    {
+      "id": "ra:2534223",
+      "title": "KRUELTY B2B Vieze Asbak 3hrs ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534223"
     },
     {
       "id": "ra:2452367",

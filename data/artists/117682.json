@@ -2,7 +2,8 @@
   "id": "117682",
   "name": "Melis Köke",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500666"
     }
-  ],
-  "past": []
+  ]
 }

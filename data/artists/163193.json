@@ -2,7 +2,8 @@
   "id": "163193",
   "name": "Pip Blom",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511281",
       "title": "PIP BLOM 10 YEARS",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511281"
     }
-  ],
-  "past": []
+  ]
 }

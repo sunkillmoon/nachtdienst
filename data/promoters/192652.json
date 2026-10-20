@@ -1,0 +1,39 @@
+{
+  "id": "192652",
+  "name": "select-bookings",
+  "upcoming": [
+    {
+      "id": "ra:2515789",
+      "title": "select bookings X TTA ",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:30+02:00",
+      "venue": "Duke Of Tokyo",
+      "venue_id": "158329",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515789"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "152744",
+      "name": "SaPu",
+      "count": 1
+    },
+    {
+      "id": "54180",
+      "name": "Just_Me",
+      "count": 1
+    },
+    {
+      "id": "23640",
+      "name": "Chad Andrew",
+      "count": 1
+    },
+    {
+      "id": "69496",
+      "name": "Saktu",
+      "count": 1
+    }
+  ]
+}

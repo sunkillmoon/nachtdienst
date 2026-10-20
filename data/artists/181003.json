@@ -2,7 +2,8 @@
   "id": "181003",
   "name": "Apontow Akyi",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496546",
       "title": "Ryan Elliott b2b Pancratio, Naomi",
@@ -12,9 +13,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496546"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2470565",
       "title": "CLUB.RECORD X Shelter: Boat Series",

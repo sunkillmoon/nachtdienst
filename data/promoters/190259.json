@@ -1,7 +1,8 @@
 {
   "id": "190259",
   "name": "Space Society",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473511",
       "title": "Space Society",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2473511"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "168119",

@@ -4,44 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476146",
-      "title": "Jesse Maas curates",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
+      "id": "ra:2549212",
+      "title": "ACCUSED BY ACA - ADE Showcase (DAY TIME)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:30+02:00",
+      "venue": "TBA - AMSTERDAM BARBER COMPANY",
+      "venue_id": "303991",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2476146"
-    },
-    {
-      "id": "ra:2516127",
-      "title": "Club Roto x Whitehouse Scheveningen",
-      "date": "2026-09-05",
-      "start": "2026-09-05T20:00+02:00",
-      "venue": "Whitehouse",
-      "venue_id": "300437",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2516127"
-    },
-    {
-      "id": "ra:2487480",
-      "title": "TOFFLER presents jWave, Jesse Maas",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2487480"
-    },
-    {
-      "id": "ra:2466662",
-      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
-      "date": "2026-09-20",
-      "start": "2026-09-20T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466662"
+      "url": "https://ra.co/events/2549212"
     },
     {
       "id": "ra:2501967",
@@ -54,5 +24,46 @@
       "url": "https://ra.co/events/2501967"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    },
+    {
+      "id": "ra:2487480",
+      "title": "TOFFLER presents jWave, Jesse Maas",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2487480"
+    },
+    {
+      "id": "ra:2516127",
+      "title": "Club Roto x Whitehouse Scheveningen",
+      "date": "2026-09-05",
+      "start": "2026-09-05T20:00+02:00",
+      "venue": "Whitehouse",
+      "venue_id": "300437",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2516127"
+    },
+    {
+      "id": "ra:2476146",
+      "title": "Jesse Maas curates",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476146"
+    }
+  ]
 }

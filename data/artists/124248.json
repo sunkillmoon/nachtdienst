@@ -2,7 +2,8 @@
   "id": "124248",
   "name": "Rini Berlini",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2415305",
       "title": "Spätkauf Amersfoort",
@@ -12,9 +13,7 @@
       "venue_id": "108756",
       "area": "All",
       "url": "https://ra.co/events/2415305"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2438726",
       "title": "Puur Festival 2026",

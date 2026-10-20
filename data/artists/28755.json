@@ -5,17 +5,37 @@
   "upcoming": [
     {
       "id": "ra:2491610",
-      "title": "Somov at Levenslang (ADE)",
+      "title": "Somov at BAJES - BLOK K (ADE)",
       "date": "2026-10-22",
       "start": "2026-10-22T15:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491610"
     },
     {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2527209",
+      "title": "Currents - Configuration I - Rrose, Liza Kuzyakova, Hugo Lioret, Andreas Tegnander",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527209"
+    },
+    {
       "id": "ra:2494395",
-      "title": "Runner's High",
+      "title": "Breakfast Club ADE: Runner's High",
       "date": "2026-10-24",
       "start": "2026-10-24T09:00+02:00",
       "venue": "RADION",

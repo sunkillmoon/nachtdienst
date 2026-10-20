@@ -4,25 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
+      "id": "ra:2502429",
+      "title": "Audio Obscura ADE x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
     },
     {
-      "id": "ra:2479976",
-      "title": "Black Sun Empire presents: Blackout Rewind",
-      "date": "2026-09-04",
-      "start": "2026-09-04T20:00+02:00",
-      "venue": "TivoliVredenburg",
-      "venue_id": "88445",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2479976"
+      "id": "ra:2470661",
+      "title": "ADE - Agrio Club x Rapid Trax [sold out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470661"
     },
+    {
+      "id": "ra:2510454",
+      "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
+      "date": "2026-11-22",
+      "start": "2026-11-22T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510454"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2437294",
       "title": "Smeerboel Festival 2026",
@@ -44,37 +56,25 @@
       "url": "https://ra.co/events/2516563"
     },
     {
-      "id": "ra:2502429",
-      "title": "Audio Obscura ADE x Bad Boombox Invites",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:30+02:00",
-      "venue": "RAWFACTORY",
-      "venue_id": "190418",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502429"
+      "id": "ra:2479976",
+      "title": "Black Sun Empire presents: Blackout Rewind",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2479976"
     },
     {
-      "id": "ra:2470661",
-      "title": "ADE - Agrio Club x Rapid Trax",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2470661"
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
     },
-    {
-      "id": "ra:2510454",
-      "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
-      "date": "2026-11-22",
-      "start": "2026-11-22T13:00+01:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510454"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2420278",
       "title": "Overbruggen Summer Series - Colorado Charlie",

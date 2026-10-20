@@ -1,0 +1,28 @@
+{
+  "id": "149440",
+  "name": "VICTORIA WHYNOT",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2552930",
+      "title": "Rooftop Tapes feat. Noire presents: Pete Tong",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "nhow Amsterdam RAI",
+      "venue_id": "248821",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552930"
+    },
+    {
+      "id": "ra:2556314",
+      "title": "Convergence: FAIRGROUND x Pete Tong DJ Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556314"
+    }
+  ],
+  "past": []
+}

@@ -1,7 +1,8 @@
 {
   "id": "144494",
   "name": "Pucklectic",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2450489",
       "title": "LIEF Festival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2450489"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "43856",

@@ -1,0 +1,49 @@
+{
+  "id": "75108",
+  "name": "E1",
+  "upcoming": [
+    {
+      "id": "ra:2521580",
+      "title": "E1 ADE: DXNBY, Jay de Lys & Joey Daniel",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521580"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "130169",
+      "name": "DXNBY",
+      "count": 1
+    },
+    {
+      "id": "64189",
+      "name": "Jay de Lys",
+      "count": 1
+    },
+    {
+      "id": "6505",
+      "name": "Joey Daniel",
+      "count": 1
+    },
+    {
+      "id": "120758",
+      "name": "Roxie Li",
+      "count": 1
+    },
+    {
+      "id": "100340",
+      "name": "DJ ORA",
+      "count": 1
+    },
+    {
+      "id": "165130",
+      "name": "Simon Kidzoo",
+      "count": 1
+    }
+  ]
+}

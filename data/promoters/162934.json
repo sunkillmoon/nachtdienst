@@ -1,0 +1,39 @@
+{
+  "id": "162934",
+  "name": "House of Cake ",
+  "upcoming": [
+    {
+      "id": "ra:2553365",
+      "title": "House of Cake Pop-Up Event - 30th Anniversary Edition",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Cafe De Vlieger",
+      "venue_id": "304418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553365"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "85411",
+      "name": "YORY",
+      "count": 1
+    },
+    {
+      "id": "75104",
+      "name": "Shosho",
+      "count": 1
+    },
+    {
+      "id": "93308",
+      "name": "Martin Krivano",
+      "count": 1
+    },
+    {
+      "id": "171575",
+      "name": "Armenski",
+      "count": 1
+    }
+  ]
+}

@@ -6,14 +6,14 @@
   "lng": 5.905299,
   "upcoming": [
     {
-      "id": "ra:2463764",
-      "title": "Ondergang II",
-      "date": "2026-09-19",
-      "start": "2026-09-19T21:00+02:00",
+      "id": "ra:2565471",
+      "title": "Ketelruis: Beats and Breaks from Beyond",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
       "venue": "Willemeen",
       "venue_id": "70008",
       "area": "All",
-      "url": "https://ra.co/events/2463764"
+      "url": "https://ra.co/events/2565471"
     },
     {
       "id": "ra:2516466",
@@ -26,5 +26,16 @@
       "url": "https://ra.co/events/2516466"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2463764",
+      "title": "Ondergang II",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Willemeen",
+      "venue_id": "70008",
+      "area": "All",
+      "url": "https://ra.co/events/2463764"
+    }
+  ]
 }

@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "43366",
+      "name": "Curses",
+      "count": 1
+    },
+    {
+      "id": "50035",
+      "name": "Benjamin Fröhlich",
+      "count": 1
+    },
+    {
+      "id": "75112",
+      "name": "DJ City",
+      "count": 1
+    },
+    {
+      "id": "59523",
+      "name": "Jordan Nocturne",
+      "count": 1
+    },
+    {
+      "id": "64160",
+      "name": "Jorkes",
+      "count": 1
+    },
+    {
+      "id": "24433",
+      "name": "Joyce Muniz",
+      "count": 1
+    },
+    {
+      "id": "110268",
+      "name": "Naomi (Berlin)",
+      "count": 1
+    },
+    {
+      "id": "14131",
+      "name": "Red Axes",
+      "count": 1
+    },
+    {
+      "id": "91976",
+      "name": "Retromigration",
+      "count": 1
+    },
+    {
+      "id": "34666",
+      "name": "Rhode & Brown",
+      "count": 1
+    }
+  ]
 }

@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
-    },
-    {
       "id": "ra:2470633",
-      "title": "ADE - Hot Meal",
+      "title": "ADE - Hot Meal [sold out]",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Lofi",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
     {
       "id": "ra:2443210",
       "title": "Hot Meal presents Mischluft's Hard Feelings [sold out]",

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2466448",
+      "title": "PIV - The Loft [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466448"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2451241",
       "title": "13 SEP - Thuishaven with MENESIX 10HRS SOLD OUT",
       "date": "2026-09-13",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2451241"
     }
-  ],
-  "past": []
+  ]
 }

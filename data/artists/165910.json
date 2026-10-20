@@ -2,7 +2,8 @@
   "id": "165910",
   "name": "LGNA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511505",
       "title": "Veronica schip",
@@ -12,9 +13,7 @@
       "venue_id": "299826",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511505"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2477479",
       "title": "TM 4 Year Anniversary",

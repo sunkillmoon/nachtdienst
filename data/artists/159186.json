@@ -2,7 +2,18 @@
   "id": "159186",
   "name": "MIESØ",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2560764",
+      "title": "ADE: Nachtraaf x ENERGY AMSTERDAM: Bouncy Techno Afterparty",
+      "date": "2026-10-23",
+      "start": "2026-10-24T05:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560764"
+    }
+  ],
   "past": [
     {
       "id": "ra:2487470",

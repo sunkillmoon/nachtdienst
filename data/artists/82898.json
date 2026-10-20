@@ -12,6 +12,16 @@
       "venue_id": "125668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2516785",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516785"
     }
   ],
   "past": [

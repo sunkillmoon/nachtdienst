@@ -2,7 +2,8 @@
   "id": "70467",
   "name": "Mar/us",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494196",
       "title": "GEGEN AMSTERDAM",
@@ -12,9 +13,7 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494196"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2433222",
       "title": "RADION invites GEGEN",

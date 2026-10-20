@@ -14,14 +14,44 @@
       "url": "https://ra.co/events/2474403"
     },
     {
+      "id": "ra:2466156",
+      "title": "Dockyard Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466156"
+    },
+    {
+      "id": "ra:2466154",
+      "title": "Mystic Garden Festival ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Havenpark",
+      "venue_id": "154148",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466154"
+    },
+    {
       "id": "ra:2479118",
       "title": "Awakenings ADE - Sunday Sessions",
       "date": "2026-10-25",
       "start": "2026-10-25T14:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479118"
+    },
+    {
+      "id": "ra:2559890",
+      "title": "Subcultuur Arnhem - De Zoetenlab",
+      "date": "2026-11-06",
+      "start": "2026-11-06T18:00+01:00",
+      "venue": "De Zoeten Laboratorium",
+      "venue_id": "305105",
+      "area": "All",
+      "url": "https://ra.co/events/2559890"
     }
   ],
   "past": [

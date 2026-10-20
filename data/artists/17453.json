@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2507151",
-      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
-      "date": "2026-09-06",
-      "start": "2026-09-06T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2507151"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -32,9 +22,29 @@
       "venue_id": "187930",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2447959"
+    },
+    {
+      "id": "ra:2516799",
+      "title": "THE LOFT presents: Franky Rizardo [SOLD OUT]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516799"
     }
   ],
   "past": [
+    {
+      "id": "ra:2507151",
+      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2507151"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

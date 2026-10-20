@@ -1,0 +1,28 @@
+{
+  "id": "48852",
+  "name": "Huminal",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2518718",
+      "title": "Nora En Pure presents Purified Amsterdam (ADE Boat Party)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Oceandiva Original",
+      "venue_id": "292161",
+      "area": "All",
+      "url": "https://ra.co/events/2518718"
+    },
+    {
+      "id": "ra:2480645",
+      "title": "ADE - HRMNY W/ Rose Ringed & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2480645"
+    }
+  ],
+  "past": []
+}

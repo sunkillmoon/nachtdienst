@@ -4,15 +4,37 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2517808",
-      "title": "OBERHAUM x De Fik Garden",
-      "date": "2026-08-27",
-      "start": "2026-08-27T17:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
+      "id": "ra:2554749",
+      "title": "Strength in Sound",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2517808"
+      "url": "https://ra.co/events/2554749"
     },
+    {
+      "id": "ra:2555478",
+      "title": "Motie ADE: Helios x Oceanic (live)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555478"
+    },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2510528",
       "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
@@ -22,9 +44,17 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510528"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2517808",
+      "title": "OBERHAUM x De Fik Garden",
+      "date": "2026-08-27",
+      "start": "2026-08-27T17:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517808"
+    },
     {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",

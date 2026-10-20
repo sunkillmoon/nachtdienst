@@ -6,6 +6,18 @@
   "lng": 5.861369,
   "upcoming": [
     {
+      "id": "ra:2554123",
+      "title": "Golestan - presents Daniele Baldelli (all night long)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Café De Plak",
+      "venue_id": "52605",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2554123"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2514783",
       "title": "20kHz SPECTRA x DuysteR",
       "date": "2026-09-04",
@@ -14,9 +26,7 @@
       "venue_id": "52605",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2514783"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488231",
       "title": "BALANS X THE LOW END",

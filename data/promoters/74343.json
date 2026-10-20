@@ -3,86 +3,6 @@
   "name": "Paradiso Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2514566",
-      "title": "Work It, Whack It",
-      "date": "2026-08-26",
-      "start": "2026-08-26T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514566"
-    },
-    {
-      "id": "ra:2514579",
-      "title": "20 years of Lucas Benjamin & Nobunaga",
-      "date": "2026-08-27",
-      "start": "2026-08-27T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514579"
-    },
-    {
-      "id": "ra:2514568",
-      "title": "Jamrock",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514568"
-    },
-    {
-      "id": "ra:2514571",
-      "title": "Digging Deep into House",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514571"
-    },
-    {
-      "id": "ra:2514576",
-      "title": "From the Floor to the Decks - Hiphop special",
-      "date": "2026-08-30",
-      "start": "2026-08-30T23:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514576"
-    },
-    {
-      "id": "ra:2500666",
-      "title": "The Patchwork Family 5 Year Anniversary",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500666"
-    },
-    {
-      "id": "ra:2504956",
-      "title": "Effy presents: Clubgirls",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:59+02:00",
-      "venue": "Parallel",
-      "venue_id": "194493",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504956"
-    },
-    {
-      "id": "ra:2515414",
-      "title": "Rødhåd x Speedy J",
-      "date": "2026-09-30",
-      "start": "2026-09-30T20:00+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515414"
-    },
-    {
       "id": "ra:2432349",
       "title": "MALUGI - ADE",
       "date": "2026-10-21",
@@ -143,6 +63,46 @@
       "url": "https://ra.co/events/2499600"
     },
     {
+      "id": "ra:2539894",
+      "title": "DEEWEE: 2ManyDJs + Charlotte Adigéry & Bolis Pupul + LEO VINCENT + HATIHATI - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539894"
+    },
+    {
+      "id": "ra:2547093",
+      "title": "Warhaus - Ha Ha Heartbeats - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547093"
+    },
+    {
+      "id": "ra:2539694",
+      "title": "French II (live) - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539694"
+    },
+    {
+      "id": "ra:2539803",
+      "title": "Silva Bumpa - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539803"
+    },
+    {
       "id": "ra:2514616",
       "title": "Modus - ADE",
       "date": "2026-10-23",
@@ -163,6 +123,16 @@
       "url": "https://ra.co/events/2403392"
     },
     {
+      "id": "ra:2536533",
+      "title": "Gia Fu - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536533"
+    },
+    {
       "id": "ra:2514622",
       "title": "Theta Session - ADE",
       "date": "2026-10-24",
@@ -181,9 +151,99 @@
       "venue_id": "2695",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2403394"
+    },
+    {
+      "id": "ra:2530736",
+      "title": "Fi Di Gyal Dem",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530736"
     }
   ],
   "past": [
+    {
+      "id": "ra:2515414",
+      "title": "Rødhåd x Speedy J",
+      "date": "2026-09-30",
+      "start": "2026-09-30T20:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515414"
+    },
+    {
+      "id": "ra:2504956",
+      "title": "Effy presents: Clubgirls",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504956"
+    },
+    {
+      "id": "ra:2500666",
+      "title": "The Patchwork Family 5 Year Anniversary",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500666"
+    },
+    {
+      "id": "ra:2514576",
+      "title": "From the Floor to the Decks - Hiphop special",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514576"
+    },
+    {
+      "id": "ra:2514571",
+      "title": "Digging Deep into House",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514571"
+    },
+    {
+      "id": "ra:2514568",
+      "title": "Jamrock",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514568"
+    },
+    {
+      "id": "ra:2514579",
+      "title": "20 years of Lucas Benjamin & Nobunaga",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514579"
+    },
+    {
+      "id": "ra:2514566",
+      "title": "Work It, Whack It",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514566"
+    },
     {
       "id": "ra:2514604",
       "title": "SOBER in the Garden",
@@ -252,11 +312,6 @@
       "count": 3
     },
     {
-      "id": "130751",
-      "name": "Lola Edo",
-      "count": 2
-    },
-    {
       "id": "10751",
       "name": "Rødhåd",
       "count": 2
@@ -267,33 +322,38 @@
       "count": 2
     },
     {
-      "id": "74914",
-      "name": "Kiddy Smile",
+      "id": "130751",
+      "name": "Lola Edo",
+      "count": 2
+    },
+    {
+      "id": "93439",
+      "name": "MALUGI",
       "count": 1
     },
     {
-      "id": "121308",
-      "name": "Lucas Benjamin",
+      "id": "54124",
+      "name": "DJ Snake",
       "count": 1
     },
     {
-      "id": "5416",
-      "name": "Fred P",
+      "id": "111421",
+      "name": "State OFFF",
       "count": 1
     },
     {
-      "id": "128152",
-      "name": "Nutty Nys",
+      "id": "99118",
+      "name": "Lawrence Hart",
       "count": 1
     },
     {
-      "id": "64226",
-      "name": "KC The Funkaholic",
+      "id": "102511",
+      "name": "Mera Bhai",
       "count": 1
     },
     {
-      "id": "128203",
-      "name": "WaxFiend",
+      "id": "88740",
+      "name": "Because of Art",
       "count": 1
     }
   ]

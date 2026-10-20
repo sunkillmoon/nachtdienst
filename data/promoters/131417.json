@@ -1,0 +1,44 @@
+{
+  "id": "131417",
+  "name": "Furia Collective",
+  "upcoming": [
+    {
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559333"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "77232",
+      "name": "Lobster (NL)",
+      "count": 1
+    },
+    {
+      "id": "110285",
+      "name": "Flits",
+      "count": 1
+    },
+    {
+      "id": "116354",
+      "name": "Laia",
+      "count": 1
+    },
+    {
+      "id": "121625",
+      "name": "Mara Menace",
+      "count": 1
+    },
+    {
+      "id": "121828",
+      "name": "Maris Shilton",
+      "count": 1
+    }
+  ]
+}

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2436233",
-      "title": "Rotterdam Rave Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T18:00+02:00",
-      "venue": "Ahoy Rotterdam",
-      "venue_id": "988",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2436233"
-    },
-    {
       "id": "ra:2475090",
       "title": "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More",
       "date": "2026-10-22",
@@ -25,7 +15,7 @@
     },
     {
       "id": "ra:2470633",
-      "title": "ADE - Hot Meal",
+      "title": "ADE - Hot Meal [sold out]",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Lofi",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2436233",
+      "title": "Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T18:00+02:00",
+      "venue": "Ahoy Rotterdam",
+      "venue_id": "988",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2436233"
+    },
     {
       "id": "ra:2443210",
       "title": "Hot Meal presents Mischluft's Hard Feelings [sold out]",

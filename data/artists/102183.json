@@ -1,6 +1,6 @@
 {
   "id": "102183",
-  "name": "Neska",
+  "name": "neska",
   "socials": {},
   "upcoming": [
     {
@@ -12,6 +12,36 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520622"
+    },
+    {
+      "id": "ra:2563194",
+      "title": "Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563194"
+    },
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    },
+    {
+      "id": "ra:2546494",
+      "title": "C001",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2546494"
     }
   ],
   "past": [

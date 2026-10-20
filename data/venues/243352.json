@@ -6,114 +6,24 @@
   "lng": 4.89,
   "upcoming": [
     {
-      "id": "ra:2422949",
-      "title": "RAVING CHARLIE: Hard Techno / Rave ",
-      "date": "2026-08-26",
-      "start": "2026-08-26T23:00+02:00",
+      "id": "ra:2534614",
+      "title": "IMPULSE CØNTROL ADE // BENZA, JSPRV35, + MORE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
       "venue": "nachbar",
       "venue_id": "243352",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2422949"
+      "url": "https://ra.co/events/2534614"
     },
     {
-      "id": "ra:2501509",
-      "title": "Passion DEEZ & Friends",
-      "date": "2026-08-27",
-      "start": "2026-08-27T22:00+02:00",
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
       "venue": "nachbar",
       "venue_id": "243352",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2501509"
-    },
-    {
-      "id": "ra:2501510",
-      "title": "angelboy & Schwesta P",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501510"
-    },
-    {
-      "id": "ra:2501512",
-      "title": "Ultrabruma (Brenda & Maria Manuela)",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501512"
-    },
-    {
-      "id": "ra:2422966",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-09-02",
-      "start": "2026-09-02T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2422966"
-    },
-    {
-      "id": "ra:2506137",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-09-09",
-      "start": "2026-09-09T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506137"
-    },
-    {
-      "id": "ra:2507446",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-09-16",
-      "start": "2026-09-16T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507446"
-    },
-    {
-      "id": "ra:2507451",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-09-23",
-      "start": "2026-09-23T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507451"
-    },
-    {
-      "id": "ra:2507463",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-09-30",
-      "start": "2026-09-30T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507463"
-    },
-    {
-      "id": "ra:2507469",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-10-07",
-      "start": "2026-10-07T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507469"
-    },
-    {
-      "id": "ra:2507679",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:00+02:00",
-      "venue": "nachbar",
-      "venue_id": "243352",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507679"
+      "url": "https://ra.co/events/2559333"
     },
     {
       "id": "ra:2517413",
@@ -127,13 +37,23 @@
     },
     {
       "id": "ra:2507684",
-      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Rave w/ INSKYI / JH14 / MIKRYPT / PURE2",
       "date": "2026-10-28",
       "start": "2026-10-28T23:00+01:00",
       "venue": "nachbar",
       "venue_id": "243352",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507684"
+    },
+    {
+      "id": "ra:2535070",
+      "title": "Freï: Hallow's Eve 2026",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535070"
     },
     {
       "id": "ra:2507696",
@@ -167,6 +87,116 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2507679",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-10-14",
+      "start": "2026-10-14T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507679"
+    },
+    {
+      "id": "ra:2507469",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-10-07",
+      "start": "2026-10-07T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507469"
+    },
+    {
+      "id": "ra:2507463",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-30",
+      "start": "2026-09-30T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507463"
+    },
+    {
+      "id": "ra:2507451",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-23",
+      "start": "2026-09-23T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507451"
+    },
+    {
+      "id": "ra:2507446",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-16",
+      "start": "2026-09-16T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507446"
+    },
+    {
+      "id": "ra:2506137",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-09",
+      "start": "2026-09-09T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506137"
+    },
+    {
+      "id": "ra:2422966",
+      "title": "RAVING CHARLIE: Hard Techno / Rave",
+      "date": "2026-09-02",
+      "start": "2026-09-02T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422966"
+    },
+    {
+      "id": "ra:2501512",
+      "title": "Ultrabruma (Brenda & Maria Manuela)",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501512"
+    },
+    {
+      "id": "ra:2501510",
+      "title": "angelboy & Schwesta P",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501510"
+    },
+    {
+      "id": "ra:2501509",
+      "title": "Passion DEEZ & Friends",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501509"
+    },
+    {
+      "id": "ra:2422949",
+      "title": "RAVING CHARLIE: Hard Techno / Rave ",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2422949"
+    },
     {
       "id": "ra:2501507",
       "title": "Undivulged w/ Beau Didier, Flits, Isaiah & Lasse",

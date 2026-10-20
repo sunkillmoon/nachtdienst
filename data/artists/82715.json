@@ -4,14 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
+      "id": "ra:2551392",
+      "title": "Folder Take Over ADE with Parallelle (live), SDK, Laura De Greef",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "West Indish Huis",
+      "venue_id": "304085",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551392"
     },
     {
       "id": "ra:2479117",
@@ -22,7 +22,38 @@
       "venue_id": "175707",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479117"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    }
+  ]
 }

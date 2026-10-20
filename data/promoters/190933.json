@@ -1,7 +1,8 @@
 {
   "id": "190933",
   "name": "Zijkant",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493683",
       "title": "Side to Side",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2493683"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "166208",

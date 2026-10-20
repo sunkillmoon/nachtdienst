@@ -1,0 +1,28 @@
+{
+  "id": "109427",
+  "name": "marienus",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2561496",
+      "title": "HALLOW'S EVE: haunted soirée",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561496"
+    },
+    {
+      "id": "ra:2542879",
+      "title": "Wibar Halloween - Swamp Special",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Wibar",
+      "venue_id": "169846",
+      "area": "All",
+      "url": "https://ra.co/events/2542879"
+    }
+  ],
+  "past": []
+}

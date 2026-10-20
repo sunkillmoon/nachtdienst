@@ -1,0 +1,39 @@
+{
+  "id": "195428",
+  "name": "KaanBerkAltun",
+  "upcoming": [
+    {
+      "id": "ra:2554221",
+      "title": "Vinz Sosa Invites ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554221"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "48655",
+      "name": "Franziska Berns",
+      "count": 1
+    },
+    {
+      "id": "125013",
+      "name": "Vinz Sosa",
+      "count": 1
+    },
+    {
+      "id": "111224",
+      "name": "Karina Schneider",
+      "count": 1
+    },
+    {
+      "id": "123577",
+      "name": "Liam Reddan",
+      "count": 1
+    }
+  ]
+}

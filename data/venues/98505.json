@@ -4,7 +4,18 @@
   "area": "All",
   "lat": 52.637723,
   "lng": 4.750413,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2554244",
+      "title": "LEGACY ALKMAAR 7 November 2026",
+      "date": "2026-11-07",
+      "start": "2026-11-07T13:00+01:00",
+      "venue": "Hal 25",
+      "venue_id": "98505",
+      "area": "All",
+      "url": "https://ra.co/events/2554244"
+    }
+  ],
   "past": [
     {
       "id": "ra:2430402",

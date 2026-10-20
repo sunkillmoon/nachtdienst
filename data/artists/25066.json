@@ -1,0 +1,38 @@
+{
+  "id": "25066",
+  "name": "Panteros666",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2563336",
+      "title": "Panteros666 & friends",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Desmet Studios",
+      "venue_id": "2751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563336"
+    },
+    {
+      "id": "ra:2562444",
+      "title": "ELEKTRA x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562444"
+    },
+    {
+      "id": "ra:2534234",
+      "title": "Panteros666 & Friends ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534234"
+    }
+  ],
+  "past": []
+}

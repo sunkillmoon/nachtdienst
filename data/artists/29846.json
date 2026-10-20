@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2527297",
+      "title": "Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527297"
+    },
+    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -12,6 +32,16 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2473383",
+      "title": "Intercell x Philippa Pacho Invites - ADE By Day",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "H7 Warehouse",
+      "venue_id": "66507",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473383"
     }
   ],
   "past": [

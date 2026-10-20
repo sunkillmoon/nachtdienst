@@ -2,7 +2,28 @@
   "id": "165704",
   "name": "dirtydms",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559351",
+      "title": "Oberhaum ADE at Broedplaats ACTA",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Oberhaum",
+      "venue_id": "304162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559351"
+    },
+    {
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    }
+  ],
   "past": [
     {
       "id": "ra:2464920",

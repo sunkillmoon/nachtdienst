@@ -1,0 +1,39 @@
+{
+  "id": "34071",
+  "name": "Finish Team Records",
+  "upcoming": [
+    {
+      "id": "ra:2469037",
+      "title": "The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469037"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "58520",
+      "name": "Alex Bohemien",
+      "count": 1
+    },
+    {
+      "id": "131984",
+      "name": "Broosk",
+      "count": 1
+    },
+    {
+      "id": "113939",
+      "name": "Key Eff",
+      "count": 1
+    },
+    {
+      "id": "18668",
+      "name": "Manu P",
+      "count": 1
+    }
+  ]
+}

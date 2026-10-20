@@ -4,6 +4,68 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2455390",
+      "title": "Paradise x Loveland - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2455390"
+    },
+    {
+      "id": "ra:2534127",
+      "title": "Toman pres. High Ceilings - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Camarat",
+      "venue_id": "302381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534127"
+    },
+    {
+      "id": "ra:2463250",
+      "title": "No Art ADE Festival 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Taets Art & Event Park",
+      "venue_id": "79979",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2463250"
+    },
+    {
+      "id": "ra:2473469",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473469"
+    },
+    {
+      "id": "ra:2545940",
+      "title": "Beleza - ADE Showcase",
+      "date": "2026-10-25",
+      "start": "2026-10-26T02:00+01:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545940"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2517607",
+      "title": "Apontow Akyi, Joey Daniel, Rooléh",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517607"
+    },
+    {
       "id": "ra:2324563",
       "title": "Outdoor Stereo 2026",
       "date": "2026-08-29",
@@ -23,48 +85,6 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2437421"
     },
-    {
-      "id": "ra:2517607",
-      "title": "Apontow Akyi, Joey Daniel, Rooléh",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517607"
-    },
-    {
-      "id": "ra:2455390",
-      "title": "Paradise x Loveland - ADE 2026",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "Mediahaven - Minervahaven",
-      "venue_id": "93679",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2455390"
-    },
-    {
-      "id": "ra:2463250",
-      "title": "No Art ADE Festival 2026",
-      "date": "2026-10-24",
-      "start": "2026-10-24T12:00+02:00",
-      "venue": "Taets Art & Event Park",
-      "venue_id": "79979",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2463250"
-    },
-    {
-      "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
-      "date": "2026-10-24",
-      "start": "2026-10-24T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473469"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",

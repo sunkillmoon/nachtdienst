@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2465233",
-      "title": "Intercell Papierfabriek",
-      "date": "2026-10-03",
-      "start": "2026-10-03T13:00+02:00",
-      "venue": "De Papierfabriek",
-      "venue_id": "280996",
-      "area": "Nijmegen",
-      "url": "https://ra.co/events/2465233"
-    },
-    {
       "id": "ra:2481566",
       "title": "909 x Loveland - ADE 2026",
       "date": "2026-10-24",
@@ -25,16 +15,36 @@
     },
     {
       "id": "ra:2452022",
-      "title": "GASHOUDER presents: Josh Baker",
+      "title": "GASHOUDER presents: Josh Baker [Sold Out]",
       "date": "2026-10-25",
       "start": "2026-10-25T14:30+01:00",
       "venue": "GASHOUDER",
       "venue_id": "187930",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452022"
+    },
+    {
+      "id": "ra:2533024",
+      "title": "ADE: LITTLEBIG with Marie Montexier b2b KiNK • George FitzGerald",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533024"
     }
   ],
   "past": [
+    {
+      "id": "ra:2465233",
+      "title": "Intercell Papierfabriek",
+      "date": "2026-10-03",
+      "start": "2026-10-03T13:00+02:00",
+      "venue": "De Papierfabriek",
+      "venue_id": "280996",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2465233"
+    },
     {
       "id": "ra:2436135",
       "title": "Kinetic Festival 2026",

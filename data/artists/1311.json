@@ -1,0 +1,28 @@
+{
+  "id": "1311",
+  "name": "Ben Gomori",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2561301",
+      "title": "Pitchblack Mixtapes: A Jazz Odyssey",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Koda",
+      "venue_id": "301510",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561301"
+    },
+    {
+      "id": "ra:2550948",
+      "title": "Ben Gomori: Trax On Da Trax Tour (w/ Borish)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Paak Nijmegen",
+      "venue_id": "304150",
+      "area": "Nijmegen",
+      "url": "https://ra.co/events/2550948"
+    }
+  ],
+  "past": []
+}

@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2461883",
-      "title": "Back To Base at the Beach - Daria Kolosova",
-      "date": "2026-09-05",
-      "start": "2026-09-05T19:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2461883"
-    },
-    {
       "id": "ra:2482115",
       "title": "23 OCT - Friday Night with Daria Kolosova invites",
       "date": "2026-10-23",
@@ -38,13 +18,33 @@
       "title": "Intercell x fumi Invites - ADE By Day",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473393"
     }
   ],
   "past": [
+    {
+      "id": "ra:2461883",
+      "title": "Back To Base at the Beach - Daria Kolosova",
+      "date": "2026-09-05",
+      "start": "2026-09-05T19:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2461883"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

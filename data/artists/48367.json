@@ -1,0 +1,28 @@
+{
+  "id": "48367",
+  "name": "Lehar",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540071",
+      "title": "MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540071"
+    },
+    {
+      "id": "ra:2522140",
+      "title": "Waterhouse x Garden Of Dreams invites Lehar",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522140"
+    }
+  ],
+  "past": []
+}

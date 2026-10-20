@@ -1,7 +1,8 @@
 {
   "id": "148206",
   "name": "Fandom Nights",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504401",
       "title": "bratty • with charli xcx & other brat coded artists • rotterdam",
@@ -11,9 +12,7 @@
       "venue_id": "104637",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2504401"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2491678",
       "title": "bratty • world pride boat party • de baron van jutphaas • amsterdam",

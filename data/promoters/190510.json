@@ -3,6 +3,18 @@
   "name": "thestargate_amsterdam",
   "upcoming": [
     {
+      "id": "ra:2554589",
+      "title": "ADE: Eli Fola presents The Healing Scapes",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "The Stargate",
+      "venue_id": "303003",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554589"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2489520",
       "title": "Robot Koch: Live",
       "date": "2026-08-28",
@@ -13,7 +25,6 @@
       "url": "https://ra.co/events/2489520"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "8864",

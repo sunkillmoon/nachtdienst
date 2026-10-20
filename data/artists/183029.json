@@ -2,7 +2,8 @@
   "id": "183029",
   "name": "Wildish",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501541",
       "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT)",
@@ -12,9 +13,7 @@
       "venue_id": "152236",
       "area": "The Hague",
       "url": "https://ra.co/events/2501541"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2443517",
       "title": "16 AUG - Thuishaven with Gaskin 5HRS",

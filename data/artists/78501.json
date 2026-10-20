@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2564595",
+      "title": "Pavilion East",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564595"
+    },
+    {
       "id": "ra:2488526",
       "title": "Vault Sessions ADE - TILLATEC",
       "date": "2026-10-22",

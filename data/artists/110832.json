@@ -32,6 +32,16 @@
       "venue_id": "168878",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512900"
+    },
+    {
+      "id": "ra:2511625",
+      "title": "SLPFNK X Blast Galaxy ADE SUNDAY ",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511625"
     }
   ],
   "past": []

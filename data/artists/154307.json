@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2517612",
-      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517612"
-    },
-    {
       "id": "ra:2506887",
       "title": "De Binnenstad x TNT Records",
       "date": "2026-10-22",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2470661",
-      "title": "ADE - Agrio Club x Rapid Trax",
+      "title": "ADE - Agrio Club x Rapid Trax [sold out]",
       "date": "2026-10-24",
       "start": "2026-10-24T23:59+02:00",
       "venue": "Lofi",
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517612",
+      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517612"
+    },
     {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",

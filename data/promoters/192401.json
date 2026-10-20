@@ -1,7 +1,18 @@
 {
   "id": "192401",
   "name": "Hunkering B.V.",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2561047",
+      "title": "Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T20:00+01:00",
+      "venue": "Anna Church Amstelveen B.V.",
+      "venue_id": "258171",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561047"
+    }
+  ],
   "past": [
     {
       "id": "ra:2515780",
@@ -14,5 +25,16 @@
       "url": "https://ra.co/events/2515780"
     }
   ],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "3521",
+      "name": "Olivier Weiter",
+      "count": 1
+    },
+    {
+      "id": "108112",
+      "name": "Rose Ringed",
+      "count": 1
+    }
+  ]
 }

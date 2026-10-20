@@ -2,7 +2,28 @@
   "id": "173673",
   "name": "Candy Coup",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559061",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 2)",
+      "date": "2026-10-21",
+      "start": "2026-10-22T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559061"
+    },
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
   "past": [
     {
       "id": "ra:2466330",

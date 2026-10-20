@@ -1,0 +1,38 @@
+{
+  "id": "705",
+  "name": "Margaret Dygas",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    },
+    {
+      "id": "ra:2466462",
+      "title": "Closing Party with TRIP",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466462"
+    },
+    {
+      "id": "ra:2563297",
+      "title": "The Loft Closing Party x Trip Ibiza",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563297"
+    }
+  ],
+  "past": []
+}

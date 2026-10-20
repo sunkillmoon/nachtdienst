@@ -1,7 +1,8 @@
 {
   "id": "180512",
   "name": "Drum ‘n Babes",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504838",
       "title": "Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2504838"
     }
   ],
-  "past": [],
   "top_artists": []
 }

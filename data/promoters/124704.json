@@ -1,46 +1,17 @@
 {
   "id": "124704",
   "name": "ColoradoCharlieNL",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2484549",
-      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT)",
-      "date": "2026-08-30",
-      "start": "2026-08-30T17:00+02:00",
+      "id": "ra:2515716",
+      "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
+      "date": "2026-09-26",
+      "start": "2026-09-26T17:00+02:00",
       "venue": "Colorado Charlie",
       "venue_id": "152236",
       "area": "The Hague",
-      "url": "https://ra.co/events/2484549"
-    },
-    {
-      "id": "ra:2507151",
-      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
-      "date": "2026-09-06",
-      "start": "2026-09-06T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2507151"
-    },
-    {
-      "id": "ra:2485021",
-      "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
-      "date": "2026-09-12",
-      "start": "2026-09-12T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2485021"
-    },
-    {
-      "id": "ra:2501541",
-      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT)",
-      "date": "2026-09-13",
-      "start": "2026-09-13T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2501541"
+      "url": "https://ra.co/events/2515716"
     },
     {
       "id": "ra:2515715",
@@ -53,17 +24,45 @@
       "url": "https://ra.co/events/2515715"
     },
     {
-      "id": "ra:2515716",
-      "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
-      "date": "2026-09-26",
-      "start": "2026-09-26T17:00+02:00",
+      "id": "ra:2501541",
+      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT)",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
       "venue": "Colorado Charlie",
       "venue_id": "152236",
       "area": "The Hague",
-      "url": "https://ra.co/events/2515716"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2501541"
+    },
+    {
+      "id": "ra:2485021",
+      "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
+      "date": "2026-09-12",
+      "start": "2026-09-12T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2485021"
+    },
+    {
+      "id": "ra:2507151",
+      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2507151"
+    },
+    {
+      "id": "ra:2484549",
+      "title": "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT)",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2484549"
+    },
     {
       "id": "ra:2479334",
       "title": "Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT)",
@@ -187,43 +186,43 @@
       "count": 2
     },
     {
-      "id": "165697",
-      "name": "Lisa Korver",
+      "id": "32322",
+      "name": "Miss Melera",
       "count": 1
     },
     {
-      "id": "119843",
-      "name": "Mika Heggemann",
+      "id": "118747",
+      "name": "Julian Fijma",
       "count": 1
     },
     {
-      "id": "186339",
-      "name": "Olive Anguz",
+      "id": "120215",
+      "name": "Marsolo",
       "count": 1
     },
     {
-      "id": "17453",
-      "name": "Franky Rizardo",
+      "id": "35624",
+      "name": "East End Dubs",
       "count": 1
     },
     {
-      "id": "77557",
-      "name": "Easttown",
+      "id": "118815",
+      "name": "Jamback",
       "count": 1
     },
     {
-      "id": "85239",
-      "name": "Colyn",
+      "id": "77529",
+      "name": "Laura De Greef",
       "count": 1
     },
     {
-      "id": "77132",
-      "name": "Nicky Elisabeth",
+      "id": "2046",
+      "name": "Bart Skils",
       "count": 1
     },
     {
-      "id": "143731",
-      "name": "Gaskin",
+      "id": "156533",
+      "name": "Luis Ripa",
       "count": 1
     }
   ]

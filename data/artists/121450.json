@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2548516",
+      "title": "Imanu PRESENTS DE_VERTE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548516"
+    },
+    {
+      "id": "ra:2563627",
+      "title": "Tempo Marauders 2 year anniversary",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563627"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2500666",
       "title": "The Patchwork Family 5 Year Anniversary",
       "date": "2026-09-04",
@@ -22,9 +44,7 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511270"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2453528",
       "title": "Planet Angels",

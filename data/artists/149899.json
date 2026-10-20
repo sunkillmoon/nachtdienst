@@ -1,0 +1,28 @@
+{
+  "id": "149899",
+  "name": "SurfingDJs",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2529942",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529942"
+    },
+    {
+      "id": "ra:2561039",
+      "title": "Beskar Network & Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561039"
+    }
+  ],
+  "past": []
+}

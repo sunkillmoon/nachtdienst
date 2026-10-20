@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    },
+    {
       "id": "ra:2503464",
       "title": "ADE Train Sunrise Express - IAM Productions",
       "date": "2026-10-24",
@@ -15,7 +25,7 @@
     },
     {
       "id": "ra:2399776",
-      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt Girigia Angiulí Juliet Fox",
+      "title": "ENDLESS x ADE: Lino Fuso, Marie Vaunt, Giorgia Angiulí, Juliet Fox",
       "date": "2026-10-25",
       "start": "2026-10-25T20:00+01:00",
       "venue": "John Doe",

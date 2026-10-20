@@ -2,7 +2,8 @@
   "id": "130557",
   "name": "North Not South",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512514",
       "title": "ONE LAST TIME (BY HURU-HARA)",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2512514"
     }
-  ],
-  "past": []
+  ]
 }

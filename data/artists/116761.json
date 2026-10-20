@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2561566",
+      "title": "ADE 2026 Coffeeshop Hotbox Rave",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "The Dolphins",
+      "venue_id": "305256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561566"
+    },
+    {
+      "id": "ra:2537588",
+      "title": "BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2537588"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2479248",
       "title": "TOFFLER presents RAMØN and friends",
       "date": "2026-09-11",
@@ -12,9 +34,7 @@
       "venue_id": "9037",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479248"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2474501",
       "title": "Eye-Ris x Gloeilamp - The Yard",

@@ -3,36 +3,6 @@
   "name": "Watt events",
   "upcoming": [
     {
-      "id": "ra:2411139",
-      "title": "HRMNY with Rose Ringed 5hrs at the beach",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2411139"
-    },
-    {
-      "id": "ra:2371018",
-      "title": "Anjunabeats at Zandvoort beach",
-      "date": "2026-08-30",
-      "start": "2026-08-30T13:00+02:00",
-      "venue": "Paal69",
-      "venue_id": "264897",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2371018"
-    },
-    {
-      "id": "ra:2414839",
-      "title": "Olivier Weiter b2b Miss Melera",
-      "date": "2026-09-12",
-      "start": "2026-09-12T15:00+02:00",
-      "venue": "Ijland",
-      "venue_id": "188055",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2414839"
-    },
-    {
       "id": "ra:2414815",
       "title": "Hernan Cattaneo b2b Nick Warren - 6hrs ADE",
       "date": "2026-10-21",
@@ -93,6 +63,16 @@
       "url": "https://ra.co/events/2499813"
     },
     {
+      "id": "ra:2522580",
+      "title": "NRG ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522580"
+    },
+    {
       "id": "ra:2458450",
       "title": "We are lost ADE",
       "date": "2026-10-23",
@@ -133,6 +113,26 @@
       "url": "https://ra.co/events/2375140"
     },
     {
+      "id": "ra:2527480",
+      "title": "Ewan McVicar presents Club Knuckles ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527480"
+    },
+    {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
+    },
+    {
       "id": "ra:2459622",
       "title": "Lost Miracle ADE",
       "date": "2026-10-25",
@@ -144,7 +144,7 @@
     },
     {
       "id": "ra:2507687",
-      "title": "Berg Audio",
+      "title": "Berg Audio • ADE 2026",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
       "venue": "Noorderlicht Café",
@@ -164,6 +164,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2414839",
+      "title": "Olivier Weiter b2b Miss Melera",
+      "date": "2026-09-12",
+      "start": "2026-09-12T15:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2414839"
+    },
+    {
+      "id": "ra:2371018",
+      "title": "Anjunabeats at Zandvoort beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2371018"
+    },
+    {
+      "id": "ra:2411139",
+      "title": "HRMNY with Rose Ringed 5hrs at the beach",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Paal69",
+      "venue_id": "264897",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2411139"
+    },
     {
       "id": "ra:2500689",
       "title": "Eichenbaum all-night-long",
@@ -197,24 +227,9 @@
       "count": 2
     },
     {
-      "id": "108112",
-      "name": "Rose Ringed",
-      "count": 1
-    },
-    {
-      "id": "47579",
-      "name": "Budakid",
-      "count": 1
-    },
-    {
-      "id": "3521",
-      "name": "Olivier Weiter",
-      "count": 1
-    },
-    {
-      "id": "32322",
-      "name": "Miss Melera",
-      "count": 1
+      "id": "71178",
+      "name": "Lumiere",
+      "count": 2
     },
     {
       "id": "75",
@@ -234,6 +249,21 @@
     {
       "id": "84862",
       "name": "Genesi (IT)",
+      "count": 1
+    },
+    {
+      "id": "7541",
+      "name": "Kiko",
+      "count": 1
+    },
+    {
+      "id": "68936",
+      "name": "Mia Mendi",
+      "count": 1
+    },
+    {
+      "id": "81060",
+      "name": "Miss Monique",
       "count": 1
     }
   ]

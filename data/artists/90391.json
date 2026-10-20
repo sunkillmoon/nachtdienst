@@ -4,18 +4,18 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2500884",
-      "title": "Doka Studio with Colored Craig - Fais Le Beau",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
+      "id": "ra:2536435",
+      "title": "ADE: Klub Analog x Benelux",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2500884"
+      "url": "https://ra.co/events/2536435"
     },
     {
       "id": "ra:2494370",
-      "title": "The sound of Belgium",
+      "title": "Breakfast Club ADE: The sound of Belgium",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Pllek",
@@ -35,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2500884",
+      "title": "Doka Studio with Colored Craig - Fais Le Beau",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500884"
+    },
     {
       "id": "ra:2461747",
       "title": "AZOTH Roze Woensdag",

@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506324",
-      "title": "Field Notes presents... A House Party 2",
-      "date": "2026-09-04",
-      "start": "2026-09-04T20:00+02:00",
-      "venue": "Het Dorp",
-      "venue_id": "278095",
+      "id": "ra:2545097",
+      "title": "Field Notes Family Affair",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506324"
+      "url": "https://ra.co/events/2545097"
     },
+    {
+      "id": "ra:2522463",
+      "title": "**SOLD OUT** BROWN BAR DANCE EVENT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "TBA - Cafe Westerdok",
+      "venue_id": "301204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522463"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2434861",
       "title": "Phono Lake Festival",
@@ -22,7 +34,16 @@
       "venue_id": "242264",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2434861"
+    },
+    {
+      "id": "ra:2506324",
+      "title": "Field Notes presents... A House Party 2",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506324"
     }
-  ],
-  "past": []
+  ]
 }

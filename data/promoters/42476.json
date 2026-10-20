@@ -1,0 +1,29 @@
+{
+  "id": "42476",
+  "name": "Mannequin Records",
+  "upcoming": [
+    {
+      "id": "ra:2558918",
+      "title": "Mannequin Records X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558918"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "43918",
+      "name": "Alessandro Adriani",
+      "count": 1
+    },
+    {
+      "id": "48170",
+      "name": "Marsman",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "184102",
   "name": "Ultrabruma",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2501512",
       "title": "Ultrabruma (Brenda & Maria Manuela)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2501512"
     }
-  ],
-  "past": []
+  ]
 }

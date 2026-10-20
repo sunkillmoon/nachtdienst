@@ -2,7 +2,8 @@
   "id": "149080",
   "name": "Erik Luebs",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484345",
       "title": "PULSE invites Herrensauna",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2484345"
     }
-  ],
-  "past": []
+  ]
 }

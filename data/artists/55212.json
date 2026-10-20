@@ -2,7 +2,8 @@
   "id": "55212",
   "name": "Mall Grab",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,24 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2520692",
-      "title": "Yellow House 5 September",
-      "date": "2026-09-04",
-      "start": "2026-09-04T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
+      "id": "ra:2549212",
+      "title": "ACCUSED BY ACA - ADE Showcase (DAY TIME)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:30+02:00",
+      "venue": "TBA - AMSTERDAM BARBER COMPANY",
+      "venue_id": "303991",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520692"
-    },
-    {
-      "id": "ra:2479246",
-      "title": "TOFFLER presents Nacho Scoppa and friends",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2479246"
+      "url": "https://ra.co/events/2549212"
     },
     {
       "id": "ra:2519268",
@@ -35,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2479246",
+      "title": "TOFFLER presents Nacho Scoppa and friends",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479246"
+    },
+    {
+      "id": "ra:2520692",
+      "title": "Yellow House 5 September",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520692"
+    },
     {
       "id": "ra:2443517",
       "title": "16 AUG - Thuishaven with Gaskin 5HRS",

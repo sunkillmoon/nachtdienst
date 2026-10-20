@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2547198",
+      "title": "Mango Alley Label Showcase",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547198"
+    },
+    {
       "id": "ra:2472657",
       "title": "Strange Town",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "223183",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2472657"
+    },
+    {
+      "id": "ra:2547194",
+      "title": "Ruben Karapetyan presents Meet & Greet",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547194"
     }
   ],
   "past": []

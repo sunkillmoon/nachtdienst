@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2407995",
-      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "title": "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More ",
       "date": "2026-10-21",
       "start": "2026-10-21T22:00+02:00",
       "venue": "Escape",
       "venue_id": "2683",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2407995"
+    },
+    {
+      "id": "ra:2537711",
+      "title": "ALADAG presents MMAATTCCHH - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:30+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537711"
     }
   ],
   "past": []

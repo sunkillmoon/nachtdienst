@@ -3,6 +3,16 @@
   "name": "4AM Network ",
   "upcoming": [
     {
+      "id": "ra:2560276",
+      "title": "GOT.DRIP invites 4am Network",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560276"
+    },
+    {
       "id": "ra:2507203",
       "title": "4AM Network x Loos ADE 2026",
       "date": "2026-10-25",
@@ -15,6 +25,16 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "171280",
+      "name": "SAMEFACES",
+      "count": 2
+    },
+    {
+      "id": "176244",
+      "name": "Tempted Audio",
+      "count": 2
+    },
     {
       "id": "791",
       "name": "André Galluzzi",
@@ -36,18 +56,13 @@
       "count": 1
     },
     {
-      "id": "171280",
-      "name": "SAMEFACES",
-      "count": 1
-    },
-    {
       "id": "43239",
       "name": "Junior Pappa",
       "count": 1
     },
     {
-      "id": "176244",
-      "name": "Tempted Audio",
+      "id": "187589",
+      "name": "Acopo",
       "count": 1
     }
   ]

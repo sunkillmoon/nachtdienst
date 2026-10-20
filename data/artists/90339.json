@@ -12,6 +12,16 @@
       "venue_id": "141886",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2456002"
+    },
+    {
+      "id": "ra:2399776",
+      "title": "ENDLESS x ADE: Lino Fuso, Marie Vaunt, Giorgia Angiulí, Juliet Fox",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2399776"
     }
   ],
   "past": []

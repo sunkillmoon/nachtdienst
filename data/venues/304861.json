@@ -1,0 +1,20 @@
+{
+  "id": "304861",
+  "name": "Celebratix HQ",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2557793",
+      "title": "ADE Office Rave",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Celebratix HQ",
+      "venue_id": "304861",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557793"
+    }
+  ],
+  "past": []
+}

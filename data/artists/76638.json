@@ -2,7 +2,8 @@
   "id": "76638",
   "name": "Spekki Webu",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385114",
       "title": "PSYLÂN 2026 · Alien Paradise",
@@ -12,9 +13,7 @@
       "venue_id": "286703",
       "area": "All",
       "url": "https://ra.co/events/2385114"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2461530",
       "title": "Dissident: Spekki Webu, Cryptofauna, angelboy",

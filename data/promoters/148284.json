@@ -1,7 +1,8 @@
 {
   "id": "148284",
   "name": "One Eye Witness",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499718",
       "title": "RAUM invites One Eye Witness",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2499718"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "103515",

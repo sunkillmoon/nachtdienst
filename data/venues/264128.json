@@ -6,26 +6,6 @@
   "lng": 4.87,
   "upcoming": [
     {
-      "id": "ra:2462689",
-      "title": "Shermanology - Lucien Foort | Soft Landing",
-      "date": "2026-09-06",
-      "start": "2026-09-06T15:00+02:00",
-      "venue": "WestWeelde",
-      "venue_id": "264128",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462689"
-    },
-    {
-      "id": "ra:2410327",
-      "title": "Menno Solo - The Reunion",
-      "date": "2026-09-12",
-      "start": "2026-09-12T20:00+02:00",
-      "venue": "WestWeelde",
-      "venue_id": "264128",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2410327"
-    },
-    {
       "id": "ra:2414815",
       "title": "Hernan Cattaneo b2b Nick Warren - 6hrs ADE",
       "date": "2026-10-21",
@@ -34,6 +14,16 @@
       "venue_id": "264128",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2414815"
+    },
+    {
+      "id": "ra:2543951",
+      "title": "One Million Black Tour Amsterdam",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543951"
     },
     {
       "id": "ra:2458430",
@@ -76,6 +66,16 @@
       "url": "https://ra.co/events/2452252"
     },
     {
+      "id": "ra:2534233",
+      "title": "The Gardens of Babylon: The Seekers of Light - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534233"
+    },
+    {
       "id": "ra:2488516",
       "title": "John Digweed - Bedrock",
       "date": "2026-11-07",
@@ -97,6 +97,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2410327",
+      "title": "Menno Solo - The Reunion",
+      "date": "2026-09-12",
+      "start": "2026-09-12T20:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2410327"
+    },
+    {
+      "id": "ra:2462689",
+      "title": "Shermanology - Lucien Foort | Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
+    },
     {
       "id": "ra:2385580",
       "title": "RAPIDO x FunHouse - World Pride Sunday Daytime Rave",

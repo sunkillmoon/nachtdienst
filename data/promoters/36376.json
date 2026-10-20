@@ -4,7 +4,7 @@
   "upcoming": [
     {
       "id": "ra:2516863",
-      "title": "UNRELEASED pres. The Church - ADE Edition",
+      "title": "Unreleased: The Church ADE with ARODES, Mahmut Orhan, Rivo, Rodriguez Jr ",
       "date": "2026-10-21",
       "start": "2026-10-21T22:00+02:00",
       "venue": "Hotel Arena",
@@ -14,7 +14,7 @@
     },
     {
       "id": "ra:2460951",
-      "title": "All Night Long Records ADE Label Night",
+      "title": "All Night Long Records ADE Label Night - RESALE NOW ACTIVE",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Hotel Arena",
@@ -41,6 +41,41 @@
       "count": 1
     },
     {
+      "id": "109470",
+      "name": "Mahmut Orhan",
+      "count": 1
+    },
+    {
+      "id": "165483",
+      "name": "Rivo",
+      "count": 1
+    },
+    {
+      "id": "4213",
+      "name": "Rodriguez Jr.",
+      "count": 1
+    },
+    {
+      "id": "82758",
+      "name": "Collé",
+      "count": 1
+    },
+    {
+      "id": "134072",
+      "name": "Martim Rola",
+      "count": 1
+    },
+    {
+      "id": "28361",
+      "name": "Antigone",
+      "count": 1
+    },
+    {
+      "id": "36438",
+      "name": "Darque",
+      "count": 1
+    },
+    {
       "id": "7290",
       "name": "NTO",
       "count": 1
@@ -48,16 +83,6 @@
     {
       "id": "47489",
       "name": "Acid Arab",
-      "count": 1
-    },
-    {
-      "id": "72611",
-      "name": "Mandragora",
-      "count": 1
-    },
-    {
-      "id": "90385",
-      "name": "Nora En Pure",
       "count": 1
     }
   ]

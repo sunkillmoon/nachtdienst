@@ -1,0 +1,28 @@
+{
+  "id": "186918",
+  "name": "Proper Banger",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2547522",
+      "title": "POWER AFTER at (AFTERPARTY) ",
+      "date": "2026-10-21",
+      "start": "2026-10-22T05:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547522"
+    },
+    {
+      "id": "ra:2548618",
+      "title": "Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548618"
+    }
+  ],
+  "past": []
+}

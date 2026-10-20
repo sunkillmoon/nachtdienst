@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2557793",
+      "title": "ADE Office Rave",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Celebratix HQ",
+      "venue_id": "304861",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557793"
+    },
+    {
+      "id": "ra:2550753",
+      "title": "Resident Night Yellow House ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550753"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2496553",
       "title": "Andrew Azara, Traumer b2b Janeret",
       "date": "2026-09-12",
@@ -13,6 +35,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496553"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "180306",
   "name": "KRAFT Premium Pounding Techno 3rd of October 2026",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2359008",
       "title": "KRAFT Premium Pounding Techno 3rd of October 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2359008"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "128824",

@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2380229",
-      "title": "Cluster Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Kabelfabriek",
-      "venue_id": "286230",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2380229"
-    },
+      "id": "ra:2523599",
+      "title": "Intergalactic FM presents Acid Bunker",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2523599"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
@@ -22,7 +24,16 @@
       "venue_id": "300735",
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
+    },
+    {
+      "id": "ra:2380229",
+      "title": "Cluster Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Kabelfabriek",
+      "venue_id": "286230",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2380229"
     }
-  ],
-  "past": []
+  ]
 }

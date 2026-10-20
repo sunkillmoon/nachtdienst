@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2487497",
-      "title": "3xNYX: In the Mix",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2543225",
+      "title": "Vrijdag is NYX: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2487497"
-    },
+      "url": "https://ra.co/events/2543225"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2511200",
       "title": "Vrijdag is NYX",
@@ -22,9 +24,17 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511200"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2487497",
+      "title": "3xNYX: In the Mix",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487497"
+    },
     {
       "id": "ra:2506179",
       "title": "Vrijdag is NYX",

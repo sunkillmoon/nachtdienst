@@ -4,18 +4,18 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524505"
     },
     {
       "id": "ra:2498366",
-      "title": "EAST Techno Collective - Halloween Warehouse",
+      "title": "EAST Techno Collective - Halloween Warehouse w/ Manrick Stapez [BCCO]",
       "date": "2026-10-31",
       "start": "2026-10-31T22:00+01:00",
       "venue": "De Fik Garden",
@@ -25,6 +25,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2492896",
       "title": "Techno Tuesday Amsterdam, Dexon, Jayzo, MONORITAM",

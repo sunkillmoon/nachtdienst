@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2481566",
+      "title": "909 x Loveland - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481566"
+    },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2479292",
       "title": "Vault All Vinyl WKNDR | Night | RADION",
       "date": "2026-08-29",
@@ -13,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479292"
     },
-    {
-      "id": "ra:2481566",
-      "title": "909 x Loveland - ADE 2026",
-      "date": "2026-10-24",
-      "start": "2026-10-24T12:00+02:00",
-      "venue": "Mediahaven - Minervahaven",
-      "venue_id": "93679",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481566"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2471661",
       "title": "Orphic #21 Pride Takeover",

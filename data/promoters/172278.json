@@ -1,0 +1,29 @@
+{
+  "id": "172278",
+  "name": "The Noodle Show",
+  "upcoming": [
+    {
+      "id": "ra:2553491",
+      "title": "The Noodle Show - Expert Talk & Livejams",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553491"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "34952",
+      "name": "Nadia Struiwigh",
+      "count": 1
+    },
+    {
+      "id": "82994",
+      "name": "Kessler",
+      "count": 1
+    }
+  ]
+}

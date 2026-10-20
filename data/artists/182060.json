@@ -2,7 +2,8 @@
   "id": "182060",
   "name": "Okeam",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520522",
       "title": "Madam by Night invites: MONARK",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520522"
     }
-  ],
-  "past": []
+  ]
 }

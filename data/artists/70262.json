@@ -12,6 +12,26 @@
       "venue_id": "19615",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2539812",
+      "title": "Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539812"
+    },
+    {
+      "id": "ra:2532995",
+      "title": "ADE:  Identified Patient b2b mad miran — All Day Long",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532995"
     }
   ],
   "past": [

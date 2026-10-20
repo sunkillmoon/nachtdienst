@@ -1,0 +1,50 @@
+{
+  "id": "304489",
+  "name": "50:Hertz House & Techno Cafe Rembrandt Square",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2562147",
+      "title": "Dirty Disco Showcase with the Dirty Disco Crew & Special Guest DJ's",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562147"
+    },
+    {
+      "id": "ra:2534146",
+      "title": "Alan Fitzpatrick & We Are The Brave presents FORMA - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-24T04:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534146"
+    },
+    {
+      "id": "ra:2560550",
+      "title": "Deep Stories Records Label Showcase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560550"
+    },
+    {
+      "id": "ra:2554476",
+      "title": "Kollectiv & Friends - ADE Wrap Up",
+      "date": "2026-10-25",
+      "start": "2026-10-25T21:30+01:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554476"
+    }
+  ],
+  "past": []
+}

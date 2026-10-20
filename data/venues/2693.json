@@ -6,164 +6,14 @@
   "lng": 4.881273,
   "upcoming": [
     {
-      "id": "ra:2492902",
-      "title": "Techno Tuesday Amsterdam, 25 August has been moved to Wednesday 26 August",
-      "date": "2026-08-25",
-      "start": "2026-08-25T23:30+02:00",
+      "id": "ra:2531449",
+      "title": "Techno Tuesday Amsterdam, Icey Planet, Dexon, A.R.T",
+      "date": "2026-10-20",
+      "start": "2026-10-20T23:30+02:00",
       "venue": "Melkweg",
       "venue_id": "2693",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2492902"
-    },
-    {
-      "id": "ra:2492904",
-      "title": "Techno Tuesday Amsterdam 'Wednesday Special', Dexon's birthday",
-      "date": "2026-08-26",
-      "start": "2026-08-26T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2492904"
-    },
-    {
-      "id": "ra:2495234",
-      "title": "Cheeky Monday: Tantron",
-      "date": "2026-08-31",
-      "start": "2026-08-31T23:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2495234"
-    },
-    {
-      "id": "ra:2507344",
-      "title": "Techno Tuesday Amsterdam, Dexon, Rossa, A.R.T",
-      "date": "2026-09-01",
-      "start": "2026-09-01T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507344"
-    },
-    {
-      "id": "ra:2490626",
-      "title": "Six Sex PRESENTS",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490626"
-    },
-    {
-      "id": "ra:2490680",
-      "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490680"
-    },
-    {
-      "id": "ra:2507354",
-      "title": "Techno Tuesday Amsterdam, JP aka Lonestriker, Dexon, Obseth",
-      "date": "2026-09-08",
-      "start": "2026-09-08T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507354"
-    },
-    {
-      "id": "ra:2490686",
-      "title": "TR/ST – Live",
-      "date": "2026-09-13",
-      "start": "2026-09-13T19:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490686"
-    },
-    {
-      "id": "ra:2507363",
-      "title": "Techno Tuesday Amsterdam, CHAFA & Dexon extended sets",
-      "date": "2026-09-15",
-      "start": "2026-09-15T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507363"
-    },
-    {
-      "id": "ra:2490676",
-      "title": "SIDEQUEST",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490676"
-    },
-    {
-      "id": "ra:2402813",
-      "title": "Curated by Break",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2402813"
-    },
-    {
-      "id": "ra:2507371",
-      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
-      "date": "2026-09-22",
-      "start": "2026-09-22T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507371"
-    },
-    {
-      "id": "ra:2507375",
-      "title": "Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon",
-      "date": "2026-09-29",
-      "start": "2026-09-29T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2507375"
-    },
-    {
-      "id": "ra:2393986",
-      "title": "Daft Funk Live in Amsterdam",
-      "date": "2026-09-30",
-      "start": "2026-09-30T19:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2393986"
-    },
-    {
-      "id": "ra:2519157",
-      "title": "EAST Techno Collective",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519157"
-    },
-    {
-      "id": "ra:2490699",
-      "title": "Hard Attack",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490699"
+      "url": "https://ra.co/events/2531449"
     },
     {
       "id": "ra:2489739",
@@ -196,6 +46,36 @@
       "url": "https://ra.co/events/2489760"
     },
     {
+      "id": "ra:2548428",
+      "title": "Takuya Nakamura",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548428"
+    },
+    {
+      "id": "ra:2548447",
+      "title": "Striptopia",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548447"
+    },
+    {
+      "id": "ra:2548462",
+      "title": "Oliver Heldens",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548462"
+    },
+    {
       "id": "ra:2490696",
       "title": "bitbird presents: San Holo & DROELOE - ADE",
       "date": "2026-10-21",
@@ -204,6 +84,36 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490696"
+    },
+    {
+      "id": "ra:2548416",
+      "title": "Hyper Dreams x Annie",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548416"
+    },
+    {
+      "id": "ra:2548476",
+      "title": "Meduza",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548476"
+    },
+    {
+      "id": "ra:2548492",
+      "title": "Kraak & Smaak (Live)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548492"
     },
     {
       "id": "ra:2490675",
@@ -234,6 +144,36 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479188"
+    },
+    {
+      "id": "ra:2548486",
+      "title": "PAARDENRAVE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548486"
+    },
+    {
+      "id": "ra:2548504",
+      "title": "davyboi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548504"
+    },
+    {
+      "id": "ra:2548516",
+      "title": "Imanu PRESENTS DE_VERTE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548516"
     },
     {
       "id": "ra:2490629",
@@ -276,6 +216,16 @@
       "url": "https://ra.co/events/2495258"
     },
     {
+      "id": "ra:2560120",
+      "title": "annie's ADE weekender",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560120"
+    },
+    {
       "id": "ra:2489725",
       "title": "Paul Van Dyk Open To Close",
       "date": "2026-10-24",
@@ -294,6 +244,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490695"
+    },
+    {
+      "id": "ra:2548526",
+      "title": "4am Kru",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548526"
     },
     {
       "id": "ra:2511606",
@@ -326,14 +286,44 @@
       "url": "https://ra.co/events/2489701"
     },
     {
+      "id": "ra:2531453",
+      "title": "Techno Tuesday Amsterdam 27.October 2026 has been cancelled",
+      "date": "2026-10-27",
+      "start": "2026-10-27T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531453"
+    },
+    {
       "id": "ra:2498430",
-      "title": "RAVING CHARLIE: Halloween Rave",
+      "title": "RAVING CHARLIE: Hard Techno / Halloween Rave",
       "date": "2026-10-30",
       "start": "2026-10-30T23:59+01:00",
       "venue": "Melkweg",
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498430"
+    },
+    {
+      "id": "ra:2565419",
+      "title": "Cheeky Monday: Pythius",
+      "date": "2026-11-02",
+      "start": "2026-11-02T23:00+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565419"
+    },
+    {
+      "id": "ra:2553503",
+      "title": "Techno Tuesday Amsterdam, Juan Sanchez, Dexon, extended sets",
+      "date": "2026-11-03",
+      "start": "2026-11-03T23:30+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553503"
     },
     {
       "id": "ra:2490689",
@@ -417,6 +407,166 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2490699",
+      "title": "Hard Attack",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490699"
+    },
+    {
+      "id": "ra:2519157",
+      "title": "EAST Techno Collective",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519157"
+    },
+    {
+      "id": "ra:2393986",
+      "title": "Daft Funk Live in Amsterdam",
+      "date": "2026-09-30",
+      "start": "2026-09-30T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2393986"
+    },
+    {
+      "id": "ra:2507375",
+      "title": "Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon",
+      "date": "2026-09-29",
+      "start": "2026-09-29T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507375"
+    },
+    {
+      "id": "ra:2507371",
+      "title": "Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K",
+      "date": "2026-09-22",
+      "start": "2026-09-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507371"
+    },
+    {
+      "id": "ra:2402813",
+      "title": "Curated by Break",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2402813"
+    },
+    {
+      "id": "ra:2490676",
+      "title": "SIDEQUEST",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490676"
+    },
+    {
+      "id": "ra:2507363",
+      "title": "Techno Tuesday Amsterdam, CHAFA & Dexon extended sets",
+      "date": "2026-09-15",
+      "start": "2026-09-15T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507363"
+    },
+    {
+      "id": "ra:2490686",
+      "title": "TR/ST – Live",
+      "date": "2026-09-13",
+      "start": "2026-09-13T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490686"
+    },
+    {
+      "id": "ra:2507354",
+      "title": "Techno Tuesday Amsterdam, JP aka Lonestriker, Dexon, Obseth",
+      "date": "2026-09-08",
+      "start": "2026-09-08T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507354"
+    },
+    {
+      "id": "ra:2490680",
+      "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490680"
+    },
+    {
+      "id": "ra:2490626",
+      "title": "Six Sex PRESENTS",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490626"
+    },
+    {
+      "id": "ra:2507344",
+      "title": "Techno Tuesday Amsterdam, Dexon, Rossa, A.R.T",
+      "date": "2026-09-01",
+      "start": "2026-09-01T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507344"
+    },
+    {
+      "id": "ra:2495234",
+      "title": "Cheeky Monday: Tantron",
+      "date": "2026-08-31",
+      "start": "2026-08-31T23:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495234"
+    },
+    {
+      "id": "ra:2492904",
+      "title": "Techno Tuesday Amsterdam 'Wednesday Special', Dexon's birthday",
+      "date": "2026-08-26",
+      "start": "2026-08-26T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492904"
+    },
+    {
+      "id": "ra:2492902",
+      "title": "Techno Tuesday Amsterdam, 25 August has been moved to Wednesday 26 August",
+      "date": "2026-08-25",
+      "start": "2026-08-25T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2492902"
+    },
     {
       "id": "ra:2495232",
       "title": "Cheeky Monday: Ray Keith",

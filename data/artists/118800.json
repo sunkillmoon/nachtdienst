@@ -4,14 +4,36 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2512651",
-      "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2542885",
+      "title": "Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2512651"
+      "url": "https://ra.co/events/2542885"
+    },
+    {
+      "id": "ra:2563663",
+      "title": "Selectors Sunday - Orbit Wax invites",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "a Sense of Place",
+      "venue_id": "305510",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563663"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2519553",
+      "title": "Watergate x Den Haag",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2519553"
     },
     {
       "id": "ra:2510347",
@@ -24,17 +46,15 @@
       "url": "https://ra.co/events/2510347"
     },
     {
-      "id": "ra:2519553",
-      "title": "Watergate x Den Haag",
-      "date": "2026-09-25",
-      "start": "2026-09-25T20:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2519553"
-    }
-  ],
-  "past": [
+      "id": "ra:2512651",
+      "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512651"
+    },
     {
       "id": "ra:2493384",
       "title": "Sissi's Friday with Benny2, Eva Bon, Koperblond",

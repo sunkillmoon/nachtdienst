@@ -1,7 +1,8 @@
 {
   "id": "192426",
   "name": "VONK",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516106",
       "title": "VONK x Club Up",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2516106"
     }
   ],
-  "past": [],
   "top_artists": []
 }

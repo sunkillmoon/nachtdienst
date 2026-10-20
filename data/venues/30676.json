@@ -1,0 +1,30 @@
+{
+  "id": "30676",
+  "name": "CREA",
+  "area": "Amsterdam",
+  "lat": 52.363264,
+  "lng": 4.912891,
+  "upcoming": [
+    {
+      "id": "ra:2529944",
+      "title": "BAOBAB at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529944"
+    },
+    {
+      "id": "ra:2529943",
+      "title": "ZU HAUSE at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529943"
+    }
+  ],
+  "past": []
+}

@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504927"
+    },
+    {
+      "id": "ra:2484584",
+      "title": "ADE - Todd Terry & Friends",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484584"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2476147",
       "title": "10SERIES by Shelter | TINS (all night)",
       "date": "2026-08-29",
@@ -12,9 +34,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2476147"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

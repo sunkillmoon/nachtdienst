@@ -1,0 +1,39 @@
+{
+  "id": "103644",
+  "name": "Pieces Artists",
+  "upcoming": [
+    {
+      "id": "ra:2533327",
+      "title": "get—traum x Blast Galaxy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533327"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "1584",
+      "name": "Shonky",
+      "count": 1
+    },
+    {
+      "id": "19306",
+      "name": "Traumer",
+      "count": 1
+    },
+    {
+      "id": "106314",
+      "name": "Sibil (1)",
+      "count": 1
+    },
+    {
+      "id": "175798",
+      "name": "Merel Helderman",
+      "count": 1
+    }
+  ]
+}

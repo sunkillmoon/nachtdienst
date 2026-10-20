@@ -1,7 +1,8 @@
 {
   "id": "120446",
   "name": "Anacalypto",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2493000",
       "title": "Anacalypto & Friends",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2493000"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "110487",

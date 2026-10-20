@@ -1,0 +1,34 @@
+{
+  "id": "194459",
+  "name": "Carmen Lisa",
+  "upcoming": [
+    {
+      "id": "ra:2542300",
+      "title": "BOLUDO curated by Carmen Lisa powered by El Tony Mate",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542300"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "181740",
+      "name": "LINDS (NL)",
+      "count": 1
+    },
+    {
+      "id": "134319",
+      "name": "raptis",
+      "count": 1
+    },
+    {
+      "id": "125666",
+      "name": "Carmen Lisa (2)",
+      "count": 1
+    }
+  ]
+}

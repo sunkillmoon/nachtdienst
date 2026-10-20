@@ -1,0 +1,34 @@
+{
+  "id": "150425",
+  "name": "Fluid Funk",
+  "upcoming": [
+    {
+      "id": "ra:2558569",
+      "title": "Fluid Funk Label Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Cafe Restaurant De Bazel",
+      "venue_id": "304975",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558569"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "127830",
+      "name": "Ascension",
+      "count": 1
+    },
+    {
+      "id": "96393",
+      "name": "Jumelage",
+      "count": 1
+    },
+    {
+      "id": "124779",
+      "name": "Danou P",
+      "count": 1
+    }
+  ]
+}

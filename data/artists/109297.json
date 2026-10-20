@@ -2,7 +2,8 @@
   "id": "109297",
   "name": "Megan Leber",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2491420",
       "title": "New Era ISO session 2",
@@ -12,9 +13,7 @@
       "venue_id": "160195",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2491420"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2466755",
       "title": "PSYROM #9 / Julie, Pink Concrete, Megan Leber, Delano Legito, Seb H",

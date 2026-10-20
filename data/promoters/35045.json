@@ -1,0 +1,44 @@
+{
+  "id": "35045",
+  "name": "FLY CLUB",
+  "upcoming": [
+    {
+      "id": "ra:2522546",
+      "title": "FLY Amsterdam ADE - Day Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522546"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "133584",
+      "name": "Jamie Fielding",
+      "count": 1
+    },
+    {
+      "id": "149280",
+      "name": "Morgan Seatree",
+      "count": 1
+    },
+    {
+      "id": "73589",
+      "name": "Oden",
+      "count": 1
+    },
+    {
+      "id": "135131",
+      "name": "Carmen Baía",
+      "count": 1
+    },
+    {
+      "id": "145853",
+      "name": "PASO",
+      "count": 1
+    }
+  ]
+}

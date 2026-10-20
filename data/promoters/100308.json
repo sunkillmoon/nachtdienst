@@ -1,0 +1,44 @@
+{
+  "id": "100308",
+  "name": "Culture of House",
+  "upcoming": [
+    {
+      "id": "ra:2535585",
+      "title": "Culture of House | ADE Boat Party with Meloko, OSFUR",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:30+02:00",
+      "venue": "The Cruise Club",
+      "venue_id": "302499",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535585"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "46280",
+      "name": "Melokolektiv",
+      "count": 1
+    },
+    {
+      "id": "134165",
+      "name": "OSFUR",
+      "count": 1
+    },
+    {
+      "id": "184979",
+      "name": "LAMPETEE",
+      "count": 1
+    },
+    {
+      "id": "115571",
+      "name": "Fiction Official",
+      "count": 1
+    },
+    {
+      "id": "148591",
+      "name": "Stefan Rose",
+      "count": 1
+    }
+  ]
+}

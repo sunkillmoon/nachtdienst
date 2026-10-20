@@ -2,7 +2,8 @@
   "id": "105235",
   "name": "N.R.M",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507742",
       "title": "TILT x Syntax Error",
@@ -12,9 +13,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507742"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2464040",
       "title": "De Reünie",

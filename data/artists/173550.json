@@ -1,0 +1,28 @@
+{
+  "id": "173550",
+  "name": "RIJ.",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2560682",
+      "title": "ADE: Naughty Parrot in the Park",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Blauwe Theehuis",
+      "venue_id": "49651",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560682"
+    },
+    {
+      "id": "ra:2563740",
+      "title": "ADE: Naughty Coffee Sounds x White Label Coffee",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "White Label Coffee - West",
+      "venue_id": "305529",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563740"
+    }
+  ],
+  "past": []
+}

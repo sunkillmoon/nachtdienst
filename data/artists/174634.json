@@ -1,0 +1,28 @@
+{
+  "id": "174634",
+  "name": "B-Bop",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559061",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 2)",
+      "date": "2026-10-21",
+      "start": "2026-10-22T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559061"
+    },
+    {
+      "id": "ra:2534233",
+      "title": "The Gardens of Babylon: The Seekers of Light - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534233"
+    }
+  ],
+  "past": []
+}

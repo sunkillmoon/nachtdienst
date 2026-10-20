@@ -12,6 +12,16 @@
       "venue_id": "140102",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2390161"
+    },
+    {
+      "id": "ra:2552500",
+      "title": "ADE Talk x Roland: The Future has a History (Jean Michel Jarre x Dasha Rush)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Kettlehuis",
+      "venue_id": "304323",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552500"
     }
   ],
   "past": []

@@ -1,7 +1,8 @@
 {
   "id": "117681",
   "name": "Kate",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498852",
       "title": "S+ Techno Party x Anniversary Big Edition",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2498852"
     }
   ],
-  "past": [],
   "top_artists": []
 }

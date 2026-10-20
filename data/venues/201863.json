@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2466280",
       "title": "THE OTHER SIDE OPEN AIR 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466280"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,99 @@
+{
+  "id": "194944",
+  "name": "Roland Corporation",
+  "upcoming": [
+    {
+      "id": "ra:2552484",
+      "title": "EarthSonic, ADE and Nxt Museum present: Two Seas and Vinorun",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552484"
+    },
+    {
+      "id": "ra:2503161",
+      "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
+      "date": "2026-10-22",
+      "start": "2026-10-23T07:30+02:00",
+      "venue": "De Thomaskerk",
+      "venue_id": "221843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2552500",
+      "title": "ADE Talk x Roland: The Future has a History (Jean Michel Jarre x Dasha Rush)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Kettlehuis",
+      "venue_id": "304323",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552500"
+    },
+    {
+      "id": "ra:2548203",
+      "title": "BRUNCH BOOGIE W/ Kevin Saunderson",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "Rush Hour",
+      "venue_id": "74716",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548203"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4426",
+      "name": "Dasha Rush",
+      "count": 2
+    },
+    {
+      "id": "41471",
+      "name": "Paranoid London",
+      "count": 1
+    },
+    {
+      "id": "122269",
+      "name": "Natural Symphony (Live)",
+      "count": 1
+    },
+    {
+      "id": "106052",
+      "name": "Loradeniz",
+      "count": 1
+    },
+    {
+      "id": "174540",
+      "name": "Out Of Place Artefacts",
+      "count": 1
+    },
+    {
+      "id": "10751",
+      "name": "Rødhåd",
+      "count": 1
+    },
+    {
+      "id": "48012",
+      "name": ".VRIL",
+      "count": 1
+    },
+    {
+      "id": "166126",
+      "name": "Seif Bedour",
+      "count": 1
+    },
+    {
+      "id": "68928",
+      "name": "Merve",
+      "count": 1
+    },
+    {
+      "id": "4035",
+      "name": "Portable",
+      "count": 1
+    }
+  ]
+}

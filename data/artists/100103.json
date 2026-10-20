@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2452089",
-      "title": "Patio - Summer Closing",
-      "date": "2026-09-19",
-      "start": "2026-09-19T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2452089"
-    },
-    {
       "id": "ra:2403392",
       "title": "Speedy J presents STOOR Live - ADE 2026 (Day 1)",
       "date": "2026-10-24",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2403392"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2452089",
+      "title": "Patio - Summer Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2452089"
+    }
+  ]
 }

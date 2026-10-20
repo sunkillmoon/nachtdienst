@@ -3,15 +3,27 @@
   "name": "De Perifeer",
   "upcoming": [
     {
-      "id": "ra:2512307",
-      "title": "Achter de Muren: Debbie Huisman",
-      "date": "2026-09-26",
-      "start": "2026-09-26T20:00+02:00",
+      "id": "ra:2512325",
+      "title": "Jaap Blonk & Terrie Ex + SAVIĆ & REONA + boekpresentatie Blonk / Petrichor",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "De Perifeer",
+      "venue_id": "289451",
+      "area": "All",
+      "url": "https://ra.co/events/2512325"
+    },
+    {
+      "id": "ra:2562562",
+      "title": "Achter de Muren: Martine",
+      "date": "2026-10-31",
+      "start": "2026-10-31T20:00+01:00",
       "venue": "Walhalla",
       "venue_id": "289449",
       "area": "All",
-      "url": "https://ra.co/events/2512307"
-    },
+      "url": "https://ra.co/events/2562562"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2512317",
       "title": "Perifest 2026",
@@ -23,18 +35,22 @@
       "url": "https://ra.co/events/2512317"
     },
     {
-      "id": "ra:2512325",
-      "title": "Jaap Blonk & Terrie Ex + SAVIĆ & REONA + boekpresentatie Blonk / Petrichor",
-      "date": "2026-10-25",
-      "start": "2026-10-25T15:00+01:00",
-      "venue": "De Perifeer",
-      "venue_id": "289451",
+      "id": "ra:2512307",
+      "title": "Achter de Muren: Debbie Huisman",
+      "date": "2026-09-26",
+      "start": "2026-09-26T20:00+02:00",
+      "venue": "Walhalla",
+      "venue_id": "289449",
       "area": "All",
-      "url": "https://ra.co/events/2512325"
+      "url": "https://ra.co/events/2512307"
     }
   ],
-  "past": [],
   "top_artists": [
+    {
+      "id": "7577",
+      "name": "Martine",
+      "count": 1
+    },
     {
       "id": "179076",
       "name": "Debbie Huisman",
@@ -78,11 +94,6 @@
     {
       "id": "119726",
       "name": "silend",
-      "count": 1
-    },
-    {
-      "id": "171334",
-      "name": "ece era",
       "count": 1
     }
   ]

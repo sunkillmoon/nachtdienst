@@ -1,0 +1,39 @@
+{
+  "id": "193918",
+  "name": "Alci invites",
+  "upcoming": [
+    {
+      "id": "ra:2535951",
+      "title": "Alci invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Peter de Grote",
+      "venue_id": "302604",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535951"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "37817",
+      "name": "Alci",
+      "count": 1
+    },
+    {
+      "id": "54594",
+      "name": "Aline Brooklyn",
+      "count": 1
+    },
+    {
+      "id": "129681",
+      "name": "Krol",
+      "count": 1
+    },
+    {
+      "id": "38951",
+      "name": "Volkan Akin",
+      "count": 1
+    }
+  ]
+}

@@ -14,5 +14,31 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "87975",
+      "name": "Mitch Oliver",
+      "count": 1
+    },
+    {
+      "id": "67631",
+      "name": "Yulia Niko",
+      "count": 1
+    },
+    {
+      "id": "24433",
+      "name": "Joyce Muniz",
+      "count": 1
+    },
+    {
+      "id": "138624",
+      "name": "TMPLE",
+      "count": 1
+    },
+    {
+      "id": "135404",
+      "name": "Manuel Falardeau",
+      "count": 1
+    }
+  ]
 }

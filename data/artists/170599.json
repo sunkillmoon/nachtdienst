@@ -1,0 +1,28 @@
+{
+  "id": "170599",
+  "name": "Somna",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2539668",
+      "title": "Chasing Dreams ADE Charity Fundraiser",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Café Restaurant De Kroon",
+      "venue_id": "139683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539668"
+    },
+    {
+      "id": "ra:2556457",
+      "title": "Electric Escape & Ambrozic Productions present: Converge",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556457"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "171559",
+  "name": "Backspin Records",
+  "upcoming": [
+    {
+      "id": "ra:2533075",
+      "title": "Backspin x Mixmag NL [daytime 2-10pm]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533075"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "102026",
+      "name": "Disguised",
+      "count": 1
+    },
+    {
+      "id": "120292",
+      "name": "Gina Demarchi",
+      "count": 1
+    },
+    {
+      "id": "109901",
+      "name": "Isaiah (NL)",
+      "count": 1
+    },
+    {
+      "id": "163",
+      "name": "Marco Bailey",
+      "count": 1
+    },
+    {
+      "id": "34020",
+      "name": "Regal",
+      "count": 1
+    }
+  ]
+}

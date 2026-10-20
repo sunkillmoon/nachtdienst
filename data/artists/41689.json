@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2551874",
+      "title": "MITA ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551874"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2466662",
       "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
       "date": "2026-09-20",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2466662"
     }
-  ],
-  "past": []
+  ]
 }

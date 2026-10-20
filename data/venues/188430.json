@@ -6,24 +6,66 @@
   "lng": 4.927931,
   "upcoming": [
     {
-      "id": "ra:2514459",
-      "title": "mr. wix",
-      "date": "2026-08-28",
-      "start": "2026-08-28T20:00+02:00",
+      "id": "ra:2551659",
+      "title": "yusu invites champion w/ ezri jade, kingdom sound, yusu selectors & alleek",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
       "venue": "murmur",
       "venue_id": "188430",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514459"
+      "url": "https://ra.co/events/2551659"
     },
     {
-      "id": "ra:2517515",
-      "title": "kantarion sound x murmur blockparty",
-      "date": "2026-08-29",
-      "start": "2026-08-29T14:00+02:00",
+      "id": "ra:2553111",
+      "title": "groundsoun w/ gavsborg, jo flm, riddimbox & charwinoa",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
       "venue": "murmur",
       "venue_id": "188430",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2517515"
+      "url": "https://ra.co/events/2553111"
+    },
+    {
+      "id": "ra:2553112",
+      "title": "mr. wix",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00+01:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553112"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2514477",
+      "title": "kourosh presents: bah bah album listening party",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514477"
+    },
+    {
+      "id": "ra:2514473",
+      "title": "subbacultcha presents: carla dal forno + ebby [sold out]",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514473"
+    },
+    {
+      "id": "ra:2514470",
+      "title": "orlok & habiiibiji (live)",
+      "date": "2026-09-18",
+      "start": "2026-09-18T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514470"
     },
     {
       "id": "ra:2489575",
@@ -46,37 +88,25 @@
       "url": "https://ra.co/events/2514460"
     },
     {
-      "id": "ra:2514470",
-      "title": "orlok & habiiibiji (live)",
-      "date": "2026-09-18",
-      "start": "2026-09-18T20:00+02:00",
+      "id": "ra:2517515",
+      "title": "kantarion sound x murmur blockparty",
+      "date": "2026-08-29",
+      "start": "2026-08-29T14:00+02:00",
       "venue": "murmur",
       "venue_id": "188430",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514470"
+      "url": "https://ra.co/events/2517515"
     },
     {
-      "id": "ra:2514473",
-      "title": "subbacultcha presents: carla dal forno + ebby [sold out]",
-      "date": "2026-09-24",
-      "start": "2026-09-24T20:00+02:00",
+      "id": "ra:2514459",
+      "title": "mr. wix",
+      "date": "2026-08-28",
+      "start": "2026-08-28T20:00+02:00",
       "venue": "murmur",
       "venue_id": "188430",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514473"
+      "url": "https://ra.co/events/2514459"
     },
-    {
-      "id": "ra:2514477",
-      "title": "kourosh presents: bah bah album listening party",
-      "date": "2026-09-25",
-      "start": "2026-09-25T20:00+02:00",
-      "venue": "murmur",
-      "venue_id": "188430",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514477"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2508749",
       "title": "murmur; The KrayZone invites GoodMostlyBad",

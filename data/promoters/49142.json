@@ -1,0 +1,34 @@
+{
+  "id": "49142",
+  "name": "LClub",
+  "upcoming": [
+    {
+      "id": "ra:2563950",
+      "title": "LClub presents: ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563950"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "42406",
+      "name": "Affani",
+      "count": 1
+    },
+    {
+      "id": "14905",
+      "name": "Alex Arnout",
+      "count": 1
+    },
+    {
+      "id": "13566",
+      "name": "Hector Moralez",
+      "count": 1
+    }
+  ]
+}

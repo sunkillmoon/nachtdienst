@@ -1,0 +1,28 @@
+{
+  "id": "68375",
+  "name": "Talkback Heads",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2561332",
+      "title": "Talkback Heads & Friends",
+      "date": "2026-10-22",
+      "start": "2026-10-23T04:00+02:00",
+      "venue": "50 HERTZ",
+      "venue_id": "289329",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561332"
+    },
+    {
+      "id": "ra:2565131",
+      "title": "Techno & Coffee",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Liev Coffee & Pastry",
+      "venue_id": "305678",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565131"
+    }
+  ],
+  "past": []
+}

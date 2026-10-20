@@ -2,7 +2,8 @@
   "id": "136598",
   "name": "Gino Da Koda",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473501",
       "title": "Madam by Night invites: LABELS. presents: Unnamed & Unknown",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473501"
     }
-  ],
-  "past": []
+  ]
 }

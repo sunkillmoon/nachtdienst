@@ -6,160 +6,10 @@
   "lng": 4.925604,
   "upcoming": [
     {
-      "id": "ra:2488611",
-      "title": "AZÚCAR INVITES THE HERD",
-      "date": "2026-08-28",
-      "start": "2026-08-28T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2488611"
-    },
-    {
-      "id": "ra:2511269",
-      "title": "HARTO FALIÓN (US, LIVE), OGR+ZELDZAME (LIVE), BOBBIN, AGP",
-      "date": "2026-08-29",
-      "start": "2026-08-29T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511269"
-    },
-    {
-      "id": "ra:2520391",
-      "title": "Super-Sonic Jam w/ Radiohop",
-      "date": "2026-09-03",
-      "start": "2026-09-03T18:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520391"
-    },
-    {
-      "id": "ra:2511270",
-      "title": "EYE CONTACT & VIAPHIA",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511270"
-    },
-    {
-      "id": "ra:2499764",
-      "title": "ANTÍDOTO",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499764"
-    },
-    {
-      "id": "ra:2520585",
-      "title": "SPINNING ANGELS",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520585"
-    },
-    {
-      "id": "ra:2511275",
-      "title": "TOURIST TRAP & SEEDLINIK",
-      "date": "2026-09-12",
-      "start": "2026-09-12T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511275"
-    },
-    {
-      "id": "ra:2511281",
-      "title": "PIP BLOM 10 YEARS",
-      "date": "2026-09-24",
-      "start": "2026-09-24T20:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511281"
-    },
-    {
-      "id": "ra:2470243",
-      "title": "PIP BLOM 10 YEARS",
-      "date": "2026-09-24",
-      "start": "2026-09-24T20:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2470243"
-    },
-    {
-      "id": "ra:2511297",
-      "title": "WAP SHOO WAP PRESENTS: SPLIT SYSTEM (AUS) + THE ETTERS (LIVE)",
-      "date": "2026-09-26",
-      "start": "2026-09-26T19:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511297"
-    },
-    {
-      "id": "ra:2511302",
-      "title": "HET VELD: THE SECOND TRANSMISSION",
-      "date": "2026-10-02",
-      "start": "2026-10-02T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511302"
-    },
-    {
-      "id": "ra:2400214",
-      "title": "HET VELD: THE SECOND TRANSMISSION",
-      "date": "2026-10-02",
-      "start": "2026-10-02T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2400214"
-    },
-    {
-      "id": "ra:2510418",
-      "title": "het veld: The Second Transmission",
-      "date": "2026-10-02",
-      "start": "2026-10-02T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510418"
-    },
-    {
-      "id": "ra:2520395",
-      "title": "YUSU 6 YEARS",
-      "date": "2026-10-10",
-      "start": "2026-10-10T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520395"
-    },
-    {
-      "id": "ra:2473192",
-      "title": "PARKER FEST 3.0",
-      "date": "2026-10-17",
-      "start": "2026-10-17T22:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473192"
-    },
-    {
       "id": "ra:2462899",
       "title": "ADE - CHAMOS PRESENTS: HAWRAVE",
       "date": "2026-10-21",
-      "start": "2026-10-21T22:00+02:00",
+      "start": "2026-10-21T20:00+02:00",
       "venue": "Skatecafe",
       "venue_id": "138553",
       "area": "Amsterdam",
@@ -167,7 +17,7 @@
     },
     {
       "id": "ra:2469789",
-      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
+      "title": "ADE - Shanti Celeste Curates VBX",
       "date": "2026-10-22",
       "start": "2026-10-22T20:00+02:00",
       "venue": "Skatecafe",
@@ -184,6 +34,16 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511306"
+    },
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
     },
     {
       "id": "ra:2520396",
@@ -216,6 +76,56 @@
       "url": "https://ra.co/events/2493209"
     },
     {
+      "id": "ra:2550938",
+      "title": "ZWARTE LIEFDE",
+      "date": "2026-10-30",
+      "start": "2026-10-30T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550938"
+    },
+    {
+      "id": "ra:2550954",
+      "title": "PACIFIC ONDERGRONDS & KRUISPUNT PRESENTS: HALLOWEENFEST",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550954"
+    },
+    {
+      "id": "ra:2554373",
+      "title": "HONDENFOKKER RELEASE PARTY",
+      "date": "2026-11-05",
+      "start": "2026-11-05T20:30+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554373"
+    },
+    {
+      "id": "ra:2555796",
+      "title": "SONS (LIVE)",
+      "date": "2026-11-06",
+      "start": "2026-11-06T19:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555796"
+    },
+    {
+      "id": "ra:2551822",
+      "title": "GET TO IT X JANGALA",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551822"
+    },
+    {
       "id": "ra:2400216",
       "title": "SONS (LIVE)",
       "date": "2026-11-06",
@@ -224,6 +134,16 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2400216"
+    },
+    {
+      "id": "ra:2559789",
+      "title": "BAILE DA GALECTA",
+      "date": "2026-11-07",
+      "start": "2026-11-07T22:00+01:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559789"
     },
     {
       "id": "ra:2520400",
@@ -237,6 +157,156 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2473192",
+      "title": "PARKER FEST 3.0",
+      "date": "2026-10-17",
+      "start": "2026-10-17T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473192"
+    },
+    {
+      "id": "ra:2520395",
+      "title": "YUSU 6 YEARS",
+      "date": "2026-10-10",
+      "start": "2026-10-10T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520395"
+    },
+    {
+      "id": "ra:2400214",
+      "title": "HET VELD: THE SECOND TRANSMISSION",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2400214"
+    },
+    {
+      "id": "ra:2510418",
+      "title": "het veld: The Second Transmission",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510418"
+    },
+    {
+      "id": "ra:2511302",
+      "title": "HET VELD: THE SECOND TRANSMISSION",
+      "date": "2026-10-02",
+      "start": "2026-10-02T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511302"
+    },
+    {
+      "id": "ra:2511297",
+      "title": "WAP SHOO WAP PRESENTS: SPLIT SYSTEM (AUS) + THE ETTERS (LIVE)",
+      "date": "2026-09-26",
+      "start": "2026-09-26T19:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511297"
+    },
+    {
+      "id": "ra:2470243",
+      "title": "PIP BLOM 10 YEARS",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470243"
+    },
+    {
+      "id": "ra:2511281",
+      "title": "PIP BLOM 10 YEARS",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511281"
+    },
+    {
+      "id": "ra:2511275",
+      "title": "TOURIST TRAP & SEEDLINIK",
+      "date": "2026-09-12",
+      "start": "2026-09-12T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511275"
+    },
+    {
+      "id": "ra:2520585",
+      "title": "SPINNING ANGELS",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520585"
+    },
+    {
+      "id": "ra:2499764",
+      "title": "ANTÍDOTO",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499764"
+    },
+    {
+      "id": "ra:2511270",
+      "title": "EYE CONTACT & VIAPHIA",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511270"
+    },
+    {
+      "id": "ra:2520391",
+      "title": "Super-Sonic Jam w/ Radiohop",
+      "date": "2026-09-03",
+      "start": "2026-09-03T18:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520391"
+    },
+    {
+      "id": "ra:2511269",
+      "title": "HARTO FALIÓN (US, LIVE), OGR+ZELDZAME (LIVE), BOBBIN, AGP",
+      "date": "2026-08-29",
+      "start": "2026-08-29T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511269"
+    },
+    {
+      "id": "ra:2488611",
+      "title": "AZÚCAR INVITES THE HERD",
+      "date": "2026-08-28",
+      "start": "2026-08-28T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2488611"
+    },
     {
       "id": "ra:2511266",
       "title": "NOLANDS",

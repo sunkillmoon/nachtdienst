@@ -4,7 +4,18 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2558228",
+      "title": "Stupid Speciaal 03 - Rohaan x What So Not",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "TBA - IYKYK",
+      "venue_id": "291414",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558228"
+    }
+  ],
   "past": [
     {
       "id": "ra:2507306",

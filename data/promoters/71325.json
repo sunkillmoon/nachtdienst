@@ -1,0 +1,34 @@
+{
+  "id": "71325",
+  "name": "Fleetmac Wood",
+  "upcoming": [
+    {
+      "id": "ra:2549218",
+      "title": "Fleetmac Wood presents Chiffon Frenzy - Amsterdam",
+      "date": "2026-11-05",
+      "start": "2026-11-05T23:59+01:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549218"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "105407",
+      "name": "Fleetmac Wood",
+      "count": 1
+    },
+    {
+      "id": "34736",
+      "name": "Roxanne Roll",
+      "count": 1
+    },
+    {
+      "id": "141480",
+      "name": "Alex Oxley",
+      "count": 1
+    }
+  ]
+}

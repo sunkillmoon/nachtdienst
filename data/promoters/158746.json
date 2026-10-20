@@ -1,0 +1,39 @@
+{
+  "id": "158746",
+  "name": "Culture Club",
+  "upcoming": [
+    {
+      "id": "ra:2553566",
+      "title": "Koffierave x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553566"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "112928",
+      "name": "Slimfit",
+      "count": 1
+    },
+    {
+      "id": "146585",
+      "name": "ZOËZO",
+      "count": 1
+    },
+    {
+      "id": "165771",
+      "name": "Vie Aimee",
+      "count": 1
+    },
+    {
+      "id": "146156",
+      "name": "Steve Riddm",
+      "count": 1
+    }
+  ]
+}

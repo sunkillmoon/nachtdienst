@@ -2,7 +2,8 @@
   "id": "78508",
   "name": "Gian-Paul",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2496555",
       "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496555"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "176841",
   "name": "Damian Nieuwenhuis",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514593",
       "title": "Houtbaar Summer Closing with BELLA b2b Olsvangėr, Hellie & Mudfat",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2514593"
     }
   ],
-  "past": [],
   "top_artists": []
 }

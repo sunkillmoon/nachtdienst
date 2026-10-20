@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
-    },
-    {
       "id": "ra:2479678",
       "title": "Colorize: 15 Years - ADE",
       "date": "2026-10-22",
@@ -22,6 +12,16 @@
       "venue_id": "199902",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479678"
+    },
+    {
+      "id": "ra:2534229",
+      "title": "Ferry Corsten & Friends ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534229"
     },
     {
       "id": "ra:2474410",
@@ -45,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2470472",
       "title": "Colorado Charlie with Jan Blomqvist, Helsloot, Sinca",

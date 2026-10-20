@@ -1,0 +1,34 @@
+{
+  "id": "156700",
+  "name": "Cacao Caos Group S.L",
+  "upcoming": [
+    {
+      "id": "ra:2537446",
+      "title": "CACAO",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537446"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "172609",
+      "name": "Anthony Godfather (2)",
+      "count": 1
+    },
+    {
+      "id": "119944",
+      "name": "TWENTY SIX",
+      "count": 1
+    },
+    {
+      "id": "107766",
+      "name": "Rayzir",
+      "count": 1
+    }
+  ]
+}

@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.40447,
   "lng": 4.544565,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512344",
       "title": "JOY - The Closing",
@@ -14,9 +15,7 @@
       "venue_id": "197451",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512344"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2476839",
       "title": "JOY with Luuk van Dijk, Patrick Topping & Jazzy",

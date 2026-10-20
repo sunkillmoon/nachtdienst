@@ -2,7 +2,8 @@
   "id": "75826",
   "name": "SUCHI",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516969",
       "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516969"
     }
-  ],
-  "past": []
+  ]
 }

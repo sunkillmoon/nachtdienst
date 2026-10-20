@@ -1,0 +1,40 @@
+{
+  "id": "303490",
+  "name": "LOU",
+  "area": "Rotterdam",
+  "lat": 51.94,
+  "lng": 4.48,
+  "upcoming": [
+    {
+      "id": "ra:2560651",
+      "title": "LOU w. Handytim",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "LOU",
+      "venue_id": "303490",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2560651"
+    },
+    {
+      "id": "ra:2560662",
+      "title": "LOU w. Hashii",
+      "date": "2026-10-30",
+      "start": "2026-10-30T22:00+01:00",
+      "venue": "LOU",
+      "venue_id": "303490",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2560662"
+    },
+    {
+      "id": "ra:2560674",
+      "title": "LOU shirt launchday",
+      "date": "2026-10-31",
+      "start": "2026-10-31T21:00+01:00",
+      "venue": "LOU",
+      "venue_id": "303490",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2560674"
+    }
+  ],
+  "past": []
+}

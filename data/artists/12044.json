@@ -2,7 +2,18 @@
   "id": "12044",
   "name": "Turne",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2545771",
+      "title": "Vrijdag is NYX 6/11",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545771"
+    }
+  ],
   "past": [
     {
       "id": "ra:2506179",

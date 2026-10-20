@@ -1,0 +1,28 @@
+{
+  "id": "120353",
+  "name": "Noach",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2469608",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469608"
+    },
+    {
+      "id": "ra:2523413",
+      "title": "Club Roto - Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523413"
+    }
+  ],
+  "past": []
+}

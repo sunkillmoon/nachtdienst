@@ -4,44 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2448972",
-      "title": "PIV AT THE BEACH",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2448972"
-    },
-    {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
-    },
-    {
-      "id": "ra:2281919",
-      "title": "A Day at the Park Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Kralingse Bos",
-      "venue_id": "89597",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2281919"
-    },
-    {
-      "id": "ra:2512344",
-      "title": "JOY - The Closing",
-      "date": "2026-09-19",
-      "start": "2026-09-19T17:00+02:00",
-      "venue": "Bronze Beach",
-      "venue_id": "197451",
+      "id": "ra:2466448",
+      "title": "PIV - The Loft [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2512344"
+      "url": "https://ra.co/events/2466448"
     },
     {
       "id": "ra:2455390",
@@ -65,7 +35,7 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
@@ -77,7 +47,7 @@
       "id": "ra:2517556",
       "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
       "date": "2026-10-30",
-      "start": "2026-10-30T23:00+01:00",
+      "start": "2026-10-30T23:59+01:00",
       "venue": "BASIS",
       "venue_id": "101766",
       "area": "Utrecht",
@@ -85,6 +55,46 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2512344",
+      "title": "JOY - The Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512344"
+    },
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2448972",
+      "title": "PIV AT THE BEACH",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2448972"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

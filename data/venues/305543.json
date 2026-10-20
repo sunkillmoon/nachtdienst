@@ -1,0 +1,20 @@
+{
+  "id": "305543",
+  "name": "Chillzone Books",
+  "area": "Amsterdam",
+  "lat": 52.39,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2563828",
+      "title": "REProduce Amsterdam: Dek Bass Vol. 1+2 Listening Room",
+      "date": "2026-10-30",
+      "start": "2026-10-30T18:00+01:00",
+      "venue": "Chillzone Books",
+      "venue_id": "305543",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563828"
+    }
+  ],
+  "past": []
+}

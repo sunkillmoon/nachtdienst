@@ -22,6 +22,26 @@
       "venue_id": "175088",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495676"
+    },
+    {
+      "id": "ra:2550753",
+      "title": "Resident Night Yellow House ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550753"
+    },
+    {
+      "id": "ra:2557981",
+      "title": "RAPSODIA x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557981"
     }
   ],
   "past": [

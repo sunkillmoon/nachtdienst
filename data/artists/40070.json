@@ -2,7 +2,8 @@
   "id": "40070",
   "name": "Lamb",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473131",
       "title": "Lamb",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473131"
     }
-  ],
-  "past": []
+  ]
 }

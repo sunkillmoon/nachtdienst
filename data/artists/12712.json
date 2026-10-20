@@ -2,7 +2,8 @@
   "id": "12712",
   "name": "Wouter S",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517489",
       "title": "Opening Onderhans x Bubble House",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517489"
     }
-  ],
-  "past": []
+  ]
 }

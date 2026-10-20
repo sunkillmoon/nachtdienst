@@ -3,16 +3,6 @@
   "name": "Phono Lake",
   "upcoming": [
     {
-      "id": "ra:2434861",
-      "title": "Phono Lake Festival",
-      "date": "2026-09-12",
-      "start": "2026-09-12T13:00+02:00",
-      "venue": "Phono Lake",
-      "venue_id": "242264",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2434861"
-    },
-    {
       "id": "ra:2497409",
       "title": "Phono Lake ADE with Magda & Sandrien",
       "date": "2026-10-23",
@@ -43,8 +33,49 @@
       "url": "https://ra.co/events/2497417"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2434861",
+      "title": "Phono Lake Festival",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Phono Lake",
+      "venue_id": "242264",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2434861"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "4619",
+      "name": "Sandrien",
+      "count": 1
+    },
+    {
+      "id": "571",
+      "name": "Magda",
+      "count": 1
+    },
+    {
+      "id": "958",
+      "name": "Moodymann",
+      "count": 1
+    },
+    {
+      "id": "59155",
+      "name": "Flo Real",
+      "count": 1
+    },
+    {
+      "id": "24122",
+      "name": "Lefto Early Bird",
+      "count": 1
+    },
+    {
+      "id": "38183",
+      "name": "Shy One",
+      "count": 1
+    },
     {
       "id": "58874",
       "name": "Athens of the North",
@@ -63,36 +94,6 @@
     {
       "id": "165550",
       "name": "Field Notes DJs",
-      "count": 1
-    },
-    {
-      "id": "134901",
-      "name": "Millie McKee",
-      "count": 1
-    },
-    {
-      "id": "88318",
-      "name": "Jetti",
-      "count": 1
-    },
-    {
-      "id": "33410",
-      "name": "Jovonn",
-      "count": 1
-    },
-    {
-      "id": "67241",
-      "name": "Louise Chen",
-      "count": 1
-    },
-    {
-      "id": "116675",
-      "name": "Marie K (1)",
-      "count": 1
-    },
-    {
-      "id": "13553",
-      "name": "Mike Dunn",
       "count": 1
     }
   ]

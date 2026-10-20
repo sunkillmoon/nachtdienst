@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2515654",
-      "title": "Happy Feelings Groningen - Graanfabriek W/ Tonno Disko & More",
-      "date": "2026-10-10",
-      "start": "2026-10-10T18:00+02:00",
-      "venue": "Graanfabriek",
-      "venue_id": "156433",
-      "area": "All",
-      "url": "https://ra.co/events/2515654"
-    },
-    {
       "id": "ra:2475062",
       "title": "Glitterbox ADE",
       "date": "2026-10-22",
@@ -32,9 +22,29 @@
       "venue_id": "208462",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492762"
+    },
+    {
+      "id": "ra:2527059",
+      "title": "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527059"
     }
   ],
   "past": [
+    {
+      "id": "ra:2515654",
+      "title": "Happy Feelings Groningen - Graanfabriek W/ Tonno Disko & More",
+      "date": "2026-10-10",
+      "start": "2026-10-10T18:00+02:00",
+      "venue": "Graanfabriek",
+      "venue_id": "156433",
+      "area": "All",
+      "url": "https://ra.co/events/2515654"
+    },
     {
       "id": "ra:2495209",
       "title": "Fluff Disco",

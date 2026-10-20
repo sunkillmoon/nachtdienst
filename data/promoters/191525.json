@@ -1,7 +1,8 @@
 {
   "id": "191525",
   "name": "Føler.NL",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504199",
       "title": "Føler x LINKD x Toekomstmuziek minifestival",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2504199"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "565",

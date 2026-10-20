@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.254541,
   "lng": 6.155545,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512317",
       "title": "Perifest 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2512317"
     }
-  ],
-  "past": []
+  ]
 }

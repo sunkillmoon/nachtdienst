@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "57757",
+      "name": "ADMNTi",
+      "count": 1
+    },
+    {
+      "id": "110030",
+      "name": "Marlie",
+      "count": 1
+    },
+    {
+      "id": "85332",
+      "name": "Dr Banana",
+      "count": 1
+    },
+    {
+      "id": "5957",
+      "name": "Sonja Moonear",
+      "count": 1
+    },
+    {
+      "id": "2089",
+      "name": "Enzo Siragusa",
+      "count": 1
+    },
+    {
+      "id": "94638",
+      "name": "Isaac Carter",
+      "count": 1
+    },
+    {
+      "id": "21880",
+      "name": "Moxie",
+      "count": 1
+    },
+    {
+      "id": "118815",
+      "name": "Jamback",
+      "count": 1
+    },
+    {
+      "id": "53004",
+      "name": "Laidlaw",
+      "count": 1
+    },
+    {
+      "id": "132603",
+      "name": "L.P. Rhythm",
+      "count": 1
+    }
+  ]
 }

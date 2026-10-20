@@ -1,7 +1,18 @@
 {
   "id": "34201",
   "name": "Zwart Goud",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2536517",
+      "title": "Zwart Goud ADE INSTORES 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Zwart Goud Record Store",
+      "venue_id": "103589",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536517"
+    }
+  ],
   "past": [
     {
       "id": "ra:2497317",
@@ -16,33 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "10350",
-      "name": "Massimiliano Pagliara",
+      "id": "39861",
+      "name": "Nastia",
       "count": 1
     },
     {
-      "id": "110734",
-      "name": "DIORA",
+      "id": "171153",
+      "name": "Mastering Black",
       "count": 1
     },
     {
-      "id": "107543",
-      "name": "Polli Panda",
+      "id": "90133",
+      "name": "Emerald",
       "count": 1
     },
     {
-      "id": "186156",
-      "name": "Lex Eco",
+      "id": "134927",
+      "name": "Steven Julien",
       "count": 1
     },
     {
-      "id": "82226",
-      "name": "Jewel",
+      "id": "96330",
+      "name": "Phil Berg",
       "count": 1
     },
     {
-      "id": "127084",
-      "name": "Taylor Taylor",
+      "id": "33212",
+      "name": "Bradley Zero",
+      "count": 1
+    },
+    {
+      "id": "92059",
+      "name": "BASHKKA",
+      "count": 1
+    },
+    {
+      "id": "102180",
+      "name": "Papa Nugs",
+      "count": 1
+    },
+    {
+      "id": "85135",
+      "name": "Kassian",
+      "count": 1
+    },
+    {
+      "id": "82409",
+      "name": "Jasmín",
       "count": 1
     }
   ]

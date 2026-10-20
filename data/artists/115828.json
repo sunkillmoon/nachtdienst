@@ -2,7 +2,28 @@
   "id": "115828",
   "name": "Rob Manga",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559142",
+      "title": "AM.RADIO.CLUB x Make It Warm ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Kyas Art Salon",
+      "venue_id": "305032",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559142"
+    },
+    {
+      "id": "ra:2560005",
+      "title": "Doka Studio x As The World Turns with Rob Manga - Phil Evans - Markus Sommer - Glenn & Rolf",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560005"
+    }
+  ],
   "past": [
     {
       "id": "ra:2506770",

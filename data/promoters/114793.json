@@ -1,0 +1,39 @@
+{
+  "id": "114793",
+  "name": "Trickpony",
+  "upcoming": [
+    {
+      "id": "ra:2542850",
+      "title": "Trickpony x Omnibus: ADE Affair with Brennan & Hannecart",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Bar How",
+      "venue_id": "303331",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542850"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "59881",
+      "name": "Brennan",
+      "count": 1
+    },
+    {
+      "id": "93746",
+      "name": "Hannecart",
+      "count": 1
+    },
+    {
+      "id": "107497",
+      "name": "Tykov",
+      "count": 1
+    },
+    {
+      "id": "175812",
+      "name": "Voss",
+      "count": 1
+    }
+  ]
+}

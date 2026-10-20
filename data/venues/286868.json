@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 53.22,
   "lng": 6.57,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517684",
       "title": "Hulla by night Sam Hofman & Friends",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2517684"
     }
-  ],
-  "past": []
+  ]
 }

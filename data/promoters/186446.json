@@ -1,0 +1,39 @@
+{
+  "id": "186446",
+  "name": "CrunchyHouse.Records",
+  "upcoming": [
+    {
+      "id": "ra:2550900",
+      "title": "CrunchyHouse ADE Gathering '26",
+      "date": "2026-10-22",
+      "start": "2026-10-23T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550900"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "89167",
+      "name": "A.M. Project",
+      "count": 1
+    },
+    {
+      "id": "188514",
+      "name": "ALE_MELLONI",
+      "count": 1
+    },
+    {
+      "id": "189409",
+      "name": "brotherz",
+      "count": 1
+    },
+    {
+      "id": "182098",
+      "name": "Klevi Koci",
+      "count": 1
+    }
+  ]
+}

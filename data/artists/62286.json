@@ -2,7 +2,8 @@
   "id": "62286",
   "name": "JASSS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484345",
       "title": "PULSE invites Herrensauna",
@@ -12,9 +13,7 @@
       "venue_id": "7405",
       "area": "All",
       "url": "https://ra.co/events/2484345"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2458162",
       "title": "Dekmantel Festival 2026 - Saturday",

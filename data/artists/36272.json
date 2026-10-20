@@ -2,7 +2,8 @@
   "id": "36272",
   "name": "Huerta",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2505813",
       "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2505813"
     }
-  ],
-  "past": []
+  ]
 }

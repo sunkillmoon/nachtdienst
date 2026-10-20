@@ -1,0 +1,30 @@
+{
+  "id": "305608",
+  "name": "Spritz Bar Amsterdam",
+  "area": "All",
+  "lat": 52.36,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2564626",
+      "title": "SINNERGY x Beats & Spritz",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Spritz Bar Amsterdam",
+      "venue_id": "305608",
+      "area": "All",
+      "url": "https://ra.co/events/2564626"
+    },
+    {
+      "id": "ra:2564254",
+      "title": "Melodic Beats x Beats & Spritz",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Spritz Bar Amsterdam",
+      "venue_id": "305608",
+      "area": "All",
+      "url": "https://ra.co/events/2564254"
+    }
+  ],
+  "past": []
+}

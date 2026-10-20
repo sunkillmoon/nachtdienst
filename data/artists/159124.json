@@ -2,7 +2,8 @@
   "id": "159124",
   "name": "Rob Stillekens",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479241",
       "title": "TOFFLER presents G-NO and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479241"
     }
-  ],
-  "past": []
+  ]
 }

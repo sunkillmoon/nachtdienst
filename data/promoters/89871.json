@@ -3,14 +3,14 @@
   "name": "The Disco Express",
   "upcoming": [
     {
-      "id": "ra:2473490",
-      "title": "Madam by Night invites: The Disco Express",
-      "date": "2026-09-19",
-      "start": "2026-09-19T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
+      "id": "ra:2523150",
+      "title": "The Disco Express: ADE Label Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Art''otel Amsterdam",
+      "venue_id": "289335",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2473490"
+      "url": "https://ra.co/events/2523150"
     },
     {
       "id": "ra:2509389",
@@ -23,56 +23,67 @@
       "url": "https://ra.co/events/2509389"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2473490",
+      "title": "Madam by Night invites: The Disco Express",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473490"
+    }
+  ],
   "top_artists": [
     {
       "id": "144164",
       "name": "Crystal Touch",
-      "count": 2
-    },
-    {
-      "id": "180357",
-      "name": "Drabes",
-      "count": 1
-    },
-    {
-      "id": "150226",
-      "name": "Nablijven Soundsystem",
-      "count": 1
-    },
-    {
-      "id": "39771",
-      "name": "Barbara Tucker",
-      "count": 1
+      "count": 3
     },
     {
       "id": "69989",
       "name": "Bustin' Loose",
-      "count": 1
+      "count": 2
     },
     {
       "id": "122841",
       "name": "Dan Cluskey",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "165693",
-      "name": "Georgie Porgie",
-      "count": 1
+      "id": "138364",
+      "name": "Monsieur Van Pratt",
+      "count": 2
     },
     {
-      "id": "96754",
-      "name": "Javier Anxiety",
-      "count": 1
+      "id": "145543",
+      "name": "Old as Funk",
+      "count": 2
     },
     {
-      "id": "113451",
-      "name": "Magnolia_",
-      "count": 1
+      "id": "132920",
+      "name": "Poppi",
+      "count": 2
     },
     {
-      "id": "15812",
-      "name": "Marcel Vogel",
+      "id": "149034",
+      "name": "Sam Karlson",
+      "count": 2
+    },
+    {
+      "id": "111285",
+      "name": "Tatiana",
+      "count": 2
+    },
+    {
+      "id": "150226",
+      "name": "Nablijven Soundsystem",
+      "count": 2
+    },
+    {
+      "id": "166224",
+      "name": "Third Attempt",
       "count": 1
     }
   ]

@@ -1,7 +1,8 @@
 {
   "id": "143065",
   "name": "Dark Session",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490622",
       "title": "AFTER DARK // ROTTERDAM",
@@ -11,9 +12,7 @@
       "venue_id": "25197",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490622"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2437906",
       "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",
@@ -37,21 +36,6 @@
   ],
   "top_artists": [
     {
-      "id": "166202",
-      "name": "KAKI (GE)",
-      "count": 1
-    },
-    {
-      "id": "166703",
-      "name": "LIEKS",
-      "count": 1
-    },
-    {
-      "id": "129283",
-      "name": "Nyctonian",
-      "count": 1
-    },
-    {
       "id": "137079",
       "name": "BLNK",
       "count": 1
@@ -69,6 +53,21 @@
     {
       "id": "144671",
       "name": "KRUELTY",
+      "count": 1
+    },
+    {
+      "id": "166202",
+      "name": "KAKI (GE)",
+      "count": 1
+    },
+    {
+      "id": "166703",
+      "name": "LIEKS",
+      "count": 1
+    },
+    {
+      "id": "129283",
+      "name": "Nyctonian",
       "count": 1
     }
   ]

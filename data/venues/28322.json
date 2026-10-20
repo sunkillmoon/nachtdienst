@@ -1,0 +1,20 @@
+{
+  "id": "28322",
+  "name": "Club Prime",
+  "area": "Amsterdam",
+  "lat": 52.365646,
+  "lng": 4.896299,
+  "upcoming": [
+    {
+      "id": "ra:2542505",
+      "title": "Grimix & Friends - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Club Prime",
+      "venue_id": "28322",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542505"
+    }
+  ],
+  "past": []
+}

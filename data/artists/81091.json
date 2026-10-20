@@ -4,34 +4,46 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2509402",
-      "title": "Momentum in De Vleeshal",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "De Vleeshal",
-      "venue_id": "299669",
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509402"
+      "url": "https://ra.co/events/2518303"
     },
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
+      "id": "ra:2495403",
+      "title": "ZeeZout ADE - Saturday Daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
+      "url": "https://ra.co/events/2495403"
     },
     {
-      "id": "ra:2373343",
-      "title": "Het Festival vol. 2",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "NAR",
-      "venue_id": "210189",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2373343"
+      "id": "ra:2531359",
+      "title": "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531359"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2517610",
+      "title": "Doppelgang Birthday Session",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517610"
     },
     {
       "id": "ra:2402447",
@@ -44,27 +56,35 @@
       "url": "https://ra.co/events/2402447"
     },
     {
-      "id": "ra:2517610",
-      "title": "Doppelgang Birthday Session",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517610"
+      "id": "ra:2373343",
+      "title": "Het Festival vol. 2",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2373343"
     },
     {
-      "id": "ra:2495403",
-      "title": "ZeeZout ADE - Saturday Daytime",
-      "date": "2026-10-24",
-      "start": "2026-10-24T14:00+02:00",
-      "venue": "Het Rijk van de Keizer",
-      "venue_id": "19615",
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2495403"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2376016"
+    },
+    {
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
+    },
     {
       "id": "ra:2508100",
       "title": "New Amsterdam Beach takeover",

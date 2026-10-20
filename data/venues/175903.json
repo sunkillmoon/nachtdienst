@@ -1,0 +1,40 @@
+{
+  "id": "175903",
+  "name": "Bar Feijoa",
+  "area": "Amsterdam",
+  "lat": 52.365985,
+  "lng": 4.893344,
+  "upcoming": [
+    {
+      "id": "ra:2558306",
+      "title": "Floral Nights Showcase at ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558306"
+    },
+    {
+      "id": "ra:2563927",
+      "title": "Cue Music & Embi Music Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563927"
+    },
+    {
+      "id": "ra:2538403",
+      "title": "Urge To Dance x Reconsider: ADE '26 Showcase",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538403"
+    }
+  ],
+  "past": []
+}

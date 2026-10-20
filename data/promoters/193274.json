@@ -1,0 +1,39 @@
+{
+  "id": "193274",
+  "name": "Re'Mind",
+  "upcoming": [
+    {
+      "id": "ra:2527782",
+      "title": "Re'Mind invites DJ Q & Douvelle19 - ADE edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Club Up",
+      "venue_id": "38637",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527782"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "7858",
+      "name": "DJ Q",
+      "count": 1
+    },
+    {
+      "id": "107362",
+      "name": "Douvelle19",
+      "count": 1
+    },
+    {
+      "id": "175557",
+      "name": "Mar'One",
+      "count": 1
+    },
+    {
+      "id": "124022",
+      "name": "Becking",
+      "count": 1
+    }
+  ]
+}

@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
+      "id": "ra:2559890",
+      "title": "Subcultuur Arnhem - De Zoetenlab",
+      "date": "2026-11-06",
+      "start": "2026-11-06T18:00+01:00",
+      "venue": "De Zoeten Laboratorium",
+      "venue_id": "305105",
+      "area": "All",
+      "url": "https://ra.co/events/2559890"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2468479",
+      "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
+      "date": "2026-09-18",
+      "start": "2026-09-18T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2468479"
     },
     {
       "id": "ra:2437294",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2437294"
     },
     {
-      "id": "ra:2468479",
-      "title": "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk",
-      "date": "2026-09-18",
-      "start": "2026-09-18T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2468479"
-    }
-  ],
-  "past": [
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
     {
       "id": "ra:2454757",
       "title": "Get Closer",

@@ -2,7 +2,8 @@
   "id": "25019",
   "name": "Charlie",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506186",
       "title": "Vrijdag is NYX",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506186"
     }
-  ],
-  "past": []
+  ]
 }

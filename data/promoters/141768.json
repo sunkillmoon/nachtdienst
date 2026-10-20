@@ -3,6 +3,18 @@
   "name": "Tilla Tec",
   "upcoming": [
     {
+      "id": "ra:2475664",
+      "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2475664"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2507742",
       "title": "TILT x Syntax Error",
       "date": "2026-08-29",
@@ -13,8 +25,37 @@
       "url": "https://ra.co/events/2507742"
     }
   ],
-  "past": [],
   "top_artists": [
+    {
+      "id": "966",
+      "name": "Ben Klock",
+      "count": 1
+    },
+    {
+      "id": "9311",
+      "name": "DVS1",
+      "count": 1
+    },
+    {
+      "id": "71914",
+      "name": "Roll Dann",
+      "count": 1
+    },
+    {
+      "id": "17892",
+      "name": "Setaoc Mass",
+      "count": 1
+    },
+    {
+      "id": "78330",
+      "name": "The Lady Machine",
+      "count": 1
+    },
+    {
+      "id": "116354",
+      "name": "Laia",
+      "count": 1
+    },
     {
       "id": "6877",
       "name": "Makam",
@@ -33,36 +74,6 @@
     {
       "id": "111224",
       "name": "Karina Schneider",
-      "count": 1
-    },
-    {
-      "id": "96672",
-      "name": "ttyfal",
-      "count": 1
-    },
-    {
-      "id": "13927",
-      "name": "ENNIO",
-      "count": 1
-    },
-    {
-      "id": "125013",
-      "name": "Vinz Sosa",
-      "count": 1
-    },
-    {
-      "id": "105235",
-      "name": "N.R.M",
-      "count": 1
-    },
-    {
-      "id": "157229",
-      "name": "Terrakin",
-      "count": 1
-    },
-    {
-      "id": "119323",
-      "name": "HAMY",
       "count": 1
     }
   ]

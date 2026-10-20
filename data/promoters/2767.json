@@ -3,8 +3,18 @@
   "name": "The Warehouse Project",
   "upcoming": [
     {
+      "id": "ra:2526144",
+      "title": "20 years of The Warehouse Project",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526144"
+    },
+    {
       "id": "ra:2466451",
-      "title": "20 Years Of The WHP - The Loft",
+      "title": "20 Years Of The WHP - The Loft [SOLD OUT]",
       "date": "2026-10-22",
       "start": "2026-10-22T23:30+02:00",
       "venue": "The Loft Amsterdam",
@@ -14,5 +24,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "175798",
+      "name": "Merel Helderman",
+      "count": 1
+    },
+    {
+      "id": "112933",
+      "name": "PHIA",
+      "count": 1
+    },
+    {
+      "id": "145253",
+      "name": "RIRIA",
+      "count": 1
+    },
+    {
+      "id": "134029",
+      "name": "Ryota (JP)",
+      "count": 1
+    },
+    {
+      "id": "75455",
+      "name": "Ewan McVicar",
+      "count": 1
+    },
+    {
+      "id": "45447",
+      "name": "Special Request",
+      "count": 1
+    },
+    {
+      "id": "141490",
+      "name": "Luke Alessi",
+      "count": 1
+    },
+    {
+      "id": "106354",
+      "name": "Sam Alfred",
+      "count": 1
+    },
+    {
+      "id": "106848",
+      "name": "bebe bad",
+      "count": 1
+    },
+    {
+      "id": "66408",
+      "name": "HAAi",
+      "count": 1
+    }
+  ]
 }

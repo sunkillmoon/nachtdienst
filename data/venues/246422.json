@@ -1,0 +1,20 @@
+{
+  "id": "246422",
+  "name": "Ndsm Theater",
+  "area": "Amsterdam",
+  "lat": 52.4,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2546286",
+      "title": "HAUSPLANT x ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Ndsm Theater",
+      "venue_id": "246422",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546286"
+    }
+  ],
+  "past": []
+}

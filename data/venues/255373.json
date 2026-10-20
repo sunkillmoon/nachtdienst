@@ -6,6 +6,18 @@
   "lng": 4.43,
   "upcoming": [
     {
+      "id": "ra:2540117",
+      "title": "NO WAY BACK: JOSH FB & Nomads",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "Cult=us",
+      "venue_id": "255373",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2540117"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2507666",
       "title": "Love Transmission with Ajuma",
       "date": "2026-09-11",
@@ -15,6 +27,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2507666"
     }
-  ],
-  "past": []
+  ]
 }

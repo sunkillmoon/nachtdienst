@@ -2,7 +2,8 @@
   "id": "156309",
   "name": "Jackie Jr.",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2511270",
       "title": "EYE CONTACT & VIAPHIA",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511270"
     }
-  ],
-  "past": []
+  ]
 }

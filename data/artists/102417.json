@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2462689",
-      "title": "Shermanology - Lucien Foort | Soft Landing",
-      "date": "2026-09-06",
-      "start": "2026-09-06T15:00+02:00",
-      "venue": "WestWeelde",
-      "venue_id": "264128",
+      "id": "ra:2536139",
+      "title": "[CANCELLED] D'EAUPE Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Café Café Bar Amsterdam",
+      "venue_id": "270224",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2462689"
+      "url": "https://ra.co/events/2536139"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2517584",
+      "title": "Shermanology presents D'EAUPE Rotterdam",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Sahara",
+      "venue_id": "223096",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2517584"
     },
     {
       "id": "ra:2281919",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2281919"
     },
     {
-      "id": "ra:2517584",
-      "title": "Shermanology presents D'EAUPE Rotterdam",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "Sahara",
-      "venue_id": "223096",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2517584"
-    }
-  ],
-  "past": [
+      "id": "ra:2462689",
+      "title": "Shermanology - Lucien Foort | Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
+    },
     {
       "id": "ra:2456899",
       "title": "Madam by Night invites: Boogie House",

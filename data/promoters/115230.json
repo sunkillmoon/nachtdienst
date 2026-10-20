@@ -1,0 +1,69 @@
+{
+  "id": "115230",
+  "name": "SESH",
+  "upcoming": [
+    {
+      "id": "ra:2562461",
+      "title": "SESH x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562461"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "146188",
+      "name": "2HOT2PLAY",
+      "count": 1
+    },
+    {
+      "id": "66427",
+      "name": "Alignment",
+      "count": 1
+    },
+    {
+      "id": "85688",
+      "name": "MCR-T",
+      "count": 1
+    },
+    {
+      "id": "153818",
+      "name": "PETERBLUE",
+      "count": 1
+    },
+    {
+      "id": "145406",
+      "name": "Noise Mafia",
+      "count": 1
+    },
+    {
+      "id": "110243",
+      "name": "PRADA2000",
+      "count": 1
+    },
+    {
+      "id": "166236",
+      "name": "Ueberrest",
+      "count": 1
+    },
+    {
+      "id": "104230",
+      "name": "SUMIA",
+      "count": 1
+    },
+    {
+      "id": "127492",
+      "name": "DJ Cringey",
+      "count": 1
+    },
+    {
+      "id": "127843",
+      "name": "DJ SPORTSCHUH",
+      "count": 1
+    }
+  ]
+}

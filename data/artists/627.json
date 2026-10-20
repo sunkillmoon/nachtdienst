@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2536412",
+      "title": "MoBlack Records x La Nouba - ADE Edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536412"
+    },
+    {
       "id": "ra:2459380",
       "title": "Madam invites: Kitty Amor curates",
       "date": "2026-10-23",
@@ -12,6 +22,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459380"
+    },
+    {
+      "id": "ra:2534233",
+      "title": "The Gardens of Babylon: The Seekers of Light - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534233"
     }
   ],
   "past": []

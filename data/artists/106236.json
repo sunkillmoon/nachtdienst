@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491497",
-      "title": "Club Day & Night (Season opening)",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491497"
-    },
-    {
       "id": "ra:2520732",
       "title": "Interfering Grounds x Futura Artists",
       "date": "2026-10-22",
@@ -22,7 +12,28 @@
       "venue_id": "137474",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520732"
+    },
+    {
+      "id": "ra:2561510",
+      "title": "PAUZE",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561510"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2491497",
+      "title": "Club Day & Night (Season opening)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491497"
+    }
+  ]
 }

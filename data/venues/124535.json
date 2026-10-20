@@ -1,0 +1,30 @@
+{
+  "id": "124535",
+  "name": "Black Gold",
+  "area": "Amsterdam",
+  "lat": 52.371731,
+  "lng": 4.903034,
+  "upcoming": [
+    {
+      "id": "ra:2540556",
+      "title": "From Amsterdam with Love  ADE30",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540556"
+    },
+    {
+      "id": "ra:2541032",
+      "title": "CQTD presents In Store Session with Kid Sublime & Ruggero (The Playground)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2541032"
+    }
+  ],
+  "past": []
+}

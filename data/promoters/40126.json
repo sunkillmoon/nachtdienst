@@ -1,0 +1,59 @@
+{
+  "id": "40126",
+  "name": "Dure Vie",
+  "upcoming": [
+    {
+      "id": "ra:2549908",
+      "title": "Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Rokin 75 / The Amsterdam View",
+      "venue_id": "124503",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549908"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "36137",
+      "name": "Bambounou",
+      "count": 1
+    },
+    {
+      "id": "105816",
+      "name": "Dylan Dylan",
+      "count": 1
+    },
+    {
+      "id": "101942",
+      "name": "Belaria",
+      "count": 1
+    },
+    {
+      "id": "137783",
+      "name": "Florian Picasso",
+      "count": 1
+    },
+    {
+      "id": "174600",
+      "name": "Two Dots (FR)",
+      "count": 1
+    },
+    {
+      "id": "147403",
+      "name": "Kokoprisci",
+      "count": 1
+    },
+    {
+      "id": "143753",
+      "name": "Rebequita",
+      "count": 1
+    },
+    {
+      "id": "20089",
+      "name": "Teki Latex",
+      "count": 1
+    }
+  ]
+}

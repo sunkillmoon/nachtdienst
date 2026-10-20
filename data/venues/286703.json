@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.28,
   "lng": 5.52,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2385114",
       "title": "PSYLÂN 2026 · Alien Paradise",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2385114"
     }
-  ],
-  "past": []
+  ]
 }

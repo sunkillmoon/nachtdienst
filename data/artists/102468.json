@@ -12,6 +12,16 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2534146",
+      "title": "Alan Fitzpatrick & We Are The Brave presents FORMA - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-24T04:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534146"
     }
   ],
   "past": []

@@ -6,15 +6,77 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2520825",
-      "title": "MOOD & Friends",
-      "date": "2026-09-19",
-      "start": "2026-09-19T15:00+02:00",
+      "id": "ra:2539492",
+      "title": "ADE: okgiorgio, Fakear + more names TBA",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:00+02:00",
       "venue": "Benelux BAR",
       "venue_id": "217595",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520825"
+      "url": "https://ra.co/events/2539492"
     },
+    {
+      "id": "ra:2536435",
+      "title": "ADE: Klub Analog x Benelux",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536435"
+    },
+    {
+      "id": "ra:2552785",
+      "title": "Baile da Galecta ADE Masterclasses",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552785"
+    },
+    {
+      "id": "ra:2539812",
+      "title": "Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539812"
+    },
+    {
+      "id": "ra:2539493",
+      "title": "ADE: Berkan V8 presents Dance Division",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539493"
+    },
+    {
+      "id": "ra:2519529",
+      "title": "Baile da Galecta ADE Club Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519529"
+    },
+    {
+      "id": "ra:2539497",
+      "title": "ADE: Sounds From the Underground",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539497"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2513275",
       "title": "last HAZY DAYS of summer",
@@ -26,15 +88,14 @@
       "url": "https://ra.co/events/2513275"
     },
     {
-      "id": "ra:2519529",
-      "title": "Baile da Galecta ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
+      "id": "ra:2520825",
+      "title": "MOOD & Friends",
+      "date": "2026-09-19",
+      "start": "2026-09-19T15:00+02:00",
       "venue": "Benelux BAR",
       "venue_id": "217595",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519529"
+      "url": "https://ra.co/events/2520825"
     }
-  ],
-  "past": []
+  ]
 }

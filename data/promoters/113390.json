@@ -11,6 +11,16 @@
       "venue_id": "221843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
     }
   ],
   "past": [
@@ -29,6 +39,11 @@
     {
       "id": "126327",
       "name": "Tauceti (FR)",
+      "count": 2
+    },
+    {
+      "id": "42046",
+      "name": "Richard Akingbehin",
       "count": 2
     },
     {
@@ -57,6 +72,11 @@
       "count": 1
     },
     {
+      "id": "166126",
+      "name": "Seif Bedour",
+      "count": 1
+    },
+    {
       "id": "68928",
       "name": "Merve",
       "count": 1
@@ -64,16 +84,6 @@
     {
       "id": "4035",
       "name": "Portable",
-      "count": 1
-    },
-    {
-      "id": "60129",
-      "name": "Altinbas",
-      "count": 1
-    },
-    {
-      "id": "97299",
-      "name": "Joline Scheffler",
       "count": 1
     }
   ]

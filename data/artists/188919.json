@@ -1,0 +1,28 @@
+{
+  "id": "188919",
+  "name": "KWEN",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2556882",
+      "title": "ADE Cruise - MINDGAME x Techno & Chill: Birds of Mind, AMÉMÉ, Moojo, Mont Rouge, Meloko & More ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Eivissa Ship",
+      "venue_id": "304713",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556882"
+    },
+    {
+      "id": "ra:2540071",
+      "title": "MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540071"
+    }
+  ],
+  "past": []
+}

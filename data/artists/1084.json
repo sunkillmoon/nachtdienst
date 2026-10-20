@@ -2,7 +2,8 @@
   "id": "1084",
   "name": "Hardline",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490556",
       "title": "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2490556"
     }
-  ],
-  "past": []
+  ]
 }

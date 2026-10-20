@@ -2,7 +2,8 @@
   "id": "56786",
   "name": "Jayda G",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500769",
       "title": "360 Degrees: Jayda G, Danou P & Love Transmission",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2500769"
     }
-  ],
-  "past": []
+  ]
 }

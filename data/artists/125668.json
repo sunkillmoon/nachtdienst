@@ -2,7 +2,28 @@
   "id": "125668",
   "name": "Jarreau Vandal",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2538461",
+      "title": "Bambii - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Parallel",
+      "venue_id": "194493",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538461"
+    },
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
+    }
+  ],
   "past": [
     {
       "id": "ra:2462878",

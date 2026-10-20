@@ -2,7 +2,8 @@
   "id": "28413",
   "name": "Erik Sebastiaan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520825",
       "title": "MOOD & Friends",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520825"
     }
-  ],
-  "past": []
+  ]
 }

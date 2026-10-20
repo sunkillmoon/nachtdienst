@@ -3,16 +3,6 @@
   "name": "Brighter Days",
   "upcoming": [
     {
-      "id": "ra:2449033",
-      "title": "Brighter Days at the Beach",
-      "date": "2026-08-30",
-      "start": "2026-08-30T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2449033"
-    },
-    {
       "id": "ra:2479598",
       "title": "Brighter Days x Life and Death",
       "date": "2026-10-24",
@@ -23,7 +13,18 @@
       "url": "https://ra.co/events/2479598"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
+    }
+  ],
   "top_artists": [
     {
       "id": "54907",
@@ -34,16 +35,6 @@
       "id": "59664",
       "name": "Masalo",
       "count": 2
-    },
-    {
-      "id": "37323",
-      "name": "Palms Trax",
-      "count": 1
-    },
-    {
-      "id": "110084",
-      "name": "Eileen (NL)",
-      "count": 1
     },
     {
       "id": "91976",
@@ -63,6 +54,16 @@
     {
       "id": "107688",
       "name": "Ajuma",
+      "count": 1
+    },
+    {
+      "id": "37323",
+      "name": "Palms Trax",
+      "count": 1
+    },
+    {
+      "id": "110084",
+      "name": "Eileen (NL)",
       "count": 1
     }
   ]

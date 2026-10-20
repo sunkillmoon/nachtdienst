@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2516652",
+      "title": "FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516652"
+    },
+    {
+      "id": "ra:2550277",
+      "title": "AADE: ADEV after",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "OT301",
+      "venue_id": "13028",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550277"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2494547",
       "title": "Dutch Modular Festival",
       "date": "2026-08-29",
@@ -12,9 +34,7 @@
       "venue_id": "55285",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2494547"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478274",
       "title": "Weekend002",

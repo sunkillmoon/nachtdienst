@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2548889",
+      "title": "EAST HOUSE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Firebird Rooftop",
+      "venue_id": "303965",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548889"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493594",
       "title": "SevenEight78",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493594"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2461593",
       "title": "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR ",

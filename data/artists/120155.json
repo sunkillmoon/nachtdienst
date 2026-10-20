@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2523674",
+      "title": "Around Us & Callecat Invites",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523674"
+    },
+    {
       "id": "ra:2475720",
       "title": "RKP presents ADE Showcase",
       "date": "2026-10-23",
@@ -12,6 +22,26 @@
       "venue_id": "89523",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2475720"
+    },
+    {
+      "id": "ra:2532074",
+      "title": "Manual Family Get Together 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532074"
+    },
+    {
+      "id": "ra:2544640",
+      "title": "UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544640"
     }
   ],
   "past": []

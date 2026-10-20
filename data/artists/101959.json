@@ -1,0 +1,28 @@
+{
+  "id": "101959",
+  "name": "Zeynep",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559127",
+      "title": "Agency Mixer 2026 with Oceanic, Manami, Zeynep, Sarkawt Hamad",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559127"
+    },
+    {
+      "id": "ra:2553496",
+      "title": "noclubs presents: the return of yes clubs",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553496"
+    }
+  ],
+  "past": []
+}

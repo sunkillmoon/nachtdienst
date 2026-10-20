@@ -1,7 +1,8 @@
 {
   "id": "138847",
   "name": "Basics Recording",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473482",
       "title": "Madam by Night invites: Basics Recording",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2473482"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "138988",

@@ -14,6 +14,16 @@
       "url": "https://ra.co/events/2403606"
     },
     {
+      "id": "ra:2546719",
+      "title": "The Phatty Factory presents, Fresh Phatty Records showcase / CODE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546719"
+    },
+    {
       "id": "ra:2447959",
       "title": "GASHOUDER presents: Flow by Franky Rizardo [Sold Out]",
       "date": "2026-10-24",
@@ -22,6 +32,16 @@
       "venue_id": "187930",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2447959"
+    },
+    {
+      "id": "ra:2556692",
+      "title": "WAVY At The Church",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556692"
     },
     {
       "id": "ra:2459394",

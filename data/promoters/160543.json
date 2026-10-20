@@ -1,7 +1,8 @@
 {
   "id": "160543",
   "name": "Paul van Rooijen",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2433282",
       "title": "Closer presents Miss Melera Mitch de Klein Thysma",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2433282"
     }
   ],
-  "past": [],
   "top_artists": []
 }

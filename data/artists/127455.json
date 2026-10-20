@@ -4,14 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2520840",
-      "title": "friends. THE FACE",
-      "date": "2026-10-23",
-      "start": "2026-10-23T16:00+02:00",
-      "venue": "Nido Cocktailbar",
-      "venue_id": "301028",
+      "id": "ra:2530845",
+      "title": "Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2520840"
+      "url": "https://ra.co/events/2530845"
+    },
+    {
+      "id": "ra:2563477",
+      "title": "Redbox presents House of Redbox",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563477"
     }
   ],
   "past": []

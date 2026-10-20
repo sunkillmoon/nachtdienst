@@ -1,0 +1,69 @@
+{
+  "id": "194654",
+  "name": "MOVES",
+  "upcoming": [
+    {
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544904"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "141490",
+      "name": "Luke Alessi",
+      "count": 1
+    },
+    {
+      "id": "42613",
+      "name": "Di Chiara Brothers",
+      "count": 1
+    },
+    {
+      "id": "146324",
+      "name": "JÄMO",
+      "count": 1
+    },
+    {
+      "id": "170185",
+      "name": "S3PPA",
+      "count": 1
+    },
+    {
+      "id": "154448",
+      "name": "Freddi",
+      "count": 1
+    },
+    {
+      "id": "151956",
+      "name": "Kara Okay",
+      "count": 1
+    },
+    {
+      "id": "151923",
+      "name": "Emvae",
+      "count": 1
+    },
+    {
+      "id": "145217",
+      "name": "Moxes",
+      "count": 1
+    },
+    {
+      "id": "126232",
+      "name": "Stef Davidse",
+      "count": 1
+    },
+    {
+      "id": "171453",
+      "name": "Cici Daze",
+      "count": 1
+    }
+  ]
+}

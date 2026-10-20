@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2537595",
+      "title": "Tale of Bus ADE - 4 year anniversary",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537595"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2491494",
       "title": "Club Night",
       "date": "2026-10-02",
@@ -13,6 +25,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2491494"
     }
-  ],
-  "past": []
+  ]
 }

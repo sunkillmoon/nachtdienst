@@ -1,0 +1,109 @@
+{
+  "id": "168791",
+  "name": "Beskar Bookings",
+  "upcoming": [
+    {
+      "id": "ra:2529930",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529930"
+    },
+    {
+      "id": "ra:2529940",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529940"
+    },
+    {
+      "id": "ra:2529944",
+      "title": "BAOBAB at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529944"
+    },
+    {
+      "id": "ra:2529943",
+      "title": "ZU HAUSE at ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "CREA",
+      "venue_id": "30676",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529943"
+    },
+    {
+      "id": "ra:2529942",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529942"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183630",
+      "name": "VILBØ",
+      "count": 2
+    },
+    {
+      "id": "137442",
+      "name": "Judoc",
+      "count": 2
+    },
+    {
+      "id": "187785",
+      "name": "aksendo",
+      "count": 2
+    },
+    {
+      "id": "171533",
+      "name": "Secret Soda",
+      "count": 2
+    },
+    {
+      "id": "171309",
+      "name": "STVNS",
+      "count": 2
+    },
+    {
+      "id": "182097",
+      "name": "Jana Vitiligo",
+      "count": 2
+    },
+    {
+      "id": "179980",
+      "name": "Mum & Dad (BE)",
+      "count": 2
+    },
+    {
+      "id": "171327",
+      "name": "Kevin Kinembe",
+      "count": 2
+    },
+    {
+      "id": "83114",
+      "name": "Major K",
+      "count": 1
+    },
+    {
+      "id": "152201",
+      "name": "Doreen Van Steen",
+      "count": 1
+    }
+  ]
+}

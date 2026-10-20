@@ -2,7 +2,8 @@
   "id": "118963",
   "name": "Wodda",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517605",
       "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
@@ -12,9 +13,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517605"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2474154",
       "title": "Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK)",

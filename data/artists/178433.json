@@ -5,13 +5,23 @@
   "upcoming": [
     {
       "id": "ra:2406777",
-      "title": "ADE 2026 - Underground Industrial Session",
+      "title": "ADE 2026 - Wasted Crowd Control Label Night ",
       "date": "2026-10-23",
       "start": "2026-10-23T22:00+02:00",
-      "venue": "TBA",
-      "venue_id": "203299",
+      "venue": "TBA - Amsterdam Noord",
+      "venue_id": "303803",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2406777"
+    },
+    {
+      "id": "ra:2547248",
+      "title": "NACHTVORM ADE 2026 After Party",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "TBA - NDSM Areal",
+      "venue_id": "304284",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547248"
     }
   ],
   "past": []

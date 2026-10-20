@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2562136",
+      "title": "THE LOFT presents: Kirollus [All Night] [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562136"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2490658",
       "title": "Kirollus [all day long]",
       "date": "2026-09-06",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490658"
     }
-  ],
-  "past": []
+  ]
 }

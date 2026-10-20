@@ -1,7 +1,8 @@
 {
   "id": "136615",
   "name": "KABUL à GoGo",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2502004",
       "title": "Club Season Opening ✧ KABUL à GoGo x ZORA ✦",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2502004"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "148687",

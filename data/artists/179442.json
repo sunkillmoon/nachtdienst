@@ -1,0 +1,28 @@
+{
+  "id": "179442",
+  "name": "DJ Dazy",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2551521",
+      "title": "True House Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Bar22",
+      "venue_id": "50372",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551521"
+    },
+    {
+      "id": "ra:2539497",
+      "title": "ADE: Sounds From the Underground",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539497"
+    }
+  ],
+  "past": []
+}

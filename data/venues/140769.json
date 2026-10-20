@@ -4,7 +4,8 @@
   "area": "Rotterdam",
   "lat": 50.849039,
   "lng": 5.690508,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519856",
       "title": "Festival Downtown",
@@ -15,6 +16,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2519856"
     }
-  ],
-  "past": []
+  ]
 }

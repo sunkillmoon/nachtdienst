@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2550970",
+      "title": "VERKNIPT ADE Special Saturday",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Afas Live",
+      "venue_id": "140102",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550970"
+    },
+    {
+      "id": "ra:2531858",
+      "title": "Toffler presents Pawlowski",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2531858"
+    },
+    {
       "id": "ra:2515754",
       "title": "KOMPLOTT",
       "date": "2026-11-21",

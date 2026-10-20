@@ -1,0 +1,39 @@
+{
+  "id": "189815",
+  "name": "Folder Records",
+  "upcoming": [
+    {
+      "id": "ra:2551392",
+      "title": "Folder Take Over ADE with Parallelle (live), SDK, Laura De Greef",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "West Indish Huis",
+      "venue_id": "304085",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551392"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "68911",
+      "name": "Parallelle",
+      "count": 1
+    },
+    {
+      "id": "82715",
+      "name": "Simone de Kunovich",
+      "count": 1
+    },
+    {
+      "id": "77529",
+      "name": "Laura De Greef",
+      "count": 1
+    },
+    {
+      "id": "68916",
+      "name": "RAMMÖ",
+      "count": 1
+    }
+  ]
+}

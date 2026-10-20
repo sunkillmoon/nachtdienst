@@ -1,7 +1,8 @@
 {
   "id": "118718",
   "name": "GALEJ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498352",
       "title": "GALEJ",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2498352"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "183378",

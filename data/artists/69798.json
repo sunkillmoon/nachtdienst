@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2511535",
+      "title": "SLPFNK X THE OTHERSIDE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511535"
+    },
+    {
+      "id": "ra:2539771",
+      "title": "Primal Instinct with Chlär & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539771"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2452089",
       "title": "Patio - Summer Closing",
       "date": "2026-09-19",
@@ -13,18 +35,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2452089"
     },
-    {
-      "id": "ra:2511535",
-      "title": "SLPFNK X THE OTHERSIDE",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "THE OTHER SIDE",
-      "venue_id": "202249",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511535"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2487320",
       "title": "SEASON FINALE",

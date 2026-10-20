@@ -1,0 +1,24 @@
+{
+  "id": "160449",
+  "name": "PIVCLUB",
+  "upcoming": [
+    {
+      "id": "ra:2563172",
+      "title": "PIV ADE - Masterclass by Dennis Quin",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TBA - A LAB Amsterdam",
+      "venue_id": "305438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563172"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "65929",
+      "name": "Dennis Quin",
+      "count": 1
+    }
+  ]
+}

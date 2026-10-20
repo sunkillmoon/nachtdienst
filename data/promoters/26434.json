@@ -1,7 +1,8 @@
 {
   "id": "26434",
   "name": "NTS Radio",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516479",
       "title": "NTS Amsterdam",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2516479"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "183376",

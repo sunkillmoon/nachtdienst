@@ -14,6 +14,26 @@
       "venue_id": "202595",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510431"
+    },
+    {
+      "id": "ra:2545096",
+      "title": "Audioholics ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545096"
+    },
+    {
+      "id": "ra:2531903",
+      "title": "Toy Tonics ADE Jam",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531903"
     }
   ],
   "past": [

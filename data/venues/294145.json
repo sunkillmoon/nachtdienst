@@ -4,7 +4,18 @@
   "area": "Rotterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2546494",
+      "title": "C001",
+      "date": "2026-10-31",
+      "start": "2026-10-31T14:00+01:00",
+      "venue": "Shunter",
+      "venue_id": "294145",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2546494"
+    }
+  ],
   "past": [
     {
       "id": "ra:2466330",

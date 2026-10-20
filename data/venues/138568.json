@@ -4,7 +4,28 @@
   "area": "Amsterdam",
   "lat": 52.372688,
   "lng": 4.878902,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2551874",
+      "title": "MITA ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551874"
+    },
+    {
+      "id": "ra:2556457",
+      "title": "Electric Escape & Ambrozic Productions present: Converge",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Chin Chin Club",
+      "venue_id": "138568",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556457"
+    }
+  ],
   "past": [
     {
       "id": "ra:2479728",

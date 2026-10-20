@@ -3,94 +3,14 @@
   "name": "We Build Events",
   "upcoming": [
     {
-      "id": "ra:2477399",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-27",
-      "start": "2026-08-27T23:00+02:00",
+      "id": "ra:2530541",
+      "title": "YYY Music ADE Takeover",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
       "venue": "John Doe",
       "venue_id": "109140",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2477399"
-    },
-    {
-      "id": "ra:2503313",
-      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
-      "date": "2026-08-31",
-      "start": "2026-08-31T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2503313"
-    },
-    {
-      "id": "ra:2519115",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-03",
-      "start": "2026-09-03T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519115"
-    },
-    {
-      "id": "ra:2519116",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-10",
-      "start": "2026-09-10T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519116"
-    },
-    {
-      "id": "ra:2519117",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-17",
-      "start": "2026-09-17T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519117"
-    },
-    {
-      "id": "ra:2519119",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-24",
-      "start": "2026-09-24T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519119"
-    },
-    {
-      "id": "ra:2519120",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-01",
-      "start": "2026-10-01T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519120"
-    },
-    {
-      "id": "ra:2519121",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-08",
-      "start": "2026-10-08T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519121"
-    },
-    {
-      "id": "ra:2519122",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519122"
+      "url": "https://ra.co/events/2530541"
     },
     {
       "id": "ra:2519124",
@@ -101,6 +21,16 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519124"
+    },
+    {
+      "id": "ra:2524672",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-10-26",
+      "start": "2026-10-26T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524672"
     },
     {
       "id": "ra:2519125",
@@ -114,6 +44,96 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2519122",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-15",
+      "start": "2026-10-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519122"
+    },
+    {
+      "id": "ra:2519121",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-08",
+      "start": "2026-10-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519121"
+    },
+    {
+      "id": "ra:2519120",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-01",
+      "start": "2026-10-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519120"
+    },
+    {
+      "id": "ra:2519119",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-24",
+      "start": "2026-09-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519119"
+    },
+    {
+      "id": "ra:2519117",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-17",
+      "start": "2026-09-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519117"
+    },
+    {
+      "id": "ra:2519116",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-10",
+      "start": "2026-09-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519116"
+    },
+    {
+      "id": "ra:2519115",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-03",
+      "start": "2026-09-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519115"
+    },
+    {
+      "id": "ra:2503313",
+      "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
+      "date": "2026-08-31",
+      "start": "2026-08-31T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503313"
+    },
+    {
+      "id": "ra:2477399",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477399"
+    },
     {
       "id": "ra:2503311",
       "title": "Hard Mondays Amsterdam - HARD TECHNO NIGHT",
@@ -234,7 +254,12 @@
     {
       "id": "131240",
       "name": "NO1ELSE",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "22371",
+      "name": "DJ Dextro",
+      "count": 2
     },
     {
       "id": "89568",
@@ -242,8 +267,23 @@
       "count": 2
     },
     {
+      "id": "136687",
+      "name": "Miguel Peres",
+      "count": 1
+    },
+    {
+      "id": "58990",
+      "name": "Myne",
+      "count": 1
+    },
+    {
       "id": "125544",
       "name": "A.L.A.E",
+      "count": 1
+    },
+    {
+      "id": "155461",
+      "name": "CESAR ALMENA",
       "count": 1
     },
     {
@@ -252,28 +292,8 @@
       "count": 1
     },
     {
-      "id": "22371",
-      "name": "DJ Dextro",
-      "count": 1
-    },
-    {
       "id": "4730",
       "name": "Electric Rescue",
-      "count": 1
-    },
-    {
-      "id": "3406",
-      "name": "Industrialyzer",
-      "count": 1
-    },
-    {
-      "id": "21842",
-      "name": "Durcheinander",
-      "count": 1
-    },
-    {
-      "id": "20903",
-      "name": "TWR72",
       "count": 1
     }
   ]

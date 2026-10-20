@@ -4,7 +4,8 @@
   "area": "All",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519049",
       "title": "TunnelBeats #4",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2519049"
     }
-  ],
-  "past": []
+  ]
 }

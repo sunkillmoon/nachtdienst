@@ -2,7 +2,28 @@
   "id": "137301",
   "name": "Malou (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500670"
+    },
     {
       "id": "ra:2373343",
       "title": "Het Festival vol. 2",
@@ -22,27 +43,6 @@
       "venue_id": "30689",
       "area": "The Hague",
       "url": "https://ra.co/events/2399040"
-    },
-    {
-      "id": "ra:2500670",
-      "title": "RADION Season Opener",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2500670"
-    },
-    {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
     }
-  ],
-  "past": []
+  ]
 }

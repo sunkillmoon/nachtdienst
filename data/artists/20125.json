@@ -1,0 +1,28 @@
+{
+  "id": "20125",
+  "name": "Fantastic Man",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2529465",
+      "title": "Private Hearts Club ADE '26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Café Soleil Amsterdam",
+      "venue_id": "277577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529465"
+    },
+    {
+      "id": "ra:2561205",
+      "title": "Fantastic Man, Jeff Solo",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:59+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561205"
+    }
+  ],
+  "past": []
+}

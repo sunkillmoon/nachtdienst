@@ -1,0 +1,29 @@
+{
+  "id": "196262",
+  "name": "Melodic Beats",
+  "upcoming": [
+    {
+      "id": "ra:2564254",
+      "title": "Melodic Beats x Beats & Spritz",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Spritz Bar Amsterdam",
+      "venue_id": "305608",
+      "area": "All",
+      "url": "https://ra.co/events/2564254"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "115896",
+      "name": "SOROUSH",
+      "count": 1
+    },
+    {
+      "id": "181802",
+      "name": "DAN:EZ",
+      "count": 1
+    }
+  ]
+}

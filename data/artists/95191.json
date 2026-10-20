@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2464483",
-      "title": "Audio Obscura Festival [By Night]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2464483"
-    },
-    {
-      "id": "ra:2515715",
-      "title": "Colorado Charlie - Season Closing Day 1 (SOLD OUT)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2515715"
-    },
-    {
       "id": "ra:2455370",
       "title": "Eastenderz x Loveland - ADE 2026",
       "date": "2026-10-22",
@@ -45,7 +15,7 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
@@ -65,6 +35,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2515715",
+      "title": "Colorado Charlie - Season Closing Day 1 (SOLD OUT)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515715"
+    },
+    {
+      "id": "ra:2464483",
+      "title": "Audio Obscura Festival [By Night]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2464483"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

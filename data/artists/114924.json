@@ -4,24 +4,36 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2507666",
-      "title": "Love Transmission with Ajuma",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Cult=us",
-      "venue_id": "255373",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2507666"
+      "id": "ra:2470639",
+      "title": "ADE - Rush Hour [sold out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2470639"
     },
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
+      "id": "ra:2538607",
+      "title": "Doka Studio with Coco Maria - AYS",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Doka",
+      "venue_id": "81540",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
+      "url": "https://ra.co/events/2538607"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2519567",
+      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519567"
     },
     {
       "id": "ra:2500769",
@@ -34,17 +46,25 @@
       "url": "https://ra.co/events/2500769"
     },
     {
-      "id": "ra:2519567",
-      "title": "Sissi's Friday with SWAY, Mowgli & Ays",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "SISSI'S Amsterdam",
-      "venue_id": "255755",
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2519567"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2507666",
+      "title": "Love Transmission with Ajuma",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Cult=us",
+      "venue_id": "255373",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2507666"
+    },
     {
       "id": "ra:2385640",
       "title": "In Het Zand Festival",

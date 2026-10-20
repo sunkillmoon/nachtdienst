@@ -4,6 +4,48 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2532205",
+      "title": "Rossi.HOME//GRXWN [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532205"
+    },
+    {
+      "id": "ra:2464111",
+      "title": "GASHOUDER presents: Sammy Virji Curates [Sold Out]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "GASHOUDER",
+      "venue_id": "187930",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464111"
+    },
+    {
+      "id": "ra:2466462",
+      "title": "Closing Party with TRIP",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466462"
+    },
+    {
+      "id": "ra:2563297",
+      "title": "The Loft Closing Party x Trip Ibiza",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563297"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2395821",
       "title": "Wooferland festival 2026",
       "date": "2026-08-29",
@@ -13,18 +55,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
     },
-    {
-      "id": "ra:2464111",
-      "title": "GASHOUDER presents: Sammy Virji Curates",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "GASHOUDER",
-      "venue_id": "187930",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464111"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2320346",
       "title": "No Art Closing Festival",

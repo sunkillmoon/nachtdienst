@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.02,
   "lng": 5.05,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519310",
       "title": "The Reboot",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2519310"
     }
-  ],
-  "past": []
+  ]
 }

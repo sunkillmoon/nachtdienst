@@ -4,15 +4,57 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
+      "id": "ra:2516863",
+      "title": "Unreleased: The Church ADE with ARODES, Mahmut Orhan, Rivo, Rodriguez Jr ",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Hotel Arena",
+      "venue_id": "1702",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516863"
     },
+    {
+      "id": "ra:2540071",
+      "title": "MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T09:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540071"
+    },
+    {
+      "id": "ra:2534233",
+      "title": "The Gardens of Babylon: The Seekers of Light - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534233"
+    },
+    {
+      "id": "ra:2563893",
+      "title": "THE ELECTRONIC MUSIC BOOK - LAUNCH",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Concerto Recordstore",
+      "venue_id": "149748",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563893"
+    },
+    {
+      "id": "ra:2531887",
+      "title": "Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 [ SOLD OUT ]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531887"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2517573",
       "title": "NOXA x ADATB presents: Francis Mercier",
@@ -22,9 +64,17 @@
       "venue_id": "189039",
       "area": "All",
       "url": "https://ra.co/events/2517573"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2504931",
       "title": "Collé All Night Long",

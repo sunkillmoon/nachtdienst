@@ -1,7 +1,8 @@
 {
   "id": "187971",
   "name": "Baron Collective",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517618",
       "title": "Baron Collective",
@@ -11,9 +12,7 @@
       "venue_id": "300653",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517618"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2454666",
       "title": "Baron Collective",

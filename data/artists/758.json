@@ -2,7 +2,8 @@
   "id": "758",
   "name": "Dixon",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471234",
       "title": "Dixon b2b Jimi Jules + Gizem",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471234"
     }
-  ],
-  "past": []
+  ]
 }

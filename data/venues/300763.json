@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.36,
   "lng": 4.91,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518581",
       "title": "Soirée of Butoh",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518581"
     }
-  ],
-  "past": []
+  ]
 }

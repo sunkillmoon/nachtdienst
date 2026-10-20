@@ -1,0 +1,28 @@
+{
+  "id": "183230",
+  "name": "Mr.Lando",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2531051",
+      "title": "The Early Shift",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531051"
+    },
+    {
+      "id": "ra:2560240",
+      "title": "GOT.DRIP. invites Bass Archipelago",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560240"
+    }
+  ],
+  "past": []
+}

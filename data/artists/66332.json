@@ -2,7 +2,8 @@
   "id": "66332",
   "name": "Nico Morano",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473487",
       "title": "Madam by Night invites: WE ARE ICONYC",
@@ -12,9 +13,7 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473487"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501585",
       "title": "The Boutique Dunes of Babylon",

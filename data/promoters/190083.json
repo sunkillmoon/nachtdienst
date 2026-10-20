@@ -1,7 +1,8 @@
 {
   "id": "190083",
   "name": "Frenquency ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2484091",
       "title": "Alteration vol. 6",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2484091"
     }
   ],
-  "past": [],
   "top_artists": []
 }

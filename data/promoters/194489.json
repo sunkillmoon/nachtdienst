@@ -1,0 +1,69 @@
+{
+  "id": "194489",
+  "name": "PRODUCHERTZ.COM",
+  "upcoming": [
+    {
+      "id": "ra:2542745",
+      "title": "PRODUCHERTZ ADE POP-UP SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T10:00+02:00",
+      "venue": "Ruimte 59.61",
+      "venue_id": "303324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542745"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "150954",
+      "name": "AELVA K",
+      "count": 1
+    },
+    {
+      "id": "77553",
+      "name": "Alex Micca",
+      "count": 1
+    },
+    {
+      "id": "149853",
+      "name": "Caterina Carrera",
+      "count": 1
+    },
+    {
+      "id": "116682",
+      "name": "DA SEYKO",
+      "count": 1
+    },
+    {
+      "id": "126654",
+      "name": "Karlheinz",
+      "count": 1
+    },
+    {
+      "id": "107933",
+      "name": "Luna Lucci",
+      "count": 1
+    },
+    {
+      "id": "33910",
+      "name": "Man With No Shadow",
+      "count": 1
+    },
+    {
+      "id": "139617",
+      "name": "OLEA",
+      "count": 1
+    },
+    {
+      "id": "184850",
+      "name": "Paxtech",
+      "count": 1
+    },
+    {
+      "id": "8836",
+      "name": "Sisko Electrofanatik",
+      "count": 1
+    }
+  ]
+}

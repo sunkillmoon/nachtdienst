@@ -1,0 +1,20 @@
+{
+  "id": "304284",
+  "name": "TBA - NDSM Areal",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2547248",
+      "title": "NACHTVORM ADE 2026 After Party",
+      "date": "2026-10-24",
+      "start": "2026-10-25T06:00+01:00",
+      "venue": "TBA - NDSM Areal",
+      "venue_id": "304284",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547248"
+    }
+  ],
+  "past": []
+}

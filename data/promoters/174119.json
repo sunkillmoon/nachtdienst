@@ -1,0 +1,39 @@
+{
+  "id": "174119",
+  "name": "Modulogue",
+  "upcoming": [
+    {
+      "id": "ra:2533538",
+      "title": "Modulogue",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:30+02:00",
+      "venue": "Volta",
+      "venue_id": "103242",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533538"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "171999",
+      "name": "Paul Ray",
+      "count": 1
+    },
+    {
+      "id": "103034",
+      "name": "Vera Grace",
+      "count": 1
+    },
+    {
+      "id": "174017",
+      "name": "PERAMORE",
+      "count": 1
+    },
+    {
+      "id": "172323",
+      "name": "Torc",
+      "count": 1
+    }
+  ]
+}

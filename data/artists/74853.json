@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2532950",
+      "title": "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532950"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2507742",
       "title": "TILT x Syntax Error",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507742"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2403643",
       "title": "Paradigm Festival",

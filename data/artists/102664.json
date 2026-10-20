@@ -5,13 +5,33 @@
   "upcoming": [
     {
       "id": "ra:2516863",
-      "title": "UNRELEASED pres. The Church - ADE Edition",
+      "title": "Unreleased: The Church ADE with ARODES, Mahmut Orhan, Rivo, Rodriguez Jr ",
       "date": "2026-10-21",
       "start": "2026-10-21T22:00+02:00",
       "venue": "Hotel Arena",
       "venue_id": "1702",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516863"
+    },
+    {
+      "id": "ra:2534654",
+      "title": "THE TRAM by Unreleased Records",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "GVB Remise Lekstraat",
+      "venue_id": "305610",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534654"
+    },
+    {
+      "id": "ra:2534657",
+      "title": "THE CRANE by Unreleased Recods",
+      "date": "2026-10-24",
+      "start": "2026-10-24T08:00+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534657"
     },
     {
       "id": "ra:2474432",

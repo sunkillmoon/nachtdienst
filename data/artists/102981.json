@@ -4,13 +4,33 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2442667",
+      "title": "Max Dean & Wavy present: NEXUP [ADE]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Taets Art and Event Park",
+      "venue_id": "71387",
+      "area": "All",
+      "url": "https://ra.co/events/2442667"
+    },
+    {
+      "id": "ra:2556692",
+      "title": "WAVY At The Church",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556692"
+    },
+    {
       "id": "ra:2479148",
       "title": "Awakenings ADE - Prophecy by Prospa",
       "date": "2026-10-25",
       "start": "2026-10-25T23:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479148"
     }
   ],

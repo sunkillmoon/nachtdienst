@@ -3,6 +3,18 @@
   "name": "Basic Grooves",
   "upcoming": [
     {
+      "id": "ra:2541042",
+      "title": "Basic Grooves",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Muziekcentrum Enschede",
+      "venue_id": "174231",
+      "area": "All",
+      "url": "https://ra.co/events/2541042"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -13,8 +25,17 @@
       "url": "https://ra.co/events/2373930"
     }
   ],
-  "past": [],
   "top_artists": [
+    {
+      "id": "137240",
+      "name": "HUJUS",
+      "count": 2
+    },
+    {
+      "id": "112905",
+      "name": "ÜBERKIKZ",
+      "count": 1
+    },
     {
       "id": "67356",
       "name": "999999999",
@@ -53,16 +74,6 @@
     {
       "id": "50379",
       "name": "Locklead",
-      "count": 1
-    },
-    {
-      "id": "76212",
-      "name": "Cynthia Spiering",
-      "count": 1
-    },
-    {
-      "id": "76574",
-      "name": "Daria Kolosova",
       "count": 1
     }
   ]

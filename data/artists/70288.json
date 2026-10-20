@@ -12,6 +12,26 @@
       "venue_id": "93679",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481566"
+    },
+    {
+      "id": "ra:2557857",
+      "title": "M0RN1NG 4FT3R",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "301377",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557857"
+    },
+    {
+      "id": "ra:2533645",
+      "title": "BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T21:00+01:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533645"
     }
   ],
   "past": [

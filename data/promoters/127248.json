@@ -1,7 +1,8 @@
 {
   "id": "127248",
   "name": "Festival Downtown",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519856",
       "title": "Festival Downtown",
@@ -11,9 +12,7 @@
       "venue_id": "140769",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2519856"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2498712",
       "title": "RDBLCK x DWNTWN at Litterbox",
@@ -26,6 +25,36 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "173203",
+      "name": "Yucky",
+      "count": 1
+    },
+    {
+      "id": "130215",
+      "name": "Jan Koster",
+      "count": 1
+    },
+    {
+      "id": "118891",
+      "name": "LE KACANG",
+      "count": 1
+    },
+    {
+      "id": "116918",
+      "name": "CHALÉ",
+      "count": 1
+    },
+    {
+      "id": "158606",
+      "name": "ROMSY",
+      "count": 1
+    },
+    {
+      "id": "166856",
+      "name": "Itz3bby",
+      "count": 1
+    },
     {
       "id": "154128",
       "name": "Poppa Jax",
@@ -44,36 +73,6 @@
     {
       "id": "185192",
       "name": "River (2)",
-      "count": 1
-    },
-    {
-      "id": "17621",
-      "name": "DJ Spinn",
-      "count": 1
-    },
-    {
-      "id": "112928",
-      "name": "Slimfit",
-      "count": 1
-    },
-    {
-      "id": "175064",
-      "name": "Jolani Jhones",
-      "count": 1
-    },
-    {
-      "id": "148920",
-      "name": "CHAMOS",
-      "count": 1
-    },
-    {
-      "id": "131385",
-      "name": "Kizzy",
-      "count": 1
-    },
-    {
-      "id": "176560",
-      "name": "INEZGANE RECORDS",
       "count": 1
     }
   ]

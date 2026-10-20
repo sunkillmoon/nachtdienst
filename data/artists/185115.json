@@ -4,8 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2500167",
+      "title": "Let Techno Unite ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2500167"
+    },
+    {
       "id": "ra:2478437",
-      "title": "ECHOVERSE",
+      "title": "[CANCELLED] ECHOVERSE",
       "date": "2026-10-23",
       "start": "2026-10-23T17:00+02:00",
       "venue": "TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam",

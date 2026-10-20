@@ -1,0 +1,28 @@
+{
+  "id": "125783",
+  "name": "ARAKAZA",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2558103",
+      "title": "Kumata x New World Dysorder Amsterdam",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558103"
+    },
+    {
+      "id": "ra:2549292",
+      "title": "…",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2549292"
+    }
+  ],
+  "past": []
+}

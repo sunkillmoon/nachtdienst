@@ -6,14 +6,126 @@
   "lng": 4.871839,
   "upcoming": [
     {
-      "id": "ra:2488594",
-      "title": "Flo Masse • Kyra Khaldi • Same Faces",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2532185",
+      "title": "Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
       "venue": "Radio Radio",
       "venue_id": "156530",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2488594"
+      "url": "https://ra.co/events/2532185"
+    },
+    {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    },
+    {
+      "id": "ra:2532930",
+      "title": "ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532930"
+    },
+    {
+      "id": "ra:2530827",
+      "title": "ADE: Baskèts x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530827"
+    },
+    {
+      "id": "ra:2560571",
+      "title": "ADE: CLUB LAB x DJ Mag: JAEL, Cinnaman, ARMANA KHAN, Té de Gember, VKANG, Valentina",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560571"
+    },
+    {
+      "id": "ra:2532995",
+      "title": "ADE:  Identified Patient b2b mad miran — All Day Long",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532995"
+    },
+    {
+      "id": "ra:2532950",
+      "title": "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532950"
+    },
+    {
+      "id": "ra:2533024",
+      "title": "ADE: LITTLEBIG with Marie Montexier b2b KiNK • George FitzGerald",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533024"
+    },
+    {
+      "id": "ra:2512816",
+      "title": "amore x radio radio | ADE night closing (12h)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:59+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512816"
+    },
+    {
+      "id": "ra:2538683",
+      "title": "Moody Mehran • Miguel De Bois",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538683"
+    },
+    {
+      "id": "ra:2538695",
+      "title": "I-F • Intergalactic Gary • Eileen",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538695"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2509095",
+      "title": "Ecclipse",
+      "date": "2026-09-19",
+      "start": "2026-09-19T16:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509095"
     },
     {
       "id": "ra:2488580",
@@ -26,27 +138,15 @@
       "url": "https://ra.co/events/2488580"
     },
     {
-      "id": "ra:2509095",
-      "title": "Ecclipse",
-      "date": "2026-09-19",
-      "start": "2026-09-19T16:00+02:00",
+      "id": "ra:2488594",
+      "title": "Flo Masse • Kyra Khaldi • Same Faces",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
       "venue": "Radio Radio",
       "venue_id": "156530",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2509095"
+      "url": "https://ra.co/events/2488594"
     },
-    {
-      "id": "ra:2512816",
-      "title": "amore x radio radio | ADE night closing (12h)",
-      "date": "2026-10-25",
-      "start": "2026-10-25T23:59+01:00",
-      "venue": "Radio Radio",
-      "venue_id": "156530",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512816"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2492123",
       "title": "DJ Life • Moxes • lizz.e",

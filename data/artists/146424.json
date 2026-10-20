@@ -1,0 +1,28 @@
+{
+  "id": "146424",
+  "name": "Lola Rossa",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2564854",
+      "title": "Houseyounite Drop&Connect",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Grand Café Heineken Hoek",
+      "venue_id": "83923",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564854"
+    },
+    {
+      "id": "ra:2564850",
+      "title": "Houseyounite X House of Noa",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "House of Noa",
+      "venue_id": "299375",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564850"
+    }
+  ],
+  "past": []
+}

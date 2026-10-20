@@ -1,7 +1,8 @@
 {
   "id": "191165",
   "name": "Spades.Amsterdam",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498896",
       "title": "SPADES 12 HOURS",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2498896"
     }
   ],
-  "past": [],
   "top_artists": []
 }

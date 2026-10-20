@@ -1,0 +1,20 @@
+{
+  "id": "305265",
+  "name": "Margarita's Bar & Kitchen",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2561614",
+      "title": "PURAxVIDA X Out to Sea Events **ADE POP UP**",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Margarita's Bar & Kitchen",
+      "venue_id": "305265",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561614"
+    }
+  ],
+  "past": []
+}

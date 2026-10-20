@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2476052",
-      "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "BASIS",
-      "venue_id": "101766",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2476052"
+      "id": "ra:2491610",
+      "title": "Somov at BAJES - BLOK K (ADE)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491610"
     },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2452089",
       "title": "Patio - Summer Closing",
@@ -24,15 +36,14 @@
       "url": "https://ra.co/events/2452089"
     },
     {
-      "id": "ra:2491610",
-      "title": "Somov at Levenslang (ADE)",
-      "date": "2026-10-22",
-      "start": "2026-10-22T15:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491610"
+      "id": "ra:2476052",
+      "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "BASIS",
+      "venue_id": "101766",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2476052"
     }
-  ],
-  "past": []
+  ]
 }

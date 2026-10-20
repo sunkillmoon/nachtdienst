@@ -1,0 +1,24 @@
+{
+  "id": "166052",
+  "name": "KAZI",
+  "upcoming": [
+    {
+      "id": "ra:2554292",
+      "title": "KAZI (كازي) X LEVITATE presents: Future Club from The Subcontinent",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554292"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "141603",
+      "name": "Lacuna",
+      "count": 1
+    }
+  ]
+}

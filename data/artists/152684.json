@@ -4,34 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
+      "id": "ra:2562522",
+      "title": "Club Hacienda × STRAAL (ADE)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562522"
     },
     {
-      "id": "ra:2281919",
-      "title": "A Day at the Park Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Kralingse Bos",
-      "venue_id": "89597",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2281919"
-    },
-    {
-      "id": "ra:2515715",
-      "title": "Colorado Charlie - Season Closing Day 1 (SOLD OUT)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2515715"
+      "id": "ra:2557981",
+      "title": "RAPSODIA x ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557981"
     },
     {
       "id": "ra:2470324",
@@ -45,6 +35,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2515715",
+      "title": "Colorado Charlie - Season Closing Day 1 (SOLD OUT)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515715"
+    },
+    {
+      "id": "ra:2281919",
+      "title": "A Day at the Park Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Kralingse Bos",
+      "venue_id": "89597",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2281919"
+    },
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
     {
       "id": "ra:2466207",
       "title": "TOFFLER presents LEYO and friends",

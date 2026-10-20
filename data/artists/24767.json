@@ -2,7 +2,8 @@
   "id": "24767",
   "name": "Tonto",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514754",
       "title": " KRUISPUNT 3 JAAR",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514754"
     }
-  ],
-  "past": []
+  ]
 }

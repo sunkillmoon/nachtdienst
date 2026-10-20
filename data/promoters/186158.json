@@ -1,0 +1,54 @@
+{
+  "id": "186158",
+  "name": "Undergrowth",
+  "upcoming": [
+    {
+      "id": "ra:2550544",
+      "title": "Fleur Shore presents: Undergrowth x PILOT x LabelWorx",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550544"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "101384",
+      "name": "Fleur Shore",
+      "count": 1
+    },
+    {
+      "id": "6467",
+      "name": "Cinthie",
+      "count": 1
+    },
+    {
+      "id": "11440",
+      "name": "Voigtmann",
+      "count": 1
+    },
+    {
+      "id": "173108",
+      "name": "Ryan Nicholls",
+      "count": 1
+    },
+    {
+      "id": "136891",
+      "name": "Candidate",
+      "count": 1
+    },
+    {
+      "id": "183470",
+      "name": "Julian Wijn",
+      "count": 1
+    },
+    {
+      "id": "109411",
+      "name": "David Maters",
+      "count": 1
+    }
+  ]
+}

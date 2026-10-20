@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
-    },
-    {
       "id": "ra:2449895",
       "title": "GASHOUDER presents: Armin van Buuren & Benwal [Sold Out]",
       "date": "2026-10-21",
@@ -40,7 +30,7 @@
       "start": "2026-10-25T14:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479118"
     },
     {
@@ -55,6 +45,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2357461",
       "title": "Orbit Festival 2026",

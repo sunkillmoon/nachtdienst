@@ -2,7 +2,8 @@
   "id": "137503",
   "name": "Ras Paulus",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503247",
       "title": "Kadinsky Sessions 075",
@@ -12,9 +13,7 @@
       "venue_id": "221828",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503247"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487393",
       "title": "Kadinsky Sessions 074",

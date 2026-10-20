@@ -1,0 +1,20 @@
+{
+  "id": "304931",
+  "name": "Fret",
+  "area": "Amsterdam",
+  "lat": 52.39,
+  "lng": 4.84,
+  "upcoming": [
+    {
+      "id": "ra:2558264",
+      "title": "SHDW & Triple Vision present: Mutual Rytm Community Meet-Up [Free Entry]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T15:00+02:00",
+      "venue": "Fret",
+      "venue_id": "304931",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558264"
+    }
+  ],
+  "past": []
+}

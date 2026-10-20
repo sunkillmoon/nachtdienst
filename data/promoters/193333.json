@@ -1,0 +1,69 @@
+{
+  "id": "193333",
+  "name": "Elypsia Music Events",
+  "upcoming": [
+    {
+      "id": "ra:2528533",
+      "title": "ADE - Four Decades of Detroit Techno Vol. 1 - Pre-Release Event",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Q-Factory",
+      "venue_id": "107352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528533"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "299",
+      "name": "Juan Atkins",
+      "count": 1
+    },
+    {
+      "id": "929",
+      "name": "Octave One",
+      "count": 1
+    },
+    {
+      "id": "3044",
+      "name": "Terrence Dixon",
+      "count": 1
+    },
+    {
+      "id": "1760",
+      "name": "Kenny Larkin",
+      "count": 1
+    },
+    {
+      "id": "76440",
+      "name": "Deg",
+      "count": 1
+    },
+    {
+      "id": "40866",
+      "name": "Alinka",
+      "count": 1
+    },
+    {
+      "id": "678",
+      "name": "DJ Pierre",
+      "count": 1
+    },
+    {
+      "id": "85115",
+      "name": "CEM3340",
+      "count": 1
+    },
+    {
+      "id": "117043",
+      "name": "Dimitri K",
+      "count": 1
+    },
+    {
+      "id": "7701",
+      "name": "ISIS",
+      "count": 1
+    }
+  ]
+}

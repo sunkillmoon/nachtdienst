@@ -4,46 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
-    {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
-    },
-    {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
-      "id": "ra:2515716",
-      "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
-      "date": "2026-09-26",
-      "start": "2026-09-26T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2515716"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -80,7 +40,7 @@
       "start": "2026-10-25T23:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479148"
     },
     {
@@ -92,9 +52,69 @@
       "venue_id": "4902",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2436427"
+    },
+    {
+      "id": "ra:2523413",
+      "title": "Club Roto - Halloween",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523413"
+    },
+    {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
     }
   ],
   "past": [
+    {
+      "id": "ra:2515716",
+      "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
+      "date": "2026-09-26",
+      "start": "2026-09-26T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2515716"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
+    {
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
+    },
+    {
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
+    },
     {
       "id": "ra:2436412",
       "title": "Give Soul at the Beach - August",

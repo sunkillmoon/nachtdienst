@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2511138",
+      "title": "GGC X OMT 12-HOUR JAM - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511138"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2473507",
       "title": "Madam by Night invites: OMT Records x Life On Mars",
       "date": "2026-10-16",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473507"
     }
-  ],
-  "past": []
+  ]
 }

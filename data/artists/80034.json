@@ -12,6 +12,16 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2543903",
+      "title": "ketia curates (bday bash): day party ",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543903"
     }
   ],
   "past": [

@@ -3,16 +3,6 @@
   "name": "MBG Productions NL",
   "upcoming": [
     {
-      "id": "ra:2512344",
-      "title": "JOY - The Closing",
-      "date": "2026-09-19",
-      "start": "2026-09-19T17:00+02:00",
-      "venue": "Bronze Beach",
-      "venue_id": "197451",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512344"
-    },
-    {
       "id": "ra:2475062",
       "title": "Glitterbox ADE",
       "date": "2026-10-22",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2512344",
+      "title": "JOY - The Closing",
+      "date": "2026-09-19",
+      "start": "2026-09-19T17:00+02:00",
+      "venue": "Bronze Beach",
+      "venue_id": "197451",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512344"
+    },
     {
       "id": "ra:2476839",
       "title": "JOY with Luuk van Dijk, Patrick Topping & Jazzy",
@@ -67,33 +67,18 @@
   ],
   "top_artists": [
     {
-      "id": "10446",
-      "name": "Benny Rodrigues",
-      "count": 2
-    },
-    {
       "id": "94324",
       "name": "Robbie Doherty",
       "count": 2
     },
     {
-      "id": "14022",
-      "name": "Prunk",
-      "count": 1
-    },
-    {
-      "id": "128586",
-      "name": "Joss Dean",
-      "count": 1
-    },
-    {
-      "id": "171453",
-      "name": "Cici Daze",
-      "count": 1
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 2
     },
     {
       "id": "155929",
-      "name": "Bridge (NY)",
+      "name": "BRIDGE (NY)",
       "count": 1
     },
     {
@@ -114,6 +99,21 @@
     {
       "id": "101378",
       "name": "HoneyLuv",
+      "count": 1
+    },
+    {
+      "id": "8341",
+      "name": "Horse Meat Disco",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "24048",
+      "name": "Melvo Baptiste",
       "count": 1
     }
   ]

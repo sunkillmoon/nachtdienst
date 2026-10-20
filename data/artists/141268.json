@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
+      "id": "ra:2527059",
+      "title": "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
+      "url": "https://ra.co/events/2527059"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
     },
     {
       "id": "ra:2373343",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2373343"
     },
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2504784",
       "title": "Sissi's Saturday with D Stone & Coco Coquelicot",

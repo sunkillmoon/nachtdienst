@@ -4,24 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2359008",
-      "title": "KRAFT Premium Pounding Techno 3rd of October 2026",
-      "date": "2026-10-03",
-      "start": "2026-10-03T16:00+02:00",
-      "venue": "Lagerwal",
-      "venue_id": "214852",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2359008"
-    },
-    {
       "id": "ra:2408142",
-      "title": "OUTKZT ADE 2026",
+      "title": "OUTKZT pres. Berlin Records, Mainground Music, Kraft Events, TRAGEDIE ADE Showcase",
       "date": "2026-10-21",
       "start": "2026-10-21T16:00+02:00",
       "venue": "Veronica Schip",
       "venue_id": "89523",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2408142"
+    },
+    {
+      "id": "ra:2542745",
+      "title": "PRODUCHERTZ ADE POP-UP SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T10:00+02:00",
+      "venue": "Ruimte 59.61",
+      "venue_id": "303324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542745"
     },
     {
       "id": "ra:2359013",
@@ -44,5 +44,16 @@
       "url": "https://ra.co/events/2359018"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2359008",
+      "title": "KRAFT Premium Pounding Techno 3rd of October 2026",
+      "date": "2026-10-03",
+      "start": "2026-10-03T16:00+02:00",
+      "venue": "Lagerwal",
+      "venue_id": "214852",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2359008"
+    }
+  ]
 }

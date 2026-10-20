@@ -3,6 +3,18 @@
   "name": "Weez",
   "upcoming": [
     {
+      "id": "ra:2559141",
+      "title": "Before Noon Club - Morning Party ",
+      "date": "2026-11-08",
+      "start": "2026-11-08T11:00+01:00",
+      "venue": "Filth",
+      "venue_id": "300898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559141"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2519669",
       "title": "Before Noon Club",
       "date": "2026-09-19",
@@ -13,6 +25,5 @@
       "url": "https://ra.co/events/2519669"
     }
   ],
-  "past": [],
   "top_artists": []
 }

@@ -4,10 +4,20 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2564668",
+      "title": "Anz B2B Tsepo - El Tony Mate x RR Academy - Graduates of Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564668"
+    },
+    {
       "id": "ra:2516579",
       "title": "United Identities x Doka Studio [ADE]",
       "date": "2026-10-22",
-      "start": "2026-10-22T23:59+02:00",
+      "start": "2026-10-22T23:00+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
@@ -25,13 +35,23 @@
     },
     {
       "id": "ra:2516700",
-      "title": "Anz, SHERELLE & MALLAURY x BRET - ADE",
+      "title": "Anz, SHERELLE & MALLAURY x BRET x ADE",
       "date": "2026-10-23",
       "start": "2026-10-23T23:00+02:00",
       "venue": "BRET",
       "venue_id": "108549",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2516700"
+    },
+    {
+      "id": "ra:2527480",
+      "title": "Ewan McVicar presents Club Knuckles ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527480"
     }
   ],
   "past": [

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2553112",
+      "title": "mr. wix",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00+01:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553112"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2514459",
       "title": "mr. wix",
       "date": "2026-08-28",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514459"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "id": "142223",
   "name": "Epiphany Records",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2489575",
       "title": "fruit salad x Epiphany Records",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2489575"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "110141",

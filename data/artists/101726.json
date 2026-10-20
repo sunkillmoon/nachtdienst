@@ -1,0 +1,28 @@
+{
+  "id": "101726",
+  "name": "Nico Borgio",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    },
+    {
+      "id": "ra:2548839",
+      "title": "afternoon interlude: Nico Borgio",
+      "date": "2026-10-31",
+      "start": "2026-10-31T12:00+01:00",
+      "venue": "dubble",
+      "venue_id": "299770",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548839"
+    }
+  ],
+  "past": []
+}

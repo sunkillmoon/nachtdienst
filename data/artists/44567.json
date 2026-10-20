@@ -4,14 +4,66 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516406",
-      "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:59+02:00",
-      "venue": "Doka",
-      "venue_id": "81540",
+      "id": "ra:2534747",
+      "title": "ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:30+02:00",
+      "venue": "Pier 14",
+      "venue_id": "265448",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516406"
+      "url": "https://ra.co/events/2534747"
+    },
+    {
+      "id": "ra:2451944",
+      "title": "BURST presents TLM - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451944"
+    },
+    {
+      "id": "ra:2476166",
+      "title": "Happy Feelings ADE - Ijland W/ SWIM, Lucky Done Gone ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476166"
+    },
+    {
+      "id": "ra:2496697",
+      "title": "ADE - Pan-Pot presents HUMAN",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496697"
+    },
+    {
+      "id": "ra:2538683",
+      "title": "Moody Mehran • Miguel De Bois",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538683"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2517612",
+      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517612"
     },
     {
       "id": "ra:2514956",
@@ -24,27 +76,15 @@
       "url": "https://ra.co/events/2514956"
     },
     {
-      "id": "ra:2517612",
-      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
+      "id": "ra:2516406",
+      "title": "Doka Studio with Moody Mehran - Kyra Khaldi",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2517612"
+      "url": "https://ra.co/events/2516406"
     },
-    {
-      "id": "ra:2451944",
-      "title": "BURST presents TLM - ADE 2026",
-      "date": "2026-10-23",
-      "start": "2026-10-23T14:00+02:00",
-      "venue": "Theater Amsterdam",
-      "venue_id": "128624",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2451944"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2504698",
       "title": "EL NIÑO SUPER CUP NIGHT W/ JESSA, Moody Mehran & Passion DEEZ",

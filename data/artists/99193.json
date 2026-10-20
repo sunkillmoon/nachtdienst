@@ -2,7 +2,8 @@
   "id": "99193",
   "name": "Juja",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517388",
       "title": "3xnyx: Pop-Up - Girls Trip",
@@ -12,9 +13,7 @@
       "venue_id": "69256",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517388"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2482246",
       "title": "3xNYX: Milkshake AFTER",

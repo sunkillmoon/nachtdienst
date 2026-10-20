@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
-      "id": "ra:2465223",
-      "title": "Intercell Groningen",
-      "date": "2026-09-19",
-      "start": "2026-09-19T13:00+02:00",
-      "venue": "De Toekomst",
-      "venue_id": "294777",
-      "area": "All",
-      "url": "https://ra.co/events/2465223"
-    },
-    {
       "id": "ra:2442640",
       "title": "GASHOUDER presents: Job Jobse [Sold Out]",
       "date": "2026-10-23",
@@ -45,6 +25,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2465223",
+      "title": "Intercell Groningen",
+      "date": "2026-09-19",
+      "start": "2026-09-19T13:00+02:00",
+      "venue": "De Toekomst",
+      "venue_id": "294777",
+      "area": "All",
+      "url": "https://ra.co/events/2465223"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
     {
       "id": "ra:2458255",
       "title": "Dekmantel Festival 2026 - Sunday",

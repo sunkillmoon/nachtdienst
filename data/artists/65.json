@@ -1,0 +1,18 @@
+{
+  "id": "65",
+  "name": "Pete Tong",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2552930",
+      "title": "Rooftop Tapes feat. Noire presents: Pete Tong",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "nhow Amsterdam RAI",
+      "venue_id": "248821",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552930"
+    }
+  ],
+  "past": []
+}

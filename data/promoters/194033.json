@@ -1,0 +1,54 @@
+{
+  "id": "194033",
+  "name": "Getting Lost",
+  "upcoming": [
+    {
+      "id": "ra:2537381",
+      "title": "ADE 12-hour party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Rijnbar",
+      "venue_id": "302751",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537381"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "16389",
+      "name": "Gai Barone",
+      "count": 1
+    },
+    {
+      "id": "53057",
+      "name": "Hicky & Kalo",
+      "count": 1
+    },
+    {
+      "id": "169880",
+      "name": "Kebin van Reeken",
+      "count": 1
+    },
+    {
+      "id": "2586",
+      "name": "Nick Stoynoff",
+      "count": 1
+    },
+    {
+      "id": "29605",
+      "name": "Rauschhaus",
+      "count": 1
+    },
+    {
+      "id": "146093",
+      "name": "Sam Rose",
+      "count": 1
+    },
+    {
+      "id": "9417",
+      "name": "Tin Tin",
+      "count": 1
+    }
+  ]
+}

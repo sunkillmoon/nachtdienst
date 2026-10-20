@@ -6,18 +6,18 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2506324",
-      "title": "Field Notes presents... A House Party 2",
-      "date": "2026-09-04",
-      "start": "2026-09-04T20:00+02:00",
+      "id": "ra:2550063",
+      "title": "Het Dorp x In Place Of War",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:30+02:00",
       "venue": "Het Dorp",
       "venue_id": "278095",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506324"
+      "url": "https://ra.co/events/2550063"
     },
     {
       "id": "ra:2502648",
-      "title": "ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock ",
+      "title": "ADE Naturalis festival with Manfredas, Jonny Rock, Paula Tape + more",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Het Dorp",
@@ -27,13 +27,23 @@
     },
     {
       "id": "ra:2519880",
-      "title": "Festifest ADE",
+      "title": "Festifest ADE (Sold Out)",
       "date": "2026-10-23",
       "start": "2026-10-23T20:00+02:00",
       "venue": "Het Dorp",
       "venue_id": "278095",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519880"
+    },
+    {
+      "id": "ra:2555611",
+      "title": "Lowfriends Showcase ADE REcharge SOLD OUT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555611"
     },
     {
       "id": "ra:2516695",
@@ -47,6 +57,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2506324",
+      "title": "Field Notes presents... A House Party 2",
+      "date": "2026-09-04",
+      "start": "2026-09-04T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506324"
+    },
     {
       "id": "ra:2473741",
       "title": "The Underground is Coming",

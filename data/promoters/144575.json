@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2449265"
     },
     {
+      "id": "ra:2545963",
+      "title": "DANCÆ × Chlär",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545963"
+    },
+    {
       "id": "ra:2494330",
       "title": "Avalon Emerson pres. 9000 Dreams",
       "date": "2026-10-23",
@@ -21,6 +31,16 @@
       "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494330"
+    },
+    {
+      "id": "ra:2534127",
+      "title": "Toman pres. High Ceilings - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Camarat",
+      "venue_id": "302381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534127"
     },
     {
       "id": "ra:2465411",
@@ -51,6 +71,16 @@
       "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500675"
+    },
+    {
+      "id": "ra:2529551",
+      "title": "240KM/H - ADE Takeover",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529551"
     }
   ],
   "past": [],
@@ -58,6 +88,11 @@
     {
       "id": "117719",
       "name": "Pegassi",
+      "count": 1
+    },
+    {
+      "id": "81367",
+      "name": "Chlär",
       "count": 1
     },
     {
@@ -86,18 +121,18 @@
       "count": 1
     },
     {
-      "id": "165697",
-      "name": "Lisa Korver",
+      "id": "37817",
+      "name": "Alci",
       "count": 1
     },
     {
-      "id": "14634",
-      "name": "Skepta",
+      "id": "90055",
+      "name": "Mateo Dufour",
       "count": 1
     },
     {
-      "id": "73737",
-      "name": "Interplanetary Criminal",
+      "id": "71551",
+      "name": "Toman",
       "count": 1
     }
   ]

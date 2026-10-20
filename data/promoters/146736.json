@@ -1,0 +1,44 @@
+{
+  "id": "146736",
+  "name": "STERLING",
+  "upcoming": [
+    {
+      "id": "ra:2538514",
+      "title": "Intercell x Silva Bumpa pres. STERLING - ADE By Night",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538514"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "56571",
+      "name": "Kepler",
+      "count": 1
+    },
+    {
+      "id": "133786",
+      "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "110448",
+      "name": "Prozak (IRL)",
+      "count": 1
+    },
+    {
+      "id": "111431",
+      "name": "Soul Mass Transit System",
+      "count": 1
+    },
+    {
+      "id": "115904",
+      "name": "Silva Bumpa",
+      "count": 1
+    }
+  ]
+}

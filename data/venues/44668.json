@@ -6,96 +6,6 @@
   "lng": 4.858947,
   "upcoming": [
     {
-      "id": "ra:2504901",
-      "title": "Ninsa b2b Vero",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504901"
-    },
-    {
-      "id": "ra:2519758",
-      "title": "Tobis Afterhours W/ Kaje B2B Chiara - Meraki - Leon Row",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519758"
-    },
-    {
-      "id": "ra:2512651",
-      "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512651"
-    },
-    {
-      "id": "ra:2514393",
-      "title": "Ambrosia Rave",
-      "date": "2026-09-05",
-      "start": "2026-09-05T11:30+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514393"
-    },
-    {
-      "id": "ra:2477038",
-      "title": "Ópalo - 4YR Anniversary",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477038"
-    },
-    {
-      "id": "ra:2471398",
-      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2471398"
-    },
-    {
-      "id": "ra:2506011",
-      "title": "I-F - EILEEN - 5 hour sets",
-      "date": "2026-09-25",
-      "start": "2026-09-25T19:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506011"
-    },
-    {
-      "id": "ra:2515709",
-      "title": "Nina de Koning (10H) + Special Guests",
-      "date": "2026-10-09",
-      "start": "2026-10-09T19:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2515709"
-    },
-    {
-      "id": "ra:2512659",
-      "title": "Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC",
-      "date": "2026-10-10",
-      "start": "2026-10-10T16:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512659"
-    },
-    {
       "id": "ra:2484740",
       "title": "Miss Monique presents Siona ADE",
       "date": "2026-10-22",
@@ -116,6 +26,16 @@
       "url": "https://ra.co/events/2469792"
     },
     {
+      "id": "ra:2555691",
+      "title": "XTC The Electronic Musical - Club Theatre Experience",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555691"
+    },
+    {
       "id": "ra:2480645",
       "title": "ADE - HRMNY W/ Rose Ringed & More",
       "date": "2026-10-23",
@@ -124,6 +44,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2480645"
+    },
+    {
+      "id": "ra:2521958",
+      "title": "ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521958"
     },
     {
       "id": "ra:2375140",
@@ -174,9 +104,109 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2469754"
+    },
+    {
+      "id": "ra:2527059",
+      "title": "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot",
+      "date": "2026-11-07",
+      "start": "2026-11-07T16:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527059"
     }
   ],
   "past": [
+    {
+      "id": "ra:2512659",
+      "title": "Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC",
+      "date": "2026-10-10",
+      "start": "2026-10-10T16:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512659"
+    },
+    {
+      "id": "ra:2515709",
+      "title": "Nina de Koning (10H) + Special Guests",
+      "date": "2026-10-09",
+      "start": "2026-10-09T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2515709"
+    },
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
+    },
+    {
+      "id": "ra:2471398",
+      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471398"
+    },
+    {
+      "id": "ra:2477038",
+      "title": "Ópalo - 4YR Anniversary",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477038"
+    },
+    {
+      "id": "ra:2514393",
+      "title": "Ambrosia Rave",
+      "date": "2026-09-05",
+      "start": "2026-09-05T11:30+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514393"
+    },
+    {
+      "id": "ra:2512651",
+      "title": "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512651"
+    },
+    {
+      "id": "ra:2504901",
+      "title": "Ninsa b2b Vero",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504901"
+    },
+    {
+      "id": "ra:2519758",
+      "title": "Tobis Afterhours W/ Kaje B2B Chiara - Meraki - Leon Row",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519758"
+    },
     {
       "id": "ra:2476119",
       "title": "Common_Ground: Corren Cavini All Night Long",

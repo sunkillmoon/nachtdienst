@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2524451",
+      "title": "Sissi's ADE Friday with Bronka x Kurashi",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524451"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2519856",
       "title": "Festival Downtown",
       "date": "2026-09-11",
@@ -12,9 +24,7 @@
       "venue_id": "140769",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2519856"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488633",
       "title": "Baila Baixa",

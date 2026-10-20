@@ -1,0 +1,34 @@
+{
+  "id": "194693",
+  "name": "Oasis Boat Events",
+  "upcoming": [
+    {
+      "id": "ra:2545414",
+      "title": "Oasis Boat Events - Amsterdam ADE Boat Party",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "TBA - De Ruijterkade 14, Amsterdam ",
+      "venue_id": "303592",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545414"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "140666",
+      "name": "charuso",
+      "count": 1
+    },
+    {
+      "id": "180923",
+      "name": "NoMore",
+      "count": 1
+    },
+    {
+      "id": "140667",
+      "name": "Sunday Soulman",
+      "count": 1
+    }
+  ]
+}

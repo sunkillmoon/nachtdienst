@@ -6,6 +6,88 @@
   "lng": null,
   "upcoming": [
     {
+      "id": "ra:2542112",
+      "title": "PWCC TAKEOVER X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542112"
+    },
+    {
+      "id": "ra:2538004",
+      "title": "Canapa-x invite Discosabotage records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538004"
+    },
+    {
+      "id": "ra:2550900",
+      "title": "CrunchyHouse ADE Gathering '26",
+      "date": "2026-10-22",
+      "start": "2026-10-23T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550900"
+    },
+    {
+      "id": "ra:2545490",
+      "title": "Exilium pres. Alex Stein, Nakadia & Wehbba at ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545490"
+    },
+    {
+      "id": "ra:2537574",
+      "title": "Follow The Cat Recordings ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537574"
+    },
+    {
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524505"
+    },
+    {
+      "id": "ra:2559705",
+      "title": "ADE  with a Twist of Orange & A Pinch of Spice",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559705"
+    },
+    {
+      "id": "ra:2561297",
+      "title": "KE-RIKO x ADE 24H Music Marathon - Latin House ADE Closing Party",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561297"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518968",
       "title": "KE-RIKO x ALEX B-DAY BASH",
       "date": "2026-08-29",
@@ -15,6 +97,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518968"
     }
-  ],
-  "past": []
+  ]
 }

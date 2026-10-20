@@ -2,7 +2,18 @@
   "id": "106567",
   "name": "PunkFunkLove",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524505"
+    }
+  ],
   "past": [
     {
       "id": "ra:2502172",

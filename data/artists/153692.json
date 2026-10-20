@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2492783",
-      "title": "SIMPLICITY",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Van Aken in het Werkwarenhuis",
-      "venue_id": "144150",
-      "area": "All",
-      "url": "https://ra.co/events/2492783"
+      "id": "ra:2559064",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 3)",
+      "date": "2026-10-22",
+      "start": "2026-10-23T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559064"
     },
+    {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2511867",
       "title": "minimal • vision / the first glimpse",
@@ -22,7 +34,16 @@
       "venue_id": "203369",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511867"
+    },
+    {
+      "id": "ra:2492783",
+      "title": "SIMPLICITY",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Van Aken in het Werkwarenhuis",
+      "venue_id": "144150",
+      "area": "All",
+      "url": "https://ra.co/events/2492783"
     }
-  ],
-  "past": []
+  ]
 }

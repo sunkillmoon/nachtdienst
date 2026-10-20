@@ -1,0 +1,28 @@
+{
+  "id": "150954",
+  "name": "AELVA K",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2542745",
+      "title": "PRODUCHERTZ ADE POP-UP SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T10:00+02:00",
+      "venue": "Ruimte 59.61",
+      "venue_id": "303324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542745"
+    },
+    {
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563972"
+    }
+  ],
+  "past": []
+}

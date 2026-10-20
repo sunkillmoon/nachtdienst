@@ -2,7 +2,18 @@
   "id": "48655",
   "name": "Franziska Berns",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2554221",
+      "title": "Vinz Sosa Invites ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554221"
+    }
+  ],
   "past": [
     {
       "id": "ra:2452373",

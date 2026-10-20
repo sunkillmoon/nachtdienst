@@ -2,7 +2,8 @@
   "id": "71431",
   "name": "Kyoso",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481469",
       "title": "MOVA invites Cxema Backstage",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481469"
     }
-  ],
-  "past": []
+  ]
 }

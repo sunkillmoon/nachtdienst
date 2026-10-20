@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2533538",
+      "title": "Modulogue",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:30+02:00",
+      "venue": "Volta",
+      "venue_id": "103242",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533538"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2380229",
       "title": "Cluster Festival",
       "date": "2026-08-29",
@@ -13,6 +25,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2380229"
     }
-  ],
-  "past": []
+  ]
 }

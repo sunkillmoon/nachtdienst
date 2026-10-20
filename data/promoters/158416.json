@@ -1,0 +1,54 @@
+{
+  "id": "158416",
+  "name": "HAUSOFHAM",
+  "upcoming": [
+    {
+      "id": "ra:2542364",
+      "title": "RÉSHAU x GROOVEDESK ADE meetup",
+      "date": "2026-10-20",
+      "start": "2026-10-20T16:00+02:00",
+      "venue": "Café Van Zuylen",
+      "venue_id": "303290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542364"
+    },
+    {
+      "id": "ra:2497164",
+      "title": "SLAPPED X CraneSessions • ADE 2026",
+      "date": "2026-10-25",
+      "start": "2026-10-25T10:00+01:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497164"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "87975",
+      "name": "Mitch Oliver",
+      "count": 1
+    },
+    {
+      "id": "67631",
+      "name": "Yulia Niko",
+      "count": 1
+    },
+    {
+      "id": "24433",
+      "name": "Joyce Muniz",
+      "count": 1
+    },
+    {
+      "id": "138624",
+      "name": "TMPLE",
+      "count": 1
+    },
+    {
+      "id": "135404",
+      "name": "Manuel Falardeau",
+      "count": 1
+    }
+  ]
+}

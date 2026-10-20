@@ -2,7 +2,8 @@
   "id": "174087",
   "name": "franchistein",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2503803",
       "title": "Versão brasileira ÁLAMO",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2503803"
     }
-  ],
-  "past": []
+  ]
 }

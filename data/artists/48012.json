@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2491613",
-      "title": "Delsin: 30 Years Anniversary",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Paradiso",
-      "venue_id": "2695",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491613"
-    },
-    {
       "id": "ra:2503161",
       "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
       "date": "2026-10-22",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2503161"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2491613",
+      "title": "Delsin: 30 Years Anniversary",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491613"
+    }
+  ]
 }

@@ -1,0 +1,79 @@
+{
+  "id": "195334",
+  "name": "Motie",
+  "upcoming": [
+    {
+      "id": "ra:2555456",
+      "title": "Motie ADE: Helios x Young Marco feat. Johnny Nash (opening night)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555456"
+    },
+    {
+      "id": "ra:2555478",
+      "title": "Motie ADE: Helios x Oceanic (live)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555478"
+    },
+    {
+      "id": "ra:2555480",
+      "title": "Motie ADE: Helios x Gizem Öz (live)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555480"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "26270",
+      "name": "Young Marco",
+      "count": 1
+    },
+    {
+      "id": "44752",
+      "name": "Oceanic",
+      "count": 1
+    },
+    {
+      "id": "109242",
+      "name": "Serti",
+      "count": 1
+    },
+    {
+      "id": "166705",
+      "name": "Cseil",
+      "count": 1
+    },
+    {
+      "id": "146745",
+      "name": "Gizem Öz",
+      "count": 1
+    },
+    {
+      "id": "107326",
+      "name": "Hame (1)",
+      "count": 1
+    },
+    {
+      "id": "74592",
+      "name": "Frederic.",
+      "count": 1
+    },
+    {
+      "id": "111391",
+      "name": "Hafa",
+      "count": 1
+    }
+  ]
+}

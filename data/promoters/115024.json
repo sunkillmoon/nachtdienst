@@ -24,5 +24,41 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "97442",
+      "name": "Camille Maria",
+      "count": 1
+    },
+    {
+      "id": "85980",
+      "name": "Marylou",
+      "count": 1
+    },
+    {
+      "id": "34562",
+      "name": "Darwin",
+      "count": 1
+    },
+    {
+      "id": "85474",
+      "name": "Zoë Mc Pherson",
+      "count": 1
+    },
+    {
+      "id": "168419",
+      "name": "LNR (UK)",
+      "count": 1
+    },
+    {
+      "id": "93775",
+      "name": "k means",
+      "count": 1
+    },
+    {
+      "id": "90012",
+      "name": "MBODJ",
+      "count": 1
+    }
+  ]
 }

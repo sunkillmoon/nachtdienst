@@ -3,10 +3,20 @@
   "name": "The Lot Radio",
   "upcoming": [
     {
-      "id": "ra:2516589",
-      "title": "Kiosk Radio x The Lot Radio x Doka Studio [ADE]",
+      "id": "ra:2563194",
+      "title": "Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO",
       "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563194"
+    },
+    {
+      "id": "ra:2516589",
+      "title": "Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
       "venue": "Doka",
       "venue_id": "81540",
       "area": "Amsterdam",
@@ -15,6 +25,31 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "107728",
+      "name": "Softi",
+      "count": 1
+    },
+    {
+      "id": "102183",
+      "name": "neska",
+      "count": 1
+    },
+    {
+      "id": "56821",
+      "name": "Pieter Jansen",
+      "count": 1
+    },
+    {
+      "id": "46744",
+      "name": "Marco Weibel",
+      "count": 1
+    },
+    {
+      "id": "18878",
+      "name": "Nelly",
+      "count": 1
+    },
     {
       "id": "87138",
       "name": "livwutang",
@@ -26,8 +61,8 @@
       "count": 1
     },
     {
-      "id": "59507",
-      "name": "Lloyd (2)",
+      "id": "86530",
+      "name": "Lloydski",
       "count": 1
     },
     {

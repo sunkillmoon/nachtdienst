@@ -1,0 +1,69 @@
+{
+  "id": "100692",
+  "name": "bondru",
+  "upcoming": [
+    {
+      "id": "ra:2563972",
+      "title": "CARGO CULT ADA 48 HOURS PARTY",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563972"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "120088",
+      "name": "Micky Hurts",
+      "count": 1
+    },
+    {
+      "id": "147782",
+      "name": "Return Fall",
+      "count": 1
+    },
+    {
+      "id": "118488",
+      "name": "Izak Jules",
+      "count": 1
+    },
+    {
+      "id": "156573",
+      "name": "Charlotte Ord",
+      "count": 1
+    },
+    {
+      "id": "128007",
+      "name": "Wax Material",
+      "count": 1
+    },
+    {
+      "id": "140533",
+      "name": "Neptune",
+      "count": 1
+    },
+    {
+      "id": "37122",
+      "name": "Larry De Kat",
+      "count": 1
+    },
+    {
+      "id": "23095",
+      "name": "Adam Mclean",
+      "count": 1
+    },
+    {
+      "id": "156621",
+      "name": "ADAPT (DK)",
+      "count": 1
+    },
+    {
+      "id": "150954",
+      "name": "AELVA K",
+      "count": 1
+    }
+  ]
+}

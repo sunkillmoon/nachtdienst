@@ -2,7 +2,8 @@
   "id": "105271",
   "name": "Cybersex",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471468",
       "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2471468"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2483642",
       "title": "DE REÜNIE & AOS",

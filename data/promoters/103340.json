@@ -3,6 +3,28 @@
   "name": "Frenzy",
   "upcoming": [
     {
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536871"
+    },
+    {
+      "id": "ra:2528841",
+      "title": "Frenzy 7YRS WKNDR",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528841"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2516918",
       "title": "Frenzy x shockwerk",
       "date": "2026-09-26",
@@ -13,51 +35,55 @@
       "url": "https://ra.co/events/2516918"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "109902",
       "name": "Beau Didier",
+      "count": 3
+    },
+    {
+      "id": "47363",
+      "name": "Kaiser (K S R)",
+      "count": 2
+    },
+    {
+      "id": "39861",
+      "name": "Nastia",
       "count": 1
     },
     {
-      "id": "65190",
-      "name": "Comrade Winston",
+      "id": "103691",
+      "name": "Mac Declos",
       "count": 1
     },
     {
-      "id": "104700",
-      "name": "Daichi Wada",
+      "id": "96398",
+      "name": "RUIZ OSC1",
       "count": 1
     },
     {
-      "id": "119956",
-      "name": "HERMETICA",
+      "id": "98268",
+      "name": "Danny Wabbit",
       "count": 1
     },
     {
-      "id": "103810",
-      "name": "Laure Croft",
+      "id": "95388",
+      "name": "Elisa Batti",
       "count": 1
     },
     {
-      "id": "94442",
-      "name": "Spikey Lee",
+      "id": "58912",
+      "name": "Obscure Shape",
       "count": 1
     },
     {
-      "id": "102744",
-      "name": "slin",
+      "id": "69666",
+      "name": "Byron Yeates",
       "count": 1
     },
     {
-      "id": "78330",
-      "name": "The Lady Machine",
-      "count": 1
-    },
-    {
-      "id": "117832",
-      "name": "Tino Machauer",
+      "id": "102010",
+      "name": "Elli Acula",
       "count": 1
     }
   ]

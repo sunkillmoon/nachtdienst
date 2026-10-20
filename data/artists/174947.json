@@ -12,6 +12,16 @@
       "venue_id": "37682",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2521051"
+    },
+    {
+      "id": "ra:2561132",
+      "title": "Equilibrio Records x West Station ADE Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Meininger Hotel Ámsterdam City West",
+      "venue_id": "305134",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561132"
     }
   ],
   "past": []

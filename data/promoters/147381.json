@@ -4,11 +4,11 @@
   "upcoming": [
     {
       "id": "ra:2512800",
-      "title": "Interdependence Amsterdam 2026",
+      "title": "The Sonic Silk Road, presented by Interdependence",
       "date": "2026-10-22",
-      "start": "2026-10-22T19:00+02:00",
-      "venue": "TBA - Amsterdam, Rokin",
-      "venue_id": "300048",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Theater de Richel",
+      "venue_id": "301958",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512800"
     }
@@ -18,6 +18,31 @@
     {
       "id": "143851",
       "name": "6RAJ",
+      "count": 1
+    },
+    {
+      "id": "160373",
+      "name": "ARGO",
+      "count": 1
+    },
+    {
+      "id": "149245",
+      "name": "Kakura",
+      "count": 1
+    },
+    {
+      "id": "147439",
+      "name": "Øntold",
+      "count": 1
+    },
+    {
+      "id": "149798",
+      "name": "Raeya Chen",
+      "count": 1
+    },
+    {
+      "id": "93467",
+      "name": "Unseen.",
       "count": 1
     }
   ]

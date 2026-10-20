@@ -4,14 +4,54 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2550797",
+      "title": "ENSL presents: Futurismo Tropical",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550797"
+    },
+    {
       "id": "ra:2502648",
-      "title": "ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock ",
+      "title": "ADE Naturalis festival with Manfredas, Jonny Rock, Paula Tape + more",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Het Dorp",
       "venue_id": "278095",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2502648"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
+    },
+    {
+      "id": "ra:2527116",
+      "title": "Studio 508 x Sound Metaphors & Friends | 2026 CALL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Studio 508",
+      "venue_id": "295898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527116"
+    },
+    {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
     }
   ],
   "past": []

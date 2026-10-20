@@ -3,6 +3,18 @@
   "name": "Sandunga Events",
   "upcoming": [
     {
+      "id": "ra:2547786",
+      "title": "Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "The Hoxton Amsterdam",
+      "venue_id": "303860",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547786"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2517024",
       "title": "Sandunga Clubnight",
       "date": "2026-08-28",
@@ -13,21 +25,50 @@
       "url": "https://ra.co/events/2517024"
     }
   ],
-  "past": [],
   "top_artists": [
     {
-      "id": "130768",
-      "name": "Lidia Lo",
-      "count": 1
+      "id": "174771",
+      "name": "UriBlanch",
+      "count": 2
     },
     {
       "id": "160784",
       "name": "Niklas Becher",
+      "count": 2
+    },
+    {
+      "id": "147520",
+      "name": "PARTIGIRL",
       "count": 1
     },
     {
-      "id": "174771",
-      "name": "UriBlanch",
+      "id": "120603",
+      "name": "NICI NICE",
+      "count": 1
+    },
+    {
+      "id": "52451",
+      "name": "Marvin Aloys",
+      "count": 1
+    },
+    {
+      "id": "180622",
+      "name": "Luca Garcia",
+      "count": 1
+    },
+    {
+      "id": "175014",
+      "name": "Static Bloom (DE)",
+      "count": 1
+    },
+    {
+      "id": "106545",
+      "name": "Sarica",
+      "count": 1
+    },
+    {
+      "id": "130768",
+      "name": "Lidia Lo",
       "count": 1
     }
   ]

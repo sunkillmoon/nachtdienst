@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2483660",
-      "title": "Mindscape - Live set experience",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2483660"
-    },
-    {
       "id": "ra:2490011",
       "title": "LABYRINTH 1 YEAR ANNIVERSARY - ADE",
       "date": "2026-10-24",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2483660",
+      "title": "Mindscape - Live set experience",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2483660"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

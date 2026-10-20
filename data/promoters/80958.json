@@ -1,7 +1,8 @@
 {
   "id": "80958",
   "name": "GEGEN",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2494196",
       "title": "GEGEN AMSTERDAM",
@@ -11,9 +12,7 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2494196"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2433222",
       "title": "RADION invites GEGEN",
@@ -32,36 +31,6 @@
       "count": 2
     },
     {
-      "id": "168659",
-      "name": "Buday",
-      "count": 1
-    },
-    {
-      "id": "58166",
-      "name": "Cristian Marras",
-      "count": 1
-    },
-    {
-      "id": "42350",
-      "name": "Hyperaktivist",
-      "count": 1
-    },
-    {
-      "id": "82655",
-      "name": "OCD",
-      "count": 1
-    },
-    {
-      "id": "112601",
-      "name": "Technoslave_69",
-      "count": 1
-    },
-    {
-      "id": "23980",
-      "name": "Volvox",
-      "count": 1
-    },
-    {
       "id": "156723",
       "name": "BOYCA",
       "count": 1
@@ -74,6 +43,36 @@
     {
       "id": "121105",
       "name": "Juan Del Chambo",
+      "count": 1
+    },
+    {
+      "id": "157231",
+      "name": "Mila Haj Kasem",
+      "count": 1
+    },
+    {
+      "id": "92932",
+      "name": "NSPERGER",
+      "count": 1
+    },
+    {
+      "id": "106196",
+      "name": "SARA",
+      "count": 1
+    },
+    {
+      "id": "105526",
+      "name": "Nymed",
+      "count": 1
+    },
+    {
+      "id": "94442",
+      "name": "Spikey Lee",
+      "count": 1
+    },
+    {
+      "id": "152642",
+      "name": "Yigit",
       "count": 1
     }
   ]

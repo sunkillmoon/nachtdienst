@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
+      "id": "ra:2516652",
+      "title": "FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516652"
     },
+    {
+      "id": "ra:2539694",
+      "title": "French II (live) - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T21:30+02:00",
+      "venue": "Paradiso",
+      "venue_id": "2695",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539694"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2512190",
       "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
@@ -22,7 +34,16 @@
       "venue_id": "86588",
       "area": "All",
       "url": "https://ra.co/events/2512190"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
     }
-  ],
-  "past": []
+  ]
 }

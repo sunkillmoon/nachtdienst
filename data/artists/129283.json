@@ -2,7 +2,8 @@
   "id": "129283",
   "name": "Nyctonian",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2490622",
       "title": "AFTER DARK // ROTTERDAM",
@@ -12,9 +13,7 @@
       "venue_id": "25197",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2490622"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2504935",
       "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",

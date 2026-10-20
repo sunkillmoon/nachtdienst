@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2496553",
-      "title": "Andrew Azara, Traumer b2b Janeret",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496553"
-    },
-    {
       "id": "ra:2502427",
       "title": "Audio Obscura ADE x Thusday House Night",
       "date": "2026-10-22",
@@ -24,15 +14,36 @@
       "url": "https://ra.co/events/2502427"
     },
     {
+      "id": "ra:2533327",
+      "title": "get—traum x Blast Galaxy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Blast Galaxy",
+      "venue_id": "153386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533327"
+    },
+    {
       "id": "ra:2479148",
       "title": "Awakenings ADE - Prophecy by Prospa",
       "date": "2026-10-25",
       "start": "2026-10-25T23:00+01:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479148"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2496553",
+      "title": "Andrew Azara, Traumer b2b Janeret",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496553"
+    }
+  ]
 }

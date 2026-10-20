@@ -2,7 +2,18 @@
   "id": "180501",
   "name": "Gabriele Peveri",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2537574",
+      "title": "Follow The Cat Recordings ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537574"
+    }
+  ],
   "past": [
     {
       "id": "ra:2501005",

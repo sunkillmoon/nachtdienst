@@ -4,24 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
-    {
-      "id": "ra:2517612",
-      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
+      "id": "ra:2544904",
+      "title": "ADE Museum Party with Luke Alessi. Di Chiara Brothers",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Tropeninstituut: Koninklijk Instituut Voor de Tropen",
+      "venue_id": "71304",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2517612"
+      "url": "https://ra.co/events/2544904"
     },
     {
       "id": "ra:2506887",
@@ -65,6 +55,26 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517612",
+      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517612"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
+    },
     {
       "id": "ra:2475177",
       "title": "Paige Tomlinson & Friends",

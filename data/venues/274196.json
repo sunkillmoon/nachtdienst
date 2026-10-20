@@ -6,36 +6,6 @@
   "lng": null,
   "upcoming": [
     {
-      "id": "ra:2498340",
-      "title": "Entity + Herbivox presents OVERGROW",
-      "date": "2026-08-29",
-      "start": "2026-08-29T16:00+02:00",
-      "venue": "Waterhouse Studios",
-      "venue_id": "274196",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498340"
-    },
-    {
-      "id": "ra:2499676",
-      "title": "Discosabotage & 2lovers afterparty - night time",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Waterhouse Studios",
-      "venue_id": "274196",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499676"
-    },
-    {
-      "id": "ra:2490217",
-      "title": "For The Rhythm presents: Fort Riddim Vol. 1",
-      "date": "2026-09-19",
-      "start": "2026-09-19T22:00+02:00",
-      "venue": "Waterhouse Studios",
-      "venue_id": "274196",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490217"
-    },
-    {
       "id": "ra:2510708",
       "title": "EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_",
       "date": "2026-10-22",
@@ -46,6 +16,16 @@
       "url": "https://ra.co/events/2510708"
     },
     {
+      "id": "ra:2544052",
+      "title": "ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544052"
+    },
+    {
       "id": "ra:2519249",
       "title": "Techno Therapy x Herbivox: ADE Saturday",
       "date": "2026-10-24",
@@ -54,6 +34,16 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519249"
+    },
+    {
+      "id": "ra:2522140",
+      "title": "Waterhouse x Garden Of Dreams invites Lehar",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522140"
     },
     {
       "id": "ra:2503288",
@@ -74,9 +64,49 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507203"
+    },
+    {
+      "id": "ra:2563519",
+      "title": "Afterhours Halloween Edition",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563519"
     }
   ],
   "past": [
+    {
+      "id": "ra:2490217",
+      "title": "For The Rhythm presents: Fort Riddim Vol. 1",
+      "date": "2026-09-19",
+      "start": "2026-09-19T22:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490217"
+    },
+    {
+      "id": "ra:2499676",
+      "title": "Discosabotage & 2lovers afterparty - night time",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499676"
+    },
+    {
+      "id": "ra:2498340",
+      "title": "Entity + Herbivox presents OVERGROW",
+      "date": "2026-08-29",
+      "start": "2026-08-29T16:00+02:00",
+      "venue": "Waterhouse Studios",
+      "venue_id": "274196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498340"
+    },
     {
       "id": "ra:2494892",
       "title": "Liquid Air",

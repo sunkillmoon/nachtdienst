@@ -1,0 +1,29 @@
+{
+  "id": "33237",
+  "name": "WOLF",
+  "upcoming": [
+    {
+      "id": "ra:2562256",
+      "title": "Wolf Music ADE Knees Up - Choices Vol.2 Launch Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562256"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "91976",
+      "name": "Retromigration",
+      "count": 1
+    },
+    {
+      "id": "54084",
+      "name": "Wolf Music",
+      "count": 1
+    }
+  ]
+}

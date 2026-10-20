@@ -1,0 +1,49 @@
+{
+  "id": "151591",
+  "name": "Club Tineke",
+  "upcoming": [
+    {
+      "id": "ra:2535059",
+      "title": "Club Tineke Halloween - SISSI'S Amsterdam",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535059"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "10446",
+      "name": "Benny Rodrigues",
+      "count": 1
+    },
+    {
+      "id": "131096",
+      "name": "Lewis Carroll",
+      "count": 1
+    },
+    {
+      "id": "93807",
+      "name": "Hayley Zalassi",
+      "count": 1
+    },
+    {
+      "id": "145321",
+      "name": "Lasse Top",
+      "count": 1
+    },
+    {
+      "id": "133750",
+      "name": "Ive Lovers",
+      "count": 1
+    },
+    {
+      "id": "171969",
+      "name": "Cas Tang",
+      "count": 1
+    }
+  ]
+}

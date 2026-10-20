@@ -2,16 +2,17 @@
   "id": "174234",
   "name": "Maria Louisa",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2376016",
-      "title": "ZeeZout Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Tuinen van West",
-      "venue_id": "131709",
+      "id": "ra:2514444",
+      "title": "RADION invites WAXXX x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2376016"
+      "url": "https://ra.co/events/2514444"
     },
     {
       "id": "ra:2514599",
@@ -24,17 +25,15 @@
       "url": "https://ra.co/events/2514599"
     },
     {
-      "id": "ra:2514444",
-      "title": "RADION invites WAXXX x RIOT",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2376016",
+      "title": "ZeeZout Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Tuinen van West",
+      "venue_id": "131709",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514444"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2376016"
+    },
     {
       "id": "ra:2480519",
       "title": "Portente Invites",

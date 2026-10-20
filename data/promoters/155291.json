@@ -1,7 +1,8 @@
 {
   "id": "155291",
   "name": "SlapFunk Records",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2458327",
       "title": "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2458327"
     }
   ],
-  "past": [],
   "top_artists": []
 }

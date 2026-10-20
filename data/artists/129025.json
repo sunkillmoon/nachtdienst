@@ -2,7 +2,8 @@
   "id": "129025",
   "name": "Blaze Trax",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492783",
       "title": "SIMPLICITY",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2492783"
     }
-  ],
-  "past": []
+  ]
 }

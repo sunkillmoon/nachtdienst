@@ -2,7 +2,8 @@
   "id": "168569",
   "name": "mckelv",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498340",
       "title": "Entity + Herbivox presents OVERGROW",
@@ -12,9 +13,7 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498340"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2488713",
       "title": "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen",

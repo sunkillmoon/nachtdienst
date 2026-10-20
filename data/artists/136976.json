@@ -4,24 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2500670",
-      "title": "RADION Season Opener",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2492405",
+      "title": "LNR: Local Night RADION - ADE edition",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2500670"
-    },
+      "url": "https://ra.co/events/2492405"
+    }
+  ],
+  "past": [
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
+      "id": "ra:2504760",
+      "title": "GRÜV",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2504760"
     },
     {
       "id": "ra:2421033",
@@ -34,27 +36,25 @@
       "url": "https://ra.co/events/2421033"
     },
     {
-      "id": "ra:2504760",
-      "title": "GRÜV",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2504760"
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
     },
     {
-      "id": "ra:2492405",
-      "title": "LNR - ADE edition",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
+      "id": "ra:2500670",
+      "title": "RADION Season Opener",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
       "venue": "RADION",
       "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2492405"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2500670"
+    },
     {
       "id": "ra:2452159",
       "title": "Vault Sessions x Symbole x In.di.go WKNDR - NIGHT | RADION",

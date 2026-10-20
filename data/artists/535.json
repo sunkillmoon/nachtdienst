@@ -2,7 +2,8 @@
   "id": "535",
   "name": "Eddie Richards",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2492190",
       "title": "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2492190"
     }
-  ],
-  "past": []
+  ]
 }

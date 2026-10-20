@@ -4,6 +4,58 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2519880",
+      "title": "Festifest ADE (Sold Out)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519880"
+    },
+    {
+      "id": "ra:2545097",
+      "title": "Field Notes Family Affair",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545097"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    },
+    {
+      "id": "ra:2527116",
+      "title": "Studio 508 x Sound Metaphors & Friends | 2026 CALL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Studio 508",
+      "venue_id": "295898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527116"
+    },
+    {
+      "id": "ra:2559154",
+      "title": "Cometa 'Coco' Nostra",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559154"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2330627",
       "title": "Into the Woods 2026",
       "date": "2026-09-18",
@@ -12,17 +64,6 @@
       "venue_id": "128577",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2330627"
-    },
-    {
-      "id": "ra:2519880",
-      "title": "Festifest ADE",
-      "date": "2026-10-23",
-      "start": "2026-10-23T20:00+02:00",
-      "venue": "Het Dorp",
-      "venue_id": "278095",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519880"
     }
-  ],
-  "past": []
+  ]
 }

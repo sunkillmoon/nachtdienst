@@ -2,7 +2,8 @@
   "id": "186213",
   "name": "Bastiaan",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518280",
       "title": "Stuck in a Loop with Leo Cardi (CHI), Triart (TUR)",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518280"
     }
-  ],
-  "past": []
+  ]
 }

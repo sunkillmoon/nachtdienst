@@ -1,0 +1,28 @@
+{
+  "id": "136325",
+  "name": "Murphy's Law",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2553841",
+      "title": "50:HERTZ CLUB TRAIN X Eats Everything",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553841"
+    },
+    {
+      "id": "ra:2546414",
+      "title": "MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Jimmy Woo",
+      "venue_id": "2766",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546414"
+    }
+  ],
+  "past": []
+}

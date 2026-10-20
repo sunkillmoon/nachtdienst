@@ -6,14 +6,44 @@
   "lng": 4.478826,
   "upcoming": [
     {
-      "id": "ra:2500769",
-      "title": "360 Degrees: Jayda G, Danou P & Love Transmission",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
+      "id": "ra:2565539",
+      "title": "Night with Lima",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
       "venue": "BIRD",
       "venue_id": "48317",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2500769"
+      "url": "https://ra.co/events/2565539"
+    },
+    {
+      "id": "ra:2565548",
+      "title": "Midnight Melodies",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:30+02:00",
+      "venue": "BIRD",
+      "venue_id": "48317",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2565548"
+    },
+    {
+      "id": "ra:2565554",
+      "title": "Papagayo Latin Party",
+      "date": "2026-10-25",
+      "start": "2026-10-25T19:00+01:00",
+      "venue": "BIRD",
+      "venue_id": "48317",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2565554"
+    },
+    {
+      "id": "ra:2565557",
+      "title": "De Danshal: Hallowhine",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "BIRD",
+      "venue_id": "48317",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2565557"
     },
     {
       "id": "ra:2512954",
@@ -26,5 +56,16 @@
       "url": "https://ra.co/events/2512954"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2500769",
+      "title": "360 Degrees: Jayda G, Danou P & Love Transmission",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "BIRD",
+      "venue_id": "48317",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500769"
+    }
+  ]
 }

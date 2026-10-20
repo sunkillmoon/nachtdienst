@@ -1,7 +1,18 @@
 {
   "id": "102759",
   "name": "PAX-ROMANA",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2537519",
+      "title": "Ratherlost & PAX-ROMANA PRESENT: CODA",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537519"
+    }
+  ],
   "past": [
     {
       "id": "ra:2486464",
@@ -16,43 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "60129",
-      "name": "Altinbas",
+      "id": "9004",
+      "name": "Andy Martin",
       "count": 1
     },
     {
-      "id": "103304",
-      "name": "Delano Legito",
+      "id": "42046",
+      "name": "Richard Akingbehin",
       "count": 1
     },
     {
-      "id": "93138",
-      "name": "BELLA (NL)",
+      "id": "44873",
+      "name": "Aurora Halal",
       "count": 1
     },
     {
-      "id": "143900",
-      "name": "Lara Renner",
+      "id": "3481",
+      "name": "Jane Fitz",
       "count": 1
     },
     {
-      "id": "807",
-      "name": "Shinedoe",
+      "id": "75509",
+      "name": "Paquita Gordon",
       "count": 1
     },
     {
-      "id": "24079",
-      "name": "Tijana T",
+      "id": "44350",
+      "name": "Konduku",
       "count": 1
     },
     {
-      "id": "37738",
-      "name": "Tripeo",
+      "id": "32067",
+      "name": "Mary Yuzovskaya",
       "count": 1
     },
     {
-      "id": "19093",
-      "name": "Voiski",
+      "id": "50867",
+      "name": "Moopie",
+      "count": 1
+    },
+    {
+      "id": "75729",
+      "name": "Naone",
+      "count": 1
+    },
+    {
+      "id": "84095",
+      "name": "Rosati",
       "count": 1
     }
   ]

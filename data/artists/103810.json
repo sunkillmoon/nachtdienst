@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516918",
-      "title": "Frenzy x shockwerk",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2516918"
-    },
-    {
-      "id": "ra:2514445",
-      "title": "FRENZY x SHOCKWERK",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2514445"
-    },
-    {
       "id": "ra:2470628",
       "title": "ADE - Patrick Mason pres MASONICS",
       "date": "2026-10-21",
@@ -42,9 +22,39 @@
       "venue_id": "91202",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470624"
+    },
+    {
+      "id": "ra:2531389",
+      "title": "Vinylism x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531389"
     }
   ],
   "past": [
+    {
+      "id": "ra:2514445",
+      "title": "FRENZY x SHOCKWERK",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514445"
+    },
+    {
+      "id": "ra:2516918",
+      "title": "Frenzy x shockwerk",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516918"
+    },
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",

@@ -4,26 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458125",
-      "title": "SPIELRAUM Weekender: Nexus opening",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458125"
-    },
-    {
-      "id": "ra:2491494",
-      "title": "Club Night",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491494"
-    },
-    {
       "id": "ra:2497409",
       "title": "Phono Lake ADE with Magda & Sandrien",
       "date": "2026-10-23",
@@ -42,7 +22,38 @@
       "venue_id": "175707",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511545"
+    },
+    {
+      "id": "ra:2489846",
+      "title": "VBX x fabric x Loud-Contact presented by TILLATEC",
+      "date": "2026-10-26",
+      "start": "2026-10-26T09:00+01:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489846"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2491494",
+      "title": "Club Night",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491494"
+    },
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
+    }
+  ]
 }

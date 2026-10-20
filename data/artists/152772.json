@@ -2,7 +2,8 @@
   "id": "152772",
   "name": "LIMA (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498952",
       "title": "IN TUNE ~~",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2498952"
     }
-  ],
-  "past": []
+  ]
 }

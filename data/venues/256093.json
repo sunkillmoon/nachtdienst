@@ -1,0 +1,20 @@
+{
+  "id": "256093",
+  "name": "Krux Brewery",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.95,
+  "upcoming": [
+    {
+      "id": "ra:2561833",
+      "title": "Fiv54our",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Krux Brewery",
+      "venue_id": "256093",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561833"
+    }
+  ],
+  "past": []
+}

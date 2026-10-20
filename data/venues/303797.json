@@ -1,0 +1,30 @@
+{
+  "id": "303797",
+  "name": "Café Lux",
+  "area": "All",
+  "lat": 52.36,
+  "lng": 4.88,
+  "upcoming": [
+    {
+      "id": "ra:2547169",
+      "title": "DC RECORDS ADE SHOWCASE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Lux",
+      "venue_id": "303797",
+      "area": "All",
+      "url": "https://ra.co/events/2547169"
+    },
+    {
+      "id": "ra:2565057",
+      "title": "ADE: Laurent Schark & JP Lantieri present Selection Live Show",
+      "date": "2026-10-28",
+      "start": "2026-10-28T19:00+01:00",
+      "venue": "Café Lux",
+      "venue_id": "303797",
+      "area": "All",
+      "url": "https://ra.co/events/2565057"
+    }
+  ],
+  "past": []
+}

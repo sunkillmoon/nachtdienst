@@ -1,0 +1,20 @@
+{
+  "id": "302041",
+  "name": "Nazka",
+  "area": "Amsterdam",
+  "lat": 52.35,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2541518",
+      "title": "Nazka Sundown Mestizo Bites & Cuts",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:30+02:00",
+      "venue": "Nazka",
+      "venue_id": "302041",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2541518"
+    }
+  ],
+  "past": []
+}

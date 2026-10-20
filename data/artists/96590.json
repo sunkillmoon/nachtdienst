@@ -1,0 +1,28 @@
+{
+  "id": "96590",
+  "name": "Ferrari",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2551014",
+      "title": "Creatures Of The Night — ADE Label Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Bar Theo",
+      "venue_id": "202501",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551014"
+    },
+    {
+      "id": "ra:2491520",
+      "title": "Polifonic & SMIILE ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491520"
+    }
+  ],
+  "past": []
+}

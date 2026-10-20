@@ -1,0 +1,20 @@
+{
+  "id": "301709",
+  "name": "Flint Space",
+  "area": "Amsterdam",
+  "lat": 52.36,
+  "lng": 4.9,
+  "upcoming": [
+    {
+      "id": "ra:2528040",
+      "title": "DRILLA by Alarico - Official Launch",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Flint Space",
+      "venue_id": "301709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528040"
+    }
+  ],
+  "past": []
+}

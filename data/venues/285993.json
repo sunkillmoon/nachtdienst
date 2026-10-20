@@ -4,7 +4,78 @@
   "area": "All",
   "lat": 52.22,
   "lng": 6.89,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2553739",
+      "title": "ANTIA x TR.EAT YOUR GIRL RIGHT",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2553739"
+    },
+    {
+      "id": "ra:2553740",
+      "title": "INDUSTRIAL NIGHT",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2553740"
+    },
+    {
+      "id": "ra:2564753",
+      "title": "ANTIA OPEN DECKS",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564753"
+    },
+    {
+      "id": "ra:2552753",
+      "title": "Central Prøject x ANTIA",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2552753"
+    },
+    {
+      "id": "ra:2564762",
+      "title": "HALLOWEEN: Ball of the (un)dead",
+      "date": "2026-10-31",
+      "start": "2026-10-31T21:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564762"
+    },
+    {
+      "id": "ra:2564769",
+      "title": "CLUB NIGHT",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564769"
+    },
+    {
+      "id": "ra:2564772",
+      "title": "MUSEUMNACHT x ANTIA (afterparty)",
+      "date": "2026-11-06",
+      "start": "2026-11-07T00:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2564772"
+    }
+  ],
   "past": [
     {
       "id": "ra:2506889",

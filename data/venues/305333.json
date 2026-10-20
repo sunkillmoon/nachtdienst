@@ -1,0 +1,20 @@
+{
+  "id": "305333",
+  "name": "Cornerstore",
+  "area": "All",
+  "lat": 52.39,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2562228",
+      "title": "Jazz Club ADE 26 Encore",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Cornerstore",
+      "venue_id": "305333",
+      "area": "All",
+      "url": "https://ra.co/events/2562228"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "150082",
+  "name": "Detroit Techno Militia LLC",
+  "upcoming": [
+    {
+      "id": "ra:2534712",
+      "title": "313X020: BBQ Amsterdam invites Detroit",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534712"
+    },
+    {
+      "id": "ra:2527704",
+      "title": "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527704"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "9362",
+      "name": "T.Linder",
+      "count": 2
+    },
+    {
+      "id": "30330",
+      "name": "Detune",
+      "count": 2
+    },
+    {
+      "id": "9553",
+      "name": "Neil V",
+      "count": 2
+    },
+    {
+      "id": "61034",
+      "name": "DJ Roach",
+      "count": 2
+    },
+    {
+      "id": "131943",
+      "name": "De León",
+      "count": 2
+    },
+    {
+      "id": "135210",
+      "name": "Daniel Englisch",
+      "count": 1
+    },
+    {
+      "id": "68874",
+      "name": "Sous Dubois",
+      "count": 1
+    },
+    {
+      "id": "97097",
+      "name": "Angelo D'onorio",
+      "count": 1
+    },
+    {
+      "id": "5986",
+      "name": "M-Cecile",
+      "count": 1
+    },
+    {
+      "id": "104667",
+      "name": "Antonio Fevola",
+      "count": 1
+    }
+  ]
+}

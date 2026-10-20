@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2554611",
+      "title": "Club Fair x Overdrive",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Club Royal",
+      "venue_id": "304515",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554611"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2517605",
       "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
       "date": "2026-10-02",
@@ -12,9 +24,7 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517605"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2505828",
       "title": "Echoe's Of The Deep",

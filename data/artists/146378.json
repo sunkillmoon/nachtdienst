@@ -2,7 +2,8 @@
   "id": "146378",
   "name": "Matteo Racheli",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499676",
       "title": "Discosabotage & 2lovers afterparty - night time",
@@ -12,9 +13,7 @@
       "venue_id": "274196",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499676"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2475528",
       "title": "Discosabotage summer issue 25.07.26",

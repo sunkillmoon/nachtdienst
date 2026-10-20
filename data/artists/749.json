@@ -2,7 +2,18 @@
   "id": "749",
   "name": "Paul Kalkbrenner",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2523349",
+      "title": "Paul Kalkbrenner Live x Loveland - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:30+02:00",
+      "venue": "Theater Amsterdam",
+      "venue_id": "128624",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523349"
+    }
+  ],
   "past": [
     {
       "id": "ra:2354081",

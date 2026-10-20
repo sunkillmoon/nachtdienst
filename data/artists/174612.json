@@ -1,0 +1,28 @@
+{
+  "id": "174612",
+  "name": "Astúria",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2560039",
+      "title": "UML Records - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560039"
+    },
+    {
+      "id": "ra:2564808",
+      "title": "PCR.fm Family Meeting",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Five Bells Amsterdam",
+      "venue_id": "305635",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564808"
+    }
+  ],
+  "past": []
+}

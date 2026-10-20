@@ -2,7 +2,8 @@
   "id": "13258",
   "name": "Alienata",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2458125",
       "title": "SPIELRAUM Weekender: Nexus opening",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2458125"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": "107121",
+  "name": "Galactica Festival",
+  "upcoming": [
+    {
+      "id": "ra:2535282",
+      "title": "Galactica at ADE Amsterdam with Luca Agnelli, SANTØS, Gianni Di Bernardo, Mattia Trani",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "TBA - Amsterdam Central Station ",
+      "venue_id": "302516",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535282"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "11318",
+      "name": "Luca Agnelli",
+      "count": 1
+    },
+    {
+      "id": "176209",
+      "name": "SANTØS",
+      "count": 1
+    },
+    {
+      "id": "79589",
+      "name": "Gianni Di Bernardo",
+      "count": 1
+    },
+    {
+      "id": "12263",
+      "name": "Mattia Trani",
+      "count": 1
+    },
+    {
+      "id": "162322",
+      "name": "SANEM",
+      "count": 1
+    },
+    {
+      "id": "85582",
+      "name": "V111",
+      "count": 1
+    }
+  ]
+}

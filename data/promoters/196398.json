@@ -1,0 +1,28 @@
+{
+  "id": "196398",
+  "name": "Bobbie Morel",
+  "upcoming": [
+    {
+      "id": "ra:2565803",
+      "title": "BOAT2",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565803"
+    },
+    {
+      "id": "ra:2565833",
+      "title": "BOAT2",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2565833"
+    }
+  ],
+  "past": [],
+  "top_artists": []
+}

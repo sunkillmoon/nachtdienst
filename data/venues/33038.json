@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.641004,
   "lng": 5.071402,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2324563",
       "title": "Outdoor Stereo 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2324563"
     }
-  ],
-  "past": []
+  ]
 }

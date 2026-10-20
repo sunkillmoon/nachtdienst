@@ -4,6 +4,26 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2521836",
+      "title": "EMBER ARTISTS x ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521836"
+    },
+    {
+      "id": "ra:2562444",
+      "title": "ELEKTRA x Mixmag Netherlands - ADE Edition",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562444"
+    },
+    {
       "id": "ra:2479188",
       "title": "FACE 2 FACE: ADE",
       "date": "2026-10-22",

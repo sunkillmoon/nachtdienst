@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479566",
-      "title": "Lofi by Tjade",
-      "date": "2026-09-12",
-      "start": "2026-09-12T14:00+02:00",
-      "venue": "Lofi",
-      "venue_id": "168878",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479566"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -24,6 +14,26 @@
       "url": "https://ra.co/events/2403606"
     },
     {
+      "id": "ra:2550544",
+      "title": "Fleur Shore presents: Undergrowth x PILOT x LabelWorx",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "Basement Amsterdam",
+      "venue_id": "303153",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550544"
+    },
+    {
+      "id": "ra:2534664",
+      "title": "Snatch! Records ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534664"
+    },
+    {
       "id": "ra:2498905",
       "title": "PIV ADE - Shelter Amsterdam",
       "date": "2026-10-22",
@@ -32,7 +42,38 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498905"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    },
+    {
+      "id": "ra:2522660",
+      "title": "b:wired presents: Bondage-Music x Paracou",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522660"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2479566",
+      "title": "Lofi by Tjade",
+      "date": "2026-09-12",
+      "start": "2026-09-12T14:00+02:00",
+      "venue": "Lofi",
+      "venue_id": "168878",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479566"
+    }
+  ]
 }

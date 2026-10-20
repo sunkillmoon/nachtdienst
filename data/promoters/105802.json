@@ -1,0 +1,64 @@
+{
+  "id": "105802",
+  "name": "Minimal Collective",
+  "upcoming": [
+    {
+      "id": "ra:2528548",
+      "title": "Minimal Collective x Oude Kerk: Post-Space",
+      "date": "2026-10-22",
+      "start": "2026-10-22T10:00+02:00",
+      "venue": "Oude Kerk",
+      "venue_id": "230693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528548"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "115745",
+      "name": "LazerGazer",
+      "count": 1
+    },
+    {
+      "id": "65599",
+      "name": "Buttechno",
+      "count": 1
+    },
+    {
+      "id": "73639",
+      "name": "Woody92",
+      "count": 1
+    },
+    {
+      "id": "172773",
+      "name": "Floid.live",
+      "count": 1
+    },
+    {
+      "id": "96790",
+      "name": "Carmen Villain",
+      "count": 1
+    },
+    {
+      "id": "138441",
+      "name": "Lulá Luna",
+      "count": 1
+    },
+    {
+      "id": "88823",
+      "name": "Temple Rat",
+      "count": 1
+    },
+    {
+      "id": "182430",
+      "name": "Okgwa",
+      "count": 1
+    },
+    {
+      "id": "64969",
+      "name": "The Chi Factory",
+      "count": 1
+    }
+  ]
+}

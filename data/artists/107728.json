@@ -1,0 +1,38 @@
+{
+  "id": "107728",
+  "name": "Softi",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    },
+    {
+      "id": "ra:2563194",
+      "title": "Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563194"
+    },
+    {
+      "id": "ra:2537011",
+      "title": "Tale of Bus ADE - daytime",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Het Salon",
+      "venue_id": "237692",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537011"
+    }
+  ],
+  "past": []
+}

@@ -6,34 +6,24 @@
   "lng": 4.494994,
   "upcoming": [
     {
-      "id": "ra:2479794",
-      "title": "Afterparty Rotterdam Rave Festival 2026",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2544563",
+      "title": "Megarave",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2479794"
+      "url": "https://ra.co/events/2544563"
     },
     {
-      "id": "ra:2404225",
-      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
-      "date": "2026-10-03",
-      "start": "2026-10-03T14:00+02:00",
+      "id": "ra:2452805",
+      "title": "Hospital30 Halloween Rotterdam",
+      "date": "2026-10-30",
+      "start": "2026-10-30T22:00+01:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2404225"
-    },
-    {
-      "id": "ra:2479799",
-      "title": "BØĘRY All Night Long",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "Maassilo",
-      "venue_id": "4902",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2479799"
+      "url": "https://ra.co/events/2452805"
     },
     {
       "id": "ra:2436427",
@@ -46,14 +36,14 @@
       "url": "https://ra.co/events/2436427"
     },
     {
-      "id": "ra:2452805",
-      "title": "Hospital30 Halloween Rotterdam",
-      "date": "2026-10-31",
-      "start": "2026-10-31T23:00+01:00",
+      "id": "ra:2479802",
+      "title": "TiTi All Night Long",
+      "date": "2026-11-14",
+      "start": "2026-11-14T23:59+01:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2452805"
+      "url": "https://ra.co/events/2479802"
     },
     {
       "id": "ra:2479896",
@@ -64,17 +54,38 @@
       "venue_id": "4902",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2479896"
-    },
+    }
+  ],
+  "past": [
     {
-      "id": "ra:2479802",
-      "title": "TiTi All Night Long",
-      "date": "2026-11-14",
-      "start": "2026-11-14T23:59+01:00",
+      "id": "ra:2479799",
+      "title": "BØĘRY All Night Long",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
       "venue": "Maassilo",
       "venue_id": "4902",
       "area": "Rotterdam",
-      "url": "https://ra.co/events/2479802"
+      "url": "https://ra.co/events/2479799"
+    },
+    {
+      "id": "ra:2404225",
+      "title": "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED",
+      "date": "2026-10-03",
+      "start": "2026-10-03T14:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2404225"
+    },
+    {
+      "id": "ra:2479794",
+      "title": "Afterparty Rotterdam Rave Festival 2026",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Maassilo",
+      "venue_id": "4902",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2479794"
     }
-  ],
-  "past": []
+  ]
 }

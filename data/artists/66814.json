@@ -1,0 +1,38 @@
+{
+  "id": "66814",
+  "name": "Mayell",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2469603",
+      "title": "ADE - VBX - SATURDAY DAY ",
+      "date": "2026-10-23",
+      "start": "2026-10-24T07:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469603"
+    },
+    {
+      "id": "ra:2469610",
+      "title": "Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT ",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469610"
+    },
+    {
+      "id": "ra:2469608",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469608"
+    }
+  ],
+  "past": []
+}

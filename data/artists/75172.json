@@ -2,7 +2,18 @@
   "id": "75172",
   "name": "Cobahn",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2534097",
+      "title": "PODD x Omen Wapta x Ute",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534097"
+    }
+  ],
   "past": [
     {
       "id": "ra:2489462",

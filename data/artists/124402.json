@@ -4,12 +4,32 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2534381",
+      "title": "1001Tracklists x DJ Lovers Club pres. Open Channel ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Chicago Social Club",
+      "venue_id": "43438",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534381"
+    },
+    {
+      "id": "ra:2522611",
+      "title": "Hot Meal pres. Mija Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522611"
+    },
+    {
       "id": "ra:2473385",
       "title": "Intercell x Skin On Skin Invites - ADE By Day",
       "date": "2026-10-24",
       "start": "2026-10-24T14:00+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473385"
     }

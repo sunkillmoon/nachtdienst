@@ -4,18 +4,18 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2499718",
-      "title": "RAUM invites One Eye Witness",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
+      "id": "ra:2469789",
+      "title": "ADE - Shanti Celeste Curates VBX",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2499718"
+      "url": "https://ra.co/events/2469789"
     },
     {
       "id": "ra:2494395",
-      "title": "Runner's High",
+      "title": "Breakfast Club ADE: Runner's High",
       "date": "2026-10-24",
       "start": "2026-10-24T09:00+02:00",
       "venue": "RADION",
@@ -24,5 +24,16 @@
       "url": "https://ra.co/events/2494395"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2499718",
+      "title": "RAUM invites One Eye Witness",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499718"
+    }
+  ]
 }

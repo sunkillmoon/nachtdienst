@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2466448",
+      "title": "PIV - The Loft [SOLD OUT]",
+      "date": "2026-10-21",
+      "start": "2026-10-22T07:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466448"
+    },
+    {
+      "id": "ra:2534127",
+      "title": "Toman pres. High Ceilings - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Camarat",
+      "venue_id": "302381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534127"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2464177",
       "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
       "date": "2026-08-30",
@@ -12,9 +34,7 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2464177"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2486365",
       "title": "Colorado Charlie with Toman (3hrs), Silvie Loto, Sem Jacobs",

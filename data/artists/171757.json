@@ -2,7 +2,8 @@
   "id": "171757",
   "name": "KEVN",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514783",
       "title": "20kHz SPECTRA x DuysteR",
@@ -12,9 +13,7 @@
       "venue_id": "52605",
       "area": "Nijmegen",
       "url": "https://ra.co/events/2514783"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478412",
       "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",

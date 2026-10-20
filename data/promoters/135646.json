@@ -3,6 +3,58 @@
   "name": "Sona",
   "upcoming": [
     {
+      "id": "ra:2513188",
+      "title": "Monkey Project [ADE]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2513188"
+    },
+    {
+      "id": "ra:2526324",
+      "title": "SONA presents: Reznik [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Westerkerk",
+      "venue_id": "222196",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526324"
+    },
+    {
+      "id": "ra:2532205",
+      "title": "Rossi.HOME//GRXWN [ADE]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532205"
+    },
+    {
+      "id": "ra:2505070",
+      "title": "GOLFOS [ADE]",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Taets Art & Event Park",
+      "venue_id": "79979",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505070"
+    },
+    {
+      "id": "ra:2539773",
+      "title": "Sona presents: Two and A Half Cats",
+      "date": "2026-10-25",
+      "start": "2026-10-26T07:00+01:00",
+      "venue": "Ijland",
+      "venue_id": "188055",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539773"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2441335",
       "title": "Sona presents: &ME and Rampa",
       "date": "2026-09-05",
@@ -11,9 +63,7 @@
       "venue_id": "10328",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2441335"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2376005",
       "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",
@@ -27,18 +77,53 @@
   ],
   "top_artists": [
     {
-      "id": "6388",
-      "name": "&ME",
+      "id": "4853",
+      "name": "WhoMadeWho",
       "count": 1
     },
     {
-      "id": "5011",
-      "name": "Rampa",
+      "id": "113721",
+      "name": "Charmeine",
       "count": 1
     },
     {
-      "id": "62077",
-      "name": "Chris Stussy",
+      "id": "161142",
+      "name": "People Like Us (3)",
+      "count": 1
+    },
+    {
+      "id": "110702",
+      "name": "Tripolism",
+      "count": 1
+    },
+    {
+      "id": "6428",
+      "name": "Reznik",
+      "count": 1
+    },
+    {
+      "id": "25394",
+      "name": "Laolu",
+      "count": 1
+    },
+    {
+      "id": "107929",
+      "name": "Khadija (DE)",
+      "count": 1
+    },
+    {
+      "id": "83736",
+      "name": "Rossi",
+      "count": 1
+    },
+    {
+      "id": "50379",
+      "name": "Locklead",
+      "count": 1
+    },
+    {
+      "id": "115816",
+      "name": "DJ Cosworth",
       "count": 1
     }
   ]

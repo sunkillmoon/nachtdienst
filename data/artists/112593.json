@@ -2,7 +2,18 @@
   "id": "112593",
   "name": "Renceau",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2558507",
+      "title": "Silva Bumpa ADE Pre-party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558507"
+    }
+  ],
   "past": [
     {
       "id": "ra:2454703",

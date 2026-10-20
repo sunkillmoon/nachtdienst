@@ -1,0 +1,28 @@
+{
+  "id": "90394",
+  "name": "Biagio Ess",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2547169",
+      "title": "DC RECORDS ADE SHOWCASE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Lux",
+      "venue_id": "303797",
+      "area": "All",
+      "url": "https://ra.co/events/2547169"
+    },
+    {
+      "id": "ra:2514874",
+      "title": "30th ADE: Only Mistakes - Kikko INVITES",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2514874"
+    }
+  ],
+  "past": []
+}

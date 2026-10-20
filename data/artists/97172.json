@@ -2,7 +2,38 @@
   "id": "97172",
   "name": "NIKS",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559138",
+      "title": "Victor & Friends with Lea Occhi, Muallem, NIKS, Victor",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559138"
+    },
+    {
+      "id": "ra:2495393",
+      "title": "ZeeZout ADE - Friday Daytime",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
+      "venue": "Het Rijk van de Keizer",
+      "venue_id": "19615",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495393"
+    },
+    {
+      "id": "ra:2557857",
+      "title": "M0RN1NG 4FT3R",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "TBA - Amsterdam",
+      "venue_id": "301377",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557857"
+    }
+  ],
   "past": [
     {
       "id": "ra:2444343",

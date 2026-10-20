@@ -2,7 +2,18 @@
   "id": "168607",
   "name": "Deejay Abstract",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2553739",
+      "title": "ANTIA x TR.EAT YOUR GIRL RIGHT",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2553739"
+    }
+  ],
   "past": [
     {
       "id": "ra:2375299",

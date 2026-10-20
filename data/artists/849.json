@@ -1,0 +1,28 @@
+{
+  "id": "849",
+  "name": "Optimo (Espacio)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2527116",
+      "title": "Studio 508 x Sound Metaphors & Friends | 2026 CALL",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Studio 508",
+      "venue_id": "295898",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527116"
+    },
+    {
+      "id": "ra:2532104",
+      "title": "ZeeZout ADE - Saturday Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532104"
+    }
+  ],
+  "past": []
+}

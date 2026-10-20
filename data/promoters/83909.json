@@ -1,0 +1,34 @@
+{
+  "id": "83909",
+  "name": "Chevry.agency",
+  "upcoming": [
+    {
+      "id": "ra:2538471",
+      "title": "Chevry x Shotgun | ADE Showcase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Hasta La Vista, Baby",
+      "venue_id": "276162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538471"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "83418",
+      "name": "Vitess",
+      "count": 1
+    },
+    {
+      "id": "33296",
+      "name": "HearThug",
+      "count": 1
+    },
+    {
+      "id": "83422",
+      "name": "Deborah Aime La Bagarre",
+      "count": 1
+    }
+  ]
+}

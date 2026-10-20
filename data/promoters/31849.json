@@ -3,54 +3,66 @@
   "name": "Club NYX",
   "upcoming": [
     {
-      "id": "ra:2506186",
-      "title": "Vrijdag is NYX",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
+      "id": "ra:2507060",
+      "title": "RARA AVIS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506186"
+      "url": "https://ra.co/events/2507060"
     },
     {
-      "id": "ra:2487497",
-      "title": "3xNYX: In the Mix",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
+      "id": "ra:2543225",
+      "title": "Vrijdag is NYX: Halloween",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2487497"
+      "url": "https://ra.co/events/2543225"
     },
     {
-      "id": "ra:2506190",
-      "title": "Vrijdag is NYX: International Beyoncé Day",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:00+02:00",
+      "id": "ra:2523446",
+      "title": "3xNYX: HALLOQUEEN",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506190"
+      "url": "https://ra.co/events/2523446"
     },
     {
-      "id": "ra:2506079",
-      "title": "3xNYX hosted by Abby OMG",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
+      "id": "ra:2545771",
+      "title": "Vrijdag is NYX 6/11",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506079"
+      "url": "https://ra.co/events/2545771"
     },
     {
-      "id": "ra:2511200",
-      "title": "Vrijdag is NYX",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
+      "id": "ra:2545756",
+      "title": "3xNYX hosted by Gwen Dalin",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511200"
+      "url": "https://ra.co/events/2545756"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2506125",
+      "title": "3xNYX: Burn the House Down",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506125"
     },
     {
       "id": "ra:2506087",
@@ -63,27 +75,55 @@
       "url": "https://ra.co/events/2506087"
     },
     {
-      "id": "ra:2506125",
-      "title": "3xNYX: Burn the House Down",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
+      "id": "ra:2511200",
+      "title": "Vrijdag is NYX",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506125"
+      "url": "https://ra.co/events/2511200"
     },
     {
-      "id": "ra:2507060",
-      "title": "RARA AVIS",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
+      "id": "ra:2506079",
+      "title": "3xNYX hosted by Abby OMG",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
       "venue": "Club NYX",
       "venue_id": "69256",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507060"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2506079"
+    },
+    {
+      "id": "ra:2506190",
+      "title": "Vrijdag is NYX: International Beyoncé Day",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506190"
+    },
+    {
+      "id": "ra:2487497",
+      "title": "3xNYX: In the Mix",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2487497"
+    },
+    {
+      "id": "ra:2506186",
+      "title": "Vrijdag is NYX",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506186"
+    },
     {
       "id": "ra:2487494",
       "title": "3xNYX: Burn the House Down",
@@ -157,18 +197,33 @@
   ],
   "top_artists": [
     {
-      "id": "186376",
-      "name": "Soulfania",
-      "count": 3
+      "id": "186386",
+      "name": "Edward Meunier",
+      "count": 5
+    },
+    {
+      "id": "185245",
+      "name": "The Groovejet",
+      "count": 4
     },
     {
       "id": "186378",
       "name": "Joseph Steel",
+      "count": 4
+    },
+    {
+      "id": "186385",
+      "name": "Jordy Jordos",
+      "count": 4
+    },
+    {
+      "id": "186374",
+      "name": "Aiscream",
       "count": 3
     },
     {
-      "id": "186386",
-      "name": "Edward Meunier",
+      "id": "137891",
+      "name": "Emma Champagne Queen",
       "count": 3
     },
     {
@@ -177,34 +232,19 @@
       "count": 3
     },
     {
-      "id": "186374",
-      "name": "Aiscream",
+      "id": "186376",
+      "name": "Soulfania",
+      "count": 3
+    },
+    {
+      "id": "135651",
+      "name": "TEKNA",
       "count": 2
     },
     {
-      "id": "186377",
-      "name": "Babs op de beat",
+      "id": "94442",
+      "name": "Spikey Lee",
       "count": 2
-    },
-    {
-      "id": "186385",
-      "name": "Jordy Jordos",
-      "count": 2
-    },
-    {
-      "id": "137891",
-      "name": "Emma Champagne Queen",
-      "count": 2
-    },
-    {
-      "id": "185245",
-      "name": "The Groovejet",
-      "count": 2
-    },
-    {
-      "id": "25019",
-      "name": "Charlie",
-      "count": 1
     }
   ]
 }

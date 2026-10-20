@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.48,
   "lng": 4.58,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507172",
       "title": "HOMEGROUND SUMMER CLOSING",
@@ -14,9 +15,7 @@
       "venue_id": "269965",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507172"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2508100",
       "title": "New Amsterdam Beach takeover",

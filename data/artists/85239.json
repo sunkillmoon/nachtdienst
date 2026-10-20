@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
+      "id": "ra:2481562",
+      "title": "Mind Against presents HABITAT x Loveland - ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481562"
     },
+    {
+      "id": "ra:2553870",
+      "title": "50:HERTZ CLUB TRAIN X Colyn",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553870"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2485021",
       "title": "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth",
@@ -24,17 +36,15 @@
       "url": "https://ra.co/events/2485021"
     },
     {
-      "id": "ra:2481562",
-      "title": "Mind Against presents HABITAT x Loveland - ADE 2026",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "Mediahaven - Minervahaven",
-      "venue_id": "93679",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2481562"
-    }
-  ],
-  "past": [
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
     {
       "id": "ra:2302716",
       "title": "Loveland Festival 2026",

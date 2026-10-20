@@ -4,6 +4,28 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2539869",
+      "title": "Magnitude Recordings Label Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539869"
+    },
+    {
+      "id": "ra:2532074",
+      "title": "Manual Family Get Together 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532074"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518373",
       "title": "Le Petit Paradis",
       "date": "2026-09-05",
@@ -12,9 +34,7 @@
       "venue_id": "300706",
       "area": "The Hague",
       "url": "https://ra.co/events/2518373"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487393",
       "title": "Kadinsky Sessions 074",

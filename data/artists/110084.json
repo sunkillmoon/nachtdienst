@@ -4,54 +4,56 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2506044",
-      "title": "ONTZET! - Wolter Wolthers X Onder de Pannen",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland",
-      "venue_id": "299272",
-      "area": "All",
-      "url": "https://ra.co/events/2506044"
-    },
-    {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
-    {
-      "id": "ra:2449033",
-      "title": "Brighter Days at the Beach",
-      "date": "2026-08-30",
-      "start": "2026-08-30T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2449033"
+      "url": "https://ra.co/events/2504927"
     },
     {
-      "id": "ra:2450489",
-      "title": "LIEF Festival",
-      "date": "2026-09-05",
-      "start": "2026-09-05T12:00+02:00",
-      "venue": "Strijkviertel",
-      "venue_id": "12609",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2450489"
+      "id": "ra:2516768",
+      "title": "The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516768"
     },
     {
-      "id": "ra:2402447",
-      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2402447"
+      "id": "ra:2529465",
+      "title": "Private Hearts Club ADE '26",
+      "date": "2026-10-24",
+      "start": "2026-10-24T16:00+02:00",
+      "venue": "Café Soleil Amsterdam",
+      "venue_id": "277577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529465"
+    },
+    {
+      "id": "ra:2538695",
+      "title": "I-F • Intergalactic Gary • Eileen",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538695"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2506011",
+      "title": "I-F - EILEEN - 5 hour sets",
+      "date": "2026-09-25",
+      "start": "2026-09-25T19:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506011"
     },
     {
       "id": "ra:2330627",
@@ -64,17 +66,55 @@
       "url": "https://ra.co/events/2330627"
     },
     {
-      "id": "ra:2506011",
-      "title": "I-F - EILEEN - 5 hour sets",
-      "date": "2026-09-25",
-      "start": "2026-09-25T19:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2402447",
+      "title": "David Vunk 50 jaar: tegen alle verwachtingen in",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2402447"
+    },
+    {
+      "id": "ra:2450489",
+      "title": "LIEF Festival",
+      "date": "2026-09-05",
+      "start": "2026-09-05T12:00+02:00",
+      "venue": "Strijkviertel",
+      "venue_id": "12609",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2450489"
+    },
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2506011"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2449033"
+    },
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
+    {
+      "id": "ra:2506044",
+      "title": "ONTZET! - Wolter Wolthers X Onder de Pannen",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "TBA -  Suikerlaan 4, 9743 DA Groningen, Nederland",
+      "venue_id": "299272",
+      "area": "All",
+      "url": "https://ra.co/events/2506044"
+    },
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

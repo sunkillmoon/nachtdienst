@@ -12,6 +12,16 @@
       "venue_id": "109027",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2482113"
+    },
+    {
+      "id": "ra:2538471",
+      "title": "Chevry x Shotgun | ADE Showcase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Hasta La Vista, Baby",
+      "venue_id": "276162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538471"
     }
   ],
   "past": [

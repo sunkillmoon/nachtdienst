@@ -1,0 +1,28 @@
+{
+  "id": "188925",
+  "name": "BLR (NL)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2539668",
+      "title": "Chasing Dreams ADE Charity Fundraiser",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Café Restaurant De Kroon",
+      "venue_id": "139683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539668"
+    },
+    {
+      "id": "ra:2539901",
+      "title": "AAA Events presents High Voltage x Critical Sounds Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Tequila Club | Amsterdam",
+      "venue_id": "299754",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539901"
+    }
+  ],
+  "past": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "188288",
+  "name": "Mixmag Asia",
+  "upcoming": [
+    {
+      "id": "ra:2564595",
+      "title": "Pavilion East",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564595"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "78501",
+      "name": "Ecilo",
+      "count": 1
+    },
+    {
+      "id": "174182",
+      "name": "Gibs (ID)",
+      "count": 1
+    },
+    {
+      "id": "81566",
+      "name": "ling:chi",
+      "count": 1
+    }
+  ]
+}

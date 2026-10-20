@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.39,
   "lng": 4.85,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512898",
       "title": "Kármán VI - Community event",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2512898"
     }
-  ],
-  "past": []
+  ]
 }

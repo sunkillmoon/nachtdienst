@@ -6,6 +6,58 @@
   "lng": 4.894169,
   "upcoming": [
     {
+      "id": "ra:2554749",
+      "title": "Strength in Sound",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554749"
+    },
+    {
+      "id": "ra:2554759",
+      "title": "100% SJATOEN",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554759"
+    },
+    {
+      "id": "ra:2555370",
+      "title": "What's up with vintage samplers",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555370"
+    },
+    {
+      "id": "ra:2539771",
+      "title": "Primal Instinct with Chlär & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539771"
+    },
+    {
+      "id": "ra:2554760",
+      "title": "100% KATOEN",
+      "date": "2026-10-29",
+      "start": "2026-10-29T20:00+01:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2554760"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506085",
       "title": "100% KATOEN",
       "date": "2026-08-27",
@@ -14,9 +66,7 @@
       "venue_id": "124046",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506085"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2506082",
       "title": "100% KATOEN",

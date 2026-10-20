@@ -3,6 +3,38 @@
   "name": "Intergalactic FM",
   "upcoming": [
     {
+      "id": "ra:2537596",
+      "title": "Intergalactic FM",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2537596"
+    },
+    {
+      "id": "ra:2532110",
+      "title": "Intergalactic FM presents All Stars",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2532110"
+    },
+    {
+      "id": "ra:2523599",
+      "title": "Intergalactic FM presents Acid Bunker",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2523599"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
       "date": "2026-09-26",
@@ -13,8 +45,37 @@
       "url": "https://ra.co/events/2518339"
     }
   ],
-  "past": [],
   "top_artists": [
+    {
+      "id": "2930",
+      "name": "I-F",
+      "count": 3
+    },
+    {
+      "id": "110072",
+      "name": "Mowgli (NL)",
+      "count": 2
+    },
+    {
+      "id": "48170",
+      "name": "Marsman",
+      "count": 2
+    },
+    {
+      "id": "104358",
+      "name": "Esther Dune",
+      "count": 2
+    },
+    {
+      "id": "117584",
+      "name": "O;Riordan (NL)",
+      "count": 1
+    },
+    {
+      "id": "149617",
+      "name": "Samira",
+      "count": 1
+    },
     {
       "id": "5469",
       "name": "Alden Tyrell",
@@ -26,11 +87,6 @@
       "count": 1
     },
     {
-      "id": "2930",
-      "name": "I-F",
-      "count": 1
-    },
-    {
       "id": "98599",
       "name": "Luca dell'Orso",
       "count": 1
@@ -38,26 +94,6 @@
     {
       "id": "170819",
       "name": "Dynamic D",
-      "count": 1
-    },
-    {
-      "id": "31211",
-      "name": "Ian Martin",
-      "count": 1
-    },
-    {
-      "id": "104358",
-      "name": "Esther Dune",
-      "count": 1
-    },
-    {
-      "id": "184510",
-      "name": "Droom",
-      "count": 1
-    },
-    {
-      "id": "48170",
-      "name": "Marsman",
       "count": 1
     }
   ]

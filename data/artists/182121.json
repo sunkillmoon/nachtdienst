@@ -2,7 +2,18 @@
   "id": "182121",
   "name": "Kingdom Sound",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2551659",
+      "title": "yusu invites champion w/ ezri jade, kingdom sound, yusu selectors & alleek",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "murmur",
+      "venue_id": "188430",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551659"
+    }
+  ],
   "past": [
     {
       "id": "ra:2375299",

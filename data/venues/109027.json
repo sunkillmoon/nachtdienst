@@ -6,76 +6,6 @@
   "lng": 4.855274,
   "upcoming": [
     {
-      "id": "ra:2464177",
-      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
-      "date": "2026-08-30",
-      "start": "2026-08-30T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2464177"
-    },
-    {
-      "id": "ra:2458433",
-      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
-      "date": "2026-09-06",
-      "start": "2026-09-06T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458433"
-    },
-    {
-      "id": "ra:2501961",
-      "title": "Liquicity Family Day 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501961"
-    },
-    {
-      "id": "ra:2451241",
-      "title": "13 SEP - Thuishaven with MENESIX 10HRS SOLD OUT",
-      "date": "2026-09-13",
-      "start": "2026-09-13T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2451241"
-    },
-    {
-      "id": "ra:2466662",
-      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
-      "date": "2026-09-20",
-      "start": "2026-09-20T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2466662"
-    },
-    {
-      "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491639"
-    },
-    {
-      "id": "ra:2501894",
-      "title": "04 OKT - IOSIO 10HRS SOLD OUT",
-      "date": "2026-10-04",
-      "start": "2026-10-04T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501894"
-    },
-    {
       "id": "ra:2475062",
       "title": "Glitterbox ADE",
       "date": "2026-10-22",
@@ -117,7 +47,7 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
@@ -156,6 +86,16 @@
       "url": "https://ra.co/events/2404228"
     },
     {
+      "id": "ra:2537817",
+      "title": "08 - Thuishaven with Locklead / Job de Jong / Kepler",
+      "date": "2026-11-08",
+      "start": "2026-11-08T13:00+01:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537817"
+    },
+    {
       "id": "ra:2510454",
       "title": "Thuishaven with X CLUB. / DART / NewTone / Freddi",
       "date": "2026-11-22",
@@ -167,6 +107,76 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2501894",
+      "title": "04 OKT - IOSIO 10HRS SOLD OUT",
+      "date": "2026-10-04",
+      "start": "2026-10-04T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501894"
+    },
+    {
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
+    },
+    {
+      "id": "ra:2466662",
+      "title": "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT",
+      "date": "2026-09-20",
+      "start": "2026-09-20T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466662"
+    },
+    {
+      "id": "ra:2451241",
+      "title": "13 SEP - Thuishaven with MENESIX 10HRS SOLD OUT",
+      "date": "2026-09-13",
+      "start": "2026-09-13T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2451241"
+    },
+    {
+      "id": "ra:2501961",
+      "title": "Liquicity Family Day 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501961"
+    },
+    {
+      "id": "ra:2458433",
+      "title": "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT",
+      "date": "2026-09-06",
+      "start": "2026-09-06T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458433"
+    },
+    {
+      "id": "ra:2464177",
+      "title": "30 AUG - Thuishaven with Toman / Dean Turnley / AAT",
+      "date": "2026-08-30",
+      "start": "2026-08-30T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2464177"
+    },
     {
       "id": "ra:2500221",
       "title": "VYBZ Festival",

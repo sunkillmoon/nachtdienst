@@ -2,7 +2,8 @@
   "id": "173212",
   "name": "Axiver",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514783",
       "title": "20kHz SPECTRA x DuysteR",
@@ -13,6 +14,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2514783"
     }
-  ],
-  "past": []
+  ]
 }

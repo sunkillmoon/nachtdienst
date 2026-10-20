@@ -1,0 +1,39 @@
+{
+  "id": "59922",
+  "name": "Flemcy Music",
+  "upcoming": [
+    {
+      "id": "ra:2565057",
+      "title": "ADE: Laurent Schark & JP Lantieri present Selection Live Show",
+      "date": "2026-10-28",
+      "start": "2026-10-28T19:00+01:00",
+      "venue": "Café Lux",
+      "venue_id": "303797",
+      "area": "All",
+      "url": "https://ra.co/events/2565057"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "55388",
+      "name": "JP Lantieri",
+      "count": 1
+    },
+    {
+      "id": "41968",
+      "name": "Laurent Schark",
+      "count": 1
+    },
+    {
+      "id": "59277",
+      "name": "Music P",
+      "count": 1
+    },
+    {
+      "id": "30599",
+      "name": "The Supermen Lovers",
+      "count": 1
+    }
+  ]
+}

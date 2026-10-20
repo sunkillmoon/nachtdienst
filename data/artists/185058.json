@@ -2,7 +2,8 @@
   "id": "185058",
   "name": "Tell Moore",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2480568",
       "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
@@ -13,6 +14,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2480568"
     }
-  ],
-  "past": []
+  ]
 }

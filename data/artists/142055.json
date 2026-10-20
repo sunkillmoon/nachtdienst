@@ -1,0 +1,28 @@
+{
+  "id": "142055",
+  "name": "Michael Moog",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540292",
+      "title": "Vessel presents: Kenny Dope, Todd Terry, Roland Clark, + more",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540292"
+    },
+    {
+      "id": "ra:2539500",
+      "title": "Vessel presents Kenny Dope & Todd Terry",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539500"
+    }
+  ],
+  "past": []
+}

@@ -4,15 +4,27 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2399040",
-      "title": "PIP Season Opening",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2399040"
+      "id": "ra:2537596",
+      "title": "Intergalactic FM",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "NAR",
+      "venue_id": "210189",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2537596"
     },
+    {
+      "id": "ra:2532110",
+      "title": "Intergalactic FM presents All Stars",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2532110"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2519567",
       "title": "Sissi's Friday with SWAY, Mowgli & Ays",
@@ -22,7 +34,16 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2519567"
+    },
+    {
+      "id": "ra:2399040",
+      "title": "PIP Season Opening",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399040"
     }
-  ],
-  "past": []
+  ]
 }

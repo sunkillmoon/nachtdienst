@@ -1,0 +1,38 @@
+{
+  "id": "41471",
+  "name": "Paranoid London",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2550063",
+      "title": "Het Dorp x In Place Of War",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:30+02:00",
+      "venue": "Het Dorp",
+      "venue_id": "278095",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550063"
+    },
+    {
+      "id": "ra:2552484",
+      "title": "EarthSonic, ADE and Nxt Museum present: Two Seas and Vinorun",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552484"
+    },
+    {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
+    }
+  ],
+  "past": []
+}

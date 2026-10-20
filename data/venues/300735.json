@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": null,
   "lng": null,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518339",
       "title": "Intergalactic FM presents Disco Fetish XXL",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2518339"
     }
-  ],
-  "past": []
+  ]
 }

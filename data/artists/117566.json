@@ -12,6 +12,26 @@
       "venue_id": "2763",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2498349"
+    },
+    {
+      "id": "ra:2540871",
+      "title": "Ruben Karapetyan presents Meet & Greet",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540871"
+    },
+    {
+      "id": "ra:2547194",
+      "title": "Ruben Karapetyan presents Meet & Greet",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547194"
     }
   ],
   "past": []

@@ -3,6 +3,16 @@
   "name": "Nxt Museum",
   "upcoming": [
     {
+      "id": "ra:2552484",
+      "title": "EarthSonic, ADE and Nxt Museum present: Two Seas and Vinorun",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552484"
+    },
+    {
       "id": "ra:2517699",
       "title": "Mr. Belt & Wezol at Nxt Museum ADE",
       "date": "2026-10-23",
@@ -15,6 +25,16 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "41471",
+      "name": "Paranoid London",
+      "count": 1
+    },
+    {
+      "id": "122269",
+      "name": "Natural Symphony (Live)",
+      "count": 1
+    },
     {
       "id": "148315",
       "name": "Mr. Belt & Wezol",

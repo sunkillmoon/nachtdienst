@@ -1,0 +1,20 @@
+{
+  "id": "305031",
+  "name": "ADE Boat Party",
+  "area": "Amsterdam",
+  "lat": 52.4,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2559158",
+      "title": "ADE Boat Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "ADE Boat Party",
+      "venue_id": "305031",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559158"
+    }
+  ],
+  "past": []
+}

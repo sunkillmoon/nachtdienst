@@ -2,7 +2,28 @@
   "id": "164212",
   "name": "Zeyvers",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2524480",
+      "title": "RAVING CHARLIE: Hard Techno / Rave [ADE Special]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524480"
+    },
+    {
+      "id": "ra:2498430",
+      "title": "RAVING CHARLIE: Hard Techno / Halloween Rave",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:59+01:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498430"
+    }
+  ],
   "past": [
     {
       "id": "ra:2423000",

@@ -1,7 +1,8 @@
 {
   "id": "185869",
   "name": "LET’S BREAK PROTOCOL",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504882",
       "title": "BREAK PROTOCOL #2",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2504882"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "151048",

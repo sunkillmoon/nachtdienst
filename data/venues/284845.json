@@ -4,7 +4,58 @@
   "area": "Amsterdam",
   "lat": 52.36,
   "lng": 4.88,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2530022",
+      "title": "Killacutz invites SWAG Records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530022"
+    },
+    {
+      "id": "ra:2534664",
+      "title": "Snatch! Records ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534664"
+    },
+    {
+      "id": "ra:2522611",
+      "title": "Hot Meal pres. Mija Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522611"
+    },
+    {
+      "id": "ra:2533075",
+      "title": "Backspin x Mixmag NL [daytime 2-10pm]",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533075"
+    },
+    {
+      "id": "ra:2537446",
+      "title": "CACAO",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Basement (Amsterdam)",
+      "venue_id": "284845",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537446"
+    }
+  ],
   "past": [
     {
       "id": "ra:2511853",

@@ -1,0 +1,28 @@
+{
+  "id": "96393",
+  "name": "Jumelage",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2540556",
+      "title": "From Amsterdam with Love  ADE30",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540556"
+    },
+    {
+      "id": "ra:2558569",
+      "title": "Fluid Funk Label Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Cafe Restaurant De Bazel",
+      "venue_id": "304975",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558569"
+    }
+  ],
+  "past": []
+}

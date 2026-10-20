@@ -4,7 +4,8 @@
   "area": "Nijmegen",
   "lat": 51.85,
   "lng": 5.87,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519263",
       "title": "Housequake 'All Boat Long'",
@@ -15,6 +16,5 @@
       "area": "Nijmegen",
       "url": "https://ra.co/events/2519263"
     }
-  ],
-  "past": []
+  ]
 }

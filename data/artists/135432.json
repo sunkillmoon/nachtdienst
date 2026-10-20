@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2539812",
+      "title": "Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539812"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2493000",
       "title": "Anacalypto & Friends",
       "date": "2026-09-05",
@@ -12,9 +24,7 @@
       "venue_id": "13028",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493000"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2483937",
       "title": "Klub Analog",

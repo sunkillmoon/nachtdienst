@@ -3,16 +3,6 @@
   "name": "UNMUTE",
   "upcoming": [
     {
-      "id": "ra:2481531",
-      "title": "UNMUTE X Rinse FM X Back:beat",
-      "date": "2026-09-06",
-      "start": "2026-09-06T18:00+02:00",
-      "venue": "Boomerang Beach",
-      "venue_id": "90287",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2481531"
-    },
-    {
       "id": "ra:2496769",
       "title": "ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more",
       "date": "2026-10-22",
@@ -23,38 +13,19 @@
       "url": "https://ra.co/events/2496769"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2481531",
+      "title": "UNMUTE X Rinse FM X Back:beat",
+      "date": "2026-09-06",
+      "start": "2026-09-06T18:00+02:00",
+      "venue": "Boomerang Beach",
+      "venue_id": "90287",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2481531"
+    }
+  ],
   "top_artists": [
-    {
-      "id": "183814",
-      "name": "SOVÉ (2)",
-      "count": 1
-    },
-    {
-      "id": "124162",
-      "name": "Janis Zielinski",
-      "count": 1
-    },
-    {
-      "id": "146324",
-      "name": "JÄMO",
-      "count": 1
-    },
-    {
-      "id": "182572",
-      "name": "Sam Hofman",
-      "count": 1
-    },
-    {
-      "id": "180589",
-      "name": "CLAESSENS",
-      "count": 1
-    },
-    {
-      "id": "87856",
-      "name": "DJANGO (NL)",
-      "count": 1
-    },
     {
       "id": "82621",
       "name": "Bellaire",
@@ -73,6 +44,36 @@
     {
       "id": "133786",
       "name": "Laura Meester",
+      "count": 1
+    },
+    {
+      "id": "132926",
+      "name": "Alec Dienaar",
+      "count": 1
+    },
+    {
+      "id": "180357",
+      "name": "Drabes",
+      "count": 1
+    },
+    {
+      "id": "183470",
+      "name": "Julian Wijn",
+      "count": 1
+    },
+    {
+      "id": "145321",
+      "name": "Lasse Top",
+      "count": 1
+    },
+    {
+      "id": "144498",
+      "name": "Milo Passier",
+      "count": 1
+    },
+    {
+      "id": "183814",
+      "name": "SOVÉ (2)",
       "count": 1
     }
   ]

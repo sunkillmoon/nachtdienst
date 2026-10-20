@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
-    },
+      "id": "ra:2559075",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 4)",
+      "date": "2026-10-23",
+      "start": "2026-10-24T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559075"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2510347",
       "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky",
@@ -22,7 +24,16 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2510347"
+    },
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
     }
-  ],
-  "past": []
+  ]
 }

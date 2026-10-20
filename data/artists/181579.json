@@ -2,7 +2,8 @@
   "id": "181579",
   "name": "Symbiotica",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471371",
       "title": "KINK FEST ROTTERDAM (For the first time in Netherlands!)",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2471371"
     }
-  ],
-  "past": []
+  ]
 }

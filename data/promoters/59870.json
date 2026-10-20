@@ -1,0 +1,29 @@
+{
+  "id": "59870",
+  "name": "Metamorfosi",
+  "upcoming": [
+    {
+      "id": "ra:2528684",
+      "title": "ADE Sunday with Joseph Capriati (SOLD OUT)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528684"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "4243",
+      "name": "Joseph Capriati",
+      "count": 1
+    },
+    {
+      "id": "89718",
+      "name": "Cristina Lazic",
+      "count": 1
+    }
+  ]
+}

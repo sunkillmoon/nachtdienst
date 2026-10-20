@@ -2,7 +2,18 @@
   "id": "114185",
   "name": "da Graca Brothers",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2563477",
+      "title": "Redbox presents House of Redbox",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563477"
+    }
+  ],
   "past": [
     {
       "id": "ra:2505832",

@@ -3,6 +3,58 @@
   "name": "Export",
   "upcoming": [
     {
+      "id": "ra:2556996",
+      "title": "Nomads Invite: Jolene & Bobby Martin",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2556996"
+    },
+    {
+      "id": "ra:2561496",
+      "title": "HALLOW'S EVE: haunted soirée",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561496"
+    },
+    {
+      "id": "ra:2561510",
+      "title": "PAUZE",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:59+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561510"
+    },
+    {
+      "id": "ra:2561205",
+      "title": "Fantastic Man, Jeff Solo",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:59+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2561205"
+    },
+    {
+      "id": "ra:2544194",
+      "title": "POING 4 YEAR ANNIVERSARY",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "export",
+      "venue_id": "278763",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2544194"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2492189",
       "title": "Interdimensional Transmissions x Clone Records",
       "date": "2026-08-28",
@@ -11,9 +63,7 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2492189"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2501667",
       "title": "POING FESTIVAL after hours",
@@ -107,53 +157,53 @@
   ],
   "top_artists": [
     {
-      "id": "34874",
-      "name": "Ectomorph",
+      "id": "112928",
+      "name": "Slimfit",
+      "count": 2
+    },
+    {
+      "id": "163595",
+      "name": "Nomads",
       "count": 1
     },
     {
-      "id": "15648",
-      "name": "Erika",
+      "id": "106952",
+      "name": "Krismika",
       "count": 1
     },
     {
-      "id": "15714",
-      "name": "BMG",
+      "id": "151724",
+      "name": "LeBagig",
       "count": 1
     },
     {
-      "id": "3596",
-      "name": "Serge",
+      "id": "109427",
+      "name": "marienus",
       "count": 1
     },
     {
-      "id": "123497",
-      "name": "jannah",
+      "id": "186653",
+      "name": "Oxar Zero",
       "count": 1
     },
     {
-      "id": "94318",
-      "name": "Alex Ranzino",
+      "id": "137831",
+      "name": "Jacquestrax",
       "count": 1
     },
     {
-      "id": "147969",
-      "name": "Helmond Lang",
+      "id": "143173",
+      "name": "Hauptgast",
       "count": 1
     },
     {
-      "id": "86500",
-      "name": "Gabrielle Kwarteng",
+      "id": "106236",
+      "name": "Rosa",
       "count": 1
     },
     {
-      "id": "148266",
-      "name": "Sunnysoposted",
-      "count": 1
-    },
-    {
-      "id": "148687",
-      "name": "36framez",
+      "id": "20125",
+      "name": "Fantastic Man",
       "count": 1
     }
   ]

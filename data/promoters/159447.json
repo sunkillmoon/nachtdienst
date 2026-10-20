@@ -1,7 +1,8 @@
 {
   "id": "159447",
   "name": "Arnav Saxena",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514986",
       "title": "DILJIT DOSANJH AFTERPARTY",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2514986"
     }
   ],
-  "past": [],
   "top_artists": []
 }

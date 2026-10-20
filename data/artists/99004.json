@@ -4,86 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2477399",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-08-27",
-      "start": "2026-08-27T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2477399"
-    },
-    {
-      "id": "ra:2519115",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-03",
-      "start": "2026-09-03T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519115"
-    },
-    {
-      "id": "ra:2519116",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-10",
-      "start": "2026-09-10T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519116"
-    },
-    {
-      "id": "ra:2519117",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-17",
-      "start": "2026-09-17T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519117"
-    },
-    {
-      "id": "ra:2519119",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-09-24",
-      "start": "2026-09-24T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519119"
-    },
-    {
-      "id": "ra:2519120",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-01",
-      "start": "2026-10-01T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519120"
-    },
-    {
-      "id": "ra:2519121",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-08",
-      "start": "2026-10-08T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519121"
-    },
-    {
-      "id": "ra:2519122",
-      "title": "Amsterdam Techno Sessions",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2519122"
-    },
-    {
       "id": "ra:2519124",
       "title": "Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase",
       "date": "2026-10-22",
@@ -105,6 +25,86 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2519122",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-15",
+      "start": "2026-10-15T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519122"
+    },
+    {
+      "id": "ra:2519121",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-08",
+      "start": "2026-10-08T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519121"
+    },
+    {
+      "id": "ra:2519120",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-10-01",
+      "start": "2026-10-01T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519120"
+    },
+    {
+      "id": "ra:2519119",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-24",
+      "start": "2026-09-24T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519119"
+    },
+    {
+      "id": "ra:2519117",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-17",
+      "start": "2026-09-17T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519117"
+    },
+    {
+      "id": "ra:2519116",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-10",
+      "start": "2026-09-10T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519116"
+    },
+    {
+      "id": "ra:2519115",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-09-03",
+      "start": "2026-09-03T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2519115"
+    },
+    {
+      "id": "ra:2477399",
+      "title": "Amsterdam Techno Sessions",
+      "date": "2026-08-27",
+      "start": "2026-08-27T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2477399"
+    },
     {
       "id": "ra:2477395",
       "title": "Amsterdam Techno Sessions with QV (Kontra - MB Elektroniks) COL & Marco Ramos (Anaøh )",

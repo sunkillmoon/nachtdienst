@@ -6,6 +6,18 @@
   "lng": 5.089459,
   "upcoming": [
     {
+      "id": "ra:2523599",
+      "title": "Intergalactic FM presents Acid Bunker",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:00+01:00",
+      "venue": "Hall of Fame",
+      "venue_id": "86588",
+      "area": "All",
+      "url": "https://ra.co/events/2523599"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512190",
       "title": "Krackfree Soundsystem 10year Anniversary Event - Tilburg",
       "date": "2026-10-09",
@@ -15,6 +27,5 @@
       "area": "All",
       "url": "https://ra.co/events/2512190"
     }
-  ],
-  "past": []
+  ]
 }

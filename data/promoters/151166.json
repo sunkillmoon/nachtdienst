@@ -3,6 +3,16 @@
   "name": "Electric Ibiza",
   "upcoming": [
     {
+      "id": "ra:2534146",
+      "title": "Alan Fitzpatrick & We Are The Brave presents FORMA - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-24T04:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534146"
+    },
+    {
       "id": "ra:2501967",
       "title": "Heavy House Society ADE",
       "date": "2026-10-24",
@@ -15,6 +25,21 @@
   ],
   "past": [],
   "top_artists": [
+    {
+      "id": "7777",
+      "name": "Alan Fitzpatrick",
+      "count": 1
+    },
+    {
+      "id": "102468",
+      "name": "Estella Boersma",
+      "count": 1
+    },
+    {
+      "id": "131684",
+      "name": "Fran LF",
+      "count": 1
+    },
     {
       "id": "20364",
       "name": "Sidney Charles",
@@ -48,16 +73,6 @@
     {
       "id": "117119",
       "name": "Hidde van Wee",
-      "count": 1
-    },
-    {
-      "id": "86081",
-      "name": "Jesse Maas",
-      "count": 1
-    },
-    {
-      "id": "115055",
-      "name": "Kim April",
       "count": 1
     }
   ]

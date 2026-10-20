@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501961",
-      "title": "Liquicity Family Day 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2501961"
-    },
-    {
       "id": "ra:2477799",
       "title": "SUNANDBASS Recordings Amsterdam",
       "date": "2026-11-21",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2477799"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2501961",
+      "title": "Liquicity Family Day 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2501961"
+    }
+  ]
 }

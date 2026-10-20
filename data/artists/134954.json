@@ -2,7 +2,28 @@
   "id": "134954",
   "name": "MelFerdi",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559061",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 2)",
+      "date": "2026-10-21",
+      "start": "2026-10-22T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559061"
+    },
+    {
+      "id": "ra:2521715",
+      "title": "Toffler presents Chess and friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2521715"
+    }
+  ],
   "past": [
     {
       "id": "ra:2446379",

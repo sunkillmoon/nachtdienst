@@ -2,7 +2,8 @@
   "id": "139606",
   "name": "JOTIS",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520204",
       "title": "Lahvoid Vol.02",
@@ -13,6 +14,5 @@
       "area": "All",
       "url": "https://ra.co/events/2520204"
     }
-  ],
-  "past": []
+  ]
 }

@@ -2,7 +2,8 @@
   "id": "70671",
   "name": "Animistic Beliefs",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2449960",
       "title": "Conflux Festival 2026",
@@ -12,9 +13,7 @@
       "venue_id": "293197",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2449960"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2440412",
       "title": "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE",

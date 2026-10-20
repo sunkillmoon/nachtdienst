@@ -1,0 +1,54 @@
+{
+  "id": "165603",
+  "name": "MMAATTCCHH BERLIN",
+  "upcoming": [
+    {
+      "id": "ra:2537711",
+      "title": "ALADAG presents MMAATTCCHH - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:30+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537711"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "160698",
+      "name": "Adellic",
+      "count": 1
+    },
+    {
+      "id": "131499",
+      "name": "ALADAG",
+      "count": 1
+    },
+    {
+      "id": "41612",
+      "name": "The Menendez Brothers",
+      "count": 1
+    },
+    {
+      "id": "6671",
+      "name": "Echonomist",
+      "count": 1
+    },
+    {
+      "id": "143467",
+      "name": "KENZA KAYATI",
+      "count": 1
+    },
+    {
+      "id": "56440",
+      "name": "Nandu",
+      "count": 1
+    },
+    {
+      "id": "150427",
+      "name": "Sonickraft",
+      "count": 1
+    }
+  ]
+}

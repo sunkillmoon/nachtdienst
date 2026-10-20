@@ -1,0 +1,50 @@
+{
+  "id": "126218",
+  "name": "Oosterbar",
+  "area": "Amsterdam",
+  "lat": 52.360845,
+  "lng": 4.918902,
+  "upcoming": [
+    {
+      "id": "ra:2551455",
+      "title": "BCB Family × FH Agency × CoverMyAss",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551455"
+    },
+    {
+      "id": "ra:2556314",
+      "title": "Convergence: FAIRGROUND x Pete Tong DJ Academy",
+      "date": "2026-10-22",
+      "start": "2026-10-22T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2556314"
+    },
+    {
+      "id": "ra:2545080",
+      "title": "AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545080"
+    },
+    {
+      "id": "ra:2527648",
+      "title": "Rave in the Lecture Hall - Melodic & Techno Takeover",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Oosterbar",
+      "venue_id": "126218",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527648"
+    }
+  ],
+  "past": []
+}

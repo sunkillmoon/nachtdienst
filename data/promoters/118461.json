@@ -1,0 +1,54 @@
+{
+  "id": "118461",
+  "name": "No Face Social Club",
+  "upcoming": [
+    {
+      "id": "ra:2549789",
+      "title": "Origins presents Brussels Bounce League (ADE F2F Showcase)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "TBA - 50:Hertz House & Techno Club Rembrandt Square",
+      "venue_id": "304052",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549789"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "63269",
+      "name": "Urumi",
+      "count": 1
+    },
+    {
+      "id": "149536",
+      "name": "RELO4D",
+      "count": 1
+    },
+    {
+      "id": "127628",
+      "name": "Dizo",
+      "count": 1
+    },
+    {
+      "id": "139387",
+      "name": "Ce$ar",
+      "count": 1
+    },
+    {
+      "id": "130155",
+      "name": "Loub",
+      "count": 1
+    },
+    {
+      "id": "139501",
+      "name": "Chris Youké",
+      "count": 1
+    },
+    {
+      "id": "178017",
+      "name": "Gouzz",
+      "count": 1
+    }
+  ]
+}

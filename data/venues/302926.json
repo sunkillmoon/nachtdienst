@@ -1,0 +1,20 @@
+{
+  "id": "302926",
+  "name": "TBA - Eivissa Event Ship - Danzigerkade 55",
+  "area": "Amsterdam",
+  "lat": null,
+  "lng": null,
+  "upcoming": [
+    {
+      "id": "ra:2538998",
+      "title": "Sketch Music Takeover - ADE Boat Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TBA - Eivissa Event Ship - Danzigerkade 55",
+      "venue_id": "302926",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538998"
+    }
+  ],
+  "past": []
+}

@@ -3,66 +3,6 @@
   "name": "Melkweg",
   "upcoming": [
     {
-      "id": "ra:2490626",
-      "title": "Six Sex PRESENTS",
-      "date": "2026-09-04",
-      "start": "2026-09-04T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490626"
-    },
-    {
-      "id": "ra:2490680",
-      "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490680"
-    },
-    {
-      "id": "ra:2490686",
-      "title": "TR/ST – Live",
-      "date": "2026-09-13",
-      "start": "2026-09-13T19:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490686"
-    },
-    {
-      "id": "ra:2490676",
-      "title": "SIDEQUEST",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490676"
-    },
-    {
-      "id": "ra:2402813",
-      "title": "Curated by Break",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:30+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2402813"
-    },
-    {
-      "id": "ra:2490699",
-      "title": "Hard Attack",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "Melkweg",
-      "venue_id": "2693",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490699"
-    },
-    {
       "id": "ra:2489739",
       "title": "Mind Enterprises - ADE",
       "date": "2026-10-21",
@@ -93,6 +33,16 @@
       "url": "https://ra.co/events/2489760"
     },
     {
+      "id": "ra:2548428",
+      "title": "Takuya Nakamura",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548428"
+    },
+    {
       "id": "ra:2490696",
       "title": "bitbird presents: San Holo & DROELOE - ADE",
       "date": "2026-10-21",
@@ -101,6 +51,16 @@
       "venue_id": "2693",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2490696"
+    },
+    {
+      "id": "ra:2548416",
+      "title": "Hyper Dreams x Annie",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548416"
     },
     {
       "id": "ra:2490675",
@@ -295,6 +255,66 @@
   ],
   "past": [
     {
+      "id": "ra:2490699",
+      "title": "Hard Attack",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490699"
+    },
+    {
+      "id": "ra:2402813",
+      "title": "Curated by Break",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2402813"
+    },
+    {
+      "id": "ra:2490676",
+      "title": "SIDEQUEST",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490676"
+    },
+    {
+      "id": "ra:2490686",
+      "title": "TR/ST – Live",
+      "date": "2026-09-13",
+      "start": "2026-09-13T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490686"
+    },
+    {
+      "id": "ra:2490680",
+      "title": "Strength of Unity - 30 years of Cenobite Records & Ouwe Stijl is Botergeil",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490680"
+    },
+    {
+      "id": "ra:2490626",
+      "title": "Six Sex PRESENTS",
+      "date": "2026-09-04",
+      "start": "2026-09-04T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2490626"
+    },
+    {
       "id": "ra:2490645",
       "title": "BIXARIA + Vrau - CLUB CHROME",
       "date": "2026-08-08",
@@ -357,43 +377,43 @@
   ],
   "top_artists": [
     {
-      "id": "160384",
-      "name": "Six Sex",
-      "count": 1
-    },
-    {
-      "id": "143160",
-      "name": "Alírio",
-      "count": 1
-    },
-    {
-      "id": "84966",
-      "name": "Danytribe",
-      "count": 1
-    },
-    {
-      "id": "147272",
-      "name": "Delirium",
-      "count": 1
-    },
-    {
-      "id": "64858",
-      "name": "Hellboy",
-      "count": 1
-    },
-    {
-      "id": "69880",
-      "name": "Niro (1)",
-      "count": 1
-    },
-    {
-      "id": "68639",
-      "name": "Gysèle",
+      "id": "82255",
+      "name": "Takuya Nakamura",
       "count": 1
     },
     {
       "id": "124747",
       "name": "San Holo",
+      "count": 1
+    },
+    {
+      "id": "127843",
+      "name": "DJ SPORTSCHUH",
+      "count": 1
+    },
+    {
+      "id": "120553",
+      "name": "BNZN",
+      "count": 1
+    },
+    {
+      "id": "89628",
+      "name": "Luca Eck",
+      "count": 1
+    },
+    {
+      "id": "107211",
+      "name": "Meg10",
+      "count": 1
+    },
+    {
+      "id": "85229",
+      "name": "AK SPORTS",
+      "count": 1
+    },
+    {
+      "id": "97855",
+      "name": "CLTX",
       "count": 1
     },
     {

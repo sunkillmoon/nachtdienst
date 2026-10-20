@@ -4,36 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2399040",
-      "title": "PIP Season Opening",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
-      "venue": "PIP Den Haag",
-      "venue_id": "30689",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2399040"
-    },
-    {
-      "id": "ra:2449033",
-      "title": "Brighter Days at the Beach",
-      "date": "2026-08-30",
-      "start": "2026-08-30T17:00+02:00",
-      "venue": "Woodstock'69",
-      "venue_id": "10632",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2449033"
-    },
-    {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -42,6 +12,16 @@
       "venue_id": "125668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2403606"
+    },
+    {
+      "id": "ra:2532930",
+      "title": "ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Radio Radio",
+      "venue_id": "156530",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532930"
     },
     {
       "id": "ra:2297501",
@@ -65,6 +45,36 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
+    {
+      "id": "ra:2449033",
+      "title": "Brighter Days at the Beach",
+      "date": "2026-08-30",
+      "start": "2026-08-30T17:00+02:00",
+      "venue": "Woodstock'69",
+      "venue_id": "10632",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2449033"
+    },
+    {
+      "id": "ra:2399040",
+      "title": "PIP Season Opening",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "PIP Den Haag",
+      "venue_id": "30689",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2399040"
+    },
     {
       "id": "ra:2436135",
       "title": "Kinetic Festival 2026",

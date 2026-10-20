@@ -2,7 +2,18 @@
   "id": "117874",
   "name": "4am Kru",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2548526",
+      "title": "4am Kru",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548526"
+    }
+  ],
   "past": [
     {
       "id": "ra:2235347",

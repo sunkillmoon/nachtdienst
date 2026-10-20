@@ -11,23 +11,33 @@
       "venue_id": "301028",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2520840"
+    },
+    {
+      "id": "ra:2524168",
+      "title": "friends. THE VIEW - ADE - AMSTERDAM",
+      "date": "2026-10-23",
+      "start": "2026-10-24T01:30+02:00",
+      "venue": "Crane Hotel Faralda",
+      "venue_id": "141886",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524168"
     }
   ],
   "past": [],
   "top_artists": [
-    {
-      "id": "61978",
-      "name": "Amber (NL)",
-      "count": 1
-    },
     {
       "id": "52451",
       "name": "Marvin Aloys",
       "count": 1
     },
     {
-      "id": "127455",
-      "name": "RIØ (DE)",
+      "id": "151661",
+      "name": "MAURO",
+      "count": 1
+    },
+    {
+      "id": "175014",
+      "name": "Static Bloom (DE)",
       "count": 1
     },
     {
@@ -38,6 +48,31 @@
     {
       "id": "183438",
       "name": "YEPIK",
+      "count": 1
+    },
+    {
+      "id": "2341",
+      "name": "Super Flu",
+      "count": 1
+    },
+    {
+      "id": "133653",
+      "name": "Zamna Soundsystem",
+      "count": 1
+    },
+    {
+      "id": "84707",
+      "name": "Human Rias",
+      "count": 1
+    },
+    {
+      "id": "151647",
+      "name": "Alice DiMar",
+      "count": 1
+    },
+    {
+      "id": "183434",
+      "name": "Artur Bredo",
       "count": 1
     }
   ]

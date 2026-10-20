@@ -4,6 +4,58 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2559127",
+      "title": "Agency Mixer 2026 with Oceanic, Manami, Zeynep, Sarkawt Hamad",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559127"
+    },
+    {
+      "id": "ra:2555478",
+      "title": "Motie ADE: Helios x Oceanic (live)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Stopera",
+      "venue_id": "304598",
+      "area": "All",
+      "url": "https://ra.co/events/2555478"
+    },
+    {
+      "id": "ra:2539716",
+      "title": "co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:30+01:00",
+      "venue": "Garage Noord",
+      "venue_id": "137474",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539716"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2516702",
+      "title": "TWOFOLD",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Time is the new space",
+      "venue_id": "206986",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2516702"
+    },
+    {
+      "id": "ra:2309929",
+      "title": "Draaimolen Festival 2026",
+      "date": "2026-09-04",
+      "start": "2026-09-04T12:00+02:00",
+      "venue": "MOB Complex",
+      "venue_id": "161459",
+      "area": "All",
+      "url": "https://ra.co/events/2309929"
+    },
+    {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
       "date": "2026-08-28",
@@ -22,27 +74,6 @@
       "venue_id": "265527",
       "area": "The Hague",
       "url": "https://ra.co/events/2491497"
-    },
-    {
-      "id": "ra:2309929",
-      "title": "Draaimolen Festival 2026",
-      "date": "2026-09-04",
-      "start": "2026-09-04T12:00+02:00",
-      "venue": "MOB Complex",
-      "venue_id": "161459",
-      "area": "All",
-      "url": "https://ra.co/events/2309929"
-    },
-    {
-      "id": "ra:2516702",
-      "title": "TWOFOLD",
-      "date": "2026-09-12",
-      "start": "2026-09-12T21:00+02:00",
-      "venue": "Time is the new space",
-      "venue_id": "206986",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2516702"
     }
-  ],
-  "past": []
+  ]
 }

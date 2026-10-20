@@ -1,0 +1,28 @@
+{
+  "id": "56440",
+  "name": "Nandu",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2537711",
+      "title": "ALADAG presents MMAATTCCHH - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:30+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537711"
+    },
+    {
+      "id": "ra:2495931",
+      "title": "VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Generator",
+      "venue_id": "124224",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2495931"
+    }
+  ],
+  "past": []
+}

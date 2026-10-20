@@ -1,0 +1,29 @@
+{
+  "id": "193533",
+  "name": "Boyos Collective",
+  "upcoming": [
+    {
+      "id": "ra:2531051",
+      "title": "The Early Shift",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531051"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "183230",
+      "name": "Mr.Lando",
+      "count": 1
+    },
+    {
+      "id": "109899",
+      "name": "Boyos Soundsystem",
+      "count": 1
+    }
+  ]
+}

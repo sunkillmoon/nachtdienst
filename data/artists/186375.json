@@ -2,7 +2,8 @@
   "id": "186375",
   "name": "Mika Akela",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2487497",
       "title": "3xNYX: In the Mix",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487497"
     }
-  ],
-  "past": []
+  ]
 }

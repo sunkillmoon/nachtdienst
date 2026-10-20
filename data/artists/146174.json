@@ -4,24 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2373930",
-      "title": "Onder De Radar Festival 2026",
-      "date": "2026-08-28",
-      "start": "2026-08-28T14:00+02:00",
-      "venue": "Vliegbasis Twenthe",
-      "venue_id": "152676",
-      "area": "All",
-      "url": "https://ra.co/events/2373930"
-    },
+      "id": "ra:2498905",
+      "title": "PIV ADE - Shelter Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2498905"
+    }
+  ],
+  "past": [
     {
-      "id": "ra:2507151",
-      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
-      "date": "2026-09-06",
-      "start": "2026-09-06T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2507151"
+      "id": "ra:2491639",
+      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
+      "date": "2026-09-27",
+      "start": "2026-09-27T13:00+02:00",
+      "venue": "Thuishaven",
+      "venue_id": "109027",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2491639"
     },
     {
       "id": "ra:2515716",
@@ -34,25 +36,24 @@
       "url": "https://ra.co/events/2515716"
     },
     {
-      "id": "ra:2491639",
-      "title": "27 SEP - Thuishaven Zomerclosing SOLD OUT",
-      "date": "2026-09-27",
-      "start": "2026-09-27T13:00+02:00",
-      "venue": "Thuishaven",
-      "venue_id": "109027",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2491639"
+      "id": "ra:2507151",
+      "title": "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)",
+      "date": "2026-09-06",
+      "start": "2026-09-06T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2507151"
     },
     {
-      "id": "ra:2498905",
-      "title": "PIV ADE - Shelter Amsterdam",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2498905"
+      "id": "ra:2373930",
+      "title": "Onder De Radar Festival 2026",
+      "date": "2026-08-28",
+      "start": "2026-08-28T14:00+02:00",
+      "venue": "Vliegbasis Twenthe",
+      "venue_id": "152676",
+      "area": "All",
+      "url": "https://ra.co/events/2373930"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "303290",
+  "name": "Café Van Zuylen",
+  "area": "Amsterdam",
+  "lat": 52.37,
+  "lng": 4.89,
+  "upcoming": [
+    {
+      "id": "ra:2542364",
+      "title": "RÉSHAU x GROOVEDESK ADE meetup",
+      "date": "2026-10-20",
+      "start": "2026-10-20T16:00+02:00",
+      "venue": "Café Van Zuylen",
+      "venue_id": "303290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542364"
+    }
+  ],
+  "past": []
+}

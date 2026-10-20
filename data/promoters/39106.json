@@ -13,6 +13,16 @@
       "url": "https://ra.co/events/2403606"
     },
     {
+      "id": "ra:2560573",
+      "title": "Amsterdam Vinyl Club X Wanakam- opening night",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Wanakam",
+      "venue_id": "304482",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560573"
+    },
+    {
       "id": "ra:2414815",
       "title": "Hernan Cattaneo b2b Nick Warren - 6hrs ADE",
       "date": "2026-10-21",
@@ -33,8 +43,38 @@
       "url": "https://ra.co/events/2503874"
     },
     {
+      "id": "ra:2557004",
+      "title": "Doka Culture x Live Coding Sessions",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Doka",
+      "venue_id": "81540",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557004"
+    },
+    {
+      "id": "ra:2516675",
+      "title": "Lobster Invites - Free ADE Event",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516675"
+    },
+    {
+      "id": "ra:2524480",
+      "title": "RAVING CHARLIE: Hard Techno / Rave [ADE Special]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524480"
+    },
+    {
       "id": "ra:2407995",
-      "title": "Theory X Showcase - Royal Room , Escape - ADE",
+      "title": "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More ",
       "date": "2026-10-21",
       "start": "2026-10-21T22:00+02:00",
       "venue": "Escape",
@@ -51,6 +91,36 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459376"
+    },
+    {
+      "id": "ra:2546508",
+      "title": "collaba presents: 7 HOURS OF GROOVE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:30+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546508"
+    },
+    {
+      "id": "ra:2547522",
+      "title": "POWER AFTER at (AFTERPARTY) ",
+      "date": "2026-10-21",
+      "start": "2026-10-22T05:00+02:00",
+      "venue": "Supperclub",
+      "venue_id": "2684",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547522"
+    },
+    {
+      "id": "ra:2555504",
+      "title": "Bridges for Music at art'otel Ametsrdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "Art'otel Amsterdam",
+      "venue_id": "289333",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2555504"
     },
     {
       "id": "ra:2510708",
@@ -81,6 +151,56 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2484740"
+    },
+    {
+      "id": "ra:2532056",
+      "title": "Seb Wildblood pres. all my thoughts x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T19:00+02:00",
+      "venue": "Volta",
+      "venue_id": "103242",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532056"
+    },
+    {
+      "id": "ra:2516683",
+      "title": "SLACKER x BRET - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516683"
+    },
+    {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2479678",
+      "title": "Colorize: 15 Years - ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479678"
+    },
+    {
+      "id": "ra:2527209",
+      "title": "Currents - Configuration I - Rrose, Liza Kuzyakova, Hugo Lioret, Andreas Tegnander",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527209"
     },
     {
       "id": "ra:2459379",
@@ -123,6 +243,16 @@
       "url": "https://ra.co/events/2442149"
     },
     {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
       "id": "ra:2458425",
       "title": "Guy J - all night long",
       "date": "2026-10-22",
@@ -143,6 +273,16 @@
       "url": "https://ra.co/events/2502427"
     },
     {
+      "id": "ra:2540311",
+      "title": "ADE 26: Melodic Deep - Ten Years In Motion Club Train",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:59+02:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540311"
+    },
+    {
       "id": "ra:2503161",
       "title": "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL",
       "date": "2026-10-22",
@@ -151,6 +291,26 @@
       "venue_id": "221843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503161"
+    },
+    {
+      "id": "ra:2516693",
+      "title": "Ogazón invites Freddy K & Rene Wise - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T08:30+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516693"
+    },
+    {
+      "id": "ra:2518599",
+      "title": "WHO LOVES THE SUN (ADE DAY PARTY)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T11:00+02:00",
+      "venue": "Prik Amsterdam",
+      "venue_id": "300591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518599"
     },
     {
       "id": "ra:2499813",
@@ -163,6 +323,16 @@
       "url": "https://ra.co/events/2499813"
     },
     {
+      "id": "ra:2522580",
+      "title": "NRG ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522580"
+    },
+    {
       "id": "ra:2426450",
       "title": "Ritter Butzke & Casa ADE Cruise",
       "date": "2026-10-23",
@@ -171,6 +341,16 @@
       "venue_id": "34719",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2426450"
+    },
+    {
+      "id": "ra:2538998",
+      "title": "Sketch Music Takeover - ADE Boat Party",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "TBA - Eivissa Event Ship - Danzigerkade 55",
+      "venue_id": "302926",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538998"
     },
     {
       "id": "ra:2420664",
@@ -203,6 +383,16 @@
       "url": "https://ra.co/events/2484443"
     },
     {
+      "id": "ra:2537711",
+      "title": "ALADAG presents MMAATTCCHH - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:30+02:00",
+      "venue": "Club Baggerbeest",
+      "venue_id": "258176",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537711"
+    },
+    {
       "id": "ra:2475096",
       "title": "Audio Obscura ADE x EXHALE by Amelie Lens",
       "date": "2026-10-23",
@@ -213,14 +403,54 @@
       "url": "https://ra.co/events/2475096"
     },
     {
+      "id": "ra:2552500",
+      "title": "ADE Talk x Roland: The Future has a History (Jean Michel Jarre x Dasha Rush)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Kettlehuis",
+      "venue_id": "304323",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552500"
+    },
+    {
       "id": "ra:2473425",
-      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST 30 TICKETS] ",
+      "title": "Lelantus ADE TRAIN - Sunset Experience [LAST BACKSTAGE TICKETS]",
       "date": "2026-10-23",
       "start": "2026-10-23T18:00+02:00",
       "venue": "Amsterdam Central Station",
       "venue_id": "137362",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473425"
+    },
+    {
+      "id": "ra:2542940",
+      "title": "ATARASHI ADE with DJ Tennis, Saraga & More",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Fosbury & Sons Church",
+      "venue_id": "305448",
+      "area": "All",
+      "url": "https://ra.co/events/2542940"
+    },
+    {
+      "id": "ra:2527297",
+      "title": "Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527297"
+    },
+    {
+      "id": "ra:2523150",
+      "title": "The Disco Express: ADE Label Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Art''otel Amsterdam",
+      "venue_id": "289335",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523150"
     },
     {
       "id": "ra:2510431",
@@ -241,6 +471,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459380"
+    },
+    {
+      "id": "ra:2516700",
+      "title": "Anz, SHERELLE & MALLAURY x BRET x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516700"
     },
     {
       "id": "ra:2420673",
@@ -273,6 +513,46 @@
       "url": "https://ra.co/events/2502429"
     },
     {
+      "id": "ra:2534146",
+      "title": "Alan Fitzpatrick & We Are The Brave presents FORMA - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-24T04:00+02:00",
+      "venue": "50:Hertz House & Techno Cafe Rembrandt Square",
+      "venue_id": "304489",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534146"
+    },
+    {
+      "id": "ra:2524505",
+      "title": "EAST Techno Collective - The Afterparty [ADE Special]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524505"
+    },
+    {
+      "id": "ra:2548618",
+      "title": "Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY",
+      "date": "2026-10-24",
+      "start": "2026-10-24T09:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548618"
+    },
+    {
+      "id": "ra:2527366",
+      "title": "Currents - Ambrio & Spatial Sound Masterclasses",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527366"
+    },
+    {
       "id": "ra:2375140",
       "title": "Sasha b2b Patrice Baumel - 6hrs ADE",
       "date": "2026-10-24",
@@ -281,6 +561,16 @@
       "venue_id": "44668",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2375140"
+    },
+    {
+      "id": "ra:2527480",
+      "title": "Ewan McVicar presents Club Knuckles ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527480"
     },
     {
       "id": "ra:2478046",
@@ -293,14 +583,44 @@
       "url": "https://ra.co/events/2478046"
     },
     {
+      "id": "ra:2559158",
+      "title": "ADE Boat Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "ADE Boat Party",
+      "venue_id": "305031",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559158"
+    },
+    {
+      "id": "ra:2559333",
+      "title": "ADE: FEIERAMT x Furia Collective",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559333"
+    },
+    {
       "id": "ra:2493024",
       "title": "RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room",
       "date": "2026-10-24",
       "start": "2026-10-24T17:30+02:00",
-      "venue": "Amsterdam Club Train",
-      "venue_id": "297794",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493024"
+    },
+    {
+      "id": "ra:2527306",
+      "title": "Currents - Configuration III - nthng, Loek Frey, Casimir Geelhoed",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527306"
     },
     {
       "id": "ra:2459386",
@@ -313,6 +633,36 @@
       "url": "https://ra.co/events/2459386"
     },
     {
+      "id": "ra:2516705",
+      "title": "DAYCARE x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516705"
+    },
+    {
+      "id": "ra:2502535",
+      "title": "Paco Osuna x Now Here ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Escape",
+      "venue_id": "2683",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502535"
+    },
+    {
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    },
+    {
       "id": "ra:2503158",
       "title": "Bordello A Parigi - ADE",
       "date": "2026-10-24",
@@ -321,6 +671,16 @@
       "venue_id": "158843",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503158"
+    },
+    {
+      "id": "ra:2546286",
+      "title": "HAUSPLANT x ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Ndsm Theater",
+      "venue_id": "246422",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546286"
     },
     {
       "id": "ra:2499074",
@@ -353,16 +713,6 @@
       "url": "https://ra.co/events/2509389"
     },
     {
-      "id": "ra:2502535",
-      "title": "Paco Osuna x Now Here ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
-      "venue": "Escape",
-      "venue_id": "2683",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502535"
-    },
-    {
       "id": "ra:2459389",
       "title": "Madam invites: Detroit Love",
       "date": "2026-10-24",
@@ -371,6 +721,26 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459389"
+    },
+    {
+      "id": "ra:2544830",
+      "title": "Audio Obscura ADE at The Loft with Adriatique B2B Cloonee",
+      "date": "2026-10-24",
+      "start": "2026-10-25T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544830"
+    },
+    {
+      "id": "ra:2527316",
+      "title": "Currents - Gathering Sounds: Spatial Sound Meetup",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527316"
     },
     {
       "id": "ra:2459622",
@@ -383,8 +753,18 @@
       "url": "https://ra.co/events/2459622"
     },
     {
+      "id": "ra:2544835",
+      "title": "Audio Obscura ADE at The Loft with Michael Bibi",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544835"
+    },
+    {
       "id": "ra:2507687",
-      "title": "Berg Audio",
+      "title": "Berg Audio • ADE 2026",
       "date": "2026-10-25",
       "start": "2026-10-25T15:00+01:00",
       "venue": "Noorderlicht Café",
@@ -401,6 +781,16 @@
       "venue_id": "122376",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2459394"
+    },
+    {
+      "id": "ra:2544838",
+      "title": "Audio Obscura ADE at The Loft x Angels by Cloudy",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544838"
     }
   ],
   "past": [],
@@ -408,6 +798,21 @@
     {
       "id": "379",
       "name": "Carl Craig",
+      "count": 3
+    },
+    {
+      "id": "77557",
+      "name": "Easttown",
+      "count": 3
+    },
+    {
+      "id": "90759",
+      "name": "Zohar",
+      "count": 3
+    },
+    {
+      "id": "34952",
+      "name": "Nadia Struiwigh",
       "count": 3
     },
     {
@@ -436,23 +841,8 @@
       "count": 2
     },
     {
-      "id": "77557",
-      "name": "Easttown",
-      "count": 2
-    },
-    {
-      "id": "117739",
-      "name": "Ella Knight",
-      "count": 2
-    },
-    {
-      "id": "53893",
-      "name": "Ferreck Dawn",
-      "count": 2
-    },
-    {
-      "id": "47",
-      "name": "Ian Pooley",
+      "id": "17805",
+      "name": "DJ Tennis",
       "count": 2
     }
   ]

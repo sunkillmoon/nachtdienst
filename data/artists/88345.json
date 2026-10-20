@@ -2,7 +2,8 @@
   "id": "88345",
   "name": "Effy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2504956",
       "title": "Effy presents: Clubgirls",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2504956"
     }
-  ],
-  "past": []
+  ]
 }

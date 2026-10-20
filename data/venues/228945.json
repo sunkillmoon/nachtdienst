@@ -4,7 +4,68 @@
   "area": "Amsterdam",
   "lat": null,
   "lng": null,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2543575",
+      "title": "Melodize x ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543575"
+    },
+    {
+      "id": "ra:2558918",
+      "title": "Mannequin Records X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:30+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558918"
+    },
+    {
+      "id": "ra:2545167",
+      "title": "Nervous Records ADE Mixer 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545167"
+    },
+    {
+      "id": "ra:2562256",
+      "title": "Wolf Music ADE Knees Up - Choices Vol.2 Launch Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562256"
+    },
+    {
+      "id": "ra:2547450",
+      "title": "CURA Berlin x Parachute Booking - ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547450"
+    },
+    {
+      "id": "ra:2548914",
+      "title": "Soul Clap Records & Friends at ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Bordello Aperitivo",
+      "venue_id": "228945",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548914"
+    }
+  ],
   "past": [
     {
       "id": "ra:2484097",

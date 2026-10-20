@@ -1,0 +1,64 @@
+{
+  "id": "891",
+  "name": "CTM Festival",
+  "upcoming": [
+    {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2527297",
+      "title": "Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527297"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "29846",
+      "name": "Wata Igarashi",
+      "count": 2
+    },
+    {
+      "id": "34952",
+      "name": "Nadia Struiwigh",
+      "count": 2
+    },
+    {
+      "id": "100521",
+      "name": "OK EG",
+      "count": 2
+    },
+    {
+      "id": "111421",
+      "name": "State OFFF",
+      "count": 2
+    },
+    {
+      "id": "90759",
+      "name": "Zohar",
+      "count": 2
+    },
+    {
+      "id": "28755",
+      "name": "Rrose",
+      "count": 1
+    },
+    {
+      "id": "61548",
+      "name": "nthng",
+      "count": 1
+    }
+  ]
+}

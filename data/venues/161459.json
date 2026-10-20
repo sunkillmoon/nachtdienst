@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 51.591535,
   "lng": 5.066306,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2309929",
       "title": "Draaimolen Festival 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2309929"
     }
-  ],
-  "past": []
+  ]
 }

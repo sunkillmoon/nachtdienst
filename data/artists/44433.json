@@ -2,17 +2,8 @@
   "id": "44433",
   "name": "Nova Caza",
   "socials": {},
-  "upcoming": [
-    {
-      "id": "ra:2510346",
-      "title": "Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper",
-      "date": "2026-09-05",
-      "start": "2026-09-05T15:00+02:00",
-      "venue": "Veronica Schip",
-      "venue_id": "89523",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2510346"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2473473",
       "title": "The Deep Club - Outdoor Edition",
@@ -22,7 +13,16 @@
       "venue_id": "203299",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2473473"
+    },
+    {
+      "id": "ra:2510346",
+      "title": "Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper",
+      "date": "2026-09-05",
+      "start": "2026-09-05T15:00+02:00",
+      "venue": "Veronica Schip",
+      "venue_id": "89523",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2510346"
     }
-  ],
-  "past": []
+  ]
 }

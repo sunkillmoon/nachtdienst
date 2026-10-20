@@ -14,5 +14,31 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "127084",
+      "name": "Taylor Taylor (NL)",
+      "count": 1
+    },
+    {
+      "id": "168613",
+      "name": "Prabuddha",
+      "count": 1
+    },
+    {
+      "id": "166066",
+      "name": "Lascar",
+      "count": 1
+    },
+    {
+      "id": "142204",
+      "name": "Nicola Piva",
+      "count": 1
+    },
+    {
+      "id": "154048",
+      "name": "Mission Architect",
+      "count": 1
+    }
+  ]
 }

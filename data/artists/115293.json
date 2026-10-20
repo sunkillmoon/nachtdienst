@@ -1,0 +1,28 @@
+{
+  "id": "115293",
+  "name": "nataša",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559990",
+      "title": "Indiskret Berlin ADE Showacase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Feijoa",
+      "venue_id": "84187",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559990"
+    },
+    {
+      "id": "ra:2538403",
+      "title": "Urge To Dance x Reconsider: ADE '26 Showcase",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Bar Feijoa",
+      "venue_id": "175903",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538403"
+    }
+  ],
+  "past": []
+}

@@ -3,6 +3,18 @@
   "name": "Connection art event ",
   "upcoming": [
     {
+      "id": "ra:2563162",
+      "title": "Connection art - Waacking night",
+      "date": "2026-11-07",
+      "start": "2026-11-07T19:30+01:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563162"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518307",
       "title": "Connection art",
       "date": "2026-09-04",
@@ -11,9 +23,7 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518307"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2493507",
       "title": "Reclaim the floor",
@@ -29,7 +39,17 @@
     {
       "id": "107543",
       "name": "Polli Panda",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "118888",
+      "name": "Leroy Rey",
+      "count": 1
+    },
+    {
+      "id": "112619",
+      "name": "Shady Lady",
+      "count": 1
     },
     {
       "id": "172543",

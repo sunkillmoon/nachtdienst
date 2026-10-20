@@ -4,14 +4,46 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2385645",
-      "title": "Duikboot Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Asterdplas",
-      "venue_id": "286760",
-      "area": "All",
-      "url": "https://ra.co/events/2385645"
+      "id": "ra:2506893",
+      "title": "De Binnenstad x Sam Hofman Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Ijver",
+      "venue_id": "204155",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2506893"
+    },
+    {
+      "id": "ra:2562522",
+      "title": "Club Hacienda × STRAAL (ADE)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Db55",
+      "venue_id": "248511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562522"
+    },
+    {
+      "id": "ra:2564434",
+      "title": "ANNASNEL invites",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564434"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2437294",
+      "title": "Smeerboel Festival 2026",
+      "date": "2026-09-12",
+      "start": "2026-09-12T12:00+02:00",
+      "venue": "Laagravense Plas",
+      "venue_id": "291910",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2437294"
     },
     {
       "id": "ra:2512426",
@@ -24,27 +56,15 @@
       "url": "https://ra.co/events/2512426"
     },
     {
-      "id": "ra:2437294",
-      "title": "Smeerboel Festival 2026",
-      "date": "2026-09-12",
-      "start": "2026-09-12T12:00+02:00",
-      "venue": "Laagravense Plas",
-      "venue_id": "291910",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2437294"
+      "id": "ra:2385645",
+      "title": "Duikboot Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Asterdplas",
+      "venue_id": "286760",
+      "area": "All",
+      "url": "https://ra.co/events/2385645"
     },
-    {
-      "id": "ra:2506893",
-      "title": "De Binnenstad x Sam Hofman Invites",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "Ijver",
-      "venue_id": "204155",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2506893"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2476138",
       "title": "Luke Alessi (all night)",

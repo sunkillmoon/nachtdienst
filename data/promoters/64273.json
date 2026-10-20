@@ -3,126 +3,6 @@
   "name": "Shelter Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2476146",
-      "title": "Jesse Maas curates",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476146"
-    },
-    {
-      "id": "ra:2476147",
-      "title": "10SERIES by Shelter | TINS (all night)",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2476147"
-    },
-    {
-      "id": "ra:2496546",
-      "title": "Ryan Elliott b2b Pancratio, Naomi",
-      "date": "2026-09-05",
-      "start": "2026-09-05T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496546"
-    },
-    {
-      "id": "ra:2496550",
-      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496550"
-    },
-    {
-      "id": "ra:2496553",
-      "title": "Andrew Azara, Traumer b2b Janeret",
-      "date": "2026-09-12",
-      "start": "2026-09-12T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496553"
-    },
-    {
-      "id": "ra:2496555",
-      "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496555"
-    },
-    {
-      "id": "ra:2496558",
-      "title": "10SERIES by Shelter - Hidde van Wee (all night long)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496558"
-    },
-    {
-      "id": "ra:2496559",
-      "title": "Archie Hamilton, DXNBY, Jhobei",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496559"
-    },
-    {
-      "id": "ra:2517605",
-      "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517605"
-    },
-    {
-      "id": "ra:2517607",
-      "title": "Apontow Akyi, Joey Daniel, Rooléh",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517607"
-    },
-    {
-      "id": "ra:2517610",
-      "title": "Doppelgang Birthday Session",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517610"
-    },
-    {
-      "id": "ra:2517612",
-      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517612"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -141,6 +21,16 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2495692"
+    },
+    {
+      "id": "ra:2526144",
+      "title": "20 years of The Warehouse Project",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526144"
     },
     {
       "id": "ra:2498905",
@@ -173,6 +63,16 @@
       "url": "https://ra.co/events/2511517"
     },
     {
+      "id": "ra:2522546",
+      "title": "FLY Amsterdam ADE - Day Party",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522546"
+    },
+    {
       "id": "ra:2479598",
       "title": "Brighter Days x Life and Death",
       "date": "2026-10-24",
@@ -181,9 +81,179 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2479598"
+    },
+    {
+      "id": "ra:2469608",
+      "title": "ADE - Apollonia curates VBX - SUNDAY NIGHT ",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469608"
+    },
+    {
+      "id": "ra:2517622",
+      "title": "Boris Coelman, De Sluwe Vos, Merel Helderman",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517622"
+    },
+    {
+      "id": "ra:2517635",
+      "title": "A For Alpha, Jan Koster, SOLIT",
+      "date": "2026-10-31",
+      "start": "2026-10-31T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517635"
+    },
+    {
+      "id": "ra:2539608",
+      "title": "Benjamin Berg curates",
+      "date": "2026-11-06",
+      "start": "2026-11-06T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539608"
+    },
+    {
+      "id": "ra:2539914",
+      "title": "Fabio Santos b2b Gabriel Muñoz b2b Luis Ripa (all night)",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539914"
     }
   ],
   "past": [
+    {
+      "id": "ra:2517612",
+      "title": "Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517612"
+    },
+    {
+      "id": "ra:2517610",
+      "title": "Doppelgang Birthday Session",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517610"
+    },
+    {
+      "id": "ra:2517607",
+      "title": "Apontow Akyi, Joey Daniel, Rooléh",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517607"
+    },
+    {
+      "id": "ra:2517605",
+      "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517605"
+    },
+    {
+      "id": "ra:2496559",
+      "title": "Archie Hamilton, DXNBY, Jhobei",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496559"
+    },
+    {
+      "id": "ra:2496558",
+      "title": "10SERIES by Shelter - Hidde van Wee (all night long)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496558"
+    },
+    {
+      "id": "ra:2496555",
+      "title": "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496555"
+    },
+    {
+      "id": "ra:2496553",
+      "title": "Andrew Azara, Traumer b2b Janeret",
+      "date": "2026-09-12",
+      "start": "2026-09-12T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496553"
+    },
+    {
+      "id": "ra:2496550",
+      "title": "Alex Wann, Benja b2b Franc Fala, Cincity",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496550"
+    },
+    {
+      "id": "ra:2496546",
+      "title": "Ryan Elliott b2b Pancratio, Naomi",
+      "date": "2026-09-05",
+      "start": "2026-09-05T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496546"
+    },
+    {
+      "id": "ra:2476147",
+      "title": "10SERIES by Shelter | TINS (all night)",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476147"
+    },
+    {
+      "id": "ra:2476146",
+      "title": "Jesse Maas curates",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2476146"
+    },
     {
       "id": "ra:2476144",
       "title": "Shelter presents: Bondru - Julian Anthony, The Ghost & More",
@@ -297,8 +367,8 @@
   ],
   "top_artists": [
     {
-      "id": "736",
-      "name": "Ryan Elliott",
+      "id": "133584",
+      "name": "Jamie Fielding",
       "count": 3
     },
     {
@@ -312,19 +382,9 @@
       "count": 3
     },
     {
-      "id": "37122",
-      "name": "Larry De Kat",
-      "count": 2
-    },
-    {
-      "id": "68513",
-      "name": "Jhobei",
-      "count": 2
-    },
-    {
-      "id": "115055",
-      "name": "Kim April",
-      "count": 2
+      "id": "736",
+      "name": "Ryan Elliott",
+      "count": 3
     },
     {
       "id": "107688",
@@ -344,6 +404,16 @@
     {
       "id": "6467",
       "name": "Cinthie",
+      "count": 2
+    },
+    {
+      "id": "17805",
+      "name": "DJ Tennis",
+      "count": 2
+    },
+    {
+      "id": "32073",
+      "name": "Dusky",
       "count": 2
     }
   ]

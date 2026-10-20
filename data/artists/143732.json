@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2501541",
-      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT)",
-      "date": "2026-09-13",
-      "start": "2026-09-13T17:00+02:00",
-      "venue": "Colorado Charlie",
-      "venue_id": "152236",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2501541"
-    },
+      "id": "ra:2537267",
+      "title": "Hush ADE with Ranger Trucco, Ellia Jaya & More",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537267"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2517605",
       "title": "Alex Dienaar b2b Nathan Alzon, Ellia Jaya",
@@ -22,9 +24,17 @@
       "venue_id": "124413",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2517605"
-    }
-  ],
-  "past": [
+    },
+    {
+      "id": "ra:2501541",
+      "title": "Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT)",
+      "date": "2026-09-13",
+      "start": "2026-09-13T17:00+02:00",
+      "venue": "Colorado Charlie",
+      "venue_id": "152236",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2501541"
+    },
     {
       "id": "ra:2443517",
       "title": "16 AUG - Thuishaven with Gaskin 5HRS",

@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2479292",
-      "title": "Vault All Vinyl WKNDR | Night | RADION",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2479292"
-    },
-    {
       "id": "ra:2478125",
       "title": "ADE - SPIELRAUM: 55 HOURS",
       "date": "2026-10-23",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2478125"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2479292",
+      "title": "Vault All Vinyl WKNDR | Night | RADION",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2479292"
+    }
+  ]
 }

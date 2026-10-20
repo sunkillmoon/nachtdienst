@@ -2,7 +2,8 @@
   "id": "91680",
   "name": "Uväll",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510528",
       "title": "PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510528"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "id": "193820",
+  "name": "KØLT",
+  "upcoming": [
+    {
+      "id": "ra:2534661",
+      "title": "KØLT invites Syntharax",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534661"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "18878",
+      "name": "Nelly",
+      "count": 1
+    },
+    {
+      "id": "57043",
+      "name": "Andy Garvey",
+      "count": 1
+    },
+    {
+      "id": "107825",
+      "name": "MXV (UK)",
+      "count": 1
+    },
+    {
+      "id": "175244",
+      "name": "Mia Lund",
+      "count": 1
+    },
+    {
+      "id": "125529",
+      "name": "Sapa Rua",
+      "count": 1
+    },
+    {
+      "id": "179013",
+      "name": "Apsāya",
+      "count": 1
+    },
+    {
+      "id": "77694",
+      "name": "DINA",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "152895",
+  "name": "Bullzeye",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2525121",
+      "title": "Rumours Only x Lotus Labs ADE Showcase",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525121"
+    },
+    {
+      "id": "ra:2503286",
+      "title": "About Us ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503286"
+    }
+  ],
+  "past": []
+}

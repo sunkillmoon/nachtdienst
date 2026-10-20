@@ -1,0 +1,24 @@
+{
+  "id": "126049",
+  "name": "MARRØN",
+  "upcoming": [
+    {
+      "id": "ra:2533645",
+      "title": "BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T21:00+01:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533645"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "70288",
+      "name": "MARRØN",
+      "count": 1
+    }
+  ]
+}

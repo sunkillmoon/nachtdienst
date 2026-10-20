@@ -2,7 +2,8 @@
   "id": "146731",
   "name": "MOTIVO MODERNO",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2507375",
       "title": "Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2507375"
     }
-  ],
-  "past": []
+  ]
 }

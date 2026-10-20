@@ -1,0 +1,28 @@
+{
+  "id": "36137",
+  "name": "Bambounou",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2549908",
+      "title": "Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Rokin 75 / The Amsterdam View",
+      "venue_id": "124503",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2549908"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    }
+  ],
+  "past": []
+}

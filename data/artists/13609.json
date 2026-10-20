@@ -2,7 +2,28 @@
   "id": "13609",
   "name": "Luigi Madonna",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2564663",
+      "title": "Richie Hawtin - POP_UP Stage",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "TBA",
+      "venue_id": "203299",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564663"
+    },
+    {
+      "id": "ra:2503286",
+      "title": "About Us ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2503286"
+    }
+  ],
   "past": [
     {
       "id": "ra:2492500",

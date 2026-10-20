@@ -1,7 +1,8 @@
 {
   "id": "176060",
   "name": "weeztix",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2512898",
       "title": "Kármán VI - Community event",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2512898"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "181162",

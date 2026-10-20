@@ -2,16 +2,17 @@
   "id": "143309",
   "name": "RUL3",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
-      "id": "ra:2380229",
-      "title": "Cluster Festival",
-      "date": "2026-08-29",
-      "start": "2026-08-29T13:00+02:00",
-      "venue": "Kabelfabriek",
-      "venue_id": "286230",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2380229"
+      "id": "ra:2490624",
+      "title": "Toffler presents CLAESSENS",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2490624"
     },
     {
       "id": "ra:2520204",
@@ -24,17 +25,15 @@
       "url": "https://ra.co/events/2520204"
     },
     {
-      "id": "ra:2490624",
-      "title": "Toffler presents CLAESSENS",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2490624"
-    }
-  ],
-  "past": [
+      "id": "ra:2380229",
+      "title": "Cluster Festival",
+      "date": "2026-08-29",
+      "start": "2026-08-29T13:00+02:00",
+      "venue": "Kabelfabriek",
+      "venue_id": "286230",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2380229"
+    },
     {
       "id": "ra:2438868",
       "title": "Amsterdam Nights: Hard Techno & Hard Groove with Zaphy [CL], Robin Hastings [CL], RUL3 [NL]",

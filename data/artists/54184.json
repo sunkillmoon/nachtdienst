@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2458125",
-      "title": "SPIELRAUM Weekender: Nexus opening",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458125"
-    },
-    {
       "id": "ra:2488526",
       "title": "Vault Sessions ADE - TILLATEC",
       "date": "2026-10-22",
@@ -30,7 +20,7 @@
       "start": "2026-10-24T13:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479114"
     },
     {
@@ -45,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
+    },
     {
       "id": "ra:2444343",
       "title": "Dekmantel Festival 2026 - Friday",

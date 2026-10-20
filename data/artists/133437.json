@@ -2,7 +2,18 @@
   "id": "133437",
   "name": "LI-YU",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2500811",
+      "title": "TOFFLER presents Locky (3HR set)",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "Toffler",
+      "venue_id": "9037",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2500811"
+    },
     {
       "id": "ra:2515716",
       "title": "Colorado Charlie - Season Closing Day 2 (SOLD OUT)",
@@ -13,18 +24,6 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2515716"
     },
-    {
-      "id": "ra:2500811",
-      "title": "TOFFLER presents Locky (3HR set)",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "Toffler",
-      "venue_id": "9037",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2500811"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2499845",
       "title": "weave",

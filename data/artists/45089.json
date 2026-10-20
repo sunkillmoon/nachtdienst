@@ -2,7 +2,18 @@
   "id": "45089",
   "name": "Kid Sublime",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2541032",
+      "title": "CQTD presents In Store Session with Kid Sublime & Ruggero (The Playground)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2541032"
+    }
+  ],
   "past": [
     {
       "id": "ra:2506770",

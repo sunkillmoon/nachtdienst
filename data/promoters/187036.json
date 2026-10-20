@@ -1,7 +1,8 @@
 {
   "id": "187036",
   "name": "Uphoria",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2499737",
       "title": "Uphoria x Roots",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2499737"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "144917",

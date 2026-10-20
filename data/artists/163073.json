@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2533097"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2511270",
       "title": "EYE CONTACT & VIAPHIA",
       "date": "2026-09-04",
@@ -12,9 +24,7 @@
       "venue_id": "138553",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511270"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487395",
       "title": "Roots & Riddims #2",

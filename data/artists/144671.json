@@ -4,6 +4,38 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2534185",
+      "title": "Free Your Mind x Teletech ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534185"
+    },
+    {
+      "id": "ra:2522580",
+      "title": "NRG ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522580"
+    },
+    {
+      "id": "ra:2534223",
+      "title": "KRUELTY B2B Vieze Asbak 3hrs ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Hemkade 48",
+      "venue_id": "208462",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534223"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2425634",
       "title": "Claydrum presents KRUELTY / Samuel Moriero / XRTN / Freya",
       "date": "2026-09-18",
@@ -12,9 +44,7 @@
       "venue_id": "120841",
       "area": "All",
       "url": "https://ra.co/events/2425634"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2437906",
       "title": "Dark Session: H7 FESTIVAL // AMSTERDAM (2 stages)",

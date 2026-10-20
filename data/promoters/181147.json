@@ -1,0 +1,24 @@
+{
+  "id": "181147",
+  "name": "Petit Comité of House",
+  "upcoming": [
+    {
+      "id": "ra:2561583",
+      "title": "Petit Comité Amsterdam with Bastian Bux, Ammil, Cleo Grooves",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "TBA - Flower Shop",
+      "venue_id": "305259",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2561583"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "55947",
+      "name": "Bastian Bux",
+      "count": 1
+    }
+  ]
+}

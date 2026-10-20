@@ -10,8 +10,18 @@
       "start": "2026-10-23T15:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479108"
+    },
+    {
+      "id": "ra:2528684",
+      "title": "ADE Sunday with Joseph Capriati (SOLD OUT)",
+      "date": "2026-10-25",
+      "start": "2026-10-25T09:00+01:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528684"
     }
   ],
   "past": []

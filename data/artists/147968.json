@@ -2,7 +2,18 @@
   "id": "147968",
   "name": "Styn",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
+    {
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2330627"
+    },
     {
       "id": "ra:2511270",
       "title": "EYE CONTACT & VIAPHIA",
@@ -13,18 +24,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2511270"
     },
-    {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2478267",
       "title": "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES",

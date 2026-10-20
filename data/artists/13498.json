@@ -1,0 +1,28 @@
+{
+  "id": "13498",
+  "name": "Doc Link",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2551521",
+      "title": "True House Night",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Bar22",
+      "venue_id": "50372",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551521"
+    },
+    {
+      "id": "ra:2551524",
+      "title": "True House Tribute to DJ Romain",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551524"
+    }
+  ],
+  "past": []
+}

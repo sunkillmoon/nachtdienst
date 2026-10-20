@@ -1,0 +1,29 @@
+{
+  "id": "195291",
+  "name": "Central Prøject",
+  "upcoming": [
+    {
+      "id": "ra:2552753",
+      "title": "Central Prøject x ANTIA",
+      "date": "2026-10-30",
+      "start": "2026-10-30T21:00+01:00",
+      "venue": "ANTIA",
+      "venue_id": "285993",
+      "area": "All",
+      "url": "https://ra.co/events/2552753"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "80529",
+      "name": "Human Space Machine",
+      "count": 1
+    },
+    {
+      "id": "106052",
+      "name": "Loradeniz",
+      "count": 1
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "69292",
   "name": "8ULENTINA",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2510318",
       "title": "Nothing Here Now x The Rest Is Noise with Loraine James, Anysia Kym, 8ULENTINA, KROES, sign.nah",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2510318"
     }
-  ],
-  "past": []
+  ]
 }

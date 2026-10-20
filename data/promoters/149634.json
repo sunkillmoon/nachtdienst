@@ -1,7 +1,8 @@
 {
   "id": "149634",
   "name": "Kult Funktion",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2485596",
       "title": "Kult Funktion - Rotterdam Pride",
@@ -11,9 +12,7 @@
       "venue_id": "278763",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2485596"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2456898",
       "title": "Madam by Night invites: Kult Funktion",

@@ -1,0 +1,59 @@
+{
+  "id": "160336",
+  "name": "RAGAZZI",
+  "upcoming": [
+    {
+      "id": "ra:2531730",
+      "title": "RAGAZZI Records - ADE Label Launch with Trancemaster Krause, snoritz, OnlyWithYou, Shake Daddy",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531730"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "103763",
+      "name": "Trancemaster Krause",
+      "count": 1
+    },
+    {
+      "id": "114600",
+      "name": "snoritz",
+      "count": 1
+    },
+    {
+      "id": "111533",
+      "name": "Shake Daddy",
+      "count": 1
+    },
+    {
+      "id": "128444",
+      "name": "OnlyWithYou",
+      "count": 1
+    },
+    {
+      "id": "137300",
+      "name": "HOESEPHINE",
+      "count": 1
+    },
+    {
+      "id": "188694",
+      "name": "JERRO",
+      "count": 1
+    },
+    {
+      "id": "174604",
+      "name": "O/H/M",
+      "count": 1
+    },
+    {
+      "id": "187132",
+      "name": "valera",
+      "count": 1
+    }
+  ]
+}

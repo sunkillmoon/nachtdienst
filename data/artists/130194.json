@@ -2,7 +2,38 @@
   "id": "130194",
   "name": "DJ SEXSTASY",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2548486",
+      "title": "PAARDENRAVE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:30+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2548486"
+    },
+    {
+      "id": "ra:2560120",
+      "title": "annie's ADE weekender",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:59+02:00",
+      "venue": "Melkweg",
+      "venue_id": "2693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560120"
+    },
+    {
+      "id": "ra:2507060",
+      "title": "RARA AVIS",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "Club NYX",
+      "venue_id": "69256",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507060"
+    }
+  ],
   "past": [
     {
       "id": "ra:2485428",

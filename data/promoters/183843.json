@@ -1,7 +1,8 @@
 {
   "id": "183843",
   "name": "Woods Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2402363",
       "title": "Woods Festival 2026",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2402363"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "17451",

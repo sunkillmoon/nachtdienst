@@ -2,7 +2,8 @@
   "id": "108064",
   "name": "Spacer Woman",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506879",
       "title": "De Binnenstad x Sissi's",
@@ -12,9 +13,7 @@
       "venue_id": "255755",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506879"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2469467",
       "title": "Colorado Charlie with LAMMER (3hrs), Kendal B2B Spacer Woman, 22 Interns (SOLD OUT)",

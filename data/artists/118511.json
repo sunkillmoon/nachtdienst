@@ -2,7 +2,8 @@
   "id": "118511",
   "name": "Luka (CH)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2520777",
       "title": "Toffler presents Natural Born Chiller and friends",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2520777"
     }
-  ],
-  "past": []
+  ]
 }

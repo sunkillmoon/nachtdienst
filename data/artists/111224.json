@@ -4,14 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2507742",
-      "title": "TILT x Syntax Error",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:59+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2554221",
+      "title": "Vinz Sosa Invites ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Loop51",
+      "venue_id": "254524",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2507742"
+      "url": "https://ra.co/events/2554221"
+    },
+    {
+      "id": "ra:2563419",
+      "title": "Kwartier x themuddshow x el tony mate",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "Kwartier",
+      "venue_id": "305466",
+      "area": "All",
+      "url": "https://ra.co/events/2563419"
     },
     {
       "id": "ra:2512816",
@@ -25,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2507742",
+      "title": "TILT x Syntax Error",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:59+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2507742"
+    },
     {
       "id": "ra:2489462",
       "title": "BeHaerd BO.02 - Purposely Connect",

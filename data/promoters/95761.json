@@ -1,7 +1,18 @@
 {
   "id": "95761",
   "name": "Toy Tonics",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2531903",
+      "title": "Toy Tonics ADE Jam",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "Pacific Amsterdam",
+      "venue_id": "202595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531903"
+    }
+  ],
   "past": [
     {
       "id": "ra:2478065",
@@ -14,5 +25,46 @@
       "url": "https://ra.co/events/2478065"
     }
   ],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "82755",
+      "name": "Kapote",
+      "count": 1
+    },
+    {
+      "id": "99181",
+      "name": "Sam Ruffillo",
+      "count": 1
+    },
+    {
+      "id": "137929",
+      "name": "Mia Moretti",
+      "count": 1
+    },
+    {
+      "id": "58995",
+      "name": "Maxye",
+      "count": 1
+    },
+    {
+      "id": "14330",
+      "name": "Mary Olivetti",
+      "count": 1
+    },
+    {
+      "id": "184514",
+      "name": "Miss Nasty",
+      "count": 1
+    },
+    {
+      "id": "153475",
+      "name": "Arpy Brown",
+      "count": 1
+    },
+    {
+      "id": "151396",
+      "name": "FIMIANI",
+      "count": 1
+    }
+  ]
 }

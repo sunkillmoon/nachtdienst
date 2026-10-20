@@ -1,0 +1,39 @@
+{
+  "id": "195774",
+  "name": "Move Bounce Groove",
+  "upcoming": [
+    {
+      "id": "ra:2558570",
+      "title": "MBG in Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Hard Rock Cafe Amsterdam",
+      "venue_id": "277578",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558570"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "138988",
+      "name": "Heritage Listed",
+      "count": 1
+    },
+    {
+      "id": "149434",
+      "name": "Sanne Dammers",
+      "count": 1
+    },
+    {
+      "id": "173724",
+      "name": "Hris East",
+      "count": 1
+    },
+    {
+      "id": "156231",
+      "name": "SUNØE",
+      "count": 1
+    }
+  ]
+}

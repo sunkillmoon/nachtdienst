@@ -4,18 +4,8 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505220",
-      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2505220"
-    },
-    {
       "id": "ra:2492381",
-      "title": "One Long Groove",
+      "title": "Breakfast Club ADE: One Long Groove",
       "date": "2026-10-22",
       "start": "2026-10-22T22:00+02:00",
       "venue": "Pllek",
@@ -24,5 +14,16 @@
       "url": "https://ra.co/events/2492381"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2505220",
+      "title": "VBX SUMMER CLOSING - TILLATEC 19.09",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505220"
+    }
+  ]
 }

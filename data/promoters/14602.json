@@ -3,6 +3,26 @@
   "name": "Luminosity Events",
   "upcoming": [
     {
+      "id": "ra:2529354",
+      "title": "Luminosity - Day time",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529354"
+    },
+    {
+      "id": "ra:2529364",
+      "title": "Luminosity - Night Event",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Panama",
+      "venue_id": "1729",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529364"
+    },
+    {
       "id": "ra:2409512",
       "title": "Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg",
       "date": "2026-11-14",

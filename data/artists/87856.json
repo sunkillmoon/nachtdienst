@@ -2,7 +2,8 @@
   "id": "87856",
   "name": "DJANGO (NL)",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2481531",
       "title": "UNMUTE X Rinse FM X Back:beat",
@@ -12,9 +13,7 @@
       "venue_id": "90287",
       "area": "The Hague",
       "url": "https://ra.co/events/2481531"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2467133",
       "title": "BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO",

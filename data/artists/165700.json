@@ -4,14 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505836",
-      "title": "NO SUITS - Thank You For Dancing",
-      "date": "2026-08-28",
-      "start": "2026-08-28T21:00+02:00",
-      "venue": "Yellow House",
-      "venue_id": "200290",
+      "id": "ra:2528602",
+      "title": "BaseYRD ADE Special",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2505836"
+      "url": "https://ra.co/events/2528602"
+    },
+    {
+      "id": "ra:2538429",
+      "title": "Edo presents Ode",
+      "date": "2026-10-24",
+      "start": "2026-10-24T22:00+02:00",
+      "venue": "The Bulldog Palace",
+      "venue_id": "223249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538429"
     },
     {
       "id": "ra:2520741",
@@ -24,5 +34,16 @@
       "url": "https://ra.co/events/2520741"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2505836",
+      "title": "NO SUITS - Thank You For Dancing",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Yellow House",
+      "venue_id": "200290",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505836"
+    }
+  ]
 }

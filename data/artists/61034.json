@@ -1,0 +1,48 @@
+{
+  "id": "61034",
+  "name": "DJ Roach",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2534712",
+      "title": "313X020: BBQ Amsterdam invites Detroit",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Noorderlicht Café",
+      "venue_id": "158843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534712"
+    },
+    {
+      "id": "ra:2559061",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 2)",
+      "date": "2026-10-21",
+      "start": "2026-10-22T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559061"
+    },
+    {
+      "id": "ra:2527704",
+      "title": "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527704"
+    },
+    {
+      "id": "ra:2543318",
+      "title": "Killacutz INVITES  FOLD THEORY X DETROIT TECHNO MILITIA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Killacutz",
+      "venue_id": "204597",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543318"
+    }
+  ],
+  "past": []
+}

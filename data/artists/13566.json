@@ -1,0 +1,28 @@
+{
+  "id": "13566",
+  "name": "Hector Moralez",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2563950",
+      "title": "LClub presents: ADE 2026",
+      "date": "2026-10-21",
+      "start": "2026-10-21T20:00+02:00",
+      "venue": "Onder Hans",
+      "venue_id": "275591",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563950"
+    },
+    {
+      "id": "ra:2539497",
+      "title": "ADE: Sounds From the Underground",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Benelux BAR",
+      "venue_id": "217595",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539497"
+    }
+  ],
+  "past": []
+}

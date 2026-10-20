@@ -4,7 +4,8 @@
   "area": "The Hague",
   "lat": 51.99,
   "lng": 4.12,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2518373",
       "title": "Le Petit Paradis",
@@ -15,6 +16,5 @@
       "area": "The Hague",
       "url": "https://ra.co/events/2518373"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2395821",
       "title": "Wooferland festival 2026",
       "date": "2026-08-29",
@@ -12,9 +24,7 @@
       "venue_id": "2081",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2395821"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2472104",
       "title": "House of Rekids",

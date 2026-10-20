@@ -6,6 +6,18 @@
   "lng": 5.121962,
   "upcoming": [
     {
+      "id": "ra:2559219",
+      "title": "Le Guess Who - Conjunto Media Luna",
+      "date": "2026-11-06",
+      "start": "2026-11-06T22:30+01:00",
+      "venue": "Acu",
+      "venue_id": "57797",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2559219"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2519203",
       "title": "Bankra Bike Sounds",
       "date": "2026-08-29",
@@ -15,6 +27,5 @@
       "area": "Utrecht",
       "url": "https://ra.co/events/2519203"
     }
-  ],
-  "past": []
+  ]
 }

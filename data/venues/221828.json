@@ -6,6 +6,128 @@
   "lng": 4.8936787,
   "upcoming": [
     {
+      "id": "ra:2532343",
+      "title": "Monkey Safari Album presentation",
+      "date": "2026-10-20",
+      "start": "2026-10-20T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532343"
+    },
+    {
+      "id": "ra:2528627",
+      "title": "Purrfection X LuchiSveta Label Showcase",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528627"
+    },
+    {
+      "id": "ra:2534302",
+      "title": "Mango Alley Label Showcase",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534302"
+    },
+    {
+      "id": "ra:2547198",
+      "title": "Mango Alley Label Showcase",
+      "date": "2026-10-21",
+      "start": "2026-10-21T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547198"
+    },
+    {
+      "id": "ra:2523674",
+      "title": "Around Us & Callecat Invites",
+      "date": "2026-10-22",
+      "start": "2026-10-22T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523674"
+    },
+    {
+      "id": "ra:2537547",
+      "title": "Yomo Records 10 Yrs Celebration",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537547"
+    },
+    {
+      "id": "ra:2539869",
+      "title": "Magnitude Recordings Label Sessions",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539869"
+    },
+    {
+      "id": "ra:2540871",
+      "title": "Ruben Karapetyan presents Meet & Greet",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540871"
+    },
+    {
+      "id": "ra:2547194",
+      "title": "Ruben Karapetyan presents Meet & Greet",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547194"
+    },
+    {
+      "id": "ra:2532074",
+      "title": "Manual Family Get Together 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T19:00+02:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532074"
+    },
+    {
+      "id": "ra:2546058",
+      "title": "The Homeless Trovador by Not Demure & Friends",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2546058"
+    },
+    {
+      "id": "ra:2544105",
+      "title": "Kadinsky Sessions Closing Party",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Kadinsky Cafe",
+      "venue_id": "221828",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544105"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2503247",
       "title": "Kadinsky Sessions 075",
       "date": "2026-08-29",
@@ -14,9 +136,7 @@
       "venue_id": "221828",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2503247"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2487393",
       "title": "Kadinsky Sessions 074",

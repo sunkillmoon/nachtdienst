@@ -1,0 +1,20 @@
+{
+  "id": "49651",
+  "name": "Blauwe Theehuis",
+  "area": "Amsterdam",
+  "lat": 52.358458,
+  "lng": 4.871061,
+  "upcoming": [
+    {
+      "id": "ra:2560682",
+      "title": "ADE: Naughty Parrot in the Park",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Blauwe Theehuis",
+      "venue_id": "49651",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560682"
+    }
+  ],
+  "past": []
+}

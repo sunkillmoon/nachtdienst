@@ -2,7 +2,8 @@
   "id": "179032",
   "name": "Nedir Nadir",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2470297",
       "title": "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90",
@@ -12,9 +13,7 @@
       "venue_id": "101766",
       "area": "Utrecht",
       "url": "https://ra.co/events/2470297"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2400580",
       "title": "BASIS Outdoor/ 2026",

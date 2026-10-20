@@ -2,7 +2,18 @@
   "id": "181799",
   "name": "Kaikaina",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2544907",
+      "title": "RADION Invites: Fever Dream x Patchwork Family",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544907"
+    }
+  ],
   "past": [
     {
       "id": "ra:2503792",

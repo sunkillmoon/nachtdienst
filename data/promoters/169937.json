@@ -3,46 +3,6 @@
   "name": "Club Laak",
   "upcoming": [
     {
-      "id": "ra:2491497",
-      "title": "Club Day & Night (Season opening)",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491497"
-    },
-    {
-      "id": "ra:2491473",
-      "title": "Club Night + Presto",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491473"
-    },
-    {
-      "id": "ra:2491494",
-      "title": "Club Night",
-      "date": "2026-10-02",
-      "start": "2026-10-02T23:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491494"
-    },
-    {
-      "id": "ra:2491475",
-      "title": "Club Night",
-      "date": "2026-10-16",
-      "start": "2026-10-16T23:00+02:00",
-      "venue": "Laak",
-      "venue_id": "265527",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2491475"
-    },
-    {
       "id": "ra:2491477",
       "title": "Club Night",
       "date": "2026-11-07",
@@ -63,8 +23,89 @@
       "url": "https://ra.co/events/2491478"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2491475",
+      "title": "Club Night",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491475"
+    },
+    {
+      "id": "ra:2491494",
+      "title": "Club Night",
+      "date": "2026-10-02",
+      "start": "2026-10-02T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491494"
+    },
+    {
+      "id": "ra:2491473",
+      "title": "Club Night + Presto",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491473"
+    },
+    {
+      "id": "ra:2491497",
+      "title": "Club Day & Night (Season opening)",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "Laak",
+      "venue_id": "265527",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2491497"
+    }
+  ],
   "top_artists": [
+    {
+      "id": "45111",
+      "name": "Lorenzo Senni",
+      "count": 1
+    },
+    {
+      "id": "47614",
+      "name": "Gábor Lázár",
+      "count": 1
+    },
+    {
+      "id": "169259",
+      "name": "Canva6",
+      "count": 1
+    },
+    {
+      "id": "76484",
+      "name": "Jeans (NL)",
+      "count": 1
+    },
+    {
+      "id": "571",
+      "name": "Magda",
+      "count": 1
+    },
+    {
+      "id": "965",
+      "name": "Bruno Pronsato",
+      "count": 1
+    },
+    {
+      "id": "111620",
+      "name": "Lolo Batten",
+      "count": 1
+    },
+    {
+      "id": "125222",
+      "name": "Bella Hall",
+      "count": 1
+    },
     {
       "id": "48628",
       "name": "Torus",
@@ -73,46 +114,6 @@
     {
       "id": "56822",
       "name": "Max Abysmal",
-      "count": 1
-    },
-    {
-      "id": "106666",
-      "name": "Verity",
-      "count": 1
-    },
-    {
-      "id": "106236",
-      "name": "Rosa",
-      "count": 1
-    },
-    {
-      "id": "44752",
-      "name": "Oceanic",
-      "count": 1
-    },
-    {
-      "id": "108597",
-      "name": "Niebla",
-      "count": 1
-    },
-    {
-      "id": "163531",
-      "name": "Kash Kaval",
-      "count": 1
-    },
-    {
-      "id": "159427",
-      "name": "OLIVIA LENSEN",
-      "count": 1
-    },
-    {
-      "id": "169519",
-      "name": "stevie (3)",
-      "count": 1
-    },
-    {
-      "id": "85780",
-      "name": "Kilo Vee",
       "count": 1
     }
   ]

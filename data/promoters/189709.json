@@ -26,6 +26,31 @@
   "past": [],
   "top_artists": [
     {
+      "id": "11446",
+      "name": "Dillinja",
+      "count": 2
+    },
+    {
+      "id": "82734",
+      "name": "Bryan Gee",
+      "count": 2
+    },
+    {
+      "id": "62686",
+      "name": "BCee",
+      "count": 2
+    },
+    {
+      "id": "37253",
+      "name": "A-Sides",
+      "count": 2
+    },
+    {
+      "id": "61716",
+      "name": "MC GQ",
+      "count": 2
+    },
+    {
       "id": "123708",
       "name": "A.M.C.",
       "count": 2
@@ -41,38 +66,13 @@
       "count": 2
     },
     {
-      "id": "139270",
-      "name": "Basstripper",
-      "count": 2
-    },
-    {
-      "id": "62686",
-      "name": "BCee",
-      "count": 2
-    },
-    {
-      "id": "82734",
-      "name": "Bryan Gee",
-      "count": 2
-    },
-    {
-      "id": "11446",
-      "name": "Dillinja",
-      "count": 2
-    },
-    {
       "id": "79368",
       "name": "Logan D",
       "count": 2
     },
     {
-      "id": "37253",
-      "name": "A-Sides",
-      "count": 2
-    },
-    {
-      "id": "222",
-      "name": "Katalyst",
+      "id": "139270",
+      "name": "Basstripper",
       "count": 2
     }
   ]

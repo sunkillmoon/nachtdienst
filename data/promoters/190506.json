@@ -1,0 +1,39 @@
+{
+  "id": "190506",
+  "name": "Make It Warm",
+  "upcoming": [
+    {
+      "id": "ra:2559142",
+      "title": "AM.RADIO.CLUB x Make It Warm ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Kyas Art Salon",
+      "venue_id": "305032",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559142"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "92058",
+      "name": "Makèz",
+      "count": 1
+    },
+    {
+      "id": "62487",
+      "name": "Cody Currie",
+      "count": 1
+    },
+    {
+      "id": "120348",
+      "name": "Storm Mollison",
+      "count": 1
+    },
+    {
+      "id": "115828",
+      "name": "Rob Manga",
+      "count": 1
+    }
+  ]
+}

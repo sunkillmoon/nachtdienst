@@ -1,7 +1,8 @@
 {
   "id": "116261",
   "name": "Ondergronds Verzetje",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498139",
       "title": "Ondergronds Verzetje",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2498139"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "32668",

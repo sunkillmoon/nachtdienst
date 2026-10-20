@@ -1,7 +1,8 @@
 {
   "id": "122931",
   "name": "Ypnotika",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2516927",
       "title": "Ypnotika x PVC",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2516927"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "23098",

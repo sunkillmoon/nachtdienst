@@ -4,6 +4,58 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2469789",
+      "title": "ADE - Shanti Celeste Curates VBX",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2469789"
+    },
+    {
+      "id": "ra:2518303",
+      "title": "Home Again x Sound Metaphors x Basement Love Fundraiser",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2518303"
+    },
+    {
+      "id": "ra:2511554",
+      "title": "SLPFNK - LEVENSLANG ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:59+02:00",
+      "venue": "Levenslang Amsterdam",
+      "venue_id": "206210",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511554"
+    },
+    {
+      "id": "ra:2466462",
+      "title": "Closing Party with TRIP",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2466462"
+    },
+    {
+      "id": "ra:2563297",
+      "title": "The Loft Closing Party x Trip Ibiza",
+      "date": "2026-10-26",
+      "start": "2026-10-26T14:30+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563297"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2465223",
       "title": "Intercell Groningen",
       "date": "2026-09-19",
@@ -23,28 +75,6 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2496555"
     },
-    {
-      "id": "ra:2469789",
-      "title": "Shanti Celeste Curates VBX - Skatecafe - ADE 22.10",
-      "date": "2026-10-22",
-      "start": "2026-10-22T20:00+02:00",
-      "venue": "Skatecafe",
-      "venue_id": "138553",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2469789"
-    },
-    {
-      "id": "ra:2511554",
-      "title": "SLPFNK - LEVENSLANG ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:59+02:00",
-      "venue": "Levenslang Amsterdam",
-      "venue_id": "206210",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2511554"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2488552",
       "title": "Doudou MD • mad miran",

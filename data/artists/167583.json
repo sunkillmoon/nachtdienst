@@ -2,7 +2,28 @@
   "id": "167583",
   "name": "ESSNCE",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2550452",
+      "title": "Borderline ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T18:00+02:00",
+      "venue": "Smokey Club",
+      "venue_id": "272336",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550452"
+    },
+    {
+      "id": "ra:2563154",
+      "title": "Club For Life At Mandarin Oriental Conservatorium W// Four Amsterdam",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb",
+      "venue_id": "305386",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563154"
+    }
+  ],
   "past": [
     {
       "id": "ra:2481713",

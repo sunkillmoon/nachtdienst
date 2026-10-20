@@ -1,7 +1,8 @@
 {
   "id": "187117",
   "name": "Hazy Days Society",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2513275",
       "title": "last HAZY DAYS of summer",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2513275"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "27596",

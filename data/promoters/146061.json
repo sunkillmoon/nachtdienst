@@ -3,14 +3,14 @@
   "name": "Rooftop Tapes",
   "upcoming": [
     {
-      "id": "ra:2511475",
-      "title": "Rooftop Tapes at W Hotel Amsterdam",
-      "date": "2026-08-30",
-      "start": "2026-08-30T16:00+02:00",
-      "venue": "W Hotel Amsterdam",
-      "venue_id": "108806",
+      "id": "ra:2552930",
+      "title": "Rooftop Tapes feat. Noire presents: Pete Tong",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "nhow Amsterdam RAI",
+      "venue_id": "248821",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511475"
+      "url": "https://ra.co/events/2552930"
     },
     {
       "id": "ra:2473509",
@@ -23,12 +23,43 @@
       "url": "https://ra.co/events/2473509"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "ra:2511475",
+      "title": "Rooftop Tapes at W Hotel Amsterdam",
+      "date": "2026-08-30",
+      "start": "2026-08-30T16:00+02:00",
+      "venue": "W Hotel Amsterdam",
+      "venue_id": "108806",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511475"
+    }
+  ],
   "top_artists": [
     {
       "id": "124216",
       "name": "FR3ADY",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "65",
+      "name": "Pete Tong",
+      "count": 1
+    },
+    {
+      "id": "149440",
+      "name": "VICTORIA WHYNOT",
+      "count": 1
+    },
+    {
+      "id": "170469",
+      "name": "ANTO ZAGU",
+      "count": 1
+    },
+    {
+      "id": "92107",
+      "name": "IMEN",
+      "count": 1
     },
     {
       "id": "146150",
@@ -38,11 +69,6 @@
     {
       "id": "171453",
       "name": "Cici Daze",
-      "count": 1
-    },
-    {
-      "id": "92107",
-      "name": "IMEN",
       "count": 1
     }
   ]

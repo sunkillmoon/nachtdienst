@@ -1,0 +1,28 @@
+{
+  "id": "47363",
+  "name": "Kaiser (K S R)",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536871"
+    },
+    {
+      "id": "ra:2528841",
+      "title": "Frenzy 7YRS WKNDR",
+      "date": "2026-11-07",
+      "start": "2026-11-07T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528841"
+    }
+  ],
+  "past": []
+}

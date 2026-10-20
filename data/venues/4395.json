@@ -1,0 +1,50 @@
+{
+  "id": "4395",
+  "name": "InDeep'n'Dance Records",
+  "area": "Amsterdam",
+  "lat": 52.373551,
+  "lng": 4.880744,
+  "upcoming": [
+    {
+      "id": "ra:2531457",
+      "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
+      "date": "2026-10-21",
+      "start": "2026-10-21T12:00+02:00",
+      "venue": "InDeep'n'Dance Records",
+      "venue_id": "4395",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531457"
+    },
+    {
+      "id": "ra:2531459",
+      "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
+      "date": "2026-10-22",
+      "start": "2026-10-22T12:00+02:00",
+      "venue": "InDeep'n'Dance Records",
+      "venue_id": "4395",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531459"
+    },
+    {
+      "id": "ra:2531460",
+      "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "InDeep'n'Dance Records",
+      "venue_id": "4395",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531460"
+    },
+    {
+      "id": "ra:2531462",
+      "title": "Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet",
+      "date": "2026-10-25",
+      "start": "2026-10-25T12:00+01:00",
+      "venue": "InDeep'n'Dance Records",
+      "venue_id": "4395",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531462"
+    }
+  ],
+  "past": []
+}

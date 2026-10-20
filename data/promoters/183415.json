@@ -1,0 +1,69 @@
+{
+  "id": "183415",
+  "name": "PODD",
+  "upcoming": [
+    {
+      "id": "ra:2534097",
+      "title": "PODD x Omen Wapta x Ute",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534097"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "69327",
+      "name": "Feral",
+      "count": 1
+    },
+    {
+      "id": "91338",
+      "name": "Marius Bø",
+      "count": 1
+    },
+    {
+      "id": "142823",
+      "name": "Costanza",
+      "count": 1
+    },
+    {
+      "id": "123130",
+      "name": "DJ HI-C",
+      "count": 1
+    },
+    {
+      "id": "105174",
+      "name": "Nelly (NL)",
+      "count": 1
+    },
+    {
+      "id": "85898",
+      "name": "Avsluta",
+      "count": 1
+    },
+    {
+      "id": "172773",
+      "name": "Floid.live",
+      "count": 1
+    },
+    {
+      "id": "75172",
+      "name": "Cobahn",
+      "count": 1
+    },
+    {
+      "id": "51098",
+      "name": "Toru Ikemoto",
+      "count": 1
+    },
+    {
+      "id": "118426",
+      "name": "Ekkel",
+      "count": 1
+    }
+  ]
+}

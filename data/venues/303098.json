@@ -1,0 +1,80 @@
+{
+  "id": "303098",
+  "name": "Mr Watson",
+  "area": "Amsterdam",
+  "lat": 52.35,
+  "lng": 4.91,
+  "upcoming": [
+    {
+      "id": "ra:2563443",
+      "title": "REDBOX pres. House Frequency",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563443"
+    },
+    {
+      "id": "ra:2563462",
+      "title": "REDBOX pres. INTERTRONIKA",
+      "date": "2026-10-22",
+      "start": "2026-10-22T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563462"
+    },
+    {
+      "id": "ra:2547220",
+      "title": "KENZi by Day - ADE Edition",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547220"
+    },
+    {
+      "id": "ra:2563474",
+      "title": "Redbox presents Mushroom Pulses",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563474"
+    },
+    {
+      "id": "ra:2563477",
+      "title": "Redbox presents House of Redbox",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563477"
+    },
+    {
+      "id": "ra:2540631",
+      "title": "CQTD presents Closing Brunch Chez Mr Watson",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540631"
+    },
+    {
+      "id": "ra:2563480",
+      "title": "REDBOX pres. The Last Frequency",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563480"
+    }
+  ],
+  "past": []
+}

@@ -2,7 +2,28 @@
   "id": "143900",
   "name": "Lara Renner",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2559351",
+      "title": "Oberhaum ADE at Broedplaats ACTA",
+      "date": "2026-10-23",
+      "start": "2026-10-23T12:00+02:00",
+      "venue": "Oberhaum",
+      "venue_id": "304162",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559351"
+    },
+    {
+      "id": "ra:2544907",
+      "title": "RADION Invites: Fever Dream x Patchwork Family",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544907"
+    }
+  ],
   "past": [
     {
       "id": "ra:2486464",

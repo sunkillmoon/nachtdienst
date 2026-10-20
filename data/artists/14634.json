@@ -12,6 +12,16 @@
       "venue_id": "69321",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2470372"
+    },
+    {
+      "id": "ra:2535147",
+      "title": "Más Tiempo by Skepta",
+      "date": "2026-10-25",
+      "start": "2026-10-26T07:00+01:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2535147"
     }
   ],
   "past": []

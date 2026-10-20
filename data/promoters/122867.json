@@ -1,0 +1,44 @@
+{
+  "id": "122867",
+  "name": "Primal Instinct ",
+  "upcoming": [
+    {
+      "id": "ra:2539771",
+      "title": "Primal Instinct with Chlär & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539771"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "81367",
+      "name": "Chlär",
+      "count": 1
+    },
+    {
+      "id": "69798",
+      "name": "TAFKAMP",
+      "count": 1
+    },
+    {
+      "id": "51439",
+      "name": "Temudo",
+      "count": 1
+    },
+    {
+      "id": "148455",
+      "name": "Maria Cue",
+      "count": 1
+    },
+    {
+      "id": "94743",
+      "name": "Valody",
+      "count": 1
+    }
+  ]
+}

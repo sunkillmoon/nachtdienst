@@ -12,6 +12,16 @@
       "venue_id": "93679",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2481562"
+    },
+    {
+      "id": "ra:2544867",
+      "title": "Offweek x Loud-Contact - ADE",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Pllek",
+      "venue_id": "86709",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544867"
     }
   ],
   "past": []

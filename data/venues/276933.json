@@ -6,6 +6,28 @@
   "lng": 4.9,
   "upcoming": [
     {
+      "id": "ra:2564736",
+      "title": "ADE Special: Melodic Thursday",
+      "date": "2026-10-22",
+      "start": "2026-10-22T15:00+02:00",
+      "venue": "Clink Noord",
+      "venue_id": "276933",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564736"
+    },
+    {
+      "id": "ra:2564722",
+      "title": "ADE Special: Progressive Friday",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Clink Noord",
+      "venue_id": "276933",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2564722"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2518271",
       "title": "Progressive Friday",
       "date": "2026-08-28",
@@ -14,9 +36,7 @@
       "venue_id": "276933",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2518271"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2514658",
       "title": "Progressive Friday",

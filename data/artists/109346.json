@@ -4,14 +4,56 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2502868",
-      "title": "Rythym 2YRS",
-      "date": "2026-08-27",
-      "start": "2026-08-27T22:00+02:00",
+      "id": "ra:2504927",
+      "title": "PALET ADE Special",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2502868"
+      "url": "https://ra.co/events/2504927"
+    },
+    {
+      "id": "ra:2502429",
+      "title": "Audio Obscura ADE x Bad Boombox Invites",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:30+02:00",
+      "venue": "RAWFACTORY",
+      "venue_id": "190418",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502429"
+    },
+    {
+      "id": "ra:2484584",
+      "title": "ADE - Todd Terry & Friends",
+      "date": "2026-10-25",
+      "start": "2026-10-25T14:00+01:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2484584"
+    },
+    {
+      "id": "ra:2517622",
+      "title": "Boris Coelman, De Sluwe Vos, Merel Helderman",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517622"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2516969",
+      "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "SISSI'S Amsterdam",
+      "venue_id": "255755",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516969"
     },
     {
       "id": "ra:2468479",
@@ -24,27 +66,15 @@
       "url": "https://ra.co/events/2468479"
     },
     {
-      "id": "ra:2516969",
-      "title": "Sissi's Saturday: Boris Coelman invites SUCHI",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
+      "id": "ra:2502868",
+      "title": "Rythym 2YRS",
+      "date": "2026-08-27",
+      "start": "2026-08-27T22:00+02:00",
       "venue": "SISSI'S Amsterdam",
       "venue_id": "255755",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516969"
+      "url": "https://ra.co/events/2502868"
     },
-    {
-      "id": "ra:2502429",
-      "title": "Audio Obscura ADE x Bad Boombox Invites",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:30+02:00",
-      "venue": "RAWFACTORY",
-      "venue_id": "190418",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502429"
-    }
-  ],
-  "past": [
     {
       "id": "ra:2375299",
       "title": "Lowlands 2026",

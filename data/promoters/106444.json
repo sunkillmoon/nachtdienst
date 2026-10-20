@@ -1,0 +1,79 @@
+{
+  "id": "106444",
+  "name": "Borisov",
+  "upcoming": [
+    {
+      "id": "ra:2523073",
+      "title": "Pintai (ADE)",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2523073"
+    },
+    {
+      "id": "ra:2538413",
+      "title": "Nous'klaer Audio at Borisov / ADE 2026",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Borisov Amsterdam",
+      "venue_id": "188627",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538413"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "102728",
+      "name": "Lb Honne",
+      "count": 1
+    },
+    {
+      "id": "83133",
+      "name": "ORION (IT)",
+      "count": 1
+    },
+    {
+      "id": "169785",
+      "name": "Gizem",
+      "count": 1
+    },
+    {
+      "id": "107326",
+      "name": "Hame (1)",
+      "count": 1
+    },
+    {
+      "id": "111391",
+      "name": "Hafa",
+      "count": 1
+    },
+    {
+      "id": "161156",
+      "name": "frederic (2)",
+      "count": 1
+    },
+    {
+      "id": "60129",
+      "name": "Altinbas",
+      "count": 1
+    },
+    {
+      "id": "57043",
+      "name": "Andy Garvey",
+      "count": 1
+    },
+    {
+      "id": "165704",
+      "name": "dirtydms",
+      "count": 1
+    },
+    {
+      "id": "80532",
+      "name": "Eversines",
+      "count": 1
+    }
+  ]
+}

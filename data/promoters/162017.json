@@ -1,7 +1,18 @@
 {
   "id": "162017",
   "name": "Wherever",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2557107",
+      "title": "ADE - Wherever x South Side",
+      "date": "2026-10-21",
+      "start": "2026-10-21T17:00+02:00",
+      "venue": "MeWe Amsterdam",
+      "venue_id": "283202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557107"
+    }
+  ],
   "past": [
     {
       "id": "ra:2516571",
@@ -15,6 +26,26 @@
     }
   ],
   "top_artists": [
+    {
+      "id": "129482",
+      "name": "ADEZ",
+      "count": 1
+    },
+    {
+      "id": "125318",
+      "name": "Alonso Bierg",
+      "count": 1
+    },
+    {
+      "id": "156951",
+      "name": "Bianchetti",
+      "count": 1
+    },
+    {
+      "id": "149436",
+      "name": "JP Hernández",
+      "count": 1
+    },
     {
       "id": "8464",
       "name": "Andrea Lombardo",

@@ -4,14 +4,24 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2511270",
-      "title": "EYE CONTACT & VIAPHIA",
-      "date": "2026-09-04",
-      "start": "2026-09-04T22:00+02:00",
+      "id": "ra:2534185",
+      "title": "Free Your Mind x Teletech ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534185"
+    },
+    {
+      "id": "ra:2533097",
+      "title": "ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
       "venue": "Skatecafe",
       "venue_id": "138553",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2511270"
+      "url": "https://ra.co/events/2533097"
     },
     {
       "id": "ra:2436427",
@@ -25,6 +35,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2511270",
+      "title": "EYE CONTACT & VIAPHIA",
+      "date": "2026-09-04",
+      "start": "2026-09-04T22:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511270"
+    },
     {
       "id": "ra:2453208",
       "title": "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER",

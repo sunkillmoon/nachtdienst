@@ -1,7 +1,8 @@
 {
   "id": "191109",
   "name": "Entity",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2498340",
       "title": "Entity + Herbivox presents OVERGROW",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2498340"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "127084",

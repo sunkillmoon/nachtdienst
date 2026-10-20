@@ -2,7 +2,8 @@
   "id": "131486",
   "name": "Snooz",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514956",
       "title": "MASH Summer Afterparty",
@@ -13,6 +14,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2514956"
     }
-  ],
-  "past": []
+  ]
 }

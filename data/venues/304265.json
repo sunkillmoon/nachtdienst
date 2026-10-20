@@ -1,0 +1,20 @@
+{
+  "id": "304265",
+  "name": "Ultimate VR Leiden",
+  "area": "All",
+  "lat": 52.15,
+  "lng": 4.48,
+  "upcoming": [
+    {
+      "id": "ra:2551901",
+      "title": "CONSPIRACY RAVES: RAVE BOX - The Ultimate HELLoween Rave Experience",
+      "date": "2026-10-31",
+      "start": "2026-10-31T18:00+01:00",
+      "venue": "Ultimate VR Leiden",
+      "venue_id": "304265",
+      "area": "All",
+      "url": "https://ra.co/events/2551901"
+    }
+  ],
+  "past": []
+}

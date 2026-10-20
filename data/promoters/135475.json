@@ -1,0 +1,99 @@
+{
+  "id": "135475",
+  "name": "ConneQting The Dots",
+  "upcoming": [
+    {
+      "id": "ra:2540556",
+      "title": "From Amsterdam with Love  ADE30",
+      "date": "2026-10-21",
+      "start": "2026-10-21T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540556"
+    },
+    {
+      "id": "ra:2541032",
+      "title": "CQTD presents In Store Session with Kid Sublime & Ruggero (The Playground)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Black Gold",
+      "venue_id": "124535",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2541032"
+    },
+    {
+      "id": "ra:2540591",
+      "title": "CQTD presents Rhythm & Sound ADE30",
+      "date": "2026-10-23",
+      "start": "2026-10-23T17:00+02:00",
+      "venue": "Cafe De Duivel",
+      "venue_id": "13394",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540591"
+    },
+    {
+      "id": "ra:2540631",
+      "title": "CQTD presents Closing Brunch Chez Mr Watson",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2540631"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "151597",
+      "name": "Han Litz",
+      "count": 2
+    },
+    {
+      "id": "29262",
+      "name": "Roger That",
+      "count": 2
+    },
+    {
+      "id": "129655",
+      "name": "OriaBela",
+      "count": 1
+    },
+    {
+      "id": "96393",
+      "name": "Jumelage",
+      "count": 1
+    },
+    {
+      "id": "116545",
+      "name": "MoMeWi",
+      "count": 1
+    },
+    {
+      "id": "188943",
+      "name": "Luke Spontan",
+      "count": 1
+    },
+    {
+      "id": "45089",
+      "name": "Kid Sublime",
+      "count": 1
+    },
+    {
+      "id": "148846",
+      "name": "Simon Seven Six",
+      "count": 1
+    },
+    {
+      "id": "142283",
+      "name": "Chris Wheatley",
+      "count": 1
+    },
+    {
+      "id": "15812",
+      "name": "Marcel Vogel",
+      "count": 1
+    }
+  ]
+}

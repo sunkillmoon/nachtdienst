@@ -1,0 +1,49 @@
+{
+  "id": "122344",
+  "name": "IMPULSE CØNTROL",
+  "upcoming": [
+    {
+      "id": "ra:2534614",
+      "title": "IMPULSE CØNTROL ADE // BENZA, JSPRV35, + MORE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T17:00+02:00",
+      "venue": "nachbar",
+      "venue_id": "243352",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534614"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "138273",
+      "name": "BENZA",
+      "count": 1
+    },
+    {
+      "id": "108599",
+      "name": "JSPRV35",
+      "count": 1
+    },
+    {
+      "id": "118099",
+      "name": "Concrete Husband",
+      "count": 1
+    },
+    {
+      "id": "117226",
+      "name": "Junkfile",
+      "count": 1
+    },
+    {
+      "id": "106384",
+      "name": "Michelle Kay",
+      "count": 1
+    },
+    {
+      "id": "68183",
+      "name": "Ramsey Neville",
+      "count": 1
+    }
+  ]
+}

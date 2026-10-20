@@ -1,7 +1,8 @@
 {
   "id": "134203",
   "name": "Get In Sync",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2408404",
       "title": "Get In Sync: Estiva Exclusive Club Show",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2408404"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "143572",

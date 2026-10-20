@@ -2,7 +2,8 @@
   "id": "86045",
   "name": "Alicia Carrera",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2506324",
       "title": "Field Notes presents... A House Party 2",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2506324"
     }
-  ],
-  "past": []
+  ]
 }

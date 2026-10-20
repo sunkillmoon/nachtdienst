@@ -4,24 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2471398",
-      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "Het Sieraad",
-      "venue_id": "44668",
+      "id": "ra:2442149",
+      "title": "Worakls & friends ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2471398"
-    },
-    {
-      "id": "ra:2513392",
-      "title": "ON&ON: HVMZA, Susan Right, DEMS",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:59+02:00",
-      "venue": "TivoliVredenburg",
-      "venue_id": "88445",
-      "area": "Utrecht",
-      "url": "https://ra.co/events/2513392"
+      "url": "https://ra.co/events/2442149"
     },
     {
       "id": "ra:2510268",
@@ -34,5 +24,26 @@
       "url": "https://ra.co/events/2510268"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2513392",
+      "title": "ON&ON: HVMZA, Susan Right, DEMS",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:59+02:00",
+      "venue": "TivoliVredenburg",
+      "venue_id": "88445",
+      "area": "Utrecht",
+      "url": "https://ra.co/events/2513392"
+    },
+    {
+      "id": "ra:2471398",
+      "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "Het Sieraad",
+      "venue_id": "44668",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2471398"
+    }
+  ]
 }

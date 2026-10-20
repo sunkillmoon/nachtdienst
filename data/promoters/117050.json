@@ -1,7 +1,8 @@
 {
   "id": "117050",
   "name": "Lost Paradise Music Events",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519669",
       "title": "Before Noon Club",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2519669"
     }
   ],
-  "past": [],
   "top_artists": []
 }

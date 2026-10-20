@@ -2,7 +2,8 @@
   "id": "2897",
   "name": "Tama Sumo",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2378523",
       "title": "De After",
@@ -12,9 +13,7 @@
       "venue_id": "210189",
       "area": "Utrecht",
       "url": "https://ra.co/events/2378523"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2489606",
       "title": "Doka Studio x As The World Turns with Tama Sumo - Rob Manga - some out of none (World Pride)",

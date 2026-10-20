@@ -1,0 +1,49 @@
+{
+  "id": "123738",
+  "name": "240KMH",
+  "upcoming": [
+    {
+      "id": "ra:2529551",
+      "title": "240KM/H - ADE Takeover",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Warehouse Elementenstraat",
+      "venue_id": "69321",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529551"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107527",
+      "name": "Adrian Mills",
+      "count": 1
+    },
+    {
+      "id": "115550",
+      "name": "Aphøtic",
+      "count": 1
+    },
+    {
+      "id": "93694",
+      "name": "Johannes Schuster",
+      "count": 1
+    },
+    {
+      "id": "83975",
+      "name": "Félicie",
+      "count": 1
+    },
+    {
+      "id": "95799",
+      "name": "ines isla",
+      "count": 1
+    },
+    {
+      "id": "141485",
+      "name": "zwilling.",
+      "count": 1
+    }
+  ]
+}

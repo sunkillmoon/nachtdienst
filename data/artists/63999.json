@@ -2,7 +2,8 @@
   "id": "63999",
   "name": "CEM",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519739",
       "title": "FLUID // BADSISTA • CEM • Guenter Råler • Nala Brown",
@@ -12,9 +13,7 @@
       "venue_id": "137365",
       "area": "Utrecht",
       "url": "https://ra.co/events/2519739"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2462147",
       "title": "TILLATEC invites: Herrensauna + KNIT",

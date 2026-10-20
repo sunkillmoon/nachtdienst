@@ -4,13 +4,23 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2482243",
+      "title": "Mau P presents Baddest Behaviour x Loveland - ADE 2026",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "Mediahaven - Minervahaven",
+      "venue_id": "93679",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482243"
+    },
+    {
       "id": "ra:2479108",
       "title": "Awakenings ADE - Joseph Capriati presents Metamorfosi",
       "date": "2026-10-23",
       "start": "2026-10-23T15:00+02:00",
       "venue": "Sugarfactory",
       "venue_id": "277115",
-      "area": "All",
+      "area": "Amsterdam",
       "url": "https://ra.co/events/2479108"
     }
   ],

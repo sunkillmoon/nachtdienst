@@ -3,176 +3,6 @@
   "name": "Madam Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2456939",
-      "title": "Madam by Night invites: Simon Kidzoo, Ramon Rivé, Ella Noar",
-      "date": "2026-08-28",
-      "start": "2026-08-28T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456939"
-    },
-    {
-      "id": "ra:2456940",
-      "title": "Madam by Night invites: Mea Culpa",
-      "date": "2026-08-29",
-      "start": "2026-08-29T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2456940"
-    },
-    {
-      "id": "ra:2520522",
-      "title": "Madam by Night invites: MONARK",
-      "date": "2026-09-03",
-      "start": "2026-09-03T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520522"
-    },
-    {
-      "id": "ra:2473478",
-      "title": "Madam by Night invites: VELVET",
-      "date": "2026-09-04",
-      "start": "2026-09-04T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473478"
-    },
-    {
-      "id": "ra:2473482",
-      "title": "Madam by Night invites: Basics Recording",
-      "date": "2026-09-05",
-      "start": "2026-09-05T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473482"
-    },
-    {
-      "id": "ra:2473484",
-      "title": "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren",
-      "date": "2026-09-11",
-      "start": "2026-09-11T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473484"
-    },
-    {
-      "id": "ra:2473487",
-      "title": "Madam by Night invites: WE ARE ICONYC",
-      "date": "2026-09-12",
-      "start": "2026-09-12T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473487"
-    },
-    {
-      "id": "ra:2473488",
-      "title": "Madam by Night invites: Silven invites",
-      "date": "2026-09-18",
-      "start": "2026-09-18T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473488"
-    },
-    {
-      "id": "ra:2473490",
-      "title": "Madam by Night invites: The Disco Express",
-      "date": "2026-09-19",
-      "start": "2026-09-19T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473490"
-    },
-    {
-      "id": "ra:2473491",
-      "title": "Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ",
-      "date": "2026-09-25",
-      "start": "2026-09-25T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473491"
-    },
-    {
-      "id": "ra:2473496",
-      "title": "Madam by Night invites: Guerrilla",
-      "date": "2026-09-26",
-      "start": "2026-09-26T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473496"
-    },
-    {
-      "id": "ra:2473501",
-      "title": "Madam by Night invites: LABELS. presents: Unnamed & Unknown",
-      "date": "2026-10-02",
-      "start": "2026-10-02T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473501"
-    },
-    {
-      "id": "ra:2473502",
-      "title": "Madam by Night invites: Sooze",
-      "date": "2026-10-03",
-      "start": "2026-10-03T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473502"
-    },
-    {
-      "id": "ra:2473504",
-      "title": "Madam by Night invites: RED 87 b2b Project 89 (all night)",
-      "date": "2026-10-09",
-      "start": "2026-10-09T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473504"
-    },
-    {
-      "id": "ra:2473506",
-      "title": "Madam by Night invites: LevyM & Nomis",
-      "date": "2026-10-10",
-      "start": "2026-10-10T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473506"
-    },
-    {
-      "id": "ra:2473507",
-      "title": "Madam by Night invites: OMT Records x Life On Mars",
-      "date": "2026-10-16",
-      "start": "2026-10-16T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473507"
-    },
-    {
-      "id": "ra:2473508",
-      "title": "Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse",
-      "date": "2026-10-17",
-      "start": "2026-10-17T21:00+02:00",
-      "venue": "Madam",
-      "venue_id": "122376",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473508"
-    },
-    {
       "id": "ra:2403606",
       "title": "A'DAM Toren ADE 2026",
       "date": "2026-10-21",
@@ -263,6 +93,26 @@
       "url": "https://ra.co/events/2473510"
     },
     {
+      "id": "ra:2538537",
+      "title": "Madam by Night invites: VELVET",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538537"
+    },
+    {
+      "id": "ra:2538539",
+      "title": "Madam by Night invites: Robin Nicolas",
+      "date": "2026-11-07",
+      "start": "2026-11-07T21:00+01:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538539"
+    },
+    {
       "id": "ra:2475901",
       "title": "Madam by Night invites: Ginton",
       "date": "2026-11-21",
@@ -274,6 +124,176 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2473508",
+      "title": "Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse",
+      "date": "2026-10-17",
+      "start": "2026-10-17T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473508"
+    },
+    {
+      "id": "ra:2473507",
+      "title": "Madam by Night invites: OMT Records x Life On Mars",
+      "date": "2026-10-16",
+      "start": "2026-10-16T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473507"
+    },
+    {
+      "id": "ra:2473506",
+      "title": "Madam by Night invites: LevyM & Nomis",
+      "date": "2026-10-10",
+      "start": "2026-10-10T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473506"
+    },
+    {
+      "id": "ra:2473504",
+      "title": "Madam by Night invites: RED 87 b2b Project 89 (all night)",
+      "date": "2026-10-09",
+      "start": "2026-10-09T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473504"
+    },
+    {
+      "id": "ra:2473502",
+      "title": "Madam by Night invites: Sooze",
+      "date": "2026-10-03",
+      "start": "2026-10-03T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473502"
+    },
+    {
+      "id": "ra:2473501",
+      "title": "Madam by Night invites: LABELS. presents: Unnamed & Unknown",
+      "date": "2026-10-02",
+      "start": "2026-10-02T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473501"
+    },
+    {
+      "id": "ra:2473496",
+      "title": "Madam by Night invites: Guerrilla",
+      "date": "2026-09-26",
+      "start": "2026-09-26T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473496"
+    },
+    {
+      "id": "ra:2473491",
+      "title": "Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ",
+      "date": "2026-09-25",
+      "start": "2026-09-25T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473491"
+    },
+    {
+      "id": "ra:2473490",
+      "title": "Madam by Night invites: The Disco Express",
+      "date": "2026-09-19",
+      "start": "2026-09-19T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473490"
+    },
+    {
+      "id": "ra:2473488",
+      "title": "Madam by Night invites: Silven invites",
+      "date": "2026-09-18",
+      "start": "2026-09-18T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473488"
+    },
+    {
+      "id": "ra:2473487",
+      "title": "Madam by Night invites: WE ARE ICONYC",
+      "date": "2026-09-12",
+      "start": "2026-09-12T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473487"
+    },
+    {
+      "id": "ra:2473484",
+      "title": "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren",
+      "date": "2026-09-11",
+      "start": "2026-09-11T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473484"
+    },
+    {
+      "id": "ra:2473482",
+      "title": "Madam by Night invites: Basics Recording",
+      "date": "2026-09-05",
+      "start": "2026-09-05T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473482"
+    },
+    {
+      "id": "ra:2473478",
+      "title": "Madam by Night invites: VELVET",
+      "date": "2026-09-04",
+      "start": "2026-09-04T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473478"
+    },
+    {
+      "id": "ra:2520522",
+      "title": "Madam by Night invites: MONARK",
+      "date": "2026-09-03",
+      "start": "2026-09-03T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520522"
+    },
+    {
+      "id": "ra:2456940",
+      "title": "Madam by Night invites: Mea Culpa",
+      "date": "2026-08-29",
+      "start": "2026-08-29T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456940"
+    },
+    {
+      "id": "ra:2456939",
+      "title": "Madam by Night invites: Simon Kidzoo, Ramon Rivé, Ella Noar",
+      "date": "2026-08-28",
+      "start": "2026-08-28T21:00+02:00",
+      "venue": "Madam",
+      "venue_id": "122376",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2456939"
+    },
     {
       "id": "ra:2456912",
       "title": "Madam by Night invites: Milan Fernandes b2b Overhoff, Frequency George, LUME",
@@ -394,12 +414,7 @@
     {
       "id": "149434",
       "name": "Sanne Dammers",
-      "count": 2
-    },
-    {
-      "id": "140301",
-      "name": "Dirk Schot",
-      "count": 2
+      "count": 3
     },
     {
       "id": "98741",
@@ -434,6 +449,11 @@
     {
       "id": "117739",
       "name": "Ella Knight",
+      "count": 2
+    },
+    {
+      "id": "53893",
+      "name": "Ferreck Dawn",
       "count": 2
     }
   ]

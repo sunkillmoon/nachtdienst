@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2563443",
+      "title": "REDBOX pres. House Frequency",
+      "date": "2026-10-21",
+      "start": "2026-10-21T16:00+02:00",
+      "venue": "Mr Watson",
+      "venue_id": "303098",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563443"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2515654",
       "title": "Happy Feelings Groningen - Graanfabriek W/ Tonno Disko & More",
       "date": "2026-10-10",
@@ -12,9 +24,7 @@
       "venue_id": "156433",
       "area": "All",
       "url": "https://ra.co/events/2515654"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2505828",
       "title": "Echoe's Of The Deep",

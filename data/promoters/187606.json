@@ -1,7 +1,8 @@
 {
   "id": "187606",
   "name": "Undertone",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2519717",
       "title": "Tone Zone Leiden #5",
@@ -13,6 +14,5 @@
       "url": "https://ra.co/events/2519717"
     }
   ],
-  "past": [],
   "top_artists": []
 }

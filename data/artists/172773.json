@@ -1,0 +1,28 @@
+{
+  "id": "172773",
+  "name": "Floid.live",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2528548",
+      "title": "Minimal Collective x Oude Kerk: Post-Space",
+      "date": "2026-10-22",
+      "start": "2026-10-22T10:00+02:00",
+      "venue": "Oude Kerk",
+      "venue_id": "230693",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528548"
+    },
+    {
+      "id": "ra:2534097",
+      "title": "PODD x Omen Wapta x Ute",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00+02:00",
+      "venue": "ingang",
+      "venue_id": "300232",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2534097"
+    }
+  ],
+  "past": []
+}

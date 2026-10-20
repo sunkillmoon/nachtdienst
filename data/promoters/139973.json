@@ -1,0 +1,64 @@
+{
+  "id": "139973",
+  "name": "Musique de Lune",
+  "upcoming": [
+    {
+      "id": "ra:2544634",
+      "title": "UND3RT3MPL3 x Musique de Lune present Pole Folder",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544634"
+    },
+    {
+      "id": "ra:2544640",
+      "title": "UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T16:00+01:00",
+      "venue": "50:HERTZ HOUSE & TECHNO Club Rembrandt Square",
+      "venue_id": "304488",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544640"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "51672",
+      "name": "Jaap Ligthart",
+      "count": 2
+    },
+    {
+      "id": "84767",
+      "name": "Oscar Rosmano",
+      "count": 2
+    },
+    {
+      "id": "186863",
+      "name": "Tom Banner",
+      "count": 2
+    },
+    {
+      "id": "187343",
+      "name": "David J Newton",
+      "count": 2
+    },
+    {
+      "id": "149",
+      "name": "Pole Folder",
+      "count": 1
+    },
+    {
+      "id": "130406",
+      "name": "Danae (NL)",
+      "count": 1
+    },
+    {
+      "id": "120155",
+      "name": "NOIYSE PROJECT",
+      "count": 1
+    }
+  ]
+}

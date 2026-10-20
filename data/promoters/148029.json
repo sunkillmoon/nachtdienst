@@ -3,6 +3,28 @@
   "name": "Field Notes International",
   "upcoming": [
     {
+      "id": "ra:2545097",
+      "title": "Field Notes Family Affair",
+      "date": "2026-10-24",
+      "start": "2026-10-24T11:00+02:00",
+      "venue": "San Francisco",
+      "venue_id": "250599",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2545097"
+    },
+    {
+      "id": "ra:2522463",
+      "title": "**SOLD OUT** BROWN BAR DANCE EVENT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "TBA - Cafe Westerdok",
+      "venue_id": "301204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522463"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2506324",
       "title": "Field Notes presents... A House Party 2",
       "date": "2026-09-04",
@@ -13,31 +35,55 @@
       "url": "https://ra.co/events/2506324"
     }
   ],
-  "past": [],
   "top_artists": [
-    {
-      "id": "904",
-      "name": "Prins Thomas",
-      "count": 1
-    },
-    {
-      "id": "2063",
-      "name": "Legowelt",
-      "count": 1
-    },
-    {
-      "id": "86045",
-      "name": "Alicia Carrera",
-      "count": 1
-    },
-    {
-      "id": "67902",
-      "name": "Alexis Le-Tan",
-      "count": 1
-    },
     {
       "id": "165550",
       "name": "Field Notes DJs",
+      "count": 3
+    },
+    {
+      "id": "51665",
+      "name": "Manfredas",
+      "count": 1
+    },
+    {
+      "id": "572",
+      "name": "Ivan Smagghe",
+      "count": 1
+    },
+    {
+      "id": "60105",
+      "name": "Paula Tape",
+      "count": 1
+    },
+    {
+      "id": "14698",
+      "name": "Tornado Wallace",
+      "count": 1
+    },
+    {
+      "id": "60056",
+      "name": "Budino",
+      "count": 1
+    },
+    {
+      "id": "68560",
+      "name": "Sound Metaphors Djs",
+      "count": 1
+    },
+    {
+      "id": "45542",
+      "name": "Interstellar Funk",
+      "count": 1
+    },
+    {
+      "id": "93067",
+      "name": "Eternal Love",
+      "count": 1
+    },
+    {
+      "id": "160961",
+      "name": "Camilo Miranda",
       "count": 1
     }
   ]

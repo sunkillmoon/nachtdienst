@@ -1,17 +1,8 @@
 {
   "id": "189864",
   "name": "Houtbaar",
-  "upcoming": [
-    {
-      "id": "ra:2509402",
-      "title": "Momentum in De Vleeshal",
-      "date": "2026-08-28",
-      "start": "2026-08-28T17:00+02:00",
-      "venue": "De Vleeshal",
-      "venue_id": "299669",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2509402"
-    },
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514593",
       "title": "Houtbaar Summer Closing with BELLA b2b Olsvangėr, Hellie & Mudfat",
@@ -21,9 +12,18 @@
       "venue_id": "262411",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514593"
+    },
+    {
+      "id": "ra:2509402",
+      "title": "Momentum in De Vleeshal",
+      "date": "2026-08-28",
+      "start": "2026-08-28T17:00+02:00",
+      "venue": "De Vleeshal",
+      "venue_id": "299669",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509402"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "9083",

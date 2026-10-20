@@ -4,7 +4,8 @@
   "area": "Amsterdam",
   "lat": 52.381996,
   "lng": 4.773208,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2376016",
       "title": "ZeeZout Festival 2026",
@@ -15,6 +16,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2376016"
     }
-  ],
-  "past": []
+  ]
 }

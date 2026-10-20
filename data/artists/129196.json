@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2553870",
+      "title": "50:HERTZ CLUB TRAIN X Colyn",
+      "date": "2026-10-25",
+      "start": "2026-10-25T18:00+01:00",
+      "venue": "50:Hertz Club Train",
+      "venue_id": "304410",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553870"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2512659",
       "title": "Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC",
       "date": "2026-10-10",
@@ -13,6 +25,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2512659"
     }
-  ],
-  "past": []
+  ]
 }

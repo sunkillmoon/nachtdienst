@@ -6,126 +6,6 @@
   "lng": 4.8309665,
   "upcoming": [
     {
-      "id": "ra:2494226",
-      "title": "KI/KI's Dirty Thirty",
-      "date": "2026-08-29",
-      "start": "2026-08-29T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2494226"
-    },
-    {
-      "id": "ra:2502651",
-      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2502651"
-    },
-    {
-      "id": "ra:2458125",
-      "title": "SPIELRAUM Weekender: Nexus opening",
-      "date": "2026-09-11",
-      "start": "2026-09-11T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2458125"
-    },
-    {
-      "id": "ra:2499718",
-      "title": "RAUM invites One Eye Witness",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499718"
-    },
-    {
-      "id": "ra:2499721",
-      "title": "CARISTA, ROD, Prance",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499721"
-    },
-    {
-      "id": "ra:2499726",
-      "title": "PARAMIDA (All Night Long)",
-      "date": "2026-09-25",
-      "start": "2026-09-25T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499726"
-    },
-    {
-      "id": "ra:2499729",
-      "title": "Marco Shuttle, Sunil Sharpe, Maria Cue",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2499729"
-    },
-    {
-      "id": "ra:2520611",
-      "title": "Mama Snake, Roza Terenzi, Rey Colino",
-      "date": "2026-10-03",
-      "start": "2026-10-03T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520611"
-    },
-    {
-      "id": "ra:2520614",
-      "title": "Leon Vynehall, Yu Su, Marie K",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520614"
-    },
-    {
-      "id": "ra:2520615",
-      "title": "Surgeon, Talismann, Polly F",
-      "date": "2026-10-10",
-      "start": "2026-10-10T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520615"
-    },
-    {
-      "id": "ra:2520618",
-      "title": "CCL (All Night Long)",
-      "date": "2026-10-16",
-      "start": "2026-10-16T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520618"
-    },
-    {
-      "id": "ra:2520620",
-      "title": "Steve Bicknell, Stephanie Sykes, Cinnaman",
-      "date": "2026-10-17",
-      "start": "2026-10-17T23:00+02:00",
-      "venue": "CLUB RAUM",
-      "venue_id": "219522",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2520620"
-    },
-    {
       "id": "ra:2520622",
       "title": "ADE - RAUM invites Clone Records",
       "date": "2026-10-22",
@@ -144,9 +24,139 @@
       "venue_id": "219522",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2478125"
+    },
+    {
+      "id": "ra:2543903",
+      "title": "ketia curates (bday bash): day party ",
+      "date": "2026-11-08",
+      "start": "2026-11-08T15:00+01:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543903"
     }
   ],
   "past": [
+    {
+      "id": "ra:2520620",
+      "title": "Steve Bicknell, Stephanie Sykes, Cinnaman",
+      "date": "2026-10-17",
+      "start": "2026-10-17T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520620"
+    },
+    {
+      "id": "ra:2520618",
+      "title": "CCL (All Night Long)",
+      "date": "2026-10-16",
+      "start": "2026-10-16T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520618"
+    },
+    {
+      "id": "ra:2520615",
+      "title": "Surgeon, Talismann, Polly F",
+      "date": "2026-10-10",
+      "start": "2026-10-10T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520615"
+    },
+    {
+      "id": "ra:2520614",
+      "title": "Leon Vynehall, Yu Su, Marie K",
+      "date": "2026-10-09",
+      "start": "2026-10-09T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520614"
+    },
+    {
+      "id": "ra:2520611",
+      "title": "Mama Snake, Roza Terenzi, Rey Colino",
+      "date": "2026-10-03",
+      "start": "2026-10-03T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2520611"
+    },
+    {
+      "id": "ra:2499729",
+      "title": "Marco Shuttle, Sunil Sharpe, Maria Cue",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499729"
+    },
+    {
+      "id": "ra:2499726",
+      "title": "PARAMIDA (All Night Long)",
+      "date": "2026-09-25",
+      "start": "2026-09-25T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499726"
+    },
+    {
+      "id": "ra:2499721",
+      "title": "CARISTA, ROD, Prance",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499721"
+    },
+    {
+      "id": "ra:2499718",
+      "title": "RAUM invites One Eye Witness",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2499718"
+    },
+    {
+      "id": "ra:2458125",
+      "title": "SPIELRAUM Weekender: Nexus opening",
+      "date": "2026-09-11",
+      "start": "2026-09-11T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2458125"
+    },
+    {
+      "id": "ra:2502651",
+      "title": "The Gang is Beautiful x Grey Men - Fashion Week Closing",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2502651"
+    },
+    {
+      "id": "ra:2494226",
+      "title": "KI/KI's Dirty Thirty",
+      "date": "2026-08-29",
+      "start": "2026-08-29T23:00+02:00",
+      "venue": "CLUB RAUM",
+      "venue_id": "219522",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2494226"
+    },
     {
       "id": "ra:2486464",
       "title": "RAUM invites PAX-ROMANA 12HRS",

@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2511306",
+      "title": "ADE - PIP GOES Skatecafe",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "Skatecafe",
+      "venue_id": "138553",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2511306"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
       "date": "2026-08-29",
@@ -13,6 +25,5 @@
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
     }
-  ],
-  "past": []
+  ]
 }

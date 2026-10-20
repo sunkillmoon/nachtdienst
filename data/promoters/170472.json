@@ -1,0 +1,79 @@
+{
+  "id": "170472",
+  "name": "Alexander Tiemann",
+  "upcoming": [
+    {
+      "id": "ra:2529487",
+      "title": "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1",
+      "date": "2026-10-21",
+      "start": "2026-10-21T13:00+02:00",
+      "venue": "Eighty-Four Amsterdam",
+      "venue_id": "301843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529487"
+    },
+    {
+      "id": "ra:2529489",
+      "title": "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Eighty-Four Amsterdam",
+      "venue_id": "301843",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529489"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "94649",
+      "name": "Florenzo Hiäät",
+      "count": 1
+    },
+    {
+      "id": "90804",
+      "name": "Cast Lov",
+      "count": 1
+    },
+    {
+      "id": "143942",
+      "name": "MAXYM",
+      "count": 1
+    },
+    {
+      "id": "182218",
+      "name": "Krevix",
+      "count": 1
+    },
+    {
+      "id": "22122",
+      "name": "David Gravell",
+      "count": 1
+    },
+    {
+      "id": "180611",
+      "name": "Mark Roma",
+      "count": 1
+    },
+    {
+      "id": "10923",
+      "name": "Richard Durand",
+      "count": 1
+    },
+    {
+      "id": "145216",
+      "name": "Fernweh (2)",
+      "count": 1
+    },
+    {
+      "id": "181945",
+      "name": "HADDI",
+      "count": 1
+    },
+    {
+      "id": "140797",
+      "name": "P.O.U",
+      "count": 1
+    }
+  ]
+}

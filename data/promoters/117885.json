@@ -1,0 +1,54 @@
+{
+  "id": "117885",
+  "name": "Reboot Events IRE",
+  "upcoming": [
+    {
+      "id": "ra:2522580",
+      "title": "NRG ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "Nxt Museum",
+      "venue_id": "203427",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2522580"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "107317",
+      "name": "blk.",
+      "count": 1
+    },
+    {
+      "id": "135604",
+      "name": "DATSKO",
+      "count": 1
+    },
+    {
+      "id": "137349",
+      "name": "JAZZY (2)",
+      "count": 1
+    },
+    {
+      "id": "121367",
+      "name": "Jezza & Jod",
+      "count": 1
+    },
+    {
+      "id": "144671",
+      "name": "KRUELTY",
+      "count": 1
+    },
+    {
+      "id": "110243",
+      "name": "PRADA2000",
+      "count": 1
+    },
+    {
+      "id": "114398",
+      "name": "SaltySis",
+      "count": 1
+    }
+  ]
+}

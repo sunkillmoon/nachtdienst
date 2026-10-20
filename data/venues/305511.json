@@ -1,0 +1,40 @@
+{
+  "id": "305511",
+  "name": "Cafe Blooker",
+  "area": "Amsterdam",
+  "lat": 52.34,
+  "lng": 4.92,
+  "upcoming": [
+    {
+      "id": "ra:2563834",
+      "title": "Amsterdam Dance Week",
+      "date": "2026-10-23",
+      "start": "2026-10-23T18:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563834"
+    },
+    {
+      "id": "ra:2563648",
+      "title": "ADE w. Deep House Bucharest & BeYourOwnLabel",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563648"
+    },
+    {
+      "id": "ra:2563838",
+      "title": "Amsterdam Dance week",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Cafe Blooker",
+      "venue_id": "305511",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2563838"
+    }
+  ],
+  "past": []
+}

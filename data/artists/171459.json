@@ -4,18 +4,28 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2505813",
-      "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
-      "date": "2026-09-05",
-      "start": "2026-09-05T22:30+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
+      "id": "ra:2560257",
+      "title": "ESTRELLA invites friends at GOT.DRIP",
+      "date": "2026-10-23",
+      "start": "2026-10-23T16:00+02:00",
+      "venue": "GOT.Drip Streetwear & Records",
+      "venue_id": "305126",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2505813"
+      "url": "https://ra.co/events/2560257"
+    },
+    {
+      "id": "ra:2516785",
+      "title": "THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó [SOLD OUT]",
+      "date": "2026-10-23",
+      "start": "2026-10-24T06:30+02:00",
+      "venue": "The Loft Amsterdam",
+      "venue_id": "190657",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2516785"
     },
     {
       "id": "ra:2494395",
-      "title": "Runner's High",
+      "title": "Breakfast Club ADE: Runner's High",
       "date": "2026-10-24",
       "start": "2026-10-24T09:00+02:00",
       "venue": "RADION",
@@ -35,7 +45,7 @@
     },
     {
       "id": "ra:2494430",
-      "title": "The Final Stretch",
+      "title": "Breakfast Club ADE: The Final Stretch",
       "date": "2026-10-25",
       "start": "2026-10-25T18:00+01:00",
       "venue": "Garage Noord",
@@ -45,6 +55,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2505813",
+      "title": "Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA",
+      "date": "2026-09-05",
+      "start": "2026-09-05T22:30+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505813"
+    },
     {
       "id": "ra:2501504",
       "title": "ESTRELLA & PHIA b2b 36framez",

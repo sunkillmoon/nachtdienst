@@ -2,7 +2,8 @@
   "id": "131265",
   "name": "Essy",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2329764",
       "title": "Audio Obscura Festival [SOLD OUT]",
@@ -12,9 +13,7 @@
       "venue_id": "124881",
       "area": "Rotterdam",
       "url": "https://ra.co/events/2329764"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2478070",
       "title": "Dansplicht Open Air",

@@ -6,30 +6,10 @@
   "lng": 4.894156,
   "upcoming": [
     {
-      "id": "ra:2509328",
-      "title": "CLUB CVNT",
-      "date": "2026-09-11",
-      "start": "2026-09-11T22:00+02:00",
-      "venue": "Akhnaton",
-      "venue_id": "2763",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2509328"
-    },
-    {
-      "id": "ra:2512295",
-      "title": "WOOF! takes over Akhnaton",
-      "date": "2026-09-19",
-      "start": "2026-09-19T23:00+02:00",
-      "venue": "Akhnaton",
-      "venue_id": "2763",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2512295"
-    },
-    {
       "id": "ra:2500167",
       "title": "Let Techno Unite ADE 2026",
       "date": "2026-10-21",
-      "start": "2026-10-21T21:00+02:00",
+      "start": "2026-10-21T19:00+02:00",
       "venue": "Akhnaton",
       "venue_id": "2763",
       "area": "Amsterdam",
@@ -46,6 +26,16 @@
       "url": "https://ra.co/events/2498349"
     },
     {
+      "id": "ra:2558742",
+      "title": "Dualis Records & Zenobius Records present",
+      "date": "2026-10-23",
+      "start": "2026-10-23T13:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2558742"
+    },
+    {
       "id": "ra:2499130",
       "title": "MOOV - ADE Edition",
       "date": "2026-10-23",
@@ -54,7 +44,48 @@
       "venue_id": "2763",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2499130"
+    },
+    {
+      "id": "ra:2544634",
+      "title": "UND3RT3MPL3 x Musique de Lune present Pole Folder",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2544634"
+    },
+    {
+      "id": "ra:2560335",
+      "title": "Once Upon a Beat",
+      "date": "2026-11-06",
+      "start": "2026-11-06T21:00+01:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2560335"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2512295",
+      "title": "WOOF! takes over Akhnaton",
+      "date": "2026-09-19",
+      "start": "2026-09-19T23:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2512295"
+    },
+    {
+      "id": "ra:2509328",
+      "title": "CLUB CVNT",
+      "date": "2026-09-11",
+      "start": "2026-09-11T22:00+02:00",
+      "venue": "Akhnaton",
+      "venue_id": "2763",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2509328"
+    }
+  ]
 }

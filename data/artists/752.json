@@ -4,6 +4,16 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2505049",
+      "title": "Mano Le Tough pres. Maeve x ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T14:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2505049"
+    },
+    {
       "id": "ra:2479117",
       "title": "Love On The Rocks - ADE 2026 - Klaproos",
       "date": "2026-10-23",
@@ -22,6 +32,16 @@
       "venue_id": "232813",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2493047"
+    },
+    {
+      "id": "ra:2526376",
+      "title": "giegling at Klaproos - ade - SOLD OUT",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "Klaproos",
+      "venue_id": "175707",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2526376"
     }
   ],
   "past": [

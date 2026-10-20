@@ -14,5 +14,56 @@
     }
   ],
   "past": [],
-  "top_artists": []
+  "top_artists": [
+    {
+      "id": "159225",
+      "name": "Benny2",
+      "count": 1
+    },
+    {
+      "id": "182924",
+      "name": "Cathy Grogan",
+      "count": 1
+    },
+    {
+      "id": "109346",
+      "name": "Boris Coelman",
+      "count": 1
+    },
+    {
+      "id": "88224",
+      "name": "Scarlett O'Malley",
+      "count": 1
+    },
+    {
+      "id": "91200",
+      "name": "DJ SWISHA",
+      "count": 1
+    },
+    {
+      "id": "122680",
+      "name": "Eileen",
+      "count": 1
+    },
+    {
+      "id": "86500",
+      "name": "Gabrielle Kwarteng",
+      "count": 1
+    },
+    {
+      "id": "134978",
+      "name": "NewTone",
+      "count": 1
+    },
+    {
+      "id": "156254",
+      "name": "TINS",
+      "count": 1
+    },
+    {
+      "id": "94420",
+      "name": "Tarzsa",
+      "count": 1
+    }
+  ]
 }

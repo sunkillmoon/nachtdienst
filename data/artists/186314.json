@@ -2,7 +2,18 @@
   "id": "186314",
   "name": "Spiritual Embassy",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2528225",
+      "title": "Norteños",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Transit",
+      "venue_id": "298204",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2528225"
+    }
+  ],
   "past": [
     {
       "id": "ra:2495644",

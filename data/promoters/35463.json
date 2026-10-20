@@ -3,28 +3,8 @@
   "name": "UNDRGRND Amsterdam",
   "upcoming": [
     {
-      "id": "ra:2497114",
-      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
-      "date": "2026-08-28",
-      "start": "2026-08-28T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497114"
-    },
-    {
-      "id": "ra:2497101",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-30",
-      "start": "2026-08-30T23:00+02:00",
-      "venue": "John Doe",
-      "venue_id": "109140",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2497101"
-    },
-    {
       "id": "ra:2508072",
-      "title": "ADE 2026 Opening - JHONATAN OSPINA x House Mag Showcase",
+      "title": "ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA",
       "date": "2026-10-21",
       "start": "2026-10-21T23:00+02:00",
       "venue": "John Doe",
@@ -51,9 +31,39 @@
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2487589"
+    },
+    {
+      "id": "ra:2562416",
+      "title": "UNDRGRND & Akyse present Trueform · Halloween Night Edition",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562416"
     }
   ],
   "past": [
+    {
+      "id": "ra:2497101",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497101"
+    },
+    {
+      "id": "ra:2497114",
+      "title": "RAVEGROUND - Hard Techno & Hard Bounce",
+      "date": "2026-08-28",
+      "start": "2026-08-28T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497114"
+    },
     {
       "id": "ra:2496841",
       "title": "No Sundays Without Techno",
@@ -169,22 +179,7 @@
     {
       "id": "66028",
       "name": "Alex Sharp",
-      "count": 12
-    },
-    {
-      "id": "106568",
-      "name": "Paroxyzm",
-      "count": 1
-    },
-    {
-      "id": "177139",
-      "name": "SASHE (2)",
-      "count": 1
-    },
-    {
-      "id": "109360",
-      "name": "saskia laval",
-      "count": 1
+      "count": 14
     },
     {
       "id": "117500",
@@ -194,6 +189,16 @@
     {
       "id": "167661",
       "name": "ARTISTIKK",
+      "count": 1
+    },
+    {
+      "id": "175954",
+      "name": "Ella De Vuono",
+      "count": 1
+    },
+    {
+      "id": "3802",
+      "name": "Leo Janeiro",
       "count": 1
     },
     {
@@ -214,6 +219,11 @@
     {
       "id": "100260",
       "name": "Darksidevinyl",
+      "count": 1
+    },
+    {
+      "id": "176945",
+      "name": "Slimflo",
       "count": 1
     }
   ]

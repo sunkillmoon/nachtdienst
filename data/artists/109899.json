@@ -4,6 +4,18 @@
   "socials": {},
   "upcoming": [
     {
+      "id": "ra:2531051",
+      "title": "The Early Shift",
+      "date": "2026-10-21",
+      "start": "2026-10-21T18:00+02:00",
+      "venue": "Toekomstmuziek",
+      "venue_id": "199902",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2531051"
+    }
+  ],
+  "past": [
+    {
       "id": "ra:2515640",
       "title": "Boyos Wonderland",
       "date": "2026-09-18",
@@ -12,9 +24,7 @@
       "venue_id": "38637",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2515640"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2433142",
       "title": "Boyos Wonderland & INI Movement present SUMMER JAM",

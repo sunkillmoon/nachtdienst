@@ -4,14 +4,26 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2516918",
-      "title": "Frenzy x shockwerk",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2490674",
+      "title": "Vault Sessions & Friends ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "De Fik Garden",
+      "venue_id": "269324",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516918"
+      "url": "https://ra.co/events/2490674"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2467439",
+      "title": "New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl",
+      "date": "2026-10-03",
+      "start": "2026-10-03T20:00+02:00",
+      "venue": "ISOamsterdam",
+      "venue_id": "160195",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2467439"
     },
     {
       "id": "ra:2514445",
@@ -24,25 +36,14 @@
       "url": "https://ra.co/events/2514445"
     },
     {
-      "id": "ra:2467439",
-      "title": "New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl",
-      "date": "2026-10-03",
-      "start": "2026-10-03T20:00+02:00",
-      "venue": "ISOamsterdam",
-      "venue_id": "160195",
+      "id": "ra:2516918",
+      "title": "Frenzy x shockwerk",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2467439"
-    },
-    {
-      "id": "ra:2490674",
-      "title": "Vault Sessions & Friends ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T12:00+02:00",
-      "venue": "De Fik Garden",
-      "venue_id": "269324",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2490674"
+      "url": "https://ra.co/events/2516918"
     }
-  ],
-  "past": []
+  ]
 }

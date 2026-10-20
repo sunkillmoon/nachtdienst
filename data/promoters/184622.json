@@ -1,7 +1,48 @@
 {
   "id": "184622",
   "name": "Canapa-x ",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2542112",
+      "title": "PWCC TAKEOVER X ADE",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542112"
+    },
+    {
+      "id": "ra:2538004",
+      "title": "Canapa-x invite Discosabotage records",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2538004"
+    },
+    {
+      "id": "ra:2550900",
+      "title": "CrunchyHouse ADE Gathering '26",
+      "date": "2026-10-22",
+      "start": "2026-10-23T06:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2550900"
+    },
+    {
+      "id": "ra:2537574",
+      "title": "Follow The Cat Recordings ADE Showcase",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Meet Berlage",
+      "venue_id": "258169",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537574"
+    }
+  ],
   "past": [
     {
       "id": "ra:2501054",
@@ -26,28 +67,53 @@
   ],
   "top_artists": [
     {
-      "id": "28680",
-      "name": "Matteo Gatti",
-      "count": 1
-    },
-    {
-      "id": "129482",
-      "name": "ADEZ",
-      "count": 1
-    },
-    {
-      "id": "180501",
-      "name": "Gabriele Peveri",
-      "count": 1
-    },
-    {
       "id": "96858",
       "name": "GENE",
-      "count": 1
+      "count": 2
     },
     {
       "id": "111488",
       "name": "Rolmar",
+      "count": 2
+    },
+    {
+      "id": "28680",
+      "name": "Matteo Gatti",
+      "count": 2
+    },
+    {
+      "id": "180501",
+      "name": "Gabriele Peveri",
+      "count": 2
+    },
+    {
+      "id": "39963",
+      "name": "Giammarco Orsini",
+      "count": 1
+    },
+    {
+      "id": "18369",
+      "name": "Manoman",
+      "count": 1
+    },
+    {
+      "id": "68080",
+      "name": "Mariiin",
+      "count": 1
+    },
+    {
+      "id": "153812",
+      "name": "Luval",
+      "count": 1
+    },
+    {
+      "id": "178531",
+      "name": "Runy",
+      "count": 1
+    },
+    {
+      "id": "154325",
+      "name": "Miko",
       "count": 1
     }
   ]

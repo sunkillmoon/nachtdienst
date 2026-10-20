@@ -1,0 +1,28 @@
+{
+  "id": "178291",
+  "name": "SkyBrothers",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2481219",
+      "title": "ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy",
+      "date": "2026-10-23",
+      "start": "2026-10-23T22:00+02:00",
+      "venue": "Badhuis Amsterdam",
+      "venue_id": "276109",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2481219"
+    },
+    {
+      "id": "ra:2532463",
+      "title": "House Legends x Future Icons presented by DJ Talent Room",
+      "date": "2026-10-24",
+      "start": "2026-10-24T12:00+02:00",
+      "venue": "Arca Bar @ Art'otel Amsterdam",
+      "venue_id": "302189",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2532463"
+    }
+  ],
+  "past": []
+}

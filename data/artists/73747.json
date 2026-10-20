@@ -2,7 +2,8 @@
   "id": "73747",
   "name": "Deeparture",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2471398",
       "title": "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Deeparture",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2471398"
     }
-  ],
-  "past": []
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "118465",
+  "name": "Vlad Starque",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2529940",
+      "title": "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies",
+      "date": "2026-10-22",
+      "start": "2026-10-22T14:00+02:00",
+      "venue": "Nicholas Groente & Fruit",
+      "venue_id": "276381",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2529940"
+    },
+    {
+      "id": "ra:2482781",
+      "title": "Soundvision presents … Expmental ADE Networking",
+      "date": "2026-10-24",
+      "start": "2026-10-24T18:00+02:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2482781"
+    }
+  ],
+  "past": []
+}

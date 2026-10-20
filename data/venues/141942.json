@@ -4,7 +4,58 @@
   "area": "Amsterdam",
   "lat": 52.357454,
   "lng": 4.899154,
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2521472",
+      "title": "The return of Solo Ravers Invite",
+      "date": "2026-10-21",
+      "start": "2026-10-21T21:30+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2521472"
+    },
+    {
+      "id": "ra:2542885",
+      "title": "Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special)",
+      "date": "2026-10-22",
+      "start": "2026-10-22T22:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2542885"
+    },
+    {
+      "id": "ra:2553566",
+      "title": "Koffierave x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T14:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2553566"
+    },
+    {
+      "id": "ra:2551155",
+      "title": "Disco Saves The Day presents: MiNNA & Laura Meester",
+      "date": "2026-10-24",
+      "start": "2026-10-24T21:00+02:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551155"
+    },
+    {
+      "id": "ra:2557744",
+      "title": "Halloween x Mean Moves",
+      "date": "2026-10-31",
+      "start": "2026-10-31T22:00+01:00",
+      "venue": "Huis van Iemand Anders",
+      "venue_id": "141942",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2557744"
+    }
+  ],
   "past": [
     {
       "id": "ra:2518493",

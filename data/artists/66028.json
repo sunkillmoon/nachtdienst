@@ -4,24 +4,14 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2497101",
-      "title": "No Sundays Without Techno",
-      "date": "2026-08-30",
-      "start": "2026-08-30T23:00+02:00",
+      "id": "ra:2508072",
+      "title": "ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
       "venue": "John Doe",
       "venue_id": "109140",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2497101"
-    },
-    {
-      "id": "ra:2462689",
-      "title": "Shermanology - Lucien Foort | Soft Landing",
-      "date": "2026-09-06",
-      "start": "2026-09-06T15:00+02:00",
-      "venue": "WestWeelde",
-      "venue_id": "264128",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2462689"
+      "url": "https://ra.co/events/2508072"
     },
     {
       "id": "ra:2487589",
@@ -35,16 +25,46 @@
     },
     {
       "id": "ra:2399776",
-      "title": "ENDLESS UNDRGRND x ADE: Lino Fuso Marie Vaunt Girigia Angiulí Juliet Fox",
+      "title": "ENDLESS x ADE: Lino Fuso, Marie Vaunt, Giorgia Angiulí, Juliet Fox",
       "date": "2026-10-25",
       "start": "2026-10-25T20:00+01:00",
       "venue": "John Doe",
       "venue_id": "109140",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2399776"
+    },
+    {
+      "id": "ra:2562416",
+      "title": "UNDRGRND & Akyse present Trueform · Halloween Night Edition",
+      "date": "2026-10-30",
+      "start": "2026-10-30T23:00+01:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2562416"
     }
   ],
   "past": [
+    {
+      "id": "ra:2462689",
+      "title": "Shermanology - Lucien Foort | Soft Landing",
+      "date": "2026-09-06",
+      "start": "2026-09-06T15:00+02:00",
+      "venue": "WestWeelde",
+      "venue_id": "264128",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2462689"
+    },
+    {
+      "id": "ra:2497101",
+      "title": "No Sundays Without Techno",
+      "date": "2026-08-30",
+      "start": "2026-08-30T23:00+02:00",
+      "venue": "John Doe",
+      "venue_id": "109140",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2497101"
+    },
     {
       "id": "ra:2496841",
       "title": "No Sundays Without Techno",

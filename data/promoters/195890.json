@@ -1,0 +1,59 @@
+{
+  "id": "195890",
+  "name": "manogeron",
+  "upcoming": [
+    {
+      "id": "ra:2552385",
+      "title": "Last Legendary Celebration of a Lifetime",
+      "date": "2026-10-25",
+      "start": "2026-10-25T11:00+01:00",
+      "venue": "THE OTHER SIDE",
+      "venue_id": "202249",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2552385"
+    }
+  ],
+  "past": [],
+  "top_artists": [
+    {
+      "id": "740",
+      "name": "Gui Boratto",
+      "count": 1
+    },
+    {
+      "id": "9451",
+      "name": "Guti",
+      "count": 1
+    },
+    {
+      "id": "2133",
+      "name": "Kalabrese",
+      "count": 1
+    },
+    {
+      "id": "27262",
+      "name": "Tristan da Cunha",
+      "count": 1
+    },
+    {
+      "id": "3677",
+      "name": "Melon",
+      "count": 1
+    },
+    {
+      "id": "38951",
+      "name": "Volkan Akin",
+      "count": 1
+    },
+    {
+      "id": "11634",
+      "name": "Jonny Rock",
+      "count": 1
+    },
+    {
+      "id": "41471",
+      "name": "Paranoid London",
+      "count": 1
+    }
+  ]
+}

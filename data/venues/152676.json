@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.263101,
   "lng": 6.896487,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2373930",
       "title": "Onder De Radar Festival 2026",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2373930"
     }
-  ],
-  "past": []
+  ]
 }

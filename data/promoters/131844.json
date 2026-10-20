@@ -1,7 +1,18 @@
 {
   "id": "131844",
   "name": "Dive Deep",
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2525141",
+      "title": "Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo",
+      "date": "2026-10-25",
+      "start": "2026-10-25T15:00+01:00",
+      "venue": "Oliva",
+      "venue_id": "179504",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2525141"
+    }
+  ],
   "past": [
     {
       "id": "ra:2456910",
@@ -16,23 +27,53 @@
   ],
   "top_artists": [
     {
-      "id": "99244",
-      "name": "Ertug Karakas",
-      "count": 1
-    },
-    {
-      "id": "125124",
-      "name": "Natx",
-      "count": 1
-    },
-    {
-      "id": "149688",
-      "name": "OSED",
-      "count": 1
-    },
-    {
       "id": "102124",
       "name": "Usatov",
+      "count": 2
+    },
+    {
+      "id": "188705",
+      "name": "AVALAN",
+      "count": 1
+    },
+    {
+      "id": "119220",
+      "name": "Corren Cavini",
+      "count": 1
+    },
+    {
+      "id": "98804",
+      "name": "Stylo",
+      "count": 1
+    },
+    {
+      "id": "164050",
+      "name": "Amethy",
+      "count": 1
+    },
+    {
+      "id": "124216",
+      "name": "FR3ADY",
+      "count": 1
+    },
+    {
+      "id": "165125",
+      "name": "KARINSMATIC",
+      "count": 1
+    },
+    {
+      "id": "132073",
+      "name": "Patrick Krause",
+      "count": 1
+    },
+    {
+      "id": "173215",
+      "name": "Soofnic",
+      "count": 1
+    },
+    {
+      "id": "99244",
+      "name": "Ertug Karakas",
       "count": 1
     }
   ]

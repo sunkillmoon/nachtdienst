@@ -2,7 +2,18 @@
   "id": "103691",
   "name": "Mac Declos",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2536871",
+      "title": "Frenzy x RAW ADE",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2536871"
+    }
+  ],
   "past": [
     {
       "id": "ra:2488592",

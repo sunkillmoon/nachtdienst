@@ -2,7 +2,8 @@
   "id": "42033",
   "name": "Theo Kottis",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2500899",
       "title": "Doka Studio with De Sluwe Vos B2B Theo Kottis",
@@ -12,9 +13,7 @@
       "venue_id": "81540",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2500899"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2476133",
       "title": "Lauren Lo Sung, Luis Ripa, Theo Kottis",

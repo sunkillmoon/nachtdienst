@@ -2,7 +2,18 @@
   "id": "176932",
   "name": "AEZARYA",
   "socials": {},
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "ra:2524480",
+      "title": "RAVING CHARLIE: Hard Techno / Rave [ADE Special]",
+      "date": "2026-10-21",
+      "start": "2026-10-21T22:00+02:00",
+      "venue": "De Sering",
+      "venue_id": "205208",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2524480"
+    }
+  ],
   "past": [
     {
       "id": "ra:2422946",

@@ -1,0 +1,20 @@
+{
+  "id": "84187",
+  "name": "Feijoa",
+  "area": "Amsterdam",
+  "lat": 52.365984,
+  "lng": 4.8933,
+  "upcoming": [
+    {
+      "id": "ra:2559990",
+      "title": "Indiskret Berlin ADE Showacase",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00+02:00",
+      "venue": "Feijoa",
+      "venue_id": "84187",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559990"
+    }
+  ],
+  "past": []
+}

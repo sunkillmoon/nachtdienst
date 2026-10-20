@@ -4,16 +4,6 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2496559",
-      "title": "Archie Hamilton, DXNBY, Jhobei",
-      "date": "2026-09-26",
-      "start": "2026-09-26T23:00+02:00",
-      "venue": "Shelter Amsterdam",
-      "venue_id": "124413",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2496559"
-    },
-    {
       "id": "ra:2502427",
       "title": "Audio Obscura ADE x Thusday House Night",
       "date": "2026-10-22",
@@ -35,7 +25,7 @@
     },
     {
       "id": "ra:2473469",
-      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax",
+      "title": "24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT",
       "date": "2026-10-24",
       "start": "2026-10-24T13:00+02:00",
       "venue": "Thuishaven",
@@ -44,5 +34,16 @@
       "url": "https://ra.co/events/2473469"
     }
   ],
-  "past": []
+  "past": [
+    {
+      "id": "ra:2496559",
+      "title": "Archie Hamilton, DXNBY, Jhobei",
+      "date": "2026-09-26",
+      "start": "2026-09-26T23:00+02:00",
+      "venue": "Shelter Amsterdam",
+      "venue_id": "124413",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2496559"
+    }
+  ]
 }

@@ -1,0 +1,70 @@
+{
+  "id": "301639",
+  "name": "Loods6",
+  "area": "Amsterdam",
+  "lat": 52.38,
+  "lng": 4.94,
+  "upcoming": [
+    {
+      "id": "ra:2530840",
+      "title": "Currents - Spatial Sound Performances & Experiments ",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2530840"
+    },
+    {
+      "id": "ra:2527209",
+      "title": "Currents - Configuration I - Rrose, Liza Kuzyakova, Hugo Lioret, Andreas Tegnander",
+      "date": "2026-10-22",
+      "start": "2026-10-22T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527209"
+    },
+    {
+      "id": "ra:2527297",
+      "title": "Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG ",
+      "date": "2026-10-23",
+      "start": "2026-10-23T19:30+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527297"
+    },
+    {
+      "id": "ra:2527366",
+      "title": "Currents - Ambrio & Spatial Sound Masterclasses",
+      "date": "2026-10-24",
+      "start": "2026-10-24T13:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527366"
+    },
+    {
+      "id": "ra:2527306",
+      "title": "Currents - Configuration III - nthng, Loek Frey, Casimir Geelhoed",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:00+02:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527306"
+    },
+    {
+      "id": "ra:2527316",
+      "title": "Currents - Gathering Sounds: Spatial Sound Meetup",
+      "date": "2026-10-25",
+      "start": "2026-10-25T13:00+01:00",
+      "venue": "Loods6",
+      "venue_id": "301639",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2527316"
+    }
+  ],
+  "past": []
+}

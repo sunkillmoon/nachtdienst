@@ -4,7 +4,8 @@
   "area": "All",
   "lat": 52.382341,
   "lng": 4.628179,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2393987",
       "title": "Daft Funk Live in Haarlem",
@@ -15,6 +16,5 @@
       "area": "All",
       "url": "https://ra.co/events/2393987"
     }
-  ],
-  "past": []
+  ]
 }

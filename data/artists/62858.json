@@ -4,15 +4,17 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2514599",
-      "title": "RADION invites Waxxx Society x RIOT",
-      "date": "2026-09-18",
-      "start": "2026-09-18T23:00+02:00",
-      "venue": "RADION",
-      "venue_id": "91202",
+      "id": "ra:2516705",
+      "title": "DAYCARE x ADE",
+      "date": "2026-10-24",
+      "start": "2026-10-24T23:00+02:00",
+      "venue": "BRET",
+      "venue_id": "108549",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2514599"
-    },
+      "url": "https://ra.co/events/2516705"
+    }
+  ],
+  "past": [
     {
       "id": "ra:2514444",
       "title": "RADION invites WAXXX x RIOT",
@@ -24,15 +26,14 @@
       "url": "https://ra.co/events/2514444"
     },
     {
-      "id": "ra:2516705",
-      "title": "DAYCARE - ADE",
-      "date": "2026-10-24",
-      "start": "2026-10-24T23:00+02:00",
-      "venue": "BRET",
-      "venue_id": "108549",
+      "id": "ra:2514599",
+      "title": "RADION invites Waxxx Society x RIOT",
+      "date": "2026-09-18",
+      "start": "2026-09-18T23:00+02:00",
+      "venue": "RADION",
+      "venue_id": "91202",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2516705"
+      "url": "https://ra.co/events/2514599"
     }
-  ],
-  "past": []
+  ]
 }

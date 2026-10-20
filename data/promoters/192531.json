@@ -1,7 +1,8 @@
 {
   "id": "192531",
   "name": "A Day At ",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2517573",
       "title": "NOXA x ADATB presents: Francis Mercier",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2517573"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "93180",

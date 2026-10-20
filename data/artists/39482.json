@@ -1,0 +1,28 @@
+{
+  "id": "39482",
+  "name": "Mike Lachman",
+  "socials": {},
+  "upcoming": [
+    {
+      "id": "ra:2559075",
+      "title": "AMW ADE 24/5 DJ Marathon 2026 (DAY 4)",
+      "date": "2026-10-23",
+      "start": "2026-10-24T00:00+02:00",
+      "venue": "Amsterdams Most Wanted",
+      "venue_id": "198243",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2559075"
+    },
+    {
+      "id": "ra:2551524",
+      "title": "True House Tribute to DJ Romain",
+      "date": "2026-10-25",
+      "start": "2026-10-25T17:00+01:00",
+      "venue": "Blend XL",
+      "venue_id": "204369",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2551524"
+    }
+  ],
+  "past": []
+}

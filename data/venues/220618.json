@@ -4,7 +4,8 @@
   "area": "Eindhoven",
   "lat": 51,
   "lng": 5,
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2508737",
       "title": "STOOK - Eindhoven's Biggest Blockparty",
@@ -14,9 +15,7 @@
       "venue_id": "220618",
       "area": "Eindhoven",
       "url": "https://ra.co/events/2508737"
-    }
-  ],
-  "past": [
+    },
     {
       "id": "ra:2483853",
       "title": "STOOK - Eindhoven's Biggest Blockparty",

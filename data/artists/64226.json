@@ -2,7 +2,8 @@
   "id": "64226",
   "name": "KC The Funkaholic",
   "socials": {},
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2514571",
       "title": "Digging Deep into House",
@@ -13,6 +14,5 @@
       "area": "Amsterdam",
       "url": "https://ra.co/events/2514571"
     }
-  ],
-  "past": []
+  ]
 }

@@ -4,14 +4,46 @@
   "socials": {},
   "upcoming": [
     {
-      "id": "ra:2330627",
-      "title": "Into the Woods 2026",
-      "date": "2026-09-18",
-      "start": "2026-09-18T12:00+02:00",
-      "venue": "Openluchttheater Amersfoort",
-      "venue_id": "128577",
+      "id": "ra:2493047",
+      "title": "Disturbia x Soundcora - ADE 2026",
+      "date": "2026-10-23",
+      "start": "2026-10-23T23:00+02:00",
+      "venue": "TILLATEC",
+      "venue_id": "232813",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2330627"
+      "url": "https://ra.co/events/2493047"
+    },
+    {
+      "id": "ra:2539771",
+      "title": "Primal Instinct with Chlär & Friends",
+      "date": "2026-10-24",
+      "start": "2026-10-24T15:00+02:00",
+      "venue": "Café Katoen",
+      "venue_id": "124046",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2539771"
+    },
+    {
+      "id": "ra:2473398",
+      "title": "Intercell Bajes ADE Closing",
+      "date": "2026-10-25",
+      "start": "2026-10-25T23:00+01:00",
+      "venue": "Bajes Amsterdam",
+      "venue_id": "242574",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473398"
+    }
+  ],
+  "past": [
+    {
+      "id": "ra:2513257",
+      "title": "hito draait om",
+      "date": "2026-10-04",
+      "start": "2026-10-04T15:00+02:00",
+      "venue": "Hito Scheveningen",
+      "venue_id": "277782",
+      "area": "The Hague",
+      "url": "https://ra.co/events/2513257"
     },
     {
       "id": "ra:2452089",
@@ -24,27 +56,15 @@
       "url": "https://ra.co/events/2452089"
     },
     {
-      "id": "ra:2513257",
-      "title": "hito draait om",
-      "date": "2026-10-04",
-      "start": "2026-10-04T15:00+02:00",
-      "venue": "Hito Scheveningen",
-      "venue_id": "277782",
-      "area": "The Hague",
-      "url": "https://ra.co/events/2513257"
-    },
-    {
-      "id": "ra:2493047",
-      "title": "Disturbia x Soundcora - ADE 2026",
-      "date": "2026-10-23",
-      "start": "2026-10-23T23:00+02:00",
-      "venue": "TILLATEC",
-      "venue_id": "232813",
+      "id": "ra:2330627",
+      "title": "Into the Woods 2026",
+      "date": "2026-09-18",
+      "start": "2026-09-18T12:00+02:00",
+      "venue": "Openluchttheater Amersfoort",
+      "venue_id": "128577",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2493047"
-    }
-  ],
-  "past": [
+      "url": "https://ra.co/events/2330627"
+    },
     {
       "id": "ra:2480215",
       "title": "ELBEREC showcase w/ Brian Fasano & Valody b2b Vinz Sosa",

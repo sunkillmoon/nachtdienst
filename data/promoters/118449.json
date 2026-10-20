@@ -1,7 +1,8 @@
 {
   "id": "118449",
   "name": "maalstroom",
-  "upcoming": [
+  "upcoming": [],
+  "past": [
     {
       "id": "ra:2479803",
       "title": "maalstroom - Open Air",
@@ -13,7 +14,6 @@
       "url": "https://ra.co/events/2479803"
     }
   ],
-  "past": [],
   "top_artists": [
     {
       "id": "97069",

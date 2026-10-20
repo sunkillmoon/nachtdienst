@@ -1,18 +1,8 @@
 {
   "id": "62077",
-  "name": "Chris Stassy",
+  "name": "CHRIS STASSY",
   "socials": {},
   "upcoming": [
-    {
-      "id": "ra:2329764",
-      "title": "Audio Obscura Festival [SOLD OUT]",
-      "date": "2026-08-29",
-      "start": "2026-08-29T12:00+02:00",
-      "venue": "Van Nelle Fabriek",
-      "venue_id": "124881",
-      "area": "Rotterdam",
-      "url": "https://ra.co/events/2329764"
-    },
     {
       "id": "ra:2463250",
       "title": "No Art ADE Festival 2026",
@@ -25,6 +15,16 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2329764",
+      "title": "Audio Obscura Festival [SOLD OUT]",
+      "date": "2026-08-29",
+      "start": "2026-08-29T12:00+02:00",
+      "venue": "Van Nelle Fabriek",
+      "venue_id": "124881",
+      "area": "Rotterdam",
+      "url": "https://ra.co/events/2329764"
+    },
     {
       "id": "ra:2376005",
       "title": "Chris Stussy - Lost, Found & Forgotten... Album Tour (10HRS SET)",

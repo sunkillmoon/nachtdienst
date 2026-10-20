@@ -6,166 +6,6 @@
   "lng": 4.906672,
   "upcoming": [
     {
-      "id": "ra:2517478",
-      "title": "BUTZEMAN'S DEN",
-      "date": "2026-08-28",
-      "start": "2026-08-28T19:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517478"
-    },
-    {
-      "id": "ra:2473131",
-      "title": "Lamb",
-      "date": "2026-09-01",
-      "start": "2026-09-01T19:30+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473131"
-    },
-    {
-      "id": "ra:2473133",
-      "title": "Zoë Low",
-      "date": "2026-09-08",
-      "start": "2026-09-08T19:30+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473133"
-    },
-    {
-      "id": "ra:2517488",
-      "title": "Concrete Vehicles",
-      "date": "2026-09-15",
-      "start": "2026-09-15T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517488"
-    },
-    {
-      "id": "ra:2517491",
-      "title": "Detente Group",
-      "date": "2026-09-17",
-      "start": "2026-09-17T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517491"
-    },
-    {
-      "id": "ra:2517495",
-      "title": "Too Martian",
-      "date": "2026-09-18",
-      "start": "2026-09-18T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517495"
-    },
-    {
-      "id": "ra:2517498",
-      "title": "GB",
-      "date": "2026-09-24",
-      "start": "2026-09-24T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517498"
-    },
-    {
-      "id": "ra:2517499",
-      "title": "HALLOWS + Orus Boris + Grauzone DJ team",
-      "date": "2026-09-25",
-      "start": "2026-09-25T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517499"
-    },
-    {
-      "id": "ra:2489851",
-      "title": "Shadowfall Festival 2026",
-      "date": "2026-09-26",
-      "start": "2026-09-26T19:30+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2489851"
-    },
-    {
-      "id": "ra:2517501",
-      "title": "AFAR",
-      "date": "2026-09-30",
-      "start": "2026-09-30T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517501"
-    },
-    {
-      "id": "ra:2473141",
-      "title": "Deep Forest",
-      "date": "2026-10-06",
-      "start": "2026-10-06T19:30+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473141"
-    },
-    {
-      "id": "ra:2517503",
-      "title": "The Homesick",
-      "date": "2026-10-08",
-      "start": "2026-10-08T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517503"
-    },
-    {
-      "id": "ra:2517504",
-      "title": "Roomer",
-      "date": "2026-10-14",
-      "start": "2026-10-14T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517504"
-    },
-    {
-      "id": "ra:2445909",
-      "title": "Sergeant",
-      "date": "2026-10-17",
-      "start": "2026-10-17T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2445909"
-    },
-    {
-      "id": "ra:2473142",
-      "title": "Born at Midnite",
-      "date": "2026-10-18",
-      "start": "2026-10-18T19:30+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2473142"
-    },
-    {
-      "id": "ra:2517507",
-      "title": "$quib + Chris Olsen",
-      "date": "2026-10-19",
-      "start": "2026-10-19T20:00+02:00",
-      "venue": "Cinetol",
-      "venue_id": "157325",
-      "area": "Amsterdam",
-      "url": "https://ra.co/events/2517507"
-    },
-    {
       "id": "ra:2473145",
       "title": "Niels Orens support: echofarmer",
       "date": "2026-10-22",
@@ -176,14 +16,44 @@
       "url": "https://ra.co/events/2473145"
     },
     {
-      "id": "ra:2473147",
-      "title": "Velocity Made Good",
-      "date": "2026-10-28",
-      "start": "2026-10-28T20:00+01:00",
+      "id": "ra:2553533",
+      "title": "PULSO ADE SHOWCASE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T15:00+02:00",
       "venue": "Cinetol",
       "venue_id": "157325",
       "area": "Amsterdam",
-      "url": "https://ra.co/events/2473147"
+      "url": "https://ra.co/events/2553533"
+    },
+    {
+      "id": "ra:2543037",
+      "title": "Warhaus - i.s.m paradiso",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2543037"
+    },
+    {
+      "id": "ra:2547093",
+      "title": "Warhaus - Ha Ha Heartbeats - ADE",
+      "date": "2026-10-23",
+      "start": "2026-10-23T20:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2547093"
+    },
+    {
+      "id": "ra:2537649",
+      "title": "Dublon (ADE)",
+      "date": "2026-10-24",
+      "start": "2026-10-24T20:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2537649"
     },
     {
       "id": "ra:2445911",
@@ -194,6 +64,16 @@
       "venue_id": "157325",
       "area": "Amsterdam",
       "url": "https://ra.co/events/2445911"
+    },
+    {
+      "id": "ra:2473147",
+      "title": "Velocity Made Good",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:00+01:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473147"
     },
     {
       "id": "ra:2517508",
@@ -267,6 +147,166 @@
     }
   ],
   "past": [
+    {
+      "id": "ra:2517507",
+      "title": "$quib + Chris Olsen",
+      "date": "2026-10-19",
+      "start": "2026-10-19T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517507"
+    },
+    {
+      "id": "ra:2473142",
+      "title": "Born at Midnite",
+      "date": "2026-10-18",
+      "start": "2026-10-18T19:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473142"
+    },
+    {
+      "id": "ra:2445909",
+      "title": "Sergeant",
+      "date": "2026-10-17",
+      "start": "2026-10-17T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2445909"
+    },
+    {
+      "id": "ra:2517504",
+      "title": "Roomer",
+      "date": "2026-10-14",
+      "start": "2026-10-14T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517504"
+    },
+    {
+      "id": "ra:2517503",
+      "title": "The Homesick",
+      "date": "2026-10-08",
+      "start": "2026-10-08T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517503"
+    },
+    {
+      "id": "ra:2473141",
+      "title": "Deep Forest",
+      "date": "2026-10-06",
+      "start": "2026-10-06T19:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473141"
+    },
+    {
+      "id": "ra:2517501",
+      "title": "AFAR",
+      "date": "2026-09-30",
+      "start": "2026-09-30T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517501"
+    },
+    {
+      "id": "ra:2489851",
+      "title": "Shadowfall Festival 2026",
+      "date": "2026-09-26",
+      "start": "2026-09-26T19:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2489851"
+    },
+    {
+      "id": "ra:2517499",
+      "title": "HALLOWS + Orus Boris + Grauzone DJ team",
+      "date": "2026-09-25",
+      "start": "2026-09-25T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517499"
+    },
+    {
+      "id": "ra:2517498",
+      "title": "GB",
+      "date": "2026-09-24",
+      "start": "2026-09-24T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517498"
+    },
+    {
+      "id": "ra:2517495",
+      "title": "Too Martian",
+      "date": "2026-09-18",
+      "start": "2026-09-18T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517495"
+    },
+    {
+      "id": "ra:2517491",
+      "title": "Detente Group",
+      "date": "2026-09-17",
+      "start": "2026-09-17T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517491"
+    },
+    {
+      "id": "ra:2517488",
+      "title": "Concrete Vehicles",
+      "date": "2026-09-15",
+      "start": "2026-09-15T20:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517488"
+    },
+    {
+      "id": "ra:2473133",
+      "title": "Zoë Low",
+      "date": "2026-09-08",
+      "start": "2026-09-08T19:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473133"
+    },
+    {
+      "id": "ra:2473131",
+      "title": "Lamb",
+      "date": "2026-09-01",
+      "start": "2026-09-01T19:30+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2473131"
+    },
+    {
+      "id": "ra:2517478",
+      "title": "BUTZEMAN'S DEN",
+      "date": "2026-08-28",
+      "start": "2026-08-28T19:00+02:00",
+      "venue": "Cinetol",
+      "venue_id": "157325",
+      "area": "Amsterdam",
+      "url": "https://ra.co/events/2517478"
+    },
     {
       "id": "ra:2473127",
       "title": "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra",
